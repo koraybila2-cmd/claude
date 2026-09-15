@@ -10,7 +10,17 @@
 - Çıkmış sorular: `title contains '<konu>' and (title contains 'sınav' or title contains 'çıkmış' or title contains 'soru')` — anahtar kelimeleri tek tek de deneyin, gerçek başlıklandırma kullanıcıdan kullanıcıya değişir.
 - Belirli klasörden: `parentId = '<folderId>'` (klasör linki/ID'si kullanıcıdan istenebilir; linkteki `/folders/<ID>` kısmı folderId'dir).
 
-Klasör/isim belirsizse `list_recent_files` ile keşif yapılabilir. Bulunan dosya listesini kullanıcıya kısaca özetle; eşleşme net değilse (çok fazla alakasız sonuç) hangi dosyaların dahil edileceğini sor, net ise onay beklemeden devam et.
+Klasör/isim belirsizse `list_recent_files` ile keşif yapılabilir.
+
+### Arama sonuçları güvenilmez — her seferinde doğrula
+
+Test edildi ve doğrulandı: `search_files` (parentId, title, hatta fullText ile) gerçekten var olan dosya/klasörleri **sessizce atlayabiliyor** — bu sadece yeni yüklenmiş dosyalarda değil, günlerdir değişmeyen, sabit klasörlerde de gözlendi. `fullText contains` sorguları bazı oturumlarda doğrudan hata da verebiliyor ("Operation is not implemented, or supported, or enabled"). Yani bu bir indeks gecikmesi değil, aramanın kendisinin eksik/güvenilmez olabileceği bir durum.
+
+Bu yüzden:
+
+1. **Bulduğun dosya listesini asla sessizce kesin kabul etme.** Taramadan sonra kullanıcıya kısa bir liste göster ("şu dosyaları buldum: ...") ve "eksik olan var mı?" diye sor — özellikle paylaşımlı/aktif güncellenen sınıf klasörlerinde. Liste açıkça eksiksiz görünse bile (tek dosyalı küçük bir klasör gibi) bu adımı atlama.
+2. **Kullanıcı bir eksiklik bildirirse yeniden arama yapma** — arama zaten güvenilmez olduğu için tekrar denemek genelde aynı sonucu verir. Bunun yerine kullanıcıdan eksik dosyanın/klasörün Drive linkini iste ve `get_file_metadata` / `read_file_content` / `download_file_content` ile **doğrudan ID üzerinden** çek. Doğrudan ID erişimi arama indeksine bağımlı değildir ve şimdiye kadar güvenilir çalıştığı gözlendi.
+3. Bir klasörün ID'sini biliyorsan (linkten), içindeki dosyaları hem `parentId = '<id>'` sorgusuyla hem de kullanıcının kendi gözlemiyle çapraz kontrol et — ikisi çelişirse kullanıcının gördüğü doğru kabul edilmeli.
 
 ## 2. İçerik çıkarma (OCR dahil)
 

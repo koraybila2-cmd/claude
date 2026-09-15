@@ -1,43 +1,43 @@
-# Broadsheet Tasarım Sistemiyle Kitap Sayfası (Standart Format)
+# Broadsheet Tasarım Sistemiyle PDF Kitap (Standart Format)
 
-Bu, kullanıcının onayladığı **standart görsel çıktı biçimidir** — bundan sonra her ders notu bu şekilde üretilir. Kullanıcının daha önce elle yaptığı "son metni Claude Design'da kitap formatında dizayn ettirme" adımının otomatikleştirilmiş hâlidir.
+Bu, kullanıcının onayladığı **standart çıktı biçimidir**: Broadsheet'in görsel dilini (Source Serif 4, near-black metin/paper-white zemin, cyan + magenta spot renkler, çerçevesiz/boşlukla ayrılan düzen) taşıyan, gerçek bir **PDF dosyası**. Kullanıcı açıkça bir web linki/interaktif canvas istemedikçe HTML/Artifact linki DEĞİL, indirilebilir bir dosya üretilir.
 
-`../broadsheet-sablon/Main.dc.html` çalışan, yayınlanıp doğrulanmış gerçek bir örnektir (konu: Romatoloji — Aşırı Duyarlılık Reaksiyonları, PAÜTF Dönem 3 Modül 2). Yeni bir ders notu için bu dosyayı **şablon olarak kopyala**: `<helmet>` bloğunu (tasarım sistemi bağlantıları + `<style>` sınıfları) ve genel iskeleti aynen koru, `<div class="book-page">` içindeki başlık/bölüm/tablo/soru içeriğini yeni konuyla değiştir.
+`../broadsheet-pdf-sablon/kitap-sablonu.html` çalışan, PDF'e basılıp görsel olarak doğrulanmış gerçek bir örnektir (konu: Romatoloji — Aşırı Duyarlılık Reaksiyonları, PAÜTF Dönem 3 Modül 2). Yeni bir ders notu için bu dosyayı **şablon olarak kopyala**: `<head>` içindeki `<style>` bloğunu ve genel iskeleti aynen koru, `<main class="book-page">` içindeki başlık/bölüm/tablo/soru içeriğini yeni konuyla değiştir.
 
-## Ön koşul: Broadsheet tasarım sistemi bağlı olmalı
+## Neden Claude Design canvas'ı değil de bu
 
-Bu şablon `_ds/broadsheet-f4e082ee-1adb-404a-b470-6741e6a9a194/` yoluna bağımlıdır — bu yol, kullanıcının sohbete eklediği "Broadsheet (design system)" attachment'ı sayesinde çalışır. Bu attachment mevcut değilse (farklı/yeni bir oturumda tekrar eklenmemişse) kullanıcıdan Broadsheet tasarım sistemini tekrar eklemesini iste; o ana kadar **references/kitap-uretimi.md** içindeki Word/PDF akışına geç.
+Daha önce aynı içerik Claude Design'ın DC/canvas sistemiyle (`../broadsheet-sablon/`) yayınlanmıştı, ama o yol bir web linki üretiyor ve gerçek PDF'e çevirmek tarayıcıda elle tıklanan bir "Export PDF" adımı gerektiriyor — tam otomasyon hedefiyle çelişiyor. Bu yüzden standart yöntem, aynı görsel dili bağımsız bir HTML dosyasında yeniden üretip yerel Chromium (Playwright) ile doğrudan PDF'e basmak: hiçbir manuel adım yok, dosya doğrudan teslim edilebiliyor.
+
+**Not:** Buradaki renk/font değerleri Broadsheet'in belgelenen tokenlarının (aşağıdaki tablo) yerel bir yaklaşıklamasıdır — piksel-birebir aynısı değildir, çünkü tasarım sisteminin derlenmiş CSS paketi yalnızca Claude Design canvas'ı içinde çözülüyor. Kullanıcı pikselinde birebir/interaktif bir sürüm isterse `../broadsheet-sablon/` (design skill, DC canvas) kullan — o yol için references altında ayrı bir not yoktu, `design` skill'ini `Skill` tool ile çağırıp `broadsheet-sablon/Main.dc.html`'i şablon al.
+
+## Kullanılan Broadsheet tokenları (literal yaklaşıklama)
+
+| Token | Değer |
+|---|---|
+| `--color-bg` | `#f3f2f2` |
+| `--color-text` | `#201e1d` |
+| `--color-accent` (cyan) | `#0088b0` |
+| `--color-accent-2` (magenta) | `#d6006c` |
+| Font | Google Fonts "Source Serif 4" (heading + body) |
+
+Koyu tonlar (`-700`/`-900` gibi) `color-mix(in oklch, <renk>, black N%)` ile türetiliyor — bu, gerçek OKLCH ramp'ının yaklaşık bir taklidi.
 
 ## Kullanılan sınıflar (sabit tut, yeniden icat etme)
 
-| Sınıf | Ne için |
-|---|---|
-| `.book-page` | Sayfa kapsayıcısı (max-width 780px, kenar boşlukları) |
-| `.book-kicker` | Üstte küçük, izlenimci etiket — ör. "PAÜTF · Dönem 3 · Modül 2 · \<ders adı\>" |
-| `.book-title` | H1, bölüm/konu başlığı |
-| `.book-byline` | İtalik kaynak satırı — ör. "Kaynak: \<hoca adı\> sunumu" |
-| `.book-section` | Her ana bölüm için sarmalayıcı — sadece boşlukla ayırır, çerçeve/çizgi yok |
-| `.book-h2` | Bölüm içi alt başlık |
-| `.book-p` / `.book-list` | Gövde metni / madde işaretli liste |
-| `.tag.tag-accent-2` + `.highlight-p` | "Sık karıştırılan / sık sorulan" vurgusu — **sadece bunun için** magenta kullan, başka hiçbir yerde |
-| `.table` | Bölüm özeti gibi tablo verileri |
-| `.qa-list` + `.card.elev-sm` (`.card-kicker`, `.card-title`, `.card-body`) | Bölüm sonu soru-cevap listesi |
-
-Broadsheet'in temel kuralı: gövde bölümlerini ayırmak için çerçeve/çizgi kullanma — sadece boşluk (whitespace). `.card` yalnızca gerçekten ayrık, listelenebilir öğeler (sorular) için kullanılır, düzen elemanı olarak değil.
-
-## Boyutlandırma (canvas.json)
-
-Tek artboard, `"print": "flow"` (kitap bölümü uzun, akan bir belge — sabit sayfa değil), genişlik `794` (A4 @ 96dpi — yazdırma/PDF dışa aktarımı için doğru ölçü). Yükseklik (`h`) içeriğe göre cömert tutulmalı: bu örnekte (7 bölüm + özet tablosu + 5 soru kartı) `5200` kullanıldı. Daha uzun bir ders notunda `h`'yi artır — taşma/kırpılma tek başarısızlık modudur; fazla yükseklik sadece sayfa arka planını boyar, zararsızdır.
+Aynı `.book-page`, `.book-kicker`, `.book-title`, `.book-byline`, `.book-section`, `.book-h2`, `.book-p`/`.book-list`, `.tag.tag-accent-2` + `.highlight-p` (sadece "sık karıştırılan/sorulan" vurgusu için), `.table`, `.qa-list` + `.card` (`.card-kicker`, `.card-title`, `.card-body`) sınıfları — bkz. `kitap-sablonu.html`'in `<style>` bloğu. Broadsheet kuralı aynen geçerli: gövde bölümlerini ayırmak için çerçeve/çizgi kullanma, sadece boşluk; `.card` yalnızca gerçekten ayrık, listelenebilir öğeler (sorular) için.
 
 ## Üretim adımları
 
-1. `broadsheet-sablon/Main.dc.html` dosyasını çalışma dizinine kopyala, `.book-page` içeriğini yeni konunun bölüm/tablo/soru içeriğiyle değiştir (SKILL.md'nin 2. adımında yazılan bölüm metinlerini buraya taşı).
-2. `design` skill'ini çağır (`Skill` tool, `skill: "design"`) — bu sana seed-canvas.mjs / payload.template.html konumunu ve güncel `contract` sürüm numarasını verir. Bunlar zamanla değişebilir; burada sabitlenmiş bir komut yerine skill'in o anki talimatına güven.
-3. `node <design-skill-base>/seed-canvas.mjs --template <design-skill-base>/payload.template.html --out <cikti>.html --title "<konu başlığı>" --artboard Main.dc.html --canvas canvas.json`
-4. `node <design-skill-base>/seed-canvas.mjs --check <cikti>.html` — `ok:` satırını doğrula.
-5. İlk yayınlamadan önce `artifact-capabilities` skill'ini çağırıp bu kullanıcının roster'ını öğren; `self` (artifact-publish) ve `downloads` listede ise `Artifact` tool ile `capabilities: {"self": {}, "downloads": {}}` ve design skill'in belirttiği `contract` değeriyle yayınla.
-6. Karmaşık/uzun bir bölümse, design skill'in kendi kuralı gereği yayınladıktan sonra çalışma dosyalarını (yayınlanan çıktıyı değil) arka planda bir ajanla veya kendin tekrar gözden geçir.
+1. `broadsheet-pdf-sablon/kitap-sablonu.html`'i çalışma dizinine kopyala, `<main class="book-page">` içeriğini yeni konunun bölüm/tablo/soru içeriğiyle değiştir (SKILL.md 2. adımda ve `anlatim-tarzi.md`'de tarif edilen yazım tarzıyla yazılan metni buraya taşı). `<title>` etiketini de güncelle.
+2. PDF'e bas:
+   ```bash
+   GLOBAL_NM=$(npm root -g)
+   NODE_PATH="$GLOBAL_NM" node .claude/skills/ders-kitabi/scripts/kitap_pdf_uret.js <konu>.html <konu>.pdf
+   ```
+   Script Playwright + yerel Chromium kullanır (`/opt/pw-browsers/chromium-*/chrome-linux/chrome` — bu ortamda önceden kurulu). `npm root -g` boş dönerse veya farklı bir ortamdaysan `playwright` paketinin kurulu olduğu yolu bul ve `NODE_PATH` ile ver; Chromium binary'si farklı bir sürüm/yoldaysa scriptin başındaki `CHROMIUM_PATH` ortam değişkenini o yola ayarla.
+3. **Doğrula:** `pdfinfo <konu>.pdf` ile sayfa sayısını kontrol et, `pdftoppm -jpeg -r 100 <konu>.pdf sayfa` ile en az ilk ve son sayfayı görsele çevirip Read tool ile göz gezdir — özellikle tabloların ve soru kartlarının doğru kırıldığını (sayfa ortasında bölünmediğini) kontrol et. `pdftoppm` ortamda yoksa `apt-get install -y poppler-utils` ile kurulabilir (bu ortamda sistem paketleri oturumlar arası kalıcı olmayabilir — her ihtiyaç anında tekrar kurmaktan çekinme).
+4. Üretilen PDF'i `SendUserFile` ile kullanıcıya gönder.
 
-## Not
+## Uzun ders notlarında dikkat
 
-Word/PDF çıktısı hâlâ isteniyorsa (ör. yazdırıp üzerine not almak için) **references/kitap-uretimi.md** kullanılabilir — ama varsayılan/standart çıktı budur, kullanıcı aksini belirtmedikçe bunu üret.
+`page.pdf()` her zaman tam A4 sayfalar üretir, DC canvas'taki gibi "frame yüksekliği" ayarına gerek yoktur — taşma/kırpılma riski yoktur, script kaç sayfa gerekiyorsa o kadar üretir. Yine de çok uzun bir bölümde `break-inside: avoid` kurallarının (tablo, kart, vurgu paragrafı) sayfa ortasında çirkin kesilmeleri önlediğini doğrulama adımında kontrol et.
