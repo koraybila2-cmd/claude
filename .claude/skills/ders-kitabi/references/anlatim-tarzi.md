@@ -19,6 +19,23 @@ Bir tıp öğrencisine tıp konularını öğreten ve sınavına hazırlayan bir
 - Nedensellik kur: sadece "ne" değil "neden" ve "nasıl" sorularını da cevapla; mekanizmaları birbirine bağla, ezbere değil anlamaya dayalı bir anlatım kur.
 - Konu çok kapsamlıysa mesaj sayısı/limit kaygısı güme — gerekirse birden fazla mesaja (kullanıcı 5'e kadar örnek verdi) bölerek anlat. HER mesajda aynı derinliği koru; sona doğru sığlaşma, özetlemeye kayma.
 
+## Kapsam — gerçekten her yönüyle
+
+"Sunum ve sorular sadece bağlam" kuralı bir alt sınır çizer, üst sınır çizmez. Amaç sunum+sınav kapsamını biraz aşmak değil, **konunun tamamını** kapsamaktır — bir tıp ders kitabının o konuya ayırdığı bölümü okuyunca ne öğreniyorsan onu. Bu, ne sunumda ne de çıkmış sorularda hiç geçmeyen ama konunun doğal bir parçası olan alt başlıkları da (mekanizma detayları, ilişkili tanı yöntemleri, tedavi ilkeleri, klasik ama sınavda çıkmamış örnekler, nomenklatür/tarihçe notları vb.) kapsar. Bunları da aynı açıklayıcı derinlikte yaz — "sınavda çıkmadı" bir konuyu kısa geçme veya atlama gerekçesi değildir. Her zaman en temel tanımlardan başlamak gerekmez (okuyucu tıp öğrencisi, sıfır bilgili değil), ama konunun HİÇBİR yönü es geçilmemeli.
+
+## Çıkmış soruları anlatıma entegre etme
+
+Bölüm sonu soru-cevap kısmı yeterli değildir — çıkmış sorulara anlatımın içinde de yer ver. Konuyu anlatırken tam olarak bir sorunun cevabının bulunduğu noktaya geldiğinde, parantez içinde kısaca değin (ör. "...bu yüzden en erken salınan mediyatör histamindir (2019 ve 2023-2024 sınavlarında bu soruldu, cevap: histamin)."). Bunu HER cümlede yapma ve sırf bir sorudan bahsetmiş olmak için anlatımı zorlama/konu dışına çıkma — sadece anlatımın zaten değindiği bir noktayla soru tam örtüştüğünde. Bu, anlatımı sınav notlarına çevirmeden, okuyucunun "bu zaten çıkmış" farkındalığını canlı tutar.
+
+## Bölüm sonu soru-cevap: doğrulama ve tam açıklama
+
+Çıkmış soruları olduğu gibi kopyalamadan önce doğruluğunu kontrol et — kaynak sınav kağıtlarındaki "doğru cevap" her zaman güvenilir olmayabilir (öğrenciler tarafından itiraz edilmiş, hatalı derlenmiş veya tartışmalı olabilir). Bunu sözlü olarak öne çıkarma ("bunu kontrol ettim, doğrudur" gibi doldurma cümleler kurma) ama sessizce doğrula:
+- Cevap tıbben doğruysa olduğu gibi kullan.
+- Kaynakta öğrencilerin itiraz ettiği/tartıştığı bir cevap varsa (ör. "öğrenciler X olması gerekir dedi") bunu gizleme — iki görüşü de kısaca, hangisinin neden daha savunulabilir olduğunu açıklayarak sun.
+- Resmi olmayan, öğrenci derlemesi bir kaynaktan gelen ve tıbben şüpheli/tutarsız görünen bir soru varsa (ör. sorunun kendisi ya da işaretlenen cevap açıkça yanlışsa) o soruyu sessizce soru havuzundan çıkar, kullanma.
+
+Her soru için sadece doğru şıkkı değil, **doğru şıkkın neden doğru olduğunu VE diğer her şıkkın neden yanlış olduğunu** ayrı ayrı, açıklayıcı biçimde yaz — kısa bir "cevap: X" değil, bir konu tekrarı/pekiştirme metni gibi. Öğrenci bu açıklamayı okuyunca sadece o soruyu değil, ilgili tüm ayrımı (ör. diğer şıklardaki hastalıkların/mekanizmaların neden farklı kategoriye girdiğini) tekrar etmiş olmalı.
+
 ## Bilimsel doğruluk
 
 Yazdığın her şeyin tıbbi olarak doğru olmasına özen göster — bu, hız veya kapsamdan daha önceliklidir. Emin olmadığın bir noktayı uydurmaktansa PubMed/Consensus MCP araçlarıyla doğrula (bkz. SKILL.md 2. adım).
