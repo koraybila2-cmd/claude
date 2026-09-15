@@ -37,15 +37,19 @@
   .tag-accent-2 { background: color-mix(in oklch, var(--color-accent-2) 14%, white); color: var(--color-accent-2-900); }
   .highlight-tag { margin-bottom: 8px; break-inside: avoid; }
   .highlight-p { font-size: 0.98rem; line-height: 1.65; color: var(--color-accent-2-900); margin: 0 0 12px 0; break-inside: avoid; }
-  table.table { width: 100%; border-collapse: collapse; font-size: 0.88rem; margin: 4px 0 16px 0; break-inside: avoid; }
+  .cite { font-style: italic; color: var(--color-neutral-700); }
+  table.table { width: 100%; border-collapse: collapse; font-size: 0.86rem; margin: 4px 0 16px 0; break-inside: avoid; }
   table.table th { text-align: left; font-family: var(--font-heading); font-weight: 700; border-bottom: 1.5px solid var(--color-text); padding: 6px 10px 6px 0; }
   table.table td { border-bottom: 1px solid color-mix(in oklch, var(--color-text) 15%, white); padding: 7px 10px 7px 0; vertical-align: top; }
-  .qa-list { display: flex; flex-direction: column; gap: 12px; margin-top: 14px; }
-  .card { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 14px 18px; break-inside: avoid; }
+  .qa-list { display: flex; flex-direction: column; gap: 14px; margin-top: 14px; }
+  .card { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 16px 20px; break-inside: avoid; }
   .card-kicker { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 4px; }
-  .card-title { font-family: var(--font-heading); font-weight: 700; font-size: 1rem; margin-bottom: 6px; }
-  .card-body { font-size: 0.95rem; line-height: 1.6; }
-  .card-source { font-size: 0.8rem; font-style: italic; color: var(--color-neutral-700); margin-top: 4px; }
+  .card-title { font-family: var(--font-heading); font-weight: 700; font-size: 1rem; margin-bottom: 8px; }
+  .card-body { font-size: 0.93rem; line-height: 1.6; }
+  .card-body p { margin: 0 0 8px 0; }
+  .card-body .opt-correct { color: var(--color-accent-700); font-weight: 700; }
+  .card-source { font-size: 0.8rem; font-style: italic; color: var(--color-neutral-700); margin-top: 8px; }
+  .card-dispute { font-size: 0.85rem; background: color-mix(in oklch, var(--color-accent-2) 8%, white); padding: 8px 12px; border-radius: 2px; margin-top: 8px; }
 </style>
 </head>
 <body>
@@ -53,71 +57,107 @@
 
   <p class="book-kicker">PAÜTF · Dönem 3 · Modül 2 · Romatoloji</p>
   <h1 class="book-title">Aşırı Duyarlılık (Hipersensitivite) Reaksiyonları</h1>
-  <p class="book-byline">Kaynak: Dr. Firdevs Ulutaş sunumu + D3 Blok 1 Modül 2 çıkmış sınavları (2018–2026, 7 dönem)</p>
+  <p class="book-byline">Kaynak: Dr. Firdevs Ulutaş sunumu + D3 Blok 1 Modül 2 çıkmış sınavları (2018–2026, 7 dönem, tamamı doğrulandı)</p>
 
   <div class="book-section">
-    <h2 class="book-h2">1. Bağışıklık Sisteminin Dengesi</h2>
+    <h2 class="book-h2">1. Bağışıklık Sisteminin Dengesi ve Hipersensitivitenin Tanımı</h2>
     <p class="book-p">Bağışıklık sistemi yalnızca mikropları öldürmekle görevli değildir; kime saldıracağına ve kime dokunmayacağına da karar vermesi gerekir. Bu kararda Th1–Th2 dengesi bir "denge terazisi" gibi çalışır: hangi yolun baskın olduğu, bağışıklık yanıtının tipini, etkinliğini ve doku üzerindeki olası patolojik sonuçlarını belirler. İnnate (doğal) bağışıklık hızlı ve antijene özgü olmayan ilk savunma hattıdır; adaptif bağışıklık ise T ve B hücreleri aracılığıyla antijene özgü, hafızalı bir yanıt geliştirir.</p>
-    <p class="book-p">Bağışıklık yanıtı, mikrobu etkisiz hale getirmek yerine kendi dokumuzda hasar oluşturuyorsa bu duruma <strong>hipersensitivite (aşırı duyarlılık)</strong> denir.</p>
+    <p class="book-p">Bağışıklık yanıtı, mikrobu etkisiz hale getirmek yerine kendi dokumuzda hasar oluşturuyorsa bu duruma <strong>hipersensitivite (aşırı duyarlılık)</strong> denir. Terim ilk kez 1963'te Philip Gell ve Robin Coombs tarafından dört ana mekanizmaya (Tip I–IV) ayrılmıştır; bu orijinal sınıflama hâlâ tüm tıp eğitiminin omurgasıdır. Aradan geçen 60 yılda immünoloji bilgisi derinleştikçe, özellikle Tip IV'ün kendi içinde tek bir mekanizma olmadığı anlaşılmış ve 1990'ların sonunda Werner Pichler tarafından Tip IVa–IVd alt sınıflaması eklenmiştir (bkz. Bölüm 6.3) — bu, "eski" bir konunun bile hâlâ genişleyen, sınavlarda güncelliğini koruyan bir alanı olduğunu gösterir.</p>
   </div>
 
   <div class="book-section">
     <h2 class="book-h2">2. Gell–Coombs Sınıflaması Ne Değildir?</h2>
     <span class="tag tag-accent-2 highlight-tag">SIK KARIŞTIRILAN NOKTA</span>
-    <p class="highlight-p">Gell–Coombs sınıflaması hastalıkları değil, <strong>hasar mekanizmasını</strong> sınıflandırır. "Bu hastalık Tip III'tür" demek yerine "bu lezyondaki baskın hasar mekanizması Tip III'tür" demek daha doğrudur — aynı hastalıkta birden fazla mekanizma birlikte rol oynayabilir.</p>
-    <p class="book-p">Dört tipin tamamının paylaştığı, sınavda tekrar tekrar sorulan bir ortak özellik var: <strong>hepsi için organizmanın söz konusu antijenle daha önceden karşılaşmış (sensitize olmuş) olması gerekir.</strong> Bir antijenle ilk karşılaşma hiçbir zaman hipersensitivite reaksiyonuna yol açmaz — reaksiyon her zaman ikinci veya sonraki karşılaşmada ortaya çıkar, çünkü hasarı oluşturan şey ilk karşılaşmada hazırlanmış olan antikor veya duyarlanmış T hücre havuzudur.</p>
+    <p class="highlight-p">Gell–Coombs sınıflaması hastalıkları değil, <strong>hasar mekanizmasını</strong> sınıflandırır. "Bu hastalık Tip III'tür" demek yerine "bu lezyondaki baskın hasar mekanizması Tip III'tür" demek daha doğrudur — aynı hastalıkta birden fazla mekanizma birlikte rol oynayabilir (örneğin SLE'de hem Tip II hem Tip III mekanizmaları eş zamanlı işler; ilerleyen bölümlerde göreceğiz).</p>
+    <p class="book-p">Dört tipin tamamının paylaştığı, sınavda tekrar tekrar sorulan bir ortak özellik var: <strong>hepsi için organizmanın söz konusu antijenle daha önceden karşılaşmış (sensitize olmuş) olması gerekir</strong> <span class="cite">(2018-2019, 2020 ve 2021-2022 sınavlarının üçünde de aynı soru tekrarlandı)</span>. Bir antijenle ilk karşılaşma hiçbir zaman hipersensitivite reaksiyonuna yol açmaz — reaksiyon her zaman ikinci veya sonraki karşılaşmada ortaya çıkar, çünkü hasarı oluşturan şey ilk karşılaşmada hazırlanmış olan antikor veya duyarlanmış T hücre havuzudur. Bu yüzden "otoimmün hastalıkların patogenezinde yer alması" veya "doku hasarı oluşturmaması" gibi ifadeler hipersensitivitenin ortak özelliği DEĞİLDİR — otoimmünite hipersensitivitenin sadece bir alt kümesidir (kendi dokumuza karşı gelişen hipersensitivite), ve doku hasarı zaten tanımın kendisidir, "oluşturmaması" bir çelişkidir.</p>
   </div>
 
   <div class="book-section">
     <h2 class="book-h2">3. Tip I — IgE Aracılı Hipersensitivite</h2>
-    <p class="book-p">Alerjen ile ilk karşılaşma sonrası spesifik IgE üretilir ve bu IgE, mast hücreleri ile bazofillerin yüzeyindeki yüksek afiniteli Fc&epsilon;RI reseptörlerine bağlanır (sensitizasyon fazı — henüz belirti yoktur). Aynı alerjenle tekrar karşılaşıldığında, alerjen hücre yüzeyindeki komşu IgE moleküllerini çapraz bağlar; bu çapraz bağlanma mast hücresini aktive eder ve reaksiyon iki fazda ilerler.</p>
 
-    <h3 class="book-h3">3.1. İki faz ve mediyatör kinetiği</h3>
-    <p class="book-p">Erken faz dakikalar içinde, geç faz saatler sonra gerçekleşir — ama aralarındaki fark sadece zamanlama değildir, hangi mediyatörün hangi kaynaktan geldiğidir:</p>
+    <h3 class="book-h3">3.1. Sensitizasyon fazı: IgE nasıl üretilir?</h3>
+    <p class="book-p">Alerjen ilk karşılaşmada antijen sunan hücreler (dendritik hücreler) tarafından işlenip MHC-II üzerinden CD4+ T hücrelerine sunulur. Genetik yatkınlık (atopi) ve alerjenin kendine özgü nitelikleri (genelde küçük, çözünür, proteaz aktivitesi olan proteinler — ev tozu akarı Der p1 klasik örnektir) bu T hücrelerinin Th2 yönünde farklılaşmasını kolaylaştırır. Th2 hücreleri IL-4 ve IL-13 salgılar; bu sitokinler B hücrelerinde sınıf değiştirme rekombinasyonunu (class switch recombination) IgE yönünde tetikler. Üretilen IgE, mast hücreleri ve bazofillerin yüzeyindeki yüksek afiniteli FcεRI reseptörlerine bağlanır — bu, "sensitizasyon fazı"dır ve henüz hiçbir klinik belirti yoktur, çünkü tek bir IgE molekülünün reseptöre bağlanması hücreyi aktive etmez.</p>
+    <p class="book-p">Aynı alerjenle tekrar karşılaşıldığında, alerjen çok sayıda hücre yüzeyi IgE molekülünü aynı anda çapraz bağlar (cross-linking); bu çapraz bağlanma FcεRI'ların kümelenmesine ve hücre içi sinyal kaskadının (Lyn/Syk kinaz aktivasyonu) başlamasına yol açar. Sonuç: mast hücresi aktive olur.</p>
+
+    <h3 class="book-h3">3.2. Efektör faz: iki dalga, iki farklı mediyatör kaynağı</h3>
+    <p class="book-p">Aralarındaki fark sadece zamanlama değildir, hangi mediyatörün hangi kaynaktan geldiğidir:</p>
     <ul class="book-list">
-      <li><strong>Erken faz (dakikalar):</strong> mast hücresinde hazır depolanmış (preformed) mediyatörlerin salınımı — en başta <strong>histamin</strong>. Sınavlarda tekrar tekrar "alerjik reaksiyonda en erken salınan mediyatör" diye sorulan cevap budur.</li>
-      <li><strong>Geç faz (saatler sonra):</strong> mast hücresi aktivasyonundan sonra yeni sentezlenen (de novo) mediyatörler — lipid mediyatörler (LTB4, PGD2 gibi) ve sitokinler (<strong>IL-4</strong> dahil) devreye girer; eozinofil ve Th2 hücrelerinin bölgeye gelişiyle sürer. "En geç salınan mediyatör" sorularında cevap tipik olarak IL-4'tür — çünkü sitokin sentezi, önceden hazır bekleyen histamin gibi granül içeriğinin aksine, yeni gen ifadesi gerektirir ve zaman alır.</li>
+      <li><strong>Erken faz (dakikalar):</strong> mast hücresinde hazır depolanmış (preformed) granül içeriğinin salınımı — başta <strong>histamin</strong>, ayrıca triptaz ve heparin. Histamin H1 reseptörleri üzerinden damar geçirgenliğini artırır, düz kas kasılmasına (bronkospazm) yol açar ve kaşıntıyı tetikler. <span class="cite">("Alerjik reaksiyonda en erken salınan mediyatör" sorusu 2019 ve 2023-2024 sınavlarında iki kez ayrı ayrı soruldu, cevap her ikisinde de histamin.)</span></li>
+      <li><strong>Geç faz (4-8 saat sonra):</strong> mast hücresi aktivasyonundan sonra membran fosfolipidlerinden (araşidonik asit yolağı) yeni sentezlenen lipid mediyatörler — prostaglandin D2 (PGD2, siklooksijenaz yoluyla) ve lökotrien B4/C4/D4/E4 (LTB4/LTC4/LTD4/LTE4, lipoksijenaz yoluyla) — devreye girer. Ardından sitokin sentezi başlar; bunların başında <strong>IL-4</strong> (Th2 farklılaşmasını ve IgE üretimini pekiştirir) ve IL-5 (eozinofilleri kemik iliğinden çağırır, olgunlaştırır ve apoptozdan korur) gelir. <span class="cite">("En geç salınan mediyatör" sorusunda cevap IL-4'tür — 2023-2024 sınavı — çünkü sitokin sentezi, önceden hazır bekleyen granül içeriğinin aksine yeni gen ifadesi (transkripsiyon + translasyon) gerektirir ve bu biyolojik olarak en çok zaman alan adımdır.)</span> Geç fazda eozinofil ve Th2 hücrelerinin dokuya infiltrasyonu, saatler süren, tekrarlayan bir inflamasyon tablosu oluşturur — astımdaki geç faz bronkospazmı klasik örnektir.</li>
     </ul>
 
-    <h3 class="book-h3">3.2. Tanı ve tedavi</h3>
-    <p class="book-p">Tip I tanısında sorulacak üç soru: (1) Klinik tablo uyuyor mu? (2) Alerjene spesifik IgE gösterilebiliyor mu? (3) Akut olayda mast hücresi aktivasyonu (ör. triptaz yüksekliği) kanıtlanabiliyor mu?</p>
-    <p class="book-p">Tip I'in en ağır klinik tablosu <strong>anafilaksidir</strong> — sistemik, hızlı gelişen, hayatı tehdit eden bir reaksiyon. Anafilakside ilk ve hayat kurtarıcı tedavi <strong>adrenalindir (epinefrin)</strong>; antihistaminik ve kortikosteroid yardımcı tedavilerdir ama adrenalinin yerini tutmaz ve onu geciktirmemelidir — adrenalin hem alfa-1 aracılı vazokonstriksiyonla hipotansiyonu, hem beta-2 aracılı bronkodilatasyonla solunum sıkıntısını, hem de mast hücresinden ek mediyatör salınımını baskılayarak reaksiyonu birden fazla noktadan durdurur.</p>
+    <h3 class="book-h3">3.3. Klinik spektrum: lokal reaksiyonlardan anafilaksiye</h3>
+    <p class="book-p">Tip I reaksiyonlar, mast hücrelerinin hangi dokuda ve ne yaygınlıkta aktive olduğuna göre çok farklı klinik tablolara yol açar: solunum yolunda alerjik rinit ve astım, ciltte ürtiker ve atopik dermatit, gastrointestinal sistemde gıda alerjisi. Bu lokal formlar tek başına hayatı tehdit etmez. Sistemik ve şiddetli formu ise <strong>anafilaksidir</strong> — birden fazla organ sisteminin (cilt/mukoza, solunum, kardiyovasküler, gastrointestinal) aynı anda, hızla etkilendiği bir tablodur; en ağır sonucu, damar geçirgenliğinin masif artışı ve vazodilatasyon sonucu gelişen dağılımsal (distributif) şoktur.</p>
+
+    <h3 class="book-h3">3.4. Tanı</h3>
+    <p class="book-p">Tip I tanısında sorulacak üç soru: (1) Klinik tablo uyuyor mu? (2) Alerjene spesifik IgE gösterilebiliyor mu? (3) Akut olayda mast hücresi aktivasyonu kanıtlanabiliyor mu? Spesifik IgE iki şekilde gösterilebilir: <em>in vivo</em> deri prik testi (alerjen ekstresi cilde uygulanır, 15-20 dakikada lokal kabarıklık/kızarıklık — "wheal and flare" — oluşup oluşmadığına bakılır; hızlı, ucuz, ama antihistaminik kullanımından etkilenir) veya <em>in vitro</em> serumda spesifik IgE ölçümü (eski adıyla RAST — radioallergosorbent test; antihistaminikten etkilenmez, ama daha yavaş ve pahalıdır). Akut olayda mast hücresi aktivasyonunun kanıtı serum triptaz düzeyinin yükselmesidir — triptaz mast hücresine oldukça özgüdür ve olaydan sonraki 1-4 saat içinde en yüksek düzeye ulaşır.</p>
+
+    <h3 class="book-h3">3.5. Tedavi: akut ve kronik yaklaşım</h3>
+    <p class="book-p">Anafilakside ilk ve hayat kurtarıcı tedavi <strong>adrenalindir (epinefrin)</strong> <span class="cite">(2025-2026 sınavı, Soru 29)</span>; antihistaminik ve kortikosteroid yardımcı tedavilerdir ama adrenalinin yerini tutmaz ve onu geciktirmemelidir — adrenalin hem alfa-1 aracılı vazokonstriksiyonla hipotansiyonu, hem beta-2 aracılı bronkodilatasyonla solunum sıkıntısını, hem de mast hücresinden ek mediyatör salınımını (beta-2 aracılı, hücre içi cAMP artışı yoluyla) baskılayarak reaksiyonu birden fazla noktadan durdurur.</p>
+    <p class="book-p">Kronik yaklaşımda iki seçenek vardır. <strong>Kaçınma</strong> en basit ama her zaman mümkün olmayan yöntemdir. <strong>Desensitizasyon (alerjen-spesifik immünoterapi)</strong> ise bilinen bir alerjene karşı yanıtı, kademeli ve kontrollü doz artışıyla köreltip klinik tolerans oluşturmayı hedefler; mekanizması basit bir "alışma" değildir — tedavi, alerjene özgü düzenleyici T (Treg) hücrelerini indükler, IL-10 ve TGF-β üretimini artırır, ve zamanla IgG4 (bloke edici antikor) düzeylerini yükselterek IgE'nin mast hücresi üzerindeki etkisini rekabetle azaltır.</p>
 
     <span class="tag tag-accent-2 highlight-tag">SIK KARIŞTIRILAN NOKTA</span>
-    <p class="highlight-p">Tip I'in geç fazı, Tip IV hipersensitivite ile <strong>aynı şey değildir</strong> — ikisi de "geç/gecikmiş" kelimesini içerdiği için karıştırılır. Tip I geç faz hâlâ Th2–IgE–mast hücresi–eozinofil ekseninin devamıdır; Tip IV'te ise esas efektör mekanizma T hücresi aracılıdır, klasik IgE–mast hücresi mekanizması devrede değildir.</p>
+    <p class="highlight-p">Tip I'in geç fazı, Tip IV hipersensitivite ile <strong>aynı şey değildir</strong> — ikisi de "geç/gecikmiş" kelimesini içerdiği için karıştırılır. Tip I geç faz hâlâ Th2–IgE–mast hücresi–eozinofil ekseninin devamıdır, saatler (4-8 saat) sürer; Tip IV'te ise esas efektör mekanizma T hücresi aracılıdır, klasik IgE–mast hücresi mekanizması hiç devrede değildir ve süreç 24-72 saat sürer.</p>
 
     <span class="tag tag-accent-2 highlight-tag">SIK KARIŞTIRILAN NOKTA</span>
-    <p class="highlight-p">Aynı alerjenle karşılaşmanın Tip I mi yoksa Tip IV mü tetikleyeceğini belirleyen ana etken <strong>alerjenin miktarıdır</strong> (tipi, veriliş yolu veya daha önce karşılaşılıp karşılaşılmadığı değil) — Th hücrelerinin Th1/Th2 yönünde farklılaşması büyük ölçüde antijen dozuna bağlıdır.</p>
+    <p class="highlight-p">Aynı alerjenle karşılaşmanın Tip I mi yoksa Tip IV mü tetikleyeceğini belirleyen ana etken <strong>alerjenin miktarıdır</strong> (tipi, veriliş yolu veya daha önce karşılaşılıp karşılaşılmadığı değil) <span class="cite">— bu, kaynak sınavların en sık tekrarlanan sorularından biri: 2019, 2020, 2021-2022 ve 2023-2024 (iki ayrı oturumda) olmak üzere en az beş kez soruldu, cevap hep aynı.</span> Th hücrelerinin Th1/Th2 yönünde farklılaşması büyük ölçüde antijen dozuna bağlıdır: düşük doz, tekrarlayan maruziyet Th2/IgE yönünü; yüksek doz maruziyet genelde Th1 yönünü destekler (bu, tam tersini de ezberlemeyin diye vurgulanmaya değer bir nokta).</p>
   </div>
 
   <div class="book-section">
     <h2 class="book-h2">4. Tip II — Antikor Aracılı Hipersensitivite</h2>
-    <p class="book-p">IgG veya IgM antikorlarının hücre yüzeyindeki ya da doku yapısındaki antijenlere doğrudan bağlanmasıyla gelişir. Antikor antijenine bağlandığında dört ayrı yoldan hasar oluşabilir:</p>
+    <p class="book-p">IgG veya IgM antikorlarının hücre yüzeyindeki ya da doku yapısındaki antijenlere doğrudan bağlanmasıyla gelişir. Tip I'den farkı IgE değil IgG/IgM kullanmasıdır <span class="cite">(2022-2023 sınavında "Tip 1 ADR gelişiminde hangisi yanlıştır" sorusunun çeldiricisi tam bu noktaya dayanıyordu — bkz. Bölüm Sonu Soruları, Soru 6).</span></p>
+
+    <h3 class="book-h3">4.1. Dört efektör mekanizma</h3>
     <ul class="book-list">
-      <li>Kompleman aktivasyonu → hücre lizisi</li>
-      <li>Opsonizasyon → fagositoz</li>
-      <li>ADCC — NK hücrelerinin IgG FcγRIII reseptörleri aracılığıyla hedef hücreyi öldürmesi</li>
-      <li>Reseptör blokajı / stimülasyonu — antikorun reseptöre bağlanarak fonksiyonel değişikliğe yol açması (bu alt tip bazı kaynaklarda ayrı "Tip V" olarak da anılır; klasik dört mekanizmadan biri kabul edilir)</li>
+      <li><strong>Kompleman aktivasyonu → hücre lizisi:</strong> antikorun Fc bölgesi klasik yolu (C1q üzerinden) aktive eder, membran atak kompleksi (MAC, C5b-9) hedef hücrenin zarını delip lizise yol açar.</li>
+      <li><strong>Opsonizasyon → fagositoz:</strong> antikorla (ve/veya C3b ile) kaplanan hücre, makrofaj ve nötrofillerin Fc/kompleman reseptörleri aracılığıyla tanınıp yutulur.</li>
+      <li><strong>ADCC (antikor bağımlı hücre aracılı sitotoksisite):</strong> NK hücrelerinin IgG FcγRIII reseptörleri aracılığıyla hedef hücreyi öldürmesi — kompleman veya fagositoza gerek kalmadan doğrudan hücre lizisi.</li>
+      <li><strong>Reseptör blokajı / stimülasyonu:</strong> antikorun reseptöre bağlanarak fonksiyonel değişikliğe yol açması — hücreyi öldürmez, sadece sinyalini bozar. Bu alt tip bazı kaynaklarda ayrı "Tip V" olarak da anılır; PAÜTF sınavlarında klasik dört mekanizmadan biri olarak kabul edilir.</li>
     </ul>
-    <p class="book-p">Klasik örnekler: <strong>Goodpasture sendromu</strong> (glomerül bazal membranına — anti-GBM — karşı gelişen antikorların akciğer ve böbrekte hasar oluşturduğu tablo) ve <strong>kan transfüzyon reaksiyonu</strong> (alıcının antikorlarının uyumsuz donör eritrositlerine bağlanmasıyla gelişir; ateş, titreme, sırt ağrısı, hemoglobinüri ve hipotansiyon ile başvurur).</p>
-    <p class="book-p">Reseptör mekanizması üzerinden işleyen örnekler arasında Graves hastalığı (TSH reseptörünü stimüle eden antikor) ve Myastenia Gravis (asetilkolin reseptörünü bloke eden antikor) sayılabilir.</p>
+    <p class="book-p">Bu dördü iki büyük gruba ayırmak faydalıdır: ilk üçü <strong>sitotoksiktir</strong> (hedef hücre ölür veya yutulur), dördüncüsü <strong>sitotoksik değil, fonksiyoneldir</strong> (hedef hücre yaşar ama normal çalışamaz). Graves hastalığında TSH reseptörünü stimüle eden antikor hücreyi öldürmez, aksine aşırı çalıştırır; Myastenia Gravis'te asetilkolin reseptörünü bloke eden antikor da hücreyi öldürmez, sinyali keser. Bu ayrımı bilmek, "hangisi Tip II değildir" tarzı sorularda antikorun hücreye ne yaptığını (öldürüyor mu, engelliyor mu, hiçbiri mi) analiz etmeyi kolaylaştırır.</p>
+
+    <h3 class="book-h3">4.2. Tanı: Coombs testi</h3>
+    <p class="book-p">Tip II'nin klasik laboratuvar yöntemi Coombs testidir. <strong>Direkt Coombs testi</strong> hastanın kendi eritrositlerinin üzerine önceden yapışmış antikor/kompleman olup olmadığını gösterir (anti-insan globulin serumu eklenince eritrositler aglütine olur) — otoimmün hemolitik anemi ve yenidoğanın hemolitik hastalığında pozitiftir. <strong>İndirekt Coombs testi</strong> ise hastanın serumundaki, henüz herhangi bir eritrosite bağlanmamış serbest antikorları test eritrositleriyle karşılaştırarak gösterir — transfüzyon öncesi uyumluluk taramasında ve gebelikte Rh uyumsuzluğu taramasında kullanılır.</p>
+
+    <h3 class="book-h3">4.3. Klinik örnekler</h3>
+    <p class="book-p">Klasik sitotoksik örnekler: <strong>Goodpasture sendromu</strong> (glomerül bazal membranına — anti-GBM — karşı gelişen antikorların akciğer ve böbrekte hasar oluşturduğu tablo) ve <strong>kan transfüzyon reaksiyonu</strong> (alıcının antikorlarının uyumsuz donör eritrositlerine bağlanmasıyla gelişir; ateş, titreme, sırt ağrısı, hemoglobinüri ve hipotansiyon ile başvurur <span class="cite">— 2025-2026 sınavı, Soru 26</span>). Diğer sitotoksik örnekler: otoimmün hemolitik anemi, eritroblastozis fetalis (Rh uyumsuzluğu), pemfigus vulgaris (desmoglein'e karşı antikor, deri hücreleri arası bağlantıyı bozar).</p>
+    <p class="book-p">Reseptör mekanizması üzerinden işleyen (non-sitotoksik) örnekler: Graves hastalığı ve Myastenia Gravis (yukarıda anlatıldı).</p>
+
     <span class="tag tag-accent-2 highlight-tag">SIK KARIŞTIRILAN NOKTA</span>
-    <p class="highlight-p">Her sitopeni veya anemi Tip II değildir. <strong>Demir eksikliği anemisi</strong> immün mekanizmalı değildir, Tip II ile açıklanamaz — buna karşılık otoimmün hemolitik anemi, pernisiyöz anemi (anti-intrinsik faktör antikoru) ve eritroblastozis fetalis gerçek Tip II örnekleridir. Aynı şekilde <strong>Multipl Skleroz Tip II değildir</strong> — patogenezi büyük ölçüde T hücre aracılıdır (Tip IV'e daha yakın), antikor aracılı bir hastalık olarak sınıflandırılmaz.</p>
+    <p class="highlight-p">Her sitopeni veya anemi Tip II değildir. <strong>Demir eksikliği anemisi</strong> immün mekanizmalı değildir, Tip II ile açıklanamaz <span class="cite">(2019 sınavı — kan transfüzyonu, eritroblastozis fetalis, otoimmün hemolitik anemi ve pernisiyöz anemi ile birlikte seçenekte verilmiş, tek immün-olmayan seçenek buydu).</span> Aynı şekilde <strong>Multipl Skleroz Tip II değildir</strong> — patogenezi büyük ölçüde T hücre aracılıdır (Tip IV'e daha yakın), antikor aracılı bir hastalık olarak sınıflandırılmaz <span class="cite">(2018-2019 sınavı — pemfigus vulgaris, myastenia gravis, Graves ve Goodpasture'ın arasına konan tek T-hücre-aracılı seçenekti).</span></p>
   </div>
 
   <div class="book-section">
     <h2 class="book-h2">5. Tip III — İmmün Kompleks Hipersensitivitesi</h2>
-    <p class="book-p">Antijen–antikor komplekslerinin dolaşımda oluşup damar duvarı, glomerül veya eklem gibi dokularda birikmesiyle gelişir. Biriken kompleksler kompleman sistemini aktive eder; nötrofillerin bölgeye çağrılması ve bunların salgıladığı enzimler doku hasarına yol açar. Klasik örnekler arasında serum hastalığı ve immün kompleks aracılı glomerülonefrit sayılabilir; Sistemik Lupus Eritematozus (SLE) da hem Tip III (immün kompleks depolanması, düşük kompleman) hem de başka mekanizmaların iç içe geçtiği bir hastalıktır — eklem ağrısı, fotosensitivite, malar raş, ANA pozitifliği, düşük kompleman düzeyi ve böbrek biyopsisinde immün kompleks birikimi olan bir hasta klasik bir Tip III tablosu tarif eder.</p>
+    <p class="book-p">Antijen–antikor komplekslerinin dolaşımda oluşup damar duvarı, glomerül veya eklem gibi dokularda birikmesiyle gelişir. Kompleks boyutu belirleyicidir: çok büyük kompleksler retiküloendotelyal sistem (karaciğer, dalak) tarafından hızla temizlenir; çok küçük kompleksler böbrekten serbestçe süzülüp atılır. Asıl hasar veren, <strong>orta boyutlu</strong> ve doku duvarlarına (özellikle yüksek basınçlı filtrasyon yapan glomerül kapillerleri gibi) yerleşebilen komplekslerdir. Biriken kompleksler kompleman sistemini (klasik yol) aktive eder; oluşan C5a gibi anafilatoksinler nötrofilleri bölgeye çağırır, nötrofillerin salgıladığı proteolitik enzimler ve reaktif oksijen türleri doku hasarına yol açar.</p>
+
+    <h3 class="book-h3">5.1. Lokal ve sistemik formlar</h3>
+    <p class="book-p">Tip III'ün lokal formu <strong>Arthus reaksiyonudur</strong>: önceden sensitize bir bireyin cildine antijen enjekte edildiğinde, birkaç saat içinde o bölgede sınırlı ödem, hemoraji ve nekroz gelişir — kompleksler lokal olarak, enjeksiyon bölgesindeki küçük damarlarda birikir. Sistemik formu ise <strong>serum hastalığıdır</strong>: klasik örneği, yabancı türden (ör. at kaynaklı) serum veya antitoksin verildikten 1-2 hafta sonra gelişen ateş, ürtiker, artralji ve lenfadenopati tablosudur — kompleksler bu kez dolaşımda oluşup vücudun her yerinde (eklem, cilt, böbrek) birikir. Günümüzde tam serum hastalığı nadirdir ama bazı ilaçlara (özellikle biyolojik ajanlara) karşı "serum hastalığı benzeri reaksiyon" görülebilir.</p>
+
+    <h3 class="book-h3">5.2. Kompleman eksikliği neden riski artırır?</h3>
+    <p class="book-p">Bu, sınavlarda sürekli çeldirici olarak kullanılan ama mekanizması nadiren açıklanan bir noktadır. Kompleman sistemi (özellikle C1q, C4, C2 gibi erken klasik yol bileşenleri) immün komplekslerin çözünürlüğünü artırarak ve eritrositlerin yüzeyindeki CR1 (kompleman reseptör 1) aracılığıyla komplekslerin dolaşımdan karaciğer/dalağa taşınıp temizlenmesini sağlayarak normalde <strong>koruyucu</strong> bir rol oynar. Bu erken bileşenlerde eksiklik olduğunda kompleksler çözünmeden, büyük ve çökebilir halde dolaşımda kalır ve dokularda birikir — bu yüzden konjenital kompleman eksiklikleri (özellikle C1q, C2, C4 eksikliği) SLE benzeri, şiddetli immün kompleks hastalığına yatkınlık yaratır. Bu, "kompleman düşüklüğü Tip III riskini artırır, yüksekliği değil" kuralının altında yatan gerçek nedendir.</p>
+
+    <h3 class="book-h3">5.3. Klinik örnek: SLE</h3>
+    <p class="book-p">Sistemik Lupus Eritematozus (SLE), hem Tip III (dolaşan immün kompleksler, düşük kompleman düzeyi, glomerülde birikim) hem de Tip II (anti-eritrosit, anti-trombosit antikorları) mekanizmalarının iç içe geçtiği bir hastalıktır — Bölüm 2'de vurgulanan "bir hastalıkta birden fazla mekanizma" ilkesinin klasik örneğidir. Eklem ağrısı, fotosensitivite, malar raş, ANA pozitifliği, düşük kompleman düzeyi ve böbrek biyopsisinde immün kompleks birikimi olan bir hasta klasik bir Tip III tablosu tarif eder <span class="cite">(2025-2026 sınavı, Soru 28)</span>.</p>
+
     <span class="tag tag-accent-2 highlight-tag">SIK KARIŞTIRILAN NOKTA</span>
-    <p class="highlight-p">Tip III duyarlılığını artıran gerçek risk faktörleri: <strong>genetik defektler, tekrarlayan enfeksiyonlar, otoimmünite ve kompleman DÜŞÜKLÜĞÜ</strong>'dür (kompleman kompleksleri temizlemekle görevlidir; eksikliği kompleks birikimini kolaylaştırır). Sınavda sık kullanılan çeldirici: <strong>kompleman YÜKSEKLİĞİ</strong> bir risk faktörü DEĞİLDİR — tam tersi doğrudur. Antijenin vücuda giriş yolu (inhalasyon/GİS) ile ilgili seçenekler de farklı sınav dönemlerinde çeldirici olarak kullanılmış; bu ayrıntıda soru köküne dikkatli bakmak gerekir.</p>
+    <p class="highlight-p">Tip III duyarlılığını artıran istikrarlı risk faktörleri: <strong>genetik defektler, tekrarlayan enfeksiyonlar, otoimmünite ve kompleman DÜŞÜKLÜĞÜ</strong>'dür — bu dördü, kaynak sınavların tüm varyantlarında tutarlı biçimde risk faktörü olarak kabul edilmiştir. Antijenin vücuda giriş yolu (inhalasyon/GİS) ile ilgili seçenek ise <strong>farklı sınav dönemlerinde tutarsız işlenmiş</strong>: bazı yıllarda "antijenin GİS/inhalasyon yoluyla alınması" risk faktörü DEĞİL olarak işaretlenmiş, başka bir yılda ise aynı ifade (inhalasyon) risk faktörü kabul edilip başka bir seçenek ("otoinflamatuar hastalıklar") çeldirici yapılmış. Bu, kaynak sınav sorularının kendi arasında gerçek bir tutarsızlığıdır — sınavda bu seçenekle karşılaşırsan soru kökündeki DİĞER seçeneklere (özellikle kompleman ve genetik defekt seçeneklerine) öncelik ver, çünkü onlar hakkında tam görüş birliği var.</p>
   </div>
 
   <div class="book-section">
     <h2 class="book-h2">6. Tip IV — Gecikmiş Tip (T Hücre Aracılı) Hipersensitivite</h2>
     <p class="book-p">Diğer üç tipten farklı olarak antikor aracılı değildir; esas efektör hücre T lenfositidir. Duyarlanmış T hücreleri antijenle tekrar karşılaştığında sitokin salgılayarak diğer inflamatuar hücreleri bölgeye çağırır. Bu süreç dakikalar-saatler değil, tipik olarak 24–72 saat sürdüğü için "gecikmiş tip" olarak adlandırılır.</p>
 
+    <h3 class="book-h3">6.1. İki klasik prototip: kontakt dermatit ve tüberkülin reaksiyonu</h3>
+    <p class="book-p"><strong>Kontakt dermatit</strong> (örn. zehirli sarmaşık, nikel, bazı kozmetik/ilaç bileşenleri): küçük moleküllü kimyasallar (hapten) tek başına immünojenik değildir, ancak deriden geçip cilt proteinlerine kovalent olarak bağlanınca (hapten-taşıyıcı kompleksi) immünojenik hale gelir. Epidermisteki Langerhans hücreleri (dendritik hücrelerin cilt formu) bu kompleksi alıp bölgesel lenf düğümüne taşır, orada naif CD4+/CD8+ T hücrelerini duyarlandırır (sensitizasyon fazı, 10-14 gün sürer, belirti vermez). Aynı bölgeye ikinci maruziyette duyarlanmış T hücreleri 24-72 saat içinde aktive olur, IFN-γ salgılar, bu da bölgeye monosit/makrofaj çeker — klinikte kaşıntılı, eritemli, veziküler bir döküntü olarak görülür.</p>
+    <p class="book-p"><strong>Tüberkülin (PPD) reaksiyonu</strong>, Tip IV'ün tanısal amaçla kullanılan klasik örneğidir: önceden Mycobacterium tuberculosis ile karşılaşmış (veya BCG aşısı olmuş) bir bireyin derisine intradermal PPD (saflaştırılmış protein türevi) enjekte edildiğinde, 48-72 saat sonra enjeksiyon bölgesinde sertlik (endürasyon) gelişir — bu, önceden duyarlanmış Th1 hücrelerinin antijeni tanıyıp IFN-γ salgılamasının ve makrofaj birikiminin sonucudur. Reaksiyonun 48-72 saatte "doruğa çıkması" (48 saatten önce değil), Tip IV'ün zaman çizelgesinin en somut klinik kanıtıdır.</p>
+
+    <h3 class="book-h3">6.2. Granülom oluşumu</h3>
+    <p class="book-p">Antijen fagositoz ile temizlenemiyorsa (ör. mikobakteri hücre duvarı bileşenleri, yabancı cisim), Th1 hücrelerinin sürekli IFN-γ salgılaması makrofajları "epiteloid hücrelere" ve çok çekirdekli dev hücrelere dönüştürür; bunlar antijeni çevreleyip izole eden bir granülom oluşturur. Granülomatöz hastalıklar (tüberküloz, sarkoidoz, Crohn hastalığı, granülomatöz polianjiit) bu sürecin kronikleşmiş halidir — bu yüzden aşağıda göreceğimiz Tip IVa grubunun ortak paydası "granülom yapma eğilimi"dir.</p>
+
+    <h3 class="book-h3">6.3. Pichler alt sınıflaması (Tip IVa–IVd)</h3>
     <span class="tag tag-accent-2 highlight-tag">SIK KARIŞTIRILAN NOKTA</span>
-    <p class="highlight-p">Sunumlarda genellikle Tip IV tek bir mekanizma gibi anlatılır, ama sınavlarda neredeyse her dönem <strong>alt tiplere (Tip IVa–IVd, Pichler sınıflaması)</strong> ayrı ayrı soru geliyor. Bu ayrım klasik ders anlatımının ötesine geçer ama sınav açısından yüksek olasılıklıdır:</p>
+    <p class="highlight-p">Sunumlarda genellikle Tip IV tek bir mekanizma gibi anlatılır, ama sınavlarda neredeyse her dönem <strong>alt tiplere (Tip IVa–IVd)</strong> ayrı ayrı soru geliyor. Bu ayrım klasik ders anlatımının ötesine geçer ama sınav açısından yüksek olasılıklıdır:</p>
 
     <table class="table">
       <thead>
@@ -127,18 +167,34 @@
         <tr><td>IVa</td><td>Th1 hücreleri → IFN-γ → makrofaj aktivasyonu</td><td>Granülomatöz hastalıklar: sarkoidoz, Crohn hastalığı, Wegener granülomatozu (granülomatöz polianjiit), Churg-Strauss sendromu (EGPA)</td></tr>
         <tr><td>IVb</td><td>Th2 hücreleri → IL-4/IL-5 → eozinofil aktivasyonu</td><td>DRESS sendromu (eozinofili eşlikli makülopapüler ilaç erüpsiyonu)</td></tr>
         <tr><td>IVc</td><td>Sitotoksik T hücreleri (perforin/granzim, Fas-FasL)</td><td>Stevens-Johnson sendromu / Toksik Epidermal Nekroliz (TEN)</td></tr>
-        <tr><td>IVd</td><td>T hücreleri → IL-8/GM-CSF → nötrofil aktivasyonu</td><td>Akut generalize eksantematöz püstülozis (AGEP) — bu alt tip için doğrudan bir çıkmış soru bulunamadı, sınıflamayı tamamlamak için eklenmiştir</td></tr>
+        <tr><td>IVd</td><td>T hücreleri → IL-8/GM-CSF → nötrofil aktivasyonu</td><td>Behçet hastalığı, Romatoid Artrit ve Psöriatik Artrit'in ortak patogenez mekanizması</td></tr>
       </tbody>
     </table>
+    <p class="book-p">Bu tablo yalnızca dört kutu ezberlemek için değil, aynı zamanda hangi hastalığın hangi alt tipe AİT OLMADIĞINI ayırt etmek için de kullanılır. Örneğin Behçet hastalığı, granülomatöz görünmesine rağmen IVa'ya değil <strong>IVd</strong>'ye dahil edilir <span class="cite">(2020 sınavı, Soru 23 — "Behçet hastalığı, Romatoid artrit ve Psöriatik artrit patogenezinden ortak sorumlu hipersensitivite reaksiyonu" sorusunun cevabı Tip IVd'ydi)</span>; buna karşılık sarkoidoz, Crohn ve Wegener granülomatozu klasik IVa üyeleridir.</p>
 
     <span class="tag tag-accent-2 highlight-tag">SIK KARIŞTIRILAN NOKTA</span>
-    <p class="highlight-p">"Tip IVa ile uyumlu DEĞİLDİR" tarzı sorularda granülomatöz hastalıklar (sarkoidoz, Crohn, Wegener, Churg-Strauss) doğru seçenek havuzunu oluşturur; <strong>alerjik rinit</strong> (Tip I'dir) ve <strong>demir eksikliği anemisi</strong> (immün mekanizmalı değildir) bu gruba dahil edilmeyip çeldirici olarak kullanılmıştır.</p>
+    <p class="highlight-p">"Tip IVa ile uyumlu DEĞİLDİR" tarzı sorularda granülomatöz hastalıklar (sarkoidoz, Crohn, Wegener, Churg-Strauss) doğru seçenek havuzunu oluşturur; <strong>alerjik rinit</strong> (Tip I'dir) ve <strong>demir eksikliği anemisi</strong> (immün mekanizmalı değildir) bu gruba dahil edilmeyip çeldirici olarak kullanılmıştır <span class="cite">(2023-2024 sınavının iki ayrı oturumunda tekrarlanan soru).</span></p>
   </div>
 
   <div class="book-section">
-    <h2 class="book-h2">7. Klinik Pratikte Kısa Notlar</h2>
-    <p class="book-p"><strong>Desensitizasyon:</strong> bilinen bir alerjene karşı IgE aracılı yanıtı, kademeli ve kontrollü doz artışıyla köreltip klinik tolerans oluşturmayı hedefleyen yaklaşımdır.</p>
-    <p class="book-p"><strong>Laboratuvar/patoloji ipuçları:</strong> Tip I'de spesifik IgE ve triptaz; Tip II'de direkt Coombs testi; Tip III'te dolaşan immün kompleksler ve düşük kompleman düzeyleri; Tip IV'te lenfositik infiltrasyon (ör. yama testi) aranır.</p>
+    <h2 class="book-h2">7. Dört Tipin Tanı Yöntemleri — Toplu Bakış</h2>
+    <table class="table">
+      <thead>
+        <tr><th>Tip</th><th>Ana tanı yöntemi</th><th>Neyi gösterir</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>I</td><td>Deri prik testi, spesifik IgE (RAST), serum triptaz</td><td>Alerjene özgü IgE varlığı, akut mast hücresi aktivasyonu</td></tr>
+        <tr><td>II</td><td>Direkt / İndirekt Coombs testi</td><td>Eritrosit yüzeyine bağlı antikor (direkt) veya serumda serbest antikor (indirekt)</td></tr>
+        <tr><td>III</td><td>Dolaşan immün kompleks düzeyi, kompleman (C3/C4) düzeyi</td><td>Düşük kompleman = aktif tüketim = aktif Tip III süreç</td></tr>
+        <tr><td>IV</td><td>Yama testi (patch test), PPD/tüberkülin testi</td><td>48-72 saatte gelişen gecikmiş, T hücre aracılı lokal reaksiyon</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="book-section">
+    <h2 class="book-h2">8. Klinik Pratikte Kısa Notlar</h2>
+    <p class="book-p"><strong>Transfüzyon reaksiyonları:</strong> kan grubu uyumsuzluğunda alıcının antikorlarının donör eritrositlerindeki antijenlere bağlanmasıyla, tipik olarak Tip II mekanizmasıyla gelişir; ateş, titreme, sırt/bel ağrısı, hemoglobinüri ve hipotansiyon ile prezente olur.</p>
+    <p class="book-p"><strong>Laboratuvar/patoloji ipuçları — özet:</strong> Tip I'de spesifik IgE ve triptaz; Tip II'de direkt/indirekt Coombs testi; Tip III'te dolaşan immün kompleksler ve düşük kompleman düzeyleri; Tip IV'te lenfositik infiltrasyon (yama testi, PPD) aranır.</p>
   </div>
 
   <div class="book-section">
@@ -150,136 +206,158 @@
       <tbody>
         <tr><td>I</td><td>IgE, mast hücresi / eozinofil</td><td>Dakikalar (erken) + saatler (geç faz)</td><td>Anafilaksi, alerjik rinit, penisilin alerjisi</td></tr>
         <tr><td>II</td><td>IgG/IgM, hücre yüzeyi antijeni</td><td>Değişken</td><td>Goodpasture sendromu, transfüzyon reaksiyonu, Graves</td></tr>
-        <tr><td>III</td><td>İmmün kompleks birikimi</td><td>Saatler–günler</td><td>Serum hastalığı, SLE, glomerülonefrit</td></tr>
-        <tr><td>IVa</td><td>Th1/IFN-γ/makrofaj</td><td>24–72 saat</td><td>Sarkoidoz, Crohn, Wegener</td></tr>
+        <tr><td>III</td><td>İmmün kompleks birikimi</td><td>Saatler–günler</td><td>Serum hastalığı, Arthus reaksiyonu, SLE</td></tr>
+        <tr><td>IVa</td><td>Th1/IFN-γ/makrofaj</td><td>24–72 saat</td><td>Sarkoidoz, Crohn, Wegener, Churg-Strauss</td></tr>
         <tr><td>IVb</td><td>Th2/eozinofil</td><td>24–72 saat</td><td>DRESS sendromu</td></tr>
         <tr><td>IVc</td><td>Sitotoksik T hücresi</td><td>24–72 saat</td><td>Stevens-Johnson / TEN</td></tr>
-        <tr><td>IVd</td><td>T hücresi/nötrofil</td><td>24–72 saat</td><td>AGEP</td></tr>
+        <tr><td>IVd</td><td>T hücresi/nötrofil</td><td>24–72 saat</td><td>Behçet, Romatoid Artrit, Psöriatik Artrit</td></tr>
       </tbody>
     </table>
   </div>
 
   <div class="book-section">
     <h2 class="book-h2">Bu Konudan Yıllara Göre Kaç Soru Çıktı?</h2>
-    <p class="book-p">D3 Blok 1 Modül 2 çıkmış sınavlarının tamamı (2018'den 2026'ya, 7 dönem/sınav kağıdı) tarandı. Sayım, hipersensitivite tipi sınıflandırmasını/mekanizmasını doğrudan test eden sorularla sınırlı tutuldu — SLE, otoimmünite gibi tematik olarak yakın ama sınıflandırmayı doğrudan sormayan sorular dahil edilmedi.</p>
+    <p class="book-p">D3 Blok 1 Modül 2 çıkmış sınavlarının tamamı (2018'den 2026'ya, 7 dönem/sınav kağıdı) satır satır tarandı. Sayım, hipersensitivite tipi sınıflandırmasını/mekanizmasını doğrudan test eden sorularla sınırlı tutuldu — SLE, otoimmünite gibi tematik olarak yakın ama sınıflandırmayı doğrudan sormayan sorular dahil edilmedi.</p>
     <table class="table">
       <thead>
         <tr><th>Dönem</th><th>Soru sayısı</th></tr>
       </thead>
       <tbody>
         <tr><td>2018–2019</td><td>4</td></tr>
-        <tr><td>2019 (ayrı kayıt)</td><td>2</td></tr>
-        <tr><td>2020</td><td>2</td></tr>
+        <tr><td>2019 (ayrı kayıt)</td><td>3</td></tr>
+        <tr><td>2020</td><td>3</td></tr>
         <tr><td>2021–2022</td><td>3</td></tr>
-        <tr><td>2022–2023</td><td>0 (bu örneklemde bulunamadı)</td></tr>
+        <tr><td>2022–2023</td><td>2</td></tr>
         <tr><td>2023–2024</td><td>~9 (iki farklı sınav kağıdında, bazı tekrarlarla)</td></tr>
         <tr><td>2025–2026 (güncel)</td><td>5</td></tr>
       </tbody>
     </table>
-    <p class="book-p">Sonuç: bu konu 7 dönemin 6'sında soruldu — istisnasız denecek kadar yüksek olasılıklı bir konu. Özellikle Tip IV alt sınıflaması (IVa–d) neredeyse her dönem ayrı bir soru olarak karşımıza çıkıyor; bu, sunumda hiç geçmeyen ama sınavda sürekli sorulan bir noktaya iyi bir örnek.</p>
+    <p class="book-p">Sonuç: bu konu taranan 7 dönemin <strong>tamamında</strong> soruldu — istisnasız, en yüksek olasılıklı konulardan biri. Özellikle Tip IV alt sınıflaması (IVa–d) neredeyse her dönem ayrı bir soru olarak karşımıza çıkıyor; bu, sunumda hiç geçmeyen ama sınavda sürekli sorulan bir noktaya iyi bir örnek.</p>
   </div>
 
   <div class="book-section">
     <h2 class="book-h2">Bölüm Sonu Soruları</h2>
-    <p class="book-p" style="color: var(--color-neutral-700); font-style: italic;">Aşağıdaki 14 soru gerçek çıkmış sınav sorularıdır (yıl kaynağıyla birlikte).</p>
+    <p class="book-p" style="color: var(--color-neutral-700); font-style: italic;">Aşağıdaki sorular gerçek çıkmış sınav sorularıdır. Her biri kaynağıyla birlikte verilmiş, doğruluğu tek tek kontrol edilmiş ve her şıkkın neden doğru/yanlış olduğu ayrı ayrı açıklanmıştır — bir nevi konu tekrarı olarak okuyun.</p>
     <div class="qa-list">
 
       <div class="card">
         <div class="card-kicker">Soru 1</div>
-        <div class="card-title">Penisilin kullanımına bağlı ürtiker, bronkospazm ve hipotansiyon gelişmesi hangi mekanizma ile açıklanır?</div>
-        <div class="card-body">IgE aracılı mast hücre degranülasyonu (Tip I).</div>
+        <div class="card-title">Penisilin kullanımına bağlı ürtiker, bronkospazm ve hipotansiyon gelişmesi hangi mekanizma ile açıklanır? (A) IgG aracılı sitotoksisite (B) IgE aracılı mast hücre degranülasyonu (C) Kompleman aktivasyonu (D) T lenfosit aracılı gecikmiş reaksiyon (E) B hücre aktivasyonu</div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru: B.</span> Ürtiker+bronkospazm+hipotansiyon üçlüsü, dakikalar içinde gelişen klasik bir sistemik Tip I tablosudur; mast hücresi degranülasyonuyla salınan histamin damar geçirgenliğini (ürtiker, hipotansiyon) ve bronş düz kasını (bronkospazm) aynı anda etkiler.</p>
+          <p>A yanlış: IgG aracılı sitotoksisite Tip II'nin tanımıdır, dakikalar içinde ürtiker/bronkospazm yapmaz. C yanlış: kompleman aktivasyonu (Tip III) saatler-günler içinde gelişir, bu kadar hızlı değildir. D yanlış: T lenfosit aracılı reaksiyon (Tip IV) 24-72 saat sürer, "hemen" gelişmez. E yanlış: B hücre aktivasyonu sensitizasyon fazının bir parçasıdır ama akut reaksiyonun kendisini açıklamaz — akut tabloyu yapan, B hücrelerinin ürettiği IgE'nin mast hücresini tetiklemesidir.</p>
+        </div>
         <div class="card-source">2025-2026, Soru 25</div>
       </div>
 
       <div class="card">
         <div class="card-kicker">Soru 2</div>
-        <div class="card-title">Kan transfüzyonundan hemen sonra hastada ateş, titreme, sırt ağrısı, hemoglobinüri ve hipotansiyon gelişiyor. Bu durum hangi tip hipersensitivite reaksiyonunu düşündürür?</div>
-        <div class="card-body">Tip II.</div>
+        <div class="card-title">Kan transfüzyonundan hemen sonra hastada ateş, titreme, sırt ağrısı, hemoglobinüri ve hipotansiyon gelişiyor. Bu durum hangi tip hipersensitivite reaksiyonunu düşündürür? (A) Tip I (B) Tip II (C) Tip III (D) Tip IV (E) Hiçbiri</div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru: B.</span> Alıcının önceden var olan antikorlarının (genelde IgM, anti-A/anti-B) uyumsuz donör eritrositlerine bağlanıp kompleman aracılı intravasküler hemolize yol açmasıdır — hemoglobinüri (hemolizin doğrudan kanıtı) ve sırt ağrısı (böbrekte hemoglobin birikimi/iskemi) bu yüzden görülür.</p>
+          <p>A yanlış: Tip I'de hedef hücre yıkımı değil mast hücresi degranülasyonu vardır, hemoglobinüri beklenmez. C yanlış: Tip III saatler-günler içinde gelişir ve tipik olarak ürtiker/artralji/lenfadenopati yapar, akut hemoliz tablosu değildir. D yanlış: Tip IV 24-72 saat sürer, "hemen sonra" gelişen bir tabloyu açıklamaz. E yanlış: tablo net bir Tip II örneğidir, "hiçbiri" seçeneği burada çeldiricidir.</p>
+        </div>
         <div class="card-source">2025-2026, Soru 26</div>
       </div>
 
       <div class="card">
-        <div class="card-kicker">Soru 3</div>
-        <div class="card-title">45 yaşında kadın hasta, eklem ağrısı, fotosensitivite ve malar raş ile başvuruyor. ANA (+), düşük kompleman düzeyleri ve böbrek biyopsisinde immün kompleks birikimi saptanıyor. Bu hasta hangi tip hipersensitivite reaksiyonu ile ilişkili bir hastalığa sahiptir?</div>
-        <div class="card-body">Tip III.</div>
+        <div class="card-title">Soru 3 — 45 yaşında kadın hasta, eklem ağrısı, fotosensitivite ve malar raş ile başvuruyor. ANA (+), düşük kompleman düzeyleri ve böbrek biyopsisinde immün kompleks birikimi saptanıyor. Bu hasta hangi tip hipersensitivite reaksiyonu ile ilişkili bir hastalığa sahiptir? (A) Tip I (B) Tip II (C) Tip III (D) Tip IV (E) Hiçbiri</div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru: C.</span> Tablo klasik SLE'dir. "Düşük kompleman" (tüketiliyor) + "biyopside immün kompleks birikimi" ifadeleri doğrudan Tip III'ü işaret eder: antijen-antikor kompleksleri glomerülde birikip kompleman aktive ediyor ve tüketiyor.</p>
+          <p>A, B yanlış: Tip I ve Tip II'de kompleman düşüklüğü ve doku biyopsisinde "immün kompleks birikimi" beklenen bulgular değildir (Tip II'de antikor doğrudan hücre yüzeyi antijenine bağlanır, ayrı bir "kompleks" birikmez). D yanlış: Tip IV'te antikor/kompleman değil T hücre infiltrasyonu beklenir, düşük kompleman Tip IV ile açıklanmaz.</p>
+        </div>
         <div class="card-source">2025-2026, Soru 28</div>
       </div>
 
       <div class="card">
-        <div class="card-kicker">Soru 4</div>
-        <div class="card-title">Th1 hücrelerden IFN-gamma salınımının artmasıyla gelişen reaksiyonlar hangi tip ADR'de gelişir?</div>
-        <div class="card-body">Tip IV-A.</div>
-        <div class="card-source">2023-2024</div>
+        <div class="card-title">Soru 4 — Th1 hücrelerden IFN-gamma salınımının artmasıyla gelişen reaksiyonlar hangi tip ADR'de gelişir? (A) Tip I (B) Tip IV-A (C) Tip II-A (D) Tip II-B (E) Tip IV-B</div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru: Tip IV-A.</span> Th1 → IFN-γ → makrofaj aktivasyonu, Pichler sınıflamasının tam tanımıyla Tip IVa'dır (bkz. Bölüm 6.3).</p>
+          <p>A yanlış: Tip I'de efektör Th2/IgE/mast hücresidir, Th1/IFN-γ değil. E (Tip IV-B) yanlış: IVb Th2/eozinofil ekseni ile tanımlanır, Th1/IFN-γ değil. C, D yanlış: "Tip II-A/B" Pichler sınıflamasında yoktur — bu alt harflendirme sadece Tip IV içindir, sınavda kafa karıştırmak için Tip II ile birleştirilmiş çeldiricilerdir.</p>
+        </div>
+        <div class="card-source">2023-2024 (iki ayrı sınav kağıdında, ayrıca 2022-2023'te de aynı soru tekrarlandı)</div>
       </div>
 
       <div class="card">
-        <div class="card-kicker">Soru 5</div>
-        <div class="card-title">Eozinofilinin eşlik ettiği makülopapüler erupsiyon (DRESS) hangi tip ADR ile gelişir?</div>
-        <div class="card-body">Tip IV-B.</div>
-        <div class="card-source">2023-2024</div>
+        <div class="card-title">Soru 5 — Eozinofilinin eşlik ettiği makülopapüler erupsiyon (DRESS) hangi tip ADR ile gelişir? (A) Tip IV-A (B) Tip IV-B (C) Tip I (D) Tip II-A (E) Tip II-B</div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru: Tip IV-B.</span> DRESS, Pichler sınıflamasının ders kitabı örneğidir: T hücre kaynaklı ama Th2/IL-5 ekseni üzerinden eozinofil aktivasyonuyla ilerler.</p>
+          <p>A yanlış: IVa makrofaj/granülom eksenidir, DRESS'in karakteristik eozinofilisini açıklamaz. C yanlış: klinik tablo (ilaç maruziyetinden günler-haftalar sonra başlaması, 24-72 saatten uzun gecikme) Tip I'in dakikalar içindeki mekanizmasıyla uyuşmaz. D, E yanlış: "Tip II" ile alt harflendirme burada da geçersiz bir kombinasyon, çeldiricidir.</p>
+        </div>
+        <div class="card-source">2023-2024, ayrıca 2019 sınavında da aynı soru tekrarlandı</div>
       </div>
 
       <div class="card">
-        <div class="card-kicker">Soru 6</div>
-        <div class="card-title">Toksik Epidermal Nekroliz (TEN) hastalığından sorumlu ADR tipi nedir?</div>
-        <div class="card-body">Tip IV-C.</div>
-        <div class="card-source">2018-2019</div>
+        <div class="card-title">Soru 6 — Tip 1 ADR gelişiminde aşağıdakilerden hangisi yanlıştır? (A) Kişinin allerjenle karşılaşması (B) Spesifik IgG oluşması (C) Antikorun mast hücreleri ve bazofillere Fc parçasıyla bağlanması (D) Allerjenle tekrar karşılaşması (E) Degranülasyon, lipid mediatör salınımı, sitokin yapımı</div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru: B.</span> Tip I'de sensitizasyonu sağlayan antikor spesifik <strong>IgG değil IgE</strong>'dir — soru kökündeki "yanlış" ifadeyi arıyoruz ve B tam olarak bu hatayı içeriyor.</p>
+          <p>A, D doğru (yani "yanlış" seçenek değil): ilk karşılaşma sensitizasyonu, ikinci karşılaşma efektör fazı başlatır — ikisi de gerçek ve gereklidir. C doğru: IgE, Fc bölgesiyle mast hücresi/bazofil FcεRI'ına bağlanır, tam olarak Bölüm 3.1'de anlatılan mekanizma. E doğru: degranülasyon + lipid mediyatör + sitokin üçlüsü, Bölüm 3.2'deki erken+geç faz mediyatörlerinin tam özetidir.</p>
+        </div>
+        <div class="card-source">2022-2023</div>
       </div>
 
       <div class="card">
-        <div class="card-kicker">Soru 7</div>
-        <div class="card-title">Aşağıdaki hastalıklardan hangisi Tip IVa ile uyumlu değildir: Churg-Strauss sendromu, Crohn hastalığı, Wegener granülomatozu, Sarkoidoz, Alerjik Rinit?</div>
-        <div class="card-body">Alerjik Rinit (bu, Tip I örneğidir; diğer dördü granülomatöz/Tip IVa hastalıklardır).</div>
-        <div class="card-source">2023-2024</div>
+        <div class="card-title">Soru 7 — Aşağıdaki hastalıklardan hangisi Tip IVa ile uyumlu değildir? (A) Churg-Strauss sendromu (B) Crohn hastalığı (C) Wegener granülomatozu (D) Sarkoidoz (E) Alerjik Rinit</div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru: E, Alerjik Rinit.</span> Alerjik rinit klasik bir Tip I hastalığıdır (IgE aracılı, mukozal mast hücresi degranülasyonu) — Tip IVa'nın granülomatöz/Th1 eksenine hiç girmez.</p>
+          <p>A, B, C, D yanlış (yani hepsi gerçekten Tip IVa uyumlu): Churg-Strauss, Crohn, Wegener granülomatozu ve sarkoidoz, hepsi Th1/IFN-γ aracılı granülom oluşumuyla giden, Bölüm 6.2'de anlatılan mekanizmayı paylaşan klasik IVa hastalıklarıdır.</p>
+        </div>
+        <div class="card-source">2023-2024 (iki ayrı sınav kağıdında tekrarlanan soru)</div>
       </div>
 
       <div class="card">
-        <div class="card-kicker">Soru 8</div>
-        <div class="card-title">Aşağıdakilerden hangisi Tip III aşırı duyarlılık reaksiyonlarının duyarlılığını artıran faktörlerden değildir: tekrarlayan enfeksiyonlar, otoimmünite, genetik defektler, kompleman yüksekliği?</div>
-        <div class="card-body">Kompleman yüksekliği (kompleman düşüklüğü, yüksekliği değil, riski artırır).</div>
-        <div class="card-source">2021-2022 / 2018-2019 (tekrarlanan soru)</div>
+        <div class="card-title">Soru 8 — Aşağıdakilerden hangisi Tip III aşırı duyarlılık reaksiyonlarının duyarlılığını artıran faktörlerden değildir? (A) Tekrarlayan enfeksiyonlar (B) Kompleman yüksekliği (C) Genetik defektler (D) Otoimmünite (E) — (seçenek kaynakta net değil)</div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru: B, Kompleman yüksekliği.</span> Bölüm 5.2'de anlatıldığı gibi mekanizma tam tersidir: kompleman (özellikle erken klasik yol bileşenleri) immün kompleksleri çözüp temizlemeye yardım eder; eksikliği riski artırır, fazlalığı değil.</p>
+          <p>A, C, D yanlış (gerçek risk faktörleri): tekrarlayan enfeksiyonlar sürekli yeni antijen-antikor kompleksi üretimine yol açar; genetik defektler (özellikle kompleman yolu genlerinde) kompleks temizliğini bozar; otoimmünite kronik, sürekli antijen kaynağı (kendi dokumuz) sağlar.</p>
+        </div>
+        <div class="card-source">2018-2019 ve 2021-2022 sınavlarında ayrı ayrı, aynı şekilde tekrarlanan soru</div>
       </div>
 
       <div class="card">
-        <div class="card-kicker">Soru 9</div>
-        <div class="card-title">Aşağıdakilerden hangisi ADR Tip 2 ile açıklanamaz: yanlış kan transfüzyonu, eritroblastozis fetalis, otoimmün hemolitik anemi, demir eksikliği anemisi, pernisiyöz anemi?</div>
-        <div class="card-body">Demir eksikliği anemisi (immün mekanizmalı değildir; diğerleri gerçek Tip II örnekleridir).</div>
+        <div class="card-title">Soru 9 — Aşağıdakilerden hangisi ADR Tip 2 ile açıklanamaz? (A) Yanlış kan transfüzyonu (B) Eritroblastozis fetalis (C) Otoimmün hemolitik anemi (D) Demir eksikliği anemisi (E) Pernisiyöz anemi</div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru: D, Demir eksikliği anemisi.</span> Bu anemi tipi beslenme/kayıp kaynaklıdır, hiçbir antikor mekanizması içermez.</p>
+          <p>A, B, C, E yanlış (hepsi gerçek Tip II örneği): yanlış transfüzyon ve eritroblastozis fetalis alloantikorlarla (farklı bireyin antijenine karşı); otoimmün hemolitik anemi kendi eritrositine karşı gelişen otoantikorla; pernisiyöz anemi ise mide parietal hücrelerine veya intrinsik faktöre karşı otoantikorla (B12 emilimini bozarak) eritrosit üretimini bozar — dördü de antikor aracılıdır.</p>
+        </div>
         <div class="card-source">2019</div>
       </div>
 
       <div class="card">
-        <div class="card-kicker">Soru 10</div>
-        <div class="card-title">Aşağıdakilerden hangisinin patogenezinde Tip 2 ADR sorumlu değildir: pemfigus vulgaris, myastenia gravis, Multipl Skleroz, Graves hastalığı, Goodpasture?</div>
-        <div class="card-body">Multipl Skleroz (patogenezi T hücre aracılıdır, antikor aracılı değildir).</div>
+        <div class="card-title">Soru 10 — Aşağıdakilerden hangisinin patogenezinde Tip 2 ADR sorumlu değildir? (A) Pemfigus vulgaris (B) Myastenia gravis (C) Multipl Skleroz (D) Graves hastalığı (E) Goodpasture</div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru: C, Multipl Skleroz.</span> MS'in patogenezi büyük ölçüde otoreaktif T hücreleri (Th1/Th17) ve bunların merkezi sinir sisteminde miyeline karşı yaptığı hasarla açıklanır — antikor aracılı bir Tip II hastalığı değildir.</p>
+          <p>A, B, D, E yanlış (hepsi gerçek Tip II örneği): Bölüm 4.3'te anlatıldığı gibi pemfigus vulgaris (anti-desmoglein), myastenia gravis (anti-asetilkolin reseptörü), Graves (anti-TSH reseptörü) ve Goodpasture (anti-GBM) hepsi spesifik bir hücre yüzeyi/doku antijenine karşı antikorla giden klasik Tip II hastalıklarıdır.</p>
+        </div>
         <div class="card-source">2018-2019</div>
       </div>
 
       <div class="card">
-        <div class="card-kicker">Soru 11</div>
-        <div class="card-title">Allerjenle karşılaşıldığında yanıt olarak Th hücrelerinin farklılaşmasında ve aşırı duyarlılık reaksiyonunun (Tip I veya Tip IV) gelişmesinde ana etken nedir?</div>
-        <div class="card-body">Alerjenin miktarı.</div>
-        <div class="card-source">2021-2022 / 2023-2024 (tekrarlanan soru)</div>
+        <div class="card-title">Soru 11 — Allerjenle karşılaşıldığında yanıt olarak Th hücrelerinin farklılaşmasında ve aşırı duyarlılık reaksiyonunun (Tip I veya Tip IV) gelişmesinde ana etken nedir? (A) Alerjenin tipi (B) Alerjenin miktarı (C) Alerjenle daha önce karşılaşılması (D) Alerjenin vücuda giriş şekli (E) Hepsi</div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru: B, Alerjenin miktarı.</span> Bölüm 3.5'te açıklandığı gibi antijen dozu, Th1/Th2 farklılaşma yönünü belirleyen ana değişkendir.</p>
+          <p>A, D yanlış: alerjenin tipi ve giriş şekli etkili olabilir ama sınavların ısrarla vurguladığı "ana etken" miktardır. C yanlış: önceden karşılaşma (sensitizasyon) Bölüm 2'de anlatıldığı gibi HER hipersensitivite tipi için zaten gerekli bir ön koşuldur — Tip I ile Tip IV arasındaki seçimi AYIRT EDEN faktör değildir, ikisi için de ortaktır. E yanlış: soru spesifik olarak "ana etken"i sorduğu için "hepsi" cevabı sınavın beklediği tekil, kesin cevabı sulandırır.</p>
+        </div>
+        <div class="card-source">2019, 2020, 2021-2022 ve 2023-2024 (iki ayrı oturum) — toplam en az beş kez tekrarlanan soru</div>
       </div>
 
       <div class="card">
-        <div class="card-kicker">Soru 12</div>
-        <div class="card-title">Alerjik reaksiyonlarda en erken salınan mediyatör hangisidir?</div>
-        <div class="card-body">Histamin.</div>
-        <div class="card-source">2019 / 2023-2024 (tekrarlanan soru)</div>
+        <div class="card-title">Soru 12 — Behçet hastalığı, Romatoid artrit ve Psöriatik artrit patogenezinden ortak sorumlu hipersensitivite reaksiyonu aşağıdakilerden hangisidir? (A) Tip-4c (B) Tip-4d (C) Tip-4b (D) Tip-2 (E) Tip-3</div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru: B, Tip-4d.</span> Üçü de T hücre kaynaklı, nötrofil aktivasyonuyla giden (IL-8/GM-CSF ekseni) bir mekanizmayı paylaşır — bkz. Bölüm 6.3 tablosu.</p>
+          <p>A yanlış: IVc sitotoksik T hücresi/apoptoz eksenidir (TEN gibi), bu üç hastalığın ortak mekanizması değil. C yanlış: IVb eozinofil eksenidir (DRESS gibi), buradaki hastalıklarda baskın hücre değildir. D, E yanlış: Tip II ve Tip III antikor/kompleks aracılıdır, bu üç hastalığın patogenezinde T hücre aracılı mekanizma kadar merkezi değildir.</p>
+          <p><em>Not:</em> Gerçek klinik pratikte RA ve psöriatik artritin patogenezi tek bir Gell-Coombs kutusuna sığdırılamayacak kadar çok yönlüdür (otoantikorlar, sitokin ağları, genetik yatkınlık da rol oynar) — bu soru, sınavın beklediği basitleştirilmiş sınıflandırma cevabıdır, konunun tüm karmaşıklığının tam bir özeti değildir.</p>
+        </div>
+        <div class="card-source">2020</div>
       </div>
 
       <div class="card">
-        <div class="card-kicker">Soru 13</div>
-        <div class="card-title">Anafilaksi tablosunda en önemli ve hayat kurtarıcı ilk tedavi seçeneği aşağıdakilerden hangisidir?</div>
-        <div class="card-body">Adrenalin (epinefrin).</div>
-        <div class="card-source">2025-2026, Soru 29</div>
-      </div>
-
-      <div class="card">
-        <div class="card-kicker">Soru 14</div>
-        <div class="card-title">Hipersensitivite (aşırı duyarlılık) reaksiyonlarının ortak özelliği nedir?</div>
-        <div class="card-body">Daha önceden antijen ile karşılaşılmış olması (sensitizasyon) — dört tipin tamamı için geçerli ortak şart.</div>
-        <div class="card-source">2018-2019 / 2020 / 2021-2022 (üç farklı dönemde tekrarlanan soru)</div>
+        <div class="card-title">Soru 13 (tartışmalı) — Th2 hücrelerden salınan sitokinlerle eozinofillerin aktivasyonu ile gelişen reaksiyonlar hangi tip ADR'de görülür? (A) Tip II-A (B) Tip II-B (C) Tip IV-A (D) Tip IV-B (E) Tip I</div>
+        <div class="card-body">
+          <p><span class="opt-correct">Kaynakta resmi cevap: D, Tip IV-B</span> — soru kökü, DRESS gibi ilaç erüpsiyonlarında görülen Th2/eozinofil eksenini (Bölüm 6.3, IVb) tanımlıyor gibi okunabilir.</p>
+          <p><strong>Ama bu soruya sınavda öğrenciler itiraz etmiş</strong> ve E (Tip I) olması gerektiğini savunmuşlar — bu itiraz da tıbben temelsiz değil: Tip I'in geç fazı da (Bölüm 3.2) tam olarak Th2 sitokinleri (IL-4/IL-5) aracılığıyla eozinofil aktivasyonuyla ilerler. Sorunun kökü, bu iki mekanizmayı ayırt edecek kritik bilgiyi (IgE/mast hücresi tetiklemesi var mı yok mu, yani olay bir Tip I geç fazı mı yoksa baştan T hücre kaynaklı bir Tip IVb süreci mi) içermiyor; sadece "Th2 sitokinleriyle eozinofil aktivasyonu" ifadesi tek başına ikisini de tarif edebilir. Pratik çıkarım: gerçek sınavda böyle muğlak bir soru kökü görürsen, DRESS/ilaç erüpsiyonu gibi net bir T-hücre-kaynaklı bağlam veriliyorsa IVb'yi, IgE/akut alerji bağlamı veriliyorsa Tip I'i düşün.</p>
+        </div>
+        <div class="card-source">2023-2024 — kaynakta "öğrenciler E olması gerekir deyip itiraz ettiler" notu düşülmüş</div>
       </div>
 
     </div>
