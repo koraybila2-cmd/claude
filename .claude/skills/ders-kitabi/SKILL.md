@@ -34,7 +34,8 @@ Konu şemasındaki her bölüm için şunları üret:
 - Yüksek olasılıklı/sık karıştırılan noktalar için ayrı, görsel olarak vurgulanacak kısa notlar
 - Bölüm sonu pratik soruları (gerçek çıkmış sorular varsa kaynağıyla + konuyu pekiştirecek birkaç yeni soru)
 - Mümkünse bir özet tablosu
-- Konudan yıllara göre kaç soru çıktığı (soru-analizi.md'den)
+- Konudan yıllara göre kaç soru çıktığı (soru-analizi.md'den) — **bar chart olarak** (bkz. references/veri-gorsellestirme.md)
+- Metinde geçen gerçek sayısal/karşılaştırmalı veri (prevalans, laboratuvar eşik değeri, duyarlılık/özgüllük gibi) için gerekli yerlerde ek grafik — references/veri-gorsellestirme.md
 
 Bölümleri **tek tek işle**: her biri bitince ilgili çıktı dosyasına (3A/3B/3C'de tarif edilen) ekle ve kullanıcıya kısa bir ilerleme notu ver ("N. bölüm tamamlandı: <başlık>"). Tüm dersi tek seferde yazmaya çalışmak hem bağlamı şişirir hem de kullanıcının şikayet ettiği "limit" sorununu burada yeniden yaratır — bölümlere bölmek ve ilerledikçe diske yazmak bunun çözümüdür. Konu çok kapsamlıysa anlatim-tarzi.md'nin izin verdiği gibi birden fazla mesaja yay, derinlikten ödün verme.
 

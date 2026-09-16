@@ -24,7 +24,9 @@ Koyu tonlar (`-700`/`-900` gibi) `color-mix(in oklch, <renk>, black N%)` ile tü
 
 ## Kullanılan sınıflar (sabit tut, yeniden icat etme)
 
-Aynı `.book-page`, `.book-kicker`, `.book-title`, `.book-byline`, `.book-section`, `.book-h2`, `.book-p`/`.book-list`, `.tag.tag-accent-2` + `.highlight-p` (sadece "sık karıştırılan/sorulan" vurgusu için), `.table`, `.qa-list` + `.card` (`.card-kicker`, `.card-title`, `.card-body`) sınıfları — bkz. `kitap-sablonu.html`'in `<style>` bloğu. Broadsheet kuralı aynen geçerli: gövde bölümlerini ayırmak için çerçeve/çizgi kullanma, sadece boşluk; `.card` yalnızca gerçekten ayrık, listelenebilir öğeler (sorular) için.
+Aynı `.book-page`, `.book-kicker`, `.book-title`, `.book-byline`, `.book-section`, `.book-h2`, `.book-p`/`.book-list`, `.tag.tag-accent-2` + `.highlight-p` (sadece "sık karıştırılan/sorulan" vurgusu için), `.table`, `.qa-list` + `.card` (`.card-kicker`, `.card-title`, `.card-body`), `.chart-figure`/`.chart-caption` (grafikler için) sınıfları — bkz. `kitap-sablonu.html`'in `<style>` bloğu. Broadsheet kuralı aynen geçerli: gövde bölümlerini ayırmak için çerçeve/çizgi kullanma, sadece boşluk; `.card` yalnızca gerçekten ayrık, listelenebilir öğeler (sorular) için.
+
+Sayısal/karşılaştırmalı veri için grafik ekleme kuralları ve `scripts/bar_chart_svg.js` aracının kullanımı için **references/veri-gorsellestirme.md**.
 
 ## Üretim adımları
 
