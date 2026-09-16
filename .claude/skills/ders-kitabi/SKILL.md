@@ -31,11 +31,11 @@ Yazım felsefesi ve kuralları için **references/anlatim-tarzi.md** dosyasını
 
 Konu şemasındaki her bölüm için şunları üret:
 - Tam metin anlatım (anlatim-tarzi.md'ye göre)
+- **Anlatımın içinde, ilgili paragrafın tam yanında** — o bölümde geçen her gerçek sayısal/karşılaştırmalı veri (prevalans, laboratuvar eşik değeri, duyarlılık/özgüllük, doz/etki karşılaştırması, risk oranı gibi) için grafik/zengin tablo. Bu, sadece "yıllara göre soru sayısı" ile sınırlı DEĞİLDİR ve bölüm sonuna bırakılan ek bir adım değildir — bölümü yazarken o bölümdeki veriyi görsel fırsatı olarak aktif tara. Kaç tane gerekiyorsa o kadar (hiç olmayabilir de, birden fazla da olabilir). Detay ve karar kuralı: references/veri-gorsellestirme.md.
 - Yüksek olasılıklı/sık karıştırılan noktalar için ayrı, görsel olarak vurgulanacak kısa notlar
 - Bölüm sonu pratik soruları (gerçek çıkmış sorular varsa kaynağıyla + konuyu pekiştirecek birkaç yeni soru)
 - Mümkünse bir özet tablosu
-- Konudan yıllara göre kaç soru çıktığı (soru-analizi.md'den) — **bar chart olarak** (bkz. references/veri-gorsellestirme.md)
-- Metinde geçen gerçek sayısal/karşılaştırmalı veri (prevalans, laboratuvar eşik değeri, duyarlılık/özgüllük gibi) için gerekli yerlerde ek grafik — references/veri-gorsellestirme.md
+- Konudan yıllara göre kaç soru çıktığı (soru-analizi.md'den) — **bar chart olarak** (bkz. references/veri-gorsellestirme.md) — bu yukarıdakinin yanında, ayrıca eklenir
 
 Bölümleri **tek tek işle**: her biri bitince ilgili çıktı dosyasına (3A/3B/3C'de tarif edilen) ekle ve kullanıcıya kısa bir ilerleme notu ver ("N. bölüm tamamlandı: <başlık>"). Tüm dersi tek seferde yazmaya çalışmak hem bağlamı şişirir hem de kullanıcının şikayet ettiği "limit" sorununu burada yeniden yaratır — bölümlere bölmek ve ilerledikçe diske yazmak bunun çözümüdür. Konu çok kapsamlıysa anlatim-tarzi.md'nin izin verdiği gibi birden fazla mesaja yay, derinlikten ödün verme.
 

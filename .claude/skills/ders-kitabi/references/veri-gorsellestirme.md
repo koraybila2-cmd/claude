@@ -1,6 +1,8 @@
 # Veri Görselleştirme (Grafik, Tablo, Sayısal Veri)
 
-Kullanıcının onayladığı kalıcı kural: metinde ham sayısal/karşılaştırmalı veri geçtiğinde bunu düz cümle içinde boğmak yerine **gerekli yerlerde** grafik, zenginleştirilmiş tablo veya öne çıkan sayısal veri (stat) olarak göster. Bu, her bölümde otomatik uygulanacak bir adımdır — istisnası, verinin gerçekten grafiğe değecek bir karşılaştırma/büyüklük içermediği durumlardır (aşağıya bakın).
+Kullanıcının onayladığı ve tekrar vurguladığı kalıcı kural: metinde ham sayısal/karşılaştırmalı veri geçtiğinde bunu düz cümle içinde boğmak yerine **gerekli yerlerde** grafik, zenginleştirilmiş tablo veya öne çıkan sayısal veri (stat) olarak göster. **Bu, "yıllara göre soru sayısı" grafiğiyle sınırlı değildir** — asıl kapsamı konu anlatımının kendisidir: bölüm içinde prevalans, laboratuvar eşiği, duyarlılık/özgüllük, doz aralığı, risk oranı gibi gerçek karşılaştırmalı veri her geçtiğinde bir görsel fırsatı olarak değerlendirilir. Yıllık soru sıklığı bunun sadece tek, sabit bir uygulamasıdır (her bölümde zaten var olduğu için otomatik/standart), asıl ağırlık anlatımın içindeki veridedir.
+
+Pratikte: her bölümü yazarken (SKILL.md 2. adımdaki "bölümleri tek tek işle" akışında), o bölümdeki her sayısal/karşılaştırmalı veriyi görsel adayı olarak tara — bölüm bitip "yıllara göre soru sayısı" kısmına gelince değil, o bölümü yazarken. İstisnası, verinin gerçekten grafiğe değecek bir karşılaştırma/büyüklük içermediği durumlardır (aşağıya bakın).
 
 ## Önce karar ver: grafik mi, tablo mu, düz metin mi?
 
@@ -42,10 +44,12 @@ node .claude/skills/ders-kitabi/scripts/bar_chart_svg.js girdi.json > cikti-svg.
 
 Çıktı, doğrudan HTML'e yapıştırılacak bir `<svg>...</svg>` bloğudur — Broadsheet CSS değişkenlerini (`var(--color-accent-700)` vb.) referans alır, bu yüzden sayfanın `<style>` bloğunda bu değişkenler tanımlı olduğu sürece renkler otomatik doğru çıkar. Yapıştırdıktan sonra **mutlaka PDF'e basıp görsel olarak kontrol et** (etiket çakışması, taşma) — `dataviz`'in 7. adımı ("render edip bak") burada da geçerli.
 
-## Standart kullanım yeri: "Bu Konudan Yıllara Göre Kaç Soru Çıktı"
+## Asıl kullanım yeri: konu anlatımının içi
 
-Her bölümün sonunda zaten üretilen bu tablo artık **varsayılan olarak bar chart'a çevrilir** (tablo tutmaya gerek yok, grafik zaten her değeri doğrudan etiketliyor). Kaynak kod deseni için mevcut bir bölümdeki (ör. `broadsheet-pdf-sablon/kitap-sablonu.html`) bu chart'ı örnek al.
+Metin içinde gerçek, karşılaştırmaya değer sayısal veri geçtiğinde (epidemiyolojik prevalans, laboratuvar eşik değerleri, duyarlılık/özgüllük, doz/etki karşılaştırması, risk oranı gibi) o bölümün içinde, konunun tam o noktasında aynı script ile küçük bir grafik ekle. Bu bir bölüm başına bir kez değil — bölümde kaç tane gerçekten grafik-değeri taşıyan veri noktası/karşılaştırması varsa o kadar olabilir (bir bölümde hiç olmayabilir, bir bölümde üç tane olabilir). Her paragrafı grafiğe çevirme, sadece verinin görsel karşılaştırmayla gerçekten daha anlaşılır olacağı yerlerde (`dataviz`'in "is it even a chart" tablosuna göre karar ver) — ama bunu ararken pasif olma, her bölümü yazarken aktif olarak bu fırsatları tara.
 
-## Diğer kullanım yerleri (içerik bazlı, zorlamadan)
+Örnek: "Artritli Hastaya Yaklaşım" bölümünde SLE'nin etnik gruba göre prevalansı ve sinovyal sıvı lökosit eşikleri anlatımın tam ortasına, ilgili paragrafın hemen yanına eklendi (yıllara göre soru sayısından bağımsız, tamamen içerik kaynaklı) — bkz. `../broadsheet-pdf-sablon/kitap-sablonu.html` ve teslim edilmiş örnek bölümler.
 
-Metin içinde gerçek, karşılaştırmaya değer sayısal veri geçtiğinde (epidemiyolojik prevalans, laboratuvar eşik değerleri, duyarlılık/özgüllük gibi) aynı script ile küçük bir grafik ekle — ama her paragrafı grafiğe çevirme, sadece verinin görsel karşılaştırmayla gerçekten daha anlaşılır olacağı yerlerde (`dataviz`'in "is it even a chart" tablosuna göre karar ver).
+## Ayrıca standart olan yer: "Bu Konudan Yıllara Göre Kaç Soru Çıktı"
+
+Her bölümün sonunda zaten üretilen bu tablo da **varsayılan olarak bar chart'a çevrilir** (tablo tutmaya gerek yok, grafik zaten her değeri doğrudan etiketliyor). Kaynak kod deseni için mevcut bir bölümdeki (ör. `broadsheet-pdf-sablon/kitap-sablonu.html`) bu chart'ı örnek al. **Bu, tek grafik yeri değildir** — yukarıdaki "asıl kullanım yeri" bölümüne bakın.
