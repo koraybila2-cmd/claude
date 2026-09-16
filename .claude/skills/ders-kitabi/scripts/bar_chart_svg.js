@@ -79,9 +79,12 @@ cats.forEach((c, i) => {
   bars += `<path d="${path}" fill="${color}"/>\n  `;
   valueLabels += `<text x="${slotCenter.toFixed(1)}" y="${(barY - 8).toFixed(1)}" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">${c.value}${unit}</text>\n  `;
 
-  // Kategori etiketi iki satira kadar sarilabilir (orn. "2021-2022" tek satir kalsin, uzunsa boluruz).
+  // Kategori etiketi EN FAZLA iki satira sarilabilir (viewBox alt sinirinin disina
+  // tasip kirpilmemesi icin sabit ust sinir) - "2021-2022" tek satir kalsin, uzunsa
+  // ilk kelime 1. satir, kalan kelimelerin tamami 2. satirda birlesir.
   const label = String(c.label);
-  const words = label.length > 10 && label.includes(" ") ? label.split(" ") : [label];
+  const rawWords = label.length > 10 && label.includes(" ") ? label.split(" ") : [label];
+  const words = rawWords.length > 2 ? [rawWords[0], rawWords.slice(1).join(" ")] : rawWords;
   words.forEach((w, li) => {
     axisLabels += `<text x="${slotCenter.toFixed(1)}" y="${(baselineY + 18 + li * 14).toFixed(1)}" text-anchor="middle" font-family="var(--font-body)" font-size="12" fill="var(--color-neutral-700)">${escapeXml(w)}</text>\n  `;
   });
