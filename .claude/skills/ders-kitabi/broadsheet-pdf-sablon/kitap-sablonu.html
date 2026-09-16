@@ -41,6 +41,8 @@
   table.table { width: 100%; border-collapse: collapse; font-size: 0.86rem; margin: 4px 0 16px 0; break-inside: avoid; }
   table.table th { text-align: left; font-family: var(--font-heading); font-weight: 700; border-bottom: 1.5px solid var(--color-text); padding: 6px 10px 6px 0; }
   table.table td { border-bottom: 1px solid color-mix(in oklch, var(--color-text) 15%, white); padding: 7px 10px 7px 0; vertical-align: top; }
+  .chart-figure { margin: 4px 0 16px 0; break-inside: avoid; }
+  .chart-caption { font-size: 0.82rem; color: var(--color-neutral-700); margin-top: 8px; font-style: italic; text-align: left; }
   .qa-list { display: flex; flex-direction: column; gap: 14px; margin-top: 14px; }
   .card { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 16px 20px; break-inside: avoid; }
   .card-kicker { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 4px; }
@@ -218,20 +220,37 @@
   <div class="book-section">
     <h2 class="book-h2">Bu Konudan Yıllara Göre Kaç Soru Çıktı?</h2>
     <p class="book-p">D3 Blok 1 Modül 2 çıkmış sınavlarının tamamı (2018'den 2026'ya, 7 dönem/sınav kağıdı) satır satır tarandı. Sayım, hipersensitivite tipi sınıflandırmasını/mekanizmasını doğrudan test eden sorularla sınırlı tutuldu — SLE, otoimmünite gibi tematik olarak yakın ama sınıflandırmayı doğrudan sormayan sorular dahil edilmedi.</p>
-    <table class="table">
-      <thead>
-        <tr><th>Dönem</th><th>Soru sayısı</th></tr>
-      </thead>
-      <tbody>
-        <tr><td>2018–2019</td><td>4</td></tr>
-        <tr><td>2019 (ayrı kayıt)</td><td>3</td></tr>
-        <tr><td>2020</td><td>3</td></tr>
-        <tr><td>2021–2022</td><td>3</td></tr>
-        <tr><td>2022–2023</td><td>2</td></tr>
-        <tr><td>2023–2024</td><td>~9 (iki farklı sınav kağıdında, bazı tekrarlarla)</td></tr>
-        <tr><td>2025–2026 (güncel)</td><td>5</td></tr>
-      </tbody>
-    </table>
+    <figure class="chart-figure">
+      <svg viewBox="0 0 640 300" width="100%" style="display:block" role="img" aria-label="Yillara gore hipersensitivite sorusu sayisi">
+        <line x1="20" y1="254" x2="620.0" y2="254" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+        <line x1="20" y1="197.5" x2="620.0" y2="197.5" stroke="var(--color-neutral-700)" stroke-opacity="0.18" stroke-width="1"/>
+        <line x1="20" y1="141.0" x2="620.0" y2="141.0" stroke="var(--color-neutral-700)" stroke-opacity="0.18" stroke-width="1"/>
+        <line x1="20" y1="84.5" x2="620.0" y2="84.5" stroke="var(--color-neutral-700)" stroke-opacity="0.18" stroke-width="1"/>
+        <line x1="20" y1="28.0" x2="620.0" y2="28.0" stroke="var(--color-neutral-700)" stroke-opacity="0.18" stroke-width="1"/>
+        <path d="M50.857142857142854,254 L50.857142857142854,167.6 Q50.857142857142854,163.6 54.9,163.6 L70.9,163.6 Q74.9,163.6 74.9,167.6 L74.9,254 Z" fill="var(--color-accent-700)"/>
+        <path d="M136.57142857142856,254 L136.57142857142856,190.2 Q136.57142857142856,186.2 140.6,186.2 L156.6,186.2 Q160.6,186.2 160.6,190.2 L160.6,254 Z" fill="var(--color-accent-700)"/>
+        <path d="M222.28571428571428,254 L222.28571428571428,190.2 Q222.28571428571428,186.2 226.3,186.2 L242.3,186.2 Q246.3,186.2 246.3,190.2 L246.3,254 Z" fill="var(--color-accent-700)"/>
+        <path d="M308,254 L308,190.2 Q308,186.2 312.0,186.2 L328.0,186.2 Q332.0,186.2 332.0,190.2 L332.0,254 Z" fill="var(--color-accent-700)"/>
+        <path d="M393.71428571428567,254 L393.71428571428567,212.8 Q393.71428571428567,208.8 397.7,208.8 L413.7,208.8 Q417.7,208.8 417.7,212.8 L417.7,254 Z" fill="var(--color-accent-700)"/>
+        <path d="M479.4285714285714,254 L479.4285714285714,54.6 Q479.4285714285714,50.6 483.4,50.6 L499.4,50.6 Q503.4,50.6 503.4,54.6 L503.4,254 Z" fill="var(--color-accent-700)"/>
+        <path d="M565.1428571428571,254 L565.1428571428571,145.0 Q565.1428571428571,141.0 569.1,141.0 L585.1,141.0 Q589.1,141.0 589.1,145.0 L589.1,254 Z" fill="var(--color-accent-700)"/>
+        <text x="62.9" y="155.6" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">4</text>
+        <text x="148.6" y="178.2" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">3</text>
+        <text x="234.3" y="178.2" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">3</text>
+        <text x="320.0" y="178.2" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">3</text>
+        <text x="405.7" y="200.8" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">2</text>
+        <text x="491.4" y="42.6" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">9</text>
+        <text x="577.1" y="133.0" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">5</text>
+        <text x="62.9" y="272.0" text-anchor="middle" font-family="var(--font-body)" font-size="12" fill="var(--color-neutral-700)">2018-2019</text>
+        <text x="148.6" y="272.0" text-anchor="middle" font-family="var(--font-body)" font-size="12" fill="var(--color-neutral-700)">2019</text>
+        <text x="234.3" y="272.0" text-anchor="middle" font-family="var(--font-body)" font-size="12" fill="var(--color-neutral-700)">2020</text>
+        <text x="320.0" y="272.0" text-anchor="middle" font-family="var(--font-body)" font-size="12" fill="var(--color-neutral-700)">2021-2022</text>
+        <text x="405.7" y="272.0" text-anchor="middle" font-family="var(--font-body)" font-size="12" fill="var(--color-neutral-700)">2022-2023</text>
+        <text x="491.4" y="272.0" text-anchor="middle" font-family="var(--font-body)" font-size="12" fill="var(--color-neutral-700)">2023-2024</text>
+        <text x="577.1" y="272.0" text-anchor="middle" font-family="var(--font-body)" font-size="12" fill="var(--color-neutral-700)">2025-2026</text>
+      </svg>
+      <figcaption class="chart-caption">Şekil — D3 Blok 1 Modül 2 çıkmış sınavlarında yıllara göre hipersensitivite sorusu sayısı. 2023–2024 değeri iki farklı sınav kağıdını (bazı tekrarlarla) birlikte kapsar.</figcaption>
+    </figure>
     <p class="book-p">Sonuç: bu konu taranan 7 dönemin <strong>tamamında</strong> soruldu — istisnasız, en yüksek olasılıklı konulardan biri. Özellikle Tip IV alt sınıflaması (IVa–d) neredeyse her dönem ayrı bir soru olarak karşımıza çıkıyor; bu, sunumda hiç geçmeyen ama sınavda sürekli sorulan bir noktaya iyi bir örnek.</p>
   </div>
 
