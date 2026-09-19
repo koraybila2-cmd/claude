@@ -3,7 +3,7 @@ name: ders-kitabi
 description: |
   Bir ders/konu icin Google Drive'daki ders sunumlarini ve cikmis sinav sorularini bulup, tek bir uctan uca akista: icerigi okur/gerekirse OCR ile cikarir, konu semasi cikarir, cikmis sorularla yuksek-olasilikli (sik sorulan) konulari isaretler, sifirdan textbook derinliginde -- sunumla ve sorularla sinirli kalmayan, nedensellige dayali -- anlatim ve bolum sonu + genel deneme sinavi sorulari yazar, sonucu kullanicinin onayladigi Broadsheet tasarim sistemi gorunumunde gercek bir PDF dosyasi olarak (istenirse interaktif canvas veya Word olarak da) uretir. NotebookLM/Gemini'ye gecmeyi, ayri bir OCR uygulamasi kullanmayi ve son metni elle Claude Design'a tasimayi gereksiz kilmak icin kullan.
 
-  Kullanici "ders kitabi hazirla", "şu konunun/dersin kitabini cikar", "sunumlari kitaba cevir", "cikmis sorularla sinava hazirla", "notebooklm'e gerek kalmadan ozet/sema cikar", "bu dersi bastan anlat ve sinava hazirla" dediginde, ya da Drive'daki ders materyallerinden calisma kitabi / sinav hazirlik materyali istediginde bu skill'i kullan -- kullanici NotebookLM, OCR veya Claude Design'i acikca adlandirmasa bile aynı is akisini tarif ediyorsa tetikle.
+  Kullanici "ders kitabi hazirla", "şu konunun/dersin kitabini cikar", "sunumlari kitaba cevir", "cikmis sorularla sinava hazirla", "notebooklm'e gerek kalmadan ozet/sema cikar", "bu dersi bastan anlat ve sinava hazirla" dediginde, ya da Drive'daki ders materyallerinden calisma kitabi / sinav hazirlik materyali istediginde bu skill'i kullan -- kullanici NotebookLM, OCR veya Claude Design'i acikca adlandirmasa bile aynı is akisini tarif ediyorsa tetikle. Kullanici Drive/sunum/cikmis soru olmadan da "şu konuyu textbook derinliginde anlat" derse yine bu skill'i kullan (bkz. adim 0B) -- kaynak yoklugu bu skill'i degil, yalnizca 1. adimdaki Drive taramasini atlatir.
 ---
 
 # Ders Kitabı Otomasyonu
@@ -13,6 +13,8 @@ Bu skill, elle yürütülen şu zinciri tek oturumda yapar: **Drive'dan kaynak b
 ## 0. Girdiyi belirle
 
 İstekte zaten geçmiyorsa tek soruda netleştir: (a) ders/konu adı, (b) Drive'da klasör/dosya ipucu (klasör linki, ders adı, hoca adı, dönem vb.). Çıktı formatı belirtilmemişse **Broadsheet görünümünde bir PDF dosyası** varsay — kullanıcı bunu standart format olarak onayladı (HTML/canvas linki değil, indirilebilir dosya). Kullanıcı özellikle interaktif/ekran versiyonu veya düzenlenebilir Word isterse 3B/3C adımına geç. Birden fazla ders/konu isteniyorsa hepsini aynı anda işlemeye çalışma — her birini ayrı ayrı, bu akışın tamamıyla sırayla tamamla.
+
+**Kaynak yoksa (0B):** Kullanıcı "bu konuda sunum/çıkmış soru yok, sıfırdan/textbook derinliğinde anlat" derse, Drive'da arama yapmadan doğrudan 2. adıma (yazım) geç — içerik tamamen kendi bilginden, anlatim-tarzi.md'nin derinlik/nedensellik kurallarıyla üretilir. Yine de, daha önce aynı ders/dönem için indirilmiş bir çıkmış-soru arşivi (ör. önceki bir konu için okunmuş bir OCR dosyası) elindeyse bunu atlama — o dosyada bu yeni konuyla ilgili sorular olabilir (önceki konularda "bu konunun dışı" diye kenara ayrılmış olabilirler). Sessizce tara, bulduğunu soru-analizi.md'ye işle ve normal akışa (Bölüm 2'deki entegrasyon) dahil et; konu şeması için ayrı bir kaynak taraması gerekmez, konunun iskeletini kendi bilginden kur.
 
 ## 1. Kaynak toplama, çıkarma ve konu şeması
 
