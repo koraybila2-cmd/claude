@@ -32,8 +32,9 @@ Bu iki dosya NotebookLM'in yaptığı şemalandırmanın yerini alır — ayrı 
 Yazım felsefesi ve kuralları için **references/anlatim-tarzi.md** dosyasını oku ve harfiyen uygula — bu kullanıcının kendi tanımladığı, sabit talimattır (özet: sunum ve sorular sadece bağlam/kapsam göstergesidir, sınır değildir; textbook derinliği; nedensellik; konuyu sorular yokmuş gibi anlatıp sadece örtüştüğü yerlerde vurgu yap).
 
 Konu şemasındaki her bölüm için şunları üret:
-- Tam metin anlatım (anlatim-tarzi.md'ye göre)
+- Tam metin anlatım (anlatim-tarzi.md'ye göre) — **özellikle "Mekanizma anlatımı: adım adım nedensellik" bölümündeki disiplinle**: her çok adımlı mekanizma açık, nedenli, sıralı adımlara bölünmüş olmalı; konuyu ilk kez gören biri tam anlamıyla anlayabilmeli. Bu kitaplardaki tekrar eden zayıflık noktası burasıdır, üstünkörü geçme.
 - **Anlatımın içinde, ilgili paragrafın tam yanında** — o bölümde geçen her gerçek sayısal/karşılaştırmalı veri (prevalans, laboratuvar eşik değeri, duyarlılık/özgüllük, doz/etki karşılaştırması, risk oranı gibi) için grafik/zengin tablo. Bu, sadece "yıllara göre soru sayısı" ile sınırlı DEĞİLDİR ve bölüm sonuna bırakılan ek bir adım değildir — bölümü yazarken o bölümdeki veriyi görsel fırsatı olarak aktif tara. Kaç tane gerekiyorsa o kadar (hiç olmayabilir de, birden fazla da olabilir). Detay ve karar kuralı: references/veri-gorsellestirme.md.
+- **Çok adımlı/dallanan bir mekanizma, sinyal yolağı veya patogenez zinciri varsa mutlaka bir kutu+ok şeması** — bu, sayısal grafiklerden ayrı bir görsel türüdür (references/mekanizma-semasi.md). Özellikle birden fazla ilacın aynı yolağın farklı noktalarını hedeflediği durumlarda (ör. bir sinyal kaskadı üzerinde her ilaç sınıfının bloke ettiği basamağı gösteren tek bir şema) bu şema türü en yüksek pedagojik değeri taşır — atlama.
 - Yüksek olasılıklı/sık karıştırılan noktalar için ayrı, görsel olarak vurgulanacak kısa notlar
 - Bölüm sonu pratik soruları (gerçek çıkmış sorular varsa kaynağıyla + konuyu pekiştirecek birkaç yeni soru)
 - Mümkünse bir özet tablosu
