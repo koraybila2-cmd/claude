@@ -1,0 +1,168 @@
+@import url("fonts/fonts.css");
+
+:root {
+  --paper: #fbfaf9;
+  --ink: #201e1d;
+  --ink-soft: #3a3634;
+  --muted: #6b6560;
+  --rule: #d9d5d2;
+  --cyan: #0088b0;
+  --cyan-700: #005f7b;
+  --cyan-900: #003c4e;
+  --cyan-tint: #e3f1f6;
+  --magenta: #d6006c;
+  --magenta-900: #75003b;
+  --magenta-tint: #fbe6ef;
+  --neutral-tint: #efedeb;
+  --serif: "Source Serif 4", Georgia, "DejaVu Serif", serif;
+  --sans: "Source Sans 3", "Liberation Sans", "DejaVu Sans", sans-serif;
+}
+
+@page {
+  size: A4;
+  margin: 22mm 19mm 22mm 19mm;
+  background: var(--paper);
+  @top-right {
+    content: "Kanıta Dayalı Antrenman, Kardiyo ve Beslenme";
+    font-family: "Source Sans 3", sans-serif;
+    font-size: 7.5pt;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #8a837d;
+    vertical-align: bottom;
+    padding-bottom: 4mm;
+  }
+  @bottom-center {
+    content: counter(page);
+    font-family: "Source Serif 4", serif;
+    font-size: 9pt;
+    color: #6b6560;
+    vertical-align: top;
+    padding-top: 4mm;
+  }
+}
+@page cover { margin: 0; background: #1c1a19; @top-right { content: none; } @bottom-center { content: none; } }
+@page part { margin: 0; background: #f3f2f2; @top-right { content: none; } @bottom-center { content: none; } }
+@page front { @top-right { content: none; } }
+
+* { box-sizing: border-box; }
+html { font-size: 10.4pt; }
+body { margin: 0; color: var(--ink); background: var(--paper); font-family: var(--serif); font-optical-sizing: auto; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+a { color: var(--cyan-700); text-decoration: none; word-break: break-word; }
+sub, sup { line-height: 0; }
+
+/* ---------- Kapak ---------- */
+.cover { page: cover; height: 296.5mm; width: 210mm; position: relative; color: #f3f2f2; background: #1c1a19; padding: 30mm 22mm 24mm 24mm; display: flex; flex-direction: column; overflow: hidden; }
+.cover .bar { position: absolute; left: 0; top: 0; bottom: 0; width: 9mm; background: linear-gradient(180deg, var(--cyan) 0 62%, var(--magenta) 62% 100%); }
+.cover .kicker { font-family: var(--sans); font-size: 9.5pt; letter-spacing: 0.22em; text-transform: uppercase; color: #7fd3ec; margin-bottom: 18mm; }
+.cover h1 { font-size: 34pt; line-height: 1.07; font-weight: 700; margin: 0 0 9mm 0; letter-spacing: -0.01em; }
+.cover h1 em { font-style: italic; font-weight: 600; color: #ff7fb9; }
+.cover .sub { font-size: 13.5pt; line-height: 1.45; color: #d9d5d2; max-width: 150mm; margin-bottom: 14mm; }
+.cover .scope { font-family: var(--sans); font-size: 9.5pt; line-height: 1.7; color: #bdb7b2; columns: 2; column-gap: 10mm; max-width: 155mm; }
+.cover .scope div::before { content: "— "; color: var(--cyan); }
+.cover .foot { margin-top: auto; font-family: var(--sans); font-size: 9pt; color: #a8a19b; line-height: 1.6; border-top: 1px solid #4a4542; padding-top: 5mm; }
+.cover .foot strong { color: #f3f2f2; font-weight: 600; }
+
+/* ---------- Ön kısım ---------- */
+.front { page: front; break-before: page; }
+.front h1 { font-size: 22pt; margin: 0 0 6mm 0; line-height: 1.15; }
+.front .lead { font-size: 11.5pt; line-height: 1.6; color: var(--ink-soft); }
+.legend { display: grid; grid-template-columns: 26mm 1fr; gap: 3mm 5mm; margin: 4mm 0 6mm 0; align-items: start; font-size: 0.95rem; line-height: 1.5; }
+
+/* ---------- İçindekiler ---------- */
+.toc { page: front; break-before: page; }
+.toc h1 { font-size: 22pt; margin: 0 0 8mm 0; }
+.toc .toc-part { font-family: var(--sans); font-size: 8.5pt; letter-spacing: 0.16em; text-transform: uppercase; color: var(--cyan-700); margin: 6mm 0 2mm 0; break-after: avoid; }
+.toc .row { display: flex; align-items: baseline; gap: 2mm; line-height: 1.35; break-inside: avoid; }
+.toc .row .t { flex: 0 1 auto; }
+.toc .row .dots { flex: 1 1 auto; border-bottom: 1px dotted #b5afaa; transform: translateY(-3px); min-width: 6mm; }
+.toc .row .p { flex: 0 0 auto; font-variant-numeric: tabular-nums; min-width: 8mm; text-align: right; }
+.toc .row.ch { font-weight: 700; font-size: 10.5pt; margin-top: 2.2mm; }
+.toc .row.ch .n { color: var(--cyan-700); margin-right: 1.5mm; }
+.toc .row.sec { font-size: 9.2pt; color: var(--ink-soft); padding-left: 7mm; margin-top: 0.6mm; }
+
+/* ---------- Kısım sayfası ---------- */
+.part { page: part; height: 296.5mm; width: 210mm; position: relative; background: #f3f2f2; padding: 70mm 24mm 24mm 30mm; break-before: page; overflow: hidden; }
+.part .bar { position: absolute; left: 0; top: 0; bottom: 0; width: 7mm; background: var(--cyan); }
+.part .num { font-family: var(--sans); font-size: 11pt; letter-spacing: 0.25em; text-transform: uppercase; color: var(--cyan-700); margin-bottom: 6mm; }
+.part h1 { font-size: 36pt; line-height: 1.08; margin: 0 0 12mm 0; }
+.part .chs { font-size: 12pt; line-height: 1.9; color: var(--ink-soft); }
+.part .chs span { color: var(--cyan-700); font-weight: 700; margin-right: 3mm; font-variant-numeric: tabular-nums; }
+.part .intro { font-size: 11pt; line-height: 1.6; color: var(--muted); max-width: 140mm; margin-bottom: 12mm; font-style: italic; }
+
+/* ---------- Bölüm ---------- */
+.chapter { break-before: page; }
+.chapter-head { margin: 0 0 9mm 0; padding-bottom: 5mm; border-bottom: 2px solid var(--ink); }
+.chapter-head .ck { font-family: var(--sans); font-size: 9pt; letter-spacing: 0.2em; text-transform: uppercase; color: var(--cyan-700); margin-bottom: 3mm; }
+.chapter-head h1 { font-size: 23pt; line-height: 1.12; margin: 0; font-weight: 700; letter-spacing: -0.005em; position: relative; }
+h2, h3, h4 { position: relative; }
+.chapter h2 { font-size: 14.5pt; line-height: 1.25; margin: 9mm 0 3mm 0; break-after: avoid; font-weight: 700; }
+.chapter h2 .sn { color: var(--cyan-700); margin-right: 2mm; font-variant-numeric: tabular-nums; }
+.chapter h3 { font-size: 11.8pt; line-height: 1.3; margin: 6mm 0 2mm 0; break-after: avoid; font-weight: 700; }
+.chapter h3 .sn { color: var(--muted); margin-right: 1.8mm; font-weight: 600; font-variant-numeric: tabular-nums; }
+.chapter h4 { font-family: var(--sans); font-size: 9.6pt; letter-spacing: 0.06em; text-transform: uppercase; margin: 4.5mm 0 1.5mm 0; color: var(--ink-soft); break-after: avoid; }
+p { line-height: 1.62; margin: 0 0 2.6mm 0; text-align: justify; hyphens: auto; orphans: 3; widows: 3; }
+ul, ol { line-height: 1.58; margin: 0 0 3mm 0; padding-left: 6mm; }
+li { margin-bottom: 1.2mm; }
+li > p { margin-bottom: 1mm; }
+strong { font-weight: 700; }
+code { font-family: "DejaVu Sans Mono", monospace; font-size: 0.85em; background: var(--neutral-tint); padding: 0 1mm; border-radius: 1px; }
+hr { border: 0; border-top: 1px solid var(--rule); margin: 6mm 0; }
+
+/* Kanıt rozetleri */
+.ev { display: inline-block; font-family: var(--sans); font-size: 7pt; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 0.3mm 1.6mm; border-radius: 2px; vertical-align: 1px; white-space: nowrap; line-height: 1.5; text-align: left; text-indent: 0; }
+.ev-a { background: var(--cyan-900); color: #fff; }
+.ev-b { background: var(--cyan); color: #fff; }
+.ev-c { background: #cfe8f1; color: var(--cyan-900); }
+.ev-d { background: var(--magenta-tint); color: var(--magenta-900); }
+.cite-n { font-family: var(--sans); font-size: 0.78em; color: var(--cyan-700); white-space: nowrap; }
+
+/* Kutular */
+.callout { margin: 4mm 0 4.5mm 0; padding: 3.6mm 4.8mm 2.2mm 4.8mm; border-radius: 2px; break-inside: avoid; font-size: 0.96rem; }
+.callout .k { font-family: var(--sans); font-size: 7.6pt; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; margin-bottom: 1.6mm; }
+.callout p { text-align: left; line-height: 1.55; margin-bottom: 1.8mm; }
+.callout ul, .callout ol { margin-bottom: 1.8mm; }
+.callout.term { background: var(--cyan-tint); }
+.callout.term .k { color: var(--cyan-700); }
+.callout.practice { background: #fff; box-shadow: 0 0.3mm 0.8mm rgba(0,0,0,0.13); }
+.callout.practice .k { color: var(--cyan-700); }
+.callout.warn { background: var(--magenta-tint); }
+.callout.warn .k { color: var(--magenta-900); }
+.callout.myth { background: #fff; box-shadow: 0 0.3mm 0.8mm rgba(0,0,0,0.13); border-left: 1.4mm solid var(--magenta); }
+.callout.myth .k { color: var(--magenta-900); }
+.callout.summary { background: var(--neutral-tint); }
+.callout.summary .k { color: var(--ink-soft); }
+.callout.you { background: #1f3b46; color: #eef7fa; }
+.callout.you .k { color: #8fd8ee; }
+.callout.you a { color: #bfe9f6; }
+.callout.you strong { color: #fff; }
+.callout.study { background: #fff; box-shadow: 0 0.3mm 0.8mm rgba(0,0,0,0.13); border-left: 1.4mm solid var(--cyan); }
+.callout.study .k { color: var(--cyan-700); }
+.callout.evidence { background: #f4f9fb; border-left: 1.4mm solid var(--cyan-900); }
+.callout.evidence .k { color: var(--cyan-900); }
+blockquote { margin: 3mm 0 3.5mm 0; padding: 1mm 0 1mm 5mm; border-left: 1mm solid var(--rule); color: var(--ink-soft); }
+
+/* Tablolar */
+.table-wrap { margin: 3mm 0 5mm 0; }
+table { width: 100%; border-collapse: collapse; font-family: var(--sans); font-size: 8.6pt; line-height: 1.38; }
+thead { display: table-header-group; }
+tr { break-inside: avoid; }
+th { text-align: left; font-weight: 700; border-bottom: 1.4px solid var(--ink); padding: 1.6mm 2.2mm 1.6mm 0; vertical-align: bottom; }
+td { border-bottom: 0.6px solid var(--rule); padding: 1.5mm 2.2mm 1.5mm 0; vertical-align: top; }
+td p, th p { text-align: left; margin: 0; line-height: 1.38; }
+table.small { font-size: 7.8pt; }
+
+/* Kaynaklar */
+.refs { font-size: 8.3pt; line-height: 1.42; color: var(--ink-soft); }
+.refs li { margin-bottom: 1.1mm; text-align: left; break-inside: avoid; }
+.refs p { text-align: left; }
+h2.refs-h { font-size: 12pt; margin-top: 10mm; }
+
+/* Sözlük */
+.glossary dl { columns: 2; column-gap: 8mm; font-size: 8.9pt; line-height: 1.45; }
+.glossary dt { font-weight: 700; break-after: avoid; margin-top: 1.8mm; }
+.glossary dd { margin: 0.3mm 0 0 0; break-before: avoid; text-align: left; }
+.glossary .letter { column-span: none; font-family: var(--sans); font-weight: 700; font-size: 11pt; color: var(--cyan-700); margin-top: 4mm; break-after: avoid; }
+
+/* Sayfa eşleme işaretleri (yalnız 1. geçiş) */
+.pm { position: absolute; left: 0; top: 0; font-size: 2px; line-height: 1; color: #fbfaf8; white-space: nowrap; }
