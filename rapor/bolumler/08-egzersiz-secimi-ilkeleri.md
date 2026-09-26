@@ -38,7 +38,7 @@ Pratik sonuç: hipertrofiyi önemsediğin bir kas için **tek bir "en iyi" egzer
 
 ## EMG ne söyler, ne söylemez?
 
-Egzersiz karşılaştırmalarında sık kullanılan yüzey elektromiyografisi (EMG), deri üzerinden kasın elektriksel aktivitesini ölçer. "Bu hareket göğsü %30 daha fazla aktive ediyor" türü iddiaların çoğu EMG çalışmalarından gelir. Ancak EMG sinyalinin büyüklüğü, elektrot yerleşimi, deri altı yağ dokusu kalınlığı, kas uzunluğu ve sinyal normalizasyon yöntemi gibi pek çok faktörden etkilenir ve **kas büyümesiyle doğrudan ilişkili değildir** [4]. Örneğin kısa kas boyunda EMG genellikle daha yüksektir, ama uzun kas boyunda çalışmak daha fazla büyüme sağlar (Bölüm 5).
+Egzersiz karşılaştırmalarında sık kullanılan yüzey elektromiyografisi (EMG), deri üzerinden kasın elektriksel aktivitesini ölçer. "Bu hareket göğsü %30 daha fazla aktive ediyor" türü iddiaların çoğu EMG çalışmalarından gelir. Ancak EMG sinyalinin büyüklüğü, elektrot yerleşimi, deri altı yağ dokusu kalınlığı, kas uzunluğu ve sinyal normalizasyon yöntemi gibi pek çok faktörden etkilenir ve **kas büyümesiyle doğrudan ilişkili değildir** [4]. Örneğin kısa kas boyunda EMG genellikle daha yüksektir, ama uzun kas boyunda çalışmak daha fazla büyüme sağlar (Bölüm 6).
 
 > **DİKKAT:** Bir egzersizin "en iyi" olduğunu yalnızca EMG verisine dayandıran iddialara şüpheyle yaklaş. Egzersiz seçimini yönlendirmesi gereken kanıt, haftalar süren ve kas büyümesini doğrudan ölçen (ultrason, MR) çalışmalardır. Bu raporda egzersiz önerileri öncelikle bu tür çalışmalara dayanır; yalnızca EMG verisi varsa bu açıkça belirtilmiştir.
 
@@ -48,7 +48,7 @@ Egzersiz karşılaştırmalarında sık kullanılan yüzey elektromiyografisi (E
 
 Rugby oyuncularında yapılan bir çalışmada, tek bacak squat ve çift bacak squat antrenmanı kuvvet, sprint ve çeviklik açısından benzer iyileşmeler sağlamıştır [9]. Tek taraflı hareketlerin şu avantajları vardır: omurgaya daha az yük bindirerek bacağı yüksek gerilimle çalıştırmak, sağ–sol farklılıklarını ortaya çıkarmak ve azaltmak, denge ve kalça stabilitesini geliştirmek, futbol gibi tek bacakla itilen hareketlere daha fazla benzemek. Dezavantajı ise daha fazla süre gerektirmeleri ve denge sınırlayıcı olduğunda kasın yeterince yüklenememesidir. [[B]]
 
-> **SENİN İÇİN:** Futbol oynayan biri olarak, bacak kuvvet çalışmanın bir kısmını tek taraflı hareketlerle (ör. Bulgarian split squat, step-up, tek bacak Romanian deadlift) yapmak mantıklıdır. Bu hareketler, sprint, şut ve yön değiştirme gibi futbol hareketlerine daha çok benzer, kalça dengeleyicilerini (gluteus medius) güçlendirir — ki bu, Bölüm 12'de göreceğimiz gibi lateral baldır yükünü azaltmada da rol oynayabilir. Ancak yüksek tekrarlı ve tükenişe kadar yapılan split squat'lar belirgin bacak hipertrofisi yaratır; bu hareketleri de ağır, düşük tekrarlı ve tükenişten uzak yap (Bölüm 9).
+> **SENİN İÇİN:** Futbol oynayan biri olarak, bacak kuvvet çalışmanın bir kısmını tek taraflı hareketlerle (ör. Bulgarian split squat, step-up, tek bacak Romanian deadlift) yapmak mantıklıdır. Bu hareketler, sprint, şut ve yön değiştirme gibi futbol hareketlerine daha çok benzer, kalça dengeleyicilerini (gluteus medius) güçlendirir — ki bu, Bölüm 13'te göreceğimiz gibi lateral baldır yükünü azaltmada da rol oynayabilir. Ancak yüksek tekrarlı ve tükenişe kadar yapılan split squat'lar belirgin bacak hipertrofisi yaratır; bu hareketleri de ağır, düşük tekrarlı ve tükenişten uzak yap (Bölüm 10).
 
 ## Obezitesi olan biri için egzersiz seçimi
 
@@ -58,7 +58,7 @@ Yüksek vücut ağırlığı bazı egzersizleri gereğinden zor veya rahatsız e
 - **Yere yatıp kalkma:** Sık yere inip kalkmak gereken egzersiz dizilimlerinden kaçın; bench, makine ve ayakta yapılan hareketleri tercih et.
 - **Diz ve kalça yükü:** Derin lunge ve atlama hareketleri, fazla vücut ağırlığıyla dizlere yüksek yük bindirir. Kilo azaldıkça bunlara geçiş daha güvenli olur; başlangıçta kontrollü step-up ve split squat daha uygundur.
 - **Karın bölgesi ve hareket açıklığı:** Karın çevresindeki yağ dokusu, derin squat veya kürek hareketlerinde hareket açıklığını mekanik olarak kısıtlayabilir. Ayak duruşunu biraz genişletmek ve ayak uçlarını hafif dışa çevirmek bu sorunu azaltır.
-- **Kan basıncı:** Ağır kaldırışlarda nefesi tutmak (Valsalva) kan basıncını anlık olarak çok yükseltir. Kontrolsüz yüksek tansiyonun varsa, maksimale yakın kaldırışlardan kaçınmak ve bir hekime danışmak gerekir (Bölüm 8).
+- **Kan basıncı:** Ağır kaldırışlarda nefesi tutmak (Valsalva) kan basıncını anlık olarak çok yükseltir. Kontrolsüz yüksek tansiyonun varsa, maksimale yakın kaldırışlardan kaçınmak ve bir hekime danışmak gerekir (Bölüm 9).
 
 ## Egzersiz seçerken sorman gereken sorular
 

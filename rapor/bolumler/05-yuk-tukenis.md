@@ -76,7 +76,7 @@ RIR tabanlı bir sistemin işe yaraması, kalan tekrar sayısını doğru tahmin
 |---|---|---|---|---|---|
 | Üst vücut | Hipertrofi | Bileşiklerde 6–10, izolelerde 10–20 | 0–2 RIR (izole), 1–3 RIR (bileşik) | Kas başına 10–18 set/hafta | Tükenişe yakınlık hipertrofiyi artırır [9] |
 | Bacaklar | Kuvvet, büyümeden | 3–6 | 2–4 RIR, bar hızlıyken dur | Haftada toplam 3–6 ağır set | Kuvvet tükenişe yakınlıktan ve hacimden bağımsız; düşük hacim hipertrofi uyaranını sınırlar [1, 9, 13] |
-| Bacaklar (futbol) | Güç ve patlayıcılık | Sıçrama/sprint | Tükeniş yok, kaliteli tekrar | Haftada 2 kısa blok | Bkz. Bölüm 9 ve 11 |
+| Bacaklar (futbol) | Güç ve patlayıcılık | Sıçrama/sprint | Tükeniş yok, kaliteli tekrar | Haftada 2 kısa blok | Bkz. Bölüm 10 ve 12 |
 
 > **SENİN İÇİN:** Bacak antrenmanında yapman gereken şey, alışık olduğun "4×10, son set tükeniş" mantığının tam tersidir: **ağır ama az, hızlı ve tükenişten uzak.** Örneğin squat'ta 3 set × 4 tekrar, 5–6 tekrar yapabileceğin bir ağırlıkla. Bu yaklaşım kuvvetini korur hatta artırır, ama kasa "büyü" sinyali veren yüksek hacimli, tükenişe yakın uyaranı büyük ölçüde ortadan kaldırır.
 

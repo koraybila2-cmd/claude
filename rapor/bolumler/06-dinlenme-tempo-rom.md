@@ -60,7 +60,7 @@ Bu genel bulguyu destekleyen, egzersiz seçimine doğrudan çevrilebilecek özg�
 | Hamstring* | Oturarak leg curl, Romanian deadlift | Yüzüstü leg curl (ikinci tercih) |
 | Baldır | Ayakta, tam gerilmeli calf raise | Yalnızca oturarak calf raise |
 
-\*Senin için quadriceps ve hamstring hipertrofisi hedef değil; bu satırlar kuvvet odaklı seçimlerde ve genel bilgi olarak geçerlidir (Bölüm 9).
+\*Senin için quadriceps ve hamstring hipertrofisi hedef değil; bu satırlar kuvvet odaklı seçimlerde ve genel bilgi olarak geçerlidir (Bölüm 10).
 
 ## Egzersiz sırası
 
@@ -72,7 +72,7 @@ Bir seansta hangi egzersizin önce yapılacağı hipertrofiyi etkiler mi? Konuyl
 
 Kasın uzayarak kuvvet ürettiği **eksantrik** kasılma (ağırlığı indirmek), kısalarak ürettiği **konsantrik** kasılmaya göre daha fazla kuvvet üretebilir ve daha az enerji harcar. Konsantrik ve eksantrik antrenmanı karşılaştıran meta-analiz, eksantrik antrenmanın biraz daha fazla hipertrofiyle ilişkili olduğunu, ancak farkın küçük olduğunu göstermiştir [18]. 2026 ACSM bildirisi de eksantrik aşırı yüklemeyi hipertrofiyi artıran değişkenler arasında saymıştır [22]. [[B]]
 
-Pratikte bunun anlamı, her tekrarın eksantrik evresini kontrollü yapmak ve atlamamaktır. Özel eksantrik ekipmanlara veya aşırı yavaş indirmelere gerek yoktur. Eksantrik ağırlıklı çalışma (ör. Nordic hamstring curl) aynı zamanda sakatlık önleme açısından da değerlidir (Bölüm 8).
+Pratikte bunun anlamı, her tekrarın eksantrik evresini kontrollü yapmak ve atlamamaktır. Özel eksantrik ekipmanlara veya aşırı yavaş indirmelere gerek yoktur. Eksantrik ağırlıklı çalışma (ör. Nordic hamstring curl) aynı zamanda sakatlık önleme açısından da değerlidir (Bölüm 9).
 
 ## İleri teknikler: drop set, rest-pause, süperset ve diğerleri
 

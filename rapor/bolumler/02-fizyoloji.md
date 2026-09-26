@@ -22,7 +22,7 @@ Onlarca yıllık araştırmanın ulaştığı temel sonuç şudur: kas büyümes
 
 Sinir sistemi motor üniteleri rastgele değil, bir düzen içinde devreye sokar: önce küçük (düşük eşikli), sonra giderek büyük (yüksek eşikli) motor üniteler kazanılır. Buna **boyut ilkesi** denir [3]. Ağır bir yük kaldırdığında gereken kuvvet yüksek olduğu için büyük motor üniteler en baştan devreye girer. Hafif bir yük kaldırdığında ise başlangıçta yalnızca küçük üniteler çalışır; ancak set ilerledikçe ve bu lifler yoruldukça, kuvveti sürdürmek için giderek daha büyük motor üniteler devreye alınır. Set tükenişe yaklaştığında hafif yükte de büyük motor ünitelerin önemli bir kısmı kazanılmış olur.
 
-Bu mekanizma, Bölüm 4'te ayrıntılı göreceğimiz önemli bir bulguyu açıklar: tükenişe yakın yapıldığı sürece yaklaşık %30 1RM'den (bir tekrar maksimumunun %30'u) ağır yüklerin hepsi benzer kas büyümesi sağlar. Ancak çok hafif yükler (ör. %20 1RM) hacim eşitlense bile daha az büyüme sağlayabilir [25]; muhtemelen bu yüklerde yorgunluk, yüksek eşikli liflerde yeterli gerilim oluşmadan seti bitirir.
+Bu mekanizma, Bölüm 5'te ayrıntılı göreceğimiz önemli bir bulguyu açıklar: tükenişe yakın yapıldığı sürece yaklaşık %30 1RM'den (bir tekrar maksimumunun %30'u) ağır yüklerin hepsi benzer kas büyümesi sağlar. Ancak çok hafif yükler (ör. %20 1RM) hacim eşitlense bile daha az büyüme sağlayabilir [25]; muhtemelen bu yüklerde yorgunluk, yüksek eşikli liflerde yeterli gerilim oluşmadan seti bitirir.
 
 ### "Etkili tekrarlar" hipotezi
 
@@ -32,7 +32,7 @@ Bu mantıktan yola çıkan popüler bir hipotez, bir setin yalnızca **son 5 civ
 
 Eski literatürde hipertrofinin üç mekanizması sayılırdı: mekanik gerilim, metabolik stres ("pump", laktat birikimi) ve kas hasarı [2]. Bugünkü kanıtlar, kas hasarının büyüme için gerekli olmadığını, hatta aşırı hasarın ilk haftalarda kaynakların onarıma harcanmasına yol açarak büyümeyi geciktirebileceğini gösteriyor. Antrenmanın ilk haftalarında artan kas protein sentezi büyük ölçüde hasarın onarımına yönelir; ancak hasar azaldıktan sonra (yaklaşık 3. haftadan itibaren) protein sentezi hipertrofiyle ilişkili hâle gelir [4, 5]. Metabolik stresin bağımsız bir rolü olup olmadığı tartışmalıdır; büyük olasılıkla etkisinin önemli bir kısmı, yorgunluğun motor ünite kazanımını artırması üzerinden dolaylıdır [1].
 
-> **MİT:** "Ertesi gün ağrımıyorsa kas çalışmamıştır." Gecikmiş kas ağrısı (DOMS) esas olarak alışık olunmayan hareketlerin ve özellikle eksantrik (kasın uzayarak çalıştığı) kasılmaların bir sonucudur. Aynı antrenmanı tekrarladıkça ağrı belirgin biçimde azalır (tekrarlanan seans etkisi), ama kas büyümeye devam eder. Ağrı, büyümenin güvenilir bir göstergesi değildir (bkz. Bölüm 18).
+> **MİT:** "Ertesi gün ağrımıyorsa kas çalışmamıştır." Gecikmiş kas ağrısı (DOMS) esas olarak alışık olunmayan hareketlerin ve özellikle eksantrik (kasın uzayarak çalıştığı) kasılmaların bir sonucudur. Aynı antrenmanı tekrarladıkça ağrı belirgin biçimde azalır (tekrarlanan seans etkisi), ama kas büyümeye devam eder. Ağrı, büyümenin güvenilir bir göstergesi değildir (bkz. Bölüm 19).
 
 ## Kas protein sentezi ve yıkımı: net dengenin matematiği
 
@@ -44,7 +44,7 @@ Antrenmansız kişilerde tek bir seansın ardından kas protein sentezi yaklaş�
 
 Uzun yıllar boyunca, ağır bileşik hareketlerin (squat, deadlift) antrenman sonrasında testosteron ve büyüme hormonunu yükselterek tüm vücutta daha fazla kas büyümesi sağladığı düşünüldü. "Kol büyütmek için bacak çalış" tavsiyesi bu inanıştan doğdu. Bu hipotez doğrudan test edildi: aynı kişilerin bir kolu, hormon yanıtını artıran bir bacak antrenmanının ardından, diğer kolu ise düşük hormon ortamında çalıştırıldı. İki kol arasında büyüme veya kuvvet farkı bulunmadı [9]. Büyük bir kohortta da antrenman sonrası akut hormon yükselişlerinin kas büyümesini öngörmediği gösterildi [10]; antrenmanlı genç erkeklerde de benzer sonuçlar elde edildi [11].
 
-Bu, hormonların önemsiz olduğu anlamına gelmez. **Dinlenik** testosteron düzeyindeki büyük farklar (ör. erkekler ve kadınlar arasında, ya da anabolik steroid kullanımında) kas kütlesi üzerinde güçlü etkiye sahiptir. Ancak normal fizyolojik aralıktaki erkekler arasında testosteron düzeyi ile antrenmana yanıt arasındaki ilişki zayıftır [10]. Senin için pratik önemi olan nokta şudur: **obezite testosteronu düşürür** ve kilo kaybı onu genellikle yükseltir; çok düşük yağlı diyetler ise testosteronu hafifçe düşürebilir (Bölüm 15). Yani hormon ortamını iyileştirmenin en etkili yolu antrenman sonrası "hormon patlaması" kovalamak değil, sağlıklı bir vücut kompozisyonuna ulaşmak, yeterli uyumak ve yeterli yağ tüketmektir.
+Bu, hormonların önemsiz olduğu anlamına gelmez. **Dinlenik** testosteron düzeyindeki büyük farklar (ör. erkekler ve kadınlar arasında, ya da anabolik steroid kullanımında) kas kütlesi üzerinde güçlü etkiye sahiptir. Ancak normal fizyolojik aralıktaki erkekler arasında testosteron düzeyi ile antrenmana yanıt arasındaki ilişki zayıftır [10]. Senin için pratik önemi olan nokta şudur: **obezite testosteronu düşürür** ve kilo kaybı onu genellikle yükseltir; çok düşük yağlı diyetler ise testosteronu hafifçe düşürebilir (Bölüm 16). Yani hormon ortamını iyileştirmenin en etkili yolu antrenman sonrası "hormon patlaması" kovalamak değil, sağlıklı bir vücut kompozisyonuna ulaşmak, yeterli uyumak ve yeterli yağ tüketmektir.
 
 ## Uydu hücreler, miyonükleuslar ve "kas hafızası"
 
@@ -58,7 +58,7 @@ Bir kas lifinin her miyonükleusu, lifin belirli bir hacmine "hizmet eder"; buna
 
 Vücut geliştiricilerin "şişkin ama güçsüz", halterci ve powerlifter'ların ise "yoğun ve güçlü" kaslara sahip olduğu inancı, iki tür hipertrofi olduğu fikrine dayanır: **miyofibriler hipertrofi** (kasılma proteinlerinin artması) ve **sarkoplazmik hipertrofi** (lif içindeki sıvı, glikojen ve kasılma dışı proteinlerin artması). Araştırmalar, özellikle yüksek hacimli antrenmanın ilk döneminde kas lifinin sarkoplazmik bileşeninin orantısız artabildiğini gösteren bazı bulgular ortaya koymuştur; ancak bunun kalıcı ve antrenman türüne özgü bir adaptasyon olup olmadığı belirsizdir [15, 16].
 
-Pratik açıdan önemli olan nokta şudur: **büyümeden güçlenmek ya da güçlenmeden büyümek için "farklı hipertrofi türlerini" hedefleyen antrenmanlar tasarlamak bugün için kanıta dayalı değildir.** Kuvvet ve kas kütlesi arasındaki fark, çok daha iyi anlaşılmış iki mekanizmadan kaynaklanır: **nöral adaptasyonlar** ve **beceri/özgüllük**. Bu, senin bacak hedefin için kritik bir noktadır ve Bölüm 9'da ayrıntılı ele alınacaktır.
+Pratik açıdan önemli olan nokta şudur: **büyümeden güçlenmek ya da güçlenmeden büyümek için "farklı hipertrofi türlerini" hedefleyen antrenmanlar tasarlamak bugün için kanıta dayalı değildir.** Kuvvet ve kas kütlesi arasındaki fark, çok daha iyi anlaşılmış iki mekanizmadan kaynaklanır: **nöral adaptasyonlar** ve **beceri/özgüllük**. Bu, senin bacak hedefin için kritik bir noktadır ve Bölüm 10'da ayrıntılı ele alınacaktır.
 
 ## Kuvvet artışının bileşenleri
 
@@ -74,7 +74,7 @@ Bir kasın kesit alanı, üretebileceği maksimum kuvvetle güçlü biçimde ili
 
 ### Beceri ve özgüllük
 
-Maksimum kuvvet bir beceridir. Bir hareketi ağır yüklerle ne kadar sık pratik edersen, o harekette o kadar verimli olursun. Bu yüzden hipertrofi araştırmalarında genellikle hafif ve ağır yüklerle benzer kas büyümesi görülürken, 1RM kuvvet testlerinde ağır yüklerle çalışan grup belirgin üstünlük gösterir (Bölüm 4).
+Maksimum kuvvet bir beceridir. Bir hareketi ağır yüklerle ne kadar sık pratik edersen, o harekette o kadar verimli olursun. Bu yüzden hipertrofi araştırmalarında genellikle hafif ve ağır yüklerle benzer kas büyümesi görülürken, 1RM kuvvet testlerinde ağır yüklerle çalışan grup belirgin üstünlük gösterir (Bölüm 5).
 
 ### Kas mimarisi ve tendon
 
@@ -97,7 +97,7 @@ Obezite konusunda bilmen gereken bir bulgu var: fazla kilolu ve obez genç yeti�
 
 Obezitesi olan kişilerde bacak kaslarının hem mutlak kuvveti hem de kütlesi genellikle normal kilolulara göre daha **yüksektir**; buna karşın vücut ağırlığına oranlanmış (göreli) kuvvet daha düşüktür [24]. Bunun nedeni basittir: bacaklar ve kalça kasları, yerçekimine karşı çalışan kaslardır ve fazladan taşınan her kilogram, gün boyunca yürürken, merdiven çıkarken ve ayağa kalkarken onlara sürekli bir direnç antrenmanı yükler. Buna 6 ayı düzenli olmak üzere 9 aylık squat ve leg press geçmişin eklenince, bacaklarının hem yağ hem kas açısından orantısız büyük olması fizyolojik olarak beklenen bir tablodur.
 
-Bu tablonun senin hedefin açısından olumlu bir yanı var: **vücut ağırlığın azaldıkça, bacaklarına binen bu kronik yük de azalacak.** Kilo kaybında kaybedilen yağsız kütlenin önemli bir kısmının alt ekstremitelerden gelmesi, bu mekanizmayla uyumludur. Bacak kaslarını büyüten ek bir uyaran vermediğin sürece (Bölüm 9), yağ kaybıyla birlikte bacak çevrelerinin hem yağ hem kısmen kas açısından küçülmesi beklenir; kuvvet ise nöral adaptasyonlar ve düşük hacimli ağır çalışma sayesinde büyük ölçüde korunabilir [[C]].
+Bu tablonun senin hedefin açısından olumlu bir yanı var: **vücut ağırlığın azaldıkça, bacaklarına binen bu kronik yük de azalacak.** Kilo kaybında kaybedilen yağsız kütlenin önemli bir kısmının alt ekstremitelerden gelmesi, bu mekanizmayla uyumludur. Bacak kaslarını büyüten ek bir uyaran vermediğin sürece (Bölüm 10), yağ kaybıyla birlikte bacak çevrelerinin hem yağ hem kısmen kas açısından küçülmesi beklenir; kuvvet ise nöral adaptasyonlar ve düşük hacimli ağır çalışma sayesinde büyük ölçüde korunabilir [[C]].
 
 > **ÖZET:** Kas büyümesinin ana tetikleyicisi, kas liflerindeki mekanik gerilimdir; bu gerilim ağır yüklerle ya da tükenişe yaklaşan hafif-orta yüklerle oluşturulabilir. Kas hasarı ve antrenman sonrası hormon dalgalanmaları büyüme için gerekli değildir. Kuvvet ise kas kütlesine ek olarak nöral adaptasyonlara, beceriye, kas mimarisine ve tendona bağlıdır; bu nedenle kas kütlesinden daha hızlı kazanılır ve daha yavaş kaybedilir. Bu ayrım, "büyümeden güçlenme" hedefinin fizyolojik temelidir.
 

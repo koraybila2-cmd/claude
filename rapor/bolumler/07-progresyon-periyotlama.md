@@ -10,7 +10,7 @@ Bu yollardan hangisinin daha iyi olduğu doğrudan test edilmiştir. Antrenmanl�
 
 > **PRATİK: Çift progresyon yöntemi** En basit ve en güvenilir ilerleme yöntemlerinden biridir. Bir tekrar aralığı belirle (ör. 8–12). Seçtiğin ağırlıkla tüm setlerde aralığın üst sınırına (12) ulaşana kadar aynı ağırlıkla çalış ve tekrarlarını artırmaya çalış. Tüm setlerde 12'ye ulaştığında ağırlığı en küçük adımla (üst vücutta 1–2,5 kg, alt vücutta 2,5–5 kg) artır; tekrarlar muhtemelen 8–9'a düşecektir. Yeniden 12'ye doğru ilerle. Örnek: Dumbbell press 3×8–12 ile 24 kg: 1. hafta 12/10/9 → 2. hafta 12/11/10 → 3. hafta 12/12/11 → 4. hafta 12/12/12 → 5. hafta 26 kg ile 10/9/8.
 
-İlerlemeyi görebilmek için **antrenman kaydı** tutmak neredeyse zorunludur. Her egzersizde kullandığın ağırlığı, tekrar sayısını ve yaklaşık RIR'i yaz. Bu kayıt, hem ilerlemeyi planlamanın hem de platoları erkenden fark etmenin en güvenilir aracıdır (Bölüm 18).
+İlerlemeyi görebilmek için **antrenman kaydı** tutmak neredeyse zorunludur. Her egzersizde kullandığın ağırlığı, tekrar sayısını ve yaklaşık RIR'i yaz. Bu kayıt, hem ilerlemeyi planlamanın hem de platoları erkenden fark etmenin en güvenilir aracıdır (Bölüm 19).
 
 ## Otoregülasyon: günün koşullarına göre ayar yapmak
 
@@ -77,10 +77,10 @@ Tatil, hastalık veya iş yoğunluğu nedeniyle antrenmana ara vermek kaçınıl
 Bir kas grubunda veya harekette 4–6 hafta boyunca ilerleme yoksa, programı değiştirmeden önce sırayla şunları kontrol et:
 
 1. **Gerçekten ilerleme yok mu?** Antrenman kaydına bak. Aynı ağırlıkla daha fazla tekrar yapmak da ilerlemedir.
-2. **Kalori açığında mısın?** Açık varsa kuvvetin korunması bile başarıdır; kas kazanımı doğal olarak yavaşlar (Bölüm 13).
-3. **Uyku ve stres nasıl?** Kronik uykusuzluk ve yüksek stres adaptasyonu belirgin şekilde bozar (Bölüm 18).
-4. **Protein yeterli mi?** Günlük hedefe ulaşıyor musun (Bölüm 14)?
-5. **Setler yeterince zor mu?** RIR tahminlerini kalibre et (Bölüm 4).
+2. **Kalori açığında mısın?** Açık varsa kuvvetin korunması bile başarıdır; kas kazanımı doğal olarak yavaşlar (Bölüm 14).
+3. **Uyku ve stres nasıl?** Kronik uykusuzluk ve yüksek stres adaptasyonu belirgin şekilde bozar (Bölüm 19).
+4. **Protein yeterli mi?** Günlük hedefe ulaşıyor musun (Bölüm 15)?
+5. **Setler yeterince zor mu?** RIR tahminlerini kalibre et (Bölüm 5).
 6. **Hacim uygun mu?** Çok düşükse 2–4 set ekle; çok yüksekse ve yorgunluk belirtileri varsa azalt.
 7. **Deload zamanı geldi mi?** Son 6–8 haftada hiç hafif hafta olmadıysa bir deload uygula.
 8. **Egzersiz uygun mu?** Hareket sana ağrı veriyorsa veya hedef kası iyi hissetmiyorsan, benzer bir varyasyonla değiştir.

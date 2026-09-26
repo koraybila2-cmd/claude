@@ -19,11 +19,11 @@ SOZLUK = ROOT / "sozluk"
 
 PARTS = [
     ("Kısım I", "Temeller", "Bilimsel kanıtı okumayı ve kasın nasıl büyüyüp güçlendiğini anlamak.", ["01", "02"]),
-    ("Kısım II", "Ağırlık Antrenmanı", "Hacimden tükenişe, egzersiz seçiminden periyotlamaya kadar direnç antrenmanının tüm değişkenleri.", ["03", "04", "05", "06", "07", "08", "09"]),
-    ("Kısım III", "Kardiyo, Futbol ve Koşu Sakatlıkları", "Kardiyorespiratuvar fizyoloji, kardiyo programlama ve lateral baldır ağrısının yönetimi.", ["10", "11", "12"]),
-    ("Kısım IV", "Beslenme ve Takviyeler", "Enerji dengesi, protein, diğer makro ve mikro besinler, kreatin ve diğer takviyeler.", ["13", "14", "15", "16", "17"]),
-    ("Kısım V", "Toparlanma ve Yaşam Tarzı", "Uyku, toparlanma, esneklik, ilerleme takibi ve sürdürülebilirlik.", ["18"]),
-    ("Kısım VI", "Uygulama Rehberi", "Tüm bu kanıtların sana özel bir antrenman, kardiyo ve beslenme planına dönüştürülmesi.", ["19"]),
+    ("Kısım II", "Ağırlık Antrenmanı", "Hacimden tükenişe, egzersiz seçiminden periyotlamaya kadar direnç antrenmanının tüm değişkenleri.", ["03", "04", "05", "06", "07", "08", "09", "10"]),
+    ("Kısım III", "Kardiyo, Futbol ve Koşu Sakatlıkları", "Kardiyorespiratuvar fizyoloji, kardiyo programlama ve lateral baldır ağrısının yönetimi.", ["11", "12", "13"]),
+    ("Kısım IV", "Beslenme ve Takviyeler", "Enerji dengesi, protein, diğer makro ve mikro besinler, kreatin ve diğer takviyeler.", ["14", "15", "16", "17", "18"]),
+    ("Kısım V", "Toparlanma ve Yaşam Tarzı", "Uyku, toparlanma, esneklik, ilerleme takibi ve sürdürülebilirlik.", ["19"]),
+    ("Kısım VI", "Uygulama Rehberi", "Tüm bu kanıtların sana özel bir antrenman, kardiyo ve beslenme planına dönüştürülmesi.", ["20"]),
     ("Ekler", "Başvuru Bölümleri", "Mitler ve gerçekler, formüller ve tablolar, terimler sözlüğü.", ["EA", "EB", "EC"]),
 ]
 

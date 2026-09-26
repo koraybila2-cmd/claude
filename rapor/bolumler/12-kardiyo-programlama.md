@@ -25,7 +25,7 @@ Obezitesi veya fazla kilosu olan yetişkinlerde de HIIT, VO<sub>2</sub>max geli�
 
 Elit dayanıklılık sporcularının antrenmanları incelendiğinde, sürenin büyük kısmının (yaklaşık %75–80) birinci eşiğin altında, küçük bir kısmının ise ikinci eşiğin üzerinde geçirildiği görülür. Buna **polarize** dağılım denir; iki eşik arasında da önemli süre geçirilmesi **piramidal** dağılım olarak adlandırılır [11]. Polarize ve eşik odaklı antrenmanı karşılaştıran bir meta-analiz, polarize modelin dayanıklılık performansı için küçük bir avantaj sağlayabileceğini göstermiştir [10]. Ancak bu çalışmaların neredeyse tamamı antrenmanlı sporcularda yapılmıştır. Haftada 3–4 saat antrenman yapan rekreasyonel bir kişi için yoğunluk dağılımının "doğru" oranı bilinmemektedir [[C]].
 
-Yine de modelin arkasındaki mantık senin için yararlıdır: **kolay seansları gerçekten kolay, zor seansları gerçekten zor yap; her şeyi orta-zor yapma.** Bölüm 10'da gördüğümüz gibi, hacim kısıtlıyken yüksek yoğunluklu çalışmanın payı artırılmalıdır [12]. Pratik bir başlangıç: haftalık kardiyo süresinin yaklaşık %70–80'i kolay (Zone 1–2), %20–30'u zor (aralıklar ve futbol) olsun. Futbol maçları zaten yüksek yoğunluklu bir seans sayılır.
+Yine de modelin arkasındaki mantık senin için yararlıdır: **kolay seansları gerçekten kolay, zor seansları gerçekten zor yap; her şeyi orta-zor yapma.** Bölüm 11'de gördüğümüz gibi, hacim kısıtlıyken yüksek yoğunluklu çalışmanın payı artırılmalıdır [12]. Pratik bir başlangıç: haftalık kardiyo süresinin yaklaşık %70–80'i kolay (Zone 1–2), %20–30'u zor (aralıklar ve futbol) olsun. Futbol maçları zaten yüksek yoğunluklu bir seans sayılır.
 
 ## Yağ kaybında kardiyonun gerçek rolü
 

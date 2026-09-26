@@ -6,7 +6,7 @@ Antrenman ve beslenme, bilimin en çok "gürültü" içeren alanlarından biridi
 
 Spor salonundaki en iri kişinin programı neden işe yaramış olabilir? Belki program gerçekten iyidir. Ama belki de o kişi genetik olarak antrenmana çok iyi yanıt veren biridir, belki yıllardır istikrarlı çalışıyordur, belki de başarısının programla hiç ilgisi yoktur. Buna **hayatta kalan yanlılığı** (survivorship bias) denir: yalnızca başarılı olanları görürüz; aynı programı uygulayıp sonuç alamayan yüzlerce kişi görünmez kalır.
 
-Kişisel deneyimin ikinci sorunu, **karşılaştırma grubunun yokluğudur**. "Kreatin başladım, iki ayda 4 kg kas aldım" diyen biri, kreatin almasaydı ne olacağını bilemez. Belki aynı dönemde antrenmanı düzenli hâle gelmiş, protein alımı artmış, ya da tartıdaki artışın bir kısmı kasın içine çekilen sudan ibarettir (bkz. Bölüm 16). Bilimsel yöntemin özü, "ne olurdu?" sorusunu **kontrol grubu** ve **rastgele atama** ile yanıtlamaktır.
+Kişisel deneyimin ikinci sorunu, **karşılaştırma grubunun yokluğudur**. "Kreatin başladım, iki ayda 4 kg kas aldım" diyen biri, kreatin almasaydı ne olacağını bilemez. Belki aynı dönemde antrenmanı düzenli hâle gelmiş, protein alımı artmış, ya da tartıdaki artışın bir kısmı kasın içine çekilen sudan ibarettir (bkz. Bölüm 17). Bilimsel yöntemin özü, "ne olurdu?" sorusunu **kontrol grubu** ve **rastgele atama** ile yanıtlamaktır.
 
 Üçüncü sorun **ortalamaya gerileme** (regression to the mean) ve **doğal dalgalanmadır**. Vücut ağırlığı gün içinde 1–2 kg oynar; kuvvet uykuya, strese ve beslenmeye göre günden güne %5–10 değişebilir. En kötü döneminde bir şeye başlayan kişi, o şeyden bağımsız olarak iyileşme eğilimi gösterir ve iyileşmeyi başladığı şeye bağlar.
 
@@ -40,9 +40,9 @@ ACSM (Amerikan Spor Hekimliği Koleji), ISSN (Uluslararası Spor Beslenmesi Dern
 
 | Kanıt türü | Neyi gösterir? | Temel zayıflığı | Bu rapordaki örnek |
 |---|---|---|---|
-| Mekanistik/akut | Mekanizma, olası yol | Uzun vadeli sonuca çevrilmeyebilir | 100 g proteinin MPS'ye etkisi (Bölüm 14) |
-| Kohort | Uzun vadeli ilişki | Karıştırıcı değişkenler, nedensellik yok | Kardiyorespiratuvar zindelik ve ölüm riski (Bölüm 10) |
-| RKÇ | Nedensellik | Küçük örneklem, kısa süre | Kreatin ve saç dökülmesi RKÇ'si (Bölüm 16) |
+| Mekanistik/akut | Mekanizma, olası yol | Uzun vadeli sonuca çevrilmeyebilir | 100 g proteinin MPS'ye etkisi (Bölüm 15) |
+| Kohort | Uzun vadeli ilişki | Karıştırıcı değişkenler, nedensellik yok | Kardiyorespiratuvar zindelik ve ölüm riski (Bölüm 11) |
+| RKÇ | Nedensellik | Küçük örneklem, kısa süre | Kreatin ve saç dökülmesi RKÇ'si (Bölüm 17) |
 | Meta-analiz | Birleşik etki tahmini | Birleştirilen çalışmaların kalitesiyle sınırlı | Haftalık set sayısı–hipertrofi ilişkisi (Bölüm 3) |
 | Şemsiye derleme / pozisyon bildirisi | Alanın genel resmi | Güncellik, kurumsal yanlılık | ACSM 2026 direnç antrenmanı bildirisi |
 
@@ -60,7 +60,7 @@ Jacob Cohen'in 1988'de önerdiği kaba eşikler (0,2 küçük; 0,5 orta; 0,8 bü
 
 **p değeri**, gerçekte hiçbir etki yokken (sıfır hipotezi doğruyken) en az bu kadar uç bir sonucu şans eseri gözleme olasılığıdır. p < 0,05 geleneksel "anlamlılık" eşiğidir ama bu eşik keyfîdir ve p değeri etkinin büyüklüğü veya önemi hakkında bilgi vermez. Spor ve egzersiz tıbbında "anlamlı" sonuçların yayımlanma eğilimi ciddi bir sorun olarak belgelenmiştir [15].
 
-**Güven aralığı** (confidence interval, CI) çok daha bilgilendiricidir: gerçek etkinin makul olarak bulunabileceği değer aralığını gösterir. Örneğin Morton ve arkadaşlarının protein meta-analizinde, günlük protein alımının yağsız kütle kazanımına katkısının 1,6 g/kg civarında platoya ulaştığı, ancak güven aralığının üst sınırının yaklaşık 2,2 g/kg'a uzandığı bulunmuştur (Bölüm 14). Bu, "1,6 g/kg sihirli bir sayıdır" değil, "bazı kişiler için optimum 2,2 g/kg'a kadar çıkabilir" anlamına gelir. Geniş bir güven aralığı belirsizliği, dar bir aralık kesinliği işaret eder.
+**Güven aralığı** (confidence interval, CI) çok daha bilgilendiricidir: gerçek etkinin makul olarak bulunabileceği değer aralığını gösterir. Örneğin Morton ve arkadaşlarının protein meta-analizinde, günlük protein alımının yağsız kütle kazanımına katkısının 1,6 g/kg civarında platoya ulaştığı, ancak güven aralığının üst sınırının yaklaşık 2,2 g/kg'a uzandığı bulunmuştur (Bölüm 15). Bu, "1,6 g/kg sihirli bir sayıdır" değil, "bazı kişiler için optimum 2,2 g/kg'a kadar çıkabilir" anlamına gelir. Geniş bir güven aralığı belirsizliği, dar bir aralık kesinliği işaret eder.
 
 ### Bayesçi analiz
 
@@ -107,7 +107,7 @@ Bir önerinin D rozeti taşıması onun yanlış olduğu anlamına gelmez; yaln�
 
 Bir meta-analiz "ortalama katılımcı 12 haftada kas kalınlığında %8 artış gösterdi" dediğinde, bu senin de %8 artış göstereceğin anlamına gelmez. Klasik bir çalışmada, 585 kişinin 12 hafta boyunca aynı kol antrenmanını yaptığı durumda kas kesit alanındaki değişim −%2 ile +%59 arasında, kuvvetteki değişim ise %0 ile +%250 arasında dağılmıştır [8]. Bu muazzam bireysel farklılığın bir kısmı gerçek biyolojik farklılıktır (genetik, uyku, beslenme, stres), bir kısmı ise ölçüm hatası ve günden güne dalgalanmadır [16].
 
-Kardiyo tarafında da benzer bir tablo vardır: bir zamanlar "yanıt vermeyen" (non-responder) kişilerin var olduğu düşünülüyordu. Ancak antrenman dozu artırıldığında, standart dozda VO<sub>2</sub>max'ını artıramayan kişilerin de yanıt verdiği gösterilmiştir [9]. Buradaki ders şudur: **ortalama bir başlangıç noktasıdır; kendi yanıtını izleyerek programını ayarlaman gerekir.** Bu yüzden Bölüm 18 ve 19'da ilerleme takibine ayrıca yer verilmiştir.
+Kardiyo tarafında da benzer bir tablo vardır: bir zamanlar "yanıt vermeyen" (non-responder) kişilerin var olduğu düşünülüyordu. Ancak antrenman dozu artırıldığında, standart dozda VO<sub>2</sub>max'ını artıramayan kişilerin de yanıt verdiği gösterilmiştir [9]. Buradaki ders şudur: **ortalama bir başlangıç noktasıdır; kendi yanıtını izleyerek programını ayarlaman gerekir.** Bu yüzden Bölüm 19 ve 20'de ilerleme takibine ayrıca yer verilmiştir.
 
 > **SENİN İÇİN:** Bu raporda "haftada 10–20 set", "günde 1,6–2,2 g/kg protein" gibi aralıklar göreceksin. Aralığın alt ucundan başla, 6–8 haftalık bloklar hâlinde sonucunu (kuvvet kaydı, bel çevresi, haftalık ortalama kilo) izle ve gerekirse yukarı doğru ayarla. Kendi verin, herhangi bir meta-analizden daha kişisel bir kanıttır — yeter ki düzenli ve tutarlı toplansın.
 

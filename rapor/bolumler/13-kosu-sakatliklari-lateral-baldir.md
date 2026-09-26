@@ -109,7 +109,7 @@ Aşağıdaki program, kas veya tendon kaynaklı peroneal aşırı yüklenme içi
 - **Peroneus longus vurgulu calf raise:** Parmak ucuna kalkarken ağırlığı başparmak tarafına verecek şekilde (topuk hafif dışa) yap.
 - **Kalça ve gövde:** Tek bacak Romanian deadlift (hafif), yan plank, lateral band walk.
 - **Denge ilerlemesi:** Tek ayak üzerinde gözler kapalı; yumuşak zeminde; top yakalama. Denge ve propriosepsiyon antrenmanı, özellikle tekrarlayan ayak bileği burkulmalarını önlemede güçlü kanıta sahiptir [25]. [[A]]
-- **Kardiyo:** Bisiklet ve eliptikte aralıklı çalışmalar dahil (Bölüm 11).
+- **Kardiyo:** Bisiklet ve eliptikte aralıklı çalışmalar dahil (Bölüm 12).
 
 **Evre 3 — Koşuya hazırlık (yaklaşık 4–8. haftalar)**
 
@@ -166,7 +166,7 @@ Bu 8 aşama, gün aşırı yapıldığında yaklaşık 4–6 haftada tamamlanır
 - **Kilo kaybı:** Sakatlık riski vücut kitle indeksiyle doğrudan ilişkilidir; her kilo kaybı riski azaltır [4]. [[B]]
 - **Kademeli yüklenme:** Koşu mesafesini ve süresini yavaş artır; özellikle tek bir seansı, alışık olduğundan çok daha uzun tutma [2]. Obezitesi olan yeni başlayanlar için Vincent ve arkadaşlarının önerileri de aynı yöndedir: yürüyüş ve eğimli yürüyüşle başlamak, yürü–koş aralıklarıyla ilerlemek, haftalık artışı %5–10 ile sınırlamak ve ertesi güne taşan ağrıya dikkat etmek [28, 29]. [[C]]
 - **Denge ve ayak bileği:** Denge antrenmanı, tekrarlayan ayak bileği burkulmalarını azaltmada etkilidir [25]; peroneal kasların güçlü ve dayanıklı olması ayak bileği stabilitesinin temelidir.
-- **Enerji yeterliliği:** Aşırı agresif kalori açıkları, kemik stres yaralanması riskini artıran **göreli enerji yetersizliği** tablosuna yol açabilir [12]. Kalori açığını ılımlı tutmanın (Bölüm 13) bir nedeni de budur.
+- **Enerji yeterliliği:** Aşırı agresif kalori açıkları, kemik stres yaralanması riskini artıran **göreli enerji yetersizliği** tablosuna yol açabilir [12]. Kalori açığını ılımlı tutmanın (Bölüm 14) bir nedeni de budur.
 
 ## Futbola dönüş
 

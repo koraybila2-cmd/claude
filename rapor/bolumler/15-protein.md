@@ -118,7 +118,7 @@ Hayvansal kaynaklar içinde ayrım önemlidir. Dünya Sağlık Örgütü'nün ka
 - **Baklagilleri ve tahılları** aynı gün içinde birleştir (mercimek + bulgur, nohut + ekmek); sınırlayıcı amino asitler birbirini tamamlar. Aynı öğünde olmaları şart değildir.
 - **Soya ürünleri** (tofu, tempeh, edamame, soya sütü) ve **izole bitkisel proteinler** (bezelye, soya, karışımlar) kullan; izolatlar hem daha sindirilebilir hem daha yoğun protein kaynağıdır.
 - Mümkünse süt ürünleri ve yumurtayı dahil et (vejetaryen yaklaşım); bunlar protein kalitesini ciddi biçimde yükseltir.
-- B12 vitamini, demir, çinko, omega-3 ve **kreatin** (vejetaryenlerde kas depoları daha düşüktür; Bölüm 16) konusunda dikkatli ol.
+- B12 vitamini, demir, çinko, omega-3 ve **kreatin** (vejetaryenlerde kas depoları daha düşüktür; Bölüm 17) konusunda dikkatli ol.
 
 ### Karar tablosu
 

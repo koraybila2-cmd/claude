@@ -25,7 +25,7 @@ Bir hatırlatma: bu bölümdeki kanıtların bir kısmı uzun süreli hipertrofi
 
 **İşlevi:** Latissimus dorsi (kanat kası) kolu yukarıdan aşağı ve önden arkaya çeker; üst sırt kasları (trapez orta-alt bölüm, romboidler, arka omuz) kürek kemiklerini geriye ve aşağı çeker.
 
-**Kanıt:** Sırt kasları için doğrudan uzun süreli karşılaştırma çalışmaları sınırlıdır. Pulldown tutuş genişliği üzerine yapılan EMG çalışmaları, orta-geniş önden tutuşun latissimus aktivitesi için makul bir seçim olduğunu, aşırı geniş tutuşun avantaj sağlamadığını göstermektedir [25]. Uzun kas boyu ilkesi (Bölüm 5) burada da geçerli kabul edilir: latissimus, kol tamamen yukarıdayken (pulldown'un üst noktası, pullover) gerilir. [[C]]
+**Kanıt:** Sırt kasları için doğrudan uzun süreli karşılaştırma çalışmaları sınırlıdır. Pulldown tutuş genişliği üzerine yapılan EMG çalışmaları, orta-geniş önden tutuşun latissimus aktivitesi için makul bir seçim olduğunu, aşırı geniş tutuşun avantaj sağlamadığını göstermektedir [25]. Uzun kas boyu ilkesi (Bölüm 6) burada da geçerli kabul edilir: latissimus, kol tamamen yukarıdayken (pulldown'un üst noktası, pullover) gerilir. [[C]]
 
 | Egzersiz | Neden? | Teknik ipuçları |
 |---|---|---|
@@ -123,17 +123,17 @@ Bir hatırlatma: bu bölümdeki kanıtların bir kısmı uzun süreli hipertrofi
 
 ## Baldır (triceps surae)
 
-**İşlevi:** **Gastrocnemius** iki eklemlidir (dizi ve ayak bileğini geçer); diz düzken gerilir. **Soleus** tek eklemlidir, gastrocnemiusun altında yer alır; koşmada vücut ağırlığının kat kat üzerinde kuvvet üretir ve koşucular için en önemli kaslardan biridir (Bölüm 12).
+**İşlevi:** **Gastrocnemius** iki eklemlidir (dizi ve ayak bileğini geçer); diz düzken gerilir. **Soleus** tek eklemlidir, gastrocnemiusun altında yer alır; koşmada vücut ağırlığının kat kat üzerinde kuvvet üretir ve koşucular için en önemli kaslardan biridir (Bölüm 13).
 
 **Kanıt:** Ayakta (diz düz) calf raise, oturarak (diz bükülü) calf raise'e göre gastrocnemiusta çok daha fazla büyüme sağlamış (lateral gastrocnemius %12,4'e karşı %1,7; medial %9,2'ye karşı %0,6); soleus büyümesi ise benzer bulunmuştur [15]. Hareketin gerilmiş (topuk aşağıda) bölümünde yapılan kısmi tekrarlar, kısa boyda yapılanlara göre daha fazla gastrocnemius büyümesi sağlamıştır [16]. [[B]]
 
-**Senin için not:** Baldırda hipertrofi değil, **dayanıklılık ve kapasite** önemlidir: koşarken yaşadığın lateral baldır ağrısının rehabilitasyonunda ve önlenmesinde tek bacak calf raise ve peroneal (eversiyon) güçlendirme temel yer tutar (Bölüm 12).
+**Senin için not:** Baldırda hipertrofi değil, **dayanıklılık ve kapasite** önemlidir: koşarken yaşadığın lateral baldır ağrısının rehabilitasyonunda ve önlenmesinde tek bacak calf raise ve peroneal (eversiyon) güçlendirme temel yer tutar (Bölüm 13).
 
 ## Karın ve gövde (core)
 
 **İşlevi:** Karın kasları (rectus abdominis, oblikler, transversus abdominis) ve sırt ekstansörleri gövdeyi hem hareket ettirir hem de sabitler. Ağır kaldırışlarda omurgayı korumak ve kuvveti bacaklardan üst vücuda aktarmak için gereklidirler.
 
-**Kanıt:** Gövde kasları squat, deadlift ve overhead press gibi ağır bileşik hareketlerde yoğun çalışır. Ancak önemli bir yanılgıyı burada düzeltmek gerekir: 6 hafta boyunca yapılan karın egzersizleri, diyet sabit kaldığında karın bölgesindeki yağı azaltmamıştır [17]. Bu, Bölüm 13'te ayrıntılı ele alınacak "bölgesel yağ yakımı" yanılgısının bir örneğidir.
+**Kanıt:** Gövde kasları squat, deadlift ve overhead press gibi ağır bileşik hareketlerde yoğun çalışır. Ancak önemli bir yanılgıyı burada düzeltmek gerekir: 6 hafta boyunca yapılan karın egzersizleri, diyet sabit kaldığında karın bölgesindeki yağı azaltmamıştır [17]. Bu, Bölüm 14'te ayrıntılı ele alınacak "bölgesel yağ yakımı" yanılgısının bir örneğidir.
 
 > **MİT:** "Göbek eritmek için mekik çek." Karın kaslarını çalıştırmak onları güçlendirir ve kalınlaştırır, ama üzerlerindeki yağı seçici olarak yakmaz. Karın yağı, toplam yağ kaybıyla (kalori açığı) azalır.
 
@@ -193,7 +193,7 @@ Ağırlık sporlarında sakatlık epidemiyolojisini inceleyen derlemeler, sakatl
 | Bacak | Kuvvet (düşük hacim) | Back squat veya trap bar deadlift | Bulgarian split squat |
 | Hamstring | Kuvvet + sakatlık önleme | Romanian deadlift | Nordic hamstring curl |
 | Kalça/kasık | Sakatlık önleme | Copenhagen adduction | Kalça abduksiyonu |
-| Baldır | Kapasite + rehabilitasyon | Tek bacak calf raise (diz düz ve bükük) | Eversiyon bandı (Bölüm 12) |
+| Baldır | Kapasite + rehabilitasyon | Tek bacak calf raise (diz düz ve bükük) | Eversiyon bandı (Bölüm 13) |
 | Gövde | Stabilite | Plank / Pallof press | Farmer's walk |
 
 > **ÖZET:** Göğüs için incline press, sırt için pulldown ve row, yan omuz için kablo lateral raise, biseps için incline curl, triseps için overhead extension kanıtla desteklenen ana seçimlerdir. Bacaklarda hipertrofi hedefin olmadığından kuvvet değeri yüksek, düşük hacimle uygulanabilen hareketleri (squat, trap bar deadlift, split squat, RDL) seç; futbol için Nordic hamstring curl ve Copenhagen adduction sakatlık önlemede güçlü kanıta sahiptir. Teknikte mutlak kurallardan çok tutarlılık, kontrol ve kademeli ilerleme önemlidir; ağırlık antrenmanı, düzgün uygulandığında sakatlık riski düşük bir aktivitedir.

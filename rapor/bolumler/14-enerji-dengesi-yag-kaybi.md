@@ -61,7 +61,7 @@ Uzun süre, kas kazanmak için kalori fazlası, yağ kaybetmek için kalori aç�
 - Vücut yağ oranı yüksek olanlar,
 - Yüksek protein alan ve iyi yapılandırılmış direnç antrenmanı yapanlar.
 
-Sen bu dört kategorinin hepsine giriyorsun. Bu yüzden, ılımlı bir kalori açığı ve yüksek protein alımıyla **üst vücudunda kas kazanırken toplam yağını kaybetmen** gerçekçi bir hedeftir. Aynı sürecin bacaklarda tersine işlemesi (Bölüm 9), bacak antrenmanını düşük hacimde tutarak sağlanır. [[B]]
+Sen bu dört kategorinin hepsine giriyorsun. Bu yüzden, ılımlı bir kalori açığı ve yüksek protein alımıyla **üst vücudunda kas kazanırken toplam yağını kaybetmen** gerçekçi bir hedeftir. Aynı sürecin bacaklarda tersine işlemesi (Bölüm 10), bacak antrenmanını düşük hacimde tutarak sağlanır. [[B]]
 
 ## Hangi diyet modeli en iyisi?
 
@@ -71,11 +71,11 @@ Düşük karbonhidratlı mı, düşük yağlı mı? Aralıklı oruç mu, gelenek
 - Metabolik koğuş çalışmasında (katılımcıların tüm yiyeceklerinin kontrol edildiği), kaloriler eşitlendiğinde yağ kısıtlaması, karbonhidrat kısıtlamasına göre biraz **daha fazla** vücut yağı kaybına yol açmıştır — "karbonhidrat–insülin modelinin" öngördüğünün tersine [14]. Fark küçüktü ve pratik önemi sınırlıydı.
 - ISSN pozisyon bildirisi, vücut kompozisyonu için farklı diyet modellerinin, **kalori ve protein eşitlendiğinde**, benzer sonuçlar verdiğini; en önemli belirleyicinin **uzun vadeli uyum** olduğunu vurgulamıştır [16]. [[A]]
 
-> **MİT:** "Karbonhidrat insülini yükseltir, insülin yağ depolar; bu yüzden karbonhidrat kesmek yağ yakmanın tek yoludur." Kontrollü çalışmalar bu hipotezi desteklememiştir [14]. Düşük karbonhidratlı diyetler bazı kişilerde iştahı azaltarak ve başlangıçta hızlı su kaybı sağlayarak işe yarayabilir; ama kalori açığı olmadan yağ kaybettirmez. Senin için ek bir dezavantajı var: yoğun antrenman ve futbol, karbonhidratla daha iyi desteklenir (Bölüm 15).
+> **MİT:** "Karbonhidrat insülini yükseltir, insülin yağ depolar; bu yüzden karbonhidrat kesmek yağ yakmanın tek yoludur." Kontrollü çalışmalar bu hipotezi desteklememiştir [14]. Düşük karbonhidratlı diyetler bazı kişilerde iştahı azaltarak ve başlangıçta hızlı su kaybı sağlayarak işe yarayabilir; ama kalori açığı olmadan yağ kaybettirmez. Senin için ek bir dezavantajı var: yoğun antrenman ve futbol, karbonhidratla daha iyi desteklenir (Bölüm 16).
 
 ### Ultra işlenmiş gıdalar ve iştah
 
-Katılımcıların istedikleri kadar yiyebildiği bir metabolik koğuş çalışmasında, ultra işlenmiş gıdalardan oluşan diyet, benzer besin içerikli işlenmemiş diyete göre **günde yaklaşık 500 kcal daha fazla** tüketime ve iki haftada kilo alımına yol açmıştır [15]. [[B]] Ultra işlenmiş gıdalar (paketli atıştırmalıklar, hazır yemekler, şekerli içecekler, fast food) genellikle enerji yoğunluğu yüksek, lifi ve proteini düşük, hızlı yenen ürünlerdir. Kalori açığını sürdürmeyi kolaylaştırmanın en etkili yollarından biri, diyetin temelini **az işlenmiş, yüksek proteinli ve yüksek lifli** gıdalarla kurmaktır (Bölüm 14–15).
+Katılımcıların istedikleri kadar yiyebildiği bir metabolik koğuş çalışmasında, ultra işlenmiş gıdalardan oluşan diyet, benzer besin içerikli işlenmemiş diyete göre **günde yaklaşık 500 kcal daha fazla** tüketime ve iki haftada kilo alımına yol açmıştır [15]. [[B]] Ultra işlenmiş gıdalar (paketli atıştırmalıklar, hazır yemekler, şekerli içecekler, fast food) genellikle enerji yoğunluğu yüksek, lifi ve proteini düşük, hızlı yenen ürünlerdir. Kalori açığını sürdürmeyi kolaylaştırmanın en etkili yollarından biri, diyetin temelini **az işlenmiş, yüksek proteinli ve yüksek lifli** gıdalarla kurmaktır (Bölüm 15–16).
 
 ## Aralıklı enerji kısıtlaması ve diyet araları
 
@@ -85,7 +85,7 @@ Katılımcıların istedikleri kadar yiyebildiği bir metabolik koğuş çalış
 
 ## Uyku, stres ve kilo kaybı
 
-Aynı kalori açığı uygulanan kişilerde, gece 5,5 saat uyuyanlar 8,5 saat uyuyanlara göre **yağdan %55 daha az** kilo kaybetmiş, kaybedilen kilonun daha büyük kısmı yağsız kütleden gelmiş ve açlık hissi artmıştır [19]. [[B]] Uyku, kalori açığında vücudun hangi dokudan kilo vereceğini belirleyen en az bilinen ama en güçlü etkenlerden biridir (Bölüm 18).
+Aynı kalori açığı uygulanan kişilerde, gece 5,5 saat uyuyanlar 8,5 saat uyuyanlara göre **yağdan %55 daha az** kilo kaybetmiş, kaybedilen kilonun daha büyük kısmı yağsız kütleden gelmiş ve açlık hissi artmıştır [19]. [[B]] Uyku, kalori açığında vücudun hangi dokudan kilo vereceğini belirleyen en az bilinen ama en güçlü etkenlerden biridir (Bölüm 19).
 
 ## Obezite, hormonlar ve kilo kaybı
 
@@ -111,13 +111,13 @@ Semaglutid ve tirzepatid gibi ilaçlar, obezite tedavisinde yeni bir dönem baş
 
 **Kendini izlemenin** (kalori, kilo, aktivite kaydı) kilo kaybında en tutarlı başarı öngörücülerinden biri olduğu gösterilmiştir [26]. [[A]] Kalori sayımı herkes için sürdürülebilir değildir; ama başlangıçta 4–8 hafta düzenli sayım yapmak, porsiyon ve enerji içeriği konusunda kalıcı bir sezgi kazandırır.
 
-> **PRATİK: Tartıyı doğru okumak** Her sabah aynı koşullarda tartıl ve bir uygulamaya kaydet. Günlük değerlere değil, **7 günlük ortalamaya** bak. Ağır bir bacak antrenmanı, tuzlu bir akşam yemeği, kreatin başlamak (Bölüm 16) veya yetersiz uyku ertesi sabah tartıyı 0,5–1,5 kg yükseltebilir; bunların hiçbiri yağ artışı değildir. İki haftalık ortalama düşüş hedefin altındaysa kaloriyi 100–200 kcal azalt veya günlük adımı artır.
+> **PRATİK: Tartıyı doğru okumak** Her sabah aynı koşullarda tartıl ve bir uygulamaya kaydet. Günlük değerlere değil, **7 günlük ortalamaya** bak. Ağır bir bacak antrenmanı, tuzlu bir akşam yemeği, kreatin başlamak (Bölüm 17) veya yetersiz uyku ertesi sabah tartıyı 0,5–1,5 kg yükseltebilir; bunların hiçbiri yağ artışı değildir. İki haftalık ortalama düşüş hedefin altındaysa kaloriyi 100–200 kcal azalt veya günlük adımı artır.
 
 ## Kilo kaybını korumak
 
-Uzun süre kilo vermiş ve korumuş binlerce kişiyi izleyen kayıt çalışmaları, başarılı kilo korunumunun ortak alışkanlıklarını ortaya koymuştur: yüksek fiziksel aktivite (günde yaklaşık 60 dakika), düzenli kendini tartma, tutarlı bir beslenme düzeni, kahvaltı yapma ve az televizyon izleme [20]. Egzersizin, kilo vermede sınırlı ama **kiloyu korumada güçlü** bir rolü vardır (Bölüm 11) [29]. [[B]]
+Uzun süre kilo vermiş ve korumuş binlerce kişiyi izleyen kayıt çalışmaları, başarılı kilo korunumunun ortak alışkanlıklarını ortaya koymuştur: yüksek fiziksel aktivite (günde yaklaşık 60 dakika), düzenli kendini tartma, tutarlı bir beslenme düzeni, kahvaltı yapma ve az televizyon izleme [20]. Egzersizin, kilo vermede sınırlı ama **kiloyu korumada güçlü** bir rolü vardır (Bölüm 12) [29]. [[B]]
 
-> **SENİN İÇİN:** Beslenme planının temel sayıları (Bölüm 19'da ayrıntılandırılacak): (1) Günlük enerji alımı yaklaşık **2300–2600 kcal** ile başla; 3. haftadan itibaren haftalık ortalama kiloya göre ayarla. (2) Hedef hız haftada **0,5–0,9 kg**. (3) Protein **~160–180 g/gün** (Bölüm 14). (4) Diyetin temelini az işlenmiş gıdalarla kur. (5) Her 8–10 haftada bir, 1–2 hafta bakım kalorisine çık. (6) Uykunu 7–9 saate çıkarmak, diyetinin kalitesi kadar önemlidir. (7) İlerlemeyi tartı ortalaması, bel ve uyluk çevresi ve kuvvet kaydıyla birlikte değerlendir.
+> **SENİN İÇİN:** Beslenme planının temel sayıları (Bölüm 20'de ayrıntılandırılacak): (1) Günlük enerji alımı yaklaşık **2300–2600 kcal** ile başla; 3. haftadan itibaren haftalık ortalama kiloya göre ayarla. (2) Hedef hız haftada **0,5–0,9 kg**. (3) Protein **~160–180 g/gün** (Bölüm 15). (4) Diyetin temelini az işlenmiş gıdalarla kur. (5) Her 8–10 haftada bir, 1–2 hafta bakım kalorisine çık. (6) Uykunu 7–9 saate çıkarmak, diyetinin kalitesi kadar önemlidir. (7) İlerlemeyi tartı ortalaması, bel ve uyluk çevresi ve kuvvet kaydıyla birlikte değerlendir.
 
 > **ÖZET:** Yağ kaybı enerji açığı gerektirir; diyet modeli (düşük karbonhidrat, düşük yağ, aralıklı) kalori ve protein eşitlendiğinde benzer sonuç verir ve en iyi model, sürdürebildiğin modeldir. Enerji ihtiyacını denklemle tahmin et, tartı ortalamalarıyla ayarla. Haftada vücut ağırlığının %0,5–1'i oranında kilo kaybı, yağsız kütleyi korumak için makul bir hızdır; direnç antrenmanı, yüksek protein ve yeterli uyku kas kaybını en aza indirir. Yeniden başlayan ve yağ oranı yüksek biri olarak, üst vücudunda kas kazanırken yağ kaybetmen gerçekçidir.
 

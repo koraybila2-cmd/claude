@@ -37,7 +37,7 @@ Bu yöntem yalnızca bir mezura gerektirir. Erkekler için metrik formül:
 3. Payda = 1,0324 − 0,3496 + 0,3459 ≈ 1,0287
 4. 495 / 1,0287 ≈ 481,2 → 481,2 − 450 ≈ **%31**
 
-Yöntemin bireysel hatası ±3–4 yüzde puanıdır; ancak aynı kişide zaman içindeki değişimi izlemek için kullanışlıdır. Biyoelektrik impedans (BIA) tartıları sıvı durumuna çok duyarlıdır; kullanıyorsan her zaman aynı koşullarda ölç ve tek bir değere değil eğilime bak (Bölüm 13).
+Yöntemin bireysel hatası ±3–4 yüzde puanıdır; ancak aynı kişide zaman içindeki değişimi izlemek için kullanışlıdır. Biyoelektrik impedans (BIA) tartıları sıvı durumuna çok duyarlıdır; kullanıyorsan her zaman aynı koşullarda ölç ve tek bir değere değil eğilime bak (Bölüm 14).
 
 ### Yağsız kütle
 
@@ -95,7 +95,7 @@ Tahmin formüllerinin hatasını ortadan kaldırmanın yolu, 2–3 haftalık ger
 | 0,7 kg | ≈ 770 kcal | ≈ 2330 kcal |
 | 0,9 kg | ≈ 990 kcal | ≈ 2110 kcal |
 
-"1 kg yağ = 7700 kcal" kuralı kısa vadede kaba bir yaklaşımdır; uzun vadede metabolizma ve hareket harcaması azaldıkça gerçek kayıp bu hesaptan yavaşlar [3]. Bu yüzden 3–4 haftada bir yeniden hesaplama gerekir (Bölüm 13).
+"1 kg yağ = 7700 kcal" kuralı kısa vadede kaba bir yaklaşımdır; uzun vadede metabolizma ve hareket harcaması azaldıkça gerçek kayıp bu hesaptan yavaşlar [3]. Bu yüzden 3–4 haftada bir yeniden hesaplama gerekir (Bölüm 14).
 
 ## Makro besin hesabı
 
@@ -132,7 +132,7 @@ Sıralama önemlidir: önce protein, sonra yağ, kalan enerji karbonhidrat.
 | Yağsız kütle üzerinden (kalori açığında) | Yağsız kütle × 2,3–2,6 g/kg | 67,6 kg × 2,3–2,6 = 155–176 g |
 | Gerçek kilo, düşük katsayı | Mevcut kilo × 1,5–1,8 g/kg | 98 kg × 1,5–1,8 = 147–176 g |
 
-Üç yöntem de **yaklaşık 150–180 g/gün** aralığında birleşir [4]. Öğün başına hedef: ≈ 0,4 g/kg × 98 kg ≈ **35–45 g**, 4 öğünde (Bölüm 14).
+Üç yöntem de **yaklaşık 150–180 g/gün** aralığında birleşir [4]. Öğün başına hedef: ≈ 0,4 g/kg × 98 kg ≈ **35–45 g**, 4 öğünde (Bölüm 15).
 
 ### Protein kaynaklarının pratik karşılıkları
 
@@ -163,7 +163,7 @@ Değerler ürüne ve pişirme yöntemine göre ±%10–20 değişebilir; paket e
 | İdame | 3–5 g/gün (≈ 0,03–0,05 g/kg) | **5 g/gün** |
 | Yüklemesiz başlangıç | 3–5 g/gün, 3–4 haftada doygunluk | **5 g/gün** |
 
-Kaynak: ISSN pozisyon bildirisi [5]. Yükleme, tartıdaki 1–2 kg'lık su artışını birkaç güne sıkıştırır; yüklemesiz başlangıç aynı sonuca daha yavaş ulaşır (Bölüm 16).
+Kaynak: ISSN pozisyon bildirisi [5]. Yükleme, tartıdaki 1–2 kg'lık su artışını birkaç güne sıkıştırır; yüklemesiz başlangıç aynı sonuca daha yavaş ulaşır (Bölüm 17).
 
 ### Kafein
 
@@ -178,7 +178,7 @@ Kaynak: ISSN pozisyon bildirisi [5]. Yükleme, tartıdaki 1–2 kg'lık su artı
 | Enerji içeceği (250 ml) | ≈ 80 mg |
 | Kola (330 ml) | 30–40 mg |
 
-Kafeinin yarı ömrü 3–7 saattir; uyku üzerindeki etkisini sınırlamak için yatmadan **en az 8 saat önce** son dozu al (Bölüm 17, 18).
+Kafeinin yarı ömrü 3–7 saattir; uyku üzerindeki etkisini sınırlamak için yatmadan **en az 8 saat önce** son dozu al (Bölüm 18, 19).
 
 ## Sıvı ihtiyacı
 
@@ -217,19 +217,19 @@ Her iki formülün bireysel hata payı ± 10 atım/dk'dır [8]. Gerçek değeri 
 | Zone 4 | %85–92 | 162–175 | %76–87 | 7–8 | Birkaç kelime |
 | Zone 5 | %92–100 | 175–190 | %87–100 | 9–10 | Konuşamaz |
 
-Kardiyo kondisyonun geliştikçe dinlenik nabzın düşer ve aynı hızda nabzın azalır; aynı RPE'de daha hızlı koşar veya pedal çevirirsin. Bölgeleri 4–6 haftada bir yeni dinlenik nabız ile güncelle. Nabız ile konuşma testi çeliştiğinde **konuşma testini** esas al (Bölüm 10).
+Kardiyo kondisyonun geliştikçe dinlenik nabzın düşer ve aynı hızda nabzın azalır; aynı RPE'de daha hızlı koşar veya pedal çevirirsin. Bölgeleri 4–6 haftada bir yeni dinlenik nabız ile güncelle. Nabız ile konuşma testi çeliştiğinde **konuşma testini** esas al (Bölüm 11).
 
 ### Adım sıklığı (kadans) artırımı
 
 **Hedef kadans = mevcut kadans × 1,05–1,10**
 
-Örnek: rahat koşu temponda 30 saniyede sağ ayağın 40 kez yere değiyor → kadans = 40 × 2 (iki ayak) × 2 (dakikaya çevirme) = 160 adım/dk. Hedef: 160 × 1,05–1,10 ≈ **168–176 adım/dk**. Bir metronom uygulamasını bu değere ayarla. %5–10'luk artış, diz ve kalça yüklerini azaltır [10] (Bölüm 12).
+Örnek: rahat koşu temponda 30 saniyede sağ ayağın 40 kez yere değiyor → kadans = 40 × 2 (iki ayak) × 2 (dakikaya çevirme) = 160 adım/dk. Hedef: 160 × 1,05–1,10 ≈ **168–176 adım/dk**. Bir metronom uygulamasını bu değere ayarla. %5–10'luk artış, diz ve kalça yüklerini azaltır [10] (Bölüm 13).
 
 ### Haftalık koşu yükü
 
 **Haftalık koşu süresi (dk) = Σ (koşu bölümlerinin süresi)** — yürüyüş bölümleri hariç.
 
-Yük artışı kuralı: haftalık koşu süresini bir önceki haftaya göre **%10–20'den** fazla artırma; tek bir koşuyu, son 30 gündeki en uzun koşundan belirgin şekilde (> %10) uzun yapma (Bölüm 12).
+Yük artışı kuralı: haftalık koşu süresini bir önceki haftaya göre **%10–20'den** fazla artırma; tek bir koşuyu, son 30 gündeki en uzun koşundan belirgin şekilde (> %10) uzun yapma (Bölüm 13).
 
 ## Ağırlık antrenmanı hesaplamaları
 
@@ -258,7 +258,7 @@ Formüller 10 tekrarın altında makul, üzerinde giderek daha hatalıdır [11].
 | 65 | 15 | Hipertrofi / kas dayanıklılığı |
 | 60 | ≈ 20 | Hipertrofi / kas dayanıklılığı |
 
-Bu tablo ortalamadır: aynı %1RM'de yapılabilen tekrar sayısı; hareketten (izole hareketlerde ve alt vücutta genellikle daha fazla), kişiden ve antrenman geçmişinden belirgin şekilde etkilenir. Bu nedenle rapor, yük seçiminde yüzde yerine **tekrar aralığı + RIR** kullanılmasını önerir (Bölüm 4).
+Bu tablo ortalamadır: aynı %1RM'de yapılabilen tekrar sayısı; hareketten (izole hareketlerde ve alt vücutta genellikle daha fazla), kişiden ve antrenman geçmişinden belirgin şekilde etkilenir. Bu nedenle rapor, yük seçiminde yüzde yerine **tekrar aralığı + RIR** kullanılmasını önerir (Bölüm 5).
 
 ### RIR – RPE dönüşümü
 
@@ -271,7 +271,7 @@ Bu tablo ortalamadır: aynı %1RM'de yapılabilen tekrar sayısı; hareketten (i
 | 7 | 3 | Üç tekrar daha yapabilirdin |
 | 5–6 | 4–6 | Isınma veya teknik çalışması hissi |
 
-Kaynak: tekrar rezervi tabanlı RPE ölçeği [12]. Yeni başlayanlar RIR'i genellikle olduğundan fazla tahmin eder (tükenişe gerçekte daha yakındır ama uzak hisseder); zaman zaman izole bir harekette son seti tükenişe götürerek tahminini kalibre et (Bölüm 4).
+Kaynak: tekrar rezervi tabanlı RPE ölçeği [12]. Yeni başlayanlar RIR'i genellikle olduğundan fazla tahmin eder (tükenişe gerçekte daha yakındır ama uzak hisseder); zaman zaman izole bir harekette son seti tükenişe götürerek tahminini kalibre et (Bölüm 5).
 
 ### Haftalık set sayımı (yarım sayım)
 
@@ -296,7 +296,7 @@ Bir egzersizin hangi kaslar için "dolaylı" sayılacağı, o kasın hareketin s
 | Üst vücut bileşik (bench, row, pulldown) | 1,25–2,5 kg | Tüm setlerde tekrar aralığının üst sınırı |
 | İzole hareketler | En küçük artış (1–2 kg) veya önce tekrar | Tüm setlerde tekrar aralığının üst sınırı |
 
-Artış sonrası tekrar sayısı aralığın alt sınırına düşer; yeniden üst sınıra ulaşılana kadar aynı ağırlıkla devam edilir (çift progresyon; Bölüm 6).
+Artış sonrası tekrar sayısı aralığın alt sınırına düşer; yeniden üst sınıra ulaşılana kadar aynı ağırlıkla devam edilir (çift progresyon; Bölüm 7).
 
 ## Kayıt şablonları
 
@@ -328,7 +328,7 @@ Aşağıdaki şablonları bir deftere, tabloya veya telefon notlarına aktarabil
 | 3 | | | | | | | | |
 | 4 | | | | | | | | |
 
-**Karar sütunu için:** Bölüm 19'daki ayarlama algoritmasını kullan. Tek haftalık veriyle değil, **iki haftalık eğilimle** karar ver.
+**Karar sütunu için:** Bölüm 20'deki ayarlama algoritmasını kullan. Tek haftalık veriyle değil, **iki haftalık eğilimle** karar ver.
 
 ### Rehabilitasyon kontrol listesi (koşuya dönüş kriterleri)
 
@@ -340,7 +340,7 @@ Aşağıdaki şablonları bir deftere, tabloya veya telefon notlarına aktarabil
 | 20 tek ayak sekme | Ağrı ≤ 2/10 | | | |
 | 30 dk hızlı yürüyüş | Ağrısız, ertesi gün de | | | |
 
-Tüm kriterler karşılandığında yürü–koş protokolünün 1. aşamasına geç (Bölüm 12).
+Tüm kriterler karşılandığında yürü–koş protokolünün 1. aşamasına geç (Bölüm 13).
 
 ## Birim dönüşümleri
 

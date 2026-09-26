@@ -41,15 +41,15 @@ Kandaki asit tamponlama kapasitesini artırarak 30 saniye ile yaklaşık 12 daki
 
 ### Spor gıdaları ve eksiklik durumunda mikro besinler
 
-- **Protein tozu:** Bir "takviye" değil, pratik bir besindir (Bölüm 14).
-- **D vitamini ve demir:** Yalnızca kan tahliliyle **eksiklik** gösterildiğinde yararlıdır; eksiklik yoksa performansı artırmaz [12] (Bölüm 15).
+- **Protein tozu:** Bir "takviye" değil, pratik bir besindir (Bölüm 15).
+- **D vitamini ve demir:** Yalnızca kan tahliliyle **eksiklik** gösterildiğinde yararlıdır; eksiklik yoksa performansı artırmaz [12] (Bölüm 16).
 
 ## B grubu: gelişmekte olan kanıt
 
 - **Sitrülin (L-sitrülin, sitrülin malat):** Nitrik oksit üretimini destekleyen bir amino asit. Meta-analizler, akut sitrülin takviyesinin yüksek yoğunluklu kuvvet ve güç performansı üzerinde **küçük** bir etkisi olabileceğini [10] ve direnç antrenmanında yapılan tekrar sayısını hafifçe artırabileceğini [11] göstermiştir. Etki küçüktür ve pratik önemi tartışmalıdır. [[C]]
-- **Omega-3 yağ asitleri:** Kalp-damar sağlığı açısından yararlı olabilir (Bölüm 15); kas kütlesi ve kuvvet üzerindeki etkileri tutarsızdır. Haftada 2 kez yağlı balık yiyorsan takviyeye genellikle gerek yoktur. [[C]]
+- **Omega-3 yağ asitleri:** Kalp-damar sağlığı açısından yararlı olabilir (Bölüm 16); kas kütlesi ve kuvvet üzerindeki etkileri tutarsızdır. Haftada 2 kez yağlı balık yiyorsan takviyeye genellikle gerek yoktur. [[C]]
 - **Ashwagandha:** Bir Bayesçi meta-analiz, ashwagandhanın kuvvet ve VO<sub>2</sub>max üzerinde olumlu etkiler gösterebileceğini bildirmiştir; ancak çalışmaların çoğu küçük ve kalitesi sınırlıdır [13]. Daha önemlisi, ashwagandha kullanımına bağlı **karaciğer hasarı** vakaları bildirilmiştir [14]. Fayda–risk dengesi belirsiz olduğundan önerilmez. [[C]]
-- **Kolajen / jelatin + C vitamini:** Tendon ve bağ dokusu sağlığı için araştırılmaktadır; kas kazanımı için etkisizdir (Bölüm 14). Tendon rehabilitasyonunda kullanımına dair kanıtlar henüz ön düzeydedir. [[D]]
+- **Kolajen / jelatin + C vitamini:** Tendon ve bağ dokusu sağlığı için araştırılmaktadır; kas kazanımı için etkisizdir (Bölüm 15). Tendon rehabilitasyonunda kullanımına dair kanıtlar henüz ön düzeydedir. [[D]]
 
 ## C ve D grubu: işe yaramayanlar ve riskli olanlar
 
@@ -65,7 +65,7 @@ Kandaki asit tamponlama kapasitesini artırarak 30 saniye ile yaklaşık 12 daki
 | "Detoks" ürünleri | Toksin atma | Bilimsel temeli yok | Para kaybı |
 | "Özel karışım" pre-workout ürünleri | Enerji, pump | İçerik miktarları gizli; kafein dozu belirsiz; kontaminasyon riski | Kahve daha güvenli ve ucuz |
 
-> **MİT:** "Testosteron artırıcı takviyelerle doğal olarak testosteronunu yükseltebilirsin." Piyasadaki popüler testosteron artırıcı ürünlerin bileşenlerini inceleyen bir analiz, iddiaların büyük çoğunluğunun bilimsel literatürle desteklenmediğini göstermiştir [15]. Senin için testosteronu yükseltmenin kanıtlanmış yolları: **kilo vermek** (Bölüm 13), yeterli uyumak (Bölüm 18) ve yağ alımını çok düşürmemektir (Bölüm 15).
+> **MİT:** "Testosteron artırıcı takviyelerle doğal olarak testosteronunu yükseltebilirsin." Piyasadaki popüler testosteron artırıcı ürünlerin bileşenlerini inceleyen bir analiz, iddiaların büyük çoğunluğunun bilimsel literatürle desteklenmediğini göstermiştir [15]. Senin için testosteronu yükseltmenin kanıtlanmış yolları: **kilo vermek** (Bölüm 14), yeterli uyumak (Bölüm 19) ve yağ alımını çok düşürmemektir (Bölüm 16).
 
 ## Takviye güvenliği: kontrol listesi
 

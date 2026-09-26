@@ -45,7 +45,7 @@ Glisemik indeks (bir besinin kan şekerini ne kadar hızlı yükselttiği), sağ
 
 **Ketojenik diyet**, karbonhidratı genellikle günde 50 g'ın altına indirerek vücudun yağ asitlerinden **keton cisimleri** üretmesini sağlayan çok düşük karbonhidratlı, yüksek yağlı bir diyettir. Kanıtlar şöyle özetlenebilir:
 
-- **Kilo ve yağ kaybı:** Kalori ve protein eşitlendiğinde düşük karbonhidratlı diyetler ek bir yağ kaybı avantajı sağlamaz (Bölüm 13). Kişilerin istedikleri kadar yiyebildiği bir koğuş çalışmasında, bitki ağırlıklı düşük yağlı diyet, hayvansal ağırlıklı ketojenik diyete göre günde yaklaşık 550–700 kcal **daha az** kendiliğinden enerji alımına yol açmıştır [9]. [[B]]
+- **Kilo ve yağ kaybı:** Kalori ve protein eşitlendiğinde düşük karbonhidratlı diyetler ek bir yağ kaybı avantajı sağlamaz (Bölüm 14). Kişilerin istedikleri kadar yiyebildiği bir koğuş çalışmasında, bitki ağırlıklı düşük yağlı diyet, hayvansal ağırlıklı ketojenik diyete göre günde yaklaşık 550–700 kcal **daha az** kendiliğinden enerji alımına yol açmıştır [9]. [[B]]
 - **Kas ve kuvvet:** Direnç antrenmanıyla ketojenik diyeti birleştiren çalışmaların meta-analizi, ketojenik diyetin yağ kaybını desteklediğini ama yağsız kütle kazanımını azaltabildiğini göstermiştir; bu azalmanın bir kısmı glikojen ve suyun azalmasından kaynaklanır [8]. [[B]]
 - **Yüksek yoğunluklu performans:** Elit yürüyüşçülerde düşük karbonhidratlı yüksek yağlı diyet, egzersiz ekonomisini bozmuş ve yoğunlaştırılmış antrenmanın performans kazanımlarını ortadan kaldırmıştır [24]. Futbol gibi tekrarlı yüksek yoğunluk içeren sporlar için ketojenik diyet mantıklı bir seçim değildir. [[B]]
 
@@ -100,7 +100,7 @@ Vücut ağırlığının %2'sinden fazla sıvı kaybının, özellikle sıcak or
 
 ## Alkol
 
-Alkol, gram başına 7 kcal enerji içerir ve besin değeri taşımaz. Kalori açığında alkol, diğer besinlerden "çalınan" kalori demektir. Ayrıca antrenmandan sonra yüksek miktarda alkol tüketimi (vücut ağırlığı başına ~1,5 g/kg, yaklaşık 8–12 standart içki), protein ile birlikte alınsa bile kas protein sentezini %24–37 oranında azaltmıştır [13]. [[B]] Alkol uyku kalitesini de bozar (Bölüm 18). Küresel hastalık yükü analizi, sağlık açısından tamamen "güvenli" bir alkol düzeyi olmadığı sonucuna varmıştır [27].
+Alkol, gram başına 7 kcal enerji içerir ve besin değeri taşımaz. Kalori açığında alkol, diğer besinlerden "çalınan" kalori demektir. Ayrıca antrenmandan sonra yüksek miktarda alkol tüketimi (vücut ağırlığı başına ~1,5 g/kg, yaklaşık 8–12 standart içki), protein ile birlikte alınsa bile kas protein sentezini %24–37 oranında azaltmıştır [13]. [[B]] Alkol uyku kalitesini de bozar (Bölüm 19). Küresel hastalık yükü analizi, sağlık açısından tamamen "güvenli" bir alkol düzeyi olmadığı sonucuna varmıştır [27].
 
 ## Popüler diyet modelleri
 
@@ -126,7 +126,7 @@ Günlük yaklaşık 2400 kcal hedefi için örnek bir dağılım:
 
 | Makro besin | Miktar | Enerji | Enerjinin yüzdesi | Gerekçe |
 |---|---|---|---|---|
-| Protein | 170 g | 680 kcal | ~%28 | Bölüm 14 |
+| Protein | 170 g | 680 kcal | ~%28 | Bölüm 15 |
 | Yağ | 70 g | 630 kcal | ~%26 | Hormon sağlığı, tokluk |
 | Karbonhidrat | 270 g | 1080 kcal | ~%45 | Antrenman ve futbol performansı |
 | Lif | 30–40 g | — | — | Sağlık ve tokluk |

@@ -1,6 +1,6 @@
 # Uygulama Rehberi: 16 Haftalık Kişisel Antrenman, Kardiyo ve Beslenme Planı
 
-Bu bölüm, raporun önceki 18 bölümünde derlenen kanıtları senin için somut, uygulanabilir bir plana dönüştürür. Plan; 173 cm, 98 kg, yaklaşık 9 aylık direnç antrenmanı geçmişi olan, bir aradan sonra yeniden başlamış, yağ kaybı ve üst vücut hipertrofisi hedefleyen, bacaklarının büyümesini istemeyen, rekreasyonel futbol oynayan ve koşarken lateral baldır ağrısı yaşayan bir okur için tasarlanmıştır. Her önerinin arkasındaki gerekçe ilgili bölümde bulunur; burada gerekçeler yalnızca bölüm numarasıyla belirtilmiştir.
+Bu bölüm, raporun önceki 19 bölümünde derlenen kanıtları senin için somut, uygulanabilir bir plana dönüştürür. Plan; 173 cm, 98 kg, yaklaşık 9 aylık direnç antrenmanı geçmişi olan, bir aradan sonra yeniden başlamış, yağ kaybı ve üst vücut hipertrofisi hedefleyen, bacaklarının büyümesini istemeyen, rekreasyonel futbol oynayan ve koşarken lateral baldır ağrısı yaşayan bir okur için tasarlanmıştır. Her önerinin arkasındaki gerekçe ilgili bölümde bulunur; burada gerekçeler yalnızca bölüm numarasıyla belirtilmiştir.
 
 > **DİKKAT:** Bu plan genel bir şablondur; bireysel tıbbi değerlendirmenin yerini tutmaz. Başlamadan önce aşağıdaki sağlık kontrollerini yaptır. Plan boyunca kırmızı bayrak belirtileri (göğüs ağrısı, orantısız nefes darlığı, bayılma hissi, kemik üzerinde noktasal ağrı, uyuşma, ani şişlik) ortaya çıkarsa egzersizi durdur ve hekime başvur.
 
@@ -8,10 +8,10 @@ Bu bölüm, raporun önceki 18 bölümünde derlenen kanıtları senin için som
 
 ### Sağlık kontrolü
 
-- **Kan basıncı:** En az iki farklı günde ölç. 140/90 mmHg'nin üzerindeyse hekime danış; 160/100 mmHg'nin üzerindeyse ağır direnç ve yüksek yoğunluklu kardiyodan önce hekim değerlendirmesi şarttır (Bölüm 8, 11).
-- **Kan tahlili (öneri):** Açlık kan şekeri veya HbA1c, lipid profili, karaciğer ve böbrek fonksiyonları, D vitamini, tam kan sayımı. Kreatine başlamadan önce yapılırsa böbrek değerleri daha kolay yorumlanır (Bölüm 16).
-- **Lateral baldır ağrısı:** Bölüm 12'deki kırmızı bayrakları kontrol et. Kemik üzerinde noktasal hassasiyet, uyuşma veya istirahat ağrısı varsa önce spor hekimi veya fizyoterapist.
-- **Uyku:** Horlama, uykuda nefes durması veya gün içi aşırı uyku hâli varsa uyku apnesi açısından hekime başvur (Bölüm 18).
+- **Kan basıncı:** En az iki farklı günde ölç. 140/90 mmHg'nin üzerindeyse hekime danış; 160/100 mmHg'nin üzerindeyse ağır direnç ve yüksek yoğunluklu kardiyodan önce hekim değerlendirmesi şarttır (Bölüm 9, 12).
+- **Kan tahlili (öneri):** Açlık kan şekeri veya HbA1c, lipid profili, karaciğer ve böbrek fonksiyonları, D vitamini, tam kan sayımı. Kreatine başlamadan önce yapılırsa böbrek değerleri daha kolay yorumlanır (Bölüm 17).
+- **Lateral baldır ağrısı:** Bölüm 13'teki kırmızı bayrakları kontrol et. Kemik üzerinde noktasal hassasiyet, uyuşma veya istirahat ağrısı varsa önce spor hekimi veya fizyoterapist.
+- **Uyku:** Horlama, uykuda nefes durması veya gün içi aşırı uyku hâli varsa uyku apnesi açısından hekime başvur (Bölüm 19).
 
 ### Başlangıç ölçümleri (Hafta 0)
 
@@ -33,9 +33,9 @@ Hedeflerin birbiriyle çatışmasın diye öncelik sırasını net koyalım:
 
 1. **Yağ kaybı:** Haftada vücut ağırlığının %0,5–1'i (yaklaşık 0,5–0,9 kg). Diğer bütün hedeflerini kolaylaştırır.
 2. **Baldır ağrısının iyileşmesi ve güvenli koşuya dönüş:** Kardiyo ve futbol hedeflerinin önündeki engel.
-3. **Üst vücut hipertrofisi:** Kalori açığında bile, yeniden başlayan biri olarak kas kazanman gerçekçi; açık büyüdükçe yağsız kütle kazanımı azalır ama kuvvet kazanımı büyük ölçüde korunur [3] (Bölüm 13).
-4. **Bacak kuvvetinin korunması ve artırılması, bacak hacminin azalması:** "Az, ağır, hızlı, tükenişten uzak" (Bölüm 9).
-5. **Aerobik kondisyon ve futbol performansı:** Önce düşük darbeli temel, sonra futbola özgü çalışma (Bölüm 11).
+3. **Üst vücut hipertrofisi:** Kalori açığında bile, yeniden başlayan biri olarak kas kazanman gerçekçi; açık büyüdükçe yağsız kütle kazanımı azalır ama kuvvet kazanımı büyük ölçüde korunur [3] (Bölüm 14).
+4. **Bacak kuvvetinin korunması ve artırılması, bacak hacminin azalması:** "Az, ağır, hızlı, tükenişten uzak" (Bölüm 10).
+5. **Aerobik kondisyon ve futbol performansı:** Önce düşük darbeli temel, sonra futbola özgü çalışma (Bölüm 12).
 
 ## 16 haftanın genel yapısı
 
@@ -46,7 +46,7 @@ Hedeflerin birbiriyle çatışmasın diye öncelik sırasını net koyalım:
 | **3. Birikim II** | 9–12 | Üst vücut 12–16 set; 12. hafta deload | Zone 2 + aralık + yürü–koş | Yürü–koş aşama 4–8; küçük alan oyunlarına geçiş | 11–12. haftalar: **diyet arası** (bakım kalorisi) |
 | **4. Futbol ve pekiştirme** | 13–16 | Üst vücut 12–16 set; 16. hafta test | Zone 2 + aralık + futbol | Kesintisiz koşu, futbola dönüş | Açık yeniden başlar; 16. hafta değerlendirme |
 
-Takvim bir **kılavuzdur**. Baldır rehabilitasyonu ve koşuya dönüş, takvime göre değil **kriterlere** göre ilerler (Bölüm 12). Ağrı izleme modeli, ağrı belirli bir eşiğin altında kaldıkça aktiviteye devam etmeye izin verir [6]. Kriterleri daha erken karşılarsan bir sonraki aşamaya geç; ağrı kurallarını ihlal edersen bir aşama geri dön.
+Takvim bir **kılavuzdur**. Baldır rehabilitasyonu ve koşuya dönüş, takvime göre değil **kriterlere** göre ilerler (Bölüm 13). Ağrı izleme modeli, ağrı belirli bir eşiğin altında kaldıkça aktiviteye devam etmeye izin verir [6]. Kriterleri daha erken karşılarsan bir sonraki aşamaya geç; ağrı kurallarını ihlal edersen bir aşama geri dön.
 
 ## Haftalık program
 
@@ -60,18 +60,20 @@ Takvim bir **kılavuzdur**. Baldır rehabilitasyonu ve koşuya dönüş, takvime
 | Cumartesi | Blok 1–3: **Zone 2 veya yürü–koş** + hafif rehabilitasyon; Blok 4: **futbol** | 40–90 dk |
 | Pazar | Dinlenme; hafif yürüyüş (adım hedefi) | — |
 
-Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırarak; Bölüm 11). Bu yapı, haftalık aerobik aktivite ve haftada en az iki gün kas güçlendirme önerilerini rahatça aşar [8].
+Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırarak; Bölüm 12). Bu yapı, haftalık aerobik aktivite ve haftada en az iki gün kas güçlendirme önerilerini rahatça aşar [8].
 
 ## Ağırlık antrenmanı
 
 ### Genel kurallar
 
-- **Isınma:** 5–10 dk genel ısınma + ilk büyük hareket için ısınma setleri (Bölüm 18).
-- **Dinlenme:** Bileşik hareketlerde 2–3 dk, izolelerde 1–2 dk; süperset olarak işaretlenenleri dönüşümlü yap (Bölüm 5).
-- **İlerleme:** Çift progresyon — tekrar aralığının üst sınırına tüm setlerde ulaşınca ağırlığı en küçük adımla artır (Bölüm 6).
+- **Isınma:** 5–10 dk genel ısınma + ilk büyük hareket için ısınma setleri (Bölüm 19).
+- **Dinlenme:** Bileşik hareketlerde 2–3 dk, izolelerde 1–2 dk; süperset olarak işaretlenenleri dönüşümlü yap (Bölüm 6).
+- **İlerleme:** Çift progresyon — tekrar aralığının üst sınırına tüm setlerde ulaşınca ağırlığı en küçük adımla artır (Bölüm 7).
 - **Kayıt:** Her set için ağırlık × tekrar ve yaklaşık RIR'i kaydet.
-- **Tempo:** Kontrollü iniş (2–3 sn), patlayıcı kaldırma niyeti (Bölüm 5).
+- **Tempo:** Kontrollü iniş (2–3 sn), patlayıcı kaldırma niyeti (Bölüm 6).
 - **Genel çerçeve:** Set, tekrar, efor ve frekans seçimleri, güncel ACSM pozisyon bildirisinin "birçok yol aynı sonuca çıkar" yaklaşımıyla uyumludur [1].
+
+> **PRATİK: İki set formatında uygulamak** Güray Aydın'ın programı gibi egzersiz başına 2 çalışma setiyle çalışmayı tercih ediyorsan, aşağıdaki tablolardaki hareketleri 2 set olarak uygulayabilirsin. Koşul şu: her üst vücut kası için haftalık fraksiyonel set sayısı en az 10 olmalı ve setler gerçekten tükenişe yakın (son sette RIR 0–1) bitirilmeli. Hacmi 10'un altına düşen kaslara (genellikle yan ve arka omuz) üçüncü bir set veya ek hareket ekle. Bacak günü bu kuralın dışındadır: orada tükenişe gitme (Bölüm 4, 10).
 
 ### Üst A (Pazartesi)
 
@@ -109,10 +111,10 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 | 3 | Romanian deadlift | 2 × 6 | 2 × 5–6 | RIR 2–3 | Hamstring, kalça |
 | 4 | Nordic hamstring curl | 2 × 3–4 | 2 × 4–6 | Kontrollü | Futbolda sakatlık önleme [5] |
 | 5 | Copenhagen adduction (kısa kaldıraç) | 2 × 6 sn/taraf | 2 × 8–10 sn/taraf | — | Kasık sakatlığı önleme |
-| 6 | Baldır/peroneal rehabilitasyon bloğu | Bölüm 12, Evre 1–2 | Evre 2–3 | Ağrı ≤ 3/10 | Aşağıya bak |
+| 6 | Baldır/peroneal rehabilitasyon bloğu | Bölüm 13, Evre 1–2 | Evre 2–3 | Ağrı ≤ 3/10 | Aşağıya bak |
 | 7 | Pallof press veya plank | 2 × 10/taraf veya 2 × 30–45 sn | Aynı | — | Gövde |
 
-**Yapmayacağın bacak egzersizleri:** leg extension, yüksek tekrarlı leg press, yüksek hacimli leg curl, bacaklarda drop set ve tükenişe kadar setler (Bölüm 9). Haftada toplam ağır bacak seti: 5 (squat 3 + RDL 2).
+**Yapmayacağın bacak egzersizleri:** leg extension, yüksek tekrarlı leg press, yüksek hacimli leg curl, bacaklarda drop set ve tükenişe kadar setler (Bölüm 10). Haftada toplam ağır bacak seti: 5 (squat 3 + RDL 2).
 
 ### Deload haftaları (8. ve 12. haftalar) ve test haftası (16. hafta)
 
@@ -135,7 +137,7 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 |---|---|---|---|
 | Çarşamba | 4 × 4 dk zor / 3 dk kolay (bisiklet veya eliptik) | Zor: RPE 8, ~%85–92 HRmax | 35–40 dk |
 | Cuma | Zone 2 | RPE 3–4 | 40–50 dk |
-| Cumartesi | Kriterler sağlandıysa **yürü–koş** (Bölüm 12, aşama 1–3) + 15 dk bisiklet; sağlanmadıysa Zone 2 bisiklet | Koşu kısımları Zone 2 | 30–45 dk |
+| Cumartesi | Kriterler sağlandıysa **yürü–koş** (Bölüm 13, aşama 1–3) + 15 dk bisiklet; sağlanmadıysa Zone 2 bisiklet | Koşu kısımları Zone 2 | 30–45 dk |
 
 ### Blok 3 (Hafta 9–12): Koşuya dönüş
 
@@ -153,7 +155,7 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 | Cuma | Zone 2 (koşu veya bisiklet) | RPE 3–4 | 40–50 dk |
 | Cumartesi | **Futbol**: 13–14. haftalarda küçük alan oyunu veya 30–45 dk maç; 15–16. haftalarda tam maç | Yüksek | 60–90 dk |
 
-> **PRATİK: Koşu günleri için kurallar** (1) Koşular arasında en az bir gün ara. (2) Koşu sırasında ağrı ≤ 3/10, ertesi sabah başlangıç düzeyinde. (3) Düz ve yumuşak zemin; eğimli yol kenarlarından kaçın. (4) Adım sıklığını %5–10 artır (metronom) [7]. (5) Haftalık koşu süresini haftada en fazla %10–20 artır; tek bir koşuyu, son dönemin en uzun koşusundan belirgin uzun yapma. (6) Ağrı geri gelirse bir aşama geri dön; iki kez tekrarlanırsa fizyoterapiste başvur (Bölüm 12).
+> **PRATİK: Koşu günleri için kurallar** (1) Koşular arasında en az bir gün ara. (2) Koşu sırasında ağrı ≤ 3/10, ertesi sabah başlangıç düzeyinde. (3) Düz ve yumuşak zemin; eğimli yol kenarlarından kaçın. (4) Adım sıklığını %5–10 artır (metronom) [7]. (5) Haftalık koşu süresini haftada en fazla %10–20 artır; tek bir koşuyu, son dönemin en uzun koşusundan belirgin uzun yapma. (6) Ağrı geri gelirse bir aşama geri dön; iki kez tekrarlanırsa fizyoterapiste başvur (Bölüm 13).
 
 ## Baldır ve peroneal rehabilitasyon zaman çizelgesi
 
@@ -162,7 +164,7 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 | 1–2 | Evre 1 — Sakinleştirme | İzometrik eversiyon 5 × 30–45 sn; izometrik calf raise 5 × 30–45 sn; kalça abduksiyonu 3 × 12–15; tek ayak denge 3 × 30 sn |
 | 3–6 | Evre 2 — Güçlendirme | Bantlı eversiyon 3 × 15–20; tek ayak calf raise (diz düz ve bükük) 3 × 8–15, ağırlıkla ağır-yavaş versiyona ilerle; başparmak vurgulu calf raise; denge ilerlemesi; yan plank |
 | 6–8 | Evre 3 — Koşuya hazırlık | Pogo sıçramaları 3 × 20 → tek ayak 3 × 10; yana sekme 3 × 10; A-skip; 30 dk hızlı yürüyüş |
-| 7–12 | Yürü–koş protokolü | Bölüm 12'deki 8 aşama, gün aşırı; kriterler: calf raise ≥ 20–25/taraf, fark < %10, 20 sekme ağrısız |
+| 7–12 | Yürü–koş protokolü | Bölüm 13'teki 8 aşama, gün aşırı; kriterler: calf raise ≥ 20–25/taraf, fark < %10, 20 sekme ağrısız |
 | 12+ | Bakım | Tek bacak calf raise ve eversiyon, haftada 2 kez kalıcı olarak |
 
 ## Beslenme planı
@@ -216,16 +218,16 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 
 | Takviye | Doz | Not |
 |---|---|---|
-| Kreatin monohidrat | 5 g/gün, her gün [4] | İlk ayda tartıda 1–2 kg artış (su) beklenir; ölçü ve fotoğrafla takip (Bölüm 16) |
-| Kafein (kahve) | 100–200 mg, antrenman/maçtan 45–60 dk önce | Yatmadan en az 8 saat önce kes (Bölüm 17) |
+| Kreatin monohidrat | 5 g/gün, her gün [4] | İlk ayda tartıda 1–2 kg artış (su) beklenir; ölçü ve fotoğrafla takip (Bölüm 17) |
+| Kafein (kahve) | 100–200 mg, antrenman/maçtan 45–60 dk önce | Yatmadan en az 8 saat önce kes (Bölüm 18) |
 | Protein tozu | Gerekirse 1–2 ölçek | Üçüncü taraf testli |
 | D vitamini | Yalnızca tahlilde eksiklik varsa | Hekim önerisiyle |
 
 ## Uyku ve stres
 
-- Gecede **7–9 saat**; her gün benzer saatlerde yat ve kalk (Bölüm 18).
+- Gecede **7–9 saat**; her gün benzer saatlerde yat ve kalk (Bölüm 19).
 - Yoğun iş/sınav haftalarında ağırlık setlerini %20–30 azalt, kardiyoyu Zone 2'de tut.
-- Uyku 6 saatin altına düştüğü haftalarda kalori açığını küçült; yağsız kütle kaybı riski artar (Bölüm 13).
+- Uyku 6 saatin altına düştüğü haftalarda kalori açığını küçült; yağsız kütle kaybı riski artar (Bölüm 14).
 
 ## Takip ve ayarlama algoritması
 
@@ -240,14 +242,14 @@ Her hafta sonunda (ör. Pazar akşamı) 10 dakika ayırıp aşağıdaki tabloya 
 | Squat/trap bar tahmini 1RM %5'ten fazla düştü | Bacak uyaranı yetersiz veya açık çok büyük | Ana bacak hareketine 1 set ekle veya haftada ikinci kısa bir ağır bacak seansı ekle |
 | Uyluk çevresi artıyor | Bacak uyaranı fazla | Bacak setlerini tükenişten daha uzakta bitir; tekrarları azalt; futbol dışı yüksek hacimli bacak işini kaldır |
 | Lateral baldır ağrısı geri geldi (≥ 4/10 veya ertesi güne taşıyor) | Yük artışı çok hızlı | Bir aşama geri dön; 1 hafta düşük darbeli kardiyo; iki kez tekrarlarsa fizyoterapist |
-| Motivasyon düşük, antrenman kaçırılıyor | Program çok yoğun veya keyifsiz | "Minimum plan"a geç (Bölüm 18); keyif aldığın kardiyoyu (futbol, bisiklet) artır |
+| Motivasyon düşük, antrenman kaçırılıyor | Program çok yoğun veya keyifsiz | "Minimum plan"a geç (Bölüm 19); keyif aldığın kardiyoyu (futbol, bisiklet) artır |
 
 ## 16 hafta sonra
 
 16. haftadaki ölçümler, bir sonraki dönemi planlamanın temelidir:
 
 - **Hedef kiloya/vücut yağına henüz ulaşmadıysan:** 1–2 haftalık bakım döneminden sonra aynı yapıyla yeni bir 12–16 haftalık yağ kaybı dönemi başlat. Üst vücut hacmini kas başına 14–18 sete çıkarabilirsin.
-- **Hedefe ulaştıysan:** Kaloriyi 2–4 hafta içinde kademeli olarak bakım düzeyine çıkar. Kilo korunumunda en güçlü iki araç düzenli fiziksel aktivite ve kendini tartmaya devam etmektir (Bölüm 13).
+- **Hedefe ulaştıysan:** Kaloriyi 2–4 hafta içinde kademeli olarak bakım düzeyine çıkar. Kilo korunumunda en güçlü iki araç düzenli fiziksel aktivite ve kendini tartmaya devam etmektir (Bölüm 14).
 - **Bacaklar:** Aynı "az, ağır, hızlı" yaklaşımla kuvvet çalışmasına devam et; bacak hacmi artık yağ kaybının ötesinde azalmıyorsa ve kuvvetin korunuyorsa, bu senin genetik ve yaşam tarzı dengen olabilir.
 - **Futbol:** Haftada 1–2 maç + 1 aralık seansı + 1 Zone 2 seansı, kondisyonu yıllarca korumak için yeterli bir yapıdır.
 

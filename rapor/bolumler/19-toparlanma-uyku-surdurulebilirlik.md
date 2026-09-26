@@ -6,7 +6,7 @@ Kas, antrenman sırasında değil antrenmandan **sonra**, toparlanma döneminde 
 
 Her antrenman seansı geçici bir yorgunluk yaratır ve performansı kısa süreliğine düşürür. Toparlanma yeterliyse vücut, bir sonraki seansa başlangıçtakinden biraz daha güçlü hâle gelir. Yorgunluk birkaç gün veya hafta boyunca planlı olarak biriktirilip ardından dinlenmeyle atılırsa buna **işlevsel aşırı yüklenme** denir ve genellikle zararsızdır. Toparlanma haftalarca yetersiz kalırsa performans düşüşü uzar (**işlevsel olmayan aşırı yüklenme**); aylarca süren ve hormon, uyku, ruh hâli bozukluklarıyla seyreden ağır tabloya ise **aşırı antrenman sendromu** denir [16]. Aşırı antrenman sendromu rekreasyonel sporcularda nadirdir; ancak kalori açığı, yetersiz uyku ve iş stresi bir araya geldiğinde işlevsel olmayan aşırı yüklenme olasılığı artar.
 
-> **DİKKAT: Aşırı yüklenme belirtileri** Birkaç hafta boyunca birden fazla harekette açıklanamayan performans düşüşü, dinlenik nabızda kalıcı artış, uyku bozukluğu, sürekli yorgunluk, motivasyon kaybı, sık hastalanma ve huzursuzluk. Bu belirtiler varsa antrenman hacmini belirgin şekilde azalt (deload, Bölüm 6), uykuya ve beslenmeye öncelik ver; 2–3 haftada düzelmezse bir hekime başvur, çünkü benzer belirtiler tiroid sorunları, demir eksikliği veya depresyon gibi durumlarda da görülebilir [16].
+> **DİKKAT: Aşırı yüklenme belirtileri** Birkaç hafta boyunca birden fazla harekette açıklanamayan performans düşüşü, dinlenik nabızda kalıcı artış, uyku bozukluğu, sürekli yorgunluk, motivasyon kaybı, sık hastalanma ve huzursuzluk. Bu belirtiler varsa antrenman hacmini belirgin şekilde azalt (deload, Bölüm 7), uykuya ve beslenmeye öncelik ver; 2–3 haftada düzelmezse bir hekime başvur, çünkü benzer belirtiler tiroid sorunları, demir eksikliği veya depresyon gibi durumlarda da görülebilir [16].
 
 ## Uyku
 
@@ -17,7 +17,7 @@ Amerikan Uyku Tıbbı Akademisi ve Uyku Araştırmaları Derneği'nin uzlaşı b
 - **Kuvvet:** Yetersiz uyku, özellikle çok eklemli hareketlerde ve seansın ilerleyen dakikalarında kuvvet performansını düşürür [2].
 - **Kas protein sentezi:** Tek bir gece uykusuzluk, kas protein sentezini yaklaşık %18 azaltmış, kortizolü artırmış ve testosteronu düşürmüştür [3]. [[B]]
 - **Performans:** Akut uyku kaybının fiziksel performans üzerindeki etkisini inceleyen meta-analiz, anaerobik güç, hız, dayanıklılık ve beceri performansında anlamlı düşüşler bulmuştur [4]. [[A]]
-- **Yağ kaybı:** Bölüm 13'te gördüğümüz gibi, kalori açığında kısa uyuyan kişiler yağdan çok daha az, yağsız kütleden çok daha fazla kilo kaybetmiştir [5]. [[B]]
+- **Yağ kaybı:** Bölüm 14'te gördüğümüz gibi, kalori açığında kısa uyuyan kişiler yağdan çok daha az, yağsız kütleden çok daha fazla kilo kaybetmiştir [5]. [[B]]
 
 ### Uyku hijyeni
 
@@ -59,7 +59,7 @@ Alışık olunmayan bir antrenmandan 24–72 saat sonra ortaya çıkan gecikmiş
 | **Kompresyon giysileri** | Ağrı ve algılanan toparlanmada küçük fayda [13] | Belirgin etki yok | İsteğe bağlı |
 | **Aktif toparlanma (hafif kardiyo)** | Algılanan toparlanmada küçük fayda | Olumsuz etkisi yok | Dinlenme günlerinde hafif bisiklet/yürüyüş |
 | **Uyku** | Güçlü kanıt [1–5] | Olumlu | **En önemli toparlanma aracı** |
-| **Yeterli protein ve enerji** | Güçlü kanıt (Bölüm 13–14) | Olumlu | Temel |
+| **Yeterli protein ve enerji** | Güçlü kanıt (Bölüm 14–15) | Olumlu | Temel |
 
 > **MİT:** "Antrenmandan sonra buz banyosu toparlanmayı hızlandırır, daha çok kas yapar." 12 haftalık bir çalışmada, her antrenmandan sonra soğuk suya giren katılımcılar, aktif toparlanma yapanlara göre daha az kas kütlesi ve kuvvet kazanmıştır [8]. Konuyu derleyen 2024 meta-analizi de antrenman sonrası soğuk su uygulamasının direnç antrenmanıyla elde edilen hipertrofiyi azalttığını doğrulamıştır [9]. [[B]] Soğuk, antrenmanın başlattığı inflamatuvar ve anabolik sinyalleri köreltiyor olabilir; bu, kısa vadede "iyi hissettirir" ama uzun vadeli adaptasyonu zayıflatır.
 
@@ -70,7 +70,7 @@ Isınmanın performansı artırdığı meta-analizle gösterilmiştir [31]. Etki
 1. **Genel ısınma (5–10 dk):** Hafif kardiyo (bisiklet, hızlı yürüyüş) ve dinamik hareketler (bacak salınımları, kalça çemberleri, kol çevirme, hafif lunge). Kas sıcaklığını ve eklem hareketliliğini artırır.
 2. **Özel ısınma (ısınma setleri):** Seansın ilk büyük hareketinde, çalışma ağırlığına kademeli olarak yaklaşan setler.
 
-> **PRATİK: Ağır bir hareket için ısınma setleri** Çalışma ağırlığın squat'ta 100 kg × 4 ise: boş bar × 10 → 50 kg × 6 → 70 kg × 4 → 85 kg × 2 → 95 kg × 1 → çalışma setleri. Isınma setlerini yorulmadan, hızlı ve temiz yap. Aynı kas grubunu çalıştıran ikinci ve üçüncü egzersizlerde genellikle 1 hafif ısınma seti yeterlidir. Futbol öncesinde ise FIFA 11+ programını uygula (Bölüm 9, 11).
+> **PRATİK: Ağır bir hareket için ısınma setleri** Çalışma ağırlığın squat'ta 100 kg × 4 ise: boş bar × 10 → 50 kg × 6 → 70 kg × 4 → 85 kg × 2 → 95 kg × 1 → çalışma setleri. Isınma setlerini yorulmadan, hızlı ve temiz yap. Aynı kas grubunu çalıştıran ikinci ve üçüncü egzersizlerde genellikle 1 hafif ısınma seti yeterlidir. Futbol öncesinde ise FIFA 11+ programını uygula (Bölüm 10, 12).
 
 ## Esneklik ve mobilite
 
@@ -102,7 +102,7 @@ Her antrenmanda egzersiz, ağırlık, tekrar ve yaklaşık RIR'i kaydet. Maksimu
 
 Akıllı saatler ve bileklikler adım sayısını ve kalp atım hızını genellikle makul doğrulukla ölçer; ancak **harcanan kalori** tahminleri çok hatalıdır. Farklı cihazları karşılaştıran bir çalışmada kalp atım hızı ölçümlerinin çoğu kabul edilebilir doğrulukta bulunurken, enerji harcaması tahminlerinin hiçbiri yeterince doğru bulunmamış, hatalar yer yer %40'ı aşmıştır [33]. Sistematik derleme de benzer sonuca ulaşmıştır [41]. [[A]] Saatinin "bugün 900 kalori yaktın" demesine göre fazladan yemek, kalori açığını kolayca yok edebilir.
 
-> **PRATİK:** Giyilebilir cihazını **adım sayısı, nabız ve uyku düzeni** için kullan; kalori harcaması tahminlerini beslenme kararlarında kullanma. Enerji ihtiyacını Bölüm 13'teki gibi tartı ortalamalarıyla ayarla.
+> **PRATİK:** Giyilebilir cihazını **adım sayısı, nabız ve uyku düzeni** için kullan; kalori harcaması tahminlerini beslenme kararlarında kullanma. Enerji ihtiyacını Bölüm 14'teki gibi tartı ortalamalarıyla ayarla.
 
 ## Uzun vadeli sürdürülebilirlik: alışkanlık psikolojisi
 
@@ -128,7 +128,7 @@ Kötü bir hafta geçirdiğinde veya bir antrenmanı kaçırdığında "zaten bo
 
 - **Kas güçlendirme aktiviteleri:** Kohort çalışmalarının meta-analizi, haftada yaklaşık 30–60 dakika kas güçlendirme aktivitesinin tüm nedenlere bağlı ölüm, kardiyovasküler hastalık, kanser ve diyabet riskinde yaklaşık %10–20 azalmayla ilişkili olduğunu göstermiştir [38]. [[B]]
 - **Kas kuvveti:** 17 ülkede 140.000'den fazla kişinin izlendiği bir çalışmada, düşük kavrama kuvveti tüm nedenlere bağlı ve kardiyovasküler ölümün güçlü bir öngörücüsü bulunmuştur; öngörü gücü sistolik kan basıncından bile yüksekti [39]. [[B]]
-- **Kardiyorespiratuvar zindelik:** Bölüm 10'da gördüğümüz gibi, ölüm riskinin en güçlü öngörücülerinden biridir.
+- **Kardiyorespiratuvar zindelik:** Bölüm 11'de gördüğümüz gibi, ölüm riskinin en güçlü öngörücülerinden biridir.
 
 > **SENİN İÇİN:** (1) Uykuyu antrenmanın bir parçası olarak gör: gecede **7–9 saat**. Horlama ve gündüz uyku hâlin varsa uyku apnesi açısından hekime başvur. (2) Ağırlık antrenmanından sonra buz banyosu ve rutin ağrı kesici kullanma. (3) Her seansa 5–10 dakikalık genel ısınma ve ısınma setleriyle başla; futboldan önce FIFA 11+. (4) Esneklik rutinini baldır, ayak bileği ve kalça fleksörlerine odakla; haftada 3–4 kez 10 dakika yeter. (5) Antrenman kaydı tut; akıllı saatin kalori tahminlerine güvenme. (6) Somut "eğer–o zaman" planları yap ve kötü haftalar için minimum planını hazır tut. (7) Alışkanlığın oturması 2–8 ay sürebilir; ara sıra kaçırdığın günler süreci bozmaz.
 

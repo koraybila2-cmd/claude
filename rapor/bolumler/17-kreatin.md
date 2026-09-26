@@ -14,7 +14,7 @@ Kreatin ve fosfokreatin her gün yaklaşık %1,5–2 oranında kendiliğinden **
 
 ### Fosfokreatin sistemi
 
-Bölüm 10'da gördüğümüz gibi, kasın doğrudan kullandığı enerji molekülü ATP'dir ve kastaki ATP depoları yalnızca birkaç saniye yeter. Maksimal eforun ilk saniyelerinde ATP'yi en hızlı yeniden üreten sistem **fosfokreatin** sistemidir: kreatin kinaz enzimi, fosfokreatindeki fosfatı ADP'ye aktararak anında ATP üretir. Kreatin takviyesi kastaki fosfokreatin depolarını artırarak:
+Bölüm 11'de gördüğümüz gibi, kasın doğrudan kullandığı enerji molekülü ATP'dir ve kastaki ATP depoları yalnızca birkaç saniye yeter. Maksimal eforun ilk saniyelerinde ATP'yi en hızlı yeniden üreten sistem **fosfokreatin** sistemidir: kreatin kinaz enzimi, fosfokreatindeki fosfatı ADP'ye aktararak anında ATP üretir. Kreatin takviyesi kastaki fosfokreatin depolarını artırarak:
 
 - Yüksek yoğunluklu kısa eforlarda (1–10 saniye) daha fazla iş yapılmasını,
 - Setler ve sprintler arasında fosfokreatinin daha hızlı yeniden dolmasını,
