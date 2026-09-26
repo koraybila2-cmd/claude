@@ -60,7 +60,7 @@ Deload'ı doğrudan test eden ilk RKÇ'lerden birinde, 9 haftalık yüksek hacim
 Tatil, hastalık veya iş yoğunluğu nedeniyle antrenmana ara vermek kaçınılmazdır. Kanıtlar bu konuda oldukça rahatlatıcıdır.
 
 - **Kuvvet** yavaş kaybedilir. Güç ve kuvvet performansı genellikle 4 haftalık hareketsizliğe kadar büyük ölçüde korunur [15]. Bir çalışmada antrenmanla kazanılan kuvvet 3 aylık ara boyunca korunmuş, kas kesit alanı ise 1–2 ayda başlangıç düzeyine dönmüştür [16]. Direnç antrenmanıyla kazanılan kuvvetin 16–24 haftalık aradan sonra bile kontrol grubuna göre yüksek kaldığını gösteren veriler vardır [13].
-- **Kas kütlesi** daha hızlı kaybedilir, ama yeniden kazanımı da hızlıdır. Hipertrofiye çok iyi yanıt veren kişiler, ara döneminde de daha fazla kas kaybetme eğilimindedir [17].
+- **Kas kütlesi** daha hızlı kaybedilir, ama yeniden kazanımı da hızlıdır. Yaşlı yetişkinlerde yapılan bir meta-analizde 12–24 haftalık aralarda kas boyutu kaybı istatistiksel olarak anlamlı değilken, 31–52 haftalık aralarda belirgin kayıp görülmüştür [14]; gençlerde kayıplar daha hızlı başlayabilir ama geri kazanım da daha hızlıdır. Hipertrofiye çok iyi yanıt veren kişiler, ara döneminde de daha fazla kas kaybetme eğilimindedir [17].
 - **Yeniden başlamak** beklenenden hızlı sonuç verir. 10 haftalık aralarla çalışanlar, 20 hafta kesintisiz çalışanlarla benzer sonuca ulaşmıştır [12]. Daha eski bir çalışmada da 6 haftada bir 3 hafta ara veren grup, 6 ay boyunca kesintisiz çalışanlarla benzer kas büyümesi ve kuvvet kazanmıştır [11].
 
 | Ara süresi | Kuvvet | Kas kütlesi | Yeniden kazanım |

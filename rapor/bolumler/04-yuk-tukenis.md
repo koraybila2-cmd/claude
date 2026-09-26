@@ -64,7 +64,7 @@ Tükenişe gitmenin bir bedeli vardır. Tükenişe kadar yapılan setlerden sonr
 
 ### RIR tahmininde ne kadar iyiyiz?
 
-RIR tabanlı bir sistemin işe yaraması, kalan tekrar sayısını doğru tahmin edebilmene bağlıdır. Mevcut çalışmaları derleyen bir analiz, insanların genellikle tükenişe kalan tekrar sayısını **hafife aldığını** (yani sandıklarından daha fazla tekrar yapabildiklerini), tahminlerin tükenişe yaklaştıkça, daha ağır yüklerde ve antrenman deneyimiyle daha isabetli hâle geldiğini göstermiştir [16]. Hafif yüklerle yapılan yüksek tekrarlı setlerde hata payı büyüktür. [[B]]
+RIR tabanlı bir sistemin işe yaraması, kalan tekrar sayısını doğru tahmin edebilmene bağlıdır. Mevcut çalışmaları derleyen bir analiz, insanların genellikle tükenişe kalan tekrar sayısını **hafife aldığını** (yani sandıklarından daha fazla tekrar yapabildiklerini), tahminlerin tükenişe yaklaştıkça, daha ağır yüklerde ve antrenman deneyimiyle daha isabetli hâle geldiğini göstermiştir [16]. Hafif yüklerle yapılan yüksek tekrarlı setlerde hata payı büyüktür. [[B]] RIR/RPE ile yük belirlemenin, sabit yüzdelerle (%1RM) yük belirlemeye göre en az eşit, kuvvet için ise hafifçe daha iyi sonuç verebildiği de gösterilmiştir [17].
 
 > **PRATİK: RIR tahminini kalibre etmek** Ara sıra, güvenli bir makine veya izole harekette (ör. leg extension değil de senin durumunda triceps pushdown veya dumbbell curl), bir seti "bir tekrar daha kaldı" dediğin noktadan sonra tükenişe kadar sürdür ve gerçekte kaç tekrar yapabildiğini gör. Birkaç haftada tahminlerin belirgin şekilde iyileşir. Çoğu kişi ilk denemede 2 RIR sandığı noktada aslında 4–5 RIR'dedir.
 
