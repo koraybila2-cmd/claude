@@ -65,7 +65,7 @@ En yaygın formül "220 − yaş"tır, ancak bu formül kötü bir bilimsel teme
 
 Hedef nabız = dinlenik nabız + (HRmax − dinlenik nabız) × hedef yoğunluk
 
-> **PRATİK: Örnek hesaplama** 25 yaşındasın, sabah dinlenik nabzın 72. Tahmini HRmax = 208 − 0,7 × 25 ≈ 190. Rezerv = 190 − 72 = 118. Zone 2 için rezervin %60–70'i: 72 + 118 × 0,60 ≈ 143 ile 72 + 118 × 0,70 ≈ 155 atım/dk. Ancak nabız hesaplarını her zaman **konuşma testi** ile doğrula: bu nabızda tam cümlelerle rahatça konuşabiliyorsan zone 2'desin; konuşman kesik kesik geliyorsa daha yukarıdasın.
+> **PRATİK: Örnek hesaplama** 25 yaşındasın, sabah dinlenik nabzın 72. Tahmini HRmax = 208 − 0,7 × 25 ≈ 190. Rezerv = 190 − 72 = 118. Zone 2 için rezervin yaklaşık %45–60'ı: 72 + 118 × 0,45 ≈ 125 ile 72 + 118 × 0,60 ≈ 143 atım/dk. Bu aralık, yukarıdaki tablodaki %65–75 HRmax değerine (≈ 124–143 atım/dk) karşılık gelir; yalnızca kaba bir başlangıç noktasıdır. Ancak nabız hesaplarını her zaman **konuşma testi** ile doğrula: bu nabızda tam cümlelerle rahatça konuşabiliyorsan zone 2'desin; konuşman kesik kesik geliyorsa daha yukarıdasın.
 
 **Konuşma testi** [12] ve **algılanan zorluk** (RPE) [13] ölçekleri, hiçbir cihaz gerektirmeyen, şaşırtıcı derecede güvenilir göstergelerdir. Konuşma testinde rahatça konuşabildiğin en yüksek hız genellikle birinci eşiğin biraz altına denk gelir.
 
