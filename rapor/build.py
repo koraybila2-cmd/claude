@@ -54,7 +54,7 @@ def tr_upper(s):
 
 def tr_key(s):
     s = tr_lower(re.sub(r"^[^\wçğıöşüÇĞİÖŞÜ]+", "", s))
-    return [TR_INDEX.get(c, 100 + ord(c)) for c in s]
+    return [-1 if c in " -/()" else TR_INDEX.get(c, 100 + ord(c)) for c in s]
 
 
 def chapter_files():
@@ -222,7 +222,7 @@ def build_glossary(with_markers, toc):
                 entries[k] = (term, definition)
     if not entries:
         return ""
-    items = sorted(entries.values(), key=lambda e: tr_key(e[0]))
+    items = sorted(entries.values(), key=lambda e: (0 if e[0][:1].isdigit() else 1, tr_key(e[0])))
     cid = "cec"
     toc.append(("ch", cid, "Ek C", "Terimler Sözlüğü"))
     out = [f'<section class="chapter glossary" id="{cid}"><div class="chapter-head"><div class="ck">Ek C</div><h1>']
@@ -233,7 +233,9 @@ def build_glossary(with_markers, toc):
     letter = None
     for term, definition in items:
         first = tr_upper(tr_lower(term)[:1]) if term else ""
-        if first != letter and first.isalpha():
+        if first.isdigit():
+            first = "0–9"
+        if first != letter and (first.isalpha() or first == "0–9"):
             letter = first
             out.append(f'<div class="letter">{escape_html(letter)}</div>')
         d = md_to_soup(definition)

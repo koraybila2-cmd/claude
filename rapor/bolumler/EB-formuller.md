@@ -50,6 +50,7 @@ Yöntemin bireysel hatası ±3–4 yüzde puanıdır; ancak aynı kişide zaman 
 ### Dinlenik metabolizma: Mifflin–St Jeor
 
 **Erkek: RMR = 10 × kilo (kg) + 6,25 × boy (cm) − 5 × yaş + 5**
+
 **Kadın: RMR = 10 × kilo (kg) + 6,25 × boy (cm) − 5 × yaş − 161**
 
 Örnek (25 yaş): 10 × 98 + 6,25 × 173 − 5 × 25 + 5 = 980 + 1081 − 125 + 5 ≈ **1941 kcal/gün** [2].
@@ -305,17 +306,17 @@ Aşağıdaki şablonları bir deftere, tabloya veya telefon notlarına aktarabil
 
 | Tarih | Egzersiz | Set 1 (kg × tekrar @RIR) | Set 2 | Set 3 | Set 4 | Not (ağrı, teknik, uyku) |
 |---|---|---|---|---|---|---|
-| __/__ | Bench press | 70 × 8 @2 | 70 × 8 @1 | 70 × 7 @1 | — | Omuz rahat |
-| __/__ | | | | | | |
-| __/__ | | | | | | |
+| gg.aa | Bench press | 70 × 8 @2 | 70 × 8 @1 | 70 × 7 @1 | — | Omuz rahat |
+| gg.aa | | | | | | |
+| gg.aa | | | | | | |
 
 ### Kardiyo ve koşu kaydı
 
 | Tarih | Tür | Süre (dk) | Koşu süresi (dk) | Ort. nabız | RPE | Baldır ağrısı: sırasında / ertesi sabah (0–10) |
 |---|---|---|---|---|---|---|
-| __/__ | Yürü–koş, aşama 3 | 30 | 12 | 142 | 4 | 1 / 0 |
-| __/__ | | | | | | |
-| __/__ | | | | | | |
+| gg.aa | Yürü–koş, aşama 3 | 30 | 12 | 142 | 4 | 1 / 0 |
+| gg.aa | | | | | | |
+| gg.aa | | | | | | |
 
 ### Haftalık kontrol formu
 
