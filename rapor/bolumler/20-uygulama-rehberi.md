@@ -52,13 +52,15 @@ Takvim bir **kılavuzdur**. Baldır rehabilitasyonu ve koşuya dönüş, takvime
 
 | Gün | İçerik | Süre (yaklaşık) |
 |---|---|---|
-| Pazartesi | **Üst A** + isteğe bağlı 15–20 dk Zone 2 bisiklet | 60–75 dk |
+| Pazartesi | **Üst A** (göğüs–sırt, 3 blok) | 35–45 dk |
 | Salı | **Alt (kuvvet)** + baldır/peroneal rehabilitasyon + gövde | 45–55 dk |
-| Çarşamba | **Kardiyo – aralık** (bisiklet/eliptik 4×4) — Blok 4'te futbol olabilir | 35–45 dk |
-| Perşembe | **Üst B** | 60–75 dk |
-| Cuma | **Kardiyo – Zone 2** (40–50 dk) + esneklik rutini | 50–60 dk |
+| Çarşamba | **Kardiyo – aralık** (bisiklet/eliptik 4×4) — Blok 4'te futbol olabilir; ardından **Omuz–Kol A** | 35–45 dk + 15–20 dk |
+| Perşembe | **Üst B** (göğüs–sırt–omuz presi, 3 blok) | 35–45 dk |
+| Cuma | **Omuz–Kol B**, ardından **Kardiyo – Zone 2** (35–45 dk) + esneklik rutini | 15–20 dk + 45–55 dk |
 | Cumartesi | Blok 1–3: **Zone 2 veya yürü–koş** + hafif rehabilitasyon; Blok 4: **futbol** | 40–90 dk |
 | Pazar | Dinlenme; hafif yürüyüş (adım hedefi) | — |
+
+> **PRATİK: Neden dört kısa seans?** Üst vücut hacmi iki uzun seans yerine iki kısa ana seans (Pazartesi, Perşembe) ve kardiyo günlerine eklenen iki kısa omuz–kol bloğuna (Çarşamba, Cuma) bölünmüştür. Haftalık set sayısı korunduğu sürece, hacmi daha fazla güne yaymak kas büyümesini azaltmaz [10]. Aynı gün içinde birbirinin karşıtı olan kasları (ör. biseps–triseps, göğüs–sırt) süperset yapmak, toplam tekrar sayısını ve uzun dönem kazanımları düşürmeden seans süresini kısaltır; bedeli, seansın biraz daha yorucu hissettirmesidir [9]. Omuz–kol blokları bisiklet veya eliptik kardiyodan sonra (Çarşamba) veya önce (Cuma) yapılabilir; küçük üst vücut kaslarını çalıştırdıkları için kardiyoyla belirgin bir çakışma yaratmazlar.
 
 Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırarak; Bölüm 12). Bu yapı, haftalık aerobik aktivite ve haftada en az iki gün kas güçlendirme önerilerini rahatça aşar [8].
 
@@ -67,7 +69,8 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 ### Genel kurallar
 
 - **Isınma:** 5–10 dk genel ısınma + ilk büyük hareket için ısınma setleri (Bölüm 19).
-- **Dinlenme:** Bileşik hareketlerde 2–3 dk, izolelerde 1–2 dk; süperset olarak işaretlenenleri dönüşümlü yap (Bölüm 6).
+- **Dinlenme:** Bileşik hareketlerde 2–3 dk, izolelerde 1–2 dk; süperset olarak işaretlenenleri dönüşümlü yap, süperset turları arasında 60–90 sn dinlen (Bölüm 6).
+- **Süre kontrolü:** Saati kullan. Seans 45 dakikayı aşıyorsa, sıradaki hareketlerin son setini atla; ilk hareketleri kısaltma. Isınma setlerini yalnızca her kas grubunun ilk hareketinde yap.
 - **İlerleme:** Çift progresyon — tekrar aralığının üst sınırına tüm setlerde ulaşınca ağırlığı en küçük adımla artır (Bölüm 7).
 - **Kayıt:** Her set için ağırlık × tekrar ve yaklaşık RIR'i kaydet.
 - **Tempo:** Kontrollü iniş (2–3 sn), patlayıcı kaldırma niyeti (Bölüm 6).
@@ -75,32 +78,43 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 
 > **PRATİK: İki set formatında uygulamak** Güray Aydın'ın programı gibi egzersiz başına 2 çalışma setiyle çalışmayı tercih ediyorsan, aşağıdaki tablolardaki hareketleri 2 set olarak uygulayabilirsin. Koşul şu: her üst vücut kası için haftalık fraksiyonel set sayısı en az 10 olmalı ve setler gerçekten tükenişe yakın (son sette RIR 0–1) bitirilmeli. Hacmi 10'un altına düşen kaslara (genellikle yan ve arka omuz) üçüncü bir set veya ek hareket ekle. Bacak günü bu kuralın dışındadır: orada tükenişe gitme (Bölüm 4, 10).
 
-### Üst A (Pazartesi)
+### Üst A (Pazartesi) — göğüs ve sırt
 
 | # | Egzersiz | Blok 1 | Blok 2–4 | RIR | Not |
 |---|---|---|---|---|---|
 | 1 | Incline dumbbell press (30°) | 3 × 6–10 | 4 × 6–10 | 1–2 | Üst göğüs; alt noktada gerilme |
 | 2 | Lat pulldown (orta-geniş veya nötr) | 3 × 8–12 | 4 × 8–12 | 1–2 | Üst noktada tam uzanma |
-| 3 | Göğüs destekli row (makine/dumbbell) | 3 × 8–12 | 3 × 8–12 | 1–2 | Beli yormadan sırt |
-| 4 | Makine chest press | 2 × 8–12 | 3 × 8–12 | 0–1 | Güvenle tükenişe yakın |
-| 5 | Kablo lateral raise | 3 × 12–20 | 3–4 × 12–20 | 0–1 | Yan omuz, alt bölüme odak |
-| 6a | Incline dumbbell curl | 2 × 10–15 | 3 × 10–15 | 0–1 | Süperset 6b ile |
-| 6b | Kablo overhead triceps extension | 2 × 10–15 | 3 × 10–15 | 0–1 | Süperset 6a ile |
+| 3a | Makine chest press | 2 × 8–12 | 3 × 8–12 | 0–1 | Süperset 3b ile |
+| 3b | Göğüs destekli row (makine/dumbbell) | 2 × 8–12 | 3 × 8–12 | 1–2 | Süperset 3a ile; beli yormadan sırt |
 
-### Üst B (Perşembe)
+### Omuz–Kol A (Çarşamba, aralık kardiyosundan sonra)
+
+| # | Egzersiz | Blok 1 | Blok 2–4 | RIR | Not |
+|---|---|---|---|---|---|
+| 1a | Kablo lateral raise | 2 × 12–20 | 3 × 12–20 | 0–1 | Süperset 1b ile; yan omuz |
+| 1b | Rear delt fly (makine/kablo) | 2 × 12–20 | 3 × 12–20 | 0–1 | Süperset 1a ile; arka omuz |
+| 2a | Incline dumbbell curl | 2 × 10–15 | 3 × 10–15 | 0–1 | Süperset 2b ile |
+| 2b | Kablo overhead triceps extension | 2 × 10–15 | 3 × 10–15 | 0–1 | Süperset 2a ile |
+
+### Üst B (Perşembe) — göğüs, sırt ve omuz presi
 
 | # | Egzersiz | Blok 1 | Blok 2–4 | RIR | Not |
 |---|---|---|---|---|---|
 | 1 | Barbell bench press | 3 × 5–8 | 4 × 5–8 | 1–2 | Kuvvet takibi |
 | 2 | Kablo seated row | 3 × 8–12 | 4 × 8–12 | 1–2 | Kürek kemiğini önce uzat |
-| 3 | Oturarak dumbbell overhead press | 3 × 6–10 | 3 × 6–10 | 1–2 | Beli çukurlaştırma |
-| 4 | Kablo veya dumbbell pullover | 2 × 10–15 | 3 × 10–15 | 1 | Latissimus uzun boy |
-| 5a | Kablo fly (düşükten yukarı veya yatay) | 2 × 12–15 | 3 × 12–15 | 0–1 | Süperset 5b ile |
-| 5b | Rear delt fly (makine/kablo) | 2 × 12–20 | 3 × 12–20 | 0–1 | Süperset 5a ile |
-| 6a | EZ-bar curl | 2 × 8–12 | 2–3 × 8–12 | 1 | Süperset 6b ile |
-| 6b | Skull crusher veya kablo pushdown | 2 × 8–12 | 2–3 × 8–12 | 1 | Süperset 6a ile |
+| 3a | Oturarak dumbbell overhead press | 2 × 6–10 | 3 × 6–10 | 1–2 | Süperset 3b ile; beli çukurlaştırma |
+| 3b | Kablo veya dumbbell pullover | 2 × 10–15 | 3 × 10–15 | 1 | Süperset 3a ile; latissimus uzun boy |
 
-**Haftalık set sayısı (yarım sayımla, Blok 2–4):** göğüs ~14, sırt ~15, yan omuz ~5 doğrudan + ~3 dolaylı, arka omuz ~3 doğrudan + ~7 dolaylı, biseps ~6 doğrudan + ~7 dolaylı, triseps ~6 doğrudan + ~7 dolaylı. Bu değerler Bölüm 3'teki 10–20 set aralığıyla uyumludur. Kas grubu ilerleme göstermiyorsa ve toparlanma iyiyse bir sonraki blokta o kas için 2–3 set ekle.
+### Omuz–Kol B (Cuma, Zone 2 kardiyodan önce)
+
+| # | Egzersiz | Blok 1 | Blok 2–4 | RIR | Not |
+|---|---|---|---|---|---|
+| 1a | Kablo fly (düşükten yukarı veya yatay) | 2 × 12–15 | 3 × 12–15 | 0–1 | Süperset 1b ile; göğüs |
+| 1b | Dumbbell lateral raise | 2 × 12–20 | 3 × 12–20 | 0–1 | Süperset 1a ile; yan omuz |
+| 2a | EZ-bar curl | 2 × 8–12 | 3 × 8–12 | 1 | Süperset 2b ile |
+| 2b | Kablo pushdown veya skull crusher | 2 × 8–12 | 3 × 8–12 | 1 | Süperset 2a ile |
+
+**Haftalık set sayısı (yarım sayımla, Blok 2–4):** göğüs ~14, sırt ~14, yan omuz ~6 doğrudan + ~1,5 dolaylı, arka omuz ~3 doğrudan + ~3,5 dolaylı, biseps ~6 doğrudan + ~5,5 dolaylı, triseps ~6 doğrudan + ~7 dolaylı. Bu değerler Bölüm 3'teki 10–20 set aralığıyla uyumludur ve eski iki uzun seanslı düzenle aynı hacmi korur; yan omuz hacmi ise biraz artmıştır. Kas grubu ilerleme göstermiyorsa ve toparlanma iyiyse bir sonraki blokta o kas için 2–3 set ekle. Zamanın çok kısıtlı olduğu haftalarda omuz–kol bloklarını egzersiz başına 2 sete indirebilirsin (Bölüm 4).
 
 ### Alt (Salı) — büyümeden güçlenme
 
@@ -257,7 +271,7 @@ Her hafta sonunda (ör. Pazar akşamı) 10 dakika ayırıp aşağıdaki tabloya 
 
 1. **Kalori açığı:** ~2400 kcal ile başla; haftada 0,5–0,9 kg kayıp; 7 günlük ortalamalara göre ayarla.
 2. **Protein:** Günde 160–180 g; her öğünde 35–50 g.
-3. **Üst vücut:** Haftada 2 seans, kas başına 10–16 zor set, RIR 0–2, gerilmiş pozisyonu vurgula.
+3. **Üst vücut:** Haftada 2 kısa ana seans + 2 kısa omuz–kol bloğu (her biri en fazla 45 dk), kas başına 10–16 zor set, RIR 0–2, gerilmiş pozisyonu vurgula.
 4. **Bacaklar:** Haftada 1 seans, 5 ağır set, 3–5 tekrar, RIR 2–3; Nordic ve Copenhagen'i ihmal etme; leg extension ve yüksek tekrarlı bacak işi yok.
 5. **Kardiyo:** Önce bisiklet ve eliptik; haftada 1 aralık + 1–2 Zone 2; koşuya kriterlerle dön; sonra futbol.
 6. **Baldır:** Rehabilitasyon programını uygula; tek bacak calf raise ve eversiyonu kalıcı olarak programda tut; adım sıklığını artır.
@@ -278,3 +292,5 @@ Her hafta sonunda (ör. Pazar akşamı) 10 dakika ayırıp aşağıdaki tabloya 
 6. Silbernagel KG, Thomeé R, Eriksson BI, Karlsson J (2007). Continued sports activity, using a pain-monitoring model, during rehabilitation in patients with Achilles tendinopathy: a randomized controlled study. *American Journal of Sports Medicine*, 35(6), 897–906.
 7. Heiderscheit BC, Chumanov ES, Michalski MP, Wille CM, Ryan MB (2011). Effects of step rate manipulation on joint mechanics during running. *Medicine & Science in Sports & Exercise*, 43(2), 296–302.
 8. Bull FC, Al-Ansari SS, Biddle S, et al. (2020). World Health Organization 2020 guidelines on physical activity and sedentary behaviour. *British Journal of Sports Medicine*, 54(24), 1451–1462.
+9. Zhang X, Weakley J, Li H, Li Z, García-Ramos A (2025). Superset versus traditional resistance training prescriptions: a systematic review and meta-analysis exploring acute and chronic effects on mechanical, metabolic, and perceptual variables. *Sports Medicine*, 55(4), 953–975. https://doi.org/10.1007/s40279-025-02176-8
+10. Pelland JC, Remmert JF, Robinson ZP, et al. (2025). The resistance training dose response: meta-regressions exploring the effects of weekly volume and frequency on muscle hypertrophy and strength gains. *Sports Medicine*, 56(2), 481–505. https://doi.org/10.1007/s40279-025-02344-w
