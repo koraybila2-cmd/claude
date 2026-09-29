@@ -54,9 +54,9 @@ Takvim bir **kılavuzdur**. Baldır rehabilitasyonu ve koşuya dönüş, takvime
 |---|---|---|
 | Pazartesi | **Üst A** (göğüs–sırt, 3 blok) | 35–45 dk |
 | Salı | **Alt (kuvvet)** + baldır/peroneal rehabilitasyon + gövde | 45–55 dk |
-| Çarşamba | **Kardiyo – aralık** (bisiklet/eliptik 4×4) — Blok 4'te futbol olabilir; ardından **Omuz–Kol A** | 35–45 dk + 15–20 dk |
+| Çarşamba | **Kardiyo – aralık** (bisiklet/eliptik 4×4) — Blok 4'te futbol olabilir; ardından **Omuz–Kol A + karın** | 35–45 dk + 20–25 dk |
 | Perşembe | **Üst B** (göğüs–sırt–omuz presi, 3 blok) | 35–45 dk |
-| Cuma | **Omuz–Kol B**, ardından **Kardiyo – Zone 2** (35–45 dk) + esneklik rutini | 15–20 dk + 45–55 dk |
+| Cuma | **Omuz–Kol B + karın**, ardından **Kardiyo – Zone 2** (35–45 dk) + esneklik rutini | 20–25 dk + 45–55 dk |
 | Cumartesi | Blok 1–3: **Zone 2 veya yürü–koş** + hafif rehabilitasyon; Blok 4: **futbol** | 40–90 dk |
 | Pazar | Dinlenme; hafif yürüyüş (adım hedefi) | — |
 
@@ -87,7 +87,7 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 | 3a | Makine chest press | 2 × 8–12 | 3 × 8–12 | 0–1 | Süperset 3b ile |
 | 3b | Göğüs destekli row (makine/dumbbell) | 2 × 8–12 | 3 × 8–12 | 1–2 | Süperset 3a ile; beli yormadan sırt |
 
-### Omuz–Kol A (Çarşamba, aralık kardiyosundan sonra)
+### Omuz–Kol A + karın (Çarşamba, aralık kardiyosundan sonra)
 
 | # | Egzersiz | Blok 1 | Blok 2–4 | RIR | Not |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 | 1b | Rear delt fly (makine/kablo) | 2 × 12–20 | 3 × 12–20 | 0–1 | Süperset 1a ile; arka omuz |
 | 2a | Incline dumbbell curl | 2 × 10–15 | 3 × 10–15 | 0–1 | Süperset 2b ile |
 | 2b | Kablo overhead triceps extension | 2 × 10–15 | 3 × 10–15 | 0–1 | Süperset 2a ile |
+| 3 | Kablo crunch (diz çökerek) | 2 × 10–15 | 3 × 10–15 | 1–2 | Karın (fleksiyon); kalçayı sabit tut, omurgayı bükerek in, yukarıda tam uzan |
 
 ### Üst B (Perşembe) — göğüs, sırt ve omuz presi
 
@@ -105,7 +106,7 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 | 3a | Oturarak dumbbell overhead press | 2 × 6–10 | 3 × 6–10 | 1–2 | Süperset 3b ile; beli çukurlaştırma |
 | 3b | Kablo veya dumbbell pullover | 2 × 10–15 | 3 × 10–15 | 1 | Süperset 3a ile; latissimus uzun boy |
 
-### Omuz–Kol B (Cuma, Zone 2 kardiyodan önce)
+### Omuz–Kol B + karın (Cuma, Zone 2 kardiyodan önce)
 
 | # | Egzersiz | Blok 1 | Blok 2–4 | RIR | Not |
 |---|---|---|---|---|---|
@@ -113,8 +114,11 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 | 1b | Dumbbell lateral raise | 2 × 12–20 | 3 × 12–20 | 0–1 | Süperset 1a ile; yan omuz |
 | 2a | EZ-bar curl | 2 × 8–12 | 3 × 8–12 | 1 | Süperset 2b ile |
 | 2b | Kablo pushdown veya skull crusher | 2 × 8–12 | 3 × 8–12 | 1 | Süperset 2a ile |
+| 3 | Plank → dizden ab wheel rollout | Plank 2 × 30–45 sn | Rollout 3 × 6–10 | 1–2 | Karın (anti-ekstansiyon); bel çukurlaşırsa hareketi kısalt veya plank'e dön |
 
 **Haftalık set sayısı (yarım sayımla, Blok 2–4):** göğüs ~14, sırt ~14, yan omuz ~6 doğrudan + ~1,5 dolaylı, arka omuz ~3 doğrudan + ~3,5 dolaylı, biseps ~6 doğrudan + ~5,5 dolaylı, triseps ~6 doğrudan + ~7 dolaylı. Bu değerler Bölüm 3'teki 10–20 set aralığıyla uyumludur ve eski iki uzun seanslı düzenle aynı hacmi korur; yan omuz hacmi ise biraz artmıştır. Kas grubu ilerleme göstermiyorsa ve toparlanma iyiyse bir sonraki blokta o kas için 2–3 set ekle. Zamanın çok kısıtlı olduğu haftalarda omuz–kol bloklarını egzersiz başına 2 sete indirebilirsin (Bölüm 4).
+
+**Gövde (karın ve bel):** Haftada üç kısa blok vardır: Salı anti-rotasyon (Pallof press), Çarşamba fleksiyon (kablo crunch), Cuma anti-ekstansiyon (plank, ardından ab wheel). Baldır rehabilitasyonundaki yan plank oblikleri ek olarak çalıştırır. Squat, Romanian deadlift ve omuz presi de gövdeyi dolaylı olarak yoğun biçimde çalıştırır; bu yüzden ayrıca uzun karın seanslarına gerek yoktur (Bölüm 9). Karın hareketleri kasları güçlendirir ve kalınlaştırır, ancak göbek bölgesindeki yağı seçici olarak yakmaz; karın bölgesinin incelmesi toplam yağ kaybıyla olur (Bölüm 14).
 
 ### Alt (Salı) — büyümeden güçlenme
 
@@ -126,7 +130,7 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 | 4 | Nordic hamstring curl | 2 × 3–4 | 2 × 4–6 | Kontrollü | Futbolda sakatlık önleme [5] |
 | 5 | Copenhagen adduction (kısa kaldıraç) | 2 × 6 sn/taraf | 2 × 8–10 sn/taraf | — | Kasık sakatlığı önleme |
 | 6 | Baldır/peroneal rehabilitasyon bloğu | Bölüm 13, Evre 1–2 | Evre 2–3 | Ağrı ≤ 3/10 | Aşağıya bak |
-| 7 | Pallof press veya plank | 2 × 10/taraf veya 2 × 30–45 sn | Aynı | — | Gövde |
+| 7 | Pallof press (kablo veya bant) | 2 × 10/taraf | 3 × 10–12/taraf | — | Gövde (anti-rotasyon); gövdeyi döndürmeden kolları öne it |
 
 **Yapmayacağın bacak egzersizleri:** leg extension, yüksek tekrarlı leg press, yüksek hacimli leg curl, bacaklarda drop set ve tükenişe kadar setler (Bölüm 10). Haftada toplam ağır bacak seti: 5 (squat 3 + RDL 2).
 
