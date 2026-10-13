@@ -85,7 +85,7 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 | 1 | Incline dumbbell press (30°) | 3 × 6–10 | 4 × 6–10 | 1–2 | Üst göğüs; alt noktada gerilme |
 | 2 | Lat pulldown (orta-geniş veya nötr) | 3 × 8–12 | 4 × 8–12 | 1–2 | Üst noktada tam uzanma |
 | 3a | Makine chest press | 2 × 8–12 | 3 × 8–12 | 0–1 | Süperset 3b ile |
-| 3b | Göğüs destekli row (makine/dumbbell) | 2 × 8–12 | 3 × 8–12 | 1–2 | Süperset 3a ile; beli yormadan sırt |
+| 3b | Oturarak makine row (göğüs pedli); yoksa geniş tutuş kablo row | 2 × 8–12 | 3 × 8–12 | 1–2 | Süperset 3a ile; dirsekler gövdeden ~45° açık, sonda kürek kemiklerini sık |
 
 ### Omuz–Kol A + karın (Çarşamba, aralık kardiyosundan sonra)
 
