@@ -95,7 +95,8 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 | 1b | Rear delt fly (makine/kablo) | 2 × 12–20 | 3 × 12–20 | 0–1 | Süperset 1a ile; arka omuz |
 | 2a | Incline dumbbell curl | 2 × 10–15 | 3 × 10–15 | 0–1 | Süperset 2b ile |
 | 2b | Kablo overhead triceps extension | 2 × 10–15 | 3 × 10–15 | 0–1 | Süperset 2a ile |
-| 3 | Kablo crunch (diz çökerek) | 2 × 10–15 | 3 × 10–15 | 1–2 | Karın (fleksiyon); kalçayı sabit tut, omurgayı bükerek in, yukarıda tam uzan |
+| 3a | Tek kol dumbbell row (bench destekli) | 2 × 10–12 | 3 × 10–12 | 1 | Süperset 3b ile; dirseği kalçaya doğru çek, altta kürek kemiğini uzat |
+| 3b | Kablo crunch (diz çökerek) | 2 × 10–15 | 3 × 10–15 | 1–2 | Süperset 3a ile; karın (fleksiyon), kalçayı sabit tut, omurgayı bükerek in |
 
 ### Üst B (Perşembe) — göğüs, sırt ve omuz presi
 
@@ -116,7 +117,7 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 | 2b | Kablo pushdown veya skull crusher | 2 × 8–12 | 3 × 8–12 | 1 | Süperset 2a ile |
 | 3 | Plank → dizden ab wheel rollout | Plank 2 × 30–45 sn | Rollout 3 × 6–10 | 1–2 | Karın (anti-ekstansiyon); bel çukurlaşırsa hareketi kısalt veya plank'e dön |
 
-**Haftalık set sayısı (yarım sayımla, Blok 2–4):** göğüs ~14, sırt ~14, yan omuz ~6 doğrudan + ~1,5 dolaylı, arka omuz ~3 doğrudan + ~3,5 dolaylı, biseps ~6 doğrudan + ~5,5 dolaylı, triseps ~6 doğrudan + ~7 dolaylı. Bu değerler Bölüm 3'teki 10–20 set aralığıyla uyumludur ve eski iki uzun seanslı düzenle aynı hacmi korur; yan omuz hacmi ise biraz artmıştır. Kas grubu ilerleme göstermiyorsa ve toparlanma iyiyse bir sonraki blokta o kas için 2–3 set ekle. Zamanın çok kısıtlı olduğu haftalarda omuz–kol bloklarını egzersiz başına 2 sete indirebilirsin (Bölüm 4).
+**Haftalık set sayısı (yarım sayımla, Blok 2–4):** göğüs ~14; sırt iki ayrı bölge olarak sayılır: latissimus ~12 (pulldown ve pullover doğrudan, row'lar yarım), orta sırt yani trapezin orta-alt kısmı ve romboidler ~13,5 (row'lar doğrudan, pulldown ve rear delt fly yarım); yan omuz ~6 doğrudan + ~1,5 dolaylı, arka omuz ~3 doğrudan + ~5 dolaylı, biseps ~6 doğrudan + ~7 dolaylı, triseps ~6 doğrudan + ~7 dolaylı. Blok 1'de lat ~8,5, orta sırt ~9,5 sete karşılık gelir. Bu değerler Bölüm 3'teki 10–20 set aralığıyla ve 16 haftalık yapıdaki blok hedefleriyle uyumludur. Kas grubu ilerleme göstermiyorsa ve toparlanma iyiyse bir sonraki blokta o kas için 2–3 set ekle. Zamanın çok kısıtlı olduğu haftalarda omuz–kol bloklarını egzersiz başına 2 sete indirebilirsin (Bölüm 4).
 
 **Gövde (karın ve bel):** Haftada üç kısa blok vardır: Salı anti-rotasyon (Pallof press), Çarşamba fleksiyon (kablo crunch), Cuma anti-ekstansiyon (plank, ardından ab wheel). Baldır rehabilitasyonundaki yan plank oblikleri ek olarak çalıştırır. Squat, Romanian deadlift ve omuz presi de gövdeyi dolaylı olarak yoğun biçimde çalıştırır; bu yüzden ayrıca uzun karın seanslarına gerek yoktur (Bölüm 9). Karın hareketleri kasları güçlendirir ve kalınlaştırır, ancak göbek bölgesindeki yağı seçici olarak yakmaz; karın bölgesinin incelmesi toplam yağ kaybıyla olur (Bölüm 14).
 
