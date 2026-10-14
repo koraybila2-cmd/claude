@@ -33,10 +33,12 @@ Bir hatırlatma: bu bölümdeki kanıtların bir kısmı uzun süreli hipertrofi
 | Göğüs destekli row (makine veya dumbbell) | Beli yormadan üst sırt ve lat | Kürek kemiklerini önce öne uzat (gerilme), sonra geriye çek |
 | Kablo seated row | Sürekli gerilim | Gövdeyi sabit tut, dirsekleri kalçaya doğru çek |
 | Tek kol dumbbell row | Uzun hareket açıklığı, sağ–sol denge | Bench'e destek al; omzun öne düşmesine izin vererek başla |
-| Kablo veya dumbbell pullover | Latissimus uzun boy | Dirsekler hafif bükük, kol baş üstünden kalçaya |
+| Kablo pullover (straight-arm pulldown) | Latissimus uzun boy; kablo hattı yükü hareketin sonuna kadar lat üzerinde tutar | Ayakta, kalçadan hafif öne eğil; dirsekler hafif bükük ve sabit; kol baş üstünden kalçaya |
 | Barfiks (destekli/eksantrik) | Uzun vadeli hedef | Tam aşağıda başla; bant desteği ile ilerle |
 
 **Sık hatalar:** Momentumla çekmek, üst noktada kolları tam uzatmamak, row'da beli yuvarlamak.
+
+> **DİKKAT: Dumbbell pullover bir sırt hareketi değildir** Bench'e yatarak yapılan dumbbell (veya barbell) pullover'da yükü yer çekimi oluşturur; dirence karşı en çok çalışılan bölüm kolların baş arkasında yere paralel olduğu üst bölümdür. Bu bölümde göğüs kasının alt (sternal) lifleri de omzu güçlü biçimde ekstansiyona getirir ve EMG çalışmaları bu hareketin göğsü latissimus'tan daha fazla çalıştırdığını göstermiştir [28, 29]. Ayakta kabloyla yapılan pullover'da ise kablo, yükü kollar kalçaya inene kadar korur; hareketin göğsün artık katkı veremediği alt bölümünü latissimus taşır. Bu yüzden lat için kablo pullover tercih edilmeli, dumbbell pullover gerekirse göğüs hareketi olarak sayılmalıdır. [[C]]
 
 ## Omuzlar (deltoid)
 
@@ -227,3 +229,5 @@ Ağırlık sporlarında sakatlık epidemiyolojisini inceleyen derlemeler, sakatl
 25. Lusk SJ, Hale BD, Russell DM (2010). Grip width and forearm orientation effects on muscle activity during the lat pull-down. *Journal of Strength and Conditioning Research*, 24(7), 1895–1900.
 26. Green CM, Comfort P (2007). The affect of grip width on bench press performance and risk of injury. *Strength and Conditioning Journal*, 29(5), 10–14.
 27. Calatayud J, Borreani S, Colado JC, et al. (2015). Bench press and push-up at comparable levels of muscle activity results in similar strength gains. *Journal of Strength and Conditioning Research*, 29(1), 246–253.
+28. Marchetti PH, Uchida MC (2011). Effects of the pullover exercise on the pectoralis major and latissimus dorsi muscles as evaluated by EMG. *Journal of Applied Biomechanics*, 27(4), 380–384. https://doi.org/10.1123/jab.27.4.380
+29. Di Fonza D, Di Claudio G, Colantuono G, et al. (2026). Electromyographic analysis of latissimus dorsi activation during common resistance training exercises: a narrative review. *Journal of Functional Morphology and Kinesiology*, 11(3), 315. https://doi.org/10.3390/jfmk11030315

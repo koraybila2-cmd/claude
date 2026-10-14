@@ -16,6 +16,7 @@ BOLUMLER = [
     "16 haftanın genel yapısı",
     "Haftalık program",
     "Ağırlık antrenmanı",
+    "Hareket teknikleri ve biyomekanik",
     "Kardiyo planı",
     "Baldır ve peroneal rehabilitasyon zaman çizelgesi",
 ]
