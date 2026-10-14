@@ -125,15 +125,16 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 
 | # | Egzersiz | Blok 1 | Blok 2–4 | Efor | Not |
 |---|---|---|---|---|---|
-| 1 | Kutuya sıçrama (düşük iniş yükü) | — | 3 × 3 | Maksimum niyet | Yalnızca baldır ağrısızsa; Blok 2'den itibaren |
-| 2 | Back squat veya trap bar deadlift | 3 × 5 | 3 × 3–5 | RIR 2–3; hız düşünce dur | Ağırlığı her 1–2 haftada 2,5 kg artır |
-| 3 | Romanian deadlift | 2 × 6 | 2 × 5–6 | RIR 2–3 | Hamstring, kalça |
-| 4 | Nordic hamstring curl | 2 × 3–4 | 2 × 4–6 | Kontrollü | Futbolda sakatlık önleme [5] |
-| 5 | Copenhagen adduction (kısa kaldıraç) | 2 × 6 sn/taraf | 2 × 8–10 sn/taraf | — | Kasık sakatlığı önleme |
-| 6 | Baldır/peroneal rehabilitasyon bloğu | Bölüm 13, Evre 1–2 | Evre 2–3 | Ağrı ≤ 3/10 | Aşağıya bak |
-| 7 | Pallof press (kablo veya bant) | 2 × 10/taraf | 3 × 10–12/taraf | — | Gövde (anti-rotasyon); gövdeyi döndürmeden kolları öne it |
+| 1 | Back squat (alternatif: hack squat makinesi) | 3 × 5 | 3 × 3–5 | RIR 2–3; hız düşünce dur | Ağırlığı her 1–2 haftada 2,5 kg artır |
+| 2 | Romanian deadlift (barbell veya dumbbell) | 2 × 6 | 2 × 5–6 | RIR 2–3 | Arka uyluk ve kalça; sırt düz, kalçayı geriye it |
+| 3a | Oturarak leg curl | 2 × 6–8 | 2 × 6–8 | RIR 2 | Süperset 3b ile; inişi 3 saniyede yap |
+| 3b | Hip adduction makinesi | 2 × 8–10 | 2 × 8–10 | RIR 2 | Süperset 3a ile; kontrollü aç–kapa |
+| 4a | Calf raise makinesi (ayakta veya oturarak) | 2 × 8–12 | 3 × 8–12 | RIR 1–2 | Süperset 4b ile; altta 1 sn bekle |
+| 4b | Pallof press (kablo veya bant) | 2 × 10/taraf | 3 × 10–12/taraf | — | Süperset 4a ile; gövdeyi döndürmeden kolları öne it |
 
-**Yapmayacağın bacak egzersizleri:** leg extension, yüksek tekrarlı leg press, yüksek hacimli leg curl, bacaklarda drop set ve tükenişe kadar setler (Bölüm 10). Haftada toplam ağır bacak seti: 5 (squat 3 + RDL 2).
+**Bu hareketler neden seçildi?** Squat ve Romanian deadlift günün ana kuvvet hareketleridir: düşük tekrar ve tükenişten uzak setler, bacak kuvvetini artırırken kas hacmindeki artışı sınırlar (Bölüm 10). Leg curl ve adduction, futbolda en sık sakatlanan iki bölgeyi (arka uyluk ve kasık) korumak için vardır; az set ve tükenişten uzak yapıldıkları için bacak hacmini belirgin artırmazlar. Futbolda sakatlık önleme programlarının en güçlü kanıtı Nordic hamstring curl ve Copenhagen adduction gibi özel hareketlere dayanır [5]; bu programda daha alışılmış makine karşılıkları kullanılmıştır. Futbola dönüş döneminde (Blok 4) bu iki harekete geçmeyi yeniden değerlendirebilirsin. Ayak bileği ve kaval kemiği bölgesinde "pump", ağrı veya ayağı kaldırmada güçsüzlük olursa calf raise'i o gün bırak.
+
+**Yapmayacağın bacak egzersizleri:** leg extension, yüksek tekrarlı leg press, yüksek hacimli leg curl, bacaklarda drop set ve tükenişe kadar setler, sıçrama hareketleri (Bölüm 10). Haftada toplam ağır bacak seti: 5 (squat 3 + RDL 2); leg curl, adduction ve calf raise düşük hacimli yardımcı hareketlerdir.
 
 ### Deload haftaları (8. ve 12. haftalar) ve test haftası (16. hafta)
 
@@ -147,7 +148,7 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 | Gün | Seans | Yoğunluk | Süre |
 |---|---|---|---|
 | Çarşamba | Bisiklet veya eliptik, 3 × 3 dk zor / 3 dk kolay (4. haftada 4 × 3) | Zor: RPE 7–8; kolay: RPE 3 | 30–35 dk |
-| Cuma | Bisiklet/eliptik/eğimli yürüyüş (ağrı yoksa) | Zone 2: konuşabileceğin tempo, RPE 3–4 | 35–45 dk |
+| Cuma | Bisiklet veya eğimsiz eliptik | Zone 2: konuşabileceğin tempo, RPE 3–4 | 35–45 dk |
 | Cumartesi | Bisiklet veya kürek | Zone 2 | 30–40 dk |
 
 ### Blok 2 (Hafta 5–8): Aralıkların güçlenmesi
@@ -177,6 +178,8 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 > **PRATİK: Koşu günleri için kurallar** (1) Koşular arasında en az bir gün ara. (2) Koşu sırasında ağrı ≤ 3/10, ertesi sabah başlangıç düzeyinde. (3) Düz ve yumuşak zemin; eğimli yol kenarlarından kaçın. (4) Adım sıklığını %5–10 artır (metronom) [7]. (5) Haftalık koşu süresini haftada en fazla %10–20 artır; tek bir koşuyu, son dönemin en uzun koşusundan belirgin uzun yapma. (6) Ağrı geri gelirse bir aşama geri dön; iki kez tekrarlanırsa fizyoterapiste başvur (Bölüm 13).
 
 ## Baldır ve peroneal rehabilitasyon zaman çizelgesi
+
+> **DİKKAT: Ön kaval bölgesi belirtileri** Egzersizle başlayan gerginlik ("pump"), ağrı ve ayağı yukarı kaldıramama, ön bölmenin kronik egzersizsel kompartman sendromunu düşündürür (Bölüm 13). Bir spor hekimi veya ortopedist değerlendirene kadar bu tablodaki sıçrama hareketleri, yürü–koş protokolü, koşu, eğimli yürüyüş ve futbol askıya alınır. Kardiyo bisiklet veya kürekle yapılır; Salı günkü calf raise belirti yapmadığı sürece devam eder. Durduktan sonra geçmeyen veya artan ağrı, sertleşen kas ya da ayakta uyuşma olursa aynı gün acil servise başvur.
 
 | Hafta (yaklaşık) | Evre | İçerik (Salı + Cumartesi, ayrıca 1 kez ev) |
 |---|---|---|
@@ -277,7 +280,7 @@ Her hafta sonunda (ör. Pazar akşamı) 10 dakika ayırıp aşağıdaki tabloya 
 1. **Kalori açığı:** ~2400 kcal ile başla; haftada 0,5–0,9 kg kayıp; 7 günlük ortalamalara göre ayarla.
 2. **Protein:** Günde 160–180 g; her öğünde 35–50 g.
 3. **Üst vücut:** Haftada 2 kısa ana seans + 2 kısa omuz–kol bloğu (her biri en fazla 45 dk), kas başına 10–16 zor set, RIR 0–2, gerilmiş pozisyonu vurgula.
-4. **Bacaklar:** Haftada 1 seans, 5 ağır set, 3–5 tekrar, RIR 2–3; Nordic ve Copenhagen'i ihmal etme; leg extension ve yüksek tekrarlı bacak işi yok.
+4. **Bacaklar:** Haftada 1 seans, 5 ağır set (squat + RDL), 3–5 tekrar, RIR 2–3; leg curl ve adduction'ı az setle ihmal etme; leg extension, sıçrama ve yüksek tekrarlı bacak işi yok.
 5. **Kardiyo:** Önce bisiklet ve eliptik; haftada 1 aralık + 1–2 Zone 2; koşuya kriterlerle dön; sonra futbol.
 6. **Baldır:** Rehabilitasyon programını uygula; tek bacak calf raise ve eversiyonu kalıcı olarak programda tut; adım sıklığını artır.
 7. **Kreatin:** 5 g/gün. **Kahve:** antrenman öncesi, akşam değil.
