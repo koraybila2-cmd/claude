@@ -1,0 +1,57 @@
+<svg viewBox="0 0 640 372" width="100%" style="display:block" role="img" aria-label="KOAH patogenezinde hucre agi: epitel, makrofaj, notrofil, CD8 T hucresi ve uc sonuc">
+  <defs><marker id="m41f" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="m41fc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="m41fm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="220" y="4" width="200" height="40" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="320.0" y="20.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Sigara dumanı, biyomas</text>
+  <text x="320.0" y="34.6" text-anchor="middle" font-family="var(--font-body)" font-size="10.3" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">oksidanlar ve partiküller</text>
+  <rect x="60" y="76" width="220" height="52" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="170.0" y="98.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Hava yolu epitel hücresi</text>
+  <text x="170.0" y="113.1" text-anchor="middle" font-family="var(--font-body)" font-size="10.3" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">TNF-α, IL-1β, GM-CSF, CXCL8</text>
+  <rect x="360" y="76" width="220" height="52" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="470.0" y="98.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Alveolar makrofaj (5-10 kat ↑)</text>
+  <text x="470.0" y="113.1" text-anchor="middle" font-family="var(--font-body)" font-size="10.3" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">TNF-α, CXCL8, CXCL1, LTB4, CCL2</text>
+  <path d="M300,44 L190,72" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m41f)"/>
+  <path d="M340,44 L450,72" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m41f)"/>
+  <rect x="4" y="172" width="150" height="64" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="79.0" y="192.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Fibroblast</text>
+  <text x="79.0" y="207.6" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">epitelden TGF-β</text>
+  <text x="79.0" y="222.6" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">→ kollajen, CTGF</text>
+  <rect x="160" y="172" width="150" height="64" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="235.0" y="192.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Goblet hücresi</text>
+  <text x="235.0" y="207.6" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">EGFR uyarısı (TGF-α)</text>
+  <text x="235.0" y="222.6" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">→ MUC5AC, MUC5B</text>
+  <rect x="316" y="172" width="150" height="64" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="391.0" y="192.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Nötrofil</text>
+  <text x="391.0" y="207.6" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">CXCL8, CXCL1, LTB4 çeker</text>
+  <text x="391.0" y="222.6" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">→ elastaz, katepsin G, PR3</text>
+  <rect x="472" y="172" width="150" height="64" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="547.0" y="192.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">CD8⁺ Tc1 hücresi</text>
+  <text x="547.0" y="207.6" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">CXCL9-11 (CXCR3) çeker</text>
+  <text x="547.0" y="222.6" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">→ perforin, granzim B</text>
+  <path d="M110,128 L80,168" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m41f)"/>
+  <text x="70.0" y="152.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">TGF-β</text>
+  <path d="M170,128 L230,168" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m41f)"/>
+  <text x="214.0" y="150.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">EGFR</text>
+  <path d="M270,128 L370,168" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m41f)"/>
+  <path d="M410,128 L400,168" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m41f)"/>
+  <text x="330.0" y="146.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">CXCL8</text>
+  <path d="M520,128 L545,168" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m41f)"/>
+  <text x="540.0" y="150.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">CXCL9-11</text>
+  <rect x="40" y="300" width="172" height="52" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="126.0" y="322.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Küçük hava yolu fibrozisi</text>
+  <text x="126.0" y="337.1" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">obstrüktif bronşiolit</text>
+  <rect x="235" y="300" width="172" height="52" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="321.0" y="322.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Mukus hipersekresyonu</text>
+  <text x="321.0" y="337.1" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kronik bronşit</text>
+  <rect x="430" y="300" width="172" height="52" rx="4" fill="white" stroke="var(--color-accent-2-900)" stroke-width="1.5"/>
+  <text x="516.0" y="322.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Alveol duvarı yıkımı</text>
+  <text x="516.0" y="337.1" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">amfizem</text>
+  <path d="M79,236 L110,296" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m41f)"/>
+  <path d="M235,236 L300,296" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m41f)"/>
+  <path d="M370,236 L340,296" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m41f)"/>
+  <text x="350.0" y="258.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">elastaz</text>
+  <text x="350.0" y="270.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">salgıyı uyarır</text>
+  <path d="M410,236 L480,296" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m41f)"/>
+  <path d="M547,236 L540,296" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m41f)"/>
+  <path d="M580,96 L632,96 L632,326 L606,326" fill="none" stroke="var(--color-accent-2-900)" stroke-width="1.5" marker-end="url(#m41fm)"/>
+  <text x="626.0" y="262.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">MMP-9, MMP-12</text>
+</svg>

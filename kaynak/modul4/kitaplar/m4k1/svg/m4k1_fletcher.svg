@@ -1,0 +1,37 @@
+<svg viewBox="0 0 640 300" width="100%" style="display:block" role="img" aria-label="Fletcher-Peto egrileri: yasla FEV1 kaybi, duyarli sigara icici ve sigarayi birakanlar">
+  <defs><marker id="m41c" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="m41cc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="m41cm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <line x1="62" y1="192.5" x2="470" y2="192.5" stroke="var(--color-neutral-700)" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="56.0" y="196.5" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">%25</text>
+  <line x1="62" y1="135.0" x2="470" y2="135.0" stroke="var(--color-neutral-700)" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="56.0" y="139.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">%50</text>
+  <line x1="62" y1="77.5" x2="470" y2="77.5" stroke="var(--color-neutral-700)" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="56.0" y="81.5" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">%75</text>
+  <line x1="62" y1="20.0" x2="470" y2="20.0" stroke="var(--color-neutral-700)" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="56.0" y="24.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">%100</text>
+  <text x="56.0" y="254.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">%0</text>
+  <line x1="62" y1="250" x2="470" y2="250" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="62.0" y="266.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">25</text>
+  <text x="143.6" y="266.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">35</text>
+  <text x="225.2" y="266.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">45</text>
+  <text x="306.8" y="266.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">55</text>
+  <text x="388.4" y="266.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">65</text>
+  <text x="470.0" y="266.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">75</text>
+  <text x="266.0" y="281.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">yaş (yıl)</text>
+  <text x="16.0" y="135.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" transform="rotate(-90 16 135.0)">FEV₁ (25 yaştaki değerin %'si)</text>
+  <line x1="62" y1="192.5" x2="470" y2="192.5" stroke="var(--color-accent-2-900)" stroke-opacity="0.7" stroke-width="1" stroke-dasharray="4 4"/>
+  <text x="68.0" y="187.5" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">sakatlık (ağır dispne)</text>
+  <line x1="62" y1="227.0" x2="470" y2="227.0" stroke="var(--color-accent-2-900)" stroke-opacity="0.7" stroke-width="1" stroke-dasharray="4 4"/>
+  <text x="68.0" y="222.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">ölüm</text>
+  <path d="M62.0,20.0 C75.6,21.5 116.4,25.7 143.6,29.2 C170.8,32.6 198.0,36.5 225.2,40.7 C252.4,44.9 279.6,49.5 306.8,54.5 C334.0,59.5 361.2,64.8 388.4,70.6 C415.6,76.3 456.4,85.9 470.0,89.0" fill="none" stroke="var(--color-neutral-700)" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M62.0,20.0 C75.6,22.7 116.4,29.2 143.6,36.1 C170.8,43.0 198.0,51.1 225.2,61.4 C252.4,71.8 279.6,83.2 306.8,98.2 C334.0,113.1 368.0,136.5 388.4,151.1 C408.8,165.7 415.6,173.7 429.2,185.6 C442.8,197.5 463.2,216.3 470.0,222.4" fill="none" stroke="var(--color-accent-2-900)" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M225.2,61.4 C238.8,63.7 279.6,70.2 306.8,75.2 C334.0,80.2 361.2,85.6 388.4,91.3 C415.6,97.1 456.4,106.6 470.0,109.7" fill="none" stroke="var(--color-accent-700)" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <path d="M388.4,151.1 C395.2,152.6 415.6,157.2 429.2,160.3 C442.8,163.4 463.2,168.0 470.0,169.5" fill="none" stroke="var(--color-accent-700)" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="2 4"/>
+  <circle cx="225.2" cy="61.4" r="3.5" fill="var(--color-accent-700)"/>
+  <circle cx="388.4" cy="151.1" r="3.5" fill="var(--color-accent-700)"/>
+  <text x="478.0" y="93.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Hiç içmemiş ya da</text>
+  <text x="478.0" y="106.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">duyarsız içici</text>
+  <text x="478.0" y="122.7" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">45 yaşında bırakan</text>
+  <text x="478.0" y="173.5" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">65 yaşında bırakan</text>
+  <text x="478.0" y="226.4" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">Duyarlı içici</text>
+  <text x="478.0" y="239.4" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">(KOAH gelişen)</text>
+</svg>

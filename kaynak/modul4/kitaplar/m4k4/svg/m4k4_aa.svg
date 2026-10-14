@@ -1,0 +1,61 @@
+<svg viewBox="0 0 640 432" width="100%" style="display:block" role="img" aria-label="Arasidonik asit yolu, aspirine duyarli astim ve ilaclarin etki noktalari">
+  <defs><marker id="m44b" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="m44bc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="m44bm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="220" y="4" width="200" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="320.0" y="24.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Membran fosfolipitleri</text>
+  <line x1="320" y1="38" x2="320" y2="74" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44b)"/>
+  <line x1="309.0" y1="56" x2="331.0" y2="56" stroke="var(--color-accent-2-900)" stroke-width="3"/>
+  <text x="338.0" y="60.0" text-anchor="start" font-family="var(--font-body)" font-size="10.2" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">fosfolipaz A₂</text>
+  <text x="302.0" y="54.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">glukokortikoidler</text>
+  <text x="302.0" y="66.0" text-anchor="end" font-family="var(--font-body)" font-size="9.6" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">(lipokortin / anneksin-1)</text>
+  <rect x="220" y="76" width="200" height="34" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="320.0" y="96.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Araşidonik asit</text>
+  <path d="M250,110 L150,142" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44b)"/>
+  <path d="M390,110 L490,142" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44b)"/>
+  <rect x="40" y="144" width="220" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="150.0" y="164.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Siklooksijenaz (COX-1, COX-2)</text>
+  <rect x="380" y="144" width="220" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="490.0" y="164.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">5-lipoksijenaz (+ FLAP)</text>
+  <line x1="188.0" y1="126" x2="212.0" y2="126" stroke="var(--color-accent-2-900)" stroke-width="3"/>
+  <text x="186.0" y="124.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">aspirin, NSAİİ</text>
+  <line x1="428.0" y1="126" x2="452.0" y2="126" stroke="var(--color-accent-2-900)" stroke-width="3"/>
+  <text x="456.0" y="124.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">zileuton</text>
+  <line x1="90" y1="178" x2="90" y2="210" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44b)"/>
+  <line x1="205" y1="178" x2="205" y2="210" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44b)"/>
+  <rect x="10" y="212" width="150" height="52" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="85.0" y="228.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">PGE₂</text>
+  <text x="85.0" y="241.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.8" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">bronkodilatör; mast hücresi</text>
+  <text x="85.0" y="254.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.8" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ve 5-LOX freni</text>
+  <rect x="170" y="212" width="110" height="52" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="225.0" y="228.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">PGD₂</text>
+  <text x="225.0" y="241.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.8" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">bronko-</text>
+  <text x="225.0" y="254.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.8" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">konstriktör</text>
+  <line x1="430" y1="178" x2="430" y2="210" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44b)"/>
+  <line x1="545" y1="178" x2="545" y2="210" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44b)"/>
+  <rect x="350" y="212" width="120" height="52" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="410.0" y="228.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">LTB₄</text>
+  <text x="410.0" y="241.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.8" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">nötrofil</text>
+  <text x="410.0" y="254.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.8" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kemotaksisi</text>
+  <rect x="480" y="212" width="150" height="52" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="555.0" y="234.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.2" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">LTC₄ → LTD₄ → LTE₄</text>
+  <text x="555.0" y="248.4" text-anchor="middle" font-family="var(--font-body)" font-size="9.8" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sisteinil lökotrienler</text>
+  <line x1="555" y1="264" x2="555" y2="296" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44b)"/>
+  <line x1="544.0" y1="280" x2="566.0" y2="280" stroke="var(--color-accent-2-900)" stroke-width="3"/>
+  <text x="572.0" y="282.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">montelukast,</text>
+  <text x="572.0" y="294.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">zafirlukast</text>
+  <rect x="480" y="300" width="150" height="32" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="555.0" y="319.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">CysLT₁ reseptörü</text>
+  <line x1="555" y1="332" x2="555" y2="356" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44b)"/>
+  <rect x="400" y="358" width="230" height="54" rx="4" fill="white" stroke="var(--color-accent-2-900)" stroke-width="1.5"/>
+  <text x="515.0" y="374.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.4" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Bronkokonstriksiyon, ödem,</text>
+  <text x="515.0" y="388.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.4" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">mukus, eozinofil çağrısı,</text>
+  <text x="515.0" y="402.4" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">aşırı duyarlılık</text>
+  <rect x="10" y="300" width="370" height="112" rx="4" fill="white" stroke="var(--color-accent-2-900)" stroke-width="1.5"/>
+  <text x="20.0" y="320.0" text-anchor="start" font-family="var(--font-body)" font-size="10.4" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">Aspirine duyarlı astım</text>
+  <text x="20.0" y="335.5" text-anchor="start" font-family="var(--font-body)" font-size="10.4" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">1. COX bloke olunca araşidonik asit 5-lipoksijenaz</text>
+  <text x="20.0" y="351.0" text-anchor="start" font-family="var(--font-body)" font-size="10.4" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">   yoluna kayar: sisteinil lökotrienler artar</text>
+  <text x="20.0" y="366.5" text-anchor="start" font-family="var(--font-body)" font-size="10.4" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">2. PGE₂ azalır: mast hücresi ve 5-LOX üzerindeki</text>
+  <text x="20.0" y="382.0" text-anchor="start" font-family="var(--font-body)" font-size="10.4" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">   fren kalkar</text>
+  <text x="20.0" y="397.5" text-anchor="start" font-family="var(--font-body)" font-size="10.4" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">Sonuç: aspirinden sonra ağır bronkospazm</text>
+  <path d="M260,170 C330,195 330,195 376,168" fill="none" stroke="var(--color-accent-2-900)" stroke-width="1.3" stroke-dasharray="4 3" marker-end="url(#m44bm)"/>
+  <text x="318.0" y="202.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">kayma</text>
+</svg>

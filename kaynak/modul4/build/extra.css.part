@@ -1,0 +1,20 @@
+  .chapter { break-before: page; }
+  .chapter-first { break-before: auto; }
+  .chapter-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 6px 0; }
+  .chapter-title { font-family: var(--font-heading); font-size: 1.75rem; line-height: 1.2; font-weight: 700; margin: 0 0 8px 0; break-after: avoid; }
+  .chapter-lead { font-style: italic; color: var(--color-neutral-700); font-size: 0.95rem; line-height: 1.6; margin: 0 0 26px 0; }
+  .book-h4 { font-family: var(--font-heading); font-size: 0.98rem; font-weight: 700; font-style: italic; margin: 14px 0 6px 0; break-after: avoid; }
+  ol.book-list { padding-left: 1.5em; }
+  .toc { list-style: none; padding: 0; margin: 0 0 12px 0; font-size: 0.98rem; line-height: 1.7; }
+  .toc li { margin: 0 0 4px 0; }
+  .toc .toc-sub { color: var(--color-neutral-700); font-size: 0.88rem; display: block; margin-left: 1.2em; }
+  .cover-note { font-size: 0.92rem; line-height: 1.6; color: var(--color-neutral-700); margin: 0 0 14px 0; }
+  .keybox { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 14px 18px; margin: 6px 0 16px 0; break-inside: avoid; }
+  .keybox-title { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 6px; font-weight: 700; }
+  .keybox ul { margin: 0; padding-left: 1.2em; font-size: 0.92rem; line-height: 1.6; }
+  .keybox li { margin-bottom: 3px; }
+  .card-title .opts { display: block; font-weight: 400; font-family: var(--font-body); font-size: 0.93rem; margin-top: 6px; line-height: 1.55; }
+  table.table.compact { font-size: 0.8rem; }
+  sub, sup { line-height: 0; }
+  @page { size: A4; margin: 22mm 20mm 20mm 20mm; background: #f3f2f2; }
+</style>

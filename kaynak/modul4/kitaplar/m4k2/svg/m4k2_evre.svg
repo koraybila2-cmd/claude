@@ -1,0 +1,30 @@
+<svg viewBox="0 0 640 214" width="100%" style="display:block" role="img" aria-label="Astimda akut inflamasyon, kronik inflamasyon ve remodeling; geri donuslulugun azalmasi">
+  <defs><marker id="m42c" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="m42cc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="m42cm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="6" y="6" width="200" height="142" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="106.0" y="28.0" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Akut inflamasyon</text>
+  <text x="106.0" y="45.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">dakikalar-saatler</text>
+  <text x="106.0" y="62.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">· bronkokonstriksiyon</text>
+  <text x="106.0" y="79.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">· ödem</text>
+  <text x="106.0" y="96.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">· sekresyon artışı</text>
+  <text x="106.0" y="113.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">· öksürük</text>
+  <rect x="220" y="6" width="200" height="142" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="320.0" y="28.0" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Kronik inflamasyon</text>
+  <text x="320.0" y="45.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">haftalar-aylar</text>
+  <text x="320.0" y="62.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">· hücre infiltrasyonu</text>
+  <text x="320.0" y="79.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">· epitel hasarı</text>
+  <text x="320.0" y="96.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">· erken yapısal değişiklikler</text>
+  <rect x="434" y="6" width="200" height="142" rx="4" fill="white" stroke="var(--color-accent-2-900)" stroke-width="1.5"/>
+  <text x="534.0" y="28.0" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Remodeling</text>
+  <text x="534.0" y="45.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">yıllar</text>
+  <text x="534.0" y="62.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">· bazal membran kalınlaşması</text>
+  <text x="534.0" y="79.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">· düz kas hipertrofisi</text>
+  <text x="534.0" y="96.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">· mukus bezi hipertrofisi</text>
+  <text x="534.0" y="113.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">· subepitelyal fibrozis</text>
+  <line x1="206" y1="77" x2="218" y2="77" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m42c)"/>
+  <line x1="420" y1="77" x2="432" y2="77" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m42c)"/>
+  <line x1="20" y1="176" x2="610" y2="176" stroke="var(--color-accent-2-900)" stroke-width="1.6" marker-end="url(#m42cm)"/>
+  <text x="20.0" y="168.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">tedaviyle tam geri döner</text>
+  <text x="320.0" y="168.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">tedaviyle büyük ölçüde geri döner</text>
+  <text x="610.0" y="168.0" text-anchor="end" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">kalıcıdır</text>
+  <text x="320.0" y="200.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">geri dönüşlülük azalır, obstrüksiyon kalıcı hâle gelir</text>
+</svg>

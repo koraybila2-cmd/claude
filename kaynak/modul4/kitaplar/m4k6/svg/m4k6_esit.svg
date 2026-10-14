@@ -1,0 +1,39 @@
+<svg viewBox="0 0 640 372" width="100%" style="display:block" role="img" aria-label="Saglik farkinin esitsizlik mi hakkaniyetsizlik mi oldugunu ayirt etme">
+  <defs><marker id="m46a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="m46ac" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="m46am" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="120" y="6" width="400" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="320.0" y="25.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">İki grup arasında sağlık farkı var</text>
+  <text x="320.0" y="40.1" text-anchor="middle" font-family="var(--font-body)" font-size="10.2" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">örnek: yoksul mahallede bebek ölüm hızı daha yüksek</text>
+  <line x1="320" y1="52" x2="320" y2="72" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m46a)"/>
+  <rect x="170" y="74" width="300" height="40" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="320.0" y="97.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Fark kaçınılabilir mi?</text>
+  <path d="M470,94 L512,94 L512,122" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m46a)"/>
+  <text x="491.0" y="88.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hayır</text>
+  <rect x="430" y="124" width="200" height="58" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="530.0" y="142.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.4" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Doğal, biyolojik fark</text>
+  <text x="530.0" y="156.4" text-anchor="middle" font-family="var(--font-body)" font-size="9.9" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">yaşlıda kronik hastalık çok,</text>
+  <text x="530.0" y="170.4" text-anchor="middle" font-family="var(--font-body)" font-size="9.9" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">yalnız erkekte prostat kanseri</text>
+  <line x1="320" y1="114" x2="320" y2="140" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m46a)"/>
+  <text x="330.0" y="131.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">evet</text>
+  <rect x="150" y="142" width="260" height="52" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="280.0" y="163.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Fark, kişinin seçimi dışındaki</text>
+  <text x="280.0" y="179.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">sosyal koşullardan mı doğuyor?</text>
+  <path d="M150,168 L100,168 L100,212" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m46a)"/>
+  <text x="125.0" y="162.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hayır</text>
+  <rect x="10" y="214" width="190" height="58" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="105.0" y="232.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.2" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Özgürce seçilmiş davranış</text>
+  <text x="105.0" y="246.4" text-anchor="middle" font-family="var(--font-body)" font-size="9.9" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">tehlikeli spor; ilk benimseyenlerin</text>
+  <text x="105.0" y="260.4" text-anchor="middle" font-family="var(--font-body)" font-size="9.9" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">geçici sağlık avantajı</text>
+  <line x1="320" y1="194" x2="320" y2="220" stroke="var(--color-accent-2-900)" stroke-width="1.5" marker-end="url(#m46am)"/>
+  <text x="330.0" y="211.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">evet</text>
+  <rect x="220" y="222" width="410" height="72" rx="4" fill="white" stroke="var(--color-accent-2-900)" stroke-width="1.5"/>
+  <text x="425.0" y="245.6" text-anchor="middle" font-family="var(--font-body)" font-size="10.2" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">HAKKANİYETSİZLİK (inequity)</text>
+  <text x="425.0" y="261.6" text-anchor="middle" font-family="var(--font-body)" font-size="10.2" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">kaçınılabilir ve adaletsiz: yoksulluk, eğitimsizlik, kötü konut ve iş</text>
+  <text x="425.0" y="277.6" text-anchor="middle" font-family="var(--font-body)" font-size="10.2" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">koşulları, seçimi kısıtlayan ortam, sağlık hizmetine erişememe</text>
+  <line x1="425" y1="294" x2="425" y2="318" stroke="var(--color-accent-700)" stroke-width="1.5" marker-end="url(#m46ac)"/>
+  <rect x="220" y="320" width="410" height="46" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="425.0" y="339.1" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">Hedef: hakkaniyet (equity)</text>
+  <text x="425.0" y="354.1" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">herkesin sağlık potansiyeline tam ulaşabilmesi; politikayla azaltılabilir</text>
+  <text x="10.0" y="300.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">İlk iki kutudaki farklar da birer</text>
+  <text x="10.0" y="313.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">eşitsizliktir (inequality), ama</text>
+  <text x="10.0" y="326.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hakkaniyetsizlik sayılmaz.</text>
+</svg>

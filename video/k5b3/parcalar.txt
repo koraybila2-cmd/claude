@@ -1,0 +1,96 @@
+### k5b3_01 | Giriş ve EKG'nin mantığı
+Kor pulmonale. Bölüm üç: Tanı. EKG, akciğer grafisi ve ekokardiyografi.
+Kor pulmonaleden şüphelendiğinde aslında iki soruya cevap arıyorsun. Birincisi: sağ kalpte, basınç yüküne bağlı bir değişiklik var mı? İkincisi: bu değişikliğin nedeni akciğer mi?
+EKG ve akciğer grafisi ucuzdur ve her yerde bulunur, ama duyarlılıkları sınırlıdır. Ekokardiyografi pulmoner basıncı tahmin eder ve sol kalp hastalığını dışlar. Kesin ölçüm ise sağ kalp kateterizasyonuyla yapılır.
+Ve en baştan söyleyelim: bu bölümün sınav sorusu dört yıl boyunca hiç değişmedi. Kor pulmonalenin EKG'sinde P mitrale beklenmez. Nedenini birazdan göreceğiz.
+Önce elektrokardiyografi. Normal kalpte sol ventrikül, sağ ventrikülden çok daha kalındır. Bu yüzden QRS kompleksinin elektriksel vektörü sola ve geriye yönelir. Eksen, sıfır ile artı doksan derece arasındadır. V birde küçük bir r ve derin bir S, V altıda ise yüksek bir R görülür.
+Peki sağ ventrikül hipertrofisinde ne olur? Sağ ventrikülün kas kütlesi arttıkça vektör sağa ve öne döner. İşte sunumdaki EKG bulgularının çoğu, bu tek dönüşün farklı derivasyonlardaki görüntüsüdür. Şimdi bulguları tek tek, nedenleriyle sayalım.
+Birinci bulgu: sağ eksen sapması, yani eksenin artı yüz on dereceden büyük olması. Çünkü QRS vektörü, kalınlaşan sağ ventriküle doğru döner. Bu bilgi 2025 2026 sınavının on sekizinci sorusunda doğru ifade olarak geçti: sağ aks sapması beklenir.
+İkinci bulgu: V birde, R dalgasının S dalgasına oranı birden büyüktür. Öndeki sağ ventrikülün güçlü depolarizasyonu V bire doğru yönelir ve V birde yüksek bir R oluşur.
+Üçüncü bulgu: V altıda ise R'nin S'ye oranı birden küçüktür. Vektör sol yan duvardan uzaklaştığı için V altıda derin bir S oluşur.
+Dördüncü bulgu: saat yönünde, yani clockwise rotasyon. Büyüyen sağ ventrikül, kalbi uzun ekseni etrafında döndürür. R ve S dalgalarının eşitlendiği geçiş zonu V beş ve V altıya kayar.
+
+### k5b3_02 | Diğer EKG bulguları
+Beşinci bulgu: P pulmonale. D iki, D üç ve a V F derivasyonlarında görülür ve sağ atriyum büyümesini gösterir. Birazdan şekliyle birlikte ayrıntılı konuşacağız.
+Altıncı bulgu: S bir Q üç, ya da S bir, S iki, S üç paterni. D birde derin bir S dalgası görülür, çünkü vektör sağa dönmüştür. D üçte ise bir Q dalgası belirir. S bir, S iki, S üç paterni de vektörün yukarı ve sağa yöneldiğini gösterir.
+Yedinci bulgu: normal ya da düşük voltajlı QRS. Peki neden düşük voltaj? Çünkü aşırı havalanmış akciğer, kalp ile göğüs duvarı arasında yalıtkan bir hava tabakası oluşturur. Üstelik kalp dikleşir ve aşağı iner.
+Sekizinci bulgu: komplet ya da inkomplet sağ dal bloğu. Genişleyen sağ ventrikülde sağ dal gerilir ve iletim gecikir. Bu da 2025 2026 sınavının on sekizinci sorusunda doğru ifadeydi: görülebilir.
+Dokuzuncu bulgu: D iki, D üç, a V F ve V birden V üçe kadar olan derivasyonlarda büyük, geniş Q ya da QS dalgaları. Bu, kalbin konumunun değişmesine bağlı bir yalancı infarkt görünümüdür. Gerçek bir infarktla karıştırılmamalıdır.
+Onuncu bulgu: atriyal fibrilasyon ve diğer atriyal aritmiler. Nedenleri: genişleyen sağ atriyum, hipoksi, asidoz ve bronkodilatör ilaçlar. Aynı soruda bu da doğru ifadeydi: atriyal fibrilasyon görülebilir.
+Sunumdaki pulmoner arteriyel hipertansiyon örneğinde bu bulguların birlikteliğini görüyoruz: sağ ventrikül hipertrofisi ve yüklenme bulgusu, sağ eksen sapması, D ikide P pulmonale ve inkomplet sağ dal bloğu.
+Şunu da unutma: EKG bulguları özgüldür, ama duyarlılıkları düşüktür. KOAH'ta akciğerin aşırı havalanması ve kalbin dikleşmesi bu bulguları maskeleyebilir. Yani normal bir EKG, kor pulmonaleyi dışlamaz.
+
+### k5b3_03 | P pulmonale ve P mitrale
+Şimdi sınavın en sevdiği konuya geldik: P pulmonale ve P mitrale.
+P dalgası, iki atriyumun ardışık depolarizasyonudur. Uyarı sinüs düğümünden çıktığı için önce sağ atriyum, sonra sol atriyum depolarize olur. Yani P dalgasının ilk yarısı sağ atriyuma, ikinci yarısı sol atriyuma aittir. Buradan iki farklı görüntü çıkar.
+Sağ atriyum büyürse, P dalgasının ilk yarısı büyür ve ikinci yarıyla üst üste biner. Sonuç: P dalgası yükselir ve sivrileşir, ama süresi uzamaz. D iki, D üç ve a V F derivasyonlarında iki buçuk milimetreden yüksek bir P dalgası görürsün. Buna P pulmonale denir, çünkü en sık nedeni akciğer hastalığına bağlı sağ atriyum yüküdür.
+Sol atriyum büyürse ne olur? Bu kez P dalgasının ikinci yarısı gecikir ve uzar. P dalgası genişler, süresi sıfır virgül on iki saniye ya da daha uzun olur ve iki tepeli bir görünüm alır, tıpkı bir M harfi gibi. Buna P mitrale denir, çünkü klasik nedeni mitral darlıktır. Sol atriyum büyümesi sol kalp hastalığının bulgusudur ve kor pulmonalede beklenmez.
+Ekrandaki şekilde üçünü yan yana görüyorsun. Normal P dalgası iki buçuk milimetreyi geçmez ve süresi sıfır virgül on iki saniyeden kısadır. P pulmonale yüksek ve sivridir, süresi normaldir. P mitrale ise geniş ve çift tepelidir. Kor pulmonalede beklenen, P pulmonaledir.
+Ve işte sık karıştırılan nokta. Sınav bu ayrımı dört yılda beş kez sordu. "P mitrale görülmesi beklenir" ifadesi yanlıştır: 2025 2026 sınavının on sekizinci, 2024 sınavının otuz beşinci, 2023 2024 sınavının otuz yedinci ve 2022 2023 sınavının otuz dokuzuncu sorusu. "Sol atriyum büyümesine bağlı P pulmonale gelişebilir" ifadesi de yanlıştır. Bu da 2022 2023 sınavının kırk birinci sorusu. Çünkü P pulmonale, sağ atriyum büyümesinin işaretidir.
+Akılda tutmanın en kolay yolu, isimleri hastalığa bağlamak. Pulmonale: pulmoner, yani akciğer, yani sağ kalp. Mitrale: mitral kapak, yani sol kalp.
+
+### k5b3_04 | Akciğer grafisi ve ekokardiyografi
+Sırada akciğer grafisi var. Akciğer grafisi iki şeyi birden gösterir. Bir yanda altta yatan hastalığı: hiperinflasyon, düzleşmiş diyafram, büller ya da interstisyel fibrozis. Öbür yanda kalp ve damarlardaki değişiklikleri. Sunumdaki bulgular şunlar.
+Birincisi, sağ ventrikül genişlemesi ve kalp büyümesi. Sağ ventrikül büyüdükçe kalbin tepesini yukarı ve sola iter. Yan grafide sternumun arkasındaki hava boşluğu dolar. Sunum bu görünümü sabo, yani takunya biçimli kalp olarak adlandırır: kor an sabo.
+İkincisi, ana pulmoner arterde genişleme. Sol kalp kenarında pulmoner konus belirginleşir.
+Üçüncüsü, sayısıyla akılda tutulması gereken bulgu. Pulmoner hipertansiyon bulgusu olarak sağ inen pulmoner arterin çapı, erkekte on altı milimetreden, kadında on beş milimetreden geniştir. Hiler damarlar genişlerken periferdeki damarlar incelir ve azalır. Buna periferik budanma denir.
+Bir uyarı: KOAH'ta kalp gölgesi, aşırı havalanmış akciğerler arasında dar ve dik görünür. Buna damla kalp denir. Bu hastada sağ ventrikül büyümesi başlangıçta grafide fark edilmeyebilir. Bu yüzden normal bir kalp gölgesi kor pulmonaleyi dışlamaz.
+Şimdi ekokardiyografiye geçelim. Sunuma göre ekokardiyografi; iki boyutlu, M mod ve Doppler yöntemleriyle kalbin iki tarafını birlikte değerlendirir.
+Sol kalpte neye bakılır? Hipertrofi ve dilatasyona, kapak hastalıklarına, sistolik ve diyastolik fonksiyonlara. Amaç, tanımın gereği olarak sol kalp hastalığını dışlamaktır. Sol ventrikül fonksiyonu ve mitral kapak normalse, pulmoner hipertansiyonun nedeni sol kalp olamaz.
+İntrakardiyak şantlar da aranır, çünkü doğumsal kalp hastalığının da dışlanması gerekir.
+Sağ kalpte ise şunu hatırla: normal sağ ventrikül ince duvarlıdır, duvarı beş milimetreden incedir. Düşük basınçlıdır ve kompliyansı yüksektir. Ardyük artarsa ne olur? Birinci bölümde anlattığımız ilke burada da geçerli: akut ardyük artışında sağ ventrikül dilatasyonu, kronik ardyük artışında sağ ventrikül hipertrofisi görülür. 2022 2023 sınavının kırkıncı sorusunda doğru ifade olarak şu geçti: ekokardiyografide sağ ventrikül dilatasyonu ve azalmış sağ ventrikül ejeksiyon fraksiyonu saptanır.
+
+### k5b3_05 | Doppler ve sağ kalp kateterizasyonu
+Doppler, pulmoner basıncı invaziv olmayan yoldan tahmin etmemizi sağlar. Nasıl mı? Triküspit yetersizliği jetinin hızı, yani v ölçülür. Basitleştirilmiş Bernoulli denklemiyle sağ ventrikül ile sağ atriyum arasındaki basınç farkı hesaplanır: dört çarpı v kare. Buna tahmini sağ atriyum basıncı eklenince pulmoner arter sistolik basıncı elde edilir. Örneğin saniyede üç buçuk metrelik bir jet, yaklaşık kırk dokuz milimetre cıvalık bir fark demektir.
+Basınç yükü altındaki sağ ventrikül septumu düzleştirir. Kısa eksen kesitinde sol ventrikül, D harfi biçiminde görünür. Sağ ventrikülün sistolik fonksiyonu ise triküspit halkasının sistolik hareketiyle, yani TAPSE ile ölçülür.
+KOAH'lı hastada bir sorun daha var: aşırı havalanmış akciğer ses dalgalarını geçirmez. Ekokardiyografik pencere kötü olabilir ve görüntü kalitesi sınırlı kalabilir.
+Son olarak sağ kalp kateterizasyonu. Pulmoner hipertansiyonun kesin tanısı bununla konur. Kateter sağ atriyum ve sağ ventrikülden geçerek pulmoner artere ilerletilir ve üç değer ölçülür.
+Bir: ortalama pulmoner arter basıncı. Tanı ölçütüdür. Sunuma göre yirmi beş milimetre cıvanın üzerinde olmalıdır.
+İki: pulmoner kapiller kama basıncı. Kateterin ucundaki balon küçük bir pulmoner arter dalını tıkadığında ölçülen bu basınç, sol atriyum basıncını yansıtır. On beş milimetre cıva ya da daha düşükse sol kalp normaldir ve pulmoner hipertansiyon prekapillerdir, yani akciğer ya da pulmoner damar kaynaklıdır. Yüksekse sorun sol kalptedir.
+Üç: pulmoner vasküler direnç. Basınç farkının debiye oranıdır ve damar yatağının ne kadar daraldığını gösterir.
+Kateterizasyon sırasında inhale nitrik oksitle akut vazoreaktivite testi de yapılabilir. Basıncı belirgin olarak düşen az sayıdaki hasta, kalsiyum kanal blokerlerinden yarar görür. Bunu tedavi bölümünde konuşacağız.
+Bu bölümden dört yılda toplam beş soru çıktı: 2022 2023 sınavında iki, 2023 2024 sınavında bir, 2024 sınavında bir ve 2025 2026 sınavında bir. "Kor pulmonalenin EKG'sinde P mitrale beklenir" ifadesinin yanlışlığı her yıl, toplam dört kez soruldu. 2022 2023 sınavında buna bir de "sol atriyum büyümesine bağlı P pulmonale" çeldiricisi eklendi. Şimdi bu soruları birlikte çözelim.
+
+### k5b3_06 | Soru 1
+Soru bir. Bu soru dört sınavın dördünde de soruldu: 2025 2026 sınavının on sekizinci, 2024 sınavının otuz beşinci, 2023 2024 sınavının otuz yedinci ve 2022 2023 sınavının otuz dokuzuncu sorusu.
+Kor pulmonale EKG'si ile ilgili olarak aşağıdakilerden hangisi yanlıştır?
+A: P pulmonale sağ atriyum büyümesini işaret eder.
+B: Sağ aks sapması beklenir.
+C: Atriyal fibrilasyon görülebilir.
+D: P mitrale görülmesi beklenir.
+E: Komplet ya da inkomplet sağ dal bloğu görülebilir.
+Videoyu durdurup düşünebilirsin.
+
+### k5b3_07 | Soru 1 cevap
+Cevap D. Yani yanlış olan ifade D şıkkı. P mitrale, sol atriyum büyümesinin bulgusudur. Geniş, çift tepeli bir P dalgasıdır ve mitral darlık gibi sol kalp hastalıklarında görülür. Kor pulmonalede büyüyen sağ atriyumdur ve beklenen bulgu P pulmonaledir. 2024 sınavında bu sorunun şıkları kayda geçmemiş, ama cevap aynı.
+Diğer şıklara bakalım. A doğru: P pulmonale, D iki, D üç ve a V F derivasyonlarında iki buçuk milimetreden yüksek, sivri bir P dalgasıdır. B doğru: kalınlaşan sağ ventrikül QRS vektörünü sağa çevirir, eksen artı yüz on dereceyi geçer. C doğru: genişlemiş sağ atriyum ve hipoksi atriyal fibrilasyonu kolaylaştırır. E doğru: gerilen sağ dalda iletim gecikir.
+
+### k5b3_08 | Soru 2
+Soru iki. 2022 2023 sınavı, kırk birinci soru.
+Kor pulmonale ile ilgili aşağıdakilerden hangisi yanlıştır?
+A: Pulmoner hipertansiyon ve ciddiyeti kötü prognozla ilişkilidir.
+B: Sol atriyum büyümesine bağlı P pulmonale gelişebilir.
+C: Sağ ventrikülde hipertrofi ve dilatasyon gelişebilir.
+D: Ödem, sağ kalp yetersizliğinin bir bulgusudur.
+E: KOAH'a bağlı akciğerlerde ronküsler duyulabilir.
+Durdur ve düşün.
+
+### k5b3_09 | Soru 2 cevap
+Cevap B. Yanlış ifade B şıkkı. P pulmonale sağ atriyum büyümesine bağlıdır. Sol atriyum büyümesinin karşılığı P mitraledir.
+Bu sorunun ilginç bir yanı var. Sonraki yıllarda sorulan "periferik ödem sol kalp yetersizliğinin bulgusudur" sorusunun, yani ikinci bölümdeki ikinci sorunun önceki biçimidir. O soruda B şıkkı doğru hâliyle, "sağ atriyum büyümesine bağlı" olarak, D şıkkı ise yanlış hâliyle yer aldı.
+A, C, D ve E doğrudur: pulmoner hipertansiyon prognozu kötüleştirir, sağ ventrikülde hipertrofi ve dilatasyon gelişir, ödem sağ kalp yetersizliğinin bulgusudur ve ronküs, altta yatan KOAH'tan kaynaklanır.
+
+### k5b3_10 | Pekiştirme sorusu
+Son olarak, konuyu pekiştirmek için hazırlanmış yeni bir soru.
+Ağır KOAH'lı bir hastanın EKG'sinde aşağıdaki bulgulardan hangisinin kor pulmonaleye bağlı olması en az olasıdır?
+A: D ikide üç milimetre yüksekliğinde sivri P dalgası.
+B: QRS ekseninin artı yüz yirmi derece olması.
+C: V birde, R'nin S'ye oranının birden büyük olması.
+D: D birde derin S, D üçte Q dalgası.
+E: V beş ve V altıda yüksek R dalgaları ile birlikte sol eksen sapması.
+Durdur ve düşün.
+
+### k5b3_11 | Pekiştirme sorusu cevap
+Cevap E. V beş ve V altıda yüksek R dalgaları ve sol eksen sapması, sol ventrikül hipertrofisinin bulgularıdır. Kor pulmonalede QRS vektörü sağa ve öne döner. V altıda tam tersine derin bir S görülür, yani R'nin S'ye oranı birden küçüktür. Bu bulguyu görürsen, eşlik eden bir sol kalp hastalığını, örneğin hipertansif kalp hastalığını düşünmelisin.
+A şıkkı P pulmonaledir. B, artı yüz on dereceyi aşan sağ eksen sapmasıdır. C, V birde R'nin S'ye oranının birden büyük olmasıdır. D ise S bir Q üç paternidir. Dördü de sunumdaki kor pulmonale EKG bulgularıdır.
+Bölüm üçün sonuna geldik. Bir sonraki bölümde kor pulmonalenin tedavisini konuşacağız.

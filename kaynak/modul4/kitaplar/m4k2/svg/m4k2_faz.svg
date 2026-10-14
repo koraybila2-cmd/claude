@@ -1,0 +1,32 @@
+<svg viewBox="0 0 640 280" width="100%" style="display:block" role="img" aria-label="Alerjen inhalasyonu sonrasi FEV1: erken ve gec faz yaniti">
+  <defs><marker id="m42b" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="m42bc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="m42bm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="60.0" y="26" width="108.0" height="194" fill="var(--color-accent-700)" fill-opacity="0.07"/>
+  <rect x="249.0" y="26" width="351.0" height="194" fill="var(--color-accent-2-900)" fill-opacity="0.06"/>
+  <line x1="60" y1="181.2" x2="600" y2="181.2" stroke="var(--color-neutral-700)" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="54.0" y="185.2" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">%60</text>
+  <line x1="60" y1="142.4" x2="600" y2="142.4" stroke="var(--color-neutral-700)" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="54.0" y="146.4" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">%70</text>
+  <line x1="60" y1="103.6" x2="600" y2="103.6" stroke="var(--color-neutral-700)" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="54.0" y="107.6" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">%80</text>
+  <line x1="60" y1="64.8" x2="600" y2="64.8" stroke="var(--color-neutral-700)" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="54.0" y="68.8" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">%90</text>
+  <line x1="60" y1="26.0" x2="600" y2="26.0" stroke="var(--color-neutral-700)" stroke-opacity="0.18" stroke-width="1"/>
+  <text x="54.0" y="30.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">%100</text>
+  <line x1="60" y1="220" x2="600" y2="220" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="60.0" y="235.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">0</text>
+  <text x="168.0" y="235.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">2</text>
+  <text x="276.0" y="235.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">4</text>
+  <text x="384.0" y="235.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">6</text>
+  <text x="492.0" y="235.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">8</text>
+  <text x="600.0" y="235.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">10</text>
+  <text x="330.0" y="250.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">alerjen inhalasyonundan sonra geçen süre (saat)</text>
+  <text x="14.0" y="123.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" transform="rotate(-90 14 123.0)">FEV₁ (başlangıcın %'si)</text>
+  <path d="M60.0,26.0 C61.4,37.6 64.5,76.4 68.1,95.8 C71.7,115.2 75.8,139.8 81.6,142.4 C87.4,145.0 93.3,125.6 103.2,111.4 C113.1,97.1 125.7,68.7 141.0,57.0 C156.3,45.4 177.0,41.5 195.0,41.5 C213.0,41.5 231.0,48.0 249.0,57.0 C267.0,66.1 285.0,84.2 303.0,95.8 C321.0,107.5 339.0,123.0 357.0,126.9 C375.0,130.8 388.5,125.6 411.0,119.1 C433.5,112.7 460.5,97.1 492.0,88.1 C523.5,79.0 582.0,68.7 600.0,64.8" fill="none" stroke="var(--color-accent-700)" stroke-width="2.4"/>
+  <text x="114.0" y="40.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">Erken faz</text>
+  <text x="424.5" y="40.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">Geç faz</text>
+  <text x="89.7" y="159.9" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">15-30 dk'da en derin</text>
+  <text x="89.7" y="172.9" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">1-2 saatte düzelir</text>
+  <text x="292.2" y="146.4" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">3-4 saatte başlar,</text>
+  <text x="292.2" y="159.4" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">4-8 saatte en derin</text>
+  <text x="600.0" y="192.8" text-anchor="end" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">β₂ agonist erken fazı geri çevirir · İKS geç fazı önler</text>
+</svg>

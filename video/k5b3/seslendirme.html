@@ -1,0 +1,190 @@
+<title>Kor Pulmonale Seslendirme</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=Source+Sans+3:wght@400;600;700&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Düzen: tek sütunlu çalışma sayfası; üstte bir kez yapılacak ayarlar, ortada sırayla işlenecek 11 parça kartı, altta teslim ve sorun giderme. */
+:root {
+  --bg: #eef3f4; --surface: #ffffff; --ink: #14272c; --muted: #52666b; --line: #cfdcdf;
+  --accent: #00788f; --accent-ink: #ffffff; --accent-soft: #dcf0f3; --mark: #b8005c; --done: #1f7a4d; --done-soft: #e1f3e9;
+  --f-display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --f-body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  --f-mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0e1a1d; --surface: #152428; --ink: #e3eef0; --muted: #9db2b7; --line: #29404a;
+  --accent: #39b6cc; --accent-ink: #062126; --accent-soft: #163a42; --mark: #ff6fae; --done: #5fd39a; --done-soft: #17362a; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #0e1a1d; --surface: #152428; --ink: #e3eef0; --muted: #9db2b7; --line: #29404a;
+  --accent: #39b6cc; --accent-ink: #062126; --accent-soft: #163a42; --mark: #ff6fae; --done: #5fd39a; --done-soft: #17362a; color-scheme: dark }
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 16px; line-height: 1.55; }
+.wrap { max-width: 860px; margin: 0 auto; padding-block: 28px 64px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: flex; flex-direction: column; gap: 28px; }
+h1, h2 { font-family: var(--f-display); text-wrap: balance; margin: 0; letter-spacing: -0.01em; }
+h1 { font-size: clamp(1.7rem, 4.5vw, 2.4rem); line-height: 1.1; }
+h2 { font-size: 1.3rem; }
+.eyebrow { font-size: 0.78rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); margin: 0 0 6px; }
+.lead { color: var(--muted); margin: 10px 0 0; max-width: 65ch; }
+.meta { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+.chip { font-size: 0.85rem; padding: 4px 10px; border-radius: 999px; background: var(--accent-soft); color: var(--ink); font-variant-numeric: tabular-nums; }
+section { display: flex; flex-direction: column; gap: 12px; }
+ol.steps { margin: 0; padding-left: 1.4em; display: flex; flex-direction: column; gap: 8px; max-width: 70ch; }
+ol.steps li::marker { color: var(--accent); font-weight: 700; }
+code, .mono { font-family: var(--f-mono); font-size: 0.86em; }
+.note { font-size: 0.92rem; color: var(--muted); max-width: 70ch; margin: 0; }
+.box { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px 18px; display: flex; flex-direction: column; gap: 10px; }
+.boxhead { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px; }
+.label { font-weight: 700; }
+.textblock { white-space: pre-wrap; background: var(--bg); border-radius: 8px; padding: 12px 14px; max-height: 15em; overflow: auto; font-size: 0.95rem; min-width: 0; }
+button { font: inherit; font-weight: 600; cursor: pointer; border-radius: 8px; border: 1px solid var(--accent); padding: 8px 14px; background: var(--accent); color: var(--accent-ink); }
+button.ghost { background: transparent; color: var(--accent); }
+button:focus-visible, input:focus-visible, a:focus-visible { outline: 3px solid var(--mark); outline-offset: 2px; }
+a { color: var(--accent); }
+.voices { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; }
+.voice { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; font-size: 0.92rem; }
+.voice b { display: block; }
+.parts { display: flex; flex-direction: column; gap: 12px; }
+.part.is-done { border-color: var(--done); background: var(--done-soft); }
+.part .fname { font-family: var(--f-mono); font-size: 0.9rem; color: var(--mark); }
+.part .title { font-weight: 700; }
+.part .dur { font-size: 0.85rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
+.check { display: inline-flex; align-items: center; gap: 6px; font-size: 0.95rem; }
+.check input { width: 18px; height: 18px; accent-color: var(--done); }
+.toast { font-size: 0.88rem; color: var(--done); min-height: 1.2em; }
+.progress { font-variant-numeric: tabular-nums; font-weight: 700; }
+.qa { display: flex; flex-direction: column; gap: 10px; }
+.qa div { max-width: 70ch; }
+.qa b { display: block; }
+@media (prefers-reduced-motion: no-preference) { button { transition: filter .15s ease; } button:hover { filter: brightness(1.08); } }
+</style>
+
+<div class="wrap">
+  <header>
+    <p class="eyebrow">Modül 4 · Kitap 5 · Deneme bölümü</p>
+    <h1>Kor Pulmonale, Bölüm 3: seslendirme rehberi</h1>
+    <p class="lead">Bölümün anlatım metni 11 parçaya bölündü. Her parçayı Google AI Studio'da sese çevirip indireceksin, sonra hepsini Google Drive'a yükleyeceksin. Videoyu bu ses dosyalarıyla ben hazırlayacağım.</p>
+    <div class="meta">
+      <span class="chip">11 parça</span>
+      <span class="chip">yaklaşık 12 dakika ses</span>
+      <span class="chip">senin için 20-30 dakikalık iş</span>
+      <span class="chip progress" id="progress">0 / 11 tamamlandı</span>
+    </div>
+  </header>
+
+  <section aria-labelledby="h-setup">
+    <h2 id="h-setup">Bir kez yapılacak ayarlar</h2>
+    <ol class="steps">
+      <li>Bilgisayarda Chrome ile <a href="https://aistudio.google.com/generate-speech" target="_blank" rel="noopener">aistudio.google.com/generate-speech</a> adresini aç ve Google hesabınla giriş yap. Okul hesabın AI Studio'yu açmıyorsa kişisel Gmail hesabını kullan. Adres seni başka bir sayfaya götürürse sol menüde <b>Generate media</b> altındaki <b>Speech</b> (ya da "Generate speech") bölümünü aç.</li>
+      <li>Üstteki seçimde <b>Single-speaker audio</b> (tek konuşmacı) seçili olsun.</li>
+      <li>Sağdaki ayarlarda model olarak <b>Gemini 3.8 Flash TTS</b> seç (Flash-Lite olanı değil). Google'ın şu anki en yeni ve en doğal konuşma modeli bu; uzun anlatımda sesi tutarlı tutuyor ve metni kelimesi kelimesine okuyor.</li>
+      <li>Aşağıdaki üslup talimatını kopyalayıp <b>Style instructions</b> kutusuna yapıştır. Bu kutu bütün parçalarda aynı kalacak.</li>
+      <li>Ses seç: Parça 1'i önce iki üç farklı sesle dene, beğendiğini seç. Seçtikten sonra bütün parçalarda <b>aynı sesi ve aynı modeli</b> kullan, yoksa videoda ses değişir.</li>
+    </ol>
+    <div class="box">
+      <div class="boxhead"><span class="label">Üslup talimatı (Style instructions)</span><button type="button" id="copy-style">Talimatı kopyala</button></div>
+      <div class="textblock" id="style-text"></div>
+      <div class="toast" id="style-toast" aria-live="polite"></div>
+    </div>
+    <p class="note">Denemeye değer sesler (AI Studio'daki adlarıyla). Erkek: <b>Puck</b> (enerjik), <b>Fenrir</b> (heyecanlı), <b>Charon</b> (anlatıcı). Kadın: <b>Zephyr</b> (parlak), <b>Kore</b> (kararlı), <b>Aoede</b> (rahat). Sosyal medya videolarındaki tona en yakın olanlar genellikle Puck ve Zephyr'dir. Hazır seslerden hiçbirini beğenmezsen AI Studio'nun <b>Voice design</b> bölümünde kendi anlatıcını tarifle oluşturabilirsin (örneğin "enerjik, genç, samimi Türkçe erkek anlatıcı"). O zaman bütün parçalarda o sesi seç.</p>
+  </section>
+
+  <section aria-labelledby="h-loop">
+    <h2 id="h-loop">Her parça için</h2>
+    <ol class="steps">
+      <li>Aşağıda parçanın <b>Metni kopyala</b> düğmesine bas.</li>
+      <li>AI Studio'daki metin kutusunu temizle (içinde örnek metin varsa sil) ve kopyaladığın metni yapıştır.</li>
+      <li><b>Run</b> düğmesine bas (ya da Ctrl + Enter). Ses birkaç saniye içinde oluşur.</li>
+      <li>Dinle. Bir kelime yanlış okunduysa ya da vurgu tuhafsa Run'a bir kez daha bas; her seferinde biraz farklı okur.</li>
+      <li>Ses oynatıcının yanındaki <b>indirme</b> simgesiyle (ya da üç nokta menüsündeki Download ile) dosyayı indir. Dosya <span class="mono">.wav</span> olarak iner.</li>
+      <li>İnen dosyanın adını kartta yazan adla değiştir (örneğin <span class="mono">k5b3_01.wav</span>) ve karttaki <b>Tamamlandı</b> kutusunu işaretle.</li>
+    </ol>
+    <p class="note">Soru parçalarından sonra düşünme arasını videoda ben ekleyeceğim, sesle ilgili bir şey yapmana gerek yok.</p>
+  </section>
+
+  <section aria-labelledby="h-parts">
+    <h2 id="h-parts">Parçalar</h2>
+    <div class="parts" id="parts"></div>
+  </section>
+
+  <section aria-labelledby="h-send">
+    <h2 id="h-send">Bitince</h2>
+    <ol class="steps">
+      <li>Google Drive'da <b>Modul4 Video Sesleri</b> adında bir klasör oluştur.</li>
+      <li>11 <span class="mono">.wav</span> dosyasını bu klasöre yükle.</li>
+      <li>Bana "yükledim" yaz. Klasörün bağlantısını da eklersen dosyaları daha hızlı bulurum.</li>
+    </ol>
+  </section>
+
+  <section aria-labelledby="h-help">
+    <h2 id="h-help">Sorun çıkarsa</h2>
+    <div class="qa">
+      <div><b>Bir kelime her denemede yanlış okunuyor.</b>O kelimeyi ve parça numarasını bana yaz; metinde okunuşunu düzeltip parçayı yeniden göndereyim.</div>
+      <div><b>Ses parçanın sonuna doğru bozuluyor ya da kesiliyor.</b>Metni ortadaki bir paragraf sonundan ikiye bölüp iki ayrı ses üret. Dosyaları <span class="mono">k5b3_04a.wav</span> ve <span class="mono">k5b3_04b.wav</span> gibi adlandır.</div>
+      <div><b>Günlük kullanım sınırı uyarısı çıktı.</b>Kaldığın parçadan ertesi gün devam et. İşaretlediğin kutular bu tarayıcıda kayıtlı kalır.</div>
+      <div><b>Ekrandaki adlar burada yazandan farklı.</b>AI Studio'nun arayüzü zaman zaman değişiyor. Aradığın şeyler aynı: tek konuşmacılı ses üretme, model ve ses seçimi, üslup kutusu, metin kutusu, çalıştırma ve indirme.</div>
+    </div>
+  </section>
+</div>
+
+<script id="data" type="application/json">{"parts": [{"id": "k5b3_01", "title": "Giriş ve EKG'nin mantığı", "text": "Kor pulmonale. Bölüm üç: Tanı. EKG, akciğer grafisi ve ekokardiyografi.\nKor pulmonaleden şüphelendiğinde aslında iki soruya cevap arıyorsun. Birincisi: sağ kalpte, basınç yüküne bağlı bir değişiklik var mı? İkincisi: bu değişikliğin nedeni akciğer mi?\nEKG ve akciğer grafisi ucuzdur ve her yerde bulunur, ama duyarlılıkları sınırlıdır. Ekokardiyografi pulmoner basıncı tahmin eder ve sol kalp hastalığını dışlar. Kesin ölçüm ise sağ kalp kateterizasyonuyla yapılır.\nVe en baştan söyleyelim: bu bölümün sınav sorusu dört yıl boyunca hiç değişmedi. Kor pulmonalenin EKG'sinde P mitrale beklenmez. Nedenini birazdan göreceğiz.\nÖnce elektrokardiyografi. Normal kalpte sol ventrikül, sağ ventrikülden çok daha kalındır. Bu yüzden QRS kompleksinin elektriksel vektörü sola ve geriye yönelir. Eksen, sıfır ile artı doksan derece arasındadır. V birde küçük bir r ve derin bir S, V altıda ise yüksek bir R görülür.\nPeki sağ ventrikül hipertrofisinde ne olur? Sağ ventrikülün kas kütlesi arttıkça vektör sağa ve öne döner. İşte sunumdaki EKG bulgularının çoğu, bu tek dönüşün farklı derivasyonlardaki görüntüsüdür. Şimdi bulguları tek tek, nedenleriyle sayalım.\nBirinci bulgu: sağ eksen sapması, yani eksenin artı yüz on dereceden büyük olması. Çünkü QRS vektörü, kalınlaşan sağ ventriküle doğru döner. Bu bilgi 2025 2026 sınavının on sekizinci sorusunda doğru ifade olarak geçti: sağ aks sapması beklenir.\nİkinci bulgu: V birde, R dalgasının S dalgasına oranı birden büyüktür. Öndeki sağ ventrikülün güçlü depolarizasyonu V bire doğru yönelir ve V birde yüksek bir R oluşur.\nÜçüncü bulgu: V altıda ise R'nin S'ye oranı birden küçüktür. Vektör sol yan duvardan uzaklaştığı için V altıda derin bir S oluşur.\nDördüncü bulgu: saat yönünde, yani clockwise rotasyon. Büyüyen sağ ventrikül, kalbi uzun ekseni etrafında döndürür. R ve S dalgalarının eşitlendiği geçiş zonu V beş ve V altıya kayar.", "chars": 1880, "min": 1.8}, {"id": "k5b3_02", "title": "Diğer EKG bulguları", "text": "Beşinci bulgu: P pulmonale. D iki, D üç ve a V F derivasyonlarında görülür ve sağ atriyum büyümesini gösterir. Birazdan şekliyle birlikte ayrıntılı konuşacağız.\nAltıncı bulgu: S bir Q üç, ya da S bir, S iki, S üç paterni. D birde derin bir S dalgası görülür, çünkü vektör sağa dönmüştür. D üçte ise bir Q dalgası belirir. S bir, S iki, S üç paterni de vektörün yukarı ve sağa yöneldiğini gösterir.\nYedinci bulgu: normal ya da düşük voltajlı QRS. Peki neden düşük voltaj? Çünkü aşırı havalanmış akciğer, kalp ile göğüs duvarı arasında yalıtkan bir hava tabakası oluşturur. Üstelik kalp dikleşir ve aşağı iner.\nSekizinci bulgu: komplet ya da inkomplet sağ dal bloğu. Genişleyen sağ ventrikülde sağ dal gerilir ve iletim gecikir. Bu da 2025 2026 sınavının on sekizinci sorusunda doğru ifadeydi: görülebilir.\nDokuzuncu bulgu: D iki, D üç, a V F ve V birden V üçe kadar olan derivasyonlarda büyük, geniş Q ya da QS dalgaları. Bu, kalbin konumunun değişmesine bağlı bir yalancı infarkt görünümüdür. Gerçek bir infarktla karıştırılmamalıdır.\nOnuncu bulgu: atriyal fibrilasyon ve diğer atriyal aritmiler. Nedenleri: genişleyen sağ atriyum, hipoksi, asidoz ve bronkodilatör ilaçlar. Aynı soruda bu da doğru ifadeydi: atriyal fibrilasyon görülebilir.\nSunumdaki pulmoner arteriyel hipertansiyon örneğinde bu bulguların birlikteliğini görüyoruz: sağ ventrikül hipertrofisi ve yüklenme bulgusu, sağ eksen sapması, D ikide P pulmonale ve inkomplet sağ dal bloğu.\nŞunu da unutma: EKG bulguları özgüldür, ama duyarlılıkları düşüktür. KOAH'ta akciğerin aşırı havalanması ve kalbin dikleşmesi bu bulguları maskeleyebilir. Yani normal bir EKG, kor pulmonaleyi dışlamaz.", "chars": 1650, "min": 1.6}, {"id": "k5b3_03", "title": "P pulmonale ve P mitrale", "text": "Şimdi sınavın en sevdiği konuya geldik: P pulmonale ve P mitrale.\nP dalgası, iki atriyumun ardışık depolarizasyonudur. Uyarı sinüs düğümünden çıktığı için önce sağ atriyum, sonra sol atriyum depolarize olur. Yani P dalgasının ilk yarısı sağ atriyuma, ikinci yarısı sol atriyuma aittir. Buradan iki farklı görüntü çıkar.\nSağ atriyum büyürse, P dalgasının ilk yarısı büyür ve ikinci yarıyla üst üste biner. Sonuç: P dalgası yükselir ve sivrileşir, ama süresi uzamaz. D iki, D üç ve a V F derivasyonlarında iki buçuk milimetreden yüksek bir P dalgası görürsün. Buna P pulmonale denir, çünkü en sık nedeni akciğer hastalığına bağlı sağ atriyum yüküdür.\nSol atriyum büyürse ne olur? Bu kez P dalgasının ikinci yarısı gecikir ve uzar. P dalgası genişler, süresi sıfır virgül on iki saniye ya da daha uzun olur ve iki tepeli bir görünüm alır, tıpkı bir M harfi gibi. Buna P mitrale denir, çünkü klasik nedeni mitral darlıktır. Sol atriyum büyümesi sol kalp hastalığının bulgusudur ve kor pulmonalede beklenmez.\nEkrandaki şekilde üçünü yan yana görüyorsun. Normal P dalgası iki buçuk milimetreyi geçmez ve süresi sıfır virgül on iki saniyeden kısadır. P pulmonale yüksek ve sivridir, süresi normaldir. P mitrale ise geniş ve çift tepelidir. Kor pulmonalede beklenen, P pulmonaledir.\nVe işte sık karıştırılan nokta. Sınav bu ayrımı dört yılda beş kez sordu. \"P mitrale görülmesi beklenir\" ifadesi yanlıştır: 2025 2026 sınavının on sekizinci, 2024 sınavının otuz beşinci, 2023 2024 sınavının otuz yedinci ve 2022 2023 sınavının otuz dokuzuncu sorusu. \"Sol atriyum büyümesine bağlı P pulmonale gelişebilir\" ifadesi de yanlıştır. Bu da 2022 2023 sınavının kırk birinci sorusu. Çünkü P pulmonale, sağ atriyum büyümesinin işaretidir.\nAkılda tutmanın en kolay yolu, isimleri hastalığa bağlamak. Pulmonale: pulmoner, yani akciğer, yani sağ kalp. Mitrale: mitral kapak, yani sol kalp.", "chars": 1867, "min": 1.8}, {"id": "k5b3_04", "title": "Akciğer grafisi ve ekokardiyografi", "text": "Sırada akciğer grafisi var. Akciğer grafisi iki şeyi birden gösterir. Bir yanda altta yatan hastalığı: hiperinflasyon, düzleşmiş diyafram, büller ya da interstisyel fibrozis. Öbür yanda kalp ve damarlardaki değişiklikleri. Sunumdaki bulgular şunlar.\nBirincisi, sağ ventrikül genişlemesi ve kalp büyümesi. Sağ ventrikül büyüdükçe kalbin tepesini yukarı ve sola iter. Yan grafide sternumun arkasındaki hava boşluğu dolar. Sunum bu görünümü sabo, yani takunya biçimli kalp olarak adlandırır: kor an sabo.\nİkincisi, ana pulmoner arterde genişleme. Sol kalp kenarında pulmoner konus belirginleşir.\nÜçüncüsü, sayısıyla akılda tutulması gereken bulgu. Pulmoner hipertansiyon bulgusu olarak sağ inen pulmoner arterin çapı, erkekte on altı milimetreden, kadında on beş milimetreden geniştir. Hiler damarlar genişlerken periferdeki damarlar incelir ve azalır. Buna periferik budanma denir.\nBir uyarı: KOAH'ta kalp gölgesi, aşırı havalanmış akciğerler arasında dar ve dik görünür. Buna damla kalp denir. Bu hastada sağ ventrikül büyümesi başlangıçta grafide fark edilmeyebilir. Bu yüzden normal bir kalp gölgesi kor pulmonaleyi dışlamaz.\nŞimdi ekokardiyografiye geçelim. Sunuma göre ekokardiyografi; iki boyutlu, M mod ve Doppler yöntemleriyle kalbin iki tarafını birlikte değerlendirir.\nSol kalpte neye bakılır? Hipertrofi ve dilatasyona, kapak hastalıklarına, sistolik ve diyastolik fonksiyonlara. Amaç, tanımın gereği olarak sol kalp hastalığını dışlamaktır. Sol ventrikül fonksiyonu ve mitral kapak normalse, pulmoner hipertansiyonun nedeni sol kalp olamaz.\nİntrakardiyak şantlar da aranır, çünkü doğumsal kalp hastalığının da dışlanması gerekir.\nSağ kalpte ise şunu hatırla: normal sağ ventrikül ince duvarlıdır, duvarı beş milimetreden incedir. Düşük basınçlıdır ve kompliyansı yüksektir. Ardyük artarsa ne olur? Birinci bölümde anlattığımız ilke burada da geçerli: akut ardyük artışında sağ ventrikül dilatasyonu, kronik ardyük artışında sağ ventrikül hipertrofisi görülür. 2022 2023 sınavının kırkıncı sorusunda doğru ifade olarak şu geçti: ekokardiyografide sağ ventrikül dilatasyonu ve azalmış sağ ventrikül ejeksiyon fraksiyonu saptanır.", "chars": 2137, "min": 2.0}, {"id": "k5b3_05", "title": "Doppler ve sağ kalp kateterizasyonu", "text": "Doppler, pulmoner basıncı invaziv olmayan yoldan tahmin etmemizi sağlar. Nasıl mı? Triküspit yetersizliği jetinin hızı, yani v ölçülür. Basitleştirilmiş Bernoulli denklemiyle sağ ventrikül ile sağ atriyum arasındaki basınç farkı hesaplanır: dört çarpı v kare. Buna tahmini sağ atriyum basıncı eklenince pulmoner arter sistolik basıncı elde edilir. Örneğin saniyede üç buçuk metrelik bir jet, yaklaşık kırk dokuz milimetre cıvalık bir fark demektir.\nBasınç yükü altındaki sağ ventrikül septumu düzleştirir. Kısa eksen kesitinde sol ventrikül, D harfi biçiminde görünür. Sağ ventrikülün sistolik fonksiyonu ise triküspit halkasının sistolik hareketiyle, yani TAPSE ile ölçülür.\nKOAH'lı hastada bir sorun daha var: aşırı havalanmış akciğer ses dalgalarını geçirmez. Ekokardiyografik pencere kötü olabilir ve görüntü kalitesi sınırlı kalabilir.\nSon olarak sağ kalp kateterizasyonu. Pulmoner hipertansiyonun kesin tanısı bununla konur. Kateter sağ atriyum ve sağ ventrikülden geçerek pulmoner artere ilerletilir ve üç değer ölçülür.\nBir: ortalama pulmoner arter basıncı. Tanı ölçütüdür. Sunuma göre yirmi beş milimetre cıvanın üzerinde olmalıdır.\nİki: pulmoner kapiller kama basıncı. Kateterin ucundaki balon küçük bir pulmoner arter dalını tıkadığında ölçülen bu basınç, sol atriyum basıncını yansıtır. On beş milimetre cıva ya da daha düşükse sol kalp normaldir ve pulmoner hipertansiyon prekapillerdir, yani akciğer ya da pulmoner damar kaynaklıdır. Yüksekse sorun sol kalptedir.\nÜç: pulmoner vasküler direnç. Basınç farkının debiye oranıdır ve damar yatağının ne kadar daraldığını gösterir.\nKateterizasyon sırasında inhale nitrik oksitle akut vazoreaktivite testi de yapılabilir. Basıncı belirgin olarak düşen az sayıdaki hasta, kalsiyum kanal blokerlerinden yarar görür. Bunu tedavi bölümünde konuşacağız.\nBu bölümden dört yılda toplam beş soru çıktı: 2022 2023 sınavında iki, 2023 2024 sınavında bir, 2024 sınavında bir ve 2025 2026 sınavında bir. \"Kor pulmonalenin EKG'sinde P mitrale beklenir\" ifadesinin yanlışlığı her yıl, toplam dört kez soruldu. 2022 2023 sınavında buna bir de \"sol atriyum büyümesine bağlı P pulmonale\" çeldiricisi eklendi. Şimdi bu soruları birlikte çözelim.", "chars": 2184, "min": 2.1}, {"id": "k5b3_06", "title": "Soru 1", "text": "Soru bir. Bu soru dört sınavın dördünde de soruldu: 2025 2026 sınavının on sekizinci, 2024 sınavının otuz beşinci, 2023 2024 sınavının otuz yedinci ve 2022 2023 sınavının otuz dokuzuncu sorusu.\nKor pulmonale EKG'si ile ilgili olarak aşağıdakilerden hangisi yanlıştır?\nA: P pulmonale sağ atriyum büyümesini işaret eder.\nB: Sağ aks sapması beklenir.\nC: Atriyal fibrilasyon görülebilir.\nD: P mitrale görülmesi beklenir.\nE: Komplet ya da inkomplet sağ dal bloğu görülebilir.\nVideoyu durdurup düşünebilirsin.", "chars": 503, "min": 0.5}, {"id": "k5b3_07", "title": "Soru 1 cevap", "text": "Cevap D. Yani yanlış olan ifade D şıkkı. P mitrale, sol atriyum büyümesinin bulgusudur. Geniş, çift tepeli bir P dalgasıdır ve mitral darlık gibi sol kalp hastalıklarında görülür. Kor pulmonalede büyüyen sağ atriyumdur ve beklenen bulgu P pulmonaledir. 2024 sınavında bu sorunun şıkları kayda geçmemiş, ama cevap aynı.\nDiğer şıklara bakalım. A doğru: P pulmonale, D iki, D üç ve a V F derivasyonlarında iki buçuk milimetreden yüksek, sivri bir P dalgasıdır. B doğru: kalınlaşan sağ ventrikül QRS vektörünü sağa çevirir, eksen artı yüz on dereceyi geçer. C doğru: genişlemiş sağ atriyum ve hipoksi atriyal fibrilasyonu kolaylaştırır. E doğru: gerilen sağ dalda iletim gecikir.", "chars": 675, "min": 0.6}, {"id": "k5b3_08", "title": "Soru 2", "text": "Soru iki. 2022 2023 sınavı, kırk birinci soru.\nKor pulmonale ile ilgili aşağıdakilerden hangisi yanlıştır?\nA: Pulmoner hipertansiyon ve ciddiyeti kötü prognozla ilişkilidir.\nB: Sol atriyum büyümesine bağlı P pulmonale gelişebilir.\nC: Sağ ventrikülde hipertrofi ve dilatasyon gelişebilir.\nD: Ödem, sağ kalp yetersizliğinin bir bulgusudur.\nE: KOAH'a bağlı akciğerlerde ronküsler duyulabilir.\nDurdur ve düşün.", "chars": 406, "min": 0.4}, {"id": "k5b3_09", "title": "Soru 2 cevap", "text": "Cevap B. Yanlış ifade B şıkkı. P pulmonale sağ atriyum büyümesine bağlıdır. Sol atriyum büyümesinin karşılığı P mitraledir.\nBu sorunun ilginç bir yanı var. Sonraki yıllarda sorulan \"periferik ödem sol kalp yetersizliğinin bulgusudur\" sorusunun, yani ikinci bölümdeki ikinci sorunun önceki biçimidir. O soruda B şıkkı doğru hâliyle, \"sağ atriyum büyümesine bağlı\" olarak, D şıkkı ise yanlış hâliyle yer aldı.\nA, C, D ve E doğrudur: pulmoner hipertansiyon prognozu kötüleştirir, sağ ventrikülde hipertrofi ve dilatasyon gelişir, ödem sağ kalp yetersizliğinin bulgusudur ve ronküs, altta yatan KOAH'tan kaynaklanır.", "chars": 612, "min": 0.6}, {"id": "k5b3_10", "title": "Pekiştirme sorusu", "text": "Son olarak, konuyu pekiştirmek için hazırlanmış yeni bir soru.\nAğır KOAH'lı bir hastanın EKG'sinde aşağıdaki bulgulardan hangisinin kor pulmonaleye bağlı olması en az olasıdır?\nA: D ikide üç milimetre yüksekliğinde sivri P dalgası.\nB: QRS ekseninin artı yüz yirmi derece olması.\nC: V birde, R'nin S'ye oranının birden büyük olması.\nD: D birde derin S, D üçte Q dalgası.\nE: V beş ve V altıda yüksek R dalgaları ile birlikte sol eksen sapması.\nDurdur ve düşün.", "chars": 458, "min": 0.4}, {"id": "k5b3_11", "title": "Pekiştirme sorusu cevap", "text": "Cevap E. V beş ve V altıda yüksek R dalgaları ve sol eksen sapması, sol ventrikül hipertrofisinin bulgularıdır. Kor pulmonalede QRS vektörü sağa ve öne döner. V altıda tam tersine derin bir S görülür, yani R'nin S'ye oranı birden küçüktür. Bu bulguyu görürsen, eşlik eden bir sol kalp hastalığını, örneğin hipertansif kalp hastalığını düşünmelisin.\nA şıkkı P pulmonaledir. B, artı yüz on dereceyi aşan sağ eksen sapmasıdır. C, V birde R'nin S'ye oranının birden büyük olmasıdır. D ise S bir Q üç paternidir. Dördü de sunumdaki kor pulmonale EKG bulgularıdır.\nBölüm üçün sonuna geldik. Bir sonraki bölümde kor pulmonalenin tedavisini konuşacağız.", "chars": 645, "min": 0.6}], "style": "Aşağıdaki Türkçe metni, sosyal medyada tıp eğitimi videoları anlatan enerjik, samimi ve akıcı bir anlatıcı gibi oku. Hızın orta-hızlı olsun. Önemli terimleri, sayıları ve doğru cevapları sesinle hafifçe vurgula; soru cümlelerinden ve \"Durdur ve düşün\" cümlesinden sonra kısa bir es ver. Metni kelimesi kelimesine oku: hiçbir şeyi atlama, ekleme, çevirme ya da özetleme."}</script>
+<script>
+(function () {
+  var D = JSON.parse(document.getElementById("data").textContent);
+  var KEY = "k5b3-done";
+  var done = {};
+  try { done = JSON.parse(localStorage.getItem(KEY) || "{}") || {}; } catch (e) { done = {}; }
+  function save() { try { localStorage.setItem(KEY, JSON.stringify(done)); } catch (e) {} }
+  function selectText(el) {
+    try { var r = document.createRange(); r.selectNodeContents(el); var s = window.getSelection(); s.removeAllRanges(); s.addRange(r); } catch (e) {}
+  }
+  function copy(text, el, toast) {
+    function ok() { toast.textContent = "Kopyalandı. AI Studio'ya yapıştırabilirsin."; }
+    function fail() { selectText(el); toast.textContent = "Otomatik kopyalama çalışmadı; metin seçildi, Ctrl + C ile kopyala."; }
+    try {
+      if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(text).then(ok, fail); }
+      else { fail(); }
+    } catch (e) { fail(); }
+  }
+  var st = document.getElementById("style-text");
+  st.textContent = D.style;
+  document.getElementById("copy-style").addEventListener("click", function () { copy(D.style, st, document.getElementById("style-toast")); });
+
+  var wrap = document.getElementById("parts");
+  var prog = document.getElementById("progress");
+  function updateProgress() {
+    var n = D.parts.filter(function (p) { return done[p.id]; }).length;
+    prog.textContent = n + " / " + D.parts.length + " tamamlandı";
+  }
+  D.parts.forEach(function (p, i) {
+    var card = document.createElement("article");
+    card.className = "box part" + (done[p.id] ? " is-done" : "");
+    var head = document.createElement("div"); head.className = "boxhead";
+    var left = document.createElement("div");
+    var t = document.createElement("div"); t.className = "title"; t.textContent = "Parça " + (i + 1) + " · " + p.title;
+    var f = document.createElement("div"); f.className = "fname"; f.textContent = p.id + ".wav";
+    left.appendChild(t); left.appendChild(f);
+    var dur = document.createElement("div"); dur.className = "dur";
+    dur.textContent = p.chars.toLocaleString("tr-TR") + " karakter · yaklaşık " + String(p.min).replace(".", ",") + " dk";
+    head.appendChild(left); head.appendChild(dur);
+    var tb = document.createElement("div"); tb.className = "textblock"; tb.textContent = p.text;
+    var actions = document.createElement("div"); actions.className = "actions";
+    var btn = document.createElement("button"); btn.type = "button"; btn.textContent = "Metni kopyala";
+    var lab = document.createElement("label"); lab.className = "check";
+    var cb = document.createElement("input"); cb.type = "checkbox"; cb.id = "done-" + p.id; cb.checked = !!done[p.id];
+    lab.appendChild(cb); lab.appendChild(document.createTextNode("Tamamlandı"));
+    var toast = document.createElement("div"); toast.className = "toast"; toast.setAttribute("aria-live", "polite");
+    btn.addEventListener("click", function () { copy(p.text, tb, toast); });
+    cb.addEventListener("change", function () {
+      if (cb.checked) { done[p.id] = true; } else { delete done[p.id]; }
+      card.classList.toggle("is-done", cb.checked); save(); updateProgress();
+    });
+    actions.appendChild(btn); actions.appendChild(lab);
+    card.appendChild(head); card.appendChild(tb); card.appendChild(actions); card.appendChild(toast);
+    wrap.appendChild(card);
+  });
+  updateProgress();
+})();
+</script>

@@ -1,0 +1,85 @@
+<svg viewBox="0 0 640 486" width="100%" style="display:block" role="img" aria-label="Bronş duz kasi hucresinde gevseme ve kasilma yollari ve antiastmatik ilaclarin etki noktalari">
+  <defs><marker id="m44a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="m44ac" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="m44am" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="4" y="92" width="632" height="390" rx="10" fill="var(--color-accent-700)" fill-opacity="0.04" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1.2"/>
+  <text x="268.0" y="86.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hücre dışı</text>
+  <text x="268.0" y="106.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hücre içi</text>
+  <text x="95.0" y="16.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">β₂ agonist</text>
+  <text x="95.0" y="29.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">salbutamol, formoterol…</text>
+  <text x="415.0" y="16.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Asetilkolin</text>
+  <text x="415.0" y="29.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">(vagus siniri)</text>
+  <text x="560.0" y="16.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">LTC₄, LTD₄</text>
+  <text x="560.0" y="29.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">(mast, eozinofil)</text>
+  <line x1="95" y1="34" x2="95" y2="74" stroke="var(--color-accent-700)" stroke-width="1.5" marker-end="url(#m44ac)"/>
+  <line x1="415" y1="34" x2="415" y2="74" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44a)"/>
+  <line x1="560" y1="34" x2="560" y2="74" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44a)"/>
+  <line x1="404.0" y1="54" x2="426.0" y2="54" stroke="var(--color-accent-2-900)" stroke-width="3"/>
+  <line x1="549.0" y1="54" x2="571.0" y2="54" stroke="var(--color-accent-2-900)" stroke-width="3"/>
+  <text x="402.0" y="51.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">antimuskarinik</text>
+  <text x="402.0" y="63.0" text-anchor="end" font-family="var(--font-body)" font-size="9.6" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">ipratropium, tiotropium</text>
+  <text x="574.0" y="51.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">LTRA</text>
+  <text x="574.0" y="63.0" text-anchor="start" font-family="var(--font-body)" font-size="9.6" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">montelukast</text>
+  <rect x="30" y="76" width="130" height="32" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="95.0" y="95.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">β₂ reseptörü</text>
+  <rect x="360" y="76" width="110" height="32" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="415.0" y="95.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">M₃ reseptörü</text>
+  <rect x="490" y="76" width="130" height="32" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="555.0" y="95.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">CysLT₁ reseptörü</text>
+  <text x="170.0" y="126.0" text-anchor="start" font-family="var(--font-body)" font-size="9.8" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">kortikosteroid:</text>
+  <text x="170.0" y="138.0" text-anchor="start" font-family="var(--font-body)" font-size="9.8" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">β₂ reseptör sayısı ↑</text>
+  <rect x="30" y="122" width="130" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="95.0" y="136.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Gs proteini</text>
+  <text x="95.0" y="149.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">αs-GTP</text>
+  <rect x="30" y="172" width="130" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="95.0" y="192.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Adenilil siklaz ↑</text>
+  <rect x="30" y="222" width="130" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="95.0" y="242.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">ATP → cAMP ↑</text>
+  <rect x="30" y="272" width="130" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="95.0" y="292.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Protein kinaz A (PKA)</text>
+  <line x1="95" y1="108" x2="95" y2="118" stroke="var(--color-accent-700)" stroke-width="1.5" marker-end="url(#m44ac)"/>
+  <line x1="95" y1="156" x2="95" y2="170" stroke="var(--color-accent-700)" stroke-width="1.5" marker-end="url(#m44ac)"/>
+  <line x1="95" y1="206" x2="95" y2="220" stroke="var(--color-accent-700)" stroke-width="1.5" marker-end="url(#m44ac)"/>
+  <line x1="95" y1="256" x2="95" y2="270" stroke="var(--color-accent-700)" stroke-width="1.5" marker-end="url(#m44ac)"/>
+  <rect x="186" y="222" width="118" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="245.0" y="236.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Fosfodiesteraz</text>
+  <text x="245.0" y="249.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">cAMP → AMP</text>
+  <line x1="161" y1="239" x2="184" y2="239" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44a)"/>
+  <line x1="173" y1="229.0" x2="173" y2="249.0" stroke="var(--color-accent-2-900)" stroke-width="3"/>
+  <text x="245.0" y="198.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">teofilin, aminofilin</text>
+  <text x="245.0" y="210.0" text-anchor="middle" font-family="var(--font-body)" font-size="9.6" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">(PDE inhibitörü)</text>
+  <rect x="10" y="318" width="296" height="70" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="20.0" y="334.7" text-anchor="start" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">PKA'nın etkileri</text>
+  <text x="20.0" y="349.2" text-anchor="start" font-family="var(--font-body)" font-size="10.3" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">· MLCK fosforillenir, aktivitesi azalır</text>
+  <text x="20.0" y="363.7" text-anchor="start" font-family="var(--font-body)" font-size="10.3" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">· Ca²⁺ SR'ye alınır ve hücreden atılır</text>
+  <text x="20.0" y="378.2" text-anchor="start" font-family="var(--font-body)" font-size="10.3" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">· K⁺ kanalları açılır → hiperpolarizasyon</text>
+  <line x1="95" y1="306" x2="95" y2="316" stroke="var(--color-accent-700)" stroke-width="1.5" marker-end="url(#m44ac)"/>
+  <rect x="40" y="410" width="230" height="40" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="155.0" y="426.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">GEVŞEME</text>
+  <text x="155.0" y="441.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">bronkodilatasyon</text>
+  <line x1="155" y1="388" x2="155" y2="406" stroke="var(--color-accent-700)" stroke-width="1.5" marker-end="url(#m44ac)"/>
+  <path d="M415,108 L470,120" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44a)"/>
+  <path d="M555,108 L520,120" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44a)"/>
+  <rect x="430" y="122" width="170" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="515.0" y="142.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Gq proteini</text>
+  <rect x="430" y="172" width="170" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="515.0" y="192.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Fosfolipaz C → IP₃</text>
+  <rect x="430" y="222" width="170" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="515.0" y="236.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">SR'den Ca²⁺ salınır</text>
+  <text x="515.0" y="249.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hücre içi Ca²⁺ ↑</text>
+  <rect x="430" y="272" width="170" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="515.0" y="286.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Ca²⁺-kalmodulin</text>
+  <text x="515.0" y="299.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">MLCK aktifleşir</text>
+  <rect x="430" y="322" width="170" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="515.0" y="336.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.6" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Miyozin hafif zinciri</text>
+  <text x="515.0" y="349.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">fosforillenir</text>
+  <line x1="515" y1="156" x2="515" y2="170" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44a)"/>
+  <line x1="515" y1="206" x2="515" y2="220" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44a)"/>
+  <line x1="515" y1="256" x2="515" y2="270" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44a)"/>
+  <line x1="515" y1="306" x2="515" y2="320" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44a)"/>
+  <rect x="430" y="410" width="170" height="40" rx="4" fill="white" stroke="var(--color-accent-2-900)" stroke-width="1.5"/>
+  <text x="515.0" y="426.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">KASILMA</text>
+  <text x="515.0" y="441.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">bronkokonstriksiyon</text>
+  <line x1="515" y1="356" x2="515" y2="406" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#m44a)"/>
+  <path d="M160,289 L420,289" fill="none" stroke="var(--color-accent-700)" stroke-width="1.4" stroke-dasharray="5 4"/>
+  <line x1="424" y1="279" x2="424" y2="299" stroke="var(--color-accent-700)" stroke-width="2.6"/>
+  <text x="330.0" y="283.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">PKA, MLCK'yi baskılar</text>
+</svg>

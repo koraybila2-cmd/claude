@@ -1,0 +1,28 @@
+<svg viewBox="0 0 640 356" width="100%" style="display:block" role="img" aria-label="Kronik bronsit, amfizem, astim ve hava yolu obstruksiyonunun iliskisi; KOAH alani">
+  <defs><marker id="m41a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="m41ac" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="m41am" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <defs><clipPath id="m41clip"><rect x="30" y="125" width="580" height="125"/></clipPath></defs>
+  <g opacity="0.16" clip-path="url(#m41clip)"><ellipse cx="235" cy="150" rx="160" ry="80" fill="var(--color-accent-700)"/><ellipse cx="405" cy="150" rx="160" ry="80" fill="var(--color-accent-700)"/></g>
+  <rect x="30" y="125" width="580" height="125" rx="4" fill="none" stroke="var(--color-accent-700)" stroke-width="1.6" stroke-dasharray="6 4"/>
+  <ellipse cx="235" cy="150" rx="160" ry="80" fill="none" stroke="var(--color-neutral-700)" stroke-opacity="0.75" stroke-width="1.3"/>
+  <ellipse cx="405" cy="150" rx="160" ry="80" fill="none" stroke="var(--color-neutral-700)" stroke-opacity="0.75" stroke-width="1.3"/>
+  <ellipse cx="320" cy="245" rx="125" ry="58" fill="none" stroke="var(--color-accent-2-900)" stroke-width="1.3" stroke-dasharray="3 3"/>
+  <text x="36.0" y="22.0" text-anchor="start" font-family="var(--font-body)" font-size="13" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Kronik bronşit</text>
+  <text x="36.0" y="37.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">klinik tanım: ≥ 2 yıl üst üste,</text>
+  <text x="36.0" y="50.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">yılda ≥ 3 ay öksürük ve balgam</text>
+  <text x="604.0" y="22.0" text-anchor="end" font-family="var(--font-body)" font-size="13" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Amfizem</text>
+  <text x="604.0" y="37.0" text-anchor="end" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">patolojik tanım: terminal bronşiol</text>
+  <text x="604.0" y="50.0" text-anchor="end" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">distalinde kalıcı genişleme ve yıkım</text>
+  <text x="165.0" y="98.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">obstrüksiyon</text>
+  <text x="165.0" y="110.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">yoksa KOAH değil</text>
+  <text x="475.0" y="98.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">obstrüksiyon</text>
+  <text x="475.0" y="110.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">yoksa KOAH değil</text>
+  <text x="320.0" y="172.0" text-anchor="middle" font-family="var(--font-body)" font-size="19" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">KOAH</text>
+  <circle cx="320" cy="200" r="3" fill="var(--color-accent-2-900)"/>
+  <line x1="317" y1="203" x2="204" y2="284" stroke="var(--color-accent-2-900)" stroke-width="1" stroke-opacity="0.8"/>
+  <text x="200.0" y="292.0" text-anchor="end" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">astım-KOAH örtüşmesi</text>
+  <text x="456.0" y="282.0" text-anchor="start" font-family="var(--font-body)" font-size="13" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Astım</text>
+  <text x="456.0" y="297.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">değişken, çoğunlukla</text>
+  <text x="456.0" y="310.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">geri dönüşlü obstrüksiyon</text>
+  <text x="36.0" y="330.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">- - - kalıcı hava yolu obstrüksiyonu</text>
+  <text x="36.0" y="344.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">(bronkodilatör sonrası FEV₁/FVC &lt; 0,70)</text>
+</svg>

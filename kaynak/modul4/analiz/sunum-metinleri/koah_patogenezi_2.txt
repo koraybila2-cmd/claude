@@ -1,0 +1,131 @@
+                                       KOAH Patogenezi
+                                                                       Dr. Göksel Altınışık Ergur
+1. Giriş ve Tanım
+Kronik Obstrüktif Akciğer Hastalığı (KOAH), kronik inflamatuvar bir sürecin sonucu olarak
+gelişen, genellikle ilerleyici ve kalıcı hava akımı kısıtlanması ile seyreden yaygın bir hastalıktır.
+Temelinde, zararlı partikül ve gazlara karşı akciğer ve hava yollarında gelişen anormal bir
+yangısal yanıt vardır. KOAH önlenebilir ve tedavi edilebilir bir hastalık olmakla birlikte,
+zamanla ilerleyici seyri, sık alevlenmeleri ve eşlik eden komorbiditeler nedeniyle önemli bir
+morbidite ve mortalite sebebidir.
+2. Klinik Alt Tipler ve Temel Kavramlar
+KOAH, heterojen yapıda bir hastalıktır. Farklı klinik tablolar bir arada olabilir. Başlıca klinik
+alt tipler şunlardır:
+       Kronik bronşit: Başka bir hastalıkla açıklanamayan, birbirini izleyen en az iki yıl
+        boyunca, her yıl en az üç ay devam eden öksürük ve balgam çıkarma durumu.
+       Amfizem: Terminal bronşiollerin distalinde, belirgin fibrozis olmaksızın alveol
+        duvarlarında hasar ve kalıcı genişleme.
+       Astım ile KOAH’ın birlikte olduğu duruma “astım-KOAH overlap” dendiği gibi,
+        KOAH tanısı dışında yer alan astımdan farklı olarak KOAH’taki inflamatuvar süreç ve
+        hava akımı kısıtlanması daha kalıcı ve ilerleyicidir. Astım ise, KOAH’tan farklı olarak,
+        geri dönüşlü hava yolları darlığı ile seyreden, tanısı klinik olarak konan bir hava yolu
+        hastalığıdır.
+Bu alt tipler çoğu kez iç içe geçmiştir; örneğin kronik bronşiti olan bir hastada amfizem
+bulguları da eşlik edebilir.
+3. Patofizyoloji ve Temel Mekanizmalar
+3.1. Küçük Hava Yolu Hastalığı
+KOAH’ın en önemli yapısal temellerinden biri küçük hava yollarındaki hasardır. Bu süreçte:
+       Hava yollarında inflamasyon (yangı) gelişir, bronş lümeni daralır.
+       Fibrozis ve mukus tıkaçları hava yolu açıklığını azaltır.
+       Direnç artışı ve hava akımı kısıtlanması meydana gelir.
+3.2. Parankim Harabiyeti (Amfizem)
+Amfizem, alveol duvarlarında yıkım ve elastikiyet kaybı ile karakterizedir. Bu kayıplar sonucu:
+       Alveolerin küçük hava yollarının açık kalmasını sağlayan elastik recoil (çekiş desteği)
+        azalır.
+       Elastik lifler yıkım nedeniyle azalır.
+       Hava yollarının erken kapanması sonucu, ekspirasyon sırasında hava hapsi ve
+        hiperinflasyon (aşırı havalanma) gelişir.
+3.3. Sonuçlar
+      Ekspiratuvar akım hızlarında azalma
+      Ventilasyon-perfüzyon dengesinde bozulma
+      Statik ve dinamik hiperinflasyon
+Bu süreçler hastanın günlük yaşam aktivitelerini sınırlar, hipoksemi (arter kanındaki oksijen
+düzeyinin düşmesi) ve hiperkapniye (arter kanındaki karbondioksit düzeyinin artması) zemin
+hazırlar.
+4. Risk Faktörleri
+4.1. Çevresel Faktörler
+      Sigara içimi: KOAH’ın en önemli nedenidir. Aktif içicilik dışında pasif içicilik ve
+       üçüncü el maruziyet de etkilidir.
+      Biyomas maruziyeti: Özellikle kırsal bölgelerde, ev içi ısınma ve yemek pişirme
+       sırasında kullanılan organik yakıtların (tezek gibi) yanması sonucu ortaya çıkan duman
+       KOAH için ciddi bir risk oluşturur.
+      Mesleki maruziyetler: Toz, duman, kimyasal gazlarla uzun süreli karşılaşma.
+      Hava kirliliği: İç ve dış ortam kirliliği.
+      Sosyoekonomik koşullar ve beslenme: Yetersiz antioksidan alımı.
+      Enfeksiyonlar: Çocukluk çağında geçirilen solunum yolu enfeksiyonları KOAH riskini
+       artırabilir
+4.2. Konakçıya Ait Faktörler
+      Alfa-1 antitripsin eksikliği (Kromozom 14’teki doğuştan genetik bir kusurdan
+       kaynaklanır. ZZ homozigot genotip ağır yetmezlikle birlikte genç yaşta gelişen
+       panlobüler (panasiner) amfizem tipinden sorumludur. Sigara öyküsü belirgin olmayan,
+       genç yaşta, ailede amfizem öyküsü olan ve tarif edilen tip amfizem saptadığımız
+       hastalarda araştırılması önemlidir. Bu hastaların sigara içmeleri durumunda klinik tablo
+       çok daha ağırdır.)
+      Genetik yatkınlık ve aile öyküsü
+      Etnik faktörler
+      Yaşlanma
+      Hava yolu hiperreaktivitesi (aşırı duyarlılığı), atopi (genetik olarak IgE salgılanmasında
+       aşırılık)
+      Düşük doğum ağırlığı
+5. Patogenez Mekanizmaları
+5.1. Kronik İnflamasyon
+KOAH’ta inflamatuvar yanıt, normal bireylere göre abartılıdır. Sigara dumanı ve diğer zararlı
+partiküller:
+      Epitel hücrelerinde hasar oluşturur.
+      İnflamatuvar hücrelerin akciğere göçünü artırır.
+Makrofajlar: KOAH inflamasyonunun temel hücreleridir. TNF-α, IL-8 ve LTB4 salgılayarak
+nötrofilleri akciğere çekerler.
+Nötrofiller: Balgamda ve hava yolu lümeninde artar. Elastaz salgılayarak mukus üretimini
+artırır, alveol yıkımına neden olur.
+T lenfositler: Özellikle CD8+ sitotoksik T hücreleri baskındır. Perforin ve granzim B
+salgılayarak alveol epitel hücrelerinin apopitozisine yol açarlar. CD4/CD8 oranı tersine
+dönmüştür.
+B lenfositler: Küçük hava yollarında ve lenfoid folliküllerde bulunur. Kronik enfeksiyon ve
+otoimmünite olasılığını düşündürür.
+Eozinofiller: Özellikle KOAH alevlenmeleri sırasında artar. Asıl olarak astım patogenezinde
+yer alan hücrelerdir.
+5.2. Oksidatif Stres
+      Sigara dumanı, biyomas ve inflamatuvar hücrelerden kaynaklanan reaktif oksijen
+       türleri (ROS) oksidatif stresi artırır.
+      Oksidan-antioksidan dengesi bozulmuştur; Nrf2 transkripsiyon faktöründeki azalma
+       endojen antioksidanların azalmasına yol açar.
+      Oksidatif stres; DNA hasarı, inflamasyonun sürmesi ve steroid direncine yol açar.
+5.3. Proteaz – Antiproteaz Dengesizliği
+      Proteazlar (nötrofil elastaz, katepsinler, Matriks metaloproteinaz (MMP)’ler) alveol
+       duvarını parçalayarak amfizeme yol açar.
+      Antiproteazlar [α1-antitripsin, sekretuvar lökosit proteaz inhibitör (SLPI), doku
+       matriks metaloproteinaz inhibitorleri (TMMPI)] bu etkiyi dengelemeye çalışır.
+      Dengesizlik amfizemin temel mekanizmasını oluşturur.
+6. Patolojik Değişiklikler
+      Proksimal hava yolları: Mukus bez hipertrofisi, goblet hücre artışı.
+      Periferik hava yolları: Fibrozis, mukus tıkaçları.
+      Akciğer parankimi: Alveol yıkımı, elastiklikte kayıp.
+      Pulmoner damarlar:         Vasküler    yeniden     yapılanma   (remodeling),   pulmoner
+       hipertansiyon.
+Bu değişiklikler sonucunda KOAH hastasında hava akımı kısıtlanması klinik olarak belirgin
+hâle gelir.
+7. Eşlik Eden Hastalıklar (Komorbiditeler)
+KOAH yalnızca akciğerleri etkileyen bir hastalık değildir; sistemik etkileri vardır.
+      İskelet kas atrofisi ve kaşeksi
+      Kardiyovasküler hastalıklar (koroner arter hastalığı, kalp yetmezliği)
+      Metabolik sendrom (hipertansiyon, diyabet, dislipidemi)
+      Osteoporoz
+      Akciğer kanseri
+      Obstrüktif uyku apne sendromu
+      Depresyon ve anksiyete
+8. Sonuç
+KOAH gelişiminde üç temel mekanizma öne çıkar: inflamasyon, oksidatif stres ve proteaz–
+antiproteaz dengesizliği. Bu mekanizmalar birlikte işleyerek hava yollarında daralma, alveol
+harabiyeti ve pulmoner damar değişiklikleri oluşturur. Sonuçta ortaya çıkan kalıcı hava akımı
+kısıtlanması, hastalığın klinik tablosunu ortaya çıkarır.
+KOAH’ın en önemli risk faktörü sigara içimidir; biyomas maruziyeti de özellikle kadınlarda
+dikkate alınmalı, hastalarda sorgulanmalıdır. Hastalığın kronik seyri, alevlenmeleri ve eşlik
+eden sistemik hastalıklarla birleştiğinde, KOAH küresel ölçekte ciddi bir sağlık sorunudur. Geri
+dönüşsüz ve ilerleyici bir yangısal hastalık olup etkeni olan tütün ve tütün ürünlerinin kontrolü,
+mesleki maruziyetin önlenmesi, hava kirliliğinin ortadan kaldırılmasına yönelik önlemler,
+erken tanı ile etkili tedaviye hızla başlanması bu sorunla başa çıkmak için en önemli adımlardır.
+Politik karar alıcılar ve bireylerin ortak ve kararlı çabalarına gereksinim duymaktadır. Bu da
+ancak geniş kapsamda bir farkındalık ve bilinçlenme ile mümkün olabilir.
+
+
+Dersin video kaydına ulaşmak için: https://youtu.be/1l_czfYtf0w?si=bn4iziAJddCuR1sH
+
