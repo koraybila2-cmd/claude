@@ -14,9 +14,9 @@
       "#s2 .toc > li:nth-child(2)",
       "#s2 .toc > li:nth-child(3)",
       "#s2 .toc > li:nth-child(4)",
-      "#s3",
-      "#s3 > figure",
-      "#s3 > figure",
+      "#s3 > h2, #s3 > figure",
+      "#s3 .chart-caption",
+      "#s3 .chart-caption",
       "#s2 .toc > li:nth-child(1)"
     ]
   }

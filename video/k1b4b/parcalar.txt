@@ -72,7 +72,7 @@ Aşağıdaki hastalıklardan hangisinde nefes darlığı ilerleyici, yani progre
 Bu sorunun şıkları kaynakta kayıtlı değil.
 Durdur ve düşün.
 Cevap E şıkkı: KOAH. KOAH'ta hava akımı kısıtlanması kalıcıdır ve yıllar içinde artar. Bu yüzden nefes darlığı ilerleyici, süregen ve eforla artan bir karakter taşır. Hasta önce yokuşta, sonra düz yolda, en sonunda giyinirken nefes darlığı çeker.
-Şıklar kaynakta yok, ama bu sorunun karşılaştırıldığı tipik hastalık astımdır. Astımda nefes darlığı ataklar hâlindedir. Alerjen, egzersiz, soğuk ya da enfeksiyon gibi tetikleyicilerle gelir ve ataklar arasında hasta tamamen normal olabilir. Diğer olası şıklar, örneğin pnömotoraks, pulmoner emboli ya da pnömoni ise ani başlangıçlı nefes darlığı yapar.
+Şıklar kaynakta yok, ama bu sorunun karşılaştırıldığı tipik hastalık astımdır. Astımda nefes darlığı ataklar hâlindedir. Nefes darlığı tetikleyicilerle gelir: alerjen, egzersiz, soğuk ve enfeksiyon. Ve ataklar arasında hasta tamamen normal olabilir. Diğer olası şıklar, örneğin pnömotoraks, pulmoner emboli ya da pnömoni ise ani başlangıçlı nefes darlığı yapar.
 Soru üç: 2023 2024 sınavı, yirmi sekizinci soru.
 Kifoskolyozu ve elli paket yıl sigara öyküsü olan bir hastanın solunum fonksiyon testi bulgusu aşağıdakilerden hangisi olabilir?
 Bu sorunun da şıkları kaynakta kayıtlı değil.
@@ -91,7 +91,7 @@ Soru beş: 2023 2024 sınavı, otuz birinci soru.
 KOAH evrelemesinde aşağıdakilerden hangisi katkıda bulunmaz?
 Şıklar kaynakta kayıtlı değil.
 Durdur ve düşün.
-Cevap E şıkkı: DLCO derecesi. GOLD değerlendirmesi üç bilgiye dayanır. Birincisi spirometrik ağırlık: bronkodilatör sonrası FEV bir ile belirlenen GOLD bir ile dört arası dereceler. İkincisi semptomlar, yani m M R C ya da CAT. Üçüncüsü son bir yıldaki alevlenme öyküsü, yani A, B ve E grupları. DLCO bu sistemin parçası değildir.
+Cevap E şıkkı: DLCO derecesi. GOLD değerlendirmesi üç bilgiye dayanır. Birincisi spirometrik ağırlık: bronkodilatör sonrası FEV bir ile belirlenen GOLD bir ile dört arası dereceler. İkincisi semptomlar, yani m M R C ya da CAT. Üçüncüsü son bir yıldaki alevlenme öyküsü. Bu öykü, hastaları A, B ve E gruplarına ayırmada kullanılır. DLCO bu sistemin parçası değildir.
 Evrelemeye katkıda bulunanlar, yani sorunun muhtemel diğer şıkları şunlardır: FEV bir, m M R C, CAT skoru, alevlenme sayısı ve hastaneye yatış öyküsü. DLCO amfizemin şiddetini gösterir ve cerrahi kararında kullanılır, ama evrelemede yer almaz.
 Soru altı: 2023 2024 sınavı, yirmi birinci soru.
 KOAH olgularında en sık kullanılan semptom takip skoru hangisidir?
