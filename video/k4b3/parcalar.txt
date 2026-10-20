@@ -1,0 +1,176 @@
+### k4b3_01 | Giriş, parasempatik kontrol ve muskarinik reseptörler
+Antiastmatik İlaçlar ve KOAH Farmakoterapisi. Bölüm üç, diğer bronkodilatörler: Antimuskarinikler ve Metilksantinler.
+Beta iki agonistlerin dışında iki bronkodilatör grubu daha var ve ikisi birbirinin neredeyse zıttı. Antimuskarinikler, hava yolunu daraltan en önemli sinirsel girdiyi, yani vagusu susturur. İnhalasyonla verilirler, sistemik dolaşıma çok az geçerler ve kalp açısından en güvenli bronkodilatörlerdir.
+Metilksantinler ise beta iki agonistlerin kullandığı siklik AMP yoluna, yıkım tarafından katılır. Ağızdan ya da damardan verilirler, bütün vücuda dağılırlar ve terapötik indeksi en dar antiastmatiklerdir.
+Bu bölümün sınav soruları da bu zıtlık üzerine kurulu. Hangi muskarinik reseptör? Hangi ilaç ataka eklenir? Kalp hastasında hangi bronkodilatör seçilir? Ve teofilinin hangi özelliği yanlış verilmiştir?
+Üç nokta bir: hava yolunun parasempatik kontrolü ve muskarinik reseptörler. Bölüm iki nokta birde, bronş düz kasına sempatik sinir lifinin neredeyse hiç ulaşmadığını gördük. Hava yolunun sinirsel tonusunu belirleyen sistem parasempatiktir.
+Sunumun özetiyle: asetilkolin, vagus sinirinin efferent sonlanmalarından salınır ve M üç reseptörleri aracılığıyla bronkokonstriksiyon yapar. Sağlıklı insanda da hafif bir vagal tonus vardır. Bu tonus hava yolunu sürekli biraz dar tutar. Atropin verilen sağlıklı bir kişide bile hava yolu bir miktar genişler.
+Ama vagal tonus yalnızca sabit bir arka plan değildir. Bir refleksle anlık olarak artabilir. Bu refleksi adım adım izleyelim.
+Birinci adım: hava yolu epitelinin altında duyusal sinir uçları bulunur, yani irritan reseptörler ve C lifleri. Soğuk hava, sigara dumanı, toz, keskin kokular ve histamin bu uçları uyarır.
+İkinci adım: uyarı, vagusun afferent lifleriyle beyin sapına taşınır.
+Üçüncü adım: beyin sapından çıkan vagal efferent uyarı, hava yolu duvarındaki parasempatik gangliona, oradan da postganglionik sinir uçlarına ulaşır.
+Dördüncü adım: sinir uçlarından salınan asetilkolin düz kası kasar ve bezlerden mukus salgılatır.
+Astımlı hastada epitel hasarlıdır. Bu yüzden duyusal sinir uçları açıkta kalır ve refleks abartılı çalışır. KOAH'ta ise hava yolu daralmasının ilaçla geri döndürülebilen kısmının büyük bölümü, artmış vagal tonustan kaynaklanır. Antimuskariniklerin KOAH'ta astımdakinden daha değerli olmasının nedeni budur.
+Asetilkolin hava yolunda üç farklı muskarinik reseptör alt tipine etki eder ve bunların işlevleri birbirinden çok farklıdır. Bunu Şekil üç nokta birde de göreceğiz. Tabloda her reseptörün yerini, normal işlevini ve bloke edilirse ne olduğunu görüyorsun.
+Birinci satır: M bir reseptörü. Yeri parasempatik ganglionlardır. Normal işlevi, gangliondaki iletimi kolaylaştırmaktır. Bloke edilirse vagal iletim azalır. Bu, istenen etkidir.
+İkinci satır: M iki reseptörü. Yeri postganglionik sinir uçlarıdır, burada bir otoreseptördür. Ayrıca düz kasta ve kalpte de bulunur, kalpteki yeri S A düğümüdür. Normal işlevi, salınan asetilkolinin kendi salınımını frenlemesidir, yani negatif geri bildirim. Kalpte ise kalp hızını yavaşlatır. Bloke edilirse fren kalkar ve daha çok asetilkolin salınır. Bu, istenmeyen etkidir. Kalpte ise taşikardi olur.
+Üçüncü satır: M üç reseptörü. Yeri bronş düz kası ve submukozal bezlerdir. Normal işlevi şu zincirdir: G q, fosfolipaz C, I P üç, kalsiyum artışı ve sonunda kasılma. Bezlerde ise mukus salgısı. Bloke edilirse bronkodilatasyon olur ve mukus salgısı azalır. Asıl hedef budur.
+Sınavda sorulan bilgi buradan çıkar: bronş düz kasında gevşeme, M üç reseptörünün inhibisyonuyla olur. Bu, 2025 2026 sınavının otuz üçüncü sorusuydu. M iki reseptörünün inhibisyonu ise tersine, sinir ucundan daha çok asetilkolin salınmasına neden olur. İdeal bir antimuskarinik, M üç ve M biri bloke etmeli, M ikiyi serbest bırakmalıdır.
+Ekrandaki şekil üç nokta bir, hava yolundaki parasempatik yolu ve muskarinik reseptörleri gösteriyor. Üstte soldan sağa üç kutu var. Birincisi vagus siniri, yani preganglionik lif. Bir ok ikinci kutuya gidiyor: parasempatik ganglion. Burada M bir, iletimi kolaylaştırır. Bir ok daha üçüncü kutuya gidiyor: postganglionik sinir ucu. Burada asetilkolin salınır.
+Sinir ucundan inen ve üzerinde A C H, yani asetilkolin yazan ok, alttaki üç kutuya dağılıyor. Soldaki kutu M üç ve submukozal bez: mukus salgısı artar. Ortadaki kutu M üç ve bronş düz kası: G q, I P üç ve kalsiyum artışı, yani bronkokonstriksiyon. Bu iki kutuya giden okları kesici çizgiler kesiyor ve yanlarında M üç blokajı yazıyor. Sağdaki kutu ise M iki, sinir ucunda: asetilkolin salınımını frenler, yani negatif geri bildirim. Bu kutudan sinir ucuna kesikli bir çizgi geri dönüyor.
+Şeklin ortasında iki kutu daha var. Soldaki: ipratropium, kısa etkili, dört ile sekiz saat. M bir, M iki ve M üçü ayırt etmeden bloke eder. M iki blokajı sinir ucundaki freni kaldırır: daha çok asetilkolin salınır ve M üç blokajının bir kısmı boşa gider. Sağdaki: tiotropium, uzun etkili, yirmi dört saat ya da daha uzun. M ikiden hızlı, M üç ve M birden çok yavaş ayrılır. M iki freni kısa sürede yeniden çalışır, M üç blokajı ise bir günden uzun sürer. Bunun adı kinetik seçicilik.
+Şeklin alt kısmında bir çubuk grafik var: tiotropiumun reseptörden ayrılma yarı ömrü, saat olarak. Yatay eksen sıfırdan otuz altı saate gidiyor, on iki ve yirmi dördüncü saatlerde de çizgiler var. M üç için yaklaşık otuz beş saat, M bir için yaklaşık on beş saat, M iki için yaklaşık üç virgül altı saat. Grafiğin altındaki notta şöyle yazıyor: ipratropium üç reseptörden de yirmi dakikadan kısa sürede ayrılır. Değerler, insan reseptörleriyle yapılan bağlanma çalışmalarından yuvarlanmıştır.
+Şeklin altyazısı bunu özetliyor. Asetilkolin M üç reseptörleri üzerinden düz kası kasar ve mukus salgılatır. Sinir ucundaki M iki otoreseptörü üzerinden de kendi salınımını frenler, şekildeki kesikli çizgi budur. İpratropium üç reseptörü birlikte bloke eder. Tiotropium hepsine bağlanır, ama M ikiden hızlı, M üçten çok yavaş ayrıldığı için birkaç saat sonra fiilen M üç seçici hâle gelir.
+
+### k4b3_02 | Antimuskarinik bronkodilatasyon, ipratropium ve tiotropium
+Şimdi antimuskarinik bronkodilatasyonu adım adım izleyelim. Asetilkolin M üç reseptörüne bağlanınca, G q proteini fosfolipaz C'yi aktive eder. Fosfolipaz C, zardaki P I P ikiyi I P üç ve diaçilgliserole ayırır. I P üç, sarkoplazmik retikulumdaki reseptörüne bağlanarak kalsiyum salıverdirir. Kalsiyum kalmodulin, M L C K'yi aktive eder ve kas kasılır. Bu, Şekil bir nokta birin sağ yarısıdır.
+Antimuskarinik ilaç ise M üç reseptörüne asetilkolinle yarışarak bağlanır. Buna kompetitif antagonizma denir. Zincir ilk halkasında kesilir ve bu yoldan kasılma olmaz. Aynı blokaj, bezlerdeki M üç reseptörlerinde mukus salgısını azaltır.
+Burada önemli bir sınır var: antimuskarinik ilaç yalnızca kolinerjik kasılmayı engeller. Lökotrienlerin, histaminin ya da P G D ikinin yaptığı kasılmaya dokunmaz. Beta iki agonist ise kası, hangi uyaran kasıyor olursa olsun gevşetir. Buna fonksiyonel antagonizma denir.
+İşte bu yüzden, mediatörlerin ağırlıklı olduğu astımda beta iki agonistler daha etkilidir. Vagal tonusun ağırlıklı olduğu KOAH'ta ise antimuskarinikler en az onlar kadar etkilidir.
+Üç nokta iki: ipratropium bromür. İpratropium, atropinin dördüncül amonyum türevidir. Molekülündeki azot kalıcı olarak pozitif yüklüdür. Yüklü bir molekül de lipit zarlardan kolay geçemez.
+Bunun üç sonucu vardır. Bir: inhale edildikten sonra yutulan kısım bağırsaktan çok az emilir. İki: dolaşıma geçen miktar düşüktür. Üç: santral sinir sistemine geçişi önemsizdir.
+Atropin ise üçüncül amindir. Sistemik dolaşıma ve beyne kolayca geçer. Taşikardi, ağız kuruluğu, idrar retansiyonu, midriyazis ve santral etkiler yapar. Ayrıca salgıları koyulaştırıp mukosiliyer temizlenmeyi bozar. Bu yüzden astımda kullanılmaz.
+Sunuma göre ipratropium aerosol şeklinde, inhalasyonla kullanılır ve etkisi dört ile sekiz saat sürer. Etkisi salbutamolden yavaş başlar: en yüksek etkiye otuz ile altmış dakikada ulaşır. Klinikte üç yerde değerlidir.
+Birincisi: inhale beta iki agonistlere intoleransı olan hastalar. Belirgin tremoru, taşikardisi ya da aritmisi olan, koroner hastalığı olan hastada ipratropium, kalbi uyarmadan bronkodilatasyon sağlar.
+İkincisi: ağır astım atağı. İpratropium, beta iki agonistlerden biraz daha az etkilidir. Ama sunumun vurguladığı gibi, ciddi astımda ipratropium eklenmesi albuterolün yaptığı bronkodilatasyonu artırır. İki ilaç kasılmayı iki ayrı yoldan çözdüğü için etkileri toplanır. Bunu Şekil bir nokta birde görmüştük.
+Bu bilgi 2025 2026 sınavının yirmi yedinci sorusunda geçti: oksijen ve yüksek doz salbutamole rağmen düzelmeyen atakta, M üç reseptörlerini bloke eden ikinci bronkodilatör ipratropiumdur. Acil serviste ilk saatte salbutamole eklendiğinde, ipratropium hastaneye yatış oranını azaltır.
+Üçüncüsü: KOAH. İpratropium kısa etkili antimuskarinik olarak, akut semptomlarda salbutamolle birlikte kullanılır, çoğu zaman aynı inhalerde. Sunuma göre ipratropium kullanımı atak sayısında azalma, egzersiz toleransında artış ve mukosiliyer klirenste iyileşme sağlar.
+Yan etkileri azdır: ağız kuruluğu, ağızda acı tat ve öksürük. Nebülizatör maskesinden kaçan ilaç göze temas ederse pupillayı genişletir ve dar açılı glokomu olan hastada akut glokom krizini tetikleyebilir. Prostat büyümesi olan hastada ise idrar retansiyonu açısından dikkat gerekir.
+Üç nokta üç: tiotropium. Sunuma göre tiotropium daha selektif etkilidir: M iki reseptörlerinden hızlı, M üç ve M bir reseptörlerinden yavaş ayrılır. Güçlü bir bronkodilatördür, en az yirmi dört saat etkilidir ve KOAH tedavisinde etkilidir. Başlıca yan etkisi geçici ağız kuruluğudur.
+Ama tiotropiumun seçiciliği alışılmış türden değildir. İlaç üç reseptöre de benzer güçle bağlanır, yani bağlanma afinitesi açısından seçici değildir. Fark, reseptörden ayrılma hızındadır. Bunu Şekil üç nokta birin alt kısmında görmüştük.
+M iki reseptöründen birkaç saatte ayrılır. M üç reseptöründen ayrılma yarı ömrü ise bir buçuk günü bulur. Doz alındıktan birkaç saat sonra M iki freni yeniden çalışmaya başlar, M üç ise hâlâ bloke durumdadır. Bu, zamana bağlı bir seçiciliktir ve kinetik seçicilik olarak adlandırılır. Uzun ayrılma süresi, aynı zamanda günde tek dozla yirmi dört saatlik etkiyi sağlar.
+Tiotropium, KOAH'ın idame tedavisinde uzun etkili antimuskariniklerin, yani LAMA grubunun prototipidir. Akciğer fonksiyonunu ve yaşam kalitesini düzeltir, alevlenme sıklığını azaltır. Astımda ise inhale steroid ve LABA'ya rağmen kontrol altına alınamayan ağır hastalarda eklenebilir. Aynı gruptan aklidinyum, glikopironyum ve umeklidinyum da kullanılmaktadır.
+Peki, kalp hastasında neden antimuskarinik? Sınavda iki yıl üst üste aynı klinik soru soruldu. Hastanın KOAH'ı ve kalp hastalığı var. Bir yıl bu kalp hastalığı, hipertansiyon ve atriyal fibrilasyon olarak verildi. Kardiyak aritmi riskini en az artıran bronkodilatör hangisi? Cevap tiotropium. Bunlar 2025 2026 sınavının otuz yedinci ve 2024 sınavının on dördüncü sorusuydu. Nedeni, diğer bronkodilatörlerin kalbi uyarma yollarıyla karşılaştırınca anlaşılır.
+Birincisi, beta agonistler. Kalbi doğrudan uyarırlar. İzoproterenol beta bir reseptörlerini uyarır. Selektif beta iki agonistler de, yani terbutalin ve salbutamol de, kalpteki beta iki reseptörleri, refleks taşikardi ve hipokalemi üzerinden aritmi riskini artırır.
+İkincisi, metilksantinler. Adenozin reseptörlerini bloke eder ve katekolamin salınımını artırırlar. Pozitif kronotropik etkilidirler ve toksik düzeyde ağır aritmi yaparlar. Bunu Bölüm üç nokta beşte göreceğiz.
+Üçüncüsü, tiotropium. Dördüncül amindir ve inhale dozu sistemik dolaşıma çok az geçer. Kalpteki M iki reseptörlerine anlamlı düzeyde ulaşmaz ve adrenerjik sistemi uyarmaz. Binlerce KOAH hastasıyla yapılan büyük çalışmalarda, kardiyovasküler ölüm riskini artırmadığı gösterilmiştir.
+Ve işte sık karıştırılan nokta. Bu soruda şıklarda zileuton ve kromolin de vardı. İkisi de aritmi yapmaz, ama ikisi de bronkodilatör değildir. Zileuton lökotrien sentezini engeller, kromolin mast hücresini stabilize eder. Soru kökündeki "bronkodilatör" kelimesi bu iki şıkkı eler.
+İzoproterenol beta bir uyarısı nedeniyle, terbutalin de bir beta iki agonist olarak aritmi riskini artırır. Geriye kalan tek bronkodilatör tiotropiumdur.
+
+### k4b3_03 | Metilksantinler, mekanizmalar ve dar terapötik indeks
+Üç nokta dört: metilksantinler, yani teofilin ve aminofilin. Metilksantinler, ksantin halkasına metil grupları eklenmiş bitkisel alkaloitlerdir. Kahvedeki kafein, çaydaki teofilin ve kakaodaki teobromin bu gruptandır.
+Tedavide kullanılanlar şunlardır: teofilin, yani bir üç dimetilksantin. Ve onun suda daha iyi çözünen tuzu, aminofilin. Aminofilin, teofilinin etilendiaminle oluşturduğu bir komplekstir. Etilendiamin teofilinin çözünürlüğünü artırır ve damar içi kullanımı mümkün kılar. Aminofilinin yaklaşık yüzde sekseni teofilindir.
+Şimdi etki mekanizmaları. Birinci mekanizma: fosfodiesteraz inhibisyonu. Sunuma göre metilksantinler, bronş düz kaslarında fosfodiesteraz enzimini inhibe ederek sitoplazmada siklik AMP düzeyini artırır ve gevşeme yapar.
+Fosfodiesteraz, siklik AMP'yi etkisiz AMP'ye yıkan enzimdir. Beta iki agonist siklik AMP yapımını artırırken, teofilin siklik AMP'nin yıkımını azaltır. Yani iki ilaç aynı yolun iki ayrı noktasına etki eder. Bunu Şekil bir nokta birde görmüştük.
+Teofilin, fosfodiesteraz izoenzimlerini ayırt etmeden inhibe eder. Düz kastaki ve kalpteki P D E üçün inhibisyonu, gevşeme ve kalpte kasılma artışı yapar. İnflamatuvar hücrelerdeki P D E dördün inhibisyonu ise zayıf bir antiinflamatuvar etki yapar. Tedavi edici düzeylerde bu inhibisyon kısmidir. Bu yüzden bronkodilatasyona diğer mekanizmaların da katkısı olduğu düşünülür.
+İkinci mekanizma: adenozin reseptör blokajı. Sunuma göre adenozinin, hava yolu düz kasında kasılmaya ve hava yolu mast hücrelerinden histamin salınımına yol açtığı gösterilmiştir. Teofilin adenozin reseptörlerini bloke ederek bu etkileri önler.
+Aynı blokaj, ilacın yan etkilerinin çoğunu da açıklar. Beyinde adenozin nöronları frenler. Fren kalkınca uykusuzluk, huzursuzluk ve yüksek dozda nöbet görülür. Kalpte adenozin, S A ve A V düğümünü yavaşlatır. Blokajı taşikardi ve aritmi yapar. Böbrekte ise adenozin blokajı zayıf bir diürez yapar.
+Üçüncü mekanizma: histon deasetilaz aktivasyonu. Düşük dozda teofilin, kortikosteroidlerin inflamatuvar genleri susturmak için kullandığı histon deasetilaz iki, yani H D A C iki enzimini aktive eder. Sigara içenlerde ve KOAH'ta oksidatif stres bu enzimi azaltır ve steroide direnç gelişir. Bu konu Kitap bir, Bölüm üçte anlatıldı. Teofilin bu direnci kısmen geri çevirebilir.
+Bunlara ek olarak, sunuma göre teofilin bronkodilatasyon yanında diyaframın kas kontraktilitesini artırır ve zayıf diüretik etki gösterir. Diyafram üzerindeki etkisi, solunum kasları yorulmuş KOAH hastasında ek bir yarar sağlar. Merkezi solunum uyarıcı etkisi nedeniyle prematüre apnesinde de kullanılır. Bu kullanımda çoğunlukla kafein verilir.
+Sırada farmakokinetik ve kullanım var. Metilksantinlerin inhaler formları yoktur. Bu bilgi 2022 2023 sınavının sekizinci sorusunda geçti: inhalasyon yoluyla kullanılmayan ilaç teofilindir. Teofilin oral ve parenteral yoldan kullanılır. Karaciğerde metabolize edilerek inaktive edilir. Uzun süre kullanıldığında tolerans gelişir. Ve terapötik indeksi dardır.
+Teofilin, sunuma göre astım tedavisinde ikinci sıra ilaçtır. Beta iki agonistlere yeterli cevap vermeyen hastalarda steroidlere ek olarak verilir. Ucuzdur. Kriz ve orta ağır persistan astımda endikedir. Uzun etkili, yani yavaş salınımlı oral formu kontrol edici olarak kullanılır.
+Aminofilin ise teofilin türevidir. Status astmatikusta damar içi infüzyonla uygulanır. Sindirim kanalından yavaş emilir ve yavaş salınımlı oral preparatları da vardır.
+Metilksantinlerin kullanımı giderek azalmıştır. Çünkü sunumun ifadesiyle, akut astımda inhale beta iki agonistler, kronik astımda ise inhale antiinflamatuvar ilaçlar daha etkilidir. Bugün teofilin, diğer ilaçlara erişimin kısıtlı olduğu durumlarda ya da ağır KOAH'ta ek ilaç olarak kullanılmaktadır.
+Üç nokta beş: dar terapötik indeks, yan etkiler ve kalbe etkiler. Teofilinin bronkodilatör etkisi, serum düzeyi arttıkça artar. Ama yan etkileri de etkili düzeyin hemen üstünde başlar. İki eğri arasındaki mesafe çok kısadır. Bunu Şekil üç nokta ikide göreceğiz.
+Eskiden litrede on ile yirmi miligram hedeflenirdi. Bugün daha güvenli olan, litrede beş ile on beş miligram aralığı tercih edilir ve tedavi, serum düzeyi ölçülerek izlenir.
+Ekrandaki şekil üç nokta iki, serum teofilin düzeyine göre etkileri gösteriyor. Yatay eksen serum teofilin düzeyi: litrede miligram, bu da mililitrede mikrograma eşit. Eksen sıfırdan kırk beşe kadar, beşer beşer ilerliyor.
+Bant üzerinde soldan sağa: sıfır ile beş arası etkisiz. Beş ile on beş arası hedef aralık, üstünde de bronkodilatasyon yazıyor. On beş ile yirmi arası eski üst sınır. Yirmi ile kırk arası bulantı, kusma, baş ağrısı, taşikardi ve uykusuzluk. Kırkın üzerinde ise aritmi ve nöbet. Şeklin altında bir uyarı var: ciddi toksisite bazen hafif belirtiler olmadan, doğrudan aritmi ya da nöbetle başlayabilir.
+Altyazıya göre bunlar yaklaşık sınırlardır. Bronkodilatasyon, litrede beş ile on beş miligram aralığında elde edilir. Litrede yirmi miligramın üzerinde sindirim ve sinir sistemi yan etkileri, litrede kırk miligramın üzerinde ölümcül aritmi ve nöbet görülür. Etkili düzeyle toksik düzey arasındaki bu kısa mesafe, "terapötik indeksi dar" ifadesinin somut karşılığıdır.
+Sunuma göre en sık yan etkiler, sindirim sistemi rahatsızlıkları ve santral sinir sistemi uyarısıdır: uykusuzluk, sinirlilik ve tremor. Aşırı dozda bulantı kusma, hipotansiyon, kardiyak aritmi ve konvülziyonlar görülür.
+Ağır zehirlenmede nöbet ya da aritmi, önceden bulantı gibi uyarıcı bir belirti olmadan başlayabilir. Zehirlenmede hipokalemi ve hiperglisemi de gelişir. Çünkü artan katekolaminler potasyumu hücre içine sokar ve glikojenolizi artırır.
+
+### k4b3_04 | Kalbe etkiler, CYP1A2 etkileşimleri, Soru 1 ve 2
+Teofilinin kalbe etkisi, sınavda ters çevrilerek soruldu. Sunuma göre metilksantinler pozitif kronotropik ve inotropik etkiler gösterir. Bunun iki mekanizması vardır.
+Birinci mekanizma: presinaptik adenozin reseptörlerinin inhibisyonu. Sempatik sinir uçlarındaki adenozin reseptörleri, normalde noradrenalin salınımını frenler. Teofilin bu freni kaldırır, katekolamin salınımı artar ve kalp hızı ile kasılma gücü yükselir.
+İkinci mekanizma: S A düğümünde A bir blokajı. Adenozin, A bir reseptörleri üzerinden S A düğümünü yavaşlatır. Teofilin bu reseptörü bloke edince kalp hızı artar.
+Kalpteki P D E üçün inhibisyonu da siklik AMP'yi artırarak pozitif inotropiye katkıda bulunur. Şıklarda "metilksantinler negatif kronotropik ve inotropik etkiler gösterir" görürsen, bu ifade yanlıştır. Bu ifade 2024 sınavının on altıncı sorusunda yanlış ifade olarak geçti. Doğru ifade şöyledir: "S A düğümünde adenozin reseptör blokajı nedeniyle pozitif kronotropik ve inotropik etkiler gösterebilirler." Bu da 2025 2026 sınavının otuz sekizinci sorusunda doğru ifade olarak geçti.
+Aynı mekanizmanın bir sonucu daha var. Teofilin kullanan hastada, supraventriküler taşikardi tedavisinde verilen adenozinin etkisi azalır. Çünkü adenozinin bağlanacağı reseptörler bloke durumdadır. Bu konu Modül üçte geçiyor.
+Üç nokta altı: ilaç etkileşimleri ve CYP bir A iki. Sunuma göre teofilin CYP bir A iki ile metabolize olur. Terapötik indeksi dar olduğu için, karaciğerdeki yıkım hızını değiştiren her durum ilacın düzeyini ya etkisiz ya da toksik bölgeye taşıyabilir.
+Etkileşimin yönünü anlamak için tek bir mantık yeterli. Enzimi indükleyen, yani çoğaltan ilaç, teofilinin yıkımını hızlandırır ve düzeyini düşürür. Enzimi inhibe eden ilaç ise yıkımı yavaşlatır ve düzeyi yükseltir.
+Tablonun sol sütununda, teofilin metabolizmasını artıran ve plazma düzeyini düşüren CYP bir A iki indükleyicileri var: rifampisin, karbamazepin, fenitoin, fenobarbital ve sigara. Sigarada bu etkiyi dumandaki polisiklik aromatik hidrokarbonlar yapar.
+Sağ sütunda ise teofilin metabolizmasını azaltan ve plazma düzeyini yükselten CYP bir A iki inhibitörleri var. Oral kontraseptifler. Eritromisin, yani makrolidler. Siprofloksasin, yani florokinolonlar. Kalsiyum kanal blokerleri, yani verapamil ve diltiazem. Flukonazol. Ve simetidin.
+Sınavda bu bilgi "yanlış olanı bulun" sorularında kullanıldı. Metilksantinler karaciğerde CYP iki D altı ile değil, CYP bir A iki ile metabolize olur. Bu, 2023 2024 sınavının altıncı sorusuydu. "Sigara teofilin metabolizmasını artırır" ise doğru ifadedir. Klinikte en tehlikeli iki senaryo şöyle.
+Birinci senaryo: sigarayı bırakan hasta. Sigara içen hastada enzim indüklendiği için daha yüksek teofilin dozu gerekir. Hasta sigarayı bırakınca, ya da hastaneye yatıp sigara içemeyince, indüksiyon birkaç gün ile birkaç hafta içinde kaybolur. Aynı doz artık daha yavaş yıkılır, düzey yükselir ve zehirlenme belirtileri ortaya çıkar.
+İkinci senaryo: enfeksiyon için antibiyotik başlanan hasta. Teofilin kullanan KOAH hastasına alevlenme sırasında siprofloksasin ya da eritromisin başlanırsa, teofilin düzeyi yükselir. Siprofloksasin nöbet eşiğini kendisi de düşürdüğü için, bu birlikte kullanım özellikle nöbet açısından risklidir.
+İlaç dışı faktörler de teofilin yıkımını değiştirir. Kalp yetersizliği, karaciğer sirozu, yüksek ateşli viral enfeksiyonlar ve ileri yaş yıkımı yavaşlatır ve düzeyi yükseltir. Çocuklarda ve sigara içenlerde ise yıkım hızlıdır.
+Ekrandaki grafikte bu bölümden yıllara göre soru sayısını görüyorsun. 2022 2023 sınavında bir, 2023 2024 sınavında bir, 2024 sınavında iki ve 2025 2026 sınavında dört soru. Toplam sekiz antimuskarinik ve metilksantin sorusu.
+Konular şöyle: M üç reseptörü, atağa eklenen ipratropium, kalp hastasında tiotropium, ki bu iki kez soruldu, ve teofilinin özellikleri, ki bu da dört kez soruldu. Bu konudan gelen soru sayısı son sınavda belirgin olarak arttı. Şimdi bu soruları birlikte çözelim.
+Bölüm sonu soruları. Soru bir: 2025 2026 sınavı, otuz üçüncü soru.
+Astım tedavisinde kullanılan bronkodilatör ilaçların hangi reseptör tipini inhibe etmesinden sonra bronşiyal düz kas hücrelerinde gevşeme meydana gelmektedir?
+A: Muskarinik üç, yani M üç.
+B: Muskarinik iki, yani M iki.
+C: Beta bir.
+D: Beta iki.
+E: Alfa bir.
+Durdur ve düşün.
+Doğru cevap A. Asetilkolin bronş düz kasını M üç reseptörü, G q ve I P üç aracılığıyla kasar. Antimuskarinik ilaçlar bu reseptörü bloke ederek kasılmayı engeller ve gevşeme sağlar.
+B yanlış: M iki, sinir ucundaki otoreseptördür ve asetilkolin salınımını frenler. Bloke edilirse tersine daha çok asetilkolin salınır. C yanlış: beta bir reseptörleri kalpte bulunur ve hava yolu tonusunda rolü yoktur.
+D yanlış: beta iki reseptörü uyarıldığında gevşeme olur. İnhibisyonu ise, örneğin selektif olmayan beta blokerlerle, bronkospazm yapar. E yanlış: alfa bir reseptörleri damar düz kasında vazokonstriksiyon yapar. Bronş düz kasının gevşemesinde rolü yoktur.
+Soru iki: 2025 2026 sınavı, yirmi yedinci soru.
+Otuz yaşında bir astım hastası, ağır astım alevlenmesi sonucu acil servise getirilmiştir. Oksijen ve yüksek doz salbutamol inhalasyonuna rağmen dispnesi düzelmemiştir. Hekim, hava yolu düz kaslarındaki M üç reseptörlerini bloke eden ikinci bir bronkodilatör ilaç eklemiştir. Bu ilaç aşağıdakilerden hangisidir?
+A: İpratropium bromür.
+B: Teofilin.
+C: Kromolin.
+D: İndakaterol.
+E: Budesonid.
+Durdur ve düşün.
+Doğru cevap A. İpratropium kısa etkili bir antimuskariniktir. Salbutamole eklendiğinde kasılmayı ikinci bir yoldan çözdüğü için bronkodilatasyonu artırır. Ağır atakta ilk saatte, nebülize salbutamolle birlikte verilir.
+B yanlış: teofilin bir bronkodilatördür, ama fosfodiesterazı inhibe eder ve adenozin reseptörlerini bloke eder. M üç reseptörüne etki etmez. C yanlış: kromolin mast hücre stabilizatörüdür. Bronkodilatör değildir ve atakta etkisizdir.
+D yanlış: indakaterol ultra uzun etkili bir beta iki agonisttir ve KOAH'ın idame tedavisinde kullanılır. E yanlış: budesonid inhale kortikosteroiddir. Doğrudan bronkodilatör etkisi yoktur.
+
+### k4b3_05 | Soru 3-7 ve pekiştirme sorusu
+Soru üç. Bu soru iki sınavda geldi: 2025 2026 sınavının otuz yedinci ve 2024 sınavının on dördüncü sorusu.
+Kronik bronşit, hipertansiyon ve atriyal fibrilasyonu olan KOAH hastasında, kardiyak aritmi riskini en az artıran bronkodilatör ajan aşağıdakilerden hangisidir?
+A: İzoproterenol.
+B: Zileuton.
+C: Terbutalin.
+D: Kromolin.
+E: Tiotropium.
+Durdur ve düşün.
+Doğru cevap E. Tiotropium, dördüncül amin yapısında inhale bir antimuskariniktir. Sistemik dolaşıma çok az geçer ve adrenerjik sistemi uyarmaz.
+2024 sınavında aynı beş ilaç farklı sırayla, "KOAH ve kardiyak hastalığı olan altmış beş yaşındaki hasta" köküyle soruldu ve tiotropium B şıkkındaydı.
+A yanlış: izoproterenol beta bir reseptörlerini doğrudan uyarır ve aritmi riski en yüksek olan bronkodilatördür. C yanlış: terbutalin selektif beta iki agonisttir, ama kalpteki beta iki reseptörleri, refleks taşikardi ve hipokalemi üzerinden aritmi riskini artırır.
+B ve D aritmi yapmaz, ama bronkodilatör değildir: zileuton bir beş lipoksijenaz inhibitörü, kromolin ise bir mast hücre stabilizatörüdür.
+Soru dört: 2022 2023 sınavı, sekizinci soru.
+Aşağıdaki ilaçlardan hangisi astım tedavisinde inhalasyon yoluyla kullanılmaz?
+A: Formoterol.
+B: İpratropium.
+C: Teofilin.
+D: Flutikazon.
+E: Salbutamol.
+Durdur ve düşün.
+Doğru cevap C. Metilksantinlerin inhaler formları yoktur. Teofilin oral yoldan, çoğunlukla yavaş salınımlı tablet olarak kullanılır. Aminofilin ise damar içi yoldan kullanılır.
+A, uzun etkili bir beta iki agonist. B, bir antimuskarinik. D, inhale bir kortikosteroid. E ise kısa etkili bir beta iki agonist. Dördü de inhalasyon yoluyla kullanılır. Salbutamolün tablet ve damar içi formları da vardır, ama temel kullanım yolu inhalasyondur.
+Soru beş: 2025 2026 sınavı, otuz sekizinci soru.
+Astım tedavisinde kullanılan metilksantinler için aşağıdakilerden hangisi yanlıştır?
+A: Bronkodilatasyon yanında diyaframın kas kontraktilitesini artırır.
+B: Bronş düz kaslarında fosfodiesteraz enzimini inhibe ederek sitoplazmada siklik AMP düzeyini artırırlar.
+C: CYP bir A iki ile metabolize olması nedeniyle, ilacın plazma konsantrasyonu etkileşimlerle değişebilir.
+D: Aminofilin, sadece oral yolla kullanılabilen, terapötik indeksi geniş bir ilaçtır.
+E: Sinoatriyal düğümde adenozin reseptör blokajı nedeni ile pozitif kronotropik ve inotropik etkiler gösterebilirler.
+Durdur ve düşün.
+Cevap D. Yani yanlış olan ifade D şıkkı. Bu şık iki kez yanlıştır. Aminofilin yalnızca oral değildir: status astmatikusta damar içi infüzyonla kullanılır. Metilksantinlerin terapötik indeksi de geniş değil, dardır.
+A, B, C ve E sunumdaki doğru bilgilerdir: diyafram kontraktilitesinde artış, fosfodiesteraz inhibisyonuyla siklik AMP artışı, CYP bir A iki ile metabolizma ve buna bağlı etkileşimler, ve S A düğümünde adenozin blokajıyla pozitif kronotropi ve inotropi.
+Soru altı: 2024 sınavı, on altıncı soru.
+Metilksantinler için aşağıdakilerden hangisi yanlıştır?
+A: Adenozin reseptör inhibisyonu yaparlar ve dar terapötik indekslidirler.
+B: Negatif kronotropik ve inotropik etkiler gösterirler.
+C: CYP bir A iki ile metabolize olurlar.
+D: P D E inhibisyonu ile siklik AMP'yi artırırlar.
+E: Diyafram kas kontraktilitesini artırırlar.
+Durdur ve düşün.
+Cevap B. Yani yanlış olan ifade B şıkkı. Metilksantinler kalp hızını ve kasılma gücünü azaltmaz, artırır. Sempatik sinir uçlarındaki presinaptik adenozin reseptörlerini bloke ederek katekolamin salınımını artırırlar. S A düğümündeki A bir reseptörlerini bloke ederek de kalp hızını yükseltirler.
+A, C, D ve E doğrudur. Bunlar bir önceki kartın doğru şıklarıyla neredeyse aynıdır. İki yılda değiştirilen bilgi farklıdır: 2024 sınavında kalbe etkinin yönü, 2025 2026 sınavında ise aminofilinin uygulama yolu ve terapötik indeks.
+Soru yedi: 2023 2024 sınavı, altıncı soru.
+Metilksantinler için aşağıdakilerden hangisi yanlıştır?
+A: Adenozin reseptör inhibisyonu yapar.
+B: Sigara teofilin metabolizmasını artırır.
+C: Terapötik indeksi dardır.
+D: Diyafram kas kontraktilitesini artırır.
+E: Karaciğerde CYP iki D altı ile metabolize olur.
+Durdur ve düşün.
+Cevap E. Yani yanlış olan ifade E şıkkı. Teofilini karaciğerde metabolize eden enzim, CYP iki D altı değil, CYP bir A ikidir.
+A, C ve D doğrudur. B de doğrudur: sigara dumanındaki polisiklik aromatik hidrokarbonlar CYP bir A ikiyi indükler. Teofilin daha hızlı yıkılır ve plazma düzeyi düşer. Bu yüzden sigara içen hastada daha yüksek doz gerekir.
+Son olarak, konuyu pekiştirmek için hazırlanmış yeni bir soru.
+Uzun süredir aynı dozda yavaş salınımlı teofilin kullanan, günde bir paket sigara içen KOAH hastası, alevlenme nedeniyle hastaneye yatırılıyor ve yatışı boyunca sigara içemiyor. Beşinci gün bulantı, çarpıntı ve el titremesi gelişiyor. Bu tablonun en olası açıklaması aşağıdakilerden hangisidir?
+A: Sigaranın bırakılmasıyla CYP bir A iki indüksiyonunun ortadan kalkması ve teofilin düzeyinin yükselmesi.
+B: Nikotin yoksunluğuna bağlı adenozin reseptörlerinin aşırı uyarılması.
+C: Teofiline tolerans gelişmesi ve etkinin azalması.
+D: Teofilinin CYP iki D altı ile daha hızlı yıkılması.
+E: Hipoksinin teofilinin böbrekten atılımını artırması.
+Durdur ve düşün.
+Doğru cevap A. Sigara içen hastada CYP bir A iki indüklendiği için, teofilin dozu bu hızlı yıkıma göre ayarlanmıştır. Hasta sigarayı bırakınca indüksiyon günler içinde kaybolur. Aynı doz daha yavaş yıkılır ve düzey toksik bölgeye çıkar.
+Bulantı, taşikardi ve tremor tipik erken zehirlenme belirtileridir. Teofilin düzeyi ölçülmeli ve doz azaltılmalıdır.
+B yanlış: belirtiler teofilinin kendi toksisitesiyle açıklanır. Nikotin yoksunluğu bu tabloyu yapmaz. C yanlış: tolerans etkiyi azaltır, zehirlenme belirtisi yapmaz.
+D yanlış: teofilin CYP iki D altı ile metabolize olmaz. E yanlış: teofilin büyük ölçüde karaciğerde yıkılır. Böbrekten atılımın artması düzeyi düşürür, zehirlenme yapmaz.
+Bölüm üçün sonuna geldik. Bir sonraki bölümde kortikosteroidleri ve mast hücre stabilizatörlerini konuşacağız.

@@ -1,0 +1,159 @@
+### k2b3_01 | Giriş, tedavinin amaçları, ilaç grupları ve inhale steroid dozları
+Astım: Patogenez, Tanı ve Tedavi İlkeleri. Bölüm üç: Tedavi İlkeleri, Kontrol ve Atak.
+Astım tedavisinin mantığı patogenezden doğar. Hastalığın motoru kronik inflamasyon olduğu için tedavinin temeli, inflamasyonu baskılayan ilaçlardır. Bronkodilatörler ise yalnızca o anki daralmayı açar.
+Bu bölüm; ilaç gruplarının sunumdaki sınıflamasını, inhale steroidleri, inhaler cihazları, astım kontrolünün nasıl ölçüldüğünü, basamak tedavisini ve astım atağının yönetimini anlatır. İlaçların etki mekanizmaları ve yan etkileri ise Kitap dörtte ayrıntılı işlenir.
+İlk başlığımız: tedavinin amaçları ve programı. Astım bugün tedavi edilerek ortadan kaldırılamaz. Ama hastaların büyük çoğunluğunda kontrol altına alınabilir.
+Peki kontrol altındaki astımlı hasta nasıldır? Gündüz yakınmasızdır ve geceleri uyanmaz. Spor dahil günlük aktivitelerinde kısıtlanmaz. Kurtarıcı ilaca nadiren ihtiyaç duyar. Solunum fonksiyonları normale yakındır ve atak geçirmez.
+Tedavinin iki amacı vardır. Birincisi, bugünkü semptomları kontrol etmek. İkincisi, gelecekteki riski azaltmak. Buradaki risk şunlardır: ataklar, kalıcı obstrüksiyon, ilaç yan etkileri ve astıma bağlı ölüm.
+Sunum tedavi programını beş adımda verir. Bir: hasta eğitimi. İki: korunma, yani tetikleyici etkenlerin uzaklaştırılması. Üç: hastalığın ağırlığının ve kontrol durumunun belirlenmesi. Dört: uzun süreli tedavi ve atak planı yapılması. Beş: hastanın düzenli takibi.
+Hasta eğitimi de beş başlık içerir: astım hastalığı hakkında açıklama, ilaçların türleri ve etkileri, inhalasyon tekniği, çevrede alınacak önlemler ve semptomlar arttığında tedavinin ayarlanması. Eğitim bir lüks değildir. İnhaler tekniği yanlış olan ya da kontrol edici ilacını düzenli kullanmayan hastada hiçbir ilaç işe yaramaz.
+Şimdi ilaç gruplarına geçelim: kontrol ediciler ve semptom gidericiler. Sunumdaki "Astım tedavisi" slaytı, ilaçları hedefledikleri soruna göre iki gruba ayırır.
+İnflamasyonu hedefleyenler kontrol edici ilaçlardır. Her gün, belirti olmasa da düzenli kullanılır ve hastalığın seyrini değiştirir. Bronkokonstriksiyonu hedefleyenler ise semptom giderici, yani rahatlatıcı ya da kurtarıcı ilaçlardır. Belirti olduğunda kullanılır ve daralmayı hızla açar, ama inflamasyonu etkilemez.
+Tabloda solda inflamasyonu hedefleyen kontrol edici ilaçlar, sağda bronkokonstriksiyonu hedefleyen semptom giderici ilaçlar var. Birinci satır. Kontrol edici: inhale ve sistemik steroidler. Semptom giderici: hızlı etkili beta iki agonistler.
+İkinci satır. Kontrol edici: lökotrien reseptör antagonistleri. Semptom giderici: sistemik steroidler, atakta.
+Üçüncü satır. Kontrol edici: uzun etkili teofilin. Semptom giderici: aminofilin.
+Dördüncü satır. Kontrol edici: uzun etkili beta iki agonistler, inhale steroidle birlikte. Semptom giderici: antikolinerjikler.
+Beşinci satırda yalnızca kontrol edici var: kromonlar, yani mast hücre stabilizatörleri.
+Altıncı satırda da yalnızca kontrol edici var: anti IgE ve diğer biyolojik ilaçlar.
+Dikkat et: bu sınıflamada antikolinerjikler yalnızca semptom giderici grupta yer alır. Bu yüzden "astımda tedavi edici, yani kontrol edici ilaç grubundan değildir" sorusunun cevabı uzun etkili antikolinerjiklerdir. Bu soru 2025 2026 sınavının on ikinci ve 2023 2024 sınavının yirmi dokuzuncu sorusunda geldi.
+Şıklardaki sistemik ve inhale kortikosteroidler, mast hücre stabilizatörleri ve lökotrien antagonistleri ise kontrol edicidir. Antikolinerjiklerin astımdaki asıl yeri, ağır atakta kısa etkili beta iki agoniste eklenen ipratropiumdur. Bu konu Kitap dörtte işlenir.
+Şimdi bir kutuya dikkat: sunum ile güncel bilgi arasındaki fark. Güncel GINA kılavuzunda, uzun etkili bir antikolinerjik olan tiotropium, ek kontrol edici olarak önerilir. Hangi hastada? Orta ile yüksek doz inhale steroid ve LABA'ya rağmen kontrol edilemeyen ağır astımda, yani dördüncü ve beşinci basamakta.
+Yani bugünkü sınıflamada uzun etkili antikolinerjikler astımda bir ek tedavi seçeneğidir. Ancak ilk tercih ya da temel kontrol edici değildir, inflamasyonu baskılamaz ve tek başına kullanılmaz. Sınavda sunumun sınıflaması esas alınır ve cevap iki yılda da "uzun etkili antikolinerjikler" olarak kabul edildi.
+Sırada tedavinin temel taşı var: inhale kortikosteroidler, kısaca İ K S. Sunuma göre İ K S en etkin kontrol edicidir.
+Astım tedavisinde ilk tercih edilecek antiinflamatuvar ilaç inhale steroidlerdir. Bu bilgi dört sınavda soruldu: 2025 2026 sınavının on birinci, 2022 2023 sınavının otuz üçüncü, 2024 sınavının otuz üçüncü ve 2023 2024 sınavının yirmi ikinci sorusu.
+Peki neden? Bunun nedenini patogenezde gördük. İ K S; T H iki sitokinlerinin yapımını, eozinofillerin hava yoluna göçünü ve yaşamasını, mast hücrelerinin mukozaya yerleşmesini ve mukus yapımını baskılar. Yani Şekil bir nokta birdeki zincirin hemen her halkasına etki eder. Düzenli kullanıldığında semptomları, atakları, hastaneye yatışları ve astıma bağlı ölümleri azaltır, aşırı duyarlılığı geriletir.
+Şimdi doz. Sunumdaki tablo, inhale steroidlerin erişkinde günlük düşük, orta ve yüksek dozlarını verir. Birim, günde mikrogram. Tabloda altı ilaç var: beklometazon, beklometazon H F A, budesonid, flutikazon, mometazon ve siklesonid.
+Düşük doz: beklometazon iki yüz elli ile beş yüz, beklometazon H F A yüz ile iki yüz, budesonid iki yüz ile dört yüz, flutikazon yüz ile iki yüz elli, mometazon iki yüz, siklesonid seksen ile yüz altmış mikrogram.
+Orta doz: beklometazon beş yüz ile bin, beklometazon H F A iki yüz ile dört yüz, budesonid dört yüz ile sekiz yüz, flutikazon iki yüz elli ile beş yüz, mometazon dört yüz, siklesonid yüz altmış ile üç yüz yirmi mikrogram.
+Yüksek doz: beklometazon binden fazla, beklometazon H F A dört yüzden fazla, budesonid sekiz yüzden fazla, flutikazon beş yüzden fazla, mometazon sekiz yüz ya da daha fazla, siklesonid ise üç yüz yirmi ile bin iki yüz seksen mikrogram.
+
+### k2b3_02 | Doz yanıt, yan etkiler, inhaler cihazlar ve kontrol tablosu
+İ K S'nin doz yanıt eğrisi düzdür. Yararın büyük kısmı düşük dozlarda elde edilir. Doz arttıkça ek yarar azalır, ama yan etki riski artmaya devam eder. Sunumun kuralı bu yüzdendir: yüksek doza çıkmak yerine ikinci bir kontrol edici eklemek tercih edilir.
+En sık eklenen ikinci ilaç uzun etkili beta iki agonisttir, yani LABA. LABA ile İ K S birbirini tamamlar. LABA bronkodilatasyon sağlar ve İ K S'nin etkisini artırır. İ K S ise beta iki reseptörlerinin azalmasını, yani toleransı önler ve inflamasyonu baskılar.
+Ve önemli bir kural: LABA astımda hiçbir zaman tek başına kullanılmaz. Çünkü inflamasyonu baskılamadan semptomları maskeler ve ağır atak ile ölüm riskini artırır.
+Yan etkilere gelelim, yine sunumdan. Lokal yan etkiler disfoni, yani ses kısıklığı, öksürük ve orofaringeal kandidiyazistir. İlaç kullandıktan sonra ağzı çalkalamak ve gargara yapmak, ayrıca hazne kullanmak bu riskleri azaltır.
+Sistemik yan etkiler ise uzun süre yüksek dozda kullanıldığında ortaya çıkar: ciltte incelme, ekimoz, sürrenal baskılanması ve osteoporoz. Bunlara katarakt, glokom ve çocuklarda büyüme hızında hafif yavaşlama eklenebilir. Düşük ve orta dozlarda sistemik yan etki riski çok düşüktür. Sistemik, yani oral steroidin yan etkileriyle karşılaştırılamayacak kadar azdır.
+Şimdi inhaler cihazlar ve hazne, yani spacer. Sunuma göre ilaçların inhalasyon yoluyla verilmesinin üç nedeni vardır. Bir: istenen yerde etki oluşur. İki: daha az dozda ilaç yeterli olur. Üç: daha az yan etki oluşur.
+İnhale salbutamolün dozu, oral dozun yaklaşık yirmide biridir. İ K S'nin sistemik etkisi de oral steroide göre çok düşüktür. Ancak bu avantaj, ilacın gerçekten akciğere ulaşmasına bağlıdır. Akciğere ulaşan oran, cihaza ve hastanın tekniğine göre büyük farklılık gösterir. Başlıca cihazlar şunlar.
+Birincisi, basınçlı ölçülü doz inhaler, yani M D I. En yaygın cihazdır. İtici gazla bir doz ilaç çok hızlı püskürtülür. Doğru kullanım için hastanın iki şeyi aynı anda yapması gerekir: cihaza basmak ve yavaş, derin nefes almaya başlamak. Buna el nefes koordinasyonu denir. Ardından hastanın yaklaşık on saniye nefesini tutması gerekir.
+Yaşlılar, çocuklar ve atak sırasındaki hastalar bu koordinasyonu çoğu zaman sağlayamaz. İlacın büyük kısmı ağız ve boğazda kalır.
+İkincisi, hazne, yani spacer. M D I'nin ucuna takılan, içinde ilacın birkaç saniye asılı kaldığı plastik ya da metal bir tüptür. Hasta önce cihaza basar, sonra hazneden sakin birkaç nefes alır. Böylece el nefes koordinasyonu ihtiyacı ortadan kalkar.
+Büyük partiküller haznenin duvarına yapıştığı için ağızda kalan ilaç ve buna bağlı kandidiyazis ile ses kısıklığı azalır, akciğere ulaşan oran artar. Küçük çocuklarda yüz maskeli hazneler kullanılır. Atakta M D I ve hazne, nebülizör kadar etkilidir.
+Üçüncüsü, kuru toz inhalerler: Diskus, Turbuhaler ve benzerleri. Nefesle çalışır, itici gaz içermez. Koordinasyon gerektirmez. Ama ilacın tozunu dağıtmak için hastanın güçlü ve hızlı bir nefes alması gerekir. Ağır atakta, küçük çocuklarda ve güçsüz yaşlılarda bu akım sağlanamayabilir.
+Dördüncüsü, nebülizör. İlacı sıvı bir sisten verir. Koordinasyon ya da güçlü nefes gerektirmez. Ağır atakta, küçük çocukta ve diğer cihazları kullanamayan hastada kullanılır.
+Bu bilgiler sınav sorusunu doğrudan çözer. M D I kullanan ve el nefes koordinasyonu sağlayamayan yaşlı bir hastaya hazne, yani spacer önerilir. Bu, 2022 2023 sınavının yirmi sekizinci sorusuydu. Her kontrol vizitinde hastanın cihazını nasıl kullandığı gözlenmelidir. "İlaç işe yaramıyor" diyen hastaların önemli bir kısmında sorun ilaç değil, tekniktir.
+Sırada astım kontrolünün değerlendirilmesi var. Tedavi kararı, hastalığın kontrol düzeyine göre verilir. Sunumdaki kontrol tablosu, son dört haftaya bakarak hastayı üç gruptan birine yerleştirir: tam kontrol, kısmi kontrol ve kontrolsüz. Tam kontrol için aşağıdaki özelliklerin hepsi olmalıdır. Kısmi kontrol için herhangi biri yeterlidir.
+Birinci özellik, gün içi semptom. Tam kontrolde haftada iki kez ya da daha az, ya da hiç yok. Kısmi kontrolde haftada ikiden fazla.
+İkincisi, gece uyanma. Tam kontrolde yok, kısmi kontrolde var.
+Üçüncüsü, aktivite kısıtlaması. Tam kontrolde yok, kısmi kontrolde var.
+Dördüncüsü, rahatlatıcı ilaç ihtiyacı. Tam kontrolde haftada iki kez ya da daha az, ya da hiç yok. Kısmi kontrolde haftada ikiden fazla.
+Beşincisi, FEV bir ya da PEF. Tam kontrolde normal. Kısmi kontrolde, beklenen ya da kişisel en iyi değerin yüzde sekseninin altında.
+Peki kontrolsüz astım nedir? Bu beş özellik için tablo tek bir tanım verir: bir haftada kısmi kontrol özelliklerinden üç ya da daha fazlasının bulunması.
+Altıncı özellik, alevlenme. Tam kontrolde yok. Kısmi kontrolde yılda bir ya da daha fazla. Kontrolsüz astımda ise bir haftada bir kez.
+Yedincisi, anket. Tam kontrolde A K T yirmi beş, A C Q sıfır virgül yetmiş beş ya da altında. Kısmi kontrolde A K T yirmi ile yirmi dört arası, A C Q sıfır virgül yetmiş beş ile bir buçuk arası. Kontrolsüz astımda A K T on dokuz ya da altında, A C Q bir buçuk ya da üstünde.
+Astım Kontrol Testi, yani A K T, hastanın kendisinin doldurduğu beş soruluk bir ankettir. Son dört haftaya ait şunları sorar: astımın işi ve okulu ne kadar etkilediğini, nefes darlığı sıklığını, gece ya da sabah erken uyanmaları, rahatlatıcı ilaç kullanımını ve hastanın kendi kontrol değerlendirmesini.
+Her soru bir ile beş puandır, toplam beş ile yirmi beş arasıdır. Sunuma göre yirmi beş puan tam kontrol, yirmi ile yirmi dört kısmi kontrol, yirminin altı ise kontrol altında değil anlamına gelir.
+
+### k2b3_03 | PEF metre, risk faktörleri ve basamak tedavisi
+Şimdi PEF metre ile izlem. Anketler hastanın algısına dayanır. Bazı hastalar ağır obstrüksiyonu bile hissetmez. Nesnel, ucuz ve evde uygulanabilen izlem aracı PEF metredir. Astımın klinik takibinde en sık kullanılan nesnel kriter PEF metredir. Bu, 2023 2024 sınavının otuz ikinci sorusuydu.
+Hastaya, kişisel en iyi PEF değerine göre yazılı bir eylem planı verilir. Örneğin en iyi değerin yüzde sekseninin üzeri, tedaviye aynen devam demektir. Yüzde elli ile seksen arası, tedaviyi artırma ve hekime başvurma anlamına gelir. Yüzde ellinin altı ise acil başvuru demektir.
+Gelecekteki atak riskini artıran faktörler de kontrol değerlendirmesinin parçasıdır. Bunlar şunlar: son bir yılda ağır atak geçirmiş olmak, düşük FEV bir, kısa etkili beta iki agonistin aşırı kullanımı, yani ayda bir kutudan fazla, İ K S'nin reçete edilmemesi ya da düzensiz kullanılması, yanlış inhaler tekniği, sigara, obezite, kan eozinofilisi ve daha önce yoğun bakımda entübe edilmiş olmak.
+Şimdi basamak tedavisi ve kontrole dayalı yaklaşım. Astım tedavisi beş basamaklı bir merdiven gibi düzenlenir. Hasta, kontrol düzeyine göre merdivende yukarı ya da aşağı hareket eder. Bunu birazdan Şekil üç nokta birde göreceğiz.
+Sunumdaki şemada her basamakta bir ilk seçenek ve alternatifler vardır. Bütün basamaklarda iki ortak unsur bulunur: hasta eğitimi ve çevresel kontrol ile gerektiğinde hızlı etkili beta iki agonist.
+Ekrandaki Şekil üç nokta bir, sunumdaki basamak tedavisi şeması. Beş kutu soldan sağa, bir merdiven gibi yükseliyor. Birinci basamak: gerektiğinde hızlı etkili beta iki. Altında şu not var: kontrol edici gerekmez.
+İkinci basamak: düşük doz İ K S. Alternatif: L T R A. Üçüncü basamak: düşük doz İ K S artı LABA. Alternatif: orta doz İ K S, ya da düşük doz İ K S artı L T R A veya teofilin.
+Dördüncü basamak: orta ile yüksek doz İ K S artı LABA. Altında artı eksi işaretiyle L T R A ve veya teofilin yazıyor, yani bunlar da eklenebilir. Bir de şu not var: uzman merkeze sevk. Beşinci basamak: dördüncü basamak artı oral K S, yani oral kortikosteroid, ve veya anti IgE. Parantez içinde de şu yazıyor: bugün diğer biyolojikler de.
+Basamakların altında, boydan boya iki şerit var. Birincisi: gerektiğinde hızlı etkili beta iki agonist, yani semptom giderici, bütün basamaklarda. İkincisi: hasta eğitimi ve çevresel kontrol, yani tetikleyicilerden kaçınma, bütün basamaklarda.
+Sol üstte de sağa doğru yükselen bir ok var. Okun başında iki satır yazı var. Birincisi: kontrol yoksa basamak artır. İkincisi: üç ay kontrolde kalırsa azalt.
+Altyazıya göre mavi çerçeveli basamaklar, yani ikinci ve üçüncü basamaklar, hastaların çoğunun kontrol altına alındığı basamaklardır. Dördüncü ve beşinci basamaktaki hastalar, astım tedavisinde deneyimli bir üst merkeze sevk edilir. Güncel kılavuzdaki farklar ise metindeki kutuda verilmiştir.
+Peki kontrole dayalı yaklaşım nasıl işler? Sunuma göre hasta kontrol altındaysa, kontrolü sağlayan en düşük basamağa inilerek kontrol sürdürülür. Basamak azaltmak için kontrolün en az üç ay sürmesi beklenir.
+Kısmen kontrol altındaysa, kontrolü sağlamak için basamak artırmak düşünülür. Kontrol altında değilse, kontrol sağlanıncaya kadar basamak artırılır ve hasta yaklaşık dört hafta sonra yeniden değerlendirilir. Alevlenme varsa, alevlenme tedavisi uygulanır.
+Basamak artırmadan önce her zaman üç şey kontrol edilir: hasta ilacını kullanıyor mu, inhaler tekniği doğru mu ve tetikleyicilerden uzak duruyor mu?
+Şimdi yine bir kutu: sunum ile güncel bilgi arasındaki fark, güncel GINA. Sunumdaki şemada birinci basamak yalnızca gerektiğinde kısa etkili beta iki agonistten, yani SABA'dan oluşur. GINA ise 2019'dan beri, ergen ve erişkinde yalnız SABA tedavisini önermez.
+Nedenleri şunlar. Hafif astımlı hastalar da ağır atak geçirebilir. Yalnız SABA kullanan hastada inflamasyon hiç tedavi edilmez. Ve SABA'nın aşırı kullanımı atak ve ölüm riskini artırır. Güncel kılavuzun tercih ettiği yolda kurtarıcı ilaç, düşük doz İ K S formoterol kombinasyonudur. Sınavda sunumdaki şema sorulur, ama güncel yaklaşımı bilmek klinik pratik için şarttır.
+Güncel yaklaşımın ayrıntısına bakalım. Formoterol hem uzun etkili, hem de birkaç dakikada etki eden bir beta iki agonisttir. Bu yüzden kurtarıcı olarak kullanılabilir.
+Kılavuzun tercih ettiği yolda, yani birinci yolda, birinci ve ikinci basamaktaki hasta yalnızca belirti olduğunda İ K S formoterol alır. Böylece her kurtarıcı dozla birlikte bir miktar steroid de almış olur. Üçüncü ve dördüncü basamakta aynı inhaler hem düzenli idame, hem de kurtarıcı olarak kullanılır. Buna idame ve rahatlatıcı tedavi denir. Beşinci basamakta uzun etkili antimuskarinik, yani tiotropium eklenir ve fenotipe göre biyolojik ilaç seçilir.
+Kurtarıcı olarak SABA kullanılan alternatif yolda, yani ikinci yolda ise, birinci basamaktan itibaren SABA her kullanıldığında İ K S de alınır. Üst basamaklarda düzenli İ K S ya da İ K S LABA kullanılır.
+
+### k2b3_04 | Astım atağı, zor astım ve yıl grafiği
+Şimdi astım atağı, yani alevlenme. Astım atağı; nefes darlığı, öksürük, hırıltı ya da göğüste sıkışmanın, hastanın olağan durumunun ötesinde giderek kötüleşmesi ve buna akciğer fonksiyonunda azalmanın eşlik etmesidir.
+En sık tetikleyicileri viral enfeksiyonlar, alerjenler, hava kirliliği ve tedaviye uyumsuzluktur. Ataklar bazen, daha önce iyi görünen hastalarda da gelişebilir.
+Önce ağırlığın değerlendirilmesi. Tabloda üç düzey var: hafif orta atak, ağır atak ve hayatı tehdit eden atak.
+Konuşma: hafif orta atakta hasta cümle kurabilir. Ağır atakta ancak kelimelerle konuşur.
+Pozisyon ve bilinç: hafif orta atakta oturmayı tercih eder, ajite değildir. Ağır atakta öne eğilerek oturur ve ajitedir.
+Solunum ve nabız: hafif orta atakta solunum hızı artmıştır, nabız dakikada yüz ile yüz yirmi arasındadır. Ağır atakta solunum dakikada otuzun, nabız dakikada yüz yirminin üzerindedir ve yardımcı kaslar kullanılır.
+Oksijen satürasyonu: hafif orta atakta yüzde doksan ile doksan beş arası. Ağır atakta yüzde doksanın altında.
+PEF, beklenen ya da kişisel en iyi değere göre: hafif orta atakta yüzde ellinin üzerinde. Ağır atakta yüzde elli ya da altında.
+Hayatı tehdit eden atağın bulguları ise tek bir hücrede toplanmış: uykuya eğilim, bilinç bulanıklığı, sessiz akciğer, siyanoz, bradikardi, hipotansiyon ve yorgunluk.
+Burada arter kan gazındaki tehlike işaretine dikkat. Atak sırasında hasta hızlı soluduğu için karbondioksit normalde düşüktür, yani hipokapni vardır. Ağır bir atakta P a C O ikinin normal ya da yüksek bulunması, karbondioksidi atacak solunumun artık yetmediğini, yani solunum kaslarının yorulduğunu gösterir.
+"Normal" görünen bu değer, yaklaşan solunum yetmezliğinin işaretidir ve yoğun bakım değerlendirmesi gerektirir.
+Şimdi atağın tedavisi. Birincisi, kısa etkili beta iki agonist. İlk saatte yirmi dakikada bir tekrarlanan dozlarda verilir, tercihen M D I ve hazneyle ya da nebülizörle.
+İkincisi, kontrollü oksijen. Erişkinde hedef satürasyon yüzde doksan üç ile doksan beş.
+Üçüncüsü, sistemik kortikosteroid. Erken verilmelidir. Erişkinde günde kırk ile elli miligram prednizolon, beş ile yedi gün. Etkisi dört ile altı saatte başlar, geç faz inflamasyonunu ve yeni atak riskini azaltır.
+Dördüncüsü, ipratropium bromür. Ağır atakta beta iki agoniste eklenir. Hava yolu düz kasındaki M üç reseptörlerini bloke ederek ek bronkodilatasyon sağlar ve hastaneye yatışı azaltır. Ayrıntısı Kitap dörtte.
+Beşincisi, damar içi magnezyum sülfat. Başlangıç tedavisine yanıt vermeyen ağır atakta kullanılır.
+Ve kaçınılacaklar: sedatifler, çünkü solunumu baskılar. Bir de enfeksiyon kanıtı yoksa rutin antibiyotik.
+Taburcu olan hastada ne yapılır? Kontrol edici tedavi başlanır ya da basamak artırılır. Oral steroid kürü tamamlanır. İnhaler tekniği gözden geçirilir. Yazılı eylem planı verilir ve iki ile yedi gün içinde kontrol randevusu verilir.
+Astıma bağlı ölüm riskini artıran durumlar da şunlar: hayatı tehdit eden atak öyküsü, son bir yılda hastaneye yatış, düzenli İ K S kullanmama, ayda bir kutudan fazla SABA kullanımı ve psikososyal sorunlar.
+Bölümün son konusu zor astım. Tedaviye rağmen kontrol edilemeyen hastada, yüksek doza ya da biyolojik ilaca geçmeden önce sunumdaki beş soru sorulmalıdır.
+Bir: hasta astım mıdır? KOAH, sol kalp yetersizliği, vokal kord disfonksiyonu ve diğer taklitçiler dışlanmalıdır.
+İki: tedavi doğru mu ve kullanılıyor mu? Uyum, inhaler tekniği, ilaç seçimi, eğitim ve yazılı talimat gözden geçirilmelidir.
+Üç: tetikleyen bir etken var mı? Alerjen, stres ve ilaçlar, yani beta bloker ve N S A İ İ.
+Dört: ek ya da sistemik bir hastalık var mı? Enfeksiyon, rinosinüzit, gastroözofageal reflü, tirotoksikoz ve eozinofilik granülomatöz polianjiit, yani Churg Strauss sendromu.
+Beş: farklı bir fenotip mi? Noktürnal, premenstrüel, brittle, steroide dirençli ya da bağımlı astım.
+Bu soruların hepsi yanıtlandığı hâlde yüksek doz İ K S LABA ile kontrol edilemeyen hastaya ağır astım denir. Bu hastalar fenotipine göre, yani alerjik ya da eozinofilik olmasına göre, biyolojik ilaçlarla tedavi edilir.
+Bunlar şunlar: anti IgE, yani omalizumab. Anti interlökin beş, yani mepolizumab ve reslizumab. Anti interlökin beş reseptörü, yani benralizumab. Anti interlökin dört reseptörü, yani dupilumab. Ve anti T S L P, yani tezepelumab. Ayrıntıları Kitap dörttedir.
+Şimdi bu bölümden yıllara göre soru sayısına bakalım. Ekrandaki grafiğe göre 2022 2023 sınavında iki, 2023 2024 sınavında üç, 2024 sınavında bir ve 2025 2026 sınavında iki soru geldi. Toplam sekiz soru.
+Yani tedavi soruları her yıl geldi. En çok sorulan bilgi, astımda ilk tercih antiinflamatuvar ilacın inhale steroid olduğudur: dört yılda dört kez. Uzun etkili antikolinerjiklerin kontrol edici olmadığı iki kez, hazne ve PEF metre ise birer kez soruldu.
+
+### k2b3_05 | Bölüm sonu soruları
+Şimdi bölüm sonu sorularını birlikte çözelim. Soru bir. Bu soru dört sınavda soruldu: 2025 2026 sınavının on birinci, 2022 2023 sınavının otuz üçüncü, 2024 sınavının otuz üçüncü ve 2023 2024 sınavının yirmi ikinci sorusu.
+Aşağıdaki ilaçlardan hangisi astım tedavisinde en birincil tercih edilecek antiinflamatuvar ilaçtır?
+A: İnhale antikolinerjikler.
+B: Uzun etkili beta iki blokörler.
+C: Uzun etkili beta iki mimetikler.
+D: Oral montelukast.
+E: İnhale steroidler.
+Durdur ve düşün.
+Doğru cevap E. İnhale kortikosteroidler en etkin kontrol edicidir. Astım inflamasyonunun neredeyse her halkasını baskılar: T H iki sitokinlerini, eozinofil göçünü ve yaşamasını, mast hücresi birikimini ve mukus yapımını. Düzenli kullanım, atakları ve astım ölümlerini azaltır.
+A yanlış: antikolinerjikler bronkodilatördür, antiinflamatuvar değildir. B yanlış: beta iki blokörler astımda bronkospazm yapar ve kontrendikedir. Bu şık çeldiricidir: "mimetik" ile "blokör" kelimelerini karıştırtmayı amaçlar.
+C yanlış: LABA'lar bronkodilatördür ve inflamasyonu baskılamaz. Astımda tek başına kullanılmaz, yalnızca İ K S ile birlikte kullanılır. D yanlış: montelukast hafif bir antiinflamatuvar etkiye sahiptir ve ikinci basamakta İ K S'nin alternatifidir. Ama etkisi İ K S'den belirgin olarak zayıftır.
+Soru iki. 2025 2026 sınavının on ikinci ve 2023 2024 sınavının yirmi dokuzuncu sorusu.
+Astımlı bir olguda aşağıdakilerden hangisi tedavi edici ilaç grubundan değildir?
+A: Sistemik kortikosteroidler.
+B: İnhale kortikosteroidler.
+C: Mast hücre stabilizatörleri.
+D: Lökotrien antagonistleri.
+E: Uzun etkili antikolinerjikler.
+Durdur ve düşün.
+Doğru cevap E. Sunumdaki sınıflamada "tedavi edici" ilaçlar, kontrol edici, yani inflamasyonu hedefleyen ilaçlardır. Antikolinerjikler bu grupta yer almaz. Yalnızca bronkokonstriksiyonu açan semptom giderici grupta sayılır.
+A ve B kortikosteroidlerdir ve inflamasyonun en güçlü baskılayıcılarıdır. C, yani kromolin ve nedokromil, mast hücresinin degranülasyonunu önler ve profilaktik olarak kullanılır. D, yani montelukast ve zafirlukast, sisteinil lökotrienlerin Cys L T bir reseptörüne bağlanmasını engeller ve kontrol edici olarak kullanılır.
+Burada güncel kılavuzla bir fark var. GINA'da uzun etkili antikolinerjik tiotropium, dördüncü ve beşinci basamakta İ K S LABA'ya eklenen bir kontrol edicidir. Bu açıdan soru tartışmaya açıktır. Ancak tiotropium inflamasyonu baskılamaz ve astımda temel kontrol edici değildir. Sunumun sınıflamasına göre kabul edilen cevap iki yılda da E'dir.
+Soru üç. 2022 2023 sınavı, yirmi sekizinci soru.
+Hava yolları hastalığı saptayarak tedavisinde ayarlı doz inhaler formunda bir ilaç reçete ettiğiniz yaşlı bir hastanıza, kontrol muayenesinde inhaler tekniğini gözlemlerken hastanızın el nefes koordinasyonu sağlayamadığını saptarsanız, aşağıdaki hangi cihazı kullanmasını önerirsiniz?
+A: Spacer.
+B: M D I.
+C: Diskus.
+D: Turbohaler.
+E: PEF metre.
+Durdur ve düşün.
+Doğru cevap A. Hazne, yani spacer, M D I'nin ucuna takılır. Püskürtülen ilaç hazne içinde birkaç saniye asılı kalır ve hasta onu sakin nefeslerle solur. Böylece basma ile nefes almanın aynı anda yapılması gerekmez. Hasta aynı ilacı ve aynı cihazı kullanmaya devam eder. Ayrıca ağızda kalan ilaç ve buna bağlı yan etkiler azalır.
+B yanlış: hasta zaten M D I kullanmaktadır ve sorun bu cihazın gerektirdiği koordinasyondur. C ve D kuru toz inhalerdir. Koordinasyon gerektirmezler, ama ilacın dağılması için güçlü ve hızlı bir nefes gerekir. Yaşlı hastalar bu akımı çoğu zaman sağlayamaz.
+Ayrıca ilacı başka bir cihaza değiştirmek, mevcut tedaviye bir parça eklemekten daha zahmetlidir. E yanlış: PEF metre bir ölçüm aracıdır, ilaç vermez.
+Soru dört. 2023 2024 sınavı, otuz ikinci soru.
+Astımda en sık kullanılan klinik takip kriteri aşağıdakilerden hangisidir?
+Bu sorunun şıkları kaynakta kayıtlı değil.
+Durdur ve düşün.
+Cevap D şıkkı: PEF metre. PEF metre ucuz, taşınabilir ve evde kullanılabilen nesnel bir ölçüm aracıdır. Hasta her gün ölçüm yaparak kötüleşmeyi semptomlardan önce fark edebilir. Kişisel en iyi değere göre hazırlanan yazılı eylem planı bu ölçüme dayanır.
+Sorunun muhtemel diğer şıkları, örneğin spirometri, akciğer grafisi, arter kan gazı ya da balgam incelemesi, ya her gün yapılamaz ya da astımın takibinde yeri yoktur. Spirometri en doğru ölçümdür, ama kontrol vizitlerinde yapılır, günlük izlem için uygun değildir. Astım Kontrol Testi gibi anketler de takipte kullanılır, ama hastanın algısına dayanır.
+Son olarak, konuyu pekiştirmek için hazırlanmış yeni bir soru.
+Acil servise ağır astım atağıyla getirilen yirmi beş yaşındaki hastanın kelimelerle konuşabildiği, yardımcı solunum kaslarını kullandığı görülüyor. Arter kan gazında p H yedi virgül otuz sekiz, P a O iki altmış iki milimetre cıva, P a C O iki kırk dört milimetre cıva bulunuyor. Bu kan gazı için en doğru yorum hangisidir?
+A: Normaldir, hasta iyileşmektedir.
+B: P a C O ikinin normal olması tehlike işaretidir: solunum kasları yorulmaktadır ve yaklaşan solunum yetmezliğini gösterir.
+C: Hasta hiperventile etmektedir.
+D: Metabolik asidoz vardır.
+E: Oksijen tedavisi kontrendikedir.
+Durdur ve düşün.
+Doğru cevap B. Atak sırasında hasta hızlı soluduğu için P a C O ikinin düşük olması beklenir. Ağır obstrüksiyonu olan bir hastada P a C O ikinin normale çıkması, solunumun artık karbondioksidi atmaya yetmediğini gösterir. Bu, solunum kası yorgunluğunun ve yaklaşan yetmezliğin işaretidir. Hasta yakından izlenmeli ve yoğun bakım açısından değerlendirilmelidir.
+A yanlış: değerler "normal" aralıkta görünse de, klinik tabloyla birlikte yorumlandığında tehlikelidir. C yanlış: hiperventilasyon P a C O ikiyi düşürürdü. D yanlış: p H normaldir ve metabolik asidozu gösteren bir veri yoktur. E yanlış: astım atağında hedef satürasyona göre kontrollü oksijen verilir. Kontrendikasyon yoktur.
+Bölüm üçün sonuna geldik. Bu bölümle birlikte Astım: Patogenez, Tanı ve Tedavi İlkeleri kitabının da sonuna geldik.

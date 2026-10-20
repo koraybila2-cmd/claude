@@ -1,0 +1,187 @@
+### k4b2b_01 | Soru sayıları ve Soru 1-5
+Antiastmatik İlaçlar ve KOAH Farmakoterapisi. Bölüm ikiye devam ediyoruz: bu bölümden yıllara göre soru sayısı.
+Ekrandaki grafikte beta iki agonist sorularının yıllara göre sayısını görüyorsun. 2022 2023 sınavında üç, 2023 2024 sınavında beş, 2024 sınavında dört ve 2025 2026 sınavında beş soru. Toplam on yedi soru.
+Konulara göre dağılım şöyle. Kısa ya da uzun etkili selektif ilacı seçme, beş kez. İzoproterenol ve efedrinin tarifi, üç kez. Doğru yanlış ifade soruları, üç kez. Reseptör sinyali, iki kez. Ve yan etkiler, dört kez. Bu bölüm, kitabın en çok soru gelen bölümüdür. Şimdi bu soruları birlikte çözelim.
+Bölüm sonu soruları. Soru bir: 2022 2023 sınavı, birinci soru.
+Aşağıdakilerden hangisi astım tedavisinde kullanılan kısa etkili selektif beta iki agonist bir bronkodilatör ilaçtır?
+A: Formoterol.
+B: Aminofilin.
+C: Salmeterol.
+D: Salbutamol.
+E: İzoproterenol.
+Durdur ve düşün.
+Doğru cevap D. Salbutamol, diğer adıyla albuterol, kısa etkili selektif beta iki agonistlerin prototipidir. Etkisi dakikalar içinde başlar, üç ile beş saat sürer ve akut atağın ilk ilacıdır. İsminde "but" hecesi vardır.
+A ve C yanlış: formoterol ve salmeterol selektiftir, ama uzun etkilidir, en az on iki saat. B yanlış: aminofilin bir beta agonisti değildir. Teofilinin suda çözünen tuzudur ve fosfodiesterazı inhibe eder. Bunu Bölüm üçte konuşacağız. E yanlış: izoproterenol kısa etkilidir, ama selektif değildir, beta bir reseptörlerini de uyarır.
+Soru iki: 2024 sınavı, on ikinci soru.
+Hangisi astım tedavisinde kullanılan kısa etkili selektif beta iki agonist bronkodilatördür?
+A: İndakaterol.
+B: Arformoterol.
+C: Salmeterol.
+D: Levalbuterol.
+E: İzoproterenol.
+Durdur ve düşün.
+Doğru cevap D. Levalbuterol, albuterolün bronkodilatör etkiyi yapan R enantiyomeridir. Albuterol gibi kısa etkilidir.
+A yanlış: indakaterol ultra uzun etkilidir. Etkisi yirmi dört saat sürer ve günde bir kez verilir. KOAH'ta kullanılır. B yanlış: arformoterol, formoterolün etkin enantiyomeridir ve formoterol gibi uzun etkilidir.
+Bu sorunun tuzağı, iki enantiyomerin, yani levalbuterol ile arformoterolün, aynı şıklarda yer almasıdır. Süreyi ana ilaç belirler. C yanlış: salmeterol uzun etkilidir. E yanlış: izoproterenol selektif değildir.
+Soru üç. Bu soru iki sınavda geldi: 2023 2024 sınavının beşinci ve 2022 2023 sınavının dokuzuncu sorusu.
+Hangisi astımda, profilakside ve hastalığın kontrolünde kullanılan, uzun etkili selektif beta iki agonist bir bronkodilatördür?
+A: Efedrin.
+B: Terbutalin.
+C: Albuterol.
+D: İzoproterenol.
+E: Formoterol.
+Durdur ve düşün.
+Doğru cevap E. Formoterol en az on iki saat etkili, selektif bir beta iki agonisttir ve inhale steroidle birlikte kontrol tedavisinde kullanılır.
+2022 2023 sınavında aynı beş ilaç farklı sırayla soruldu ve formoterol D şıkkındaydı. Soru kökü, "profilakside ve hastalığın kontrolünde kullanılan" ifadesini de içeriyordu.
+A yanlış: efedrin alfa ve beta reseptörlerinin hepsini uyarır, selektif değildir. B ve C yanlış: terbutalin ve albuterol selektiftir, ama kısa etkilidir. D yanlış: izoproterenol hem selektif değildir, hem de etkisi altmış ile doksan dakika sürer.
+Soru dört: 2025 2026 sınavı, yirmi altıncı soru.
+Aşağıdakilerden hangisi astım tedavisinde kullanılan uzun etkili selektif beta iki agonist bir bronkodilatör ilaçtır?
+A: Albuterol.
+B: Arformoterol.
+C: Terbutalin.
+D: Levalbuterol.
+E: Metaproterenol.
+Durdur ve düşün.
+Doğru cevap B. Arformoterol, formoterolün R R enantiyomeridir ve onun gibi en az on iki saat etkilidir. Nebülizatörle günde iki kez kullanılan bir formu vardır.
+A, C ve D yanlış: albuterol, terbutalin ve levalbuterol kısa etkilidir. Üçünün de isminde "but" hecesi vardır. E yanlış: metaproterenol, sunumda izoproterenolle birlikte sayılan eski bir ilaçtır. Beta bir ve beta iki reseptörlerini uyarır, kısa etkilidir ve seçici değildir.
+Soru beş: 2025 2026 sınavı, yirmi sekizinci soru.
+Astım tedavisinde oral yolla kullanılabilen, güçlü bronkodilatör etkili, beta reseptörleri aktive ederken alfa reseptörler üzerinde etkisiz, aynı zamanda MAO ve COMT enzimlerince inaktive edilen ilaç aşağıdakilerden hangisidir?
+A: Adrenalin.
+B: Metoprolol.
+C: Formoterol.
+D: İzoproterenol.
+E: Efedrin.
+Durdur ve düşün.
+Doğru cevap D. İzoproterenol beta bir ve beta iki reseptörlerini uyarır, alfa reseptörlerine etkisizdir, güçlü bir bronkodilatördür ve bir katekolamin olarak MAO ve COMT ile inaktive edilir.
+A yanlış: adrenalin de katekolamindir ve MAO ile COMT tarafından yıkılır, ama alfa reseptörlerini de uyarır. B yanlış: metoprolol beta bir selektif bir bloker, yani antagonisttir. Bronkodilatör etkisi yoktur. C yanlış: formoterol yalnızca beta ikiyi uyarır ve katekolamin değildir.
+E yanlış: efedrin oral kullanılır, ama alfa reseptörlerini de uyarır ve MAO ile COMT'ye dayanıklıdır. Bu soru, hemen ardından gelen 2024 sınavının dokuzuncu sorusunun ikizidir: şıklar neredeyse aynıdır, ama tarif tersine çevrilmiştir.
+Bu kartta bir de itiraz notu var. Soru kökündeki hata şu: sunuma göre izoproterenol, adrenalin gibi MAO ve COMT ile inaktive edilir ve oral yoldan kullanılmaz. Bu iki özellik birbirine bağlıdır: barsak duvarında ve karaciğerde hızla yıkılan bir ilaç, oral yoldan etkili olamaz.
+Kökteki "oral yolla kullanılabilen" ifadesi hatalıdır. Muhtemelen 2024 sınavının dokuzuncu sorusundaki efedrin tarifinden aktarılmıştır. Diğer üç özelliğin hepsine uyan tek ilaç izoproterenoldür ve cevap anahtarı da D'dir.
+
+### k4b2b_02 | Soru 6-11
+Soru altı: 2024 sınavı, dokuzuncu soru.
+Astım tedavisinde kullanılan, oral yolla verilebilen, alfa ve beta reseptörleri uyarırken MAO ve COMT'ye dayanıklı olan ilaç hangisidir?
+A: Adrenalin.
+B: Metoprolol.
+C: Formoterol.
+D: Metaproterenol.
+E: Efedrin.
+Durdur ve düşün.
+Doğru cevap E. Efedrin katekolamin değildir ve MAO'ya dirençli bir yapı taşır. Bu yüzden oral etkilidir ve etkisi adrenalinden uzun sürer. Hem alfa hem beta reseptörlerini uyarır.
+A yanlış: adrenalin alfa ve beta reseptörlerini uyarır, ama katekolamindir. MAO ve COMT ile hızla yıkılır ve oral etkisizdir. B yanlış: metoprolol beta bir blokeridir. C yanlış: formoterol yalnızca beta iki reseptörünü uyarır. D yanlış: metaproterenol beta bir ve beta ikiyi uyarır, alfa reseptörlerine etkisizdir. Bu şık yalnızca alfa kriteriyle bile elenir.
+Soru yedi: 2023 2024 sınavı, on dördüncü soru.
+Güçlü bronkodilatör etkili, beta bir ve beta iki aktivasyonu yapan, ancak alfa reseptörleri etkilemeyen ilaç hangisidir?
+A: Salmeterol.
+B: İzoproterenol.
+C: Formoterol.
+D: Teofilin.
+E: Nedokromil.
+Durdur ve düşün.
+Doğru cevap B. İzoproterenol saf bir beta agonistidir: beta bir ve beta ikiyi uyarır, alfayı etkilemez. Beta bir etkisi taşikardi ve aritmi yapar.
+A ve C yanlış: salmeterol ve formoterol selektif beta iki agonistlerdir. Terapötik dozlarda beta bir etkileri belirgin değildir. D yanlış: teofilin bir reseptörü uyarmaz. Fosfodiesterazı inhibe eder ve adenozin reseptörlerini bloke eder. E yanlış: nedokromil mast hücre stabilizatörüdür ve bronkodilatör etkisi yoktur.
+Soru sekiz: 2025 2026 sınavı, otuzuncu soru.
+Astım tedavisinde kullanılan beta iki agonist ilaçlar ile ilgili aşağıdakilerden hangisi doğrudur?
+A: Reseptör aktivasyonu sonrası sırasıyla G s inhibisyonu, adenilil siklaz inhibisyonu, siklik AMP düzeyinde artış ve kalsiyum influksunda artış meydana gelir.
+B: Selektif kısa etkili olanlar akut ataklarda kontrendikedir.
+C: Albuterol gibi selektif kısa etkili beta adrenerjik agonistler, katekolamin yapısında olmadıkları için COMT tarafından yıkılmazlar.
+D: Terbutalin, adrenalin gibi vazokonstrüktör etkisiyle bronş mukozasını büzerek mukoza ödemini azaltır.
+E: Salmeterol hidrofilik olduğu için etkileri hızlı başlar.
+Durdur ve düşün.
+Doğru cevap C. COMT, katekol halkasını hedef alır. Albuterolde bu halka olmadığı için ilaç COMT'ye dayanıklıdır, oral olarak da etkilidir ve etkisi izoproterenolden uzun sürer.
+A yanlış: zincirin üç halkası tersine çevrilmiştir. Doğrusu G s aktivasyonu, adenilil siklaz stimülasyonu, siklik AMP artışı ve hücre içi kalsiyumun azalmasıdır. Şık kendi içinde de tutarsızdır: adenilil siklaz inhibe olursa siklik AMP artamaz.
+B yanlış: kısa etkili selektif beta iki agonistler akut atağın ilk tercihidir. D yanlış: terbutalin selektif beta iki agonisttir. Alfa etkisi olmadığı için vazokonstriksiyon yapmaz, tersine damarlarda beta iki aracılı vazodilatasyon yapar. E yanlış: salmeterol çok lipofiliktir ve etkisi yavaş, on ile yirmi dakikada başlar.
+Soru dokuz: 2024 sınavı, beşinci soru.
+Astım tedavisinde kullanılan selektif beta iki agonistlerle ilgili aşağıdakilerden hangisi doğrudur?
+A: Salmeterol ve formoterol hızlı etkili oldukları için akut atakta kullanılır.
+B: Adrenalin bu grubun hızlı etkili prototipidir.
+C: Uzun süreli kullanımında tremor meydana gelebilir.
+D: Albuterol ve terbutalin katekolamin oldukları için COMT ve MAO ile yıkılır.
+E: Güçlü antiinflamatuar etkileri vardır.
+Durdur ve düşün.
+Doğru cevap C. İskelet kasındaki beta iki reseptörlerinin uyarılması tremor yapar. Tremor bu grubun en sık yan etkisidir. Sürekli kullanımda kısmen tolerans gelişir.
+A yanlış: salmeterol ve formoterol uzun etkilidir. Sunuma göre etkileri yavaş başladığı için akut atakta uygun değildirler. Formoterolün hızlı başlaması, güncel kılavuzlarda yalnızca steroidle birlikte kullanımına izin verir. Bu konu Kitap ikide anlatılır.
+B yanlış: adrenalin selektif değildir, grubun prototipi albuteroldür. D yanlış: albuterol ve terbutalin katekolamin değildir. E yanlış: beta iki agonistlerin antiinflamatuvar etkisi yoktur. Bu yüzden astımda tek başlarına kullanılmazlar.
+Soru on: 2023 2024 sınavı, ikinci soru.
+Astım tedavisinde kullanılan beta iki agonistlerle ilgili hangisi doğrudur?
+A: Uzun süreli kullanımda hiperkalemi yapar.
+B: Salmeterol akut atakta kullanılır.
+C: Steroidlerle kombine kullanımı tolerans gelişimini azaltır.
+D: Albuterol katekolamindir.
+E: Güçlü antiinflamatuar etkileri vardır.
+Durdur ve düşün.
+Doğru cevap C. Sürekli uyarılan beta iki reseptörleri fosforillenir, hücre içine çekilir ve sayıları azalır. Kortikosteroidler, beta iki reseptör geninin ifadesini artırarak reseptör sayısını korur. Bu yüzden kombinasyon toleransı azaltır.
+A yanlış: beta iki uyarısı sodyum potasyum ATPaz'ı aktive eder ve potasyumu hücre içine sokar. Sonuç hiperkalemi değil, hipokalemidir. B yanlış: salmeterolün etkisi yavaş başlar, atakta kullanılmaz. D yanlış: albuterol katekolamin değildir. E yanlış: antiinflamatuvar etkileri yoktur.
+Soru on bir: 2025 2026 sınavı, otuz birinci soru.
+Astım tedavisinde kullanılan, beta iki adrenerjik reseptörleri uyararak etki gösteren sempatomimetik ilaçların bronş ve bronşiol düz kas hücrelerinde meydana getirdiği etki için aşağıdakilerden hangisi doğrudur?
+A: Azalmış potasyum efluksu.
+B: Sarkoplazmik retikuluma kalsiyum geçişinin artması.
+C: Hücre içine ekstraselüler sıvıdan artan kalsiyum girişi.
+D: G s inhibisyonu.
+E: Siklik AMP miktarında azalma.
+Durdur ve düşün.
+Doğru cevap B. Siklik AMP ile aktive olan protein kinaz A, sarkoplazmik retikulumun kalsiyum pompasını uyarır. Sitoplazmadaki kalsiyum sarkoplazmik retikuluma geri alınır ve kas gevşer.
+Diğer dört şık, zincirin bir halkasını tersine çevirir. A yanlış: PKA, kalsiyuma duyarlı potasyum kanallarını açar. Potasyum çıkışı artar ve hücre hiperpolarize olur. C yanlış: hiperpolarizasyon voltaj bağımlı kalsiyum kanallarını kapatır, dışarıdan kalsiyum girişi azalır. D yanlış: beta iki reseptörü G s'yi aktive eder. E yanlış: siklik AMP artar.
+
+### k4b2b_03 | Soru 12-16 ve pekiştirme sorusu
+Soru on iki: 2024 sınavı, altıncı soru.
+Beta iki agonistlerin reseptör aktivasyonu sırasında bronşiyal düz kas hücresinde gerçekleşen olayların sırası hangisidir?
+Bu sorunun şıkları kaynakta kayıtlı değil.
+Durdur ve düşün.
+Kaynaktaki cevap şöyle: G s aktivasyonu, ardından adenilil siklaz stimülasyonu, ardından siklik AMP düzeyinde artış ve son olarak kalsiyumun hücreden efluksu.
+Cevap açıklaması bu sırayı şöyle yazıyor: G s aktivasyonu, adenilil siklaz stimülasyonu, siklik AMP artışı ve kalsiyumun sitoplazmadan uzaklaştırılması. Bu, Şekil bir nokta birdeki sol yolun sırasıdır.
+Her basamak bir öncekinin ürünüdür. Aktive G s alfa, adenilil siklazı uyarır. Adenilil siklaz, ATP'den siklik AMP yapar. Siklik AMP, protein kinaz A'yı aktive eder. PKA da kalsiyumu sitoplazmadan uzaklaştırır: sarkoplazmik retikuluma geri alarak ve hücre dışına atarak.
+Bu tür sıralama sorularında yanlış şıklar genellikle tek bir halkayı ters çevirir: G s inhibisyonu, siklik AMP azalması ya da kalsiyum influksu. Bir halkanın yönü yanlışsa, zincirin geri kalanı da mantıksız hâle gelir.
+Soru on üç: 2025 2026 sınavı, otuz ikinci soru.
+Otuz iki yaşında, astım öyküsü bulunan erkek hasta, kısa etkili beta iki agonist inhalerini önerilen dozun üzerinde kullanmıştır. Aşağıdakilerden hangisi hastada oluşabilecek advers etkilerden biri değildir?
+A: İskelet kası tremoru.
+B: Hipokalemi.
+C: Taşikardi.
+D: Kardiyak aritmi.
+E: Hipoglisemi.
+Durdur ve düşün.
+Doğru cevap E. Beta iki uyarısı karaciğerde glikojenolizi ve glukoneogenezi artırır. Kan şekeri düşmez, yükselir, yani hiperglisemi olur. Diyabetik astımlılarda yüksek doz salbutamolden sonra kan şekeri izlenmelidir.
+A, B, C ve D, aşırı dozun beklenen yan etkileridir. A, iskelet kasındaki beta iki reseptörlerinden kaynaklanır. B, sodyum potasyum ATPaz ile potasyumun hücre içine girişinden. C ve D ise vazodilatasyona refleks yanıttan, kalpteki beta iki reseptörlerinden ve yüksek dozda beta bir uyarısından. Hipokalemi, aritmi riskini ayrıca artırır.
+Soru on dört: 2022 2023 sınavı, üçüncü soru.
+Aşağıdakilerden hangisi beta adrenerjik agonistlerin oluşturabileceği yan etkilerinden değildir?
+A: Aritmiler.
+B: Hipokalemi.
+C: Bradikardi.
+D: Hiperglisemi.
+E: İskelet kası tremoru.
+Durdur ve düşün.
+Doğru cevap C. Beta agonistler kalp hızını artırır. Beta bir uyarısı doğrudan, damarlardaki beta iki aracılı vazodilatasyon ise refleks olarak taşikardi yapar. Bradikardi, beta blokerlerin yan etkisidir.
+A, B, D ve E, beta agonistlerin bilinen yan etkileridir. Bir önceki kartla aynı listedir. Bu kez değiştirilen yan etki taşikardi, bradikardiye çevrilmiş. Önceki kartta ise hiperglisemi, hipoglisemiye çevrilmişti.
+Soru on beş: 2023 2024 sınavı, birinci soru.
+İnhale albuterol kullanımına bağlı beklenen etkilerden biri değildir?
+A: Düz kas gevşemesi.
+B: İskelet kası tremoru.
+C: Taşikardi.
+D: Pozitif inotropik etki.
+E: Vazokonstrüksiyon.
+Durdur ve düşün.
+Doğru cevap E. Albuterolün alfa etkisi yoktur. Damar düz kasındaki beta iki reseptörlerini uyardığı için vazokonstriksiyon değil, vazodilatasyon yapar. Vazokonstriksiyon, alfa etkili adrenalin ve efedrine aittir.
+A istenen etkidir, yani bronş düz kasının gevşemesi. B, iskelet kası beta iki reseptörlerinin etkisidir. C ve D kalbe aittir: insan kalbinde beta bir reseptörlerinin yanında beta iki reseptörleri de bulunur ve yüksek dozda beta bir de uyarılır. Bu yüzden taşikardi ve kasılma gücünde artış, yani pozitif inotropi görülebilir.
+Soru on altı: 2023 2024 sınavı, on ikinci soru.
+Yan etki olarak iskelet kası tremoruna yol açan antiastmatik hangisidir?
+A: Albuterol.
+B: Tiotropium.
+C: Aminofilin.
+D: Metilprednizolon.
+E: Zileuton.
+Durdur ve düşün.
+Doğru cevap A. İskelet kası tremoru, beta iki agonistlerin en sık ve en tipik yan etkisidir. İskelet kası liflerindeki beta iki reseptörleri kasılmanın hızını ve gücünü değiştirir, fizyolojik titreme belirginleşir.
+B yanlış: tiotropium dördüncül amin yapısındadır ve sistemik emilimi azdır. En sık yan etkisi ağız kuruluğudur.
+C şıkkına dikkat: aminofilinin de merkezi sinir sistemi uyarısına bağlı titremesi olabilir. Sunumda santral yan etkiler arasında sayılır. Ama sorunun aradığı klasik "iskelet kası tremoru", beta iki agonistlere aittir. Tek cevap seçilecekse A'dır.
+D yanlış: sistemik steroidlerin uzun süreli yan etkileri hiperglisemi, osteoporoz, miyopati ve adrenal baskılanmadır. E yanlış: zileutonun en önemli yan etkisi karaciğer toksisitesidir.
+Son olarak, konuyu pekiştirmek için hazırlanmış yeni bir soru.
+Ağır astım atağı nedeniyle acil serviste saatlerdir yüksek doz nebülize salbutamol alan hastada kas güçsüzlüğü gelişiyor ve EKG'de T dalgaları düzleşip U dalgası beliriyor. Bu tablonun en olası nedeni aşağıdakilerden hangisidir?
+A: Hiperkalemi.
+B: Hipokalemi.
+C: Hipoglisemi.
+D: Hiperkalsemi.
+E: Hipernatremi.
+Durdur ve düşün.
+Doğru cevap B. Beta iki uyarısı, siklik AMP aracılığıyla sodyum potasyum ATPaz'ı aktive eder ve potasyum hücre dışından hücre içine kayar. Vücuttaki toplam potasyum değişmez, ama serum potasyumu düşer.
+Düzleşmiş T ve belirgin U dalgası, hipokaleminin tipik EKG bulgularıdır. Ağır atakta sistemik steroid ve teofilin de potasyumu düşürebildiği için risk artar. Aynı mekanizma, hiperkalemi tedavisinde nebülize salbutamolün kullanılmasının nedenidir.
+A yanlış: potasyumun yönü terstir. Hiperkalemide sivri T dalgası görülür. C yanlış: beta iki agonistler kan şekerini yükseltir. D ve E yanlış: beta iki agonistlerin kalsiyum ve sodyum düzeyine belirgin etkisi yoktur.
+Bölüm ikinin sonuna geldik. Bir sonraki bölümde antimuskarinikleri ve metilksantinleri konuşacağız.

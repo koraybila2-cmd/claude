@@ -1,0 +1,162 @@
+### k4b4_01 | Giriş, etki mekanizması ve hava yolundaki etkiler
+Antiastmatik İlaçlar ve KOAH Farmakoterapisi. Bölüm dört, antiinflamatuvar ilaçlar bir: Kortikosteroidler ve Mast Hücre Stabilizatörleri.
+Astım, kronik bir hava yolu inflamasyonudur ve bronkodilatörler bu inflamasyona dokunmaz. Hastalığın kendisini baskılayan en etkili ilaçlar ise kortikosteroidlerdir. Düzenli kullanılan inhale steroid atakları, hastaneye yatışları ve astıma bağlı ölümleri azaltır.
+Bu bölümde önce steroidlerin hücrede ne yaptığını adım adım göreceğiz. Sonra iki uygulama yolunu karşılaştıracağız: güçlü ama bütün vücudu etkileyen sistemik yol ve etkiyi hava yoluna sınırlayan inhale yol. Son kısım ise bugün daha az kullanılan, ama sınavda çeldirici olarak sık geçen mast hücre stabilizatörlerine ayrılmış.
+Dört nokta bir: etki mekanizması, yani genler üzerinden antiinflamasyon. Kortikosteroidler lipofilik moleküllerdir ve hücre zarından kolayca geçerler. Hedefleri zarda değil, sitoplazmadadır.
+Etkinin ilk ve en önemli özelliği de buradan çıkar. Steroidler bir reseptörü açıp kapatarak saniyeler içinde etki yapmaz. Genlerin okunmasını değiştirerek, saatler içinde etki yapar. Adım adım bakalım; bu adımları Şekil dört nokta birde de göreceksin.
+Birinci adım: steroid, sitoplazmada ısı şoku proteinine, yani HSP doksana bağlı olarak bekleyen glukokortikoid reseptörüne, kısaca GR'ye bağlanır.
+İkinci adım: HSP doksan ayrılır. Steroid GR kompleksi çekirdeğe geçer.
+Üçüncü adım: transaktivasyon. İki GR molekülü birleşir, yani bir dimer oluşturur ve DNA'daki glukokortikoid yanıt elemanlarına, kısaca GRE'ye bağlanır. Antiinflamatuvar genlerin okunması artar.
+Lipokortin bir, diğer adıyla anneksin bir, fosfolipaz A ikiyi baskılar ve araşidonik asit yapımını azaltır. Beta iki reseptör geninin ifadesi artar. İ kappa B alfa artar ve NF kappa B'yi sitoplazmada tutar.
+Dördüncü adım: transrepresyon. İnflamatuvar genleri açan transkripsiyon faktörleri, yani NF kappa B ve A P bir, DNA'yı açmak için histon asetiltransferaz, kısaca HAT kullanır. Histonların asetillenmesi kromatini gevşetir ve genler okunur.
+GR ise bu faktörlere bağlanır ve ortama histon deasetilaz iki, yani HDAC iki çağırır. HDAC iki asetil gruplarını uzaklaştırır, kromatin yeniden sıkışır ve sitokin genleri susar. Sunumdaki "HAT azalır, HDAC iki artar" ifadesi bu basamağı anlatır.
+Beşinci adım: susturulan genler, astım inflamasyonunun motorudur. Bunlar interlökin dört, interlökin beş, interlökin on üç, G M C S F, kemokinler, COX iki ve indüklenebilir N O sentaz.
+Ekrandaki şekilde bu yolu yukarıdan aşağıya izliyorsun. En üstte kortikosteroid var: lipofilik, hücre zarından geçer. Buradan bir ok sitoplazmaya iniyor. Sitoplazmada solda glukokortikoid reseptörü duruyor: HSP doksana bağlı, inaktif. Bir ok, sağdaki kutuya gidiyor: steroid GR kompleksi. Bu kutuda HSP doksan ayrılır.
+Kompleksten çıkan ok, kesik çizgiyle çizilmiş çekirdeğe giriyor ve ikiye ayrılıyor. Sol kolda transaktivasyon var: GR dimeri DNA'daki GRE dizisine bağlanır. Sağ kolda transrepresyon var: GR, NF kappa B ve A P bire bağlanır.
+Sol kolun altındaki kutu: antiinflamatuvar genler açılır. Lipokortin bir artar, bu da fosfolipaz A ikiyi azaltır. Beta iki reseptör geni artar. İ kappa B alfa artar ve NF kappa B sitoplazmada kalır. Sağ kolun altındaki kutu: HDAC iki çağrılır, yani HAT azalır, HDAC iki artar. Histonlar deasetillenir ve kromatin kapanır: interlökin dört, interlökin beş, interlökin on üç, G M C S F, COX iki ve kemokin genleri susturulur.
+İki kolun okları en alttaki kutuda birleşiyor. Başlığı: sonuç, etki saatler içinde ortaya çıkar. Altında şunlar yazıyor: inflamatuvar hücreler ve mediatörler azalır, mukoza ödemi azalır, aşırı duyarlılık azalır, beta iki reseptör sayısı artar ve bronş düz kasına doğrudan gevşetici etkisi yoktur.
+Şeklin altyazısı şöyle. Şekil dört nokta bir: glukokortikoidlerin genomik etki mekanizması. Transaktivasyon antiinflamatuvar genleri açar; şekilde cyan renkte. Transrepresyon ise HDAC iki aracılığıyla inflamatuvar genleri kapatır; bu da magenta renkte. İki yol da gen ifadesini değiştirdiği için etki saatler içinde ortaya çıkar. Steroidin bronş düz kasına doğrudan gevşetici etkisi yoktur.
+HDAC iki basamağının bir de klinik sonucu var. Sigara içen astımlılarda ve KOAH'ta oksidatif stres HDAC ikiyi azaltır. Steroid GR kompleksi oluşur, ama inflamatuvar genleri susturmak için çağıracağı enzim yoktur. İşte bu, KOAH'ta ve sigara içen astımlıda steroid direncinin moleküler temelidir. Bu konuya Kitap bir, Bölüm üçte ve bu kitabın altıncı bölümünde de değiniliyor.
+Dört nokta iki: hava yolundaki etkiler. Sunum steroidlerin astımdaki etkilerini şöyle sıralar. Her biri, az önce gördüğümüz gen değişikliklerinin hücre ve doku düzeyindeki karşılığıdır.
+Birincisi: bronş düz kasları üzerinde direkt etkileri yoktur. Bu yüzden steroid bir bronkodilatör değildir ve akut bronkospazmı dakikalar içinde çözmez. 2023 2024 sınavının on altıncı sorusunda "direkt etkiyle bronkodilatasyon sağlar" ifadesi yanlıştı. 2024 sınavının on beşinci ve 2022 2023 sınavının ikinci sorusunda ise "direkt bronkodilatör etkisi yoktur" ifadesi doğru olarak geçti.
+İkincisi: makrofajların, eozinofillerin, mast hücrelerinin ve T lenfositlerin sayısını ve aktivasyonunu azaltır. Eozinofiller interlökin beş desteğini kaybedip apoptoza gider. Mukozadaki mast hücreleri azalır.
+Üçüncüsü: prostaglandinlerin, PAF'ın, L T C dört ve L T D dördün ve T H iki lenfositlerinin oluşturduğu sitokinlerin salgılanmasını azaltır. Lipokortin üzerinden fosfolipaz A iki baskılanınca hem prostaglandin hem lökotrien yapımı azalır; bunu Şekil beş nokta birde göreceğiz. Sitokin genleri ise transrepresyonla susar.
+2023 2024 sınavının on altıncı ve 2024 sınavının on beşinci sorusunda şu ifade doğru olarak geçti: prostaglandin, sitokin ve kemokin salınımını baskılar.
+Dördüncüsü: inflamatuvar komponentin azalması bronşiyal hiperreaktiviteyi baskılar. Hiperreaktivite haftalar ile aylar içinde azalır.
+Beşincisi: kapiller geçirgenliğin azalmasıyla mukoza ödemi azalır.
+Altıncısı: beta iki reseptör sayısını artırır ve fonksiyonlarını iyileştirir. Bu etki iki sonuç doğurur: beta iki agonistin etkisi güçlenir ve beta iki agonistlere tolerans gelişimi azalır. Bu, 2024 sınavının on beşinci, 2023 2024 sınavının on altıncı ve 2022 2023 sınavının ikinci sorusunda doğru ifade olarak geçti.
+Tersine, uzun etkili beta iki agonistlerin GR'nin çekirdeğe geçişini kolaylaştırdığı da gösterilmiştir. İki ilacın aynı inhalerde birleştirilmesinin nedeni bu karşılıklı güçlendirmedir: budesonid ile formoterol, flutikazon ile salmeterol.
+Ve işte sık karıştırılan nokta. "Kortikosteroid ipratropiumla kombine edilemez, birbirlerini antagonize ederler" ifadesi yanlıştır. Bu, 2022 2023 sınavının ikinci sorusuydu. İki ilacın hedefleri tamamen farklıdır: biri inflamatuvar genleri, diğeri M üç reseptörünü etkiler. Birinin etkisi diğerininkini azaltmaz.
+Ağır atakta sistemik steroid, salbutamol ve ipratropium birlikte verilir. KOAH'ta da inhale steroid, LABA ve LAMA aynı inhalerde birleştirilmiştir. Buna üçlü tedavi denir.
+
+### k4b4_02 | Sistemik ve inhale kortikosteroidler
+Dört nokta üç: sistemik kortikosteroidler. Sunumdaki sistemik steroidler hidrokortizon, metilprednizolon, prednizon ve prednizolondur. Prednizon bir ön ilaçtır: karaciğerde etkin prednizolona dönüşür. Hidrokortizon ve metilprednizolon damar içi yoldan da verilebilir. Hastanın yutabildiği durumlarda ise oral steroid, damar içi kadar etkilidir.
+Sunuma göre sistemik steroidler, kronik oral ve parenteral kullanımda ciddi yan etkiler yapar. Bu yüzden şu durumlarda tercih edilir: acil tedavi gerektiren, bronkodilatörlerle yeterince düzelmeyen ve idame tedaviye rağmen semptomları kötüleşen ağır astım atağı. 2022 2023 sınavının ikinci sorusunda şu ifade doğru olarak geçti: ağır astım ataklarında sistemik yolla uygulanabilir.
+Etkileri dört ile altı saatte başlar. Bu nedenle atakta bronkodilatörlerin yerini almaz, onlara eklenir. Atağın inflamatuvar bileşenini söndürerek tekrarını önler.
+Şimdi kesme ve zamanlama, yani hipotalamus hipofiz adrenal ekseni. Dışarıdan verilen steroid, vücudun kendi kortizolü gibi hipotalamusa ve hipofize negatif geri bildirim yapar. CRH ve ACTH salınımı azalır. ACTH uyarısı olmayan adrenal korteks haftalar içinde küçülür ve kendi kortizolünü yeterince yapamaz hâle gelir.
+Bu durumda steroid aniden kesilirse vücut kortizolsüz kalır ve adrenal yetmezlik gelişebilir: hipotansiyon, hipoglisemi, şok. Sunumdaki iki pratik kural bu mekanizmadan çıkar.
+Birinci kural: hasta iyileştikten sonra doz bir ile iki haftada azaltılarak kesilir, çünkü baskılanmış eksenin yeniden çalışmaya başlaması zaman alır. 2024 sınavının on beşinci sorusunda bu doğru ifade olarak geçti: sistemik kullanım sonrası adrenal yetmezliği önlemek için doz kademeli azaltılır. Ama on günü geçmeyen kısa kürlerde azaltarak kesmeye gerek yoktur, çünkü bu sürede adrenal korteks anlamlı biçimde küçülmez.
+İkinci kural: ilacın sabah erken saatlerde alınması, hormon dengesinin bozulmaması açısından önemlidir. Vücudun kortizol salınımı sabah erken saatlerde en yüksektir ve gece boyunca ACTH yükselerek bu sabah zirvesini hazırlar. Sabah alınan steroid doğal ritme denk düşer ve eksen en az baskılanır.
+Akşam ya da gece alınan doz ise gece ACTH yükselişini baskılar ve ekseni en çok bastırır. 2024 sınavının on beşinci sorusunda "akşam geç saatlerde alınması hormonal denge için önemlidir" ifadesi yanlıştı.
+Sunuma göre ataktan sonra düzenli tedavi aerosol kortikosteroidlerle sürdürülür.
+Sırada uzun süreli sistemik kullanımın yan etkileri var. Sistemik steroid bütün dokulardaki glukokortikoid reseptörlerine ulaşır. Uzun süreli kullanımın yan etkileri bu yüzden çok sistemlidir.
+Liste şöyle: hiperglisemi, hipertansiyon, kilo artışı ve kuşingoid görünüm, osteoporoz ve kırıklar, miyopati, katarakt ve glokom, peptik ülser, enfeksiyonlara yatkınlık, psikiyatrik belirtiler, deride incelme ve adrenal baskılanma. Çocuklarda bunlara bir de büyüme geriliği eklenir. Bu yüzden şiddetli astımı olan bir çocukta, uzun süreli günlük kullanımda advers etki riski en yüksek ilaç oral prednizondur. Bu, 2023 2024 sınavının yedinci sorusuydu.
+Dört nokta dört: inhale, yani aerosol kortikosteroidler. Sunumun ifadesiyle, sistemik yan etkilerden kaçınmanın yolu aerosol uygulamadır. Aerosol kortikosteroidler beklometazon, triamsinolon, flunisolid, budesonid ve flutikazondur. Mometazon ve siklesonid de bu gruptandır.
+Bu liste sınavda da karşımıza çıktı. 2025 2026 sınavının kırkıncı sorusunda, sistemik yan etkilerden kaçınmak için aerosol inhalerle verilecek kortikosteroid budesonid idi. 2022 2023 sınavının yedinci sorusunda aerosol yolla kullanılmayan ilaç prednizolondu. 2023 2024 sınavının sekizinci sorusunda ise şu ifade geçti: triamsinolon ve flunisolid aerosol kullanımla sistemik yan etkileri azaltır.
+Peki inhale steroidlerin sistemik yan etkisi neden az? Bu üç basamakta anlaşılır.
+Bir: doz çok küçüktür. İnhale steroidin günlük dozu mikrogram düzeyindedir, yani yüzlerce mikrogram. Atakta kullanılan prednizolonun günlük dozu ise onlarca miligramdır, yani yaklaşık yüz kat fazladır.
+İki: ilaç doğrudan hedefe gider. Etkinin istendiği yer hava yolu mukozasıdır ve ilaç oraya kan yoluyla değil, doğrudan ulaşır.
+Üç: yutulan kısım karaciğerde etkisizleşir. İnhale edilen dozun büyük bölümü ağızda ve boğazda kalır ve yutulur. Budesonid ve flutikazon gibi modern steroidler, karaciğerden ilk geçişte büyük ölçüde inaktive edilir. Sistemik dolaşıma ulaşan etkin ilaç miktarı küçük kalır.
+Sunuma göre aerosol steroidlerin kronik kullanımı, hafif astımlı hastalarda semptomları etkili bir şekilde azaltır ve solunum fonksiyon testlerini iyileştirir. Daha şiddetli hastalığı olan hastalarda ise oral kortikosteroid gereksinimini azaltır ya da ortadan kaldırır. Etkileri günler içinde başlar, en yüksek düzeye haftalar içinde ulaşır. Bu yüzden düzenli kullanılmaları gerekir.
+Şimdi lokal yan etkiler. İnhale steroidin yan etkileri, ilacın biriktiği ağız, boğaz ve gırtlakta ortaya çıkar. Sunumdaki listeyi tabloda her yan etkinin mekanizması ve önlemiyle birlikte görüyorsun.
+Birinci yan etki: orofaringeal kandidiyazis. Mekanizması: ağız ve boğazda biriken steroid lokal bağışıklığı baskılar ve Kandida çoğalır. Önlem: suyla gargara riski azaltır. Aralık cihazı, yani spacer da ağızda kalan ilacı azaltır. Bu bilgi 2023 2024 sınavının on altıncı ve 2022 2023 sınavının ikinci sorusunda geçti.
+İkinci yan etki: ses kısıklığı, yani disfoni. Mekanizması: ses tellerini hareket ettiren kaslarda lokal steroid miyopatisi. Önlem: doz azaltma ve aralık cihazı. 2024 sınavının birinci sorusunda "inhaler beklometazon, ses kısıklığı" doğru eşleşmeydi.
+Üçüncü yan etki: öksürük. Mekanizması: aerosolün irritan etkisi. Önlem: önce bronkodilatör, sonra steroid.
+Dördüncü yan etki: dental erozyonlar. Mekanizması: ağız içinde kalan ilaç ve taşıyıcı maddeler. Önlem: kullanım sonrası ağzı çalkalama.
+Yüksek dozlar uzun süre kullanıldığında inhale steroidler de bir miktar sistemik etki yapabilir: çocuklarda büyüme hızında hafif yavaşlama, kemik yoğunluğunda azalma, katarakt ve deride kolay morarma. Ama bu etkiler sistemik steroidlerinkiyle karşılaştırılamayacak kadar küçüktür. Ve astımın kontrolsüz kalmasının zararı her zaman daha büyüktür.
+
+### k4b4_03 | Mast hücre stabilizatörleri, soru sayıları ve Soru 1-3
+Dört nokta beş: mast hücre stabilizatörleri, yani kromolin ve nedokromil. Kromolin sodyum, diğer adıyla sodyum kromoglikat, ve nedokromil, alerjik reaksiyonun ilk basamağına etki eder. Sunuma göre mast hücre stabilizatörüdürler, yani mediatör salınımını engellerler. Mekanizmaları, kalsiyum ve klor kanallarının blokajı ve hücre aktivasyonunun inhibisyonudur.
+Nasıl mı? Mast hücresinin yüzeyindeki IgE'lere alerjen bağlanınca hücreye kalsiyum girer ve granüller boşalır. Klor kanalları, zar potansiyelini kalsiyum girişini sürdürecek yönde tutar. Kromolin bu kanalları kapatarak kalsiyum girişini, dolayısıyla histamin, lökotrien ve prostaglandin salınımını önler. Benzer bir etkiyle eozinofilleri ve öksürüğe yol açan duyusal sinir uçlarını da baskılar.
+Sunumdaki diğer özellikler de bu mekanizmadan çıkar. Bir: bronkodilatasyon oluşturmazlar. Kasılmış düz kası gevşetmezler, yalnızca yeni mediatör salınımını önlerler. Bu yüzden atakta etkisizdirler.
+İki: profilaktik antiinflamatuvar ilaçlardır. Alerjen ya da egzersizle karşılaşmadan on beş ile yirmi dakika önce alındıklarında, erken ve geç dönem astım reaksiyonlarının oluşumunu engellerler ve bronşiyal hiperaktiviteyi azaltırlar.
+Üç: inhale yolla kullanılırlar. Kromolin bağırsaktan neredeyse hiç emilmez. Alerjik rinit için burun, alerjik konjonktivit için de göz formları vardır.
+Dört: çocuklarda ve gebelerde kullanılabilirler. Sistemik emilimleri çok az olduğu için en güvenli antiastmatiklerdir. Yan etkileri boğazda tahriş, öksürük ve nedokromilde acı tattır. Kalp ve damar sistemine etkileri yoktur. 2024 sınavının birinci sorusunda "inhaler kromolin, hipertansiyon" yanlış eşleşmeydi.
+Sunuma göre düşük doz kortikosteroid tedavisinin yüksek etkinliği ve lökotrien yolu inhibitörleri gibi alternatif ilaçlar nedeniyle, son yıllarda kullanımları azalmıştır. Kısa etkili oldukları için günde dört kez kullanılmaları gerekir; bu da hasta uyumunu düşürür.
+Sınavda kromolin daha çok yanlış şıklarda karşımıza çıkar. "Kromolin monoklonal antikordur", 2023 2024 sınavının sekizinci sorusu. "Kromolin fosfolipaz A ikiyi inhibe eder", 2022 2023 sınavının altıncı sorusu. Bir de "kromolin bronkodilatördür" ifadesi. Bu üç ifadenin üçü de yanlıştır.
+Bu bölümden yıllara göre soru sayısına bakalım. Ekrandaki grafikte 2022 2023 sınavında iki, 2023 2024 sınavında üç, 2024 sınavında iki ve 2025 2026 sınavında bir soru görüyorsun.
+Kortikosteroid ve mast hücre stabilizatörü soruları toplam sekiz. Konulara göre dağılım şöyle: aerosol steroidi tanıma, üç kez. "Steroidler için yanlış olan" soruları, üç kez. Bir de çocukta uzun süreli kullanımda en riskli ilaç ve ilaç yan etki eşleşmesi. Mast hücre stabilizatörleri bu sorularda yalnızca yanlış şık olarak yer aldı. Şimdi bu soruları birlikte çözelim.
+Bölüm sonu soruları. Soru bir: 2025 2026 sınavı, kırkıncı soru.
+Sık semptom giderici kullanan astım hastasında, uzun süreli kontrol sağlamak ve sistemik yan etkilerden kaçınmak için aerosol inhaler ile verilecek kortikosteroid hangisidir?
+A: Metilprednizolon.
+B: Zileuton.
+C: Prednizon.
+D: Omalizumab.
+E: Budesonid.
+Durdur ve düşün.
+Doğru cevap E. Budesonid inhale bir kortikosteroiddir. Sık kurtarıcı ilaç kullanan hasta kontrolsüz astımdadır ve düzenli inhale steroid başlanmalıdır. Budesonidin yutulan kısmı karaciğerde büyük ölçüde inaktive edildiği için sistemik yan etkisi azdır.
+A ve C yanlış: metilprednizolon ve prednizon sistemik, yani oral ya da parenteral kortikosteroidlerdir ve uzun süreli kullanımda ciddi yan etki yaparlar. B yanlış: zileuton steroid değil, beş lipoksijenaz inhibitörüdür ve oral kullanılır. D yanlış: omalizumab deri altına verilen anti IgE monoklonal antikordur.
+Soru iki: 2022 2023 sınavı, yedinci soru.
+Aşağıdakilerden hangisi astım tedavisinde aerosol yolla kullanılan kortikosteroid ilaçlardan biri değildir?
+A: Beklometazon.
+B: Triamsinolon.
+C: Budesonid.
+D: Flutikazon.
+E: Prednizolon.
+Durdur ve düşün.
+Doğru cevap E. Prednizolon sistemik kullanılan, yani oral bir kortikosteroiddir. Ağır atakta kısa kür olarak verilir.
+A, B, C ve D sunumdaki aerosol steroid listesindedir. Listenin beşinci üyesi flunisoliddir. Aerosol steroidlerin isimlerinin çoğu "zon", "nid" ya da "olon" ile bittiği için sondan tanımak güvenilir değildir: triamsinolon aerosoldür, ama prednizolon değildir. Listeyi doğrudan bilmek gerekir.
+Soru üç: 2023 2024 sınavı, sekizinci soru.
+Astım ilaçları için aşağıdakilerden hangisi doğrudur?
+A: Aminofilin birinci sıra inhaler ilaçtır.
+B: Kromolin monoklonal antikordur.
+C: Omalizumab oral kullanılır.
+D: Triamsinolon ve flunisolid aerosol kullanım ile sistemik yan etkileri azaltır.
+E: Zafirlukast Cys L T bir reseptörlerini aktive eder.
+Durdur ve düşün.
+Doğru cevap D. Triamsinolon ve flunisolid aerosol kortikosteroidlerdir. İlacın doğrudan hava yoluna, küçük dozda verilmesi sistemik yan etkileri azaltır.
+A yanlış: aminofilinin inhaler formu yoktur ve ikinci sıra ilaçtır. Status astmatikusta damar içi kullanılır. B yanlış: kromolin bir mast hücre stabilizatörüdür, küçük bir moleküldür. C yanlış: omalizumab bir protein olduğu için sindirim kanalında yıkılır ve deri altına uygulanır. E yanlış: zafirlukast Cys L T bir reseptörünü aktive etmez, antagonize eder.
+
+### k4b4_04 | Soru 4-9
+Soru dört: 2023 2024 sınavı, yedinci soru.
+Şiddetli astımı olan bir çocukta uzun süreli günlük kullanımda advers etki riski en yüksek olan hangisidir?
+A: Aerosol beklometazon.
+B: Aerosol albuterol.
+C: Oral prednizon.
+D: İnhaler kromolin.
+E: Oral teofilin.
+Durdur ve düşün.
+Doğru cevap C. Uzun süreli günlük oral steroid bütün dokulara ulaşır. Çocukta büyüme geriliği, adrenal baskılanma, osteoporoz, katarakt, hiperglisemi, hipertansiyon ve enfeksiyona yatkınlık yapar. Bu etkilerin bir kısmı geri dönüşsüzdür.
+A yanlış: aerosol beklometazonun yan etkileri büyük ölçüde lokaldir, yani kandidiyazis ve ses kısıklığı. B yanlış: albuterolün tremor ve taşikardisi doza bağlıdır ve geçicidir. D yanlış: kromolin en güvenli antiastmatiktir.
+E ise en güçlü çeldiricidir. Teofilinin terapötik indeksi dardır, ama yan etkileri doza bağlıdır ve serum düzeyi izlenerek önlenebilir. Oral steroidin yan etkileri ise uygun dozda bile kaçınılmaz olarak birikir.
+Soru beş: 2024 sınavı, birinci soru.
+Şiddetli astımı olan on iki yaşındaki çocuk hastada kullanılan aşağıdaki ilaç advers etki eşleşmelerinden hangisi doğrudur?
+A: İnhaler albuterol, hiperkalemi.
+B: Oral prednizolon, bradikardi.
+C: İnhaler kromolin, hipertansiyon.
+D: İnhaler arformoterol, hipoglisemi.
+E: İnhaler beklometazon, ses kısıklığı.
+Durdur ve düşün.
+Doğru cevap E. Ses kısıklığı inhale steroidlerin lokal yan etkisidir. Gırtlakta biriken ilaç, ses tellerinin kaslarında lokal miyopati yapar.
+Diğer dört eşleşmenin her biri gerçek yan etkiyi tersine çevirir. A yanlış: albuterol hipokalemi yapar. B yanlış: prednizolonun kalp hızını yavaşlatan bir etkisi yoktur; uzun süreli kullanımda hipertansiyon ve sıvı tutulumu yapar. C yanlış: kromolinin kalp ve damar sistemine etkisi yoktur. D yanlış: arformoterol beta iki agonisttir ve hiperglisemi yapar.
+Soru altı: 2024 sınavı, on beşinci soru.
+Astım tedavisinde kortikosteroid kullanımı ile ilgili aşağıdakilerden hangisi yanlıştır?
+A: İnflamatuvar sitokin ve kemokinleri baskılar.
+B: Bronş düz kası üzerinde direkt bronkodilatör etkisi yoktur.
+C: Beta iki agonistlere tolerans gelişimini azaltır.
+D: Düzenli aerosol kortikosteroidlerin akşam geç saatlerde alınması hormonal denge için önemlidir.
+E: Sistemik kullanım sonrası adrenal yetmezliği önlemek için doz kademeli azaltılır.
+Durdur ve düşün.
+Doğru cevap D, yani yanlış olan ifade D şıkkı. Sunuma göre hormon dengesinin bozulmaması için önemli olan, ilacın sabah erken saatlerde alınmasıdır. Kortizolün doğal zirvesi sabahtır. Akşam alınan doz gece ACTH yükselişini baskılar ve hipotalamus hipofiz adrenal eksenini en çok bastırır.
+A, B, C ve E doğru ifadelerdir. A'nın temeli transrepresyon. B'de düz kasa doğrudan etki yok. C'nin temeli beta iki reseptör sayısının artması. E ise adrenal yetmezliği önlemek için kademeli kesme.
+Soru yedi: 2023 2024 sınavı, on altıncı soru.
+Kortikosteroidler için yanlış ifade hangisidir?
+A: Prostaglandin ve sitokin salınımını azaltırlar.
+B: Bronş düz kası üzerinde direkt etkiyle bronkodilatasyon sağlarlar.
+C: Beta iki agonist toleransını önlerler.
+D: Ağır ataklarda sistemik uygulanabilirler.
+E: Gargara yapmak kandidiyazis riskini düşürür.
+Durdur ve düşün.
+Doğru cevap B, yani yanlış olan ifade B şıkkı. Kortikosteroidlerin bronş düz kası üzerinde doğrudan etkisi yoktur. Hava yolunu inflamasyonu, ödemi ve hiperreaktiviteyi azaltarak, saatler ve günler içinde açarlar.
+A, C, D ve E doğrudur. Bir önceki kartla karşılaştırınca aynı bilgilerin iki yıl arka arkaya kullanıldığını görürsün: 2024 sınavında B şıkkı doğru biçimiyle, yani "direkt bronkodilatör etkisi yoktur" diye yer aldı.
+Soru sekiz: 2022 2023 sınavı, ikinci soru.
+Astım tedavisinde kortikosteroid kullanımı ile ilgili aşağıdakilerden hangisi yanlıştır?
+A: Parasempatolitik ilaç olan ipratropium bromür ile kombine edilemez, birbirlerini antagonize ederler.
+B: Bronş düz kas üzerinde direkt etki ile bronkodilatör etkileri yoktur.
+C: Kombine kullanımda beta iki agonistlere oluşabilecek tolerans gelişimini azaltır.
+D: Ağır astım ataklarında sistemik yolla uygulanabilir.
+E: İlaç kullanımından sonra suyla gargara orofaringeal kandidiyazis riskini azaltır.
+Durdur ve düşün.
+Doğru cevap A, yani yanlış olan ifade A şıkkı. Kortikosteroid ile ipratropium farklı hedeflere etki eder ve birbirini antagonize etmez. Ağır atakta birlikte kullanılırlar.
+B, C, D ve E doğrudur ve sonraki iki yılın sorularında da aynı biçimde tekrarlanmıştır.
+Son olarak, konuyu pekiştirmek için hazırlanmış yeni bir soru.
+Egzersizle tetiklenen bronkospazmı olan gebe bir hastaya kromolin önerilmesi düşünülüyor. Bu ilaçla ilgili aşağıdakilerden hangisi doğrudur?
+A: Atak başladığında inhale edilirse bronkospazmı hızla çözer.
+B: Egzersizden önce inhale edildiğinde mast hücresinden mediatör salınımını önleyerek bronkospazmı engeller.
+C: Oral tablet olarak alınır ve sindirim kanalından iyi emilir.
+D: Beta iki reseptörlerini uyararak bronş düz kasını gevşetir.
+E: Gebelikte kontrendikedir.
+Durdur ve düşün.
+Doğru cevap B. Kromolin mast hücresini stabilize eder: kalsiyum ve klor kanallarını bloke ederek granül boşalmasını önler. Ancak mediatörler salınmadan önce ortamda bulunursa etkilidir. Bu yüzden egzersizden ya da alerjenle karşılaşmadan on beş ile yirmi dakika önce alınır.
+A ve D yanlış: kromolin bronkodilatör değildir. Salınmış mediatörlerin yaptığı kasılmayı çözemez; atakta kısa etkili beta iki agonist gerekir. C yanlış: kromolin bağırsaktan neredeyse hiç emilmez ve astımda inhalasyonla kullanılır. E yanlış: sistemik emilimi çok az olduğu için çocuklarda ve gebelerde kullanılabilir.
+Bölüm dördün sonuna geldik. Bir sonraki bölümde lökotrien yolu inhibitörlerini ve biyolojik ilaçları konuşacağız.

@@ -1,0 +1,124 @@
+### k1b4b_01 | Değerlendirme, evreleme, alevlenmeler ve komorbiditeler
+KOAH: Tanım, Patogenez ve Klinik. Bölüm dörde devam ediyoruz: dört nokta yedi, değerlendirme ve evreleme.
+KOAH tanısı konduktan sonra tedaviyi seçmek için, hastalığın ağırlığı dört açıdan değerlendirilir. Bir: hava akımı kısıtlanmasının derecesi. İki: semptomların yükü. Üç: alevlenme öyküsü. Ve dört: eşlik eden hastalıklar. Bu ayrım önemlidir, çünkü FEV bir ile semptom her zaman birlikte gitmez. FEV biri yüzde kırk beş olan bir hasta günlük yaşamında rahat olabilir. FEV biri yüzde altmış beş olan bir başkası ise merdiven çıkamayabilir.
+Birincisi, hava akımı kısıtlanmasının derecesi, yani GOLD bir ile dört arası. FEV bir bölü FVC oranı sıfır virgül yetmişin altında olan hastada derece, bronkodilatör sonrası FEV birin beklenen değere oranına göre belirlenir. Yani FEV bir, beklenenin yüzde kaçı?
+GOLD bir: hafif. FEV bir, beklenenin yüzde seksenine eşit ya da daha yüksek.
+GOLD iki: orta. FEV bir, beklenenin yüzde elli ile yetmiş dokuzu arasında.
+GOLD üç: ağır. FEV bir, beklenenin yüzde otuz ile kırk dokuzu arasında.
+GOLD dört: çok ağır. FEV bir, beklenenin yüzde otuzunun altında.
+İkincisi, semptomlar. Burada iki ölçek var: m M R C ve CAT. m M R C dispne ölçeği yalnızca nefes darlığını derecelendirir.
+Derece sıfır: yalnızca ağır egzersizle nefes darlığı.
+Derece bir: düz yolda hızlı yürürken ya da hafif yokuş çıkarken nefes darlığı.
+Derece iki: hasta, nefes darlığı nedeniyle düz yolda yaşıtlarından yavaş yürür ya da kendi hızında yürürken soluklanmak için durmak zorunda kalır.
+Derece üç: düz yolda yaklaşık yüz metre ya da birkaç dakika yürüyünce soluklanmak için durur.
+Derece dört: evden çıkamayacak kadar ya da giyinip soyunurken nefes darlığı.
+CAT, yani KOAH Değerlendirme Testi ise KOAH'ın hastanın yaşamı üzerindeki bütün etkisini ölçer. Ve KOAH'ta semptom takibinde en sık kullanılan skordur. Bu bilgi 2023 2024 sınavının yirmi birinci sorusunda soruldu. Hasta sekiz soruyu sıfır ile beş arasında puanlar. Sorular şunlardır: öksürük, balgam, göğüste sıkışma, yokuş ya da merdiven çıkarken nefes darlığı, ev içi aktivitelerde kısıtlanma, evden çıkma konusunda kendine güven, uyku ve enerji.
+Toplam puan sıfır ile kırk arasındadır. CAT puanı on ya da üzerindeyse, ya da m M R C derecesi iki ya da üzerindeyse, semptom yükü yüksektir. Peki CAT'ın m M R C'ye üstünlüğü ne? Nefes darlığı dışındaki semptomları da kapsaması ve tedaviye yanıtı izlemeye uygun olması.
+Üçüncüsü, alevlenme öyküsü ve A B E grupları. Gelecekteki alevlenmeleri en iyi öngören şey, geçmiş alevlenmelerdir. Son bir yılda iki ya da daha fazla orta alevlenme, ya da hastaneye yatışı gerektiren bir alevlenme geçiren hasta yüksek risklidir. GOLD bu bilgiyi semptomlarla birleştirerek hastaları üç gruba ayırır. Tablodaki başlangıç tedavilerinin ayrıntısı Kitap dörtte.
+A grubu: son bir yılda sıfır ya da bir orta alevlenme var ve yatış yok. Semptomlar: m M R C sıfır ile bir arası, CAT puanı onun altında. Başlangıç tedavisi: bir bronkodilatör.
+B grubu: alevlenme öyküsü yine sıfır ya da bir orta alevlenme ve yatış yok. Semptomlar ise m M R C iki ya da üzeri, CAT on ya da üzeri. Başlangıç tedavisi: LAMA ve LABA.
+E grubu: iki ya da daha fazla orta alevlenme, ya da bir ya da daha fazla yatış. Semptomlardan bağımsızdır. Başlangıç tedavisi: LAMA ve LABA. Kan eozinofil sayısı mikrolitrede üç yüz ya da üzerindeyse, bunlara inhale kortikosteroid eklenir.
+E grubu 2023'te, daha önceki C ve D gruplarının birleştirilmesiyle oluştu. E harfi, alevlenmenin İngilizcesi olan exacerbation sözcüğünden gelir. Değerlendirmenin dördüncü ayağı, sonraki alt bölümde anlatılan eşlik eden hastalıklardır. Ve dikkat: DLCO bu sistemin hiçbir aşamasında kullanılmaz.
+Dört nokta sekiz. Alevlenmelerin yönetimi. Alevlenmenin tanımı ve fizyopatolojisi Bölüm iki nokta dokuzda anlatıldı. Alevlenmenin ağırlığı, gereken tedaviye göre sınıflanır. Hafif alevlenme yalnızca kısa etkili bronkodilatörle geçer. Orta alevlenmede antibiyotik, oral kortikosteroid ya da ikisi birden gerekir. Ağır alevlenmede ise hastaneye yatış ya da acil başvurusu gerekir. Tedavinin temel taşları şunlardır.
+Birincisi, kısa etkili bronkodilatörler: kısa etkili beta iki agonist, yani salbutamol. Gerekirse kısa etkili antimuskarinik, yani ipratropium ile birlikte verilir.
+İkincisi, sistemik kortikosteroid: günde kırk miligram prednizon, beş gün. İyileşmeyi hızlandırır ve tedavi başarısızlığını azaltır.
+Üçüncüsü, antibiyotik. Balgam pürülansındaki artış, balgam miktarında ya da dispnede artışla birlikteyse verilir. Mekanik ventilasyon gerekiyorsa da verilir.
+Dördüncüsü, kontrollü oksijen. Hedef satürasyon yüzde seksen sekiz ile doksan iki arasıdır. Bunu Bölüm iki nokta altıdaki klinik bağlantı kutusunda görmüştük.
+Beşincisi, noninvaziv mekanik ventilasyon, yani N I V. Akut hiperkapnik solunum yetersizliğinde entübasyon ihtiyacını ve ölümü azaltır. Akut hiperkapnik solunum yetersizliği burada şu demek: p H yedi virgül otuz beş ya da daha düşük ve P a C O iki kırk beş milimetre cıva ya da daha yüksek.
+Dört nokta dokuz. Komorbiditeler. Sunumun Komorbiditeler slaytı, KOAH'a sıklıkla eşlik eden hastalıkları sayar: iskelet kası güçsüzlüğü, kaşeksi, akciğer kanseri, iskemik kalp hastalıkları, kalp yetersizliği, osteoporoz, anemi, metabolik sendrom, diabetes mellitus, obstrüktif uyku apne sendromu, depresyon ve glokom.
+Bu listedeki hastalıklardan en sık görüleni ve en önemlisi kardiyovasküler hastalıklardır: koroner arter hastalığı, kalp yetersizliği, atriyal fibrilasyon ve hipertansiyon. 2023 2024 sınavının yirmi yedinci sorusu tam olarak bunu sordu: KOAH hastalarında en sık hangi sistem komorbiditesi görülür? Cevap kardiyovasküler sistem idi. Hafif ve orta KOAH'lı hastaların önemli bir kısmı solunum yetersizliğinden değil, kalp hastalığından ve akciğer kanserinden ölür.
+
+### k1b4b_02 | Kalp hastalığının nedenleri, sigarayı bırakma, ilaçlar ve uzun süreli oksijen
+Peki kalp hastalığı KOAH'ta neden bu kadar sık? Dört neden birlikte çalışır. Bir: ortak risk faktörü. Sigara hem KOAH'ın hem aterosklerozun nedenidir. İki: sistemik inflamasyon. Akciğerden kana taşan interlökin altı, TNF alfa ve CRP aterosklerozu hızlandırır ve plakları kararsızlaştırır.
+Üç: hipoksemi ve hiperinflasyon. Hipoksemi sempatik sistemi uyarır ve aritmiye zemin hazırlar. Hiperinflasyon ise kalbe venöz dönüşü azaltır ve sol ventrikülün dolmasını bozar. Dört: pulmoner hipertansiyon. Sağ ventrikülü yorar, yani kor pulmonale. Bir de şu var: alevlenme dönemlerinde miyokard infarktüsü ve inme riski geçici olarak belirgin artar.
+Kardiyoselektif beta blokerler KOAH'lı hastada güvenlidir. Kalp yetersizliği ya da koroner hastalık gibi bir endikasyon varsa, KOAH nedeniyle esirgenmemelidir. Diğer komorbiditelerin mekanizmaları da KOAH'ın sistemik yüzüne bağlanır.
+Osteoporoz; hareketsizlik, sistemik steroid, düşük vücut ağırlığı ve inflamasyonla ilişkilidir. Kas güçsüzlüğü ve kaşeksi; inflamasyon, hipoksemi ve hareketsizlikle ilişkilidir. Akciğer kanseri hem sigarayla hem de amfizemin kendisiyle ilişkilidir; amfizem, sigaradan bağımsız ek bir risktir. Depresyon ve anksiyete ise nefes darlığı ve sosyal izolasyonla ilişkilidir. KOAH ile obstrüktif uyku apnesinin birlikteliğine örtüşme sendromu denir. Bu hastalarda gece hipoksemisi ve pulmoner hipertansiyon daha ağırdır.
+Dört nokta on. Tedavinin ilkeleri. KOAH tedavisinin iki amacı vardır. Birincisi semptomları azaltmak: nefes darlığı, efor kapasitesi ve yaşam kalitesi. İkincisi gelecekteki riski azaltmak: hastalığın ilerlemesi, alevlenmeler ve ölüm. İlaçların farmakolojisi Kitap dörtte ayrıntılı anlatılıyor. Burada tedavinin genel çerçevesini veriyoruz.
+Önce sigarayı bırakmak. Sigarayı bırakmak, KOAH'ın doğal seyrini değiştirdiği ve sağkalıma en büyük katkıyı sağladığı kanıtlanmış müdahaledir. Bu bilgi 2023 2024 sınavının yirmi üçüncü sorusunda soruldu. Bunun nedeni Fletcher Peto eğrilerinde görülür; onları Bölüm bir nokta sekizde anlatmıştık. Bırakmak, FEV bir kaybının hızını içmeyenlerin hızına indirir. Hiçbir ilaç bu etkiyi göstermemiştir.
+Her vizitte hastaya sigara içip içmediği sorulmalı, kısa ve net bir bırakma önerisi yapılmalı, bırakmaya istekli olup olmadığı değerlendirilmeli, danışmanlık ve ilaç gibi yardım sunulmalı ve izlem planlanmalıdır. Nikotin yerine koyma tedavisi, vareniklin ve bupropion bırakma başarısını artırır. Vareniklin, nikotinik reseptörün kısmi agonistidir. Biyomas ve mesleki maruziyetin azaltılması da aynı mantıkla tedavinin parçasıdır.
+Sırada aşılar ve pulmoner rehabilitasyon. Her yıl yapılan influenza aşısı, pnömokok aşısı, COVID on dokuz aşısı ve altmış yaş üzerinde R S V aşısı, alevlenmeleri ve ağır enfeksiyonları azaltır. Pulmoner rehabilitasyon, yani egzersiz eğitimi, solunum teknikleri ve hasta eğitimi; nefes darlığını, egzersiz kapasitesini ve yaşam kalitesini, ilaçlarla elde edilemeyecek ölçüde iyileştirir. Alevlenme nedeniyle hastaneye yatan hastada taburculuktan sonra başlanırsa, yeniden yatışı ve ölümü azaltır.
+Şimdi ilaç tedavisinin özeti. KOAH tedavisinin merkezinde uzun etkili bronkodilatörler vardır. Birinci grup uzun etkili antimuskarinikler, yani LAMA: tiotropium, glikopironyum ve umeklidinyum. İkinci grup uzun etkili beta iki agonistler, yani LABA: salmeterol, formoterol, indakaterol, olodaterol ve vilanterol.
+Bronkodilatörler hava yolu düz kasını gevşeterek hiperinflasyonu azaltır ve nefes darlığını rahatlatır. Semptomları belirgin ya da alevlenme riski yüksek hastada LAMA ve LABA birlikte başlanır. İnhale kortikosteroid ise KOAH'ta yalnızca seçilmiş hastalara eklenir: sık alevlenen ve kan eozinofil sayısı yüksek olanlara. Astımdan farklı olarak KOAH'ta tek başına kullanılmaz ve pnömoni riskini artırır. Steroid yanıtının neden zayıf olduğunu Bölüm üç nokta on ikide anlatmıştık.
+Seçilmiş hastalarda roflumilast, yani bir fosfodiesteraz dört inhibitörü, uzun süreli azitromisin ve mukolitikler alevlenmeleri azaltır. Ve unutma: bütün inhaler tedavilerde inhaler tekniğinin her vizitte kontrol edilmesi gerekir.
+Uzun süreli oksijen tedavisi. Ağır kronik hipoksemisi olan KOAH hastasında, günde en az on beş saat uygulanan oksijen sağkalımı uzatır. Bu, 1980'lerde yapılan iki çalışmayla gösterilmiştir. Ve sigarayı bırakmanın yanında, yaşam süresini uzattığı kanıtlanmış ikinci müdahaledir. Endikasyonlar, hasta stabil dönemdeyken ve en iyi tedavi altındayken belirlenir.
+Birinci endikasyon: istirahatte P a O iki değeri elli beş milimetre cıva ya da daha düşüktür, ya da S a O iki yüzde seksen sekiz ya da daha düşüktür.
+Ya da ikinci endikasyon: P a O iki değeri elli beş ile altmış milimetre cıva arasındadır, yani S a O iki yüzde seksen sekiz ile seksen dokuz arasındadır. Bununla birlikte pulmoner hipertansiyon, sağ kalp yetersizliğini düşündüren periferik ödem ya da polisitemi vardır. Polisitemi burada hematokritin yüzde elli beşin üzerinde olmasıdır.
+Oksijen nazal kanülle ve düşük akımla verilir: genellikle dakikada bir ile iki litre. Hedef, istirahatte S a O ikinin yüzde doksanın üzerine çıkarılmasıdır. Yüksek akım karbondioksit retansiyonunu artırabilir. Bunu Bölüm iki nokta altıda görmüştük.
+Peki uzun süreli oksijen sağkalımı nasıl uzatır? Hipoksik pulmoner vazokonstriksiyonu azaltarak pulmoner hipertansiyonun ve kor pulmonalenin ilerlemesini yavaşlatır ve polisitemiyi düzeltir. Kor pulmonale sunumunun ifadesiyle oksijen, pulmoner vazokonstriksiyonu durduran ve uzun süreli pulmoner vazodilatasyon yapan tek ilaçtır. Bu konu Kitap beşte.
+
+### k1b4b_03 | Ventilasyon desteği, soru sayıları ve soru bir ile üç
+Ventilasyon desteği, cerrahi ve palyasyon. Kronik hiperkapnisi olan, yani P a C O iki değeri elli iki milimetre cıva ya da üzerinde olan ve alevlenmeyle yatmış seçilmiş hastalarda, evde uzun süreli noninvaziv ventilasyon yeniden yatışı ve ölümü azaltır.
+Üst loblarda baskın amfizemi ve düşük egzersiz kapasitesi olan seçilmiş hastalarda, akciğer hacim azaltma cerrahisi ya da bronkoskopik tek yönlü valvler hiperinflasyonu azaltır. Böylece semptomları ve bazı hastalarda sağkalımı iyileştirir. Büyük büller cerrahiyle çıkarılabilir. Çok ileri hastalıkta ise akciğer nakli ve palyatif bakım gündeme gelir.
+Ekrandaki tablo, sağkalımı uzattığı gösterilen müdahaleleri ve her birinin hangi hastada geçerli olduğunu özetliyor. Birincisi sigarayı bırakma: bütün içicilerde, her evrede.
+İkincisi uzun süreli oksijen tedavisi, günde on beş saat ya da daha fazla: ağır kronik istirahat hipoksemisinde.
+Üçüncüsü evde uzun süreli noninvaziv ventilasyon: kronik hiperkapnide, özellikle yakın zamanda yatış olduysa.
+Dördüncüsü akciğer hacim azaltma cerrahisi: üst lob amfizemi ve düşük egzersiz kapasitesinde.
+Beşincisi pulmoner rehabilitasyon: alevlenme nedeniyle yatış sonrasında.
+Altıncısı, tek inhalerde üçlü tedavi, yani LAMA, LABA ve inhale kortikosteroid bir arada: sık ya da ağır alevlenme geçiren hastalarda.
+Şimdi bu bölümden yıllara göre soru sayısına bakalım. 2022 2023 sınavında sıfır, 2023 2024 sınavında yedi, 2024 sınavında bir ve 2025 2026 sınavında bir soru var. KOAH kliniği sorularının neredeyse tamamı, yedi soruyla, 2023 2024 sınavından geldi. Konular şunlardı: ilerleyici dispne, kifoskolyozda miks patern, DLCO'nun azalması ve evrelemede yer almaması, CAT skoru, en sık komorbidite ve sigarayı bırakmanın sağkalıma katkısı. 2024 ve 2025 2026 sınavlarında yalnızca FEV bir bölü FVC eşiği soruldu. 2025 2026'da ders KOAH patogenezi adını aldığı için klinik sorular azaldı, ama eşik sorusu iki yıl üst üste geldi.
+Şimdi bölüm sonu sorularına geçelim. Soru bir: 2025 2026 sınavının altıncı ve 2024 sınavının yirmi birinci sorusu.
+KOAH tanısı koyabilmek için, Dünya Sağlık Örgütü ölçütlerine göre solunum fonksiyon testinde FEV bir bölü FVC oranı hangi değerin altında olmalıdır?
+A: Doksan.
+B: Seksen beş.
+C: Seksen.
+D: Yetmiş beş.
+E: Yetmiş.
+Durdur ve düşün.
+Cevap E, yani yüzde yetmiş. KOAH tanısı, bronkodilatör sonrası FEV bir bölü FVC oranının sıfır virgül yetmişin altında olmasıyla konur. Bu eşik, GOLD'un ve Dünya Sağlık Örgütü'nün kabul ettiği eşiktir. 2024 sınavında da cevap yüzde yetmiş olarak kabul edildi.
+A ve B, yani doksan ve seksen beş, sağlıklı bir çocukta ya da genç erişkinde görülebilecek normal oranlardır. C, yani seksen, sağlıklı genç erişkindeki ortalama orandır. Hocanın spirometri yorumlama algoritmasında obstrüksiyondan şüphelenmek için kullanılan değerdir, ama tanı eşiği değildir. D, yani yetmiş beş, eski bazı kaynaklarda kullanılan bir sınırdır.
+İtiraz ve sonucu: 2025 2026 sınavında cevap anahtarı önce C, yani seksen olarak verildi. Bunun nedeni büyük olasılıkla sunumdaki algoritma slaytında oranın yüzde seksen olarak geçmesidir. Öğrencilerin itirazı üzerine cevap E, yani yetmiş olarak değiştirildi. İtiraz haklıdır: soru açıkça KOAH tanısı ve Dünya Sağlık Örgütü ölçütleri diye sormaktadır ve bu ölçütlerde eşik sıfır virgül yetmiştir.
+Soru iki: 2023 2024 sınavı, otuz dördüncü soru.
+Aşağıdaki hastalıklardan hangisinde nefes darlığı ilerleyici, yani progresif karakterdedir?
+Bu sorunun şıkları kaynakta kayıtlı değil.
+Durdur ve düşün.
+Cevap E şıkkı: KOAH. KOAH'ta hava akımı kısıtlanması kalıcıdır ve yıllar içinde artar. Bu yüzden nefes darlığı ilerleyici, süregen ve eforla artan bir karakter taşır. Hasta önce yokuşta, sonra düz yolda, en sonunda giyinirken nefes darlığı çeker.
+Şıklar kaynakta yok, ama bu sorunun karşılaştırıldığı tipik hastalık astımdır. Astımda nefes darlığı ataklar hâlindedir. Alerjen, egzersiz, soğuk ya da enfeksiyon gibi tetikleyicilerle gelir ve ataklar arasında hasta tamamen normal olabilir. Diğer olası şıklar, örneğin pnömotoraks, pulmoner emboli ya da pnömoni ise ani başlangıçlı nefes darlığı yapar.
+Soru üç: 2023 2024 sınavı, yirmi sekizinci soru.
+Kifoskolyozu ve elli paket yıl sigara öyküsü olan bir hastanın solunum fonksiyon testi bulgusu aşağıdakilerden hangisi olabilir?
+Bu sorunun da şıkları kaynakta kayıtlı değil.
+Durdur ve düşün.
+Cevap A şıkkı: FEV bir bölü FVC oranı yüzde yetmişin altında ve FVC yüzde seksenin altında. Yani miks patern. Hastada iki ayrı hastalık vardır. Elli paket yıl sigara KOAH'a, yani obstrüksiyona yol açar ve FEV bir bölü FVC oranını düşürür. Kifoskolyoz ise göğüs duvarını deforme ederek akciğerin genişlemesini kısıtlar. Bu restriktif bir hastalıktır ve FVC'yi düşürür. İkisinin birleşimi, oranın ve FVC'nin birlikte düşük olduğu miks paterndir.
+Yalnızca FEV bir bölü FVC oranının yüzde yetmişin altında olması ve normal FVC, saf obstrüksiyonu gösterir. Normal ya da artmış oranla birlikte düşük FVC ise saf restriksiyonu gösterir. Bu hastada ikisi de eksik kalır. Miks paternin kesinleşmesi için TLC ölçülür. Restriksiyon varsa TLC düşüktür.
+
+### k1b4b_04 | Soru dört ile sekiz ve pekiştirme sorusu
+Soru dört: 2023 2024 sınavı, otuz beşinci soru.
+KOAH'lı bir hastada aşağıdakilerden hangisi beklenmez?
+Şıklar yine kaynakta kayıtlı değil.
+Durdur ve düşün.
+Cevap A şıkkı: DLCO artmıştır. Yani beklenmeyen bulgu, DLCO'nun artmasıdır. Amfizemde alveol duvarlarıyla birlikte kılcal damarlar da yıkılır. Gaz alışverişinin yapıldığı toplam yüzey azaldığı için DLCO düşer. Kronik bronşitin baskın olduğu hastada normal kalabilir, ama artmaz.
+KOAH'ta beklenen bulgular, ki bunlar büyük olasılıkla sorunun doğru şıklarıdır, şunlardır: FEV bir bölü FVC oranının sıfır virgül yetmişin altında olması, FEV bir azalması, RV ve FRC artışı, yani hava hapsi; TLC'nin normal ya da artmış olması ve hipoksemi. DLCO artışı ise astımda bazen, polisitemide ve alveoler kanamada görülür.
+Soru beş: 2023 2024 sınavı, otuz birinci soru.
+KOAH evrelemesinde aşağıdakilerden hangisi katkıda bulunmaz?
+Şıklar kaynakta kayıtlı değil.
+Durdur ve düşün.
+Cevap E şıkkı: DLCO derecesi. GOLD değerlendirmesi üç bilgiye dayanır. Birincisi spirometrik ağırlık: bronkodilatör sonrası FEV bir ile belirlenen GOLD bir ile dört arası dereceler. İkincisi semptomlar, yani m M R C ya da CAT. Üçüncüsü son bir yıldaki alevlenme öyküsü, yani A, B ve E grupları. DLCO bu sistemin parçası değildir.
+Evrelemeye katkıda bulunanlar, yani sorunun muhtemel diğer şıkları şunlardır: FEV bir, m M R C, CAT skoru, alevlenme sayısı ve hastaneye yatış öyküsü. DLCO amfizemin şiddetini gösterir ve cerrahi kararında kullanılır, ama evrelemede yer almaz.
+Soru altı: 2023 2024 sınavı, yirmi birinci soru.
+KOAH olgularında en sık kullanılan semptom takip skoru hangisidir?
+Şıklar kaynakta kayıtlı değil.
+Durdur ve düşün.
+Cevap E şıkkı: CAT skoru. KOAH Değerlendirme Testi, sekiz soruda şunları sıfır ile beş arasında puanlar: öksürük, balgam, göğüste sıkışma, efor dispnesi, günlük aktivite, kendine güven, uyku ve enerji. Toplam puan sıfır ile kırk arasıdır. On ve üzeri, yüksek semptom yükünü gösterir.
+Karıştırılabilecek diğer ölçekler de var. m M R C yalnızca nefes darlığını, sıfır ile dört arasında derecelendirir. BODE indeksi semptom skoru değil, ölüm riskini öngören bileşik bir indekstir. Astımda kullanılan kontrol testleri, örneğin Astım Kontrol Testi, KOAH için değildir.
+Soru yedi: 2023 2024 sınavı, yirmi yedinci soru.
+KOAH hastalarında en sık hangi sistem komorbiditesi görülür?
+Şıklar kaynakta kayıtlı değil.
+Durdur ve düşün.
+Cevap B şıkkı: kardiyovasküler sistem. Koroner arter hastalığı, kalp yetersizliği, atriyal fibrilasyon ve hipertansiyon, KOAH'ta en sık ve en önemli eşlik eden hastalıklardır. Ortak risk faktörü olan sigara, sistemik inflamasyon, hipoksemi ve hiperinflasyon bu birlikteliği açıklar. Hafif ve orta KOAH'lıların önemli bir kısmı kalp hastalığından ölür.
+Kas iskelet komorbiditeleri, yani osteoporoz ve kas güçsüzlüğü; metabolik komorbiditeler, yani diyabet ve metabolik sendrom; psikiyatrik komorbiditeler, yani depresyon ve anksiyete; ve onkolojik komorbidite, yani akciğer kanseri de sıktır. Ama sıklık ve önem bakımından kardiyovasküler hastalıkların gerisindedir.
+Soru sekiz: 2023 2024 sınavı, yirmi üçüncü soru.
+KOAH'ta sağkalıma en büyük katkıyı sağlayan uygulama aşağıdakilerden hangisidir?
+Şıklar kaynakta kayıtlı değil.
+Durdur ve düşün.
+Cevap E şıkkı: sigaranın bırakılması. Bırakmak, FEV bir kaybının hızını içmeyenlerin düzeyine indirir; bunu Fletcher Peto eğrilerinde görmüştük. Büyük çalışmalarda tüm nedenlere bağlı ölümü azaltmıştır. Her evrede ve her hastada geçerli olan tek müdahaledir.
+Uzun süreli oksijen tedavisi de sağkalımı uzatır, ama yalnızca ağır kronik hipoksemisi olan hastalarda. Bronkodilatörler semptomları ve alevlenmeleri azaltır, ama FEV bir kaybının hızını belirgin değiştirmez. İnhale kortikosteroidler seçilmiş hastalarda alevlenmeleri azaltır. Aşılar ve rehabilitasyon da yararlıdır, ama hiçbiri bırakmanın etkisine yaklaşmaz.
+Son olarak, konuyu pekiştirmek için hazırlanmış yeni bir soru.
+Stabil dönemdeki altmış sekiz yaşında KOAH'lı bir hastada, istirahat arter kan gazında P a O iki değeri elli yedi milimetre cıva, P a C O iki değeri kırk sekiz milimetre cıva bulunuyor. Hematokrit yüzde elli sekizdir ve bacaklarında ödem vardır. Bu hasta için en doğru yaklaşım hangisidir?
+A: P a O iki değeri elli beş milimetre cıvanın üzerinde olduğu için uzun süreli oksijen endikasyonu yoktur.
+B: Nazal kanülle dakikada sekiz ile on litre oksijen başlanmalıdır.
+C: Günde en az on beş saat, düşük akımlı, yani dakikada bir ile iki litre, uzun süreli oksijen tedavisi başlanmalıdır.
+D: Oksijen yalnızca egzersiz sırasında verilmelidir.
+E: Hiperkapni olduğu için oksijen kesinlikle kontrendikedir.
+Durdur ve düşün.
+Cevap C. P a O iki değeri elli beş ile altmış milimetre cıva arasındadır. Buna polisitemi, yani yüzde elli beşin üzerinde bir hematokrit, ve sağ kalp yetersizliğini düşündüren ödem eşlik etmektedir. Bu, uzun süreli oksijen tedavisinin ikinci endikasyon grubudur. Oksijen günde en az on beş saat, düşük akımla verilir ve sağkalımı uzatır.
+A yanlış: elli beş ile altmış milimetre cıva aralığında polisitemi, ödem ya da pulmoner hipertansiyon varsa endikasyon vardır. B yanlış: yüksek akım, hiperkapnik hastada karbondioksit retansiyonunu artırır. D yanlış: sağkalım yararı günde en az on beş saatlik kullanımla gösterilmiştir. E yanlış: hiperkapni oksijenin kontrendikasyonu değildir. Kontrollü, düşük akımlı oksijen güvenle verilir. Sorun yüksek akımdır.
+Bölüm dördün sonuna geldik. Bu bölümle birlikte KOAH: Tanım, Patogenez ve Klinik kitabının da sonuna geldik.

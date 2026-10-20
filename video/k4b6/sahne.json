@@ -1,0 +1,135 @@
+{
+  "_aciklama": "parcalar.txt'deki her dolu satirin ekranda vurgulanacak blogu (CSS secici), satir sirasiyla. Girdi duz secici ya da {\"sel\", \"ac\", \"dur\"}: ac = bu satirdan itibaren o soru kartinin cevabi acik, dur = satirdan sonra eklenecek dusunme arasi (sn). Kimlikler: #bas bolum basligi, #s1.. .book-section sirasi, #k1.. soru kartlari, .qtext soru cumlesi, .opt siklar. Kurallar: video/YAZIM_KURALLARI.md",
+  "kaynak": "kaynak/modul4/kitaplar/m4k4/06_koah.html",
+  "ust_baslik": "Antiastmatik İlaçlar · Bölüm 6 · KOAH Farmakoterapisi",
+  "parcalar": {
+    "k4b6_01": [
+      "#bas",
+      ".chapter-lead",
+      ".chapter-lead",
+      "#s1 > h3, #s1 > p:nth-of-type(1)",
+      "#s1 > p:nth-of-type(1)",
+      "#s1 > p:nth-of-type(2)",
+      "#s1 tbody tr:nth-child(1)",
+      "#s1 tbody tr:nth-child(2)",
+      "#s1 tbody tr:nth-child(3)",
+      "#s1 tbody tr:nth-child(4)",
+      "#s1 tbody tr:nth-child(5)",
+      "#s1 tbody tr:nth-child(6)",
+      "#s1 tbody tr:nth-child(7)",
+      "#s1 > p:nth-of-type(3)",
+      "#s2 > h3, #s2 > p:nth-of-type(1)",
+      "#s2 > ul > li:nth-child(1)",
+      "#s2 > ul > li:nth-child(2)",
+      "#s2 > ul > li:nth-child(3)",
+      "#s2 > ul > li:nth-child(4)",
+      "#s2 > p:nth-of-type(2)",
+      "#s2 > p:nth-of-type(2)",
+      "#s3 > h3, #s3 > p:nth-of-type(1)",
+      "#s3 > p:nth-of-type(1)",
+      "#s3 > p:nth-of-type(2)",
+      "#s3 > .hl-block",
+      "#s3 > .hl-block"
+    ],
+    "k4b6_02": [
+      "#s4 > h3, #s4 > p:nth-of-type(1)",
+      "#s4 > p:nth-of-type(2)",
+      "#s4 > p:nth-of-type(2)",
+      "#s4 > p:nth-of-type(3)",
+      "#s4 > p:nth-of-type(3)",
+      "#s5 > h3, #s5 > p:nth-of-type(1)",
+      "#s5 > ol > li:nth-child(1)",
+      "#s5 > ol > li:nth-child(2)",
+      "#s5 > ol > li:nth-child(3)",
+      "#s5 > ol > li:nth-child(4)",
+      "#s5 > ol > li:nth-child(4)",
+      "#s5 > p:nth-of-type(2)",
+      "#s5 > p:nth-of-type(2)",
+      "#s6 > h3, #s6 > p:nth-of-type(1)",
+      "#s6 > table:nth-of-type(1) tbody tr:nth-child(1)",
+      "#s6 > table:nth-of-type(1) tbody tr:nth-child(2)",
+      "#s6 > table:nth-of-type(1) tbody tr:nth-child(3)",
+      "#s6 > table:nth-of-type(1) tbody tr:nth-child(4)",
+      "#s6 > table:nth-of-type(1) tbody tr:nth-child(5)",
+      "#s6 > table:nth-of-type(1) tbody tr:nth-child(6)",
+      "#s6 > table:nth-of-type(1) tbody tr:nth-child(7)",
+      "#s6 > table:nth-of-type(1) tbody tr:nth-child(8)",
+      "#s6 > table:nth-of-type(1) tbody tr:nth-child(9)"
+    ],
+    "k4b6_03": [
+      "#s6 > table:nth-of-type(2) tbody tr:nth-child(1)",
+      "#s6 > table:nth-of-type(2) tbody tr:nth-child(2)",
+      "#s6 > table:nth-of-type(2) tbody tr:nth-child(3)",
+      "#s6 > table:nth-of-type(2) tbody tr:nth-child(4)",
+      "#s6 > table:nth-of-type(2) tbody tr:nth-child(5)",
+      "#s6 > table:nth-of-type(2) tbody tr:nth-child(6)",
+      "#s6 > table:nth-of-type(2) tbody tr:nth-child(7)",
+      "#s6 > table:nth-of-type(2) tbody tr:nth-child(8)",
+      "#s6 > table:nth-of-type(2) tbody tr:nth-child(9)",
+      "#s7 > h2, #s7 > figure",
+      "#s7 > figure",
+      "#s8 > h2, #k1 .card-kicker",
+      "#k1 .qtext",
+      "#k1 .opt:nth-child(1)",
+      "#k1 .opt:nth-child(2)",
+      "#k1 .opt:nth-child(3)",
+      "#k1 .opt:nth-child(4)",
+      "#k1 .opt:nth-child(5)",
+      {
+        "sel": "#k1 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k1 .card-body p:nth-child(1), #k1 .card-source",
+        "ac": "k1"
+      },
+      "#k1 .card-body p:nth-child(2)",
+      "#k2 .card-kicker",
+      "#k2 .qtext",
+      "#k2 .opt:nth-child(1)",
+      "#k2 .opt:nth-child(2)",
+      "#k2 .opt:nth-child(3)",
+      "#k2 .opt:nth-child(4)",
+      "#k2 .opt:nth-child(5)",
+      {
+        "sel": "#k2 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k2 .card-body p:nth-child(1), #k2 .card-source",
+        "ac": "k2"
+      },
+      "#k2 .card-body p:nth-child(2)",
+      "#k3 .card-kicker",
+      "#k3 .qtext",
+      "#k3 .opt:nth-child(1)",
+      {
+        "sel": "#k3 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k3 .opt:nth-child(2), #k3 .card-source",
+        "ac": "k3"
+      },
+      "#k3 .card-body p:nth-child(1)",
+      "#k3 .card-body p:nth-child(2)",
+      "#k4 .card-kicker",
+      "#k4 .qtext",
+      "#k4 .opt:nth-child(1)",
+      "#k4 .opt:nth-child(2)",
+      "#k4 .opt:nth-child(3)",
+      "#k4 .opt:nth-child(4)",
+      "#k4 .opt:nth-child(5)",
+      {
+        "sel": "#k4 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k4 .card-body p:nth-child(1), #k4 .card-source",
+        "ac": "k4"
+      },
+      "#k4 .card-body p:nth-child(2)",
+      "#bas"
+    ]
+  }
+}

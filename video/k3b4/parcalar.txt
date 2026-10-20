@@ -1,0 +1,98 @@
+### k3b4_01 | Tanım, nedenler ve patogenez
+Obstrüktif Akciğer Hastalıklarının Patolojisi. Bölüm dört: Bronşektazi ve Diğer Hava Yolu Hastalıkları.
+Bronşektazi, bronşların ve bronşiyollerin kalıcı olarak genişlemesidir. Şöyle düşün: amfizem asinüsün genişlemesidir, bronşektazi ise iletici hava yollarının genişlemesi.
+Peki iki hastalığı birbirinden ayıran ne? Yalnızca yer değil, mekanizma. Amfizemde proteazlar alveol duvarını sessizce yıkar. Bronşektazide ise tıkanma ve kronik nekrotizan enfeksiyon, bronş duvarının destek dokusunu harap eder. Bölümün sonunda, sunumda yer alan üç nadir hava yolu hastalığını da anlatacağız.
+İlk başlık: tanım. Sunuma göre bronşektazi; çeşitli nedenlere bağlı tıkanıklıklar ya da süregelen enfeksiyonlara sekonder olarak gelişen inflamasyon ve fibrozise bağlı olarak, bronş ve bronşiyollerin kas ve elastik destek dokusunun harabiyeti sonucu gelişen devamlı, yani kalıcı dilatasyondur.
+Hastalık devamlı, kronik nekrotizan bir enfeksiyonla sonuçlanır ve sıklıkla alt lobları tutar. Tanımdaki üç unsur önemli. Bir: genişleme kalıcıdır; geçici genişleme bronşektazi sayılmaz. İki: nedeni, duvarın destek dokusunun yıkımıdır. Üç: tabloyu sürekli bir enfeksiyon sürdürür.
+Şimdi nedenlere geçelim. Sunum, bronşektaziyle birlikte görülebilen durumları dört grupta toplar.
+Birinci grup: konjenital ve kalıtsal durumlar. Başta kistik fibrozis var. Burada C F T R kanalı bozuktur; mukus koyulaşır ve temizlenemez. Ardından akciğerin intralober sekestrasyonu, immün yetmezlik durumları, primer silyer diskinezi ve Kartagener sendromu gelir.
+Primer silyer diskinezide silyaların dinein kolları kusurludur ve silyalar düzgün hareket edemez. Kartagener sendromu, bunun situs inversus, kronik sinüzit ve bronşektazi üçlüsüyle giden biçimidir. Aynı yapı sperm kuyruğunda da bozuk olduğu için erkeklerde infertilite eşlik eder.
+İkinci grup: postenfeksiyöz durumlar. Önce nekrotizan pnömoni yapan bakteriler: Mikobakteriyum tüberkülozis, Stafilokokus aureus, Hemofilus influenza ve Psödomonas. Sonra virüsler: adenovirüs, influenza virüsü ve H I V. Son olarak funguslar, yani Aspergillus türleri.
+Üçüncü grup: bronş obstrüksiyonu. Tümör, yabancı cisim ya da mukus plakları bronşu tıkayabilir. Bu durumda bronşektazi, tıkanmanın olduğu akciğer segmentinde gelişir.
+Dördüncü grup: sistemik hastalıklar. Romatoid artrit, sistemik lupus eritematozus, inflamatuvar bağırsak hastalığı ve transplantasyon sonrası dönem, yani graft versus host hastalığı.
+Şimdi çok önemli bir nokta. Nonspesifik interstisyel pnömoni, yani N S İ P, bronşektazi nedeni değildir. Bu bilgi 2025 2026 sınavının kırk yedinci ve 2023 2024 sınavının kırk altıncı sorusunda soruldu. N S İ P, alveol duvarlarını tutan, uniform interstisyel inflamasyon ve fibrozisle seyreden bir interstisyel akciğer hastalığıdır ve restriktif tablo yapar.
+Peki fibroziste hiç bronşektazi görülmez mi? İleri fibrotik akciğer hastalıklarında, fibrozis hava yollarını çekip açtığı için traksiyon bronşektazisi görülebilir. Ama bu, fibrozisin radyolojik bir işaretidir. Bronşektazinin tanımındaki tıkanma ve kronik nekrotizan enfeksiyon mekanizmasından farklıdır.
+Sırada patogenez var: obstrüksiyon ve enfeksiyonun kısır döngüsü. Sunum patogenezin iki ayağını sayar: bronşların obstrüksiyonu ve kronik persistan enfeksiyon. İkisi birbirini başlatır ve sürdürür.
+Birinci yol: bronş tıkanınca, normal temizleme mekanizması tıkanıklık ve bronş dilatasyonu tarafından engellenir. Tıkanıklığın distalinde biriken sekresyonlarda kısa sürede sekonder enfeksiyon gelişir.
+İkinci yol: önce kronik enfeksiyon varsa, bronş duvarı önce harap olur, ardından duvarda zayıflama ve dilatasyon gelişir.
+Hangi uçtan başlarsa başlasın, sonuç bir kısır döngüdür. Enfeksiyon bölgesine gelen nötrofiller elastaz ve diğer proteazlarla, bakteriler ise toksinleriyle bronş duvarının kasını, elastik dokusunu ve kıkırdağını yıkar. Desteğini kaybeden duvar, inspirasyondaki çekişle ve öksürükteki basınçla kalıcı olarak genişler.
+Genişlemiş, kası ve silyaları hasarlı bronş, sekresyonlarını temizleyemez. Biriken sekresyonlarda enfeksiyon sürer ve döngü yeniden başlar.
+Ekrandaki şekil, Şekil dört nokta bir, bu döngüyü dört kutuyla gösteriyor; ortasında da kısır döngü yazıyor. Sol üstteki birinci kutu: obstrüksiyon ya da temizlik bozukluğu. Altında nedenleri yazıyor: tümör, yabancı cisim, mukus tıkacı; kistik fibrozis, silyer diskinezi. Buradan bir ok sağ üstteki ikinci kutuya gidiyor: sekresyonlar birikir. Normal temizleme engellenir, sekonder enfeksiyon gelişir.
+Ok aşağı, sağ alttaki üçüncü kutuya iniyor: kronik nekrotizan inflamasyon. Nötrofil proteazları ve bakteri toksinleri yüzünden kas, elastik doku ve kıkırdak yıkılır. Sonra ok sola, sol alttaki dördüncü kutuya geçiyor: duvar zayıflar, kalıcı dilatasyon. Silindirik ya da sakküler genişleme gelişir ve dilate bronşta temizlik daha da bozulur. Son ok yukarı çıkıp yeniden birinci kutuya dönüyor ve döngü kapanıyor.
+Altyazıya göre kistik fibrozis ve silyer diskinezi döngüye temizlik bozukluğu basamağından girer. Tümör ve yabancı cisim obstrüksiyon basamağından, nekrotizan pnömoni ise doğrudan inflamasyon basamağından girer. Tedavi bu döngüyü kırmayı amaçlar: fizyoterapiyle sekresyonların temizlenmesi, antibiyotikle enfeksiyonun kontrolü ve varsa obstrüksiyonun giderilmesi.
+
+### k3b4_02 | Morfoloji, histoloji ve nadir hava yolu hastalıkları
+Şimdi morfolojiye geçelim. Sunuma göre bronşektazi genellikle şu özellikleri gösterir.
+Bir: bilateral alt loblar tutulur.
+İki: özellikle vertikal hava yolları, distal bronşlar ve bronşiyoller etkilenir.
+Üç: yabancı cisim ve tümöre bağlı tıkanıklıkta bronşektazi keskin sınırlıdır ve tek bir segmenttedir.
+Dört: hava yolları bazen normalin dört katı genişleyebilir. Genişlemenin biçimine göre iki tip ayrılır. Silindirik bronşektazide uzun, tüp benzeri genişlemeler görülür. Sakküler bronşektazide ise genişlemeler fuziform ya da kesecikler şeklindedir.
+Peki neden alt lob ve neden distal? Alt lobların bronşları dikey seyreder ve sekresyonlar yerçekimiyle buralarda birikir. Sekresyonun biriktiği yer, enfeksiyonun yerleştiği yerdir. Distal bronşlar ve bronşiyoller ise daha incedir; kıkırdak desteği azdır ya da hiç yoktur. Bu yüzden duvar hasarına karşı daha savunmasızdırlar.
+Bu iki nedenle şu iki ifade bronşektazi için yanlıştır. Birincisi: "sıklıkla üst loblarda görülür". Bu ifade 2025 2026 sınavının kırk dokuzuncu ve 2024 sınavının yirmi dördüncü sorusunda geçti. İkincisi: "sıklıkla proksimal bronşlar tutulur". Bu da 2023 2024 sınavının kırk ikinci ve 2022 2023 sınavının altmış altıncı sorusunda geçti.
+Ve işte sık karıştırılan nokta: istisnalar. Kuralın üç önemli istisnası vardır ve bunlar sınavda ters köşe olarak karşına çıkabilir. Kistik fibroziste bronşektazi üst loblarda belirgindir. Tüberküloza bağlı bronşektazi de hastalığın yerleştiği üst loblardadır.
+Alerjik bronkopulmoner aspergillozda ise bronşektazi proksimal, yani santral bronşları tutar. Ama soru "bronşektazi genel olarak" diye soruyorsa, cevap alt lob ve distaldir.
+Sıradaki başlık: histolojik özellikler ve mikrobiyoloji. Önce histoloji. Bir: dilate bronşlarda değişen düzeylerde inflamasyon, ülserasyon ve skuamöz metaplazi görülür.
+İki: bronş duvarında lenfoid foliküller.
+Üç: bronş duvarı destrüksiyonu. Buna kıkırdak, kas ve submukozal bezler de dahildir.
+Dört: bronş duvarında ve peribronşiyal dokularda fibrozis ve inflamasyon.
+Beş: bazı durumlarda bronş duvarı tamamen nekroza giderek akciğer apsesi gelişebilir.
+Altı: sekonder olarak akut ve kronik pnömoni, organize pnömoni, postobstrüktif fibrozis ve inflamasyon.
+Yedi: ileri evrede bal peteği akciğer gelişebilir. Genişlemiş hava yolları ve fibrozis, akciğere arı peteğini andıran kistik bir görünüm verir.
+Peki kültürde ne ürer? Sunuma göre bronşektazili akciğerden genellikle mikst flora üretilir: stafilokoklar, streptokoklar, pnömokoklar, enterik organizmalar, anaerobik ve mikroaerofilik bakteriler. Çocuklarda Hemofilus influenza ve Psödomonas aeruginoza öne çıkar.
+A B P A'da, yani alerjik bronkopulmoner aspergillozda, silindirik olarak genişlemiş segmental bronşlarda, mukoinflamatuvar içerikte az sayıda mantar hifi görülebilir. Bu hifler özel boyalarla gösterilebilir. Geç evrelerde mantarlar bronş duvarına infiltre olabilir.
+Şimdi klinik. Bronşektazinin başlıca belirtisi, her gün çıkarılan bol, pürülan ve bazen kötü kokulu balgamdır. Tekrarlayan enfeksiyonlar, hemoptizi, çomak parmak ve oskültasyonda kaba raller görülür.
+Komplikasyonları arasında akciğer apsesi, ampiyem, kronik enfeksiyona bağlı sekonder amiloidoz, yani A A amiloidoz, ve kor pulmonale vardır. Tanı yüksek çözünürlüklü tomografiyle konur. Tipik görünüm şudur: bronş, eşlik ettiği arterden daha geniştir ve perifere doğru incelmez.
+Şimdi sunumdaki nadir hava yolu hastalıklarına geçiyoruz. İlki orta lob sendromu. Sunuma göre orta lob sendromu, bronşiyal kompresyona bağlı olarak sağ orta lobda gelişen bir durumdur. Kompresyon, orta lob bronşunun ana bronştan keskin bir açıyla çıkmasına, uzun ve dar olmasına bağlı olabilir.
+Daralmaya bir grup komşu lenf nodunun basısı neden olabilir. Neoplastik ya da nonneoplastik bir lezyonun bronş içinden ya da dışından basısı da neden olabilir. Sonuçta orta lobun havalanması azalır. Kronik ya da tekrarlayan atelektazi sonucu bu bölge enfeksiyona, organize pnömoniye ve lipoid pnömoniye açık hâle gelir.
+Orta lob sendromu erişkinlerde görülür. Çocuklarda astıma eşlik edebilir ve astım geçince kendiliğinden iyileşir. Lady Windermere sendromu bunun özel bir biçimidir: orta yaşlı ve yaşlı kadınlarda, Mikobakteriyum avium kompleksine bağlı sağ orta lob ve lingula enfeksiyonu.
+Histolojide şunlar görülür: bronşektazi, bronşektaziyle ilişkili atelektazi, kronik hava yolu inflamasyonu, lenfoid hiperplazi, organize pnömoni, değişik boyutlarda apseler ve Mikobakteriyum avium kompleksine bağlı granülomlar. Mikobakteriyum avium bazen özel boyalarla gösterilebilir.
+Son başlık: trakeobronkopatia osteokondroplastika. Bronşiyal obstrüksiyonun ve tekrarlayan pnömoninin oldukça nadir görülen bir nedenidir. Etiyolojisi bilinmez. Trakea ve bronşlarda; kemik ve kıkırdaktan oluşan, iki ile beş milimetre çaplı, çok sayıda submukozal nodülle karakterizedir. Nodüller trakeanın alt üçte ikisini tutar.
+Elli yaş üstündeki erkeklerde görülür. Genellikle belirti vermez ve göğüs filminde rastlantısal olarak bulunur. Bazı hastalarda dispne, hemoptizi ve hırıltı görülebilir. Tanı, bilgisayarlı tomografi ya da manyetik rezonansla radyolojik olarak konur. Bronkoskopi genellikle tanısaldır.
+Histolojide submukozada, ossifiye kıkırdaktan oluşan nodüller görülür. Bu küçük kitleler epitel ile normal kıkırdak tabakası arasındadır ve seri kesitlerde normal trakeal perikondrium ile süreklilik gösterir. Üzerlerindeki epitelde fokal erozyon ve metaplastik değişiklikler olabilir.
+Kıkırdak ve kemik sitolojik olarak benigndir. Nadiren kemikte kemik iliği de görülür. Ayırıcı tanıda trakeobronşiyal amiloidoz, pulmoner endometriozis, endobronşiyal sarkoidoz, papillomatozis ve kalsinozis yer alır.
+
+### k3b4_03 | Soru sayısı ve bölüm sonu soruları
+Şimdi bu bölümden yıllara göre gelen soru sayısına bakalım. Ekrandaki grafikte 2022 2023 sınavında bir, 2023 2024 sınavında iki, 2024 sınavında bir ve 2025 2026 sınavında iki soru görüyorsun.
+Yani bronşektaziden her yıl bir ya da iki soru geldi, toplam altı soru. Ve hep aynı üç bilgi soruldu. Bir: N S İ P bronşektazi nedeni değildir. İki: bronşektazi üst lobları değil, alt lobları tutar. Üç: proksimal değil, distal bronşları tutar. Şimdi bu soruları birlikte çözelim.
+Bölüm sonu soruları. Soru bir: 2025 2026 sınavının kırk yedinci ve 2023 2024 sınavının kırk altıncı sorusu.
+Aşağıdakilerden hangisi bronşiektazi nedeni değildir?
+A: Kistik fibrozis.
+B: Nonspesifik interstisyel pnömoni.
+C: Kartagener sendromu.
+D: Primer silyer diskinezi.
+E: Yabancı cisim.
+Durdur ve düşün.
+Cevap B. N S İ P, alveol duvarlarını tutan bir interstisyel akciğer hastalığıdır ve restriktif tablo yapar. Bronşektazinin tanımındaki mekanizma, yani tıkanma ve kronik nekrotizan enfeksiyonla bronş duvarının yıkımı, bu hastalıkta yoktur. İleri fibroziste görülen traksiyon bronşektazisi ise fibrozisin bir işaretidir.
+Diğer şıklara bakalım. A: kistik fibroziste koyu mukus temizlenemez ve kronik enfeksiyon gelişir. C ve D: silyalar hareket edemediği için sekresyonlar birikir. Kartagener sendromu, primer silyer diskinezinin situs inversus ve sinüzitle giden biçimidir. E: yabancı cisim bronşu tıkar ve tıkanmanın distalindeki segmentte bronşektazi gelişir.
+Soru iki: 2025 2026 sınavının kırk dokuzuncu ve 2024 sınavının yirmi dördüncü sorusu.
+Bronşiektazi ile ilgili aşağıdakilerden hangisi yanlıştır?
+A: Bronş duvarı harabiyeti, ardından duvarda zayıflama ve dilatasyon gelişir.
+B: Yabancı cisim ve tümöre bağlı tıkanıklıkta bronşiektazi keskin sınırlı tek bir segmenttedir.
+C: Dilate bronşlarda değişen düzeylerde inflamasyon, ülserasyon, skuamöz metaplazi vardır.
+D: Sıklıkla üst loblarda görülür.
+E: Bal peteği akciğer gelişebilir.
+Durdur ve düşün.
+Cevap D. Yani yanlış olan ifade D şıkkı. Bronşektazi sıklıkla iki taraflı alt lobları tutar. Alt lob bronşları dikey seyrettiği için sekresyonlar yerçekimiyle orada birikir ve enfeksiyon orada yerleşir. Üst lob tutulumu, kistik fibrozis ve tüberküloz gibi özel durumların istisnasıdır.
+Diğer şıklara bakalım. A, sunumdaki patogenez cümlesidir: kronik enfeksiyon önce duvarı harap eder, sonra duvar zayıflar ve genişler. B, morfoloji slaytındadır: tıkanmaya bağlı bronşektazi, tıkanan segmentle sınırlıdır. C, histolojik özelliklerdir. E ise ileri evrede genişlemiş hava yolları ve fibrozisle gelişen kistik görünümdür.
+Soru üç: 2022 2023 sınavının altmış altıncı ve 2023 2024 sınavının kırk ikinci sorusu.
+Bronşiektazi ile ilgili aşağıdakilerden hangisi yanlıştır?
+A: Sıklıkla proksimal bronşlar tutulur.
+B: Tümöre bağlı tıkanıklıkta ilgili segmentte keskin sınırlı bronşiektazi olur.
+C: Sıklıkla bilateral alt loblarda tutulum olur.
+D: Bronş duvarlarında inflamasyon ve skuamöz metaplazi görülür.
+E: Bronş duvarı ve peribronşiyal dokularda fibrozis vardır.
+Durdur ve düşün.
+Cevap A. Yani yanlış olan ifade A şıkkı. Bronşektazi özellikle distal bronşları ve bronşiyolleri tutar. Bu hava yollarının kıkırdak desteği azdır ve duvar hasarına daha açıktır. Proksimal, yani santral bronşektazi ise alerjik bronkopulmoner aspergillozun ayırt edici özelliğidir.
+B, C, D ve E, sunumdaki morfoloji ve histoloji maddeleridir: tıkanmaya bağlı segmental tutulum, bilateral alt lob, inflamasyon ve skuamöz metaplazi, duvarda ve peribronşiyal dokuda fibrozis.
+Son olarak, konuyu pekiştirmek için hazırlanmış yeni bir soru.
+Tekrarlayan sinüzit ve akciğer enfeksiyonları olan, kalbi sağda yerleşmiş ve infertilite nedeniyle araştırılan yirmi sekiz yaşındaki erkekte, iki taraflı alt lob bronşektazisi saptanıyor. Bu tablonun temelindeki bozukluk hangisidir?
+A: C F T R klorür kanalı bozukluğu.
+B: Silyaların dinein kollarının kusuru.
+C: Alfa bir antitripsin eksikliği.
+D: Aspergillus'a karşı aşırı duyarlılık.
+E: Humoral immün yetmezlik.
+Durdur ve düşün.
+Cevap B. Situs inversus, kronik sinüzit ve bronşektazi üçlüsü Kartagener sendromudur, yani primer silyer diskinezinin bir biçimidir. Silyaların dinein kolları kusurlu olduğu için hava yolu ve sinüs sekresyonları temizlenemez.
+Embriyoda organ yerleşimini belirleyen silyalar da çalışmadığı için organların yarısında situs inversus gelişir. Sperm kuyruğu da aynı yapıya sahip olduğu için erkekler infertildir.
+Diğer şıklar. A, kistik fibrozistir. Bronşektazi ve vas deferens yokluğuna bağlı infertilite yapar, ama situs inversus yapmaz. C, panasiner amfizem yapar. D, A B P A'dır ve proksimal bronşektazi yapar. E, tekrarlayan enfeksiyon ve bronşektazi yapabilir, ama situs inversus ve infertiliteyi açıklamaz.
+Bölüm dördün sonuna geldik. Bu bölümle birlikte Obstrüktif Akciğer Hastalıklarının Patolojisi kitabı da burada bitiyor.

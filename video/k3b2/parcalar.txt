@@ -1,0 +1,74 @@
+### k3b2_01 | Tanım, patogenez ve Reid indeksi
+Obstrüktif Akciğer Hastalıklarının Patolojisi. Bölüm iki: Kronik Bronşit.
+Önce şunu netleştirelim. Amfizem morfolojik bir tanımdır, kronik bronşit ise klinik bir tanım. Yani kronik bronşit tanısı hastanın öyküsüyle konur. Ama bu klinik tablonun mikroskopta bir karşılığı var ve sınavda tam olarak bu karşılık soruluyor.
+Kronik bronşitin morfolojisini tek bir fikirle özetleyebilirsin: sürekli tahriş edilen hava yolu, daha fazla mukus yapmak için kendini yeniden düzenler.
+İlk başlık: tanım ve epidemiyoloji. Kronik bronşit, başka bir nedenle açıklanamayan, en az iki yıl boyunca, her yıl en az üç ay süren persistan öksürük ve balgam çıkarmadır. Sunuma göre şunları da bilmelisin.
+Birincisi: büyük hava yollarından başlayan, artmış bir mukus sekresyonu vardır. Bronş duvarı çıplak gözle çoğu zaman normal görünür; tanı koyduran değişiklikler mikroskobiktir.
+İkincisi: kronik bronşit, kırk ile altmış beş yaş arasındaki erkeklerin yüzde yirmi ile yirmi beşinde görülür.
+Üçüncüsü: ağır sigara içicilerinde dört ile on kat daha yaygındır.
+Peki her kronik bronşit KOAH mıdır? Hayır. Kronik bronşitli bir hastada spirometrik obstrüksiyon yoksa, buna "basit kronik bronşit" denir ve KOAH sayılmaz. Obstrüksiyon geliştiğinde ise kronik obstrüktif bronşitten söz edilir. Sunumun vurguladığı gibi, orta ve ağır hava yolu obstrüksiyonu olan hastalarda aynı anda belirgin bir amfizem de bulunur.
+Şimdi patogeneze geçelim. Sunum, kronik bronşit patogenezinde iki faktör sayar.
+Birinci faktör: irritasyon yapan inhalanlara sürekli maruziyet. Bu, primer ve başlatıcı faktördür. Tek ve en önemli neden sigara içimidir. Hava kirliliği, tahıl ve pamuk tozu ile mesleki irritanlar da katkıda bulunur.
+İrritan maddeler, bronşiyal mukus bezlerini doğrudan ya da nörohumoral yoldan uyarır ve bu bezlerin hipertrofisine neden olur. Küçük hava yollarında, yani çapı üç milimetreden küçük hava yollarında ise yüzey epitelindeki goblet hücrelerinin sayısını artırır.
+İkinci faktör: mikrobiyolojik enfeksiyonlar. Dikkat et, enfeksiyonlar hastalığı başlatmaz, ama akut alevlenmelerin tetikleyicisidir. Sıklıkla hastalığa eşlik ederek inflamasyonun sürmesinde ve semptomların tekrarlamasında sekonder bir rol oynar.
+Moleküler düzeyde bu sürecin iki motoru var ve ikisi de Kitap birde anlatıldı. Birincisi, sigaranın oksidanlarıyla açılan EGFR yolu; bu yolla MUC beş A C geninin ifadesi artar. İkincisi, nötrofillerin salgıladığı elastaz; elastaz, en güçlü mukus salgılatıcılardan biridir.
+Mukus artarken sigara silyaları da hasarlar. Temizlenemeyen mukus, bakterilerin yerleşmesine zemin hazırlar. Bakteriler inflamasyonu, inflamasyon da mukusu artırır.
+Sunumdaki şema, aynı zararlı etkenin bronşta ve alveolde iki farklı hastalık yaptığını gösterir. Bronş ve bronşiyollerde süregelen zedelenme, aşırı mukus, bronkospazm ve ara sıra gelen enfeksiyonlarla önce geri dönüşlü bir tıkanma, zamanla da kronik bronşit gelişir. Alveollerde ise aynı etken duvarları yıkar ve amfizem gelişir. Bu yüzden ağır içicilerde ikisi çoğunlukla birliktedir.
+Şimdi bu şemayı ekranda görelim. En üstte ortak başlangıç noktası var: süregelen ve yineleyen zedelenme, yani sigara içimi; bazen buna hava kirliliği ve meslek de eklenir. Buradan iki ok çıkıyor. Soldaki ok, bronş ve bronşiyol zedelenmesine gidiyor: bez hipertrofisi ve goblet hücre metaplazisi. Bu kutudan aşağı inen ok, aşırı mukus, bronkospazm ve enfeksiyona ulaşıyor. Bunun sonucu, küçük hava yollarında geri dönüşlü tıkanma.
+Süregelen zedelenme ve yineleyen enfeksiyonla bu sol kol, kronik bronşite varıyor. Kutunun içinde şunlar yazıyor: klinik tanım ve Reid indeksinde artış. Sağdaki ok ise alveol duvarı zedelenmesine gidiyor: proteaz antiproteaz dengesizliği. Buradan da süregelen zedelenme ve yineleyen enfeksiyonla amfizem gelişiyor: morfolojik tanım ve alveol duvarı yıkımı. En altta iki kol yeniden birleşiyor: KOAH, yani çoğu hastada ikisi birlikte. Orta ve ağır obstrüksiyonda belirgin amfizem de vardır.
+Şeklin altyazısı: kronik bronşit ve amfizemin ortak kökeni; şema sunumdakinden uyarlandı. Aynı etken, yani sigara, iletici hava yollarında mukus yapan dokuyu büyütür, asinüste ise alveol duvarını yıkar. Klinikte gördüğümüz KOAH, bu iki sürecin her hastada farklı oranlarda birleşimidir.
+Sırada normal bronş ve Reid indeksi var. Normal bir bronşun duvarında, epitelin altındaki submukozada seromüsinöz bezler bulunur. Sunuma göre bu bezler yarı yarıya seröz ve müsinöz hücrelerden oluşur ve epitel bazal membranı ile kıkırdak arasındaki mesafenin yaklaşık üçte birini kaplar. Kronik irritasyonda bezler hiperplaziye uğrar ve bu oran artar.
+İşte Reid indeksi, bu oranın sayısal ölçüsüdür. Formülü şu: submukozal bez tabakasının kalınlığı, bölü epitel bazal membranı ile kıkırdak arasındaki duvar kalınlığı. Normalde sıfır virgül dördün altındadır, yani yaklaşık üçte bir.
+Kronik bronşitte bezler büyüdüğü için Reid indeksi artar ve genellikle sıfır virgül beşin üzerine çıkar. Bu bilgi sınavda iki kez geldi: 2025 2026 sınavının kırk ikinci ve 2024 sınavının yirmi sekizinci sorusunda, kronik bronşitte "Reid indeksi azalır" ifadesi yanlıştı.
+Bez büyümesinin büyük kısmı, müsinöz hücrelerin artışına bağlıdır. Bu yüzden salgı hem miktar olarak artar, hem de kıvamı koyulaşır.
+Ekrandaki şekilde iki bronş duvarı yan yana duruyor. Solda normal bronş: üstte lümen, en altta kıkırdak. Yanda iki ölçü çizgisi var. G, submukozal bez kalınlığı; W ise bazal membran ile kıkırdak arası. Normal bronşta Reid indeksi yaklaşık sıfır virgül otuz beş. Normal değer, sıfır virgül dört ya da daha az.
+Sağda kronik bronşit. Yine üstte lümen, altta kıkırdak; G submukozal bez kalınlığı, W bazal membran ile kıkırdak arası. Ama burada Reid indeksi yaklaşık sıfır virgül altmış beş. Yani artmış, sıfır virgül beşten büyük.
+Altyazı: Reid indeksi, şematik çizim. Normal bronşta submukozal bezler duvar kalınlığının yaklaşık üçte birini kaplar. Kronik bronşitte bezler büyür, sayıca artar ve duvarın yarısından fazlasını kaplar. Yüzey epitelinde de goblet hücreleri çoğalır; şekilde magenta renkle gösterilenler bunlar.
+
+### k3b2_02 | Morfolojik kriterler, klinik ve sorular
+Şimdi morfolojik kriterlere geçiyoruz. Sunum, kronik bronşitin morfolojik bulgularını şöyle sıralar. Her bulgunun hava yolunun hangi bölümünde olduğuna dikkat et.
+Bir: büyük hava yollarında, yani trakea ve bronşlarda, seromüsinöz bezlerde hiperplazi. Bu da Reid indeksinde artma demek.
+İki: küçük hava yollarında, yani bronşiyollerde, goblet hücre metaplazisi. Normalde bronşiyollerde goblet hücresi bulunmaz. Kronik irritasyonla ortaya çıkar ve küçük hava yollarını mukus tıkaçlarıyla doldurur.
+Üç: hava yollarında mukus tıkaçları.
+Dört: başta lenfositler olmak üzere inflamatuvar hücre artışı. Makrofajlar ve nötrofiller de bulunur, nötrofiller özellikle alevlenmelerde.
+Beş: bronş epitelinde skuamöz metaplazi ve displazi. Displazi, sigaranın karsinojenik etkisinin de işaretidir ve akciğer kanseri için bir ara basamak olabilir.
+Altı: bronşiyal düz kasta hiperplazi.
+Yedi: küçük hava yolu inflamasyonu ve fibrozisi, yani kronik bronşiyolit. Obstrüksiyonun asıl nedeni bu değişikliktir. Büyük hava yollarındaki bez hiperplazisi balgamı açıklar, ama hava akımını pek etkilemez.
+Ve işte sık karıştırılan nokta. Kronik bronşitin inflamasyonu lenfositten, ayrıca makrofaj ve nötrofilden zengindir; eozinofilden değil. "Eozinofiller başta olmak üzere inflamatuvar hücre artışı" ifadesi astımın tanımıdır ve kronik bronşit için yanlıştır. Bu çeldirici 2022 2023 sınavının elli dördüncü ve 2023 2024 sınavının kırk dokuzuncu sorusunda karşımıza çıktı.
+Benzer biçimde, Reid indeksi artışı ve bez hiperplazisi astımda da görülebilir; bunu Bölüm üçte konuşacağız. Ama Reid indeksi, kronik bronşitin tanımlayıcı morfolojik kriteridir. Şıklarda kronik bronşit için "Reid indeksi azalır" görürsen, bu ifade yanlıştır.
+Son başlık: klinik bağlantılar. Kronik bronşitin baskın olduğu hastada başlıca yakınma, bol balgamlı öksürüktür. Mukus tıkaçları ve küçük hava yolu hastalığı, havalanmayan alveoller oluşturur. Bu alveollerden geçen kan oksijenlenemez ve erken, belirgin bir hipoksemi gelişir.
+Hipoksi pulmoner damarları daraltır. Zamanla pulmoner hipertansiyon ve sağ kalp yetersizliği, yani kor pulmonale gelişir. Hasta siyanotik ve ödemlidir: işte klasik "mavi şişkin" tablosu. Bu tablo için Kitap bir, Bölüm iki nokta altıya ve Kitap beşe bakabilirsin.
+Tekrarlayan enfeksiyonlar alevlenmelere yol açar. Epitelde gelişen skuamöz metaplazi ve displazi ise, sigaranın yol açtığı akciğer kanseri riskinin morfolojik izidir.
+Şimdi bu bölümden yıllara göre gelen soru sayısına bakalım. Ekrandaki grafikte 2022 2023 sınavında bir, 2023 2024 sınavında bir, 2024 sınavında bir ve 2025 2026 sınavında yine bir soru görüyorsun.
+Yani kronik bronşitten her yıl tek soru geldi ve iki bilgi soruldu. Birincisi: Reid indeksi kronik bronşitte artar; bu, 2024 ve 2025 2026 sınavlarında soruldu. İkincisi: kronik bronşitin inflamasyonu eozinofilik değildir; bu da 2022 2023 ve 2023 2024 sınavlarında soruldu. Şimdi bu soruları birlikte çözelim.
+Bölüm sonu soruları. Soru bir: 2025 2026 sınavının kırk ikinci ve 2024 sınavının yirmi sekizinci sorusu.
+Kronik bronşit ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?
+A: En önemli faktör sigaradır.
+B: Düz kas tabakası kalınlaşır.
+C: Aşırı mukus sekresyonu vardır.
+D: Küçük hava yollarında goblet hücre hiperplazisi meydana gelir.
+E: Reid indeksi azalır.
+Durdur ve düşün.
+Cevap E. Yani yanlış olan ifade E şıkkı. Kronik irritasyon, submukozal seromüsinöz bezlerde hiperplazi yapar. Bez tabakasının duvar kalınlığına oranı, yani Reid indeksi artar. Bu oran normalde sıfır virgül dördün altındadır, kronik bronşitte ise genellikle sıfır virgül beşin üzerindedir.
+Diğer şıklara bakalım. A doğru: sigara tek ve en önemli nedendir. B doğru: sunumun morfolojik kriterlerinde bronşiyal düz kasta hiperplazi yer alır. C doğru: kronik bronşitin klinik tanımı öksürük ve balgamdır. D doğru: normalde goblet hücresi bulunmayan küçük hava yollarında goblet hücre metaplazisi gelişir.
+Soru iki: 2022 2023 sınavının elli dördüncü ve 2023 2024 sınavının kırk dokuzuncu sorusu.
+Aşağıdakilerden hangisi kronik bronşitte görülen histomorfolojik değişikliklerden değildir?
+A: Reid indeksi artar.
+B: Küçük hava yollarında goblet hücre metaplazisi görülür.
+C: Hava yollarında mukus tıkaçları görülür.
+D: Bronşiyal düz kas hipertrofisi mevcuttur.
+E: Eozinofiller başta olmak üzere inflamatuvar hücre artışı mevcuttur.
+Durdur ve düşün.
+Cevap E. Yani kronik bronşitte görülmeyen değişiklik E şıkkı. Sunuma göre kronik bronşitte inflamatuvar hücre artışı, başta lenfositler olmak üzere gelişir. Eozinofil baskın inflamasyon ise astımın özelliğidir.
+A, B, C ve D şıkları ise sunumdaki morfolojik kriterlerin ta kendisi: büyük hava yollarında bez hiperplazisi, yani Reid indeksi artışı; küçük hava yollarında goblet hücre metaplazisi; mukus tıkaçları ve bronşiyal düz kasta hiperplazi.
+Son olarak, konuyu pekiştirmek için hazırlanmış yeni bir soru.
+Kronik bronşitte hava akımı obstrüksiyonunun asıl nedeni aşağıdakilerden hangisidir?
+A: Trakeadaki submukozal bez hipertrofisi.
+B: Küçük hava yollarında inflamasyon, fibrozis ve goblet hücre metaplazisine bağlı mukus tıkaçları.
+C: Bronş epitelinde skuamöz metaplazi.
+D: Ana bronşlardaki kıkırdak yıkımı.
+E: Alveol duvarlarında belirgin interstisyel fibrozis.
+Durdur ve düşün.
+Cevap B. Büyük hava yollarının toplam kesiti geniştir. Bez hipertrofisi öksürük ile balgamın nedenidir, ama hava akımını pek kısıtlamaz. Obstrüksiyonun asıl yeri küçük hava yollarıdır. Duvardaki inflamasyon ve fibrozis lümeni daraltır, goblet hücre metaplazisiyle oluşan mukus tıkaçları da lümeni doldurur.
+Diğer şıklar: A balgamı açıklar, obstrüksiyonu değil. C bir yanıt hasar bulgusudur ve kanser riskiyle ilişkilidir; hava akımına etkisi sınırlıdır. D kronik bronşitin değil, bronşektazinin bulgusudur. E ise restriktif interstisyel hastalıkların bulgusudur.
+Bölüm ikinin sonuna geldik. Bir sonraki bölümde astımın patolojisini konuşacağız.

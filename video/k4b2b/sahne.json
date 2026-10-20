@@ -1,0 +1,297 @@
+{
+  "_aciklama": "parcalar.txt'deki her dolu satirin ekranda vurgulanacak blogu (CSS secici), satir sirasiyla. Girdi duz secici ya da {\"sel\", \"ac\", \"dur\"}: ac = bu satirdan itibaren o soru kartinin cevabi acik, dur = satirdan sonra eklenecek dusunme arasi (sn). Kimlikler: #bas bolum basligi, #s1.. .book-section sirasi, #k1.. soru kartlari, .qtext soru cumlesi, .opt siklar. Kurallar: video/YAZIM_KURALLARI.md",
+  "kaynak": "kaynak/modul4/kitaplar/m4k4/02b_beta_sorular.html",
+  "ust_baslik": "Antiastmatik İlaçlar · Bölüm 2 · β₂ Agonistler",
+  "parcalar": {
+    "k4b2b_01": [
+      "#s1 > h2",
+      "#s1 > figure",
+      "#s1 > figure",
+      "#s2 > h2, #k1 .card-kicker",
+      "#k1 .qtext",
+      "#k1 .opt:nth-child(1)",
+      "#k1 .opt:nth-child(2)",
+      "#k1 .opt:nth-child(3)",
+      "#k1 .opt:nth-child(4)",
+      "#k1 .opt:nth-child(5)",
+      {
+        "sel": "#k1 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k1 .card-body p:nth-child(1), #k1 .card-source",
+        "ac": "k1"
+      },
+      "#k1 .card-body p:nth-child(2)",
+      "#k2 .card-kicker",
+      "#k2 .qtext",
+      "#k2 .opt:nth-child(1)",
+      "#k2 .opt:nth-child(2)",
+      "#k2 .opt:nth-child(3)",
+      "#k2 .opt:nth-child(4)",
+      "#k2 .opt:nth-child(5)",
+      {
+        "sel": "#k2 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k2 .card-body p:nth-child(1), #k2 .card-source",
+        "ac": "k2"
+      },
+      "#k2 .card-body p:nth-child(2)",
+      "#k2 .card-body p:nth-child(2)",
+      "#k3 .card-kicker",
+      "#k3 .qtext",
+      "#k3 .opt:nth-child(1)",
+      "#k3 .opt:nth-child(2)",
+      "#k3 .opt:nth-child(3)",
+      "#k3 .opt:nth-child(4)",
+      "#k3 .opt:nth-child(5)",
+      {
+        "sel": "#k3 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k3 .card-body p:nth-child(1), #k3 .card-source",
+        "ac": "k3"
+      },
+      "#k3 .card-body p:nth-child(1)",
+      "#k3 .card-body p:nth-child(2)",
+      "#k4 .card-kicker",
+      "#k4 .qtext",
+      "#k4 .opt:nth-child(1)",
+      "#k4 .opt:nth-child(2)",
+      "#k4 .opt:nth-child(3)",
+      "#k4 .opt:nth-child(4)",
+      "#k4 .opt:nth-child(5)",
+      {
+        "sel": "#k4 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k4 .card-body p:nth-child(1), #k4 .card-source",
+        "ac": "k4"
+      },
+      "#k4 .card-body p:nth-child(2)",
+      "#k5 .card-kicker",
+      "#k5 .qtext",
+      "#k5 .opt:nth-child(1)",
+      "#k5 .opt:nth-child(2)",
+      "#k5 .opt:nth-child(3)",
+      "#k5 .opt:nth-child(4)",
+      "#k5 .opt:nth-child(5)",
+      {
+        "sel": "#k5 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k5 .card-body p:nth-child(1), #k5 .card-source",
+        "ac": "k5"
+      },
+      "#k5 .card-body p:nth-child(2)",
+      "#k5 .card-body p:nth-child(2)",
+      "#k5 .card-dispute",
+      "#k5 .card-dispute"
+    ],
+    "k4b2b_02": [
+      "#k6 .card-kicker",
+      "#k6 .qtext",
+      "#k6 .opt:nth-child(1)",
+      "#k6 .opt:nth-child(2)",
+      "#k6 .opt:nth-child(3)",
+      "#k6 .opt:nth-child(4)",
+      "#k6 .opt:nth-child(5)",
+      {
+        "sel": "#k6 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k6 .card-body p:nth-child(1), #k6 .card-source",
+        "ac": "k6"
+      },
+      "#k6 .card-body p:nth-child(2)",
+      "#k7 .card-kicker",
+      "#k7 .qtext",
+      "#k7 .opt:nth-child(1)",
+      "#k7 .opt:nth-child(2)",
+      "#k7 .opt:nth-child(3)",
+      "#k7 .opt:nth-child(4)",
+      "#k7 .opt:nth-child(5)",
+      {
+        "sel": "#k7 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k7 .card-body p:nth-child(1), #k7 .card-source",
+        "ac": "k7"
+      },
+      "#k7 .card-body p:nth-child(2)",
+      "#k8 .card-kicker",
+      "#k8 .qtext",
+      "#k8 .opt:nth-child(1)",
+      "#k8 .opt:nth-child(2)",
+      "#k8 .opt:nth-child(3)",
+      "#k8 .opt:nth-child(4)",
+      "#k8 .opt:nth-child(5)",
+      {
+        "sel": "#k8 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k8 .card-body p:nth-child(1), #k8 .card-source",
+        "ac": "k8"
+      },
+      "#k8 .card-body p:nth-child(2)",
+      "#k8 .card-body p:nth-child(2)",
+      "#k9 .card-kicker",
+      "#k9 .qtext",
+      "#k9 .opt:nth-child(1)",
+      "#k9 .opt:nth-child(2)",
+      "#k9 .opt:nth-child(3)",
+      "#k9 .opt:nth-child(4)",
+      "#k9 .opt:nth-child(5)",
+      {
+        "sel": "#k9 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k9 .card-body p:nth-child(1), #k9 .card-source",
+        "ac": "k9"
+      },
+      "#k9 .card-body p:nth-child(2)",
+      "#k9 .card-body p:nth-child(2)",
+      "#k10 .card-kicker",
+      "#k10 .qtext",
+      "#k10 .opt:nth-child(1)",
+      "#k10 .opt:nth-child(2)",
+      "#k10 .opt:nth-child(3)",
+      "#k10 .opt:nth-child(4)",
+      "#k10 .opt:nth-child(5)",
+      {
+        "sel": "#k10 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k10 .card-body p:nth-child(1), #k10 .card-source",
+        "ac": "k10"
+      },
+      "#k10 .card-body p:nth-child(2)",
+      "#k11 .card-kicker",
+      "#k11 .qtext",
+      "#k11 .opt:nth-child(1)",
+      "#k11 .opt:nth-child(2)",
+      "#k11 .opt:nth-child(3)",
+      "#k11 .opt:nth-child(4)",
+      "#k11 .opt:nth-child(5)",
+      {
+        "sel": "#k11 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k11 .card-body p:nth-child(1), #k11 .card-source",
+        "ac": "k11"
+      },
+      "#k11 .card-body p:nth-child(2)"
+    ],
+    "k4b2b_03": [
+      "#k12 .card-kicker",
+      "#k12 .qtext",
+      "#k12 .opt:nth-child(1)",
+      {
+        "sel": "#k12 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k12 .opt:nth-child(2), #k12 .card-source",
+        "ac": "k12"
+      },
+      "#k12 .card-body p:nth-child(1)",
+      "#k12 .card-body p:nth-child(1)",
+      "#k12 .card-body p:nth-child(2)",
+      "#k13 .card-kicker",
+      "#k13 .qtext",
+      "#k13 .opt:nth-child(1)",
+      "#k13 .opt:nth-child(2)",
+      "#k13 .opt:nth-child(3)",
+      "#k13 .opt:nth-child(4)",
+      "#k13 .opt:nth-child(5)",
+      {
+        "sel": "#k13 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k13 .card-body p:nth-child(1), #k13 .card-source",
+        "ac": "k13"
+      },
+      "#k13 .card-body p:nth-child(2)",
+      "#k14 .card-kicker",
+      "#k14 .qtext",
+      "#k14 .opt:nth-child(1)",
+      "#k14 .opt:nth-child(2)",
+      "#k14 .opt:nth-child(3)",
+      "#k14 .opt:nth-child(4)",
+      "#k14 .opt:nth-child(5)",
+      {
+        "sel": "#k14 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k14 .card-body p:nth-child(1), #k14 .card-source",
+        "ac": "k14"
+      },
+      "#k14 .card-body p:nth-child(2)",
+      "#k15 .card-kicker",
+      "#k15 .qtext",
+      "#k15 .opt:nth-child(1)",
+      "#k15 .opt:nth-child(2)",
+      "#k15 .opt:nth-child(3)",
+      "#k15 .opt:nth-child(4)",
+      "#k15 .opt:nth-child(5)",
+      {
+        "sel": "#k15 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k15 .card-body p:nth-child(1), #k15 .card-source",
+        "ac": "k15"
+      },
+      "#k15 .card-body p:nth-child(2)",
+      "#k16 .card-kicker",
+      "#k16 .qtext",
+      "#k16 .opt:nth-child(1)",
+      "#k16 .opt:nth-child(2)",
+      "#k16 .opt:nth-child(3)",
+      "#k16 .opt:nth-child(4)",
+      "#k16 .opt:nth-child(5)",
+      {
+        "sel": "#k16 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k16 .card-body p:nth-child(1), #k16 .card-source",
+        "ac": "k16"
+      },
+      "#k16 .card-body p:nth-child(2)",
+      "#k16 .card-body p:nth-child(2)",
+      "#k16 .card-body p:nth-child(2)",
+      "#k17 .card-kicker",
+      "#k17 .qtext",
+      "#k17 .opt:nth-child(1)",
+      "#k17 .opt:nth-child(2)",
+      "#k17 .opt:nth-child(3)",
+      "#k17 .opt:nth-child(4)",
+      "#k17 .opt:nth-child(5)",
+      {
+        "sel": "#k17 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k17 .card-body p:nth-child(1), #k17 .card-source",
+        "ac": "k17"
+      },
+      "#k17 .card-body p:nth-child(1)",
+      "#k17 .card-body p:nth-child(2)",
+      "#k17 .card-source"
+    ]
+  }
+}

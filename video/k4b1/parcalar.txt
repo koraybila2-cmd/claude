@@ -1,0 +1,192 @@
+### k4b1_01 | Giriş, tedavinin hedefleri ve bronş düz kasının iki yolu
+Antiastmatik İlaçlar ve KOAH Farmakoterapisi. Bölüm bir, genel bakış: Farmakolojik Temeller ve İlaç Grupları.
+Astım tedavisinin iki hedefi var. Birincisi, daralmış hava yolunu açmak. İkincisi, bu daralmayı doğuran inflamasyonu baskılamak. Birinci hedef bronkodilatörlerin, ikincisi antiinflamatuvar ilaçların işidir.
+Bu bölümde önce iki hedefin hücredeki karşılığını, yani bronş düz kasının gevşeme ve kasılma yollarını konuşacağız. Ardından ilaç gruplarını, uygulama yollarını ve astımda kullanılmayan ilaçları göreceğiz. Bölümün sonundaki eşleştirme tablosu ise sınavda en sık sorulan soru tipinin anahtarı.
+Hastalıktan tedaviye: neyi hedefliyoruz? Farmakoloji sunumu astımı üç özellikle özetler. Astım inflamatuvar bir hastalıktır, hava yollarında aşırı duyarlılık vardır ve periyodik bronkospazm görülür.
+Bronşlarda ve bronşiyollerde inflamasyon vardır. Bir de akar, toz, hayvan tüyü, polen, duman ve irritanlar gibi alerjenlere karşı duyarlılık bulunur. Bu patolojik durumda çeşitli otakoidler, yani doku hormonları açığa çıkar ve hava yollarının açıklığını ayarlar.
+Histamin: bronkokonstriktördür.
+Prostaglandin D iki, yani P G D iki: o da bronkokonstriktördür.
+Lökotrien C dört ve D dört ise güçlü bronkokonstriktördür.
+Sunum bu mediatörleri iki zaman dilimine yerleştirir. Ayrıntısı Kitap ikide, Bölüm bir nokta altıda. Erken astmatik yanıtta mast hücresinden histamin, L T C dört, L T D dört ve P G D iki salınır.
+Geç astmatik yanıtta ise T H iki lenfositlerinin ürettiği sitokinler, özellikle interlökin dört, interlökin beş, interlökin dokuz ve interlökin on üç, inflamatuvar hücrelerin bronş mukozasına girişini sağlar. Sitokinler eozinofilleri ve nötrofilleri çeker ve aktive eder. Sonuç: ödem, mukus hipersekresyonu, düz kas kasılması ve bronşiyal reaktivitede artış.
+Tedavinin iki hedefi işte buradan doğar. Bir: bronkospazmı çözmek. Bunu bronkodilatör ilaçlar yapar. İki: solunum yolu inflamasyonunu azaltmak. Bunu da antiinflamatuvar ilaçlar yapar.
+Bronkodilatör, erken yanıtın daralmasını açar, ama inflamasyonu değiştirmez. Antiinflamatuvar ilaç ise geç yanıtı ve kronik inflamasyonu önler, ama o anda daralmış bir hava yolunu açmaz. Astımda bu ikisinin birlikte kullanılması bu yüzden.
+Şimdi bronş düz kasına geçelim: iki yol, bir sonuç. Bronş düz kasının ne kadar kasılacağını, hücre içindeki serbest kalsiyum ile miyozin hafif zincir kinazı, yani M L C K arasındaki ilişki belirler. İlaçların hepsi bu ilişkiyi, iki yoldan birini kullanarak değiştirir. Bunu Şekil bir nokta birde göreceğiz.
+Önce kasılma yolu, yani G q yolu. Vagus sinirinin uçlarından salınan asetilkolin, M üç muskarinik reseptörüne bağlanır. Sisteinil lökotrienler Cys L T bir reseptörüne, histamin de H bir reseptörüne bağlanır. Bu reseptörlerin üçü de G q proteinine bağlıdır. Şimdi adım adım gidelim.
+Birinci adım: G q, fosfolipaz C'yi aktive eder. Fosfolipaz C de zardaki fosfatidilinozitolü I P üç ve diaçilgliserole parçalar.
+İkinci adım: I P üç, sarkoplazmik retikulumdaki, yani S R'deki reseptörüne bağlanır ve depolanmış kalsiyumu sitoplazmaya bırakır.
+Üçüncü adım: artan kalsiyum kalmoduline bağlanır. Kalsiyum kalmodulin kompleksi de M L C K'yi aktive eder.
+Dördüncü adım: M L C K, miyozinin hafif zincirini fosforiller. Fosforillenmiş miyozin aktinle çapraz köprü kurar ve kas kasılır.
+Şimdi gevşeme yolu, yani G s ve siklik AMP yolu. Beta iki adrenerjik reseptörü, G s proteinine bağlıdır.
+Birinci adım: beta iki agonist reseptöre bağlanır. G s proteini aktive olur ve adenilil siklazı uyarır.
+İkinci adım: adenilil siklaz, ATP'den siklik AMP üretir. Hücre içi siklik AMP artar.
+Üçüncü adım: siklik AMP, protein kinaz A'yı, yani P K A'yı aktive eder. P K A üç yoldan gevşeme yapar. Bir: M L C K'yi fosforilleyerek etkisizleştirir. İki: kalsiyumun S R'ye geri alınmasını ve hücre dışına atılmasını artırır. Üç: kalsiyuma duyarlı potasyum kanallarını açarak hücreyi hiperpolarize eder. Hiperpolarize hücrede voltaj bağımlı kalsiyum kanalları açılmaz.
+Dördüncü adım: siklik AMP'nin etkisi, onu AMP'ye yıkan fosfodiesteraz, yani P D E enzimiyle sonlanır.
+Ekrandaki şekilde bronş düz kası hücresini görüyorsun. Çizginin üstü hücre dışı, altı hücre içi. Solda gevşeme yolu, sağda kasılma yolu var. Magenta renkli kesici çizgiler, ilaçların engellediği noktaları gösteriyor.
+Sol yolda en üstte beta iki agonist duruyor, örneğin salbutamol ve formoterol. Beta iki reseptörüne bağlanıyor. Oradan oklar aşağı iniyor. Önce G s proteini, yani alfa s GTP. Sonra adenilil siklaz artıyor. Sonra ATP siklik AMP'ye dönüşüyor ve siklik AMP artıyor. Sonra protein kinaz A, yani P K A geliyor. G s kutusunun hemen yanında da bir not var: kortikosteroid, beta iki reseptör sayısını artırır.
+P K A'nın etkileri bir kutuda sıralanmış. Bir: M L C K fosforillenir ve aktivitesi azalır. İki: kalsiyum S R'ye alınır ve hücreden atılır. Üç: potasyum kanalları açılır ve hiperpolarizasyon olur. Bunların sonucu en altta: gevşeme, yani bronkodilatasyon.
+Siklik AMP basamağından yana doğru bir ok, fosfodiesteraza gidiyor. Fosfodiesteraz, siklik AMP'yi AMP'ye çeviriyor. Bu oku magenta bir çizgi kesiyor: teofilin ve aminofilin, yani P D E inhibitörü.
+Şimdi sağ yol. En üstte iki uyarı var. Asetilkolin vagus sinirinden gelir ve M üç reseptörüne bağlanır. Bu oku magenta bir çizgi keser: antimuskarinik, yani ipratropium ve tiotropium. L T C dört ve L T D dört ise mast hücresi ve eozinofilden gelir ve Cys L T bir reseptörüne bağlanır. Bu oku da magenta bir çizgi keser: L T R A, yani montelukast.
+İki reseptörden çıkan oklar G q proteininde birleşiyor. Sonra fosfolipaz C ve I P üç. Sonra S R'den kalsiyum salınıyor ve hücre içi kalsiyum artıyor. Sonra kalsiyum kalmodulin oluşuyor ve M L C K aktifleşiyor. Sonra miyozin hafif zinciri fosforilleniyor. En altta sonuç: kasılma, yani bronkokonstriksiyon.
+Bir de ortada kesikli bir çizgi var. P K A'dan çıkıyor, kasılma yolundaki M L C K basamağına uzanıyor ve orada kesiyor. Üzerinde şu yazıyor: P K A, M L C K'yi baskılar.
+Şeklin altyazısı şöyle. Şekil bir nokta bir: bronş düz kası hücresinde gevşeme ve kasılma yolları ile antiastmatik ilaçların etki noktaları. Beta iki agonist ve antimuskarinik, aynı sonuca iki ayrı yoldan ulaşır: biri gevşetir, diğeri kasılmayı engeller. Bu yüzden birlikte kullanıldıklarında etkileri toplanır.
+Teofilin, siklik AMP'nin yıkımını engelleyerek beta iki agonistin yoluna ikinci bir kapıdan katılır. Kortikosteroid ise beta iki reseptör sayısını artırarak bu yolun kendisini güçlendirir.
+
+### k4b1_02 | Şema soruları, ilaç grupları, uygulama yolu, kullanılmayan ilaçlar ve profilaksi
+Bu şema, sınavdaki pek çok sorunun anahtarı. Mesela: bronş düz kasında gevşeme, hangi reseptörün inhibisyonuyla olur? Cevap: M üç reseptörünün. Bu, 2025 2026 sınavının otuz üçüncü sorusuydu.
+Bir başkası: beta iki agonistten sonra olayların sırası nedir? Önce G s aktivasyonu, sonra adenilil siklazın uyarılması, sonra siklik AMP artışı ve en son kalsiyumun hücreden uzaklaştırılması. Bu da 2024 sınavının altıncı sorusu.
+Ve teofilin nasıl gevşetir? Fosfodiesterazı inhibe ederek siklik AMP'yi artırır. Bu, 2023 2024 sınavının dokuzuncu ve 2025 2026 sınavının otuz sekizinci sorusunda soruldu. Bu soruların ayrıntısı ilgili bölümlerde.
+Sırada ilaç grupları var. Sunum astım ilaçlarını iki farklı açıdan sınıflar. Birinci sınıflama, ilacın ne yaptığına göredir.
+Bronkodilatör ilaçlar şunlar: sempatomimetik ilaçlar, yani beta iki agonistler; antimuskarinik ilaçlar; ve metilksantin türevleri, yani teofilin ve aminofilin.
+Antiinflamatuvar ilaçlar ise şunlar: kortikosteroidler, lökotrien yolu inhibitörleri, mast hücre stabilizatörleri, yani kromolin ve nedokromil, ve son olarak monoklonal antikorlar.
+İkinci sınıflama ise ilacın nasıl kullanıldığına göredir.
+Kontrol edici ilaçlar her gün, düzenli kullanılır. Bunlar: inhale ve sistemik steroidler, lökotrien reseptör antagonistleri, uzun etkili teofilin, uzun etkili beta iki agonistler, mast hücre stabilizatörleri ve monoklonal antikorlar.
+Semptom giderici ilaçlar ise gerektiğinde kullanılır. Bunlar: kısa etkili beta iki agonistler, antikolinerjikler, sistemik steroidler ve damar içi formuyla metilksantinler.
+İki tabloyu birlikte okuyunca, bazı ilaçların iki yerde birden geçtiğini görürsün. Sistemik steroid hem kontrol edicidir, yani ağır astımda idamede kullanılır, hem de atakta semptom gidericiye eklenir. Teofilinin uzun etkili oral formu kontrol edicidir. Damar içi formu, yani aminofilin ise atakta semptom gidericidir.
+Beta iki agonistlerin kısa etkilileri semptom giderici, uzun etkilileri kontrol edicidir. Antikolinerjikler ise bu sunumda yalnızca semptom giderici olarak yer alır. Bunun ayrıntısı Kitap ikide, Bölüm üç nokta ikide.
+Peki uygulama yolu ne? Neden inhalasyon? Sunuma göre bronkodilatör ilaçlar genellikle inhalasyon yoluyla, lokal olarak uygulanır. İlaç çözeltisinin aerosolü ağızdan solunum yollarına çekilir.
+İnhalasyonun avantajı şu: ilaç doğrudan hedef dokuya ulaşır, çok daha düşük doz yeterli olur ve sistemik yan etkiler azalır. Ancak bütün antiastmatikler inhale edilmez. Sınavda bu ayrım sık sorulur.
+Yalnızca ya da başlıca inhale kullanılanlar şunlar. Kısa ve uzun etkili beta iki agonistler; bunların bazılarının tablet formu da var. İpratropium ve tiotropium. İnhale kortikosteroidler: beklometazon, budesonid, flutikazon, triamsinolon ve flunisolid. Ve kromolin ile nedokromil.
+İnhale formu olmayanlar ise şunlar. Teofilin ve aminofilin: oral ve damar içi. Montelukast, zafirlukast ve zileuton: oral. Sistemik steroidler: prednizon, prednizolon, metilprednizolon ve hidrokortizon. Monoklonal antikorlar: deri altı ya da damar içi. Ve efedrin: oral.
+Şimdi çok önemli bir başlık: astımda kullanılmayan, hatta tehlikeli ilaçlar.
+Birincisi, sempatolitik ilaçlar, yani beta blokerler. Beta iki reseptörlerinin bronkodilatör tonusunu ortadan kaldırarak bronkospazm yapar. Astımlı hastada kontrendikedir. Bu yüzden sempatolitik ilaçlar bir astım ilaç grubu değildir. Bu, 2024 sınavının ikinci sorusuydu. Şunu da unutma: kardiyoselektif beta bir blokerler bile yüksek dozda beta iki reseptörlerini etkileyebilir.
+İkincisi, muskarinik, yani kolinerjik agonistler. M üç reseptörünü uyararak bronkokonstriksiyon ve mukus salgısı yapar. Astımda kullanılanlar, muskarinik reseptörü bloke eden antimuskarinik ilaçlardır. Bu yüzden sınavda "muskarinik ilaçlar" ifadesi astım ilaç grubu sayılmadı. Bu da 2023 2024 sınavının dördüncü sorusu.
+Bir muskarinik agonist olan metakolin ise yalnızca hava yolu aşırı duyarlılığını ölçmek için, provokasyon testinde kullanılır.
+Üçüncüsü, aspirin ve diğer N S A İ İ'ler. Siklooksijenazı inhibe ederek araşidonik asidi lipoksijenaz yoluna kaydırır ve duyarlı hastalarda ağır bronkospazm yapar. Bunu Bölüm beş nokta ikide göreceğiz. Astım tedavisinde yerleri yoktur.
+Sınavda üç ayrı N S A İ İ ile soruldu: diklofenak, ibuprofen ve deksketoprofen. Bunlar 2022 2023 sınavının beşinci, 2023 2024 sınavının on birinci ve 2024 sınavının sekizinci sorusu.
+Dördüncüsü, antihistaminikler, yani H bir blokerleri. Histamin, astımda salınan mediatörlerden yalnızca biridir ve bronkokonstriksiyonda lökotrienlerin payı çok daha büyüktür. Bu yüzden H bir blokerleri astımın tedavisinde ve profilaksisinde etkili değildir. Bu, 2024 sınavının on birinci sorusu. Ama eşlik eden alerjik rinitte kullanılabilirler.
+Beşincisi, sedatifler. Atak sırasında solunum merkezini baskılayarak solunum yetmezliğini hızlandırır.
+Ve sık karıştırılan nokta: sempatomimetik mi, sempatolitik mi? Astımda kullanılanlar sempatomimetikler, yani beta iki agonistler, ve antimuskarinikler, yani parasempatolitiklerdir. Kullanılmayan, hatta kontrendike olanlar ise bunların tersi: sempatolitikler, yani beta blokerler, ve muskarinik agonistler.
+Şıkları okurken ön eklere dikkat et: mimetik uyarıcıdır, litik ve anti ise engelleyicidir. "Beta iki blokörler" ifadesi de aynı tuzağın bir başka biçimidir. Bu ifade, 2025 2026 sınavının on birinci sorusunun B şıkkında geçti.
+Sırada profilaktik, yani koruyucu mekanizmalar var. Profilaktik ilaç, atağı tedavi etmek için değil, atağın oluşmasını önlemek için düzenli kullanılır. Astım profilaksisinde kullanılan mekanizmalar şunlar.
+Birincisi, fosfolipaz A iki blokajı. Glukokortikoidler, lipokortin, yani anneksin bir proteininin yapımını artırarak fosfolipaz A ikiyi dolaylı yoldan inhibe eder. Araşidonik asit oluşmaz. Hem lökotrienler hem prostaglandinler azalır.
+Akut atak sonrası profilaksi için reçete edilecek ilacın doğru mekanizması budur. Bu, 2025 2026 sınavının otuz beşinci sorusu.
+İkincisi, lökotrien reseptör blokajı: montelukast ve zafirlukast.
+Üçüncüsü, beş lipoksijenaz inhibisyonu: zileuton.
+Dördüncüsü, mast hücre stabilizasyonu: kromolin ve nedokromil.
+Beşincisi, IgE ya da interlökin beş yolunun bloke edilmesi: monoklonal antikorlar.
+Dikkat: histamin reseptör blokajı ise astım profilaksisinde doğru bir yöntem değildir. Bu, 2024 sınavının on birinci sorusu.
+Aynı sorunun ters yüzü 2025 2026 sınavının otuz beşinci sorusu. Orada çeldiriciler lökotrien reseptör aktivasyonu, mast hücresi aktivasyonu ve siklooksijenaz aktivasyonu idi. Bu üçü astımı kötüleştirir. Yani şıktaki fiil, blokaj mı aktivasyon mu, çoğu zaman cevabı tek başına verir.
+
+### k4b1_03 | Eşleştirme tablosu, soru sayıları ve Soru 1-3
+Ve geldik bölümün sonundaki eşleştirme tablosuna: ilaç ve mekanizma. "Aşağıdaki antiastmatik ilaç etki mekanizması eşleşmelerinden hangisi doğrudur ya da yanlıştır?" Bu soru dört sınavın dördünde de geldi. Tabloda doğru eşleşmeleri ve sınavlarda kullanılmış yanlış eşleşmeleri görüyorsun.
+Terbutalin, arformoterol ve salbutamol. Doğru mekanizma: beta iki reseptör aktivasyonu ve siklik AMP artışı. Sınavda kullanılan yanlış eşleşmeler: beta bir aktivasyonu ve siklik AMP azalışı.
+İpratropium ve tiotropium. Doğru mekanizma: M üç reseptör antagonizması. Yanlış eşleşmeler: M bir agonizması, M iki agonizmi ve M üç agonizması.
+Teofilin ve aminofilin. Doğru mekanizma: fosfodiesteraz inhibisyonu, buna ek olarak adenozin reseptör blokajı. Yanlış eşleşme: kalsiyum kanal inhibisyonu.
+Montelukast ve zafirlukast. Doğru mekanizma: Cys L T bir, yani sisteinil lökotrien bir reseptör antagonizması. Yanlış eşleşmeler: COX inhibisyonu ve Cys L T bir aktivasyonu.
+Zileuton. Doğru mekanizma: beş lipoksijenaz inhibisyonu. Bunun için sınavda kullanılmış bir yanlış eşleşme yok.
+Kortikosteroidler. Doğru mekanizma: gen ifadesinin düzenlenmesi ve lipokortin aracılığıyla fosfolipaz A iki inhibisyonu. Yanlış eşleşme: direkt bronkodilatasyon.
+Kromolin ve nedokromil. Doğru mekanizma: mast hücre stabilizasyonu, yani mediatör salınımının engellenmesi. Yanlış eşleşmeler: fosfolipaz A iki inhibisyonu ve monoklonal antikor.
+Omalizumab. Doğru mekanizma: serbest IgE'ye bağlanır, yani anti IgE'dir. Yanlış eşleşme: oral kullanılır.
+Mepolizumab ve reslizumab. Doğru mekanizma: interlökin beşe bağlanır. Yanlış eşleşme, reslizumab için: fosfolipaz A iki inhibisyonu.
+Benralizumab. Doğru mekanizma: interlökin beş reseptörüne bağlanır, onu bloke eder ve eozinofilleri yok eder. Yanlış eşleşme: interlökin beş reseptörünü aktive eder.
+Dupilumab. Doğru mekanizma: interlökin dört R alfa zincirine bağlanır ve interlökin dört ile interlökin on üçün etkisini bloke eder. Bunun için de sınavda kullanılmış bir yanlış eşleşme yok.
+Şimdi bu bölümden yıllara göre soru sayısına bakalım. 2022 2023 sınavında iki, 2023 2024 sınavında üç, 2024 sınavında beş ve 2025 2026 sınavında iki soru. Toplam on iki genel soru.
+Konulara göre dağılım şöyle: ilaç mekanizma eşleştirmesi, dört yılda dört kez. Astımda kullanılmayan ilaç, yani N S A İ İ, üç yılda üç kez. Astım ilaç grubu olmayan, yani sempatolitik ve muskarinik. Profilaktik mekanizmalar, iki kez. Bir de lökotrien antagonisti ile anti IgE çifti. 2024 sınavında beş soru bu türdendi. Şimdi bu soruları birlikte çözelim.
+Bölüm sonu soruları. Soru bir: 2024 sınavı, ikinci soru.
+Aşağıdakilerden hangisi astım tedavisinde kullanılan ilaç gruplarından değildir?
+A: Kortikosteroidler.
+B: Antimuskarinik ilaçlar.
+C: Sempatolitik ilaçlar.
+D: L T reseptör antagonistleri.
+E: Mast hücre stabilizatörleri.
+Durdur ve düşün.
+Cevap C. Sempatolitik ilaçlar, yani beta blokerler, bronş düz kasındaki beta iki reseptörlerinin gevşetici etkisini ortadan kaldırır ve bronkospazm yapar. Astımda kontrendikedir. Kullanılan grup, bunun tersi olan sempatomimetiklerdir.
+A, B, D ve E astım tedavisinin ilaç gruplarıdır. Kortikosteroidler en etkin antiinflamatuvardır. Antimuskarinikler M üç blokajıyla bronkodilatasyon yapar. L T reseptör antagonistleri, yani montelukast ve zafirlukast, ve mast hücre stabilizatörleri, yani kromolin ve nedokromil, profilaktik kontrol edicilerdir.
+Soru iki: 2023 2024 sınavı, dördüncü soru.
+Aşağıdakilerden hangisi astım ilaç gruplarından biri değildir?
+A: Sempatomimetik ilaçlar.
+B: Kortikosteroidler.
+C: Muskarinik ilaçlar.
+D: Lökotrien reseptör antagonistleri.
+E: Monoklonal antikorlar.
+Durdur ve düşün.
+Cevap C. Muskarinik, yani kolinerjik agonistler, M üç reseptörlerini uyararak bronkokonstriksiyon ve mukus salgısı yapar. Astımda kullanılanlar, bu reseptörleri bloke eden antimuskarinik ilaçlardır.
+A, B, D ve E astımda kullanılır: beta iki agonistler, yani sempatomimetikler; kortikosteroidler; montelukast ve zafirlukast; omalizumab ve anti interlökin beş antikorları.
+Soru kalıbıyla ilgili bir not: soru bankasında bu soru için "iptal ya da düzenleme içerebilir" notu var. Muhtemel neden, "muskarinik ilaçlar" ifadesinin antimuskarinikleri de kapsadığı şeklinde okunabilmesi. Sorunun kastettiği ise muskarinik reseptör agonistleri. Bu okumayla cevap C.
+Soru üç. Bu soru üç sınavda geldi: 2022 2023 sınavının beşinci, 2023 2024 sınavının on birinci ve 2024 sınavının sekizinci sorusu.
+Astım tedavisinde aşağıdakilerden hangisi kullanılmaz?
+A: Adrenalin.
+B: Diklofenak.
+C: İzoproterenol.
+D: Salmeterol.
+E: İpratropium bromür.
+Durdur ve düşün.
+Cevap B. Diklofenak bir N S A İ İ'dir. Siklooksijenazı inhibe eder, araşidonik asidi lipoksijenaz yoluna kaydırır ve duyarlı astımlılarda ağır bronkospazm yapabilir. Astım tedavisinde yeri yoktur.
+2023 2024 sınavında aynı soru ibuprofenle soruldu: "hangisi kullanılmaz?" Diğer şıklar montelukast, izoproterenol, salmeterol ve ipratropiumdu. 2024 sınavında ise deksketoprofenle soruldu: "hangisi antiastmatik değildir?" Diğer şıklar tiotropium, triamsinolon, nedokromil ve dupilumab idi. Cevap üçünde de N S A İ İ.
+Diğer şıklar: A, adrenalin, alfa ve beta reseptörlerini uyaran, eskiden atakta deri altından kullanılan bir bronkodilatördür. C, izoproterenol, beta bir ve beta iki agonisti güçlü bir bronkodilatördür. D, salmeterol, uzun etkili beta iki agonisttir. E, ipratropium, M üç reseptörlerini bloke eden kısa etkili bir antimuskariniktir.
+
+### k4b1_04 | Soru 4-10
+Soru dört: 2025 2026 sınavının yirmi dokuzuncu ve 2024 sınavının üçüncü sorusu.
+Aşağıdaki antiastmatik ilaç etki mekanizması eşleşmesinden hangisi doğrudur?
+A: Arformoterol, beta bir reseptör aktivasyonu ve siklik AMP artışı.
+B: Tiotropium, M iki reseptör agonizmi.
+C: Teofilin, kalsiyum kanal inhibisyonu.
+D: Montelukast, sisteinil lökotrien bir reseptör inhibisyonu.
+E: Reslizumab, fosfolipaz A iki inhibisyonu.
+Durdur ve düşün.
+Cevap D. Montelukast, L T C dört, L T D dört ve L T E dördün bağlandığı Cys L T bir reseptörünü antagonize eder. 2024 sınavında aynı eşleşme A şıkkında doğru cevaptı.
+A yanlış: arformoterol beta bir değil, beta iki reseptörünü aktive eder. 2024 sürümünde bu şık "beta bir aktivasyonu ve siklik AMP azalışı" idi, yani iki kez yanlıştı. B yanlış: tiotropium bir agonist değil, muskarinik reseptör antagonistidir ve klinik etkisini M üç blokajıyla yapar.
+C yanlış: teofilin kalsiyum kanalını değil, fosfodiesterazı inhibe eder ve adenozin reseptörlerini bloke eder. E yanlış: reslizumab, interlökin beşe bağlanan bir monoklonal antikordur. Fosfolipaz A ikiyi dolaylı yoldan inhibe edenler kortikosteroidlerdir.
+Soru beş: 2023 2024 sınavı, dokuzuncu soru.
+Antiastmatik ilaç etki mekanizması eşleşmesinden hangisi doğrudur?
+A: Terbutalin, beta bir aktivasyonu.
+B: İpratropium, M bir agonizması.
+C: Teofilin, fosfodiesteraz inhibisyonu.
+D: Montelukast, COX inhibisyonu.
+E: Kromolin, P L A iki inhibisyonu.
+Durdur ve düşün.
+Cevap C. Teofilin, bronş düz kasında fosfodiesteraz enzimini inhibe ederek siklik AMP'nin yıkımını engeller. Sitoplazmada siklik AMP artar ve kas gevşer.
+A yanlış: terbutalin selektif bir beta iki agonistidir. B yanlış: ipratropium muskarinik reseptör antagonistidir. D yanlış: montelukast COX'u değil, Cys L T bir reseptörünü bloke eder. COX inhibitörleri, yani N S A İ İ'ler, astımı kötüleştirebilir. E yanlış: kromolin bir mast hücre stabilizatörüdür. P L A iki inhibisyonu ise kortikosteroidlerin mekanizmasıdır.
+Soru altı: 2022 2023 sınavı, altıncı soru.
+Aşağıdaki antiastmatik ilaç etki mekanizması eşleşmesinden hangisi yanlıştır?
+A: Terbutalin, beta iki reseptör aktivasyonu ve siklik AMP artışı.
+B: İpratropium bromür, M üç reseptör antagonizması.
+C: Teofilin, fosfodiesteraz enzim antagonizması.
+D: Montelukast, lökotrien reseptör antagonizması.
+E: Kromolin, fosfolipaz A iki inhibisyonu.
+Durdur ve düşün.
+Cevap E; yanlış eşleşme E şıkkında. Kromolin mast hücresini stabilize eder: kalsiyum ve klor kanallarını bloke ederek hücrenin aktivasyonunu ve mediatör salınımını engeller. Fosfolipaz A ikiyi inhibe edenler kortikosteroidlerdir.
+A, B, C ve D doğru eşleşmelerdir. Bunları önceki iki karttaki yanlış hâlleriyle karşılaştırabilirsin: beta bir değil beta iki; agonizma değil M üç antagonizması; kalsiyum kanalı değil fosfodiesteraz; COX değil lökotrien reseptörü.
+Soru yedi: 2024 sınavı, onuncu soru.
+Aşağıdakilerden hangisi sırasıyla lökotrien reseptör antagonisti ve anti IgE monoklonal antikoru olan ilaç çiftidir?
+A: Zafirlukast ve omalizumab.
+B: Montelukast ve kromolin.
+C: İpratropium ve arformoterol.
+D: Aminofilin ve benralizumab.
+E: Zileuton ve omalizumab.
+Durdur ve düşün.
+Cevap A. Zafirlukast, Cys L T bir reseptör antagonistidir. Omalizumab ise serbest IgE'ye bağlanan anti IgE monoklonal antikorudur.
+B yanlış: montelukast doğru, ama kromolin bir mast hücre stabilizatörüdür, antikor değildir. C yanlış: ipratropium antimuskarinik, arformoterol uzun etkili beta iki agonisttir. D yanlış: aminofilin metilksantindir. Benralizumab bir antikordur, ama IgE'ye değil, interlökin beş reseptörüne bağlanır. E en güçlü çeldiricidir: omalizumab doğrudur, ama zileuton reseptör antagonisti değil, beş lipoksijenaz enzim inhibitörüdür.
+Soru sekiz: 2025 2026 sınavı, otuz beşinci soru.
+Akut astım atağı sonrası profilaktik tedavi amaçlı reçete edilecek ilaç için, aşağıdaki etki mekanizmalarından hangisi doğru bir seçenektir?
+A: Histamin reseptör blokajı.
+B: Lökotrien reseptör aktivasyonu.
+C: Fosfolipaz A iki blokajı.
+D: Mast hücre aktivasyonu.
+E: Siklooksijenaz enzim aktivasyonu.
+Durdur ve düşün.
+Cevap C. Glukokortikoidler, lipokortin aracılığıyla fosfolipaz A ikiyi inhibe eder. Araşidonik asit oluşumunu ve dolayısıyla hem lökotrien hem prostaglandin yapımını azaltır. Atak sonrası profilakside temel ilaç inhale kortikosteroiddir.
+A yanlış: antihistaminikler astım profilaksisinde etkisizdir. B, D ve E de yanlıştır, çünkü üçü de astımı kötüleştirecek mekanizmalardır. Lökotrien reseptörünün aktivasyonu bronkokonstriksiyon yapar. Mast hücresinin aktivasyonu mediatör salınımı demektir. Siklooksijenaz aktivasyonu da profilaktik bir mekanizma değildir. Doğru ilaçlar, bu süreçleri bloke edenlerdir.
+Soru dokuz: 2024 sınavı, on birinci soru.
+Aşağıdaki ilaç mekanizmalarından hangisi profilaktik astım tedavisinde doğru bir yöntem değildir?
+A: Histamin reseptör blokajı.
+B: L T reseptör blokajı.
+C: Fosfolipaz A iki blokajı.
+D: Mast hücre stabilizasyonu.
+E: Beş lipoksijenaz enzim inhibisyonu.
+Durdur ve düşün.
+Cevap A. Histamin, astımda salınan pek çok mediatörden yalnızca biridir. Bronkokonstriksiyonda lökotrienlerin payı çok daha büyüktür ve kronik inflamasyonu T H iki sitokinleri yönetir. H bir blokerleri bu yüzden astımın tedavisinde ve profilaksisinde etkili değildir.
+B, yani montelukast ve zafirlukast; C, yani kortikosteroidler; D, yani kromolin ve nedokromil; ve E, yani zileuton. Bunlar profilakside kullanılan mekanizmalardır.
+Son olarak, konuyu pekiştirmek için hazırlanmış yeni bir soru.
+Bronş düz kasında hücre içi siklik AMP düzeyini artırarak gevşeme yapan ilaç çifti aşağıdakilerden hangisidir?
+A: Salbutamol ve teofilin.
+B: İpratropium ve montelukast.
+C: Kromolin ve omalizumab.
+D: Tiotropium ve zileuton.
+E: Budesonid ve kromolin.
+Durdur ve düşün.
+Cevap A. Salbutamol, beta iki reseptörü, G s ve adenilil siklaz yoluyla siklik AMP yapımını artırır. Teofilin ise fosfodiesterazı inhibe ederek siklik AMP'nin yıkımını azaltır. İkisi, aynı yolun iki ayrı noktasına etki eder.
+B ve D'deki antimuskarinikler, yani ipratropium ve tiotropium, siklik AMP'yi artırmaz; M üç ve G q kasılma yolunu bloke eder. Montelukast ve zileuton ise lökotrien yolunu engeller. C'deki kromolin mediatör salınımını önler, omalizumab da IgE'yi bağlar. Hiçbiri doğrudan bronkodilatör değildir.
+E'deki budesonid ise doğrudan bronkodilatasyon yapmaz, ama beta iki reseptör sayısını artırarak beta iki agonistin etkisini güçlendirir.
+Bölüm birin sonuna geldik. Bir sonraki bölümde sempatomimetikleri, yani beta iki agonistleri konuşacağız.

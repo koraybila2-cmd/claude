@@ -1,0 +1,188 @@
+### k4b5_01 | Giriş, araşidonik asit yolu ve aspirine duyarlı astım
+Antiastmatik İlaçlar ve KOAH Farmakoterapisi. Bölüm beş, antiinflamatuvar ilaçlar iki: Lökotrien Yolu İnhibitörleri ve Biyolojik İlaçlar.
+Kortikosteroidler inflamasyonun pek çok basamağını aynı anda baskılar. Bu bölümdeki ilaçlar ise tek bir hedefi seçer. Lökotrien yolu inhibitörleri tek bir mediatör ailesini hedef alır. Monoklonal antikorlar ise tek bir molekülü hedef alır: IgE'yi, interlökin beşi, interlökin beş reseptörünü, interlökin dört reseptörünü ya da T S L P'yi.
+Hedef dar olduğu için etkileri de hastaya göre değişir. Bir ilacın yararı, o hastanın astımında hedeflenen molekülün ne kadar rol oynadığına bağlıdır.
+Bölümün iki temel şeması var: araşidonik asit yolu, yani Şekil beş nokta bir, ve tip iki inflamasyon zinciri, yani Şekil beş nokta iki. Aspirine duyarlı astım da bu bölümde anlatılıyor, çünkü mekanizması araşidonik asit yolundaki bir dengenin bozulmasıdır.
+Beş nokta bir: araşidonik asit yolu ve lökotrienler. Mast hücresi, eozinofil ya da makrofaj uyarıldığında hücre içinde kalsiyum artar ve fosfolipaz A iki aktive olur. Bu enzim, zar fosfolipitlerinden araşidonik asidi koparır. Araşidonik asit iki enzim yoluna girebilir. Bu iki yolu Şekil beş nokta birde de göreceğiz.
+Birinci yol: siklooksijenaz, yani COX yolu. Bu yol prostaglandinleri ve tromboksanı yapar. Ürünlerinden P G E iki bronkodilatördür ve mast hücresi ile beş lipoksijenaz üzerinde frenleyici etki yapar. P G D iki ise bronkokonstriktördür.
+İkinci yol: beş lipoksijenaz, yani beş L O X yolu. Sunuma göre lökotrienler araşidonik asitten beş lipoksijenaz etkisiyle sentezlenir. Bu sentez, hava yolundaki eozinofil, mast hücresi, makrofaj ve bazofil gibi inflamatuvar hücrelerde olur.
+Beş L O X, zardaki FLAP proteininin yardımıyla araşidonik asidi önce L T A dörde çevirir. L T A dörtten iki ayrı ürün oluşur: L T B dört ve glutatyonla birleşerek oluşan L T C dört. L T C dört, hücre dışında sırayla L T D dört ve L T E dörde dönüşür. Yapılarında sistein bulunduğu için bu üçüne sisteinil lökotrienler denir.
+Sunuma göre iki lökotrien grubunun etkileri farklıdır. L T B dört, güçlü bir nötrofil kemoatraktanıdır. L T C dört, L T D dört ve L T E dört ise bronkokonstriksiyon, artmış bronşiyal reaktivite, mukoza ödemi ve mukus hipersekresyonu gibi, astımda görülen etkilerin çoğuna neden olur.
+Sisteinil lökotrienler bu etkileri Cys L T bir reseptörü üzerinden yapar. Bronkokonstriktör olarak histaminden yüzlerce kat güçlüdürler. Eskiden anafilaksinin yavaş etkili maddesi, yani S R S A olarak bilinen madde, bu lökotrienlerin karışımıdır.
+Beş nokta iki: aspirine duyarlı astım. Erişkin astımlıların yaklaşık yüzde yedisinde, ağır astımlıların ise yaklaşık yüzde on beşinde, aspirin ya da başka bir N S A İ İ alındıktan otuz dakika ile iki saat sonra ağır bir bronkospazm gelişir. Bronkospazma burun tıkanıklığı, burun akıntısı ve yüzde kızarma eşlik eder.
+Bu hastaların çoğunda kronik rinosinüzit ve nazal polip de vardır. Astım, nazal polip ve aspirin duyarlılığı birlikteliği Samter triadı olarak bilinir. Reaksiyon alerjik değildir, IgE aracılı da değildir. Mekanizması araşidonik asit yolunun dengesiyle ilgilidir. Adım adım bakalım.
+Birinci adım: bu hastaların hava yolunda beş L O X ve L T C dört sentaz aktiviteleri zaten yüksektir. Hava yolu, sisteinil lökotrien yapmaya hazır durumdadır.
+İkinci adım: normalde COX yolunun ürünü olan P G E iki, mast hücresi ve beş L O X üzerinde bir fren görevi yapar.
+Üçüncü adım: hasta aspirin ya da başka bir COX inhibitörü alır. COX yolu kapanır ve P G E iki yapımı düşer. Yani fren kalkar.
+Dördüncü adım: COX yoluna giremeyen araşidonik asit lipoksijenaz yoluna kayar. Sisteinil lökotrien, yani L T C dört ve L T D dört yapımı birden artar.
+Beşinci adım: bu hastalarda Cys L T bir reseptörlerinin sayısı da artmıştır. Artan lökotrienler, sayısı artmış reseptörlere bağlanarak ağır bronkospazm yapar.
+Ekrandaki şekilde bu yolu yukarıdan aşağıya izliyorsun. En üstte membran fosfolipitleri var. Aşağı inen okun yanında fosfolipaz A iki yazıyor. Bu oku magenta bir çubuk kesiyor: glukokortikoidler. Altında parantez içinde lipokortin ya da anneksin bir yazıyor. Okun ucunda araşidonik asit duruyor.
+Araşidonik asitten iki ok çıkıyor. Sola giden ok siklooksijenaza, yani COX bir ve COX ikiye gidiyor ve bu oku aspirin ve N S A İ İ çubuğu kesiyor. Sağa giden ok, beş lipoksijenaz artı FLAP yazan kutuya gidiyor ve bu oku da zileuton çubuğu kesiyor. İki enzim kutusunun arasında, siklooksijenazdan beş lipoksijenaza doğru kesik çizgili bir ok uzanıyor. Üzerinde tek kelime yazıyor: kayma.
+Siklooksijenazın altında iki ürün var. P G E iki: bronkodilatör; mast hücresi ve beş L O X freni. P G D iki: bronkokonstriktör. Beş lipoksijenazın altında da iki ürün var. L T B dört: nötrofil kemotaksisi. Ve L T C dörtten L T D dörde, oradan L T E dörde uzanan zincir: sisteinil lökotrienler.
+Sisteinil lökotrienlerden aşağı inen ok Cys L T bir reseptörüne gidiyor. Bu oku da montelukast ve zafirlukast çubuğu kesiyor. Reseptörün altındaki kutuda sonuç yazıyor: bronkokonstriksiyon, ödem, mukus, eozinofil çağrısı ve aşırı duyarlılık.
+Sol alttaki kutunun başlığı: aspirine duyarlı astım. Bir: COX bloke olunca araşidonik asit beş lipoksijenaz yoluna kayar, sisteinil lökotrienler artar. İki: P G E iki azalır, mast hücresi ve beş L O X üzerindeki fren kalkar. Sonuç: aspirinden sonra ağır bronkospazm.
+Şeklin altyazısı şöyle. Şekil beş nokta bir: araşidonik asit yolu ve ilaçların etki noktaları. Glukokortikoidler fosfolipaz A ikiyi lipokortin aracılığıyla baskılayarak her iki yolu birden azaltır. Zileuton beş lipoksijenazı inhibe ederek bütün lökotrienlerin yapımını engeller. Montelukast ve zafirlukast ise Cys L T bir reseptörünü bloke ederek sisteinil lökotrienlerin etkisini engeller. Aspirin ve diğer N S A İ İ'ler COX'u bloke eder. Duyarlı hastada araşidonik asit lipoksijenaz yoluna kayar.
+Sınav bu mekanizmayı üç yılda üç kez sordu: 2025 2026 sınavının otuz dördüncü, 2024 sınavının dördüncü ve 2023 2024 sınavının on üçüncü sorusu. Doğru cevap şu: siklooksijenaz yolağının inhibisyonu sonrası dengenin lipoksijenaz yolağına kayması ve lökotrien, yani L T C dört ve L T D dört sentezinin artması.
+En güçlü çeldirici bunun tersidir: lipoksijenaz blokajı sonrası dengenin siklooksijenaz yoluna kayması ve P G E iki artışı. P G E iki bronkodilatör olduğu için bu ifade bronkospazmı açıklayamaz.
+Peki klinik sonuçları ne? Bu hastalar aspirin ve klasik N S A İ İ'lerden kaçınmalıdır. Düşük dozda parasetamol ve seçici COX iki inhibitörleri genellikle tolere edilir. Lökotrien reseptör antagonistleri aspirine duyarlı astımda özellikle etkilidir, çünkü hastalığın kendisi lökotrien fazlalığına dayanır.
+Seçilmiş hastalarda, kontrollü koşullarda aspirin desensitizasyonu yapılabilir. Nazal polip eşlik ediyorsa dupilumab da kullanılabilir. Dupilumabı Bölüm beş nokta altıda göreceğiz.
+
+### k4b5_02 | Lökotrien yolu inhibitörleri ve tip 2 inflamasyon zinciri
+Beş nokta üç: lökotrien yolu inhibitörlerinin ortak özellikleri. Lökotrien yolu iki noktadan engellenebilir. Birincisi lökotrien yapımıdır: zileuton, yani beş L O X inhibitörü. İkincisi sisteinil lökotrienlerin reseptörüdür: montelukast ve zafirlukast, yani Cys L T bir antagonistleri. Sunum iki grubun ortak özelliklerini şöyle sıralar.
+Bir: hava yolu çapı, inflamasyon ve bronşiyal reaktivite üzerindeki etkileri, inhale kortikosteroidlerinkinden daha az belirgindir. Bunun nedeni, steroidin inflamasyonun bütün basamaklarına, lökotrien inhibitörünün ise yalnızca bir mediatör ailesine etki etmesidir. Buna karşın atak sıklığını azaltmada hemen hemen eşit etkilidirler. 2025 2026 sınavının otuz dokuzuncu sorusunda şu ifade doğru olarak geçti: etkileri inhale kortikosteroidlerden daha az belirgindir.
+İki: öksürüğü azaltır ve solunum fonksiyonlarını düzeltirler.
+Üç: inhale kullanılmazlar, oral olarak alınırlar. Başlıca avantajları da budur. İnhaler kullanımına uyumu düşük olan hastalarda, özellikle çocuklarda tercih edilebilirler.
+Beş nokta dört: zileuton, yani lipoksijenaz enzim inhibitörü. Sunuma göre zileuton, beş L O X enzimini inhibe ederek lökotrien sentezini önler. Enzim basamağında etki ettiği için hem L T B dördü, hem de L T C dört, L T D dört ve L T E dördü azaltır. Bu, 2025 2026 sınavının otuz dokuzuncu sorusunda doğru ifade olarak geçti: zileuton beş L O X inhibisyonuyla lökotrien sentezini önler.
+Zileuton, antijenle ve egzersizle oluşan bronkospazmı önler ve inflamasyonun geç fazını baskılar.
+Zileutonun en önemli sorunu karaciğer toksisitesidir. Serum transaminaz düzeyleri yükselebilir ve tedavi boyunca karaciğer fonksiyonları izlenmelidir. Bu yüzden lökotrien yolu inhibitörleri içinde en az reçete edilen ilaçtır. Kısa yarı ömrü nedeniyle günde birkaç kez alınması gerekir. Ayrıca CYP bir A ikiyi inhibe eder ve teofilin düzeyini yükseltir. Bunu Bölüm üç nokta altıda görmüştük.
+Beş nokta beş: lökotrien reseptör antagonistleri, yani montelukast ve zafirlukast. Sunuma göre L T C dört, L T D dört ve L T E dört, sisteinil lökotrien bir, yani Cys L T bir reseptörüne bağlanır. Sonuç: bronkospazm, ödem, mukus hipersekresyonu ve eozinofilik inflamasyonda artış.
+Montelukast ve zafirlukast, Cys L T bir reseptörlerini antagonize ederek astım semptomlarını azaltır. 2023 2024 sınavının üçüncü sorusunda lökotrien reseptör antagonisti olarak zafirlukast soruldu. Bu ilaçlar reseptörü aktive etmez, bloke eder. 2023 2024 sınavının sekizinci sorusunda "zafirlukast Cys L T bir reseptörlerini aktive eder" ifadesi yanlıştı. Bir not daha: L T B dördün reseptörü farklı olduğu için, bu ilaçlar onun nötrofil çağırıcı etkisine dokunmaz.
+Şimdi sunumdaki özelliklere geçelim.
+Bir: oral kullanılırlar ve en sık montelukast reçete edilir. 2025 2026 sınavının otuz dokuzuncu sorusundaki "zafirlukast inhaler yolla kullanılan ve en sık reçete edilen lökotrien antagonistidir" ifadesi iki kez yanlıştı. Montelukast günde bir kez, akşam alınır. Zafirlukast ise günde iki kez, aç karnına alınır, çünkü yemek emilimini belirgin olarak azaltır.
+İki: aspirine duyarlı astımda, egzersizle ve antijenle uyarılmış astımda etkilidirler.
+Üç: akut atakta kullanılmazlar, yalnızca profilaktik kullanılırlar. Bronkodilatör etkileri zayıf ve yavaştır.
+Dört: KOAH tedavisinde yerleri yoktur. KOAH inflamasyonu nötrofil ve makrofaj ağırlıklıdır ve sisteinil lökotrienler bu inflamasyonun belirleyicisi değildir.
+Beş: yan etkileri çok azdır. Montelukastın küçük çocuklarda, altı aydan itibaren kullanımı onaylanmıştır. Çiğneme tableti ve granül formları vardır.
+Altı: hafif ve orta astımda, inhale steroid verilemeyen hastalarda tek başına verilirler. Orta veya ileri dereceli astımlılarda ise inhale steroide ilaveten verilirler.
+Şimdi bir kutuya bakalım: sunum ile güncel bilgi arasındaki fark. Sunum, lökotrien antagonistlerinin yan etkisinin çok az olduğunu söyler. Bu genel olarak doğrudur. Ama ABD İlaç Dairesi, yani FDA, 2020'de montelukasta ciddi nöropsikiyatrik yan etkiler için kutulu uyarı ekledi: ajitasyon, uyku bozuklukları ve kabuslar, depresyon ve nadiren intihar düşüncesi.
+Bu yüzden özellikle alerjik rinit gibi hafif durumlarda montelukast ilk tercih olarak önerilmez ve kullanan hastalar bu belirtiler açısından uyarılır. Zafirlukast ise nadiren karaciğer hasarı yapar ve CYP iki C dokuzu inhibe ederek varfarinin etkisini artırır.
+Bir de şu var: lökotrien antagonisti başlanıp oral steroidi azaltılan bazı hastalarda, eozinofilik granülomatöz polianjiitin, yani Churg Strauss'un ortaya çıktığı bildirilmiştir. Bu durumun ilacın kendisinden çok, steroidin azaltılmasıyla gizli hastalığın açığa çıkmasına bağlı olduğu düşünülür.
+Beş nokta altı: biyolojik ilaçlar, yani monoklonal antikorlar. Astımlıların yaklaşık yüzde beş ile onu, yüksek doz inhale steroid ve LABA'ya rağmen kontrol altına alınamayan ağır astımlıdır. Bu hastaların çoğunda inflamasyon tip iki karakterdedir. Kanda ve balgamda eozinofil yüksektir, IgE yüksek olabilir ve nefesteki nitrik oksit, yani FeNO artmıştır.
+Tip iki inflamasyon bir zincir hâlinde ilerler ve her monoklonal antikor bu zincirin bir halkasını keser. Bu zinciri Şekil beş nokta ikide de göreceğiz. Önce halkaları sırayla sayalım.
+Birinci halka: alerjen, virüs ya da duman hava yolu epitelini uyarır. Epitel, alarmin adı verilen sitokinleri salar: T S L P, interlökin otuz üç ve interlökin yirmi beş.
+İkinci halka: alarminler T H iki hücrelerini ve doğal lenfoid hücreleri, yani I L C ikiyi aktive eder. Bu hücreler tip iki sitokinleri salgılar.
+Üçüncü halka: interlökin dört ve interlökin on üç, B hücrelerinde IgE'ye sınıf değişimini sağlar. IgE, mast hücrelerinin yüzeyindeki F c epsilon R bir reseptörlerine bağlanır.
+Alerjen bu IgE'leri çapraz bağladığında mast hücresi boşalır ve erken faz bronkospazmı gelişir. İnterlökin on üç ayrıca epitelde mukus yapımını ve düz kasta aşırı duyarlılığı artırır.
+Dördüncü halka: interlökin beş, eozinofillerin kemik iliğinde yapılmasını, olgunlaşmasını, dokuya göçünü, aktivasyonunu ve yaşamasını sağlar. Eozinofiller, geç faz inflamasyonunun ve epitel hasarının başlıca hücreleridir.
+
+### k4b5_03 | Şekil 5.2, omalizumab, IL-5 yolu, dupilumab ve tezepelumab
+Ekrandaki şekilde bu zinciri ve antikorların hedeflerini görüyorsun. Sağ üstteki açıklamaya göre magenta çubuklar, antikorun engellediği basamağı gösteriyor.
+Zincir sol üstte başlıyor: alerjen, virüs ve duman epiteli uyarır. Ok, sağdaki kutuya gidiyor: hava yolu epiteli; T S L P, interlökin otuz üç ve interlökin yirmi beş salar. Buradan aşağı inen oku ilk çubuk kesiyor: tezepelumab, yani anti T S L P. Okun ucunda T H iki hücresi ve I L C iki var. Altında tip iki sitokinler yazıyor.
+Bu kutudan üç kol çıkıyor. Sol kol interlökin dört ve interlökin on üç taşıyor ve B hücresine iniyor. Bu kolu dupilumab çubuğu kesiyor; yanında interlökin dört R alfa yazıyor. B hücresinde IgE'ye sınıf değişimi olur. Sonraki oku omalizumab çubuğu kesiyor; yanında serbest IgE yazıyor. Ok mast hücresine varıyor: IgE, F c epsilon R bire bağlanır. En alttaki kutuda: alerjen IgE'yi çapraz bağlar; histamin, L T C dört ve P G D iki salınır; erken faz bronkospazm.
+Orta kol interlökin on üç taşıyor ve epitel, bez ve düz kasa iniyor. Sonuç: mukus artar, aşırı duyarlılık artar, FeNO artar.
+Sağ kol interlökin beş taşıyor. Bu kolu mepolizumab ve reslizumab çubuğu kesiyor; mepolizumab deri altı, reslizumab damar içi. Ok, eozinofil yüzeyindeki interlökin beş reseptörüne, yani interlökin beş R alfaya varıyor. Sonraki oku benralizumab çubuğu kesiyor: deri altı, interlökin beş R alfa. Ok eozinofile ulaşıyor: yapım, olgunlaşma, göç, aktivasyon ve yaşam süresi artar. En alttaki kutuda: geç faz inflamasyon; epitel hasarı ve alevlenme.
+Ortadaki kutunun başlığı: ortak özellikler. Ağır, tip iki astımda kullanılırlar. Alevlenme ve oral steroid ihtiyacı azalır. Protein oldukları için oral formları yoktur. Deri altına verilirler; reslizumab ise damar içi.
+Şeklin altyazısı şöyle. Şekil beş nokta iki: tip iki inflamasyon zinciri ve monoklonal antikorların hedefleri. Omalizumab serbest IgE'yi, mepolizumab ve reslizumab interlökin beşin kendisini, benralizumab interlökin beş reseptörünü hedefler. Dupilumab, interlökin dört ve interlökin on üçün ortak reseptör zinciri olan interlökin dört R alfayı hedefler. Tezepelumab ise zincirin en başındaki T S L P'yi hedefler. Tezepelumab sunumda yer almaz.
+Önce omalizumab, yani anti IgE. Sunuma göre omalizumab, deri altına uygulanan ve IgE'nin mast hücrelerine bağlanmasını inhibe eden bir anti IgE monoklonal antikorudur.
+Nasıl mı? Omalizumab, serbest IgE'nin F c epsilon R bir reseptörüne bağlanan bölgesine tutunur. Bağlanma bölgesi kapanan IgE, mast hücresine ve bazofile yapışamaz. Hücreye zaten bağlı IgE'ye ise bağlanmaz. Bu yüzden kendisi mast hücresini çapraz bağlayıp boşaltamaz.
+Serbest IgE azaldıkça, mast hücreleri ve bazofiller yüzeylerindeki F c epsilon R bir sayısını da azaltır ve alerjene daha az duyarlı hâle gelir. Sunumdaki diğer özellikler şunlar.
+Bir: on haftalık omalizumab uygulaması plazma IgE düzeylerini önemli oranda düşürür.
+İki: lenfositik ve eozinofilik bronşiyal inflamasyonu azaltır. 2022 2023 sınavının onuncu sorusunda, lenfositik ve eozinofilik bronşiyal inflamasyonu azaltan anti IgE antikoru olarak omalizumab soruldu.
+Üç: antijen sataşmasına karşı erken ve geç bronkokonstriktör cevapları anlamlı olarak azaltır.
+Dört: kortikosteroid gereksinimini azaltır.
+Omalizumab, IgE düzeyi yüksek ve yıl boyu bulunan bir alerjene, örneğin ev tozu akarına ya da hayvan tüyüne, duyarlı ağır alerjik astımda kullanılır. Dozu vücut ağırlığına ve serum total IgE düzeyine göre hesaplanır ve iki ile dört haftada bir verilir. Nadiren anafilaksi yapabildiği için ilk uygulamalar gözlem altında yapılır.
+Sırada interlökin beş yolunu hedefleyenler var: mepolizumab, reslizumab ve benralizumab. Sunuma göre mepolizumab ve reslizumab interlökin beşe bağlanır. Mepolizumab deri altına, reslizumab ise damar içine verilir.
+İnterlökin beş, eozinofillerin farklılaşmasından, olgunlaşmasından, infiltrasyonundan ve aktivasyonundan sorumlu anahtar sitokindir. Bu ilaçlar hipereozinofilik persistan astım tanılı hastalarda kullanılır. İnterlökin beşe bağlanan antikor olarak mepolizumab üç kez soruldu: 2024 sınavının yedinci, 2023 2024 sınavının onuncu ve 2022 2023 sınavının dördüncü sorusu.
+Benralizumab da deri altına verilir, ama interlökin beşin kendisine değil, reseptörüne bağlanır. Reseptörü aktive etmez, bloke eder. Bu ayrım 2025 2026 sınavının otuz altıncı sorusunda karşımıza çıktı.
+Ayrıca eozinofilin yüzeyine yapışan benralizumab, doğal öldürücü hücreleri çağırarak eozinofili antikor bağımlı sitotoksisiteyle yok eder. Kandaki eozinofiller yirmi dört saat içinde neredeyse tamamen kaybolur.
+Şimdi dupilumab ve tezepelumab. Sunuma göre dupilumab deri altına uygulanır. İnterlökin dört ve interlökin on üç reseptörlerinin ortak zincirine, yani interlökin dört R alfaya bağlanır ve iki sitokinin etkilerini birlikte bloke eder.
+Dupilumab eozinofilik astımda kullanılır. Ayrıca nazal polipozisli kronik rinosinüzitte ve atopik dermatitte de etkilidir, çünkü üç hastalık da tip iki inflamasyona dayanır. Tedavinin başında kandaki eozinofil sayısı geçici olarak yükselebilir.
+Sunumda yer almayan tezepelumab ise zincirin en başındaki epitel alarmini, yani T S L P'yi hedefler. Zincirin başında etki ettiği için, eozinofil ya da IgE düzeyinden bağımsız olarak ağır astımlıların çoğunda alevlenmeleri azaltır.
+
+### k4b5_04 | Özet tablo, soru sayıları ve Soru 1-3
+Ekrandaki tablo bu ilaçları yan yana koyuyor. Omalizumab: hedefi serbest IgE, uygulaması deri altı. Ağır alerjik astımda kullanılır ve IgE'nin mast hücresine bağlanmasını engeller.
+Mepolizumab: hedefi interlökin beş, uygulaması deri altı. Hipereozinofilik persistan astımda kullanılır. Sınav notu: deri altı artı interlökin beş, eşittir mepolizumab.
+Reslizumab: hedefi interlökin beş, uygulaması damar içi. Endikasyonu aynıdır. Grubun damar içi verilen tek üyesidir.
+Benralizumab: hedefi interlökin beş reseptörü, yani interlökin beş R alfa; uygulaması deri altı. Reseptörü bloke eder ve eozinofili yok eder. Aktive etmez.
+Dupilumab: hedefi interlökin dört R alfa, yani interlökin dört ve interlökin on üç; uygulaması deri altı. Eozinofilik astımda, nazal polipli rinosinüzitte ve atopik dermatitte kullanılır.
+Tezepelumab: hedefi T S L P, uygulaması deri altı. Fenotipten bağımsız ağır astımda kullanılır. Sunumda yoktur.
+Ve tablodaki çeldirici: alemtuzumab. Hedefi CD elli iki, uygulaması damar içi. Kronik lenfositik lösemi ve multipl sklerozda kullanılır. Astımda kullanılmaz.
+Bütün monoklonal antikorlar protein yapısındadır. Ağızdan alındıklarında mide ve bağırsakta peptitlere yıkılırlar. Bu yüzden oral formları yoktur. 2025 2026 sınavının otuz altıncı sorusunda bu doğru ifadeydi. 2023 2024 sınavının sekizinci sorusunda ise "omalizumab oral kullanılır" ifadesi yanlıştı.
+İsimlerindeki zumab eki, insanlaştırılmış, yani humanize monoklonal antikor anlamına gelir. Hepsi ağır astımda alevlenme sıklığını ve oral steroid gereksinimini yaklaşık yarıya indirir. Ama hiçbiri atak tedavisinde kullanılmaz.
+Bu bölümden yıllara göre soru sayısına bakalım. Ekrandaki grafikte 2022 2023 sınavında iki, 2023 2024 sınavında üç, 2024 sınavında iki ve 2025 2026 sınavında üç soru görüyorsun.
+Lökotrien yolu ve biyolojik ilaç soruları toplam on. Konulara göre dağılım şöyle: aspirine duyarlı astımın mekanizması, her yıl, üç kez. İnterlökin beş antikorunu tanıma, üç kez. Bir de anti IgE, lökotrien reseptör antagonisti, lökotrien yolu inhibitörleri ve monoklonal antikorlar için yanlış olanı soran sorular. Şimdi bu soruları birlikte çözelim.
+Bölüm sonu soruları. Soru bir: 2023 2024 sınavı, üçüncü soru.
+Aşağıdakilerden hangisi lökotrien reseptör antagonisti bir ilaçtır?
+A: Formoterol.
+B: İpratropium.
+C: Teofilin.
+D: Flutikazon.
+E: Zafirlukast.
+Durdur ve düşün.
+Doğru cevap E. Zafirlukast, montelukast gibi Cys L T bir reseptörünü antagonize eder. İki ilacın isminin sonundaki lukast eki bu grubu tanıtır.
+A yanlış: formoterol uzun etkili beta iki agonisttir. B yanlış: ipratropium muskarinik reseptör antagonistidir. C yanlış: teofilin fosfodiesteraz inhibitörü ve adenozin reseptör antagonistidir. D yanlış: flutikazon inhale kortikosteroiddir. Bu soru, 2022 2023 sınavındaki inhalasyon sorusuyla, yani üçüncü bölümün dördüncü sorusuyla aynı ilk dört şıkkı kullanır.
+Soru iki: 2025 2026 sınavı, otuz dördüncü soru.
+Migren ve çocukluk çağı astım öyküsü bulunan hasta, reçetesiz bir ağrı kesici kullandıktan kısa süre sonra bronkospazm tablosu geliştiriyor. Bu hastada görülen bronkokonstrüksiyonun patofizyolojik mekanizması aşağıdakilerden hangisidir?
+A: Lipoksijenaz yolağının blokajı sonrası dengenin siklooksijenaz yolağına kayarak daha fazla P G E iki sentezi yapılmasıdır.
+B: Fosfolipaz A iki inhibisyonu sonrası araşidonik asit sentezinin azalmasıdır.
+C: Fosfolipaz A iki aktivasyonu sonrası araşidonik asit sentezinin artmasıdır.
+D: Bütün yolların birden inhibe olmasıdır.
+E: Siklooksijenaz yolağının inhibisyonu sonrası dengenin lipoksijenaz yolağına kayarak daha fazla lökotrien, yani L T C dört ve L T D dört sentezlenmesidir.
+Durdur ve düşün.
+Doğru cevap E. Reçetesiz ağrı kesici, yani aspirin ya da başka bir N S A İ İ, COX'u bloke eder. Bronkodilatör ve frenleyici P G E iki azalır. Araşidonik asit beş lipoksijenaz yoluna kayar ve sisteinil lökotrienler artar.
+A yanlış, çünkü yön terstir. Ağrı kesici lipoksijenazı değil, siklooksijenazı bloke eder. Artsa bile P G E iki bronkodilatördür ve bronkospazm yapmaz. B yanlış: fosfolipaz A iki inhibisyonu kortikosteroidlerin mekanizmasıdır ve araşidonik asidin azalması bronkospazmı önler.
+C yanlış: N S A İ İ'ler fosfolipaz A ikiyi aktive etmez. D yanlış: N S A İ İ yalnızca COX yolunu kapatır. Lipoksijenaz yolu açık kalır ve sorunun kaynağı da budur.
+Soru üç: 2023 2024 sınavı, on üçüncü soru ve 2024 sınavı, dördüncü soru.
+Aspirin ilişkili bronkospazmın mekanizması nedir?
+A: Siklooksijenaz yolağının blokajı sonucu dengenin lipoksijenaz yolağına kayması.
+B: Lipoksijenaz blokajı.
+C: P L A iki inhibisyonu.
+D: P L A iki aktivasyonu.
+E: Tüm yolların blokajı.
+Durdur ve düşün.
+Doğru cevap A. Aspirin, COX'u geri dönüşsüz olarak asetiller. Araşidonik asit lipoksijenaz yoluna kayar ve L T C dört ile L T D dört artar.
+2024 sınavında aynı soru şu biçimde soruldu: siklooksijenaz inhibitörü kullanımının ardından şiddetli bronkokonstriksiyon gelişen astımlı hastada mekanizma nedir? Bu sorunun şıkları kaynakta kayıtlı değil. Cevap aynıdır: COX inhibisyonu sonrası dengenin lipoksijenaz yoluna kayması ve lökotrien sentezinin indüklenmesi.
+B yanlış: lipoksijenaz blokajı, yani zileuton, bronkospazmı önler. C yanlış: P L A iki inhibisyonu kortikosteroidlerin etkisidir. D yanlış: aspirin P L A ikiyi aktive etmez. E yanlış: aspirin yalnızca COX'u bloke eder.
+
+### k4b5_05 | Soru 4-8 ve pekiştirme sorusu
+Soru dört: 2025 2026 sınavı, otuz dokuzuncu soru.
+Astım tedavisinde kullanılan lökotrien yolağı inhibitörleri için verilen bilgilerden hangisi yanlıştır?
+A: Hava yolu çapı ve inflamasyonu üzerine etkileri inhale kortikosteroidlerden daha az belirgindir.
+B: Zileuton beş L O X enzim inhibisyonu sonucu lökotrien sentezini önler.
+C: Zafirlukast inhaler yolla kullanılan ve en sık reçete edilen lökotrien antagonisti bir ilaçtır.
+D: Akut atakta kullanılmaz, sadece profilaktik kullanıma uygundur.
+E: KOAH patogenezi üzerinde etkisizdir.
+Durdur ve düşün.
+Doğru cevap C, yani yanlış olan ifade C şıkkı. Bu şık iki kez yanlıştır. Lökotrien yolu inhibitörlerinin hiçbiri inhale kullanılmaz, hepsi oraldir. En sık reçete edilen de zafirlukast değil, montelukasttır.
+A, B, D ve E sunumdaki doğru bilgilerdir. Etkileri inhale steroidden daha az belirgindir, zileuton beş L O X inhibitörüdür, akut atakta kullanılmazlar ve KOAH tedavisinde yerleri yoktur.
+Soru beş: 2024 sınavı, yedinci soru.
+Hipereozinofilik persistan astımı olan hastaya subkutan uygulanan ve interlökin beşe bağlanan monoklonal antikor hangisidir?
+A: Benralizumab.
+B: Mepolizumab.
+C: Dupilumab.
+D: Omalizumab.
+E: Reslizumab.
+Durdur ve düşün.
+Doğru cevap B. Mepolizumab interlökin beşe bağlanır ve deri altına uygulanır. Sorunun iki ipucu, yani deri altı ve interlökin beşin kendisi, yalnızca mepolizumabda birleşir.
+E en güçlü çeldiricidir: reslizumab da interlökin beşe bağlanır, ama damar içi verilir. A yanlış: benralizumab deri altına verilir, ama interlökin beşe değil, reseptörüne bağlanır. C yanlış: dupilumab interlökin dört R alfaya bağlanır. D yanlış: omalizumab IgE'ye bağlanır.
+Soru altı: 2023 2024 sınavı, onuncu soru ve 2022 2023 sınavı, dördüncü soru.
+İnterlökin beşe bağlanarak eozinofilik, yani hipereozinofilik persistan astımda kullanılan monoklonal antikor hangisidir?
+A: Benralizumab.
+B: Dupilumab.
+C: Omalizumab.
+D: Alemtuzumab.
+E: Mepolizumab.
+Durdur ve düşün.
+Doğru cevap E. Mepolizumab interlökin beşe bağlanarak etkisini antagonize eder. 2022 2023 sınavında aynı beş ilaç farklı sırayla soruldu ve mepolizumab B şıkkındaydı.
+A yanlış: benralizumab interlökin beş reseptörüne bağlanır. B yanlış: dupilumab interlökin dört R alfaya bağlanır. C yanlış: omalizumab anti IgE antikorudur. D yanlış: alemtuzumab CD elli ikiye karşı bir antikordur. Kronik lenfositik lösemi ve multipl sklerozda kullanılır, astımda yeri yoktur.
+Soru yedi: 2022 2023 sınavı, onuncu soru.
+Aşağıdakilerden hangisi astım tedavisinde kullanılan, lenfositik ve eozinofilik bronşiyal inflamasyonu azaltan anti IgE antikoru bir ilaçtır?
+A: Omalizumab.
+B: Mepolizumab.
+C: Benralizumab.
+D: Dupilumab.
+E: Alemtuzumab.
+Durdur ve düşün.
+Doğru cevap A. Omalizumab serbest IgE'ye bağlanır ve IgE'nin mast hücrelerine bağlanmasını engeller. Sunumdaki "lenfositik ve eozinofilik bronşiyal inflamasyonu azaltır" ifadesi omalizumaba aittir.
+B ve C yanlış: mepolizumab interlökin beşi, benralizumab interlökin beş reseptörünü hedefler. Onlar da eozinofilik inflamasyonu azaltır, ama IgE'ye bağlanmazlar. D yanlış: dupilumab interlökin dört R alfayı bloke eder. IgE yapımını dolaylı olarak azaltır, ama bir anti IgE antikoru değildir. E yanlış: alemtuzumab astımda kullanılmaz.
+Soru sekiz: 2025 2026 sınavı, otuz altıncı soru.
+Astım tedavisinde kullanılan monoklonal antikorlarla ilgili aşağıda verilen ifadelerden hangisi yanlıştır?
+A: Omalizumab IgE'nin mast hücrelerine bağlanmasını inhibe eder.
+B: Mepolizumab subkutan uygulanır ve interlökin beşe bağlanarak etkisini inhibe eder.
+C: Benralizumab interlökin beş reseptörünü aktive ederek güçlü antienflamatuvar etkinlik gösterir.
+D: Dupilumab interlökin dört R alfa zincirine bağlanır ve eozinofilik astımda endikedir.
+E: Oral yolla kullanımları mevcut değildir.
+Durdur ve düşün.
+Doğru cevap C, yani yanlış olan ifade C şıkkı. Benralizumab interlökin beş reseptörüne bağlanır, ama onu aktive etmez, bloke eder. Reseptörün aktive olması eozinofilleri uyarır ve inflamasyonu artırırdı. Benralizumab ayrıca eozinofilleri NK hücreleri aracılığıyla yok eder.
+A, B, D ve E doğrudur. E'nin nedeni, antikorların protein olması ve sindirim kanalında yıkılmasıdır.
+Son olarak, konuyu pekiştirmek için hazırlanmış yeni bir soru.
+Astım, nazal polip ve aspirin sonrası bronkospazm öyküsü olan hastanın tedavisine montelukast ekleniyor. Montelukastın bu hastada özellikle yararlı olmasının nedeni aşağıdakilerden hangisidir?
+A: Hastalığın, COX blokajıyla artan sisteinil lökotrienlerin Cys L T bir reseptörü üzerinden yaptığı bronkospazma dayanması.
+B: Montelukastın COX enzimini yeniden aktive etmesi.
+C: Montelukastın P G E iki yapımını artırması.
+D: Montelukastın serbest IgE'yi bağlaması.
+E: Montelukastın beş lipoksijenazı inhibe etmesi.
+Durdur ve düşün.
+Doğru cevap A. Aspirine duyarlı astımın temelinde lökotrien fazlalığı ve Cys L T bir reseptörlerinin sayısındaki artış vardır. Montelukast bu reseptörü bloke ederek hastalığın ana mediatörünün etkisini keser.
+B ve C yanlış: montelukast araşidonik asit yolundaki enzimlere etki etmez. D yanlış: IgE'yi bağlayan omalizumabdır. Aspirine duyarlı astım zaten IgE aracılı bir reaksiyon değildir. E yanlış: beş lipoksijenazı inhibe eden zileutondur. Montelukast enzim inhibitörü değil, reseptör antagonistidir.
+Bölüm beşin sonuna geldik. Bir sonraki bölümde KOAH farmakoterapisini, ağır astım atağını ve bütün ilaçların özet tablosunu konuşacağız.

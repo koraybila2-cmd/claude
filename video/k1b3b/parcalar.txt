@@ -1,0 +1,149 @@
+### k1b3b_01 | Oksidatif stres
+KOAH: Tanım, Patogenez ve Klinik. Bölüm üçe devam ediyoruz: üç nokta dokuz, oksidatif stres.
+Oksidatif stres, hücreye zarar veren oksidanların miktarının, onları etkisiz hâle getiren antioksidan savunmanın kapasitesini aşmasıdır. KOAH'ta bu denge iki yönden birden bozulur: oksidan yükü artar, antioksidan savunma azalır. Oksidatif stres bu yüzden KOAH patogenezinin ikinci ayağıdır. Diğer iki ayağı, yani inflamasyonu ve proteaz antiproteaz dengesizliğini besleyen bir motor gibi çalışır.
+Peki oksidanlar nereden gelir? Sunumun "Oksidatif stres" slaytı iki kaynak gösterir. Dış kaynak, solunan havadır. Sigara dumanının hem gaz fazı hem katran fazı, çok yüksek miktarda serbest radikal içerir. Katrandaki bazı radikaller kararlıdır ve hava yolunu kaplayan sıvıda uzun süre oksidan üretmeye devam eder. Biyomas dumanı ve hava kirliliği de oksidan taşır.
+İç kaynak ise akciğere toplanan inflamatuvar hücrelerdir. Nötrofil, eozinofil ve makrofajlar aktive olduklarında, zarlarındaki N A D P H oksidaz enzimiyle süperoksit üretir. Buna solunum patlaması denir. Dokudaki ksantin oksidaz ve hasarlı mitokondrilerden kaçan elektronlar da süperoksit oluşturur. Yani sigara bir kez inflamasyonu başlattıktan sonra, akciğere gelen hücreler kendi oksidanlarını üreterek stresi sürdürür.
+Şimdi radikal zincirini sırayla izleyelim. Bir: süperoksit, yani O iki nokta eksi, ilk üründür. Kendisi orta derecede reaktiftir.
+İki: süperoksit dismutaz, yani S O D, süperoksiti hidrojen peroksite, yani H iki O ikiye çevirir. Hidrojen peroksit radikal değildir, ama zarlardan kolayca geçer ve hücreye girer.
+Üç: ortamda serbest demir, yani F e iki artı, ya da bakır, yani C u artı varsa, hidrojen peroksit Fenton tepkimesiyle hidroksil radikaline, yani nokta O H'ye dönüşür. Hidroksil radikali, bilinen en reaktif ve en zararlı oksidandır. Oluştuğu yerde lipitlere, proteinlere ve DNA'ya saldırır. Sigara dumanı ve kronik inflamasyon, akciğerde serbest demir miktarını artırır.
+Dört: nötrofilin enzimi miyeloperoksidaz, yani M P O, hidrojen peroksit ve klorürden hipoklorik asit, yani H O C L üretir. Bu, çamaşır suyunun etken maddesiyle aynı moleküldür.
+Beş: makrofajın ürettiği nitrik oksit, yani N O, süperoksitle birleşince peroksinitrit, yani O N O O eksi oluşur. Peroksinitrit, proteinlerdeki tirozin artıklarını nitrolar ve enzimleri bozar. En önemli kurbanı HDAC ikidir. Bunu üç nokta on ikide göreceğiz.
+Sırada antioksidan savunma var. Akciğerin antioksidan savunması üç katmandır ve sunumdaki şemada gösterilir.
+Birinci katman, antioksidan enzimler. Bunlar süperoksit dismutaz; hidrojen peroksiti suya çeviren katalaz; hidrojen peroksiti glutatyon kullanarak suya çeviren glutatyon peroksidaz; ve seruloplazmin.
+İkinci katman, zincir kıran antioksidanlar. Bunlar radikal tepkimelerini durdurur. Lipit fazında tokoferol, yani E vitamini, ubikinol, karotenoidler ve flavonoidler bulunur. Sıvı fazda ise askorbat, yani C vitamini, ürat ve glutatyon bulunur. Hava yolunu kaplayan sıvıda glutatyon, plazmadakinden çok yüksek düzeydedir.
+Üçüncü katman, metal bağlayan proteinler. Transferrin, ferritin ve laktoferrin demiri bağlar. Böylece Fenton tepkimesini, yani hidroksil radikali oluşumunu önler.
+Bu savunmayı yöneten ana anahtar, N R F iki adlı transkripsiyon faktörüdür. Normalde oksidatif stres N R F ikiyi aktive eder ve N R F iki, onlarca antioksidan genini birden açar. Ders notunun belirttiği gibi, KOAH'ta N R F iki aktivitesi azalmıştır. Bu yüzden endojen antioksidanlar, tam da en çok gerektikleri anda yetersiz kalır. Diyetle antioksidan eksikliğinin bir risk faktörü olması da bu tabloya uyar. Bunu Bölüm bir nokta altıda görmüştük.
+Ekrandaki şekil bu zinciri bir araya getiriyor. En üstte iki kutu var. Soldaki dış kaynak: sigara dumanı, biyomas ve hava kirliliği. Sağdaki iç kaynak: nötrofil ve makrofajın N A D P H oksidazı, bir de ksantin oksidaz. İki kutudan inen oklar, orta sıradaki büyük kutuda birleşir.
+Bu büyük kutunun başlığı: oksidan yükü artar. İçinde üç tepkime yazıyor. Birincisi: O iki nokta eksi, S O D ile H iki O ikiye dönüşür. H iki O iki de F e iki artı varlığında, Fenton tepkimesiyle nokta O H'ye dönüşür. İkincisi: N O ile O iki nokta eksi birleşir ve peroksinitrit, yani O N O O eksi oluşur. Üçüncüsü: M P O, H iki O iki ve C L eksi birlikte H O C L verir.
+Sağda antioksidan savunma kutusu var. İçinde S O D, katalaz ve G P X, yani glutatyon peroksidaz; glutatyon; C ve E vitamini yazıyor. Altında bir not: KOAH'ta N R F iki azalır, bu yüzden savunma azalır. Bu kutudan oksidan kutusuna uzanan çizginin ucu, dik bir çizgiyle biter. Yani savunma, oksidan yükünü baskılar.
+Oksidan kutusundan dört ok, en alttaki dört hedefe iner. Birinci hedef: alfa bir A T ve S L P I oksitlenir, proteaz üstün gelir ve sonuç amfizemdir. İkinci hedef: NF kappa B aktivasyonu. İnterlökin sekiz ve TNF alfa artar ve inflamasyon sürer. Üçüncü hedef: HDAC iki, peroksinitrit etkisiyle inaktive olur ve sonuç steroid direncidir. Dördüncü hedef: DNA hasarı ve apoptoz, mukus artışı ve silyer hasar. Sonuç hızlı yaşlanmadır.
+Şeklin altyazısı: Şekil üç nokta iki, KOAH'ta oksidatif stres. Sunumdaki iki şemadan birleştirildi. Oksidan yükü arttıkça dört hedef etkilenir. Alfa bir A T'nin oksitlenmesi, oksidatif stresi proteaz antiproteaz dengesizliğine bağlar. NF kappa B aktivasyonu inflamasyona, HDAC iki kaybı da steroid direncine bağlar. Böylece patogenezin üç ayağı tek bir zincirde birleşir.
+Peki oksidatif stres neyi bozar? Bir: antiproteazları etkisiz bırakır. Alfa bir A T ve S L P I oksitlenince elastazı bağlayamaz. Serum düzeyi normal olduğu hâlde, bir "işlevsel alfa bir A T eksikliği" ortaya çıkar. Bunu üç nokta onda göreceğiz.
+İki: inflamasyonu büyütür. Oksidanlar NF kappa B ve A P bir transkripsiyon faktörlerini aktive eder. Bunlar interlökin sekiz ve TNF alfa genlerini açar. Daha çok nötrofil gelir, daha çok oksidan üretilir.
+Üç: steroid direnci yapar, çünkü HDAC ikiyi bozar. Bunu da üç nokta on ikide göreceğiz.
+Dört: mukus salgısını artırır. TACE'yi aktive ederek EGFR yolunu açar. Bunu üç nokta sekizde görmüştük.
+Beş: DNA'yı hasarlar ve hücreyi yaşlandırır. DNA hasarı, alveol hücrelerinde apoptozu ya da kalıcı hücre bölünmesi durmasını tetikler. Bu ikincisine yaşlanma, yani senesens denir. Ders notu bunu açıkça yazar: oksidatif stres DNA hasarına, inflamasyonun sürmesine ve steroid direncine yol açar. DNA hasarı, akciğer kanseri riskinin de bir parçasıdır.
+Altı: lipitleri peroksitler. Zar lipitlerinin oksitlenmesiyle izoprostanlar ve dört hidroksinonenal oluşur. Bunlar hem zarar verir, hem de KOAH'lı hastanın ekshale havasında oksidatif stresin belirteci olarak ölçülebilir.
+
+### k1b3b_02 | Proteaz antiproteaz dengesizliği ve apoptoz
+Üç nokta on: proteaz antiproteaz dengesizliği. Amfizemin temel mekanizması bir denge bozukluğudur. Bir yanda akciğerin hücre dışı matriksini, özellikle elastini yıkan proteazlar var. Öbür yanda onları durduran antiproteazlar. Amfizemde bu denge proteazlar lehine bozulur. Ders notu bunu açıkça yazar: bu dengesizlik amfizemin temel mekanizmasını oluşturur.
+Bu hipotez, bin dokuz yüz altmışlı yıllarda iki gözlemden doğdu. Önce, serum proteinlerinin elektroforezinde alfa bir bandı olmayan kişilerde genç yaşta amfizem geliştiği fark edildi. Bu, alfa bir A T eksikliğinin keşfiydi. Hemen ardından, deney hayvanlarının trakeasına elastin yıkan bir enzim, yani papain verildiğinde amfizem oluştuğu gösterildi. İki gözlem birlikte basit bir fikir ortaya koydu: elastin yıkılırsa amfizem gelişir. Elastini normalde koruyan şey ise antiproteazlardır.
+Ekrandaki tablo, proteazları kaynağı, sınıfı ve başlıca önleyicisiyle birlikte sıralıyor. Birinci proteaz: nötrofil elastazı. Kaynağı nötrofil, yani nötrofilin azurofil granülü. Sınıfı serin proteaz. Başlıca önleyicisi alfa bir A T, ayrıca S L P I ve elafin.
+İkinci proteaz: katepsin G. Kaynağı nötrofil, sınıfı serin proteaz. Önleyicileri alfa bir antikemotripsin ve S L P I.
+Üçüncü proteaz: proteinaz üç. Kaynağı nötrofil, sınıfı serin proteaz. Önleyicileri alfa bir A T ve elafin.
+Dördüncü grup: M M P bir, M M P sekiz, M M P dokuz ve M M P on iki. Kaynakları makrofaj, yani M M P on iki ve dokuz; nötrofil, yani M M P sekiz ve dokuz; bir de epitel. Sınıfları matriks metalloproteinaz. Başlıca önleyicileri TIMP, yani birden dörde kadar olan doku M M P inhibitörleri.
+Beşinci grup: katepsin K, L ve S. Kaynakları makrofaj, sınıfları sistein proteaz. Önleyicileri sistatinlerdir.
+Sunumun "Proteaz antiproteaz dengesizliği" slaytı da proteazları sayar: nötrofil elastaz, nötrofil kaynaklı katepsin G, nötrofil proteinaz üç ve çeşitli matriks metalloproteazlar, yani M M P bir, dokuz ve on iki. Antiproteazları ise şöyle sayar: alfa bir antitripsin, yani A bir A T; sekretuvar lökoproteinaz inhibitörü, yani S L P I; ve doku metalloproteinaz inhibitörü, yani TIMP. Bu iki liste, sınav sorularının şık havuzudur.
+Şimdi alfa bir A T'nin iki ayrı yoldan eksik kalmasına geçelim. Alfa bir A T'nin elastazı nasıl durdurduğunu bilmek, sigaranın onu neden etkisiz bıraktığını anlamayı sağlar. Alfa bir A T'nin yüzeyinde, dışarı doğru uzanan bir halka vardır. Buna reaktif merkez denir. Bu halka, elastaz için bir yemdir. Halkanın tam ortasında metiyonin amino asidi bulunur, üç yüz elli sekizinci sıradaki metiyonin.
+Elastaz yemi ısırır ve bu metiyoninin yanından keser. Kesilen anda alfa bir A T'nin yapısı bir yay gibi açılır. Elastazı kovalent bağla yakalayarak sürükler ve işlevsiz bırakır. Bu yüzden alfa bir A T bir "intihar substratı" gibi çalışır: her molekül bir elastazı etkisiz bırakır ve kendisi de tükenir.
+Sigara dumanındaki ve inflamatuvar hücrelerden çıkan oksidanlar, bu metiyonini metiyonin sülfoksite oksitler. Oksitlenmiş yem artık elastazın ilgisini çekmez ve alfa bir A T'nin elastazı yakalama hızı binlerce kat azalır. Serum düzeyi normal olsa bile, akciğerde işlevsel bir eksiklik oluşur.
+Sonuç olarak alfa bir A T, KOAH'ta iki ayrı yoldan eksik kalabilen tek antiproteazdır. Bu bilgi 2025 2026 sınavının üçüncü sorusunda geçti: hem sigara içiminin neden olduğu hem de bir mutasyon sonucunda eksikliği görülebilen antiproteaz, alfa bir A T idi. İki yol şunlar.
+Birinci yol: kalıtsal, yani miktar eksikliği. On dördüncü kromozomdaki SERPINA bir geninin mutasyonu, özellikle P i Z Z genotipi. Kana yeterli protein çıkmaz. Bunu Bölüm bir nokta yedide görmüştük.
+İkinci yol: edinsel, yani işlev eksikliği. Sigaranın oksidanları, var olan proteini oksitleyerek etkisiz bırakır.
+Bu iki yol aynı hastada birleştiğinde, yani P i Z Z genotipli biri sigara içtiğinde, akciğerde neredeyse hiç işlevsel alfa bir A T kalmaz. Bu yüzden alfa bir A T eksikliği olan içicilerde amfizem otuzlu, kırklı yaşlarda gelişir.
+Peki bu dengesizliği ne büyütür? Kısır döngüler. Birinci döngü: proteazlar antiproteazları yıkar. M M P dokuz ve M M P on iki, alfa bir A T'yi keserek etkisiz bırakır. Nötrofil elastazı da TIMP'i yıkar. Her proteaz sınıfı, diğer sınıfın önleyicisini ortadan kaldırarak onun önünü açar.
+İkinci döngü: yıkım ürünleri inflamasyonu çağırır. Elastinin parçalanmasıyla oluşan küçük peptitler, monositler için kemotaktiktir. Daha çok monosit gelir ve makrofaja dönüşür. Daha çok M M P on iki salınır, daha çok elastin parçalanır.
+Üçüncü döngü: Z polimerleri inflamasyon yapar. Alfa bir A T eksikliğinde akciğerde oluşan Z proteini polimerleri, nötrofilleri kendine çeker. Yani eksik olan protein, yanlış katlanmış hâliyle inflamasyonu bir de artırır.
+Sunumdaki makrofaj ve nötrofil şemalarının ortak sonucu, bu nedenle aynı kelimedir: amfizem.
+Üç nokta on bir: apoptoz, hızlanmış yaşlanma ve bozuk onarım. Proteaz yıkımı, amfizemi tek başına açıklamaz. Alveol duvarı yalnızca elastinden değil, onu oluşturan ve sürdüren hücrelerden de yapılmıştır. KOAH'ta bu hücrelerin ölümü artar, yenilenmesi azalır.
+Bir: apoptoz artar. Nedenleri şunlar: VEGF sinyalinin kaybı, ki bunu üç nokta ikide görmüştük; CD sekiz pozitif T hücrelerinin perforin ve granzim B ile öldürmesi, ki bu da üç nokta beşin konusuydu; ve oksidatif DNA hasarı. Bunlar, alveolün epitel ve endotel hücrelerini apoptoza götürür.
+İki: hücreler erken yaşlanır. KOAH'lı akciğerde telomerleri kısalmış, bölünmesi durmuş, yani senesent hücreler artmıştır. Senesent hücreler ölmez, ama interlökin altı ve interlökin sekiz gibi inflamatuvar mediatörleri salgılamaya devam ederek inflamasyonu sürdürür. Bu yüzden KOAH bazen "hızlanmış akciğer yaşlanması" olarak tanımlanır.
+Üç: onarım bozulur. Amfizemli akciğerden alınan fibroblastlar daha az çoğalır ve onarım sinyallerine daha zayıf yanıt verir. Hasar, onarım kapasitesini aştığı noktada kalıcı hâle gelir.
+
+### k1b3b_03 | Steroid direnci, astımla karşılaştırma ve Soru 1
+Üç nokta on iki: KOAH neden steroide kötü yanıt verir? Astımda inhale kortikosteroid, inflamasyonu belirgin biçimde baskılar. KOAH'ta ise etkisi sınırlıdır. Steroid KOAH'ta alevlenme sıklığını bir miktar azaltır. Ama hava yolu inflamasyonunu astımdaki kadar baskılamaz ve FEV bir kaybının hızını belirgin değiştirmez. Bu farkın moleküler açıklaması, histon deasetilaz iki, yani HDAC iki enzimindedir. Mekanizmayı adım adım izleyelim.
+Birinci adım: inflamatuvar genler nasıl açılır? DNA, hücre çekirdeğinde histon proteinlerinin etrafına sıkıca sarılıdır. Sıkı sarılı DNA okunamaz. NF kappa B gibi inflamatuvar transkripsiyon faktörleri, histonlara asetil grupları ekleyen enzimleri, yani histon asetiltransferazı çağırır. Asetillenen histonun DNA'yı tutuşu gevşer. İnterlökin sekiz ve TNF alfa gibi inflamatuvar genler açılır ve okunur.
+İkinci adım: kortikosteroid bu genleri nasıl kapatır? Steroid, hücre içindeki glukokortikoid reseptörüne bağlanır ve çekirdeğe girer. Reseptör, aktif inflamatuvar genin üzerine HDAC ikiyi getirir. HDAC iki, histonlardaki asetil gruplarını söker. Histon DNA'yı yeniden sıkıca sarar ve inflamatuvar gen kapanır. Yani steroidin baskılayıcı etkisinin önemli bir kısmı HDAC ikiye bağlıdır.
+Üçüncü adım: KOAH'ta ne olur? Sigara dumanının ve inflamatuvar hücrelerin oluşturduğu oksidatif ve nitratif stres, özellikle peroksinitrit, HDAC ikiyi kimyasal olarak bozar ve miktarını azaltır. Sunumdaki makrofaj şemasının sol üst köşesindeki kutu bunu gösterir: "steroid direnci: HDAC aktivitesinde azalma".
+Dördüncü adım, sonuç: steroid reseptörüne bağlansa bile, genleri kapatacak HDAC ikiyi bulamaz. İnflamasyon steroide rağmen sürer.
+Bu mekanizmaya bir ek daha var. KOAH inflamasyonunun baskın hücresi olan nötrofil, steroide doğal olarak duyarsızdır. Steroidler nötrofil apoptozunu bile geciktirir. Astımın baskın hücresi olan eozinofil ise steroidle hızla apoptoza gider. Bu yüzden KOAH'ta inhale steroidden en çok yarar gören hastalar, eozinofilik inflamasyonu olan alt gruptur. Bunu üç nokta altıda görmüştük.
+Sınavdaki şu ifadenin mekanizması da budur: "KOAH tedavisinde kortikosteroid kullanımı, alevlenmelerin sıklığını azaltmada astımdaki kadar yüksek başarı sağlamaz." Bu ifade 2024 sınavının on üçüncü ve 2023 2024 sınavının on beşinci sorusunda geçti. Ayrıntısı Kitap dörtte. Son olarak ilginç bir farmakolojik ayrıntı: düşük doz teofilin, HDAC iki aktivitesini artırarak steroid duyarlılığını kısmen geri kazandırabilir.
+Üç nokta on üç: KOAH ve astım inflamasyonunun karşılaştırması. Sunumun özet tablosu, iki hastalığın inflamasyonunu yan yana koyar. Çok ağır astımın KOAH'a benzemeye başlaması dikkat çekicidir: nötrofiller ve CD sekiz pozitif hücreler ortaya çıkar, küçük hava yolları tutulur ve bronkodilatör yanıt sınırlanır. Ancak steroid yanıtı korunur.
+Tabloyu satır satır okuyalım. Her satırda önce KOAH, sonra astım, sonra çok ağır astım var. Birinci satır, hücreler. KOAH'ta nötrofil iki artı, makrofaj üç artı ve CD sekiz pozitif T hücresi. Astımda eozinofil iki artı, makrofaj bir artı ve CD dört pozitif T hücresi. Çok ağır astımda nötrofil bir artı, makrofaj, CD dört pozitif ve CD sekiz pozitif T hücreleri.
+İkinci satır, temel mediatörler. KOAH'ta interlökin sekiz, TNF alfa, interlökin bir beta ve interlökin altı; N O ise bir artı. Astımda eotaksin, interlökin beş ve interlökin on üç; N O üç artı. Çok ağır astımda interlökin sekiz, interlökin beş ve interlökin on üç; N O iki artı.
+Üçüncü satır, oksidatif stres. KOAH'ta üç artı, astımda bir artı, çok ağır astımda iki artı.
+Dördüncü satır, hastalık bölgesi. KOAH'ta küçük hava yolları, akciğer parankimi ve pulmoner damarlar. Astımda büyük hava yolları. Çok ağır astımda büyük ve küçük hava yolları.
+Beşinci satır, sonuçlar. KOAH'ta skuamöz metaplazi, müköz metaplazi, küçük hava yolu fibrozisi, parankim harabiyeti ve pulmoner vasküler yeniden yapılanma. Astımda frajil epitel, müköz metaplazi, bazal membranda kalınlaşma ve bronkokonstriksiyon. Çok ağır astım için bu satır boş bırakılmış.
+Altıncı satır, tedavi yanıtı. KOAH'ta sınırlı bronkodilatör yanıt ve steroide kötü yanıt. Astımda belirgin bronkodilatör yanıt ve steroide iyi yanıt. Çok ağır astımda sınırlı bronkodilatör yanıt ve steroide iyi yanıt.
+Tablodaki N O satırı klinikte kullanılır. Astımda eozinofilik inflamasyonla birlikte, epitelden N O yapımı belirgin artar. Ekshale havadaki N O ölçümü, yani FeNO, astımda T H iki inflamasyonunun bir göstergesi olarak kullanılır. Ayrıntısı Kitap ikide. KOAH'ta ise FeNO genellikle normaldir. Sigara, FeNO'yu daha da düşürür.
+Şimdi bu bölümden yıllara göre soru sayısına bakalım. Ekrandaki grafikte, 2022 2023 sınavında iki soru var. 2023 2024 ve 2024 sınavlarında bu bölümden hiç soru yok. 2025 2026 sınavında ise dört soru var.
+Grafiğin altyazısı şöyle: patogenez, 2025 2026 sınavında KOAH sorularının yarısını oluşturdu. Bu sorular TGF beta, alfa bir A T, nötrofil ve interlökin sekiz üzerineydi. 2022 2023 sınavındaki iki soru da hücre ve mediatör sorusuydu: hücre sorusunda mast hücresinin KOAH'ın hücresi olmadığı, mediatör sorusunda da interlökin sekiz soruldu. İnterlökin sekiz ise iki ayrı yılda soruldu. Şimdi bu soruları birlikte çözelim.
+Bölüm sonu soruları. Soru bir: 2025 2026 sınavı, ikinci soru.
+KOAH patogenezinde yer alan ve fibrozis gelişiminden sorumlu olan büyüme faktörü hangisidir?
+A: VEGF.
+B: İnterlökin altı.
+C: İnterferon gama.
+D: İnterlökin sekiz.
+E: TGF beta.
+Durdur ve düşün.
+Cevap E, TGF beta. Epitel ve makrofajların salgıladığı latent TGF beta, M M P dokuz ile aktive olur ve küçük hava yollarının duvarındaki fibroblastları kollajen üretmeye yönlendirir. C T G F bu etkiyi büyütür. Sonuç peribronşiyal fibrozis, yani kalıcı küçük hava yolu daralmasıdır.
+A yanlış: VEGF de bir büyüme faktörüdür, ama KOAH'taki rolü fibrozis değildir. Alveol hücrelerinin yaşaması için gereklidir ve KOAH'ta azalması apoptoza ve amfizeme yol açar. B yanlış: interlökin altı inflamatuvar bir sitokindir ve sistemik inflamasyona katılır.
+C yanlış: interferon gama, T H bir ve T c bir hücrelerinin sitokinidir ve makrofajdan C X C L dokuzdan on bire kadar olan kemokinleri salgılatır. Fibrozisi yönetmez. D yanlış: interlökin sekiz bir kemokindir, nötrofilleri çağırır. Ayrıca büyüme faktörü değildir.
+
+### k1b3b_04 | Soru 2-7 ve kapanış
+Soru iki: 2025 2026 sınavı, üçüncü soru.
+KOAH patogenezinde, aşağıdaki antiproteazlardan hangisinin hem sigara içiminin neden olduğu hem bir mutasyon sonucunda eksikliği görülebilmektedir?
+A: Antikemotripsin.
+B: Sekretuvar lökosit proteaz inhibitörü.
+C: Alfa bir antitripsin.
+D: Doku matriks proteinaz inhibitörleri.
+E: Sistatinler.
+Durdur ve düşün.
+Cevap C, alfa bir antitripsin. Alfa bir A T iki yoldan eksik kalır. Kalıtsal yol, on dördüncü kromozomdaki SERPINA bir geninin mutasyonudur, en önemlisi P i Z Z. Edinsel yol, sigaranın oksidanlarının alfa bir A T'nin reaktif merkezindeki metiyonini metiyonin sülfoksite oksitlemesidir. Oksitlenmiş alfa bir A T elastazı yakalayamaz.
+A, yani alfa bir antikemotripsin de bir serpindir ve katepsin G'yi önler, ama KOAH'a yol açan kalıtsal eksikliği tanımlanmış değildir. B, yani S L P I, epitelin salgıladığı antiproteazdır. Oksidanlarla etkisiz hâle gelebilir, ama mutasyona bağlı eksikliği KOAH nedeni olarak bilinmez.
+D, yani TIMP, M M P'leri önler ve nötrofil elastazı tarafından yıkılabilir. E, yani sistatinler, makrofajın sistein proteazlarını, yani katepsin K, L ve S'yi önler. Hem sigarayla hem mutasyonla eksikliği gösterilmiş ve KOAH'a yol açtığı kanıtlanmış tek antiproteaz, alfa bir A T'dir.
+Soru üç: 2025 2026 sınavı, beşinci soru.
+KOAH patogenezinde yer alan temel yangısal hücreler hangileridir?
+A: Eozinofil lökositler.
+B: Bazofil lökositler.
+C: Mast hücreleri.
+D: Lenfositler.
+E: Nötrofil lökositler.
+Durdur ve düşün.
+Cevap E, nötrofil lökositler. KOAH inflamasyonunun ayırt edici hücresi nötrofildir. Balgamda ve hava yolu lümeninde artar ve sayısı hastalığın ağırlığıyla ilişkilidir. Elastaz, katepsin G, proteinaz üç ve M M P'lerle hem amfizemi hem de mukus hipersekresyonunu yapar.
+A, B ve C, astımın ve alerjik inflamasyonun hücreleridir. Eozinofil KOAH'ta yalnızca alevlenmelerde ve bir hasta alt grubunda önem kazanır.
+D tartışmaya açık görünebilir, çünkü CD sekiz pozitif T lenfositler de KOAH'ın temel hücrelerindendir. Ancak şıkta yalnızca "lenfositler" denmiştir. Bu ifade astımdaki CD dört pozitif T H iki hücrelerini de kapsar ve KOAH'a özgü değildir. Sorunun beklediği, KOAH'ı astımdan ayıran klasik cevap olan nötrofildir. Makrofaj ise şıklarda yoktur.
+Soru dört: 2025 2026 sınavı, yedinci soru.
+Aşağıdaki sitokinlerden hangisi KOAH patogenezinde önemli rol oynar?
+A: İnterlökin on üç.
+B: İnterlökin dokuz.
+C: İnterlökin sekiz.
+D: İnterlökin beş.
+E: İnterlökin dört.
+Durdur ve düşün.
+Cevap C, interlökin sekiz. İnterlökin sekiz, yani C X C L sekiz, makrofaj, epitel ve nötrofillerin kendisinden salınır. Nötrofilleri C X C R bir ve C X C R iki üzerinden akciğere çeken en güçlü kemoatraktandır. KOAH'lı hastanın balgamında interlökin sekiz yüksektir ve nötrofil sayısıyla ilişkilidir.
+Diğer dört şıkkın hepsi T H iki sitokinidir, yani alerji ve astım sitokinleri. A: interlökin on üç, hava yolu aşırı duyarlılığına, mukus metaplazisine ve IgE sentezine katkıda bulunur. B: interlökin dokuz, mast hücresi çoğalmasını uyarır.
+D: interlökin beş, eozinofillerin olgunlaşması, çağrılması ve yaşaması için gereklidir. Mepolizumab ve reslizumabın hedefidir. E: interlökin dört, B hücresinde IgE sentezine geçişi sağlar ve T H iki farklılaşmasını yönlendirir. Dupilumabın hedefi olan reseptörü kullanır.
+Soru beş: 2022 2023 sınavı, yirmi dokuzuncu soru.
+KOAH patogenezinde yer almayan hücreler hangileridir?
+A: CD sekiz lenfositler.
+B: Mast hücreleri.
+C: Nötrofil lökositler.
+D: Endotel hücreleri.
+E: Makrofajlar.
+Durdur ve düşün.
+Cevap B, mast hücreleri. Mast hücresi, IgE'ye bağlanan alerjenle degranüle olan ve astımın erken faz yanıtını başlatan hücredir. KOAH'ın temel hücreleri arasında yer almaz.
+A, C ve E, KOAH'ın üç temel hücresidir. CD sekiz pozitif T hücreleri, perforin ve granzim B ile alveol hücrelerini öldürür. Nötrofiller proteaz yükünü taşır. Makrofajlar ise kemokinlerle diğer hücreleri çağırır ve M M P dokuz ile M M P on iki salgılar.
+D çeldiricidir. Endotel hücreleri KOAH'ta hem hedeftir, hem de pulmoner damar yeniden yapılanmasının katılımcısıdır. Hedef olmaları, VEGF kaybına bağlı apoptoz ve kılcal yatağın yıkımı demektir.
+Soru altı: 2022 2023 sınavı, otuz birinci soru.
+Makrofaj, nötrofil ve hava yolu epitel hücrelerinden salınan ve nötrofiller için kemoatraktan olan KOAH patogenezinin en önemli yangısal mediatörü hangisidir?
+A: M M P sekiz.
+B: VEGF.
+C: İnterlökin on üç.
+D: İnterlökin sekiz.
+E: TGF beta bir.
+Durdur ve düşün.
+Cevap D, interlökin sekiz. Soru, interlökin sekizin üç kaynağını, yani makrofaj, nötrofil ve epiteli, ve işlevini, yani nötrofil kemoatraktanı olmasını birlikte verir. İnterlökin sekiz nötrofil göçünü kendi kendine büyütür: gelen nötrofil de interlökin sekiz salgılar.
+A: M M P sekiz nötrofil kollajenazıdır. Bir proteazdır, kemoatraktan değildir. B: VEGF alveol hücresinin yaşam sinyalidir ve KOAH'ta azalır. C: interlökin on üç, astımın T H iki sitokinidir. E: TGF beta bir fibrozisi yönetir. Nötrofil çağırmak onun işlevi değildir.
+Son olarak bir pekiştirme sorusu. Bu soru yeni, konuyu pekiştirmek için hazırlandı.
+KOAH'ta inhale kortikosteroidlerin inflamasyonu astımdaki kadar baskılayamamasının moleküler nedeni aşağıdakilerden hangisidir?
+A: Glukokortikoid reseptör sayısının artması.
+B: Oksidatif ve nitratif stres nedeniyle histon deasetilaz iki, yani HDAC iki aktivitesinin azalması.
+C: Eozinofillerin steroidle hızla apoptoza gitmesi.
+D: NF kappa B aktivitesinin azalması.
+E: Alfa bir antitripsin düzeyinin artması.
+Durdur ve düşün.
+Cevap B. Steroid reseptör kompleksi, aktif inflamatuvar genlerin üzerine HDAC ikiyi getirerek histonların asetil gruplarını söktürür ve bu genleri kapatır. KOAH'ta peroksinitrit gibi oksidan ve nitratif türler HDAC ikiyi bozar ve azaltır. Steroid reseptörüne bağlansa da genleri kapatamaz.
+A yanlış: reseptör sayısının artması direnç değil, duyarlılık artışı beklenen bir değişiklik olurdu. C yanlış: eozinofillerin steroidle hızla ölmesi, astımda steroidin neden iyi çalıştığını açıklar. KOAH'ın baskın hücresi nötrofil ise steroide duyarsızdır.
+D yanlış: KOAH'ta NF kappa B aktivitesi oksidanlarla artmıştır. E yanlış: alfa bir A T düzeyinin steroid yanıtıyla ilgisi yoktur. Üstelik KOAH'ta alfa bir A T artmaz, işlevi azalır.
+Bölüm üçün sonuna geldik. Bir sonraki bölümde KOAH'ın klinik tablosunu, tanısını, değerlendirmesini ve tedavi ilkelerini konuşacağız.

@@ -1,0 +1,103 @@
+### k4b6_01 | Giriş, KOAH ile astımın farkı, bronkodilatörler ve inhale steroid
+Antiastmatik İlaçlar ve KOAH Farmakoterapisi. Bölüm altı, uygulama: KOAH Farmakoterapisi, Ağır Astım Atağı ve Özet.
+Önceki bölümlerdeki ilaçların hepsi KOAH'ta da kullanılır. Ama aynı ilaçlar iki hastalıkta farklı sıralarla ve farklı beklentilerle verilir. Astımda tedavinin merkezi, inflamasyonu baskılayan inhale steroiddir. KOAH'ta ise merkez uzun etkili bronkodilatörlerdir ve steroidin yeri sınırlıdır. Peki bu fark nereden geliyor? İki hastalığın inflamasyonu farklıdır.
+Bu bölümde KOAH'ın ilaç tedavisini ve ağır astım atağının yönetimini konuşacağız. Sonunda da kitabın bütün ilaçlarını iki özet tabloda toplayacağız. Hastalığın evrelemesi Kitap bir, Bölüm dörtte, astım atağının klinik değerlendirmesi ise Kitap iki, Bölüm üç nokta yedide anlatılmıştı.
+Altı nokta bir: KOAH astımdan neden farklı tedavi edilir? Sunum, Goodman ve Gilman'dan aktararak KOAH'ı astımla şöyle karşılaştırır. KOAH daha yaşlı hastalarda görülür. İnflamasyon eozinofilik değil, daha çok nötrofiliktir. Makrofajlar, CD sekiz pozitif olan sitotoksik T lenfositler ve T H on yedi hücreleri etkindir.
+Sonuç ne olur? Kronik obstrüktif bronşiyolit, fibrozis, ilerleyici hava yolu daralması ve amfizemle akciğer parankiminin yıkımı. Bu yüzden yüksek doz inhale steroide yanıt zayıftır. Sigara içimi sürdükçe ilerleyici ve zamanla değiştirilemeyen bir akciğer fonksiyonu kaybı olur. Ve tedaviden beklenen yarar, astımdakinden azdır.
+Bu farkların ilaç tedavisine yansıması, mekanizmalarıyla birlikte okunabilir. Ekrandaki tabloda astımı ve KOAH'ı yan yana görüyorsun.
+Birincisi, inflamasyon. Astımda eozinofil, mast hücresi ve T H iki, yani tip iki inflamasyon var. KOAH'ta ise nötrofil, makrofaj, CD sekiz pozitif T lenfosit ve T H on yedi.
+İkincisi, steroide yanıt. Astımda çok iyidir; steroid tedavinin temelidir. KOAH'ta zayıftır. Çünkü oksidatif stres HDAC ikiyi azaltır; bunu Bölüm dört nokta birde görmüştük. Ayrıca nötrofilik inflamasyon steroide dirençlidir.
+Üçüncüsü, daralmanın geri dönüşümü. Astımda daralma büyük ölçüde geri döner. KOAH'ta ise kısmen döner ve geri dönen kısmın çoğu vagal tonustan kaynaklanır.
+Dördüncüsü, temel ilaç. Astımda temel ilaç inhale steroiddir; LABA ile birlikte ya da LABA olmadan. KOAH'ta ise uzun etkili bronkodilatördür, yani LAMA ve LABA.
+Beşincisi, tek başına LABA. Astımda kullanılmaz, çünkü inflamasyonu gizler; bu Bölüm iki nokta üçün konusuydu. KOAH'ta ise kullanılabilir.
+Altıncısı, lökotrien antagonistleri ve kromolin. Astımda profilakside yerleri var. KOAH'ta yerleri yok.
+Yedincisi, bakteriyel enfeksiyon. Astımda atakların çoğu viraldir. KOAH'ta ise alt hava yolunda bakteriyel inflamasyon daha sıktır.
+Bir noktanın altını çizelim. KOAH'ta akciğer fonksiyonundaki yıllık kaybı yavaşlattığı kanıtlanmış tek girişim, sigarayı bırakmaktır. İlaçlar semptomları, egzersiz kapasitesini, yaşam kalitesini ve alevlenme sıklığını düzeltir. Ama sigara sürdükçe hastalığın ilerleyişini durdurmaz.
+Altı nokta iki: KOAH'ta bronkodilatör tedavi. Sunumdaki basamaklar şunlar.
+Birincisi, akut semptomların hafifletilmesi. Burada kısa etkili beta agonist, yani salbutamol, ve kısa etkili antikolinerjik, yani ipratropium bromür kullanılır; tek tek ya da birlikte. İkisi kasılmayı iki ayrı yoldan çözdüğü için birlikte daha etkilidir. Çoğu zaman da aynı inhalerde birleştirilir.
+İkincisi, inatçı semptomları olan hastalar. Bu hastalarda uzun etkili beta agonist, yani salmeterol, ya da uzun etkili antikolinerjik, yani tiotropium kullanılır.
+Üçüncüsü: ultra uzun etkili indakaterol günde bir kez alınır. Bu bilgi 2025 2026 sınavının yirmi beşinci sorusunda geçti: KOAH'ta günde tek doz inhalasyonla kullanılan uzun etkili beta iki sempatomimetik, indakaterol. Etkisi yirmi dört saat sürer ve birkaç dakika içinde başlar. Olodaterol ve vilanterol de bu gruptandır.
+Dördüncüsü: idame tedavide esas olan, uzun etkili bronkodilatörün düzenli kullanımıdır.
+Peki KOAH'ta antimuskarinikler neden bu kadar öne çıkar? Bölüm üç nokta birde gördüğümüz gibi, KOAH'ta hava yolu daralmasının ilaçla geri döndürülebilen kısmının büyük bölümü, artmış kolinerjik tonustur. Uzun etkili antimuskarinik bu tonusu yirmi dört saat boyunca kaldırır.
+Büyük çalışmalarda alevlenmeleri LABA'dan biraz daha fazla azaltmıştır. Kalp hastalığı olan yaşlı KOAH hastasında aritmi riskini artırmaması da ayrı bir üstünlüktür; bunu Bölüm üç nokta üçte görmüştük. Güncel GOLD önerilerinde ise semptomu belirgin hastalarda LAMA ve LABA aynı inhalerde birlikte başlanır. Bu konu Kitap bir, Bölüm dört nokta onda anlatılıyor.
+Altı nokta üç: inhale kortikosteroidin KOAH'taki yeri. Sunuma göre ciddi hava yolu tıkanıklığı ya da önceden alevlenme hikâyesi olan hastalarda, flutikazon gibi inhale kortikosteroidlerin düzenli kullanımı, gelecekteki alevlenmelerin sıklığını azaltır. 2023 2024 sınavının on beşinci sorusunda bu, doğru ifade olarak geçti: inhale kortikosteroidler alevlenme sıklığını azaltır.
+Ancak bu yarar, astımdakinin çok gerisindedir. KOAH'ta kortikosteroid kullanımı, alevlenmelerin sıklığını azaltmada astımdaki kadar yüksek başarı sağlamaz. Bu da 2024 sınavının on üçüncü sorusuydu. Şıklarda "KOAH'ta inhaler kortikosteroid yanıtı astımdan daha güçlüdür" ifadesini görürsen, bu yanlıştır. Bu çeldirici 2023 2024 sınavının on beşinci sorusunda geçti.
+Steroidin KOAH'ta neden zayıf kaldığı, Bölüm dört nokta birdeki mekanizmadan çıkar. Steroid inflamatuvar genleri HDAC iki aracılığıyla susturur. Sigara dumanındaki oksidanlar ise HDAC ikiyi azaltır. Ayrıca KOAH'ın nötrofilik inflamasyonu, steroidin en güçlü etkilerini yaptığı eozinofil ve T H iki ekseninden farklıdır. Steroid eozinofilleri apoptoza götürür, ama nötrofillerin ömrünü tersine uzatabilir.
+Şimdi bir kutuya dikkat: sunum ile güncel bilgi arasındaki fark. Güncel GOLD raporları inhale steroidi KOAH'ta tek başına önermez. LABA ile ikili kombinasyonunu da artık önermez. İnhale steroid ise LAMA ve LABA'ya üçüncü ilaç olarak eklenir. Kimlere? Alevlenme öyküsü olan ve kan eozinofil sayısı yüksek, yani mikrolitrede üç yüz ya da daha fazla olan hastalara.
+Eozinofil sayısı mikrolitrede yüzün altındaysa yararı yoktur. Üstelik KOAH'ta inhale steroid pnömoni riskini artırır. Bu yüzden yararının beklenmediği hastada kullanılmamalıdır.
+
+### k4b6_02 | Teofilin, antibiyotikler, ağır astım atağı ve özet tablosu bir
+Altı nokta dört: teofilin, antibiyotikler ve diğer ilaçlar. Sunuma göre teofilinin KOAH tedavisinde kısmi bir yeri vardır. Diyaframın kasılma fonksiyonunu iyileştirebildiği için ventilasyon kapasitesini de iyileştirir. Dar terapötik indeksi ve etkileşimleri nedeniyle, diğer ilaçlara rağmen semptomu süren hastalarda ek ilaç olarak düşünülür. Bu ayrıntılar Bölüm üç nokta dört ile üç nokta altı arasında anlatılmıştı.
+Sunuma göre KOAH'ta alt hava yollarının bakteriyel inflamasyonu astımdan daha sıktır. Bu yüzden bakteriyel enfeksiyon bulguları taşıyan akut alevlenmenin tedavisinde antibiyotik gereklidir. 2023 2024 sınavının on beşinci sorusunda "bakteriyel enfeksiyonlar daha sıktır" ifadesi doğru olarak geçti.
+Bakteriyel enfeksiyonun en güvenilir işareti, balgamın pürülanlaşmasıdır. Mukus fazlalığı ve bozulmuş silya işlevi, KOAH hastasının hava yolunda bakterilerin yerleşmesini kolaylaştırır. Bu konu Kitap birde anlatılıyor.
+Sunumda yer almayan iki ilaç daha, sık alevlenen hastalarda kullanılır. Birincisi, seçici fosfodiesteraz dört inhibitörü roflumilast. Kronik bronşit fenotipinde, oral yoldan kullanılır. Teofilinin PDE dört üzerinden yaptığı antiinflamatuvar etkinin seçici biçimidir. İkincisi, antiinflamatuvar etkisi nedeniyle uzun süreli, düşük doz azitromisin.
+KOAH alevlenmesinde sistemik steroid de beş günlük kısa bir kür olarak verilir. Oksijen ise hiperkapnik hastada, hedef satürasyon yüzde seksen sekiz ile doksan iki olacak şekilde kontrollü verilir. Bu konu da Kitap beşte anlatılıyor.
+Altı nokta beş: şiddetli akut astım atağı, yani status astmatikus. Sunum, Türk Toraks Derneği astım rehberine dayanarak şiddetli atağın ilaç tedavisini şöyle özetler. Her basamağın nedeni, önceki bölümlerdeki mekanizmalardır.
+Bir: oksijen. Ağır atakta daralmış hava yolları, ventilasyon perfüzyon uyumsuzluğu ve hipoksemi yapar. Ayrıca beta iki agonistlerin pulmoner damarları genişletmesi, hipoksemiyi geçici olarak artırabilir; bu Bölüm iki nokta beşin konusuydu. Oksijen, satürasyon yüzde doksan üç ile doksan beş olacak şekilde verilir.
+İki: nebülizatörle salbutamol inhalasyonu. En hızlı bronkodilatördür. İlk saatte tekrarlanan dozlarla ya da sürekli nebülizasyonla verilir.
+Üç: prednizon ya da prednizolonla sistemik tedavi. Etkisi saatler içinde başlar. Atağın inflamatuvar bileşenini söndürür ve erken tekrarını önler. Bunu Bölüm dört nokta üçte görmüştük.
+Dört: bunlara ilaveten ipratropium, damar içi salbutamol ya da aminofilin gerekebilir. İpratropium, salbutamolün etkisini ikinci bir yoldan artırır; bunu Bölüm üç nokta ikide anlatmıştık.
+Damar içi salbutamol ne zaman kullanılır? Hava yolu o kadar daralmıştır ki inhale ilaç ulaşamaz; işte bu durumlarda. Aminofilin ise damar içi infüzyonla verilir, ama dar terapötik indeksi nedeniyle serum düzeyi izlenir. Bu da Bölüm üç nokta beşin konusuydu.
+Güncel rehberler, yanıt alınamayan ağır atakta bunlara damar içi magnezyum sülfatı da ekler. Magnezyum, düz kas hücresine kalsiyum girişini azaltarak bronkodilatasyon yapar.
+Atakta işe yaramayan ilaçları da bilmelisin. Kromolin, lökotrien antagonistleri ve monoklonal antikorlar profilaktiktir ve atakta etkisizdir. Sedatifler ise solunumu baskılayacağı için kontrendikedir.
+Altı nokta altı: kitabın özeti, yani bütün ilaçlar. Ekrandaki iki tablo, sınavda sorulan bütün ilaçları mekanizması, kullanım yolu ve en çok sorulan özelliğiyle birlikte veriyor. Son sütun, o ilaçla ilgili en sık kullanılan çeldiricinin doğru biçimi. Önce birinci tablo, yani bronkodilatörler.
+Adrenalin. Mekanizması: alfa, beta bir ve beta iki agonisti. Yolu: deri altı ve inhalasyon. Sınavda en çok sorulan: alfa etkisiyle mukoza ödemini azaltır. Bir de katekolamindir.
+İzoproterenol ve metaproterenol. Mekanizması: beta bir ve beta iki agonisti; alfa etkisi yok. Yolu: inhalasyon. Sınavda en çok sorulan: MAO ve COMT ile yıkılır, oral kullanılmaz.
+Efedrin. Mekanizması: alfa ve beta, hem dolaylı hem doğrudan. Yolu: oral. Sınavda en çok sorulan: MAO ve COMT'ye dayanıklıdır ve santral etkilidir.
+Salbutamol, diğer adıyla albuterol, levalbuterol ve terbutalin. Mekanizması: selektif beta iki agonisti, kısa etkili. Yolu: inhalasyon; ayrıca tablet ve damar içi. Sınavda en çok sorulan: katekolamin değildir, COMT yıkmaz. Atakta ilk ilaçtır. Tremor, hipokalemi, taşikardi ve hiperglisemi.
+Salmeterol, formoterol ve arformoterol. Mekanizması: selektif beta iki agonisti, etkisi on iki saat ya da daha uzun. Yolu: inhalasyon. Sınavda en çok sorulan: lipofilik bir zincirleri vardır. Profilakside, steroidle birlikte kullanılırlar. Salmeterolün etkisi yavaş başlar.
+İndakaterol. Mekanizması: selektif beta iki agonisti, etkisi yirmi dört saat. Yolu: inhalasyon. Sınavda en çok sorulan: KOAH'ta, günde bir kez.
+İpratropium bromür. Mekanizması: M bir, M iki ve M üç reseptör antagonisti, kısa etkili. Yolu: inhalasyon. Sınavda en çok sorulan: etkisi dört ile sekiz saat sürer. Ağır atakta salbutamole eklenir. Dördüncül amindir.
+Tiotropium. Mekanizması: M üç ve M bir reseptörlerinden yavaş ayrılır. Yolu: inhalasyon. Sınavda en çok sorulan: etkisi yirmi dört saat ya da daha uzun sürer ve KOAH'ta kullanılır. Ağız kuruluğu yapar. Aritmi riski en azdır.
+Teofilin ve aminofilin. Mekanizması: fosfodiesteraz inhibisyonu ve adenozin blokajı. Yolu: oral ve damar içi. Sınavda en çok sorulan: inhaler formu yoktur. Dar terapötik indeks, CYP bir A iki ve pozitif kronotrop etki. Bir de diyafram kontraktilitesini artırır.
+
+### k4b6_03 | Özet tablosu iki, soru sayıları ve bölüm sonu soruları
+Şimdi ikinci tablo, antiinflamatuvarlar. Beklometazon, budesonid, flutikazon, triamsinolon ve flunisolid. Mekanizması: GR üzerinden gen ifadesi; fosfolipaz A iki azalır, sitokinler azalır, beta iki reseptörleri artar. Yolu: aerosol. Sınavda en çok sorulan: sistemik yan etkisi azdır. Kandidiyazis yapar, önlemi gargaradır. Ses kısıklığı yapar. Direkt bronkodilatör değildir.
+Prednizon, prednizolon, metilprednizolon ve hidrokortizon. Mekanizması aynı. Yolu: oral ve damar içi. Sınavda en çok sorulan: ağır atakta kullanılır. Bir ile iki haftada azaltarak kesilir; on güne kadar olan kullanımda buna gerek yoktur. Sabah alınır.
+Kromolin ve nedokromil. Mekanizması: mast hücre stabilizasyonu, yani kalsiyum ve klor kanalları. Yolu: inhalasyon. Sınavda en çok sorulan: bronkodilatör değildir, profilaktiktir. Çocukta ve gebede güvenlidir.
+Zileuton. Mekanizması: beş lipoksijenaz inhibisyonu. Yolu: oral. Sınavda en çok sorulan: karaciğer toksisitesi yapar ve en az reçete edilen ilaçtır.
+Montelukast ve zafirlukast. Mekanizması: Cys L T bir antagonisti. Yolu: oral. Sınavda en çok sorulan: en sık kullanılan montelukasttır. Aspirine duyarlı astımda ve egzersiz astımında kullanılır. Atakta ve KOAH'ta yeri yoktur. Altı aydan itibaren kullanılabilir.
+Omalizumab. Mekanizması: anti IgE. Yolu: deri altı. Sınavda en çok sorulan: IgE'nin mast hücresine bağlanmasını engeller.
+Mepolizumab ve reslizumab. Mekanizması: anti interlökin beş. Yolu: mepolizumab deri altı, reslizumab damar içi. Sınavda en çok sorulan: hipereozinofilik persistan astım.
+Benralizumab. Mekanizması: anti interlökin beş reseptörü. Yolu: deri altı. Sınavda en çok sorulan: reseptörü bloke eder, aktive etmez.
+Dupilumab. Mekanizması: anti interlökin dört reseptör alfa. Yolu: deri altı. Sınavda en çok sorulan: eozinofilik astım, nazal polip ve atopik dermatit.
+Bu bölümden yıllara göre soru sayısına bakalım. Ekrandaki grafikte 2022 2023 sınavında sıfır, 2023 2024 sınavında bir, 2024 sınavında bir ve 2025 2026 sınavında bir soru görüyorsun.
+KOAH farmakoterapisi soruları toplam üç. İnhale steroidin KOAH'taki sınırlı yeri iki kez soruldu, günde bir kez kullanılan indakaterol de bir kez. 2022 2023 ortak sınavında bu konudan soru yoktu. Şimdi bu soruları birlikte çözelim.
+Bölüm sonu soruları. Soru bir: 2025 2026 sınavı, yirmi beşinci soru.
+Altmış yaşında erkek hasta, kronik öksürük, balgam ve eforla artan nefes darlığı şikâyetleriyle başvuruyor. Solunum fonksiyon testlerinde geri dönüşümsüz hava akımı kısıtlanması saptanıyor ve orta ileri evre KOAH tanısı konuyor. Hekim, günde tek doz inhalasyonla kullanılan, uzun etkili bir beta iki sempatomimetik bronkodilatör başlamayı planlıyor. Bu hastaya aşağıdaki ilaçlardan hangisi başlanmalıdır?
+A: Salbutamol.
+B: İpratropium.
+C: Zafirlukast.
+D: İndakaterol.
+E: Beklometazon.
+Durdur ve düşün.
+Doğru cevap D. İndakaterol, etkisi yirmi dört saat süren ultra uzun etkili bir beta iki agonisttir ve KOAH'ın idame tedavisinde günde bir kez kullanılır. İsmindeki aterol eki bu grubu gösterir; bunu Bölüm iki nokta üçte görmüştük.
+A yanlış: salbutamol kısa etkilidir ve semptom gidermek için kullanılır. B yanlış: ipratropium bir beta iki agonisti değil, kısa etkili bir antimuskariniktir. C yanlış: zafirlukast lökotrien reseptör antagonistidir ve KOAH'ta yeri yoktur. E yanlış: beklometazon inhale kortikosteroiddir, bronkodilatör değildir.
+Soru iki: 2023 2024 sınavı, on beşinci soru.
+KOAH tedavisindeki ilaçlar için hangisi yanlıştır?
+A: Akut semptomlarda salbutamol ya da ipratropium kullanılır.
+B: İnhale kortikosteroidler alevlenme sıklığını azaltır.
+C: Bakteriyel enfeksiyonlar daha sıktır.
+D: KOAH'ta inhaler kortikosteroid yanıtı astımdan daha güçlüdür.
+E: İnatçı semptomlarda salmeterol ya da tiotropium tercih edilir.
+Durdur ve düşün.
+Doğru cevap D; yanlış olan ifade bu. KOAH'ta inhale steroide yanıt astımdakinden zayıftır. Nötrofilik inflamasyon steroide dirençlidir. Oksidatif stres de steroidin inflamatuvar genleri susturmak için ihtiyaç duyduğu HDAC ikiyi azaltır.
+A, B, C ve E, sunumdaki KOAH tedavisi basamaklarıdır. Akut semptomda kısa etkili beta agonist ve antikolinerjik, tek tek ya da birlikte. Ciddi tıkanıklıkta ya da alevlenme öyküsünde inhale steroid. Bakteriyel enfeksiyon bulgusu olan alevlenmede antibiyotik. İnatçı semptomda da uzun etkili beta agonist ya da antikolinerjik.
+Soru üç: 2024 sınavı, on üçüncü soru.
+Astım ve KOAH tedavisinde kullanılan ilaçlar için hangisi doğrudur?
+Bu sorunun şıkları kaynakta kayıtlı değil.
+Durdur ve düşün.
+Kaynaktaki cevap şöyle: KOAH tedavisinde kortikosteroid kullanımı, oluşabilecek alevlenmelerin sıklığını azaltmada astımdaki kadar yüksek başarı sağlamaz.
+Yani KOAH'ta kortikosteroid alevlenmeleri azaltır, ama astımdaki kadar başarılı değildir. Bu, bir önceki sorunun D şıkkının doğru biçimidir: bir yıl yanlış ifade, ertesi yıl doğru ifade olarak soruldu.
+Bu tür sorularda karşılaştırmanın yönüne dikkat etmelisin. Steroidin etkinliği, lökotrien antagonistlerinin yeri ve teofilinin kısmi rolü sorulduğunda cevap hep aynı yöndedir: antiinflamatuvar ilaçların yararı astımda KOAH'takinden fazladır. Antimuskariniklerin yararı ise KOAH'ta en az astımdaki kadardır.
+Son olarak, konuyu pekiştirmek için hazırlanmış yeni bir soru.
+Status astmatikus ile acil servise getirilen hastanın tedavisinde aşağıdakilerden hangisinin yeri yoktur?
+A: Oksijen.
+B: Nebülizatörle salbutamol.
+C: Sistemik prednizolon.
+D: Nebülizatörle ipratropium.
+E: İnhale kromolin.
+Durdur ve düşün.
+Doğru cevap E. Kromolin mast hücresini stabilize eder ve yeni mediatör salınımını önler. Ama salınmış mediatörlerin yaptığı bronkospazmı çözemez; bronkodilatör değildir. Yalnızca profilakside kullanılır.
+A, B, C ve D, sunumdaki şiddetli atak tedavisinin parçalarıdır. Oksijen hipoksemiyi düzeltir. Salbutamol en hızlı bronkodilatördür. Sistemik steroid inflamasyonu söndürür. İpratropium da salbutamolün etkisini ikinci bir yoldan artırır.
+Bölüm altının sonuna geldik. Bu bölümle birlikte Antiastmatik İlaçlar ve KOAH Farmakoterapisi kitabı da burada bitiyor.

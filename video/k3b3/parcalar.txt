@@ -1,0 +1,108 @@
+### k3b3_01 | Giriş, tanım, ekstrinsik ve intrinsik astım, patogenez
+Obstrüktif Akciğer Hastalıklarının Patolojisi. Bölüm üç: Astımın Patolojisi.
+Kitap iki, astımın klinik yüzünü ve immünolojik patogenezini anlattı. Bu bölüm ise patoloğun gözüyle bakıyor: ekstrinsik ve intrinsik astımın ayrımına, hava yolu duvarında görülen değişikliklere ve balgamda ya da bronş lavajında astımı düşündüren üç bulguya. Bu üç bulgu Kurşman spiralleri, Kreola cisimcikleri ve Şarko Leyden kristalleri.
+Sınavda bu bölümden her yıl bir ile dört soru geldi.
+İlk başlık: tanım ve sıklık. Sunum astımı patolojik açıdan şöyle tanımlar: nöbetler hâlinde gelen, çeşitli uyaranlara karşı aşırı bronkokonstriktör bir yanıt oluşumuyla karakterli, geri dönüşümlü bronş kasılması. Trakeobronşiyal ağacın irritanlara aşırı hassasiyeti vardır.
+Bu hassasiyet alerjik ve alerjik olmayan uyaranlara bağlı olabilir. Çörg Ştraus sendromu, yani eozinofilik granülomatöz polianjiit gibi başka durumlara bağlı da oluşabilir.
+Sunuma göre astım erişkinlerin yaklaşık yüzde beşinde, çocukların yüzde yedi ile onunda görülür. Klinik belirtileri dispne, öksürük ve hırıltıdır, yani wheezing. Bronş hiperreaktivitesinin nedeni persistan enfeksiyonlar da olabilir.
+Şimdi ekstrinsik ve intrinsik astıma geçelim. Patolojide astım klasik olarak iki gruba ayrılır.
+Birincisi, ekstrinsik astım. Bir antijenle temas sonucu tip bir aşırı duyarlılık reaksiyonu başlar. Aile öyküsü vardır. Serumda IgE düzeyi yüksektir ve kanda eozinofili vardır. Atopik, yani alerjik astım bu grubun prototipidir.
+İkincisi, intrinsik astım. Burada aspirin, pulmoner enfeksiyonlar, özellikle de viral olanlar, soğuk, psikolojik stres, egzersiz ve kükürt dioksit gibi irritan bir gaz bronkospazmı tetikler. Hem de normal kişilerde zararsız olacak şekilde. İmmünolojik bir duyarlanma gösterilemez. Aile öyküsü genellikle yoktur, IgE normaldir ve deri testleri negatiftir.
+Sunumun vurguladığı önemli bir ayrıntı var: iki durumda da trakeobronşiyal hiperreaktivite bulunduğu için, çoğu hastada bu ayrım pratikte imkânsızdır. Sunumdaki tablo bu sınıflamayı, tetikleyici ve mekanizmayla birlikte verir.
+Önce ekstrinsik astım tipleri. Birincisi atopik, yani alerjik astım. Presipite eden faktör spesifik alerjenlerdir. Mekanizması tip bir immün reaksiyon, yani IgE.
+İkincisi mesleksel astım. Presipite eden faktör kimyasal ajanlardır. Mekanizması tip bir immün reaksiyon.
+Üçüncüsü alerjik bronkopulmoner aspergilloz. Presipite eden faktör bir antijen, yani mantar sporlarıdır. Mekanizması tip bir ve tip üç immün reaksiyon.
+Şimdi intrinsik astım tipleri. Birincisi nonreajenik astım. Presipite eden faktör solunum yolu enfeksiyonlarıdır. Mekanizması, nedeni bilinmeyen hiperreaktif hava yolları.
+İkincisi farmakolojik astım. Presipite eden faktör aspirindir. Mekanizması azalmış prostaglandinler ve artmış lökotrienler.
+Tablonun altındaki not iki kez sınav sorusu oldu: bütün tipler soğuk, stres ve egzersiz ile presipite edilebilir ve hepsinde hiperreaktif hava yolları vardır.
+Tablodan çıkan en önemli sonuç ise şu: solunum yolu enfeksiyonları intrinsik, yani nonreajenik astımın tetikleyicisidir. Ekstrinsik astımın ana sebebi değildir. Bu bilgi 2025 2026 sınavının kırk dördüncü, 2023 2024 sınavının kırk sekizinci ve 2022 2023 sınavının elli dokuzuncu sorusunda soruldu.
+Sırada ekstrinsik astımın patogenezi var: erken ve geç etki. Sunum ekstrinsik astımın patogenezini iki zaman diliminde anlatır. Ayrıntısı Kitap ikide, Bölüm bir nokta altıda.
+Birincisi, erken etki, yani ilk otuz ile altmış dakika. Alerjenle temasın ardından, CD dört pozitif T yardımcı iki hücreleri aracılığıyla tip bir aşırı duyarlılık başlar. IgE, mast hücreleri ve eozinofiller anahtar rol oynar.
+Mast hücrelerinin aktivasyonu, çeşitli primer ve sekonder mediatörlerin salınımıyla sonuçlanır. Primer mediatörler hazırdır ve granül içindedir: histamin ve triptaz. Sekonder mediatörler ise yeni sentezlenir: lökotrienler ve prostaglandin D iki. Mediatörlerin toplam etkisi bronkokonstriksiyon, ödem ve mukus sekresyonunun artmasıdır.
+İkincisi, geç etki, yani dört ile sekiz saat. Yine mast hücrelerinden salınan TNF alfa gibi sitokinler, nötrofillerin, eozinofillerin ve bazofillerin toplanmasını sağlar. Gelen hücrelerin salgıladığı ek mediatörler başlangıç etkilerini artırır ve epitel zedelenmesine yol açar.
+Ekstrinsik astımla ilgili sınav sorusunun doğru şıkları tam olarak bu cümlelerden alındı. İlk otuz ile altmış dakikada CD dört pozitif T lenfositler, IgE, mast hücreleri ve eozinofillerin rol oynadığı tip bir aşırı duyarlılık. Mast hücresi mediatörlerinin bronkokonstriksiyon ve ödem yapması. Dört ile sekiz saat içinde gelişen geç etkiler. Ve soğuk, stres ve egzersizle presipite olabilmesi.
+Şimdi intrinsik astımın patogenezine bakalım. Sunuma göre intrinsik astımda bronşiyal enfeksiyonun ve aşırı cevabın mekanizması açık değildir. Tetikleyiciler, solunum yollarının viral enfeksiyonları ve kükürt dioksit, ozon ve azot dioksitle kirlenmiş havanın solunmasıdır.
+Bu ajanlar hem normal hem de astımlı kişilerde hava yolunun aşırı cevabına neden olur. Ama astımlılarda bronşiyal cevap çok daha şiddetli ve uzun sürelidir.
+Peki bu fark nereden geliyor? Bugünkü bilgiyle açıklaması kronik inflamasyondur. Viral enfeksiyon hava yolu epitelini hasarlar. Epitelden alarm molekülleri salınır: T S L P, interlökin otuz üç ve interlökin yirmi beş. Ve antijen tanımadan eozinofilik inflamasyon başlatan doğal lenfoid hücreler uyarılır. Bu konu Kitap ikide, Bölüm bir nokta sekizde anlatılıyor.
+Sürekli inflamasyon, epitel altındaki vagal duyusal reseptörlerin eşiğini düşürür. Hava yolu, irritanlara karşı aşırı duyarlı hâle gelir.
+Sınavdaki olgu bunun klinik karşılığıdır. Kırk beş yaşında bir erkek hasta düşün: kış aylarında viral enfeksiyonları takiben öksürük ve dispne atakları geçiriyor, ataklar arasında normal ve atopi öyküsü yok. Bu hastada sorumlu patoloji, kronik inflamasyonun sebep olduğu bronşiyal hipersensitivitedir. Bu, 2025 2026 sınavının kırk üçüncü sorusu.
+
+### k3b3_02 | Histoloji, sitoloji, mukoid tıkaçlar ve ABPA
+Sırada makroskopik ve histolojik bulgular var. Önce makroskopi. Ölümcül astım atağında akciğerlerde aşırı hava vardır, yani distansiyon. Aralarında küçük atelektazi alanları bulunur. Bronşların ve bronşiyollerin lümenleri kalın, yapışkan mukus tıkaçlarıyla doludur. Ölümün nedeni çoğunlukla bu tıkaçların yol açtığı yaygın hava yolu obstrüksiyonudur.
+Şimdi histoloji. Sunumun saydığı bulgular şunlar.
+Bir: bronş duvarında eozinofillerden zengin, mikst inflamatuvar hücre infiltrasyonu. Eozinofillerin yanında mast hücreleri ve lenfositler de vardır. Yani mural inflamasyon.
+İki: bazal membran kalınlaşması, yani subepitelyal kollajenozis. Bu, epitelin altındaki retiküler tabakada kollajen birikimidir ve astımın en karakteristik histolojik bulgularından biridir.
+Üç: hiperplastik bronş ve bronşiyol düz kası. Yani düz kaslarda hiperplazi ve kalınlaşma.
+Dört: submukozal mukus salgılayan bezlerde hiperplazi. Bu yüzden Reid indeksi astımda da artabilir.
+Beş: bronş ve bronşiyol epitelinde goblet hücre metaplazisi ve epitel hiperplazisi. Normal solunum epitelinde goblet hücresi oranı yaklaşık yüzde yirmidir.
+Altı: epitel dökülmesi, yani deskuamasyon.
+Yedi: bronş lümenlerinde kalın mukus tıkaçları.
+Sekiz: duvarda ödem, hiperemi ve fibrozise bağlı kalınlaşma.
+Dikkat et, bu bulguların hepsi hava yollarındadır. Astım bir hava yolu hastalığıdır ve alveolleri tutmaz. Tip iki pnömosit hiperplazisi ise alveol epitelinin hasar sonrası onarım yanıtıdır.
+Diffüz alveoler hasar, interstisyel akciğer hastalıkları ve pnömoni gibi alveolleri tutan durumlarda görülür. Bu yüzden bronşiyal astımla ilgili değildir. Bu bilgi 2025 2026 sınavının kırk sekizinci ve 2024 sınavının yirmi yedinci sorusunda soruldu.
+Şimdi sitoloji: balgamda ve bronş lavajında astımın üç izi. Sunuma göre astımda balgamda ya da bronş lavajında şunlar görülür: mukus, Kurşman spiralleri, Kreola cisimcikleri, eozinofiller ve Şarko Leyden kristalleri.
+Birincisi, Kurşman spiralleri. Küçük hava yollarını tıkayan mukus tıkaçlarının, dökülmüş epitel hücreleriyle birlikte spiral biçiminde kıvrılmış kalıplarıdır. Küçük bronşiyollerin içinde şekillendikleri için ince, sarmal ipliklere benzerler.
+İkincisi, Kreola cisimcikleri. Dökülmüş solunum epiteli hücrelerinin kümeleridir. Eozinofilik inflamasyonun yol açtığı epitel yıkımının balgamdaki kanıtıdır. Bu epitel yıkımı Kitap ikide, Bölüm bir nokta yedide anlatılıyor.
+Üçüncüsü, Şarko Leyden kristalleri. Sunumun tanımıyla eozinofilik, iğne biçimli kristal yapılardır ve eozinofil yıkım ürünleridir. Eozinofillerde bol bulunan galektin on proteininin kristalleşmesiyle oluşur. Dokuda sırt sırta vermiş bipiramidal hekzagonlar şeklinde görülür. Astım ve eozinofilik pnömonilerde görülür.
+Bu yüzden bronş lavajında ya da balgamda yoğun eozinofiller, Şarko Leyden kristalleri ve Kurşman spiralleri görülen hastada olası tanı astımdır. Bu bilgi üç sınavda soruldu: 2025 2026 sınavının ellinci, 2024 sınavının yirmi dokuzuncu ve 2023 2024 sınavının kırk dördüncü sorusu.
+Ve işte sık karıştırılan nokta. Şarko Leyden kristalleri eozinofilden, Kurşman spiralleri ise mukus ve dökülmüş epitelden kaynaklanır. Şarko Leyden kristalleri astıma özgü değildir. Eozinofilin bol olduğu her yerde görülebilir: eozinofilik pnömoni, alerjik bronkopulmoner aspergilloz ve parazitozlar.
+Ama sınav sorularında üçlü bir arada verildiğinde, yani eozinofil, Şarko Leyden ve Kurşman birlikteyse, cevap her zaman astımdır. Amfizem ve kronik bronşitte eozinofil hâkim değildir. Bronşektazide ise balgam pürülan ve nötrofilden zengindir.
+Son başlık: mukoid tıkaçlar ve alerjik bronkopulmoner aspergilloz. Önce mukoid tıkaçlar. Mukus kalıpları, çeşitli miktarda dejenere inflamatuvar hücrelerden oluşan tabakalı bir yapı oluşturabilir. Bronş duvarını inceltir. Bronş mukozası ülsere, gerilerek incelmiş ya da fokal skuamöz metaplazili olabilir. Sunumun vurguladığı gibi, tıkaçlar bütün obstrüktif hastalıklarda, özellikle de astımda görülür ve kendileri de obstrüktif bir tablo oluşturabilir.
+Şimdi alerjik bronkopulmoner aspergilloz, kısaca A B P A. Aspergillus fumigatus'un bronş ağacındaki kolonizasyonuna karşı gelişen bir aşırı duyarlılık reaksiyonudur: tip bir ve tip üç. Mantar dokuya invaze olmaz. Hastalık mantarın kendisinden değil, ona karşı gelişen immün yanıttan doğar.
+Hastalar astımlıdır ve genellikle hastalığın serolojik ve radyolojik kriterlerini taşır: çok yüksek total IgE, Aspergillus'a özgü IgE ve IgG, kanda eozinofili ve gezici infiltrasyonlar. Ağır formları bronşektaziyle birliktedir. Ve bu bronşektazi, diğer nedenlerin aksine, proksimal, yani santral bronşları tutar. Bazen altta yatan kistik fibrozis gibi bir neden de bulunur.
+Histolojide proksimal bronşlar astım bulgularını içerir. Bronştaki mukus içinde az miktarda Aspergillus fumigatus hifi, bir kısmı büzülmüş görünümde çok sayıda eozinofil, dökülmüş epitel, nötrofiller ve makrofajlar bulunur.
+Şimdi bu bölümden yıllara göre gelen soru sayısına bakalım. Ekrandaki grafikte 2022 2023 sınavında bir, 2023 2024 sınavında iki, 2024 sınavında iki ve 2025 2026 sınavında dört soru görüyorsun.
+Yani astımın patolojisinden toplam dokuz soru geldi ve 2025 2026 sınavında sayı dörde çıktı. Üç bilgi her yıl tekrarlandı. Bir: ekstrinsik astımın ana nedeni enfeksiyon değildir. İki: Şarko Leyden kristalleri ve eozinofiller astımı düşündürür. Üç: tip iki pnömosit hiperplazisi astımda görülmez. 2025 2026 sınavında ise ilk kez intrinsik astım olgusu soruldu. Şimdi bu soruları birlikte çözelim.
+
+### k3b3_03 | Bölüm sonu soruları
+Bölüm sonu sorularına geçelim. Soru bir. Bu soru üç sınavda soruldu: 2025 2026 sınavının kırk dördüncü, 2023 2024 sınavının kırk sekizinci ve 2022 2023 sınavının elli dokuzuncu sorusu.
+Ekstrinsik astım ile ilgili aşağıdakilerden hangisi yanlıştır?
+A: İlk otuz ile altmış dakikada CD dört pozitif T lenfositler, IgE, mast hücreleri ve eozinofillerin rol oynadığı tip bir hipersensitivite başlar.
+B: Mast hücrelerinden salınan mediatörler bronkokonstriksiyon ve ödem yapar.
+C: Dört ile sekiz saat içerisinde, epitelyal zedelenme ve benzeri geç etkiler meydana gelir.
+D: Solunum yolları enfeksiyonları ekstrinsik astımın ana sebebidir.
+E: Soğuk, stres ve egzersiz ile presipite olabilir.
+Durdur ve düşün.
+Cevap D. Yani yanlış olan ifade D şıkkı. Ekstrinsik astımın nedeni, bir antijene karşı gelişen IgE aracılı tip bir aşırı duyarlılıktır. Solunum yolu enfeksiyonları ise sunumdaki tabloda intrinsik, yani nonreajenik astımın presipite eden faktörüdür. 2022 2023 sürümünde D şıkkı "ekstrinsik astım sebeplerinden biridir" biçimindeydi ve yine yanlış kabul edildi.
+A, B ve C, sunumdaki "Ekstrinsik astma, patogenez" slaytının cümleleridir: erken etki ilk otuz ile altmış dakikada; mast hücresi mediatörlerinin toplam etkisi bronkokonstriksiyon, ödem ve mukus; geç etki dört ile sekiz saatte ve epitel zedelenmesiyle. E doğrudur: tablonun altındaki nota göre bütün astım tipleri soğuk, stres ve egzersizle presipite edilebilir.
+Soru iki. 2025 2026 sınavı, kırk üçüncü soru.
+Kırk beş yaşında erkek hasta, kış aylarında viral enfeksiyonları takiben tetiklenen öksürük ve dispne atakları tanımlıyor. Ataklar arasında solunumu normaldir, atopi öyküsü yoktur. Bu tablodan sorumlu olası patoloji hangisidir?
+A: Eozinofillerin sebep olduğu bronşiyal hasar.
+B: Aspergillus sporlarının neden olduğu hipersensitivite.
+C: Kronik inflamasyonun sebep olduğu bronşiyal hipersensitivite.
+D: T H hücrelerinin aşırı interlökin dört ve interlökin beş üretimi.
+E: Alveollerde aşırı nötrofil birikimi.
+Durdur ve düşün.
+Cevap C. Atopisi olmayan, viral enfeksiyonla tetiklenen ve ataklar arasında normal olan bu hasta, intrinsik, yani nonreajenik astımdır. Bu tipte immünolojik bir duyarlanma yoktur. Tabloyu yapan, kronik inflamasyonun hava yolunu irritanlara ve virüslere karşı aşırı duyarlı hâle getirmesidir.
+A ve D, alerjik, yani ekstrinsik astımın mekanizmalarıdır: T H iki hücrelerinin interlökin dört ve interlökin beş üretimi ve eozinofil hasarı. Atopisi olmayan bu hastada öncelikli açıklama değildir. B, A B P A'dır; hastaların astımlı ve genellikle atopik olması, yüksek IgE ve gezici infiltrasyonlar beklenir. E, pnömoni ya da akut akciğer hasarı gibi alveolleri tutan bir süreci tarif eder. Astım ise hava yolu hastalığıdır.
+Soru üç. 2025 2026 sınavının kırk sekizinci ve 2024 sınavının yirmi yedinci sorusu.
+Aşağıdaki histopatolojik bulgulardan hangisi bronşiyal astım ile ilgili değildir?
+A: Bronşiyal bazal membranda kalınlaşma.
+B: Reid indeksinde artış.
+C: Bronş duvarında eozinofiller ve mast hücreleri artışı.
+D: Kurşman spiralleri.
+E: Tip iki pnömosit hiperplazisi.
+Durdur ve düşün.
+Cevap E. Yani astımla ilgili olmayan bulgu E şıkkı. Tip iki pnömositler, alveol epitelinin onarım hücreleridir. Hiperplazileri alveol hasarının bulgusudur: diffüz alveoler hasar, interstisyel hastalıklar ve pnömoni. Astım bir hava yolu hastalığıdır ve alveolleri tutmaz.
+A, astımın en karakteristik bulgularından biridir, yani subepitelyal kollajen birikimi. B ise çeldiricidir: Reid indeksi kronik bronşitin tanımlayıcı kriteridir, ama astımda da submukozal bez hiperplazisi olduğu için artabilir. C, eozinofilden zengin mural inflamasyonu tarif eder. D ise mukus tıkaçlarının balgamdaki spiral kalıplarıdır.
+Soru dört. Bu da üç sınavda soruldu: 2025 2026 sınavının ellinci, 2024 sınavının yirmi dokuzuncu ve 2023 2024 sınavının kırk dördüncü sorusu.
+Bronş lavajında yoğun eozinofiller, Şarko Leyden kristalleri ve Kurşman spiralleri gözlenen hastada olası tanı nedir?
+A: Amfizem.
+B: Kronik bronşit.
+C: Atelektazi.
+D: Astım.
+E: Bronşektazi.
+Durdur ve düşün.
+Cevap D, astım. Eozinofiller ve onların yıkım ürünü olan Şarko Leyden kristalleri eozinofilik inflamasyonu gösterir. Kurşman spiralleri ise küçük hava yollarını tıkayan mukus kalıplarını gösterir. Üçü birlikte astımın klasik sitolojik tablosudur. 2024 sınavında balgam, 2023 2024 sınavında ise "alveolar makrofaj, eozinofil ve Şarko Leyden kristalleri" biçiminde soruldu ve cevap yine astımdı.
+A ve B'nin inflamasyonu eozinofilik değildir. Bu inflamasyonun hücreleri makrofaj, nötrofil ve lenfosittir. C, bir akciğer bölümünün havasız kalmasıdır ve kendine özgü bir sitolojisi yoktur. E'de ise balgam bol, pürülan ve nötrofilden zengindir.
+Son olarak, konuyu pekiştirmek için hazırlanmış yeni bir soru.
+Astımlı bir hastada tekrarlayan gezici infiltrasyonlar, çok yüksek total IgE, kanda eozinofili ve tomografide santral, yani proksimal bronşektazi saptanıyor. Bronş mukusunda az sayıda dallanan mantar hifi görülüyor. En olası tanı hangisidir?
+A: İnvaziv aspergilloz.
+B: Alerjik bronkopulmoner aspergilloz.
+C: Kistik fibrozis.
+D: Aspergilloma.
+E: Kartagener sendromu.
+Durdur ve düşün.
+Cevap B, alerjik bronkopulmoner aspergilloz. A B P A, bronş ağacını kolonize eden Aspergillus fumigatus'a karşı gelişen tip bir ve tip üç aşırı duyarlılıktır. Hastalar astımlıdır, IgE ve eozinofiller yüksektir. Bronşektazi ise diğer nedenlerden farklı olarak proksimal bronşları tutar. Hifler mukus içindedir, dokuya invaze olmaz.
+A'da mantar damar ve dokuya invaze olur ve ağır bağışıklık baskılanmasında görülür. C, A B P A'ya zemin hazırlayabilir, ama tek başına bu tabloyu açıklamaz. D, var olan bir kavite içinde mantar topudur. E'de ise bronşektazi alt loblardadır; situs inversus ve sinüzit eşlik eder.
+Bölüm üçün sonuna geldik. Bir sonraki bölümde bronşektaziyi ve diğer hava yolu hastalıklarını konuşacağız.

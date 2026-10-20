@@ -1,0 +1,136 @@
+### k2b2_01 | Giriş, anamnez, muayene ve spirometri
+Astım: Patogenez, Tanı ve Tedavi İlkeleri. Bölüm iki: Klinik Tablo ve Tanı.
+Sunum, astım tanısının dört ayağını sayar. Bir: anamnez. İki: fizik muayene. Üç: solunum fonksiyon testleri. Dört: diğer testler, yani inflamatuvar belirteçler ve alerjinin değerlendirilmesi.
+Tanının özü ise iki şeydir. Birincisi, tipik semptom öyküsü. İkincisi, bu semptomlara eşlik eden değişken hava akımı kısıtlanmasının nesnel olarak gösterilmesi. Buradaki anahtar kelime: değişken. Ve şunu baştan bil: görüntüleme tanıda yer almaz.
+İlk başlığımız anamnez. Astımın semptomları nasıl bir örüntü gösterir? Solunum yollarının daralması dört belirtiye neden olur: göğüste sıkışma hissi, nefes darlığı, göğüste ıslık sesi, yani hırıltı ya da hışıltı, ve öksürük.
+Ama bu belirtiler tek başına astıma özgü değildir. KOAH'ta, kalp yetersizliğinde ve başka birçok hastalıkta da görülür. Astımı düşündüren, belirtilerin örüntüsüdür. Sunuma göre astımda yakınmaların dört özelliği var.
+Bir: tekrarlayıcı karakterdedir ve nöbetler hâlinde gelir. Nöbetler arasında hasta tamamen normal olabilir.
+İki: genellikle gece ya da sabaha karşı, ya da her ikisinde birden ortaya çıkar. Peki neden? Bunun birkaç nedeni var. Gece kortizol ve adrenalin düzeyleri en düşük, vagal, yani bronkokonstriktör tonus ise en yüksek düzeydedir. Hava yolu inflamasyonu da sabaha karşı artar. Yatak, ev tozu akarına en yoğun maruz kalınan yerdir. Sırt üstü yatmak ve gastroözofageal reflü de katkıda bulunur.
+Üç: kendiliğinden ya da ilaçlarla kaybolur. Bu, obstrüksiyonun geri dönüşlü olduğunun klinik karşılığıdır.
+Dört: bazı faktörlerle provoke olur, yani bir tetikleyiciyle başlar.
+Bu örüntüyü KOAH'ın örüntüsüyle karşılaştırınca ayrım belirginleşir. KOAH'ta nefes darlığı süregen, ilerleyici ve eforla artan karakterdedir ve günden güne pek değişmez. KOAH, Kitap birde anlatılır. Öyküde ayrıca şunlar sorgulanır: alerjik rinit, egzama, ailede astım ya da atopi, çocukluktan beri süren "bronşit" atakları ve yakınmaların mevsimle, ortamla ya da işle ilişkisi.
+Sırada tetikleyiciler ve bronkospazm yapan ilaçlar var. Sunumun saydığı tetikleyiciler şunlar: alerjenler, egzersiz ve hiperventilasyon, viral solunum yolu enfeksiyonları, hava kirliliği, sigara dumanı, boya ve parfüm gibi irritan gazlar, aşırı emosyonel durum ve son olarak besinler, katkı maddeleri ve ilaçlar.
+Burada bir ayrımı netleştirelim: tetikleyici ile risk faktörü aynı şey değildir. Risk faktörü astımın gelişmesine katkıda bulunur. Tetikleyici ise var olan astımda atağı başlatır. Ev tozu akarı gibi bazı etkenler ikisini birden yapar.
+Sunum ayrıca bronkospazmı uyaran ilaçları sayar. Her birinin mekanizmasını bilmek, listeyi ezberlemekten kolaydır. Şimdi tabloya bakalım.
+Birinci ilaç grubu: asetilsalisilik asit, yani aspirin ve diğer nonsteroid antiinflamatuvar ilaçlar. Mekanizması şu: siklooksijenaz biri bloke ederler. Araşidonik asit lipoksijenaz yoluna kayar ve sisteinil lökotrienler artar. Bronkodilatör olan ve mast hücresini frenleyen P G E iki de azalır. Astım, nazal polip ve aspirin duyarlılığı üçlüsüne aspirinle alevlenen solunum yolu hastalığı, yani Samter triadı denir. Ayrıntısı Kitap dörtte.
+İkinci grup: beta blokerler. Hava yolu düz kasındaki beta iki reseptörünün bronkodilatör etkisini ortadan kaldırırlar. Seçici olmayanlar, örneğin propranolol, en tehlikelisidir. Göz damlası bile, örneğin timolol, atak yapabilir. Propafenonun da beta blokör etkisi vardır.
+Üçüncü grup: kontrast maddeler ve protamin. Mast hücresini doğrudan aktive ederek anafilaktoid reaksiyon yaparlar.
+Dördüncüsü: dipiridamol. Hücre dışı adenozini artırır. Adenozin de astımlı kişide, mast hücresi üzerinden bronkokonstriksiyon yapar.
+Beşincisi: inhalasyon yoluyla alınan kokain ve eroin. Mekanizma: hava yoluna doğrudan irritasyon ve termal hasar. Eroinde buna histamin salınımı da eklenir.
+Altıncısı: nitrofurantoin, vinblastin ve mitomisin. Bunlar akciğerde aşırı duyarlılık ya da toksik reaksiyon yapar.
+Şimdi fizik muayeneye geçelim. Sunumun vurguladığı gibi fizik muayene, hastalığın ve atağın ağırlık derecesine göre değişir. Ataklar arasında muayene tamamen normal olabilir. Bu yüzden normal bir muayene astımı dışlamaz.
+Atak sırasında oskültasyonda ekspirasyonda, inspirasyonda ya da her ikisinde ronküs duyulur. Bu yaygın, sibilan bir ronküstür, yani wheezing. Bir de uzamış ekspirasyon duyulur. Ağır atakta ise tablo değişir: sessiz akciğer, hiperinflasyon, siyanoz, taşikardi ve yardımcı solunum kaslarının kullanımı görülür.
+İşte sık karıştırılan nokta: sessiz akciğer. Atak sırasında hırıltının azalması her zaman iyiye işaret değildir. Ses, hava yolundan geçen hava akımıyla oluşur. Obstrüksiyon o kadar ağırlaşmıştır ki, hırıltı çıkaracak kadar hava bile akmıyorsa akciğer "sessizleşir". Sessiz akciğer, hayatı tehdit eden atağın işaretidir ve acil müdahale gerektirir.
+Akciğer dışında alerjik hastalığın izleri aranır: soluk ve ödemli burun mukozasıyla alerjik rinit, aspirin duyarlılığını düşündüren nazal polip ve atopik dermatit.
+Ve geldik spirometri ve reversibiliteye. Spirometri obstrüksiyonu gösterir ve ağırlığını ölçer. Sunuma göre obstrüksiyonun ölçütleri şunlar: FEV birin beklenen değerin yüzde sekseninin altında olması ve FEV bir bölü FVC oranının yüzde yetmiş beş ile seksenin altında olması.
+Astımda FEV bir azalır ve FEV bir bölü FVC oranı düşer. FVC ise genellikle normaldir. Neden? Çünkü sorun havanın akciğerden çıkış hızındadır, akciğerin hacminde değil. FVC'nin belirgin düşüklüğü, örneğin yüzde ellinin altında olması, astımdan çok restriksiyonu ya da başka bir hastalığı düşündürür.
+Bu bilgi sınavda iki kez geldi. 2022 2023 sınavının otuz dördüncü sorusunda, astımlı hastanın solunum fonksiyon testinde beklenmeyen bulgu, FVC'nin yüzde ellinin altında olmasıydı. 2025 2026 sınavının on üçüncü sorusunda da aynı soru soruldu ve cevap yine FVC şıkkı oldu.
+Ancak astımın en önemli özelliği değişkenlik olduğu için, spirometri yakınmasız bir dönemde tamamen normal çıkabilir. Yani normal spirometri astımı dışlamaz. Tanının asıl kanıtı, obstrüksiyonun geri döndüğünün gösterilmesidir.
+
+### k2b2_02 | Reversibilite, PEF ve provokasyon testleri
+Peki geri dönüş nasıl gösterilir? İlk yol erken reversibilite testi. Sunumda tarif edildiği gibi, bu test özellikle orta derecede obstrüksiyonu olan hastalarda tanıya yardımcıdır. Önce FEV bir, FVC ya da PEF ölçülür. Sonra hastaya kısa etkili beta iki agonist inhale ettirilir: dört yüz mikrogram, yani dört puf salbutamol. On beş ile yirmi dakika sonra ölçüm tekrarlanır.
+FEV bir başlangıca göre yüzde on iki ya da iki yüz mililitre, PEF ise yüzde on beş artmışsa test pozitif kabul edilir. Güncel kılavuzlar ise FEV bir için iki koşulun birlikte sağlanmasını ister: yüzde on iki ve iki yüz mililitre. Küçük akciğerlerde yüzde on ikilik artış iki yüz mililitreden az olabilir ve bu durumda anlamlı sayılmaz.
+Sunumdaki hasta bunun belirgin bir örneğidir. Bronkodilatör öncesi FEV bir, iki virgül yirmi beş litre, yani beklenenin yüzde elli sekizi, FEV bir bölü FVC oranı ise yüzde elli üç. Salbutamolden sonra FEV bir, üç virgül yirmi litreye, oran da yüzde yetmiş üçe çıkmış. Reversibilite dokuz yüz elli mililitre, yani yüzde kırk beş. Dikkat çekici olan şu: FVC hem öncesinde hem sonrasında normal.
+Ekrandaki Şekil iki nokta bir, bu hastanın bronkodilatör öncesi ve sonrası spirometrisini gösteriyor. Dikey eksen beklenen değerin yüzdesi: sıfırdan yüze kadar, yirmi beşer aralıklarla. Yüzde seksende de kesikli bir çizgi var. Her ölçüm için iki sütun yan yana: bronkodilatör öncesi ve dört yüz mikrogram salbutamol sonrası. Ham değerler eksenin altında yazıyor. FEV bir yüzde elli sekizden seksen ikiye, yani iki virgül yirmi beşten üç virgül yirmi litreye çıkıyor. FVC yüzde doksan üçten doksan yediye, dört virgül yirmi beşten dört virgül kırk litreye. FEF yirmi beş yetmiş beş yüzde kırk beşten seksen üçe, saniyede iki virgül birden üç virgül dokuz litreye. PEF de yüzde altmış beşten doksan sekize, saniyede beş buçuktan sekiz virgül üç litreye çıkıyor.
+Şeklin altyazısı şunu söylüyor: FEV bir, küçük hava yollarını yansıtan FEF yirmi beş yetmiş beş ve PEF belirgin düşükken FVC normaldir. Salbutamol sonrası değerler normale yaklaşmıştır. Bu, astımın tipik geri dönüşlü obstrüksiyonudur. KOAH'ta ise bronkodilatör sonrası FEV bir bölü FVC oranı sıfır virgül yetmişin altında kalır.
+İkinci yol geç reversibilite testi. Bronkodilatöre hemen yanıt vermeyen obstrüksiyon, inflamasyon baskılandıktan sonra açılabilir. Sunuma göre ya iki hafta boyunca günde yirmi ile kırk miligram oral prednizolon, ya da altı ile sekiz hafta uygun dozda inhale steroid verilir. Tedavi sonrası ölçülen FEV birde tedavi öncesine göre yüzde on beş, PEF'te yüzde yirmi artış saptanırsa test pozitif kabul edilir. Bu test, KOAH ile astımın ayrımında ve steroid yanıtını değerlendirmede de kullanılır.
+Sınavda üç kez sorulan "astımı destekleyen solunum fonksiyon testi" sorusunun doğru şıkkı, bu bilgilerin bir arada uygulanmasıdır. FEV bir bölü FVC yüzde altmış beş, yani obstrüksiyon. FVC yüzde yetmiş sekiz, yani normale yakın. FEV bir yüzde altmış sekiz. Ve iki yüz mikrogram salbutamolle FEV birde yüzde on beş, PEF'te yüzde yirmi artış, yani geri dönüşlülük. Bu soru 2025 2026 sınavının on altıncı, 2024 sınavının otuz sekizinci ve 2022 2023 sınavının otuz altıncı sorusuydu.
+Sırada PEF ölçümü ve değişkenlik var. Zirve ekspiratuvar akım, yani PEF, hastanın derin bir nefesten sonra ne kadar hızlı üfleyebildiğini ölçer. Ölçen cihaz, yani PEF metre, ucuzdur, taşınabilir ve evde kullanılabilir.
+Ölçüm şöyle yapılır: hasta ayakta durur, derin nefes alır ve ağızlığı dudaklarıyla sıkıca kavrayarak olabildiğince hızlı ve güçlü üfler. Üç ölçümün en iyisi kaydedilir. PEF spirometrinin yerini tutmaz. Ama gün içindeki ve günler arasındaki değişkenliği, yani astımın imzasını yakalamada eşsizdir.
+Sunuma göre, hava yolu obstrüksiyonu gösterilememişse PEF değişkenliği iki yolla değerlendirilir.
+Birinci yol: sabah akşam, yani diurnal değişkenlik yüzde yirminin üzerindeyse astım lehine kabul edilir. Hesaplama şöyle: en yüksek PEF'ten en düşük PEF çıkarılır. Bu fark, en yüksek ve en düşük PEF toplamının yarısına bölünür ve yüzle çarpılır.
+İkinci yol: bir hafta içinde ölçülen, bronkodilatör öncesi en düşük sabah PEF değerinin, hastanın en iyi PEF değerine oranının yüzde seksen beşin altında olması.
+Ekrandaki Şekil iki nokta iki, şematik bir örnek PEF günlüğü. Yatay eksende bir ile on dört arasında günler, dikey eksende dakikada litre cinsinden PEF var, iki yüz elliden beş yüze kadar, ellişer aralıklarla. Üstteki çizgi akşam ölçümleri, dört yüz ile dört yüz elli arasında seyrediyor. Alttaki çizgi sabah ölçümleri, üç yüz ile üç yüz elli arasında. Birinci günde akşam değerinden sabah değerine inen bir ok ve yanında şu hesap var: birinci gün, dört yüz yirmi eksi üç yüz otuz, bölü üç yüz yetmiş beş, eşittir yüzde yirmi dört. Köşedeki not ise şöyle: örnek veri, en iyi PEF yaklaşık dakikada dört yüz elli litre.
+Altyazıya göre sabah değerleri her gün akşamdakinden belirgin düşüktür. Birinci günün değişkenliği sunumdaki formülle hesaplanır: dört yüz yirmi eksi üç yüz otuz, bölü dört yüz yirmi ile üç yüz otuz toplamının yarısı, çarpı yüz. Sonuç yaklaşık yüzde yirmi dört ve astım lehine. Sabahları düşük PEF, astımın sabaha karşı kötüleşmesinin ölçülebilir karşılığıdır.
+Şimdi bir kutuya dikkat: sunum ile güncel bilgi arasındaki fark. Sunumun ve sınavın eşiği yüzde yirmidir. 2022 2023 sınavının otuzuncu sorusunda, astım tanısını destekleyen diurnal PEF değişkenliği yüzde yirmi idi.
+Güncel GINA kılavuzu ise daha duyarlı bir ölçüt kullanır: iki hafta boyunca günde iki kez ölçülen PEF'in ortalama günlük değişkenliğinin erişkinde yüzde onun, çocukta yüzde on üçün üzerinde olması. İki eşik aynı formülle hesaplanmaz. Yüzde yirmi, tek günlük en yüksek ile en düşük değer arasındaki farka dayanır. Yüzde on ise iki haftalık ortalamaya. Sınavda sunumdaki yüzde yirmiyi işaretle.
+PEF metre tanının yanında izlemde de kullanılır. Hasta kendi en iyi değerini bilir ve evde düzenli ölçüm yaparak kötüleşmeyi semptomlardan önce fark edebilir. Meslek astımında ise iş günlerinde ve tatilde yapılan seri PEF ölçümleri, işle ilişkiyi gösterir. Bu konuda Bölüm üç nokta beşe de bak.
+Sırada bronş provokasyon testleri var. Diyelim ki hastanın semptomları astımı düşündürüyor, ama spirometrisi normal ve reversibilitesi gösterilemiyor. Bu hastada hava yolu aşırı duyarlılığı doğrudan ölçülebilir. Hasta artan dozlarda metakolin, ya da histamin veya mannitol solur, ya da standart bir egzersiz yapar. Her dozdan sonra FEV bir ölçülür. FEV biri yüzde yirmi düşüren doz ne kadar düşükse, aşırı duyarlılık o kadar fazladır.
+Testin değeri özellikle negatif sonucundadır. Tedavi almayan, semptomlu bir hastada normal metakolin testi astımı büyük ölçüde dışlar. Pozitif sonuç ise astıma özgü değildir: alerjik rinitte, KOAH'ta ve kistik fibrozda da görülebilir. Belirgin obstrüksiyonu olan hastada bu test yapılmaz, çünkü ağır bronkospazm tetikleyebilir.
+
+### k2b2_03 | Belirteçler, görüntüleme, ayırıcı tanı ve fenotipler
+Şimdi inflamatuvar belirteçler ve alerjinin değerlendirilmesi. Birincisi, ekshale havada nitrik oksit, yani FeNO. T H iki inflamasyonunda interlökin on üç, hava yolu epitelinde nitrik oksit sentazını artırır. Bu yüzden nefesteki N O miktarı, eozinofilik inflamasyonun dolaylı bir göstergesidir.
+Erişkinde elli p p b'nin üzeri, eozinofilik inflamasyonu ve steroid yanıtının iyi olacağını düşündürür. Yirmi beş p p b'nin altı ise düşüktür. Sigara ve inhale steroid FeNO'yu düşürür. KOAH'ta FeNO genellikle normaldir. Bu konu Kitap bir, Bölüm üç nokta on üçte işlenir.
+İkincisi, balgamda ve kanda eozinofil. İndüklenmiş balgamda yüzde iki ile üçün üzerinde eozinofil, eozinofilik astımı gösterir. Kan eozinofil sayısı ise ağır astımda biyolojik ilaç seçiminde kullanılır.
+Üçüncüsü, alerji testleri. Biri deri prik testi: alerjen damlası deriye konur, iğneyle yüzeysel olarak delinir ve on beş ile yirmi dakika sonra kabarıklık ölçülür. Diğeri kanda alerjene özgü IgE. Bu testler kişinin atopik olduğunu ve hangi alerjenlere duyarlı olduğunu gösterir. Böylece kaçınılacak tetikleyiciler belirlenir. Ancak pozitif alerji testi, belirtilerin o alerjene bağlı olduğunu tek başına kanıtlamaz. Ve deri testinden önce antihistaminikler kesilmelidir.
+Peki görüntülemenin tanıda neden yeri yoktur? Astımda akciğer grafisi çoğunlukla normaldir. Ağır atakta hiperinflasyon görülebilir. Grafi astımı göstermek için çekilmez. Başka hastalıkları, yani pnömoniyi, kalp yetersizliğini, yabancı cismi ya da tümörü dışlamak için ya da atağın komplikasyonlarını görmek için çekilir. Bu komplikasyonlar pnömotoraks, pnömomediasten ve mukus tıkacına bağlı atelektazidir.
+Toraks bilgisayarlı tomografisinin astım tanısında yeri yoktur. Tanı, öykü ve fonksiyon testleriyle konur. Bu, 2025 2026 sınavının onuncu sorusunda soruldu: bahar aylarında ve temizlikten sonra hırıltı ve göğüste baskı tanımlayan otuz beş yaşındaki kadında, tanıyı doğrulamak için gerek olmayan test toraks B T idi.
+Tomografi yalnızca seçilmiş durumlarda istenir. Örneğin tedaviye yanıt vermeyen zor astımda başka bir tanıyı aramak için: bronşektazi, alerjik bronkopulmoner aspergilloz ya da obliteratif bronşiolit.
+Ayırıcı tanıya geçelim. Akılda tutulacak cümle şu: "Hırıltı her zaman astım değildir." Sunum ayırıcı tanıyı iki grupta verir. Birinci grup, hırıltı ve nefes darlığının başka nedenleridir.
+Bir: üst hava yolu patolojileri. Vokal kord disfonksiyonu, larinks ödemi ya da tümörü ve trakea darlığı. İpucu şu: hırıltı inspiratuvardır, yani stridordur ve boyunda en yüksek duyulur. Akım volüm eğrisinin inspirasyon kolu da düzleşir.
+İki: bronşa ya da trakeaya dıştan bası. Guatr, mediastinal kitle ya da damar anomalisi.
+Üç: endobronşiyal ya da endotrakeal yer kaplayan lezyonlar, yani tümör ve yabancı cisim. Buradaki ipucu: tek bir bölgede duyulan, tek perdeli, yani monofonik ve bronkodilatöre yanıt vermeyen hırıltı.
+Dört: KOAH. İleri yaş, sigara ya da biyomas öyküsü ve kalıcı obstrüksiyon. KOAH, Kitap birin konusu.
+Beş: pulmoner tromboemboli ve sol kalp yetersizliği. Sol kalp yetersizliğine "kardiyak astım" da denir: pulmoner konjesyonda bronş mukozası ödemlenir ve hırıltı duyulabilir.
+İkinci grup, öksürüğün ön planda olduğu durumlardır: kronik rinosinüzit ve postnazal akıntı, gastroözofageal reflü ve ACE inhibitörü kullanımı. ACE inhibitörü, bradikinin birikimine bağlı kuru öksürük yapar. Sadece öksürükle seyreden astım, ki onu birazdan fenotiplerde göreceğiz, bu üçüyle karışabilir.
+Bölümün son konusu astım fenotipleri. Sunum astımın klinik görünümlerini, yani fenotiplerini sıralar. Bunlar ayrı hastalıklar değil, aynı hastalığın farklı yüzleridir. Tablodan tek tek bakalım.
+Birinci fenotip: ekstrensek, yani alerjik astım. Çocukluk ya da genç erişkinlikte başlar. Atopi ve aile öyküsü vardır, deri testi pozitif, IgE yüksektir. Alerjenle tetiklenir ve inhale steroide iyi yanıt verir.
+İkincisi: intrensek, yani alerjik olmayan astım. Daha geç yaşta başlar, atopi yoktur ve deri testi negatiftir. Viral enfeksiyonlar ve irritanlarla tetiklenir. Sıklıkla daha ağır seyreder. Patolojisi Kitap üçte anlatılır.
+Üçüncüsü: egzersiz astımı. Egzersizde hızlı soluma, hava yolu yüzeyindeki sıvıyı buharlaştırır. Yüzey sıvısı yoğunlaşır, yani hiperozmolarite gelişir ve mast hücreleri mediatör salar. Daralma egzersiz bittikten beş ile on dakika sonra en derindir ve otuz ile altmış dakikada düzelir. Soğuk, kuru havada belirginleşir. Egzersizden önce alınan kısa etkili beta iki agonistle önlenir.
+Dördüncüsü: meslek astımı. İş yerindeki bir ajana duyarlanma ya da yüksek doz irritan maruziyetiyle gelişir. Belirtiler iş günlerinde artar, hafta sonu ve tatilde azalır.
+Beşincisi: öksürükle seyreden astım. Tek belirti kuru ve sıklıkla gece artan öksürüktür. Hırıltı olmayabilir, spirometri normal olabilir. Ama aşırı duyarlılık testi pozitiftir ve inhale steroide yanıt verir.
+Altıncısı: yaşlı astımı. Tanı KOAH ve kalp yetersizliğiyle karışır. İnhaler kullanmak zordur. Eşlik eden hastalıklar ve ilaç etkileşimleri sıktır.
+Yedincisi: brittle, yani kırılgan astım. Yüksek doz tedaviye rağmen PEF'te çok büyük günlük dalgalanmalar olur. Ya da iyi görünen bir zeminde, dakikalar ile saatler içinde gelişen ani, ağır ataklar görülür.
+Sekizincisi: premenstrüel ve noktürnal astım. Adet döngüsünün geç luteal döneminde ya da gece belirgin kötüleşme olur.
+Dokuzuncusu: steroide bağımlı ve steroide dirençli astım. Kontrol için sürekli sistemik steroid gerektiren ya da yüksek doz steroide rağmen yanıt vermeyen ağır astımdır.
+Onuncusu: sigara içen astımlı. Nötrofilik inflamasyon, steroid yanıtında azalma ve daha hızlı FEV bir kaybı görülür.
+On birincisi: aspirine bağlı astım. Aspirin ya da nonsteroid antiinflamatuvar ilaç aldıktan sonra ağır bronkospazm gelişir. Nazal polip ve kronik rinosinüzit eşlik eder. Ayrıntısı Kitap dörtte.
+Şimdi bu bölümden yıllara göre soru sayısına bakalım. Ekrandaki grafiğe göre 2022 2023 sınavında üç soru geldi. 2023 2024 sınavında bu bölümden hiç soru gelmedi. 2024 sınavında bir ve 2025 2026 sınavında üç soru geldi. Toplam yedi soru.
+Bu tanı soruları üç konuda toplandı: üç yıl astımı destekleyen spirometri bulgusu, iki yıl astımda beklenmeyen spirometri bulgusu ve bir de diurnal PEF değişkenliği. 2025 2026 sınavında ise ilk kez "tanı için gerekmeyen test" soruldu, yani toraks B T.
+
+### k2b2_04 | Bölüm sonu soruları
+Şimdi bölüm sonu sorularını birlikte çözelim. Soru bir. Bu soru üç sınavda soruldu: 2025 2026 sınavının on altıncı, 2024 sınavının otuz sekizinci ve 2022 2023 sınavının otuz altıncı sorusu.
+Kırk yaşında kadın hasta, alerjik nezle şikayeti ile birlikte son zamanlarda öksürük ve hırıltılı soluma tanımlıyor. Fizik muayenesinde yaygın sibilan ronküsler ve ekspiryumda uzama saptanıyor. Aşağıdaki solunum fonksiyonlarından hangisi hastada astım düşündüren veriyi destekler?
+A: FVC yüzde yetmiş sekiz, FEV bir yüzde altmış sekiz, FEV bir bölü FVC yüzde altmış beş, PEF yüzde altmış dört ve iki yüz mikrogram salbutamol ile FEV birde yüzde on beş ve PEF'te yüzde yirmi artış.
+B: FVC yüzde yetmiş sekiz, FEV bir yüzde altmış sekiz, FEV bir bölü FVC yüzde yetmiş beş, PEF yüzde altmış dört ve salbutamol ile FEV birde yüzde beş ve PEF'te yüzde altı artış.
+C: FVC yüzde otuz beş, FEV bir yüzde kırk dokuz, FEV bir bölü FVC yüzde doksan sekiz, PEF yüzde elli beş ve salbutamol ile değişiklik olmaması.
+D: FVC yüzde yetmiş, FEV bir yüzde otuz beş, FEV bir bölü FVC yüzde elli, PEF yüzde altmış dört ve salbutamol ile FEV bir ve PEF'te düşme.
+E: Difüzyon kapasitesinde düşme.
+Durdur ve düşün.
+Doğru cevap A. Astımın iki tanı ölçütü birlikte sağlanmış. Birincisi obstrüksiyon: FEV bir bölü FVC yüzde altmış beş, FEV bir yüzde altmış sekiz. İkincisi geri dönüşlülük: salbutamolle FEV birde yüzde on ikinin, PEF'te yüzde on beşin üzerinde artış. FVC'nin normale yakın olması da astımla uyumlu. Bir not: soru metninde ilaç dozu "iki yüz miligram" olarak yazılmış. Doğrusu iki yüz mikrogramdır.
+B yanlış: FEV bir bölü FVC yüzde yetmiş beş sınırdadır ve reversibilite, yani yüzde beş ve yüzde altı, anlamlı değildir. C yanlış: FVC çok düşük, oran yüksek, yüzde doksan sekiz. Yani bu restriktif bir paterndir ve interstisyel akciğer hastalığı ya da göğüs duvarı hastalığı düşündürür.
+D yanlış: ağır obstrüksiyon vardır, ama bronkodilatörle değerlerin düşmesi astımla uyumlu değildir. E yanlış: difüzyon kapasitesi astımda normaldir ya da hafif artmıştır. Düşük DLCO amfizem ve interstisyel hastalıkta görülür.
+Soru iki. 2022 2023 sınavının otuz dördüncü ve 2025 2026 sınavının on üçüncü sorusu.
+Astımlı bir hastanın solunum fonksiyon testinde hangi sonucu beklemezsiniz?
+A: FEV bir bölü FVC oranı yüzde yetmişin altında.
+B: Reverzibilitede FEV bir yüzde on iki artmıştır.
+C: Reverzibilitede FEV bir, iki yüz mililitre artmıştır.
+D: FVC yüzde ellinin altında.
+E: FEV bir yüzde ellinin altında.
+Durdur ve düşün.
+Doğru cevap D. Astımda sorun havanın çıkış hızındadır, akciğerin hacminde değil. FVC genellikle normaldir. FVC'nin yüzde ellinin altına inmesi, restriktif bir hastalığı ya da çok ağır hava hapsini düşündürür ve astımda beklenen bir bulgu değildir.
+A doğrudur: oranın düşmesi obstrüksiyonu gösterir. B ve C de doğrudur: bunlar pozitif reversibilite testinin ölçütleridir. E de beklenebilir: ağır atakta FEV bir, beklenenin yüzde ellisinin altına düşebilir.
+Bir de 2025 2026 sürümüne bakalım. Soru bankasında D ve E şıkları "FVC yüzde seksendir" ve "FEV bir yüzde seksendir" olarak, A şıkkı da "FEV bir bölü FVC oranı yüzde yetmiştir" olarak geçer. Diğer yılların şıklarıyla karşılaştırınca, "küçüktür" işaretlerinin kayda geçerken düştüğü anlaşılır.
+Doğru okunuş "FVC yüzde seksenden küçük" ve "FEV bir yüzde seksenden küçük" şeklindedir ve mantık aynıdır: astımda FEV birin düşmesi beklenir, FVC'nin düşmesi beklenmez. Cevap yine D.
+Soru üç. 2022 2023 sınavı, otuzuncu soru.
+Klinik bulgularla astım tanısı düşündüğünüz bir hastanızın PEF takip çizelgesini incelediğinizde, diurnal PEF değişikliğini yüzde kaç bulursanız bu sonuç astım tanısını destekler?
+A: Yüzde sıfır.
+B: Yüzde beş.
+C: Yüzde on.
+D: Yüzde on beş.
+E: Yüzde yirmi.
+Durdur ve düşün.
+Doğru cevap E, yani yüzde yirmi. Sunuma göre sabah akşam PEF değişkenliğinin yüzde yirminin üzerinde olması astım lehine kabul edilir. Değişkenlik, en yüksek ve en düşük PEF farkının bu ikisinin ortalamasına bölünmesiyle hesaplanır.
+A ve B, sağlıklı kişide görülebilecek küçük günlük farklardır. D, yani yüzde on beş, erken reversibilite testinde PEF artışı için kullanılan eşiktir. Diurnal değişkenlik eşiği değildir.
+Güncel kılavuzla fark şu: GINA, iki haftalık ölçümlerin ortalama günlük değişkenliği için erişkinde yüzde onun üzerini anlamlı kabul eder. Bu ölçüte göre C de savunulabilir. Ancak soru sunumdaki bilgiye dayanır ve kabul edilen cevap yüzde yirmidir.
+Soru dört. 2025 2026 sınavı, onuncu soru.
+Otuz beş yaşında kadın hasta, özellikle bahar aylarında ve temizlik yaptıktan sonra gelen hırıltılı solunum ve göğüste baskı hissi tanımlıyor. Tanısını doğrulamak için hangi teste gerek yoktur?
+A: Solunum fonksiyon testi.
+B: Solunum fonksiyon testi ve reverzibilite ölçümü.
+C: Toraks bilgisayarlı tomografisi.
+D: PEF metre takipleri.
+E: Alerji deri testleri.
+Durdur ve düşün.
+Doğru cevap C. Öykü, yani mevsimsel ve tetikleyiciyle gelen, nöbetler hâlinde hırıltı, tipik alerjik astımdır. Tanı, değişken obstrüksiyonun fonksiyon testleriyle gösterilmesiyle konur. Tomografi astımda tanı koydurmaz ve rutin olarak istenmez.
+A ve B tanının temelidir: obstrüksiyonu ve geri dönüşlülüğü gösterir. D, spirometri normal çıkarsa değişkenliği göstermek için kullanılır. E ise bahar, yani polen, ve temizlik, yani ev tozu akarı ile gelen belirtilerin alerjik zeminini ve kaçınılacak alerjenleri ortaya koyar.
+Son olarak, konuyu pekiştirmek için hazırlanmış yeni bir soru.
+On yedi yaşında bir atlet, kış aylarında koşudan birkaç dakika sonra başlayan öksürük ve hırıltı tanımlıyor. Belirtiler yarım saatte kendiliğinden geçiyor. İstirahat spirometrisi normal. Bu tablo ile ilgili aşağıdakilerden hangisi yanlıştır?
+A: Daralma genellikle egzersiz bittikten beş ile on dakika sonra en derindir.
+B: Soğuk ve kuru havada belirginleşir.
+C: Mekanizmada, hava yolu yüzey sıvısının buharlaşmasıyla gelişen hiperozmolarite ve mast hücresi mediatörleri rol oynar.
+D: Egzersizden önce alınan kısa etkili beta iki agonist belirtileri önleyebilir.
+E: Normal istirahat spirometrisi astım tanısını dışlar.
+Durdur ve düşün.
+Doğru cevap E. Yani yanlış ifade E şıkkı. Astımın özelliği değişkenliktir. Belirtisiz dönemde spirometri normal olabilir. Tanı için egzersiz ya da metakolin provokasyon testi, PEF değişkenliği veya belirti sırasında yapılan reversibilite testi kullanılır.
+A, B, C ve D, egzersizle tetiklenen bronkokonstriksiyonun klasik özellikleridir. Egzersiz sırasındaki hızlı soluma hava yolu yüzeyinden su kaybettirir. Yoğunlaşan yüzey sıvısı, mast hücrelerinden histamin ve lökotrien salgılatır. Soğuk ve kuru hava bu su kaybını artırır. Egzersizden beş ile yirmi dakika önce alınan kısa etkili beta iki agonist koruyucudur.
+Bölüm ikinin sonuna geldik. Bir sonraki bölümde, yani Bölüm üçte, tedavi ilkelerini, astım kontrolünü ve atağı konuşacağız.

@@ -1,0 +1,140 @@
+### k3b1_01 | Giriş, obstrüktif ve restriktif ayrım, asinüs, amfizemin tanımı
+Obstrüktif Akciğer Hastalıklarının Patolojisi. Bölüm bir: Obstrüktif hastalıklara giriş ve amfizem.
+Amfizem, KOAH'ın akciğer parankimindeki yüzüdür. Ve şunu baştan bil: amfizem klinik değil, morfolojik bir tanımdır. Yani mikroskopta ya da otopside görülen bir yapı değişikliğidir.
+Bu bölüm önce obstrüktif hastalıkların neyi ortak paylaştığını ve akciğerin hangi biriminin, yani asinüsün, amfizemde hasar gördüğünü anlatıyor. Sonra amfizemin dört özelliğine, onu taklit eden aşırı havalanmaya ve amfizem tiplerine geçiyor. Tipleri de tutulan asinüs bölgesi, lob ve neden açısından karşılaştırıyor.
+İlk başlığımız: diffüz akciğer hastalıkları, yani obstrüktif ve restriktif ayrım. Sunum, tümör dışındaki akciğer hastalıklarının tümünü diffüz akciğer hastalıkları olarak adlandırır. Bu hastalıklar radyolojide genellikle iki taraflı ve veya birden fazla lobu tutar. Hastalığa göre interstisyumu, hava yollarını, alveol içini, damarları ya da bu bölmelerin hepsini tutabilir. Ve solunum fonksiyon testlerinin sonucuna göre iki büyük gruba ayrılırlar.
+Birinci grup: obstrüktif akciğer hastalıkları. Bunlar, hava yollarının herhangi bir seviyesinde tam ya da kısmi tıkanıklık sonucu hava akımına karşı direncin artmasıyla karakterizedir. Kısacası akciğer dolabilir, ama boşalamaz.
+İkinci grup: restriktif akciğer hastalıkları. Bunlar, toplam akciğer kapasitesinin azalması ve akciğer parankiminin genişlemesinde kısıtlanma ile karakterizedir. Yani akciğer boşalabilir, ama yeterince dolamaz.
+Ekrandaki tabloda iki grup yan yana. Obstrüktif hastalıklar şunlar: amfizem, kronik bronşit ve bronşiyolit, astım, bronşektazi ve kistik fibrozis. Bir de lokalize olanlar var: tümör ve yabancı cisim aspirasyonu.
+Restriktif hastalıklar ise iki gruptur. Bir: akciğer dışı, yani ekstrapulmoner olanlar. Aşırı şişmanlık, kifoskolyoz, solunum kaslarını tutan nöromüsküler hastalıklar ve plevral hastalıklar. İki: akut ya da kronik interstisyel akciğer hastalıkları. Erişkin solunum sıkıntısı sendromu, pnömokonyozlar, sarkoidoz ve idiyopatik pulmoner fibrozis. Sarkoidozun burada, restriktif tarafta durduğuna dikkat et.
+Tablonun ikinci satırı solunum fonksiyon testleri. Obstrüktif hastalıklarda FEV bir azalmıştır, FEV bir bölü FVC oranı karakteristik olarak azalmıştır, TLC normal ya da artmıştır, FVC ise normal ya da azalmıştır. Restriktif hastalıklarda TLC ve FVC azalmıştır, ekspiratuvar akım hızı normaldir ve FEV bir bölü FVC oranı normaldir.
+Peki sarkoidoz neden restriktif? Sarkoidoz, akciğer interstisyumunda ve lenf nodlarında kazeifiye olmayan granülomlarla seyreden ve ilerledikçe fibrozis yapan bir hastalıktır. Akciğeri sertleştirir, genişlemesini kısıtlar. Bu yüzden obstrüktif değil, restriktif bir hastalıktır. Bu bilgi üç sınavda soruldu: 2022 2023 sınavının altmış sekizinci, 2024 sınavının otuz ikinci ve 2023 2024 sınavının kırk beşinci sorusunda obstrüktif akciğer hastalığı olmayan seçenek sarkoidozdu.
+Bir ayrıntı: hava yolunu tutan sarkoidozda bazen obstrüksiyon da görülebilir, ama hastalığın sınıflamadaki yeri restriktif hastalıklardır. Aynı sorunun şıklarındaki astım, kronik bronşit, bronşektazi ve kistik fibrozis ise obstrüktif hastalıkların klasik listesidir.
+Şimdi akciğerin işlevsel anatomisine geçelim: asinüs ve lobül. Amfizem tiplerini anlamak için akciğerin en küçük işlevsel birimini bilmen gerekiyor. Hava yolları iki bölüme ayrılır.
+Birincisi iletici bölüm: trakea, ana yani primer bronşlar, sekonder bronşlar, bronşiyoller ve terminal bronşiyoller. Bu bölümde gaz alışverişi olmaz. Havayı yalnızca iletir, ısıtır, nemlendirir ve temizler.
+İkincisi solunum, yani respiratuvar bölüm. Bunlar terminal bronşiyolün distalindeki yapılardır: respiratuvar bronşiyoller, alveol kanalları ve alveoller. Respiratuvar bronşiyollerin duvarlarından yer yer alveoller açılır. Gaz alışverişi işte burada olur.
+Gelelim iki önemli tanıma. Asinüs, tek bir terminal bronşiyolün distalindeki bütün yapılardır: respiratuvar bronşiyoller, alveol kanalları ve alveoller. Akciğerin gaz alışverişi yapan temel birimidir. Pulmoner lobül ise üç ile beş terminal bronşiyol ve onlara açılan asinüslerden oluşur. Lobüller birbirinden ince fibröz septumlarla ayrılır. Bu septumlar plevranın altında ve lobül sınırlarında yer alır.
+Bu anatomi, KOAH'ın iki bileşenini yerine oturtmanı sağlar. Sunumun ifadesiyle KOAH'ta amfizem asiner düzeydeki, kronik bronşit ise bronşiyal düzeydeki direnci ifade eder. Yani primer hasarın asinüslerde gözlendiği obstrüktif hastalık amfizemdir. Bu, 2025 2026 sınavının kırk beşinci ve 2024 sınavının yirmi beşinci sorusuydu. Kronik bronşit ve astım iletici hava yollarını, bronşektazi ise bronşları ve bronşiyolleri tutar. Silikoz ise bir pnömokonyozdur ve restriktiftir.
+Sırada amfizemin tanımı var. Amfizem morfolojik bir tanımlamadır. Sunuma göre dört özelliği vardır ve tanı için dördü birlikte bulunmalıdır.
+Bir: anormal ve kalıcı hava boşluğu genişlemesi. Bu geçici bir şişme değil, geri dönmeyen bir yapı değişikliğidir.
+İki: terminal bronşiyollerin distali tutulur. Yani hastalık asinüs içindedir. İletici hava yollarının genişlemesi ise amfizem değil, bronşektazidir.
+Üç: hava boşluklarının duvarında destrüksiyon, yani yıkım vardır. Bu özellik amfizemi basit aşırı havalanmadan ayırır. Aşırı havalanmayı bir sonraki başlıkta, bir nokta dörtte göreceğiz.
+Dört: belirgin interstisyel fibrozis yoktur.
+Peki "belirgin fibrozis yoktur" ne demek? Amfizemde alveol duvarları yıkılırken geride fibrovasküler doku adacıkları gibi kalıntı parçalar kalır. Mikroskopta bunlar ilk bakışta yaygın interstisyel fibrozise benzeyebilir, ama aynı tablo değildir. Amfizemde, akciğerin yeniden yapılanmasına bağlı yalnızca hafif fibrozis görülür.
+İnterstisyel fibrozis ise bambaşka bir süreçtir: akciğeri sertleştirip küçültür ve restriktif tablonun nedenidir. Amfizemli akciğer ise tam tersine yumuşaktır, aşırı şişkindir ve elastikiyetini yitirmiştir. Bu yüzden "belirgin fibrozis mevcuttur" ifadesi amfizem için yanlıştır. Bu ifade üç kez soruldu: 2025 2026 sınavının kırk birinci, 2023 2024 sınavının ellinci ve 2022 2023 sınavının elli altıncı sorusu.
+Peki septal harabiyetin sonucu ne? Sunumun ifadesiyle septal harabiyet, akciğerin hava ile şişmesine ve pasif olarak eski hâlini alma yeteneğinin kaybına neden olur. Yıkılan alveol duvarları elastik liflerini de götürür ve akciğer ekspirasyonda kendiliğinden küçülemez. Bu konu Kitap birde, Bölüm iki nokta üçte anlatılıyor. Otopside amfizemli akciğer, göğüs açıldığında sönmez. O kadar aşırı havalanmıştır ki kalbin ön yüzünü örter.
+
+### k3b1_02 | Aşırı havalanma, histoloji, sentriasiner ve panasiner amfizem
+Şimdi amfizem olmayan genişlemelere bakalım: aşırı havalanma. Hava boşluklarının genişlediği pek çok durumda duvar yıkımı yoktur. Bu durumlar amfizem değil, aşırı havalanma, İngilizcesiyle overinflation olarak adlandırılır. Sunum dört örnek verir.
+Birincisi, kompansatuvar aşırı havalanma. Tek taraflı pnömonektomiden sonra karşı akciğerin hava boşlukları, boşalan alanı doldurmak için genişler.
+İkincisi, senil aşırı havalanma. Yaşlılıkta alveoller düzensiz olarak genişler. Bu, elastik liflerin yaşla azalmasına bağlıdır. Bu yüzden "senil olarak da alveollerde genişleme görülebilir" ifadesi doğrudur. Bu ifade, 2022 2023 sınavının elli altıncı sorusunun E şıkkıydı. Ancak bu gerçek amfizem değildir, çünkü duvar yıkımı yoktur.
+Üçüncüsü, travmatik alveoler genişleme.
+Dördüncüsü, obstrüktif aşırı havalanma. Bir bronşu kısmen tıkayan yabancı cisim ya da tümör, bir kapakçık gibi davranabilir: inspirasyonda havanın girmesine izin verir, ekspirasyonda çıkmasını engeller. Böyle olursa distaldeki akciğer giderek şişer.
+Sırada amfizemin histolojik bulguları var. Birincisi: respiratuvar bronşiyol ve septal doku kaybı, akciğer dokusunda genişlemiş boşluklar oluşturur.
+İkincisi: büller tipik olarak subplevral yerleşimlidir. Çıplak gözle görülebilen genişlemiş boşlukların içinde kalıntı fibrovasküler doku adacıkları bulunur.
+Üçüncüsü: sigarayla ilişkili diğer lezyonlar sıklıkla eşlik eder. Bunlar antrakotik pigment, içici pigmenti taşıyan makrofajlar, yani içici makrofajları, respiratuvar bronşiyolit, membranöz bronşiyolit ve respiratuvar bronşiyolitle ilişkili interstisyel akciğer hastalığıdır.
+Dördüncüsü: fokal skarlar ve fokal akut ya da organize pnömoni gibi, hafif fibrozis gösteren sekonder değişiklikler görülebilir.
+Ve şimdi amfizem tipleri. Amfizem, lezyonun lobül ve asinüs içindeki anatomik dağılımına göre tiplendirilir. Dört tip var: sentriasiner, yani sentrilobüler ya da proksimal asiner. Panasiner. Paraseptal, yani distal asiner. Ve irregüler. Şekil bir nokta bir, her tipte asinüsün hangi bölümünün genişlediğini gösteriyor.
+Ekrandaki şekil, normal asinüsü ve amfizem tiplerinde asinüsün genişleyen bölümünü gösteriyor. Şekil şematik ve sunumdaki diyagramlardan hazırlandı. Dört asinüs yan yana duruyor. Sol üstteki etiket terminal bronşiolü, alttaki etiket ise lobül septumunu ve plevrayı gösteriyor. İlk asinüs normal: terminal bronşiolün distali, yani respiratuvar bronşiol, alveol kanalı ve alveoller. İkincisi sentriasiner amfizem: asinüsün merkezi, yani respiratuvar bronşiol genişler. Etiketinde üst lob, sigara ve en sık, yüzde doksan beş yazıyor.
+Üçüncüsü panasiner amfizem: bütün asinüs eşit genişler. Etiketinde alt lob, ön yüz ve alfa bir antitripsin eksikliği yazıyor. Dördüncüsü paraseptal amfizem: distal asinüs, yani septum ve plevra komşuluğu genişler. Etiketinde üst yarı, büller ve genç erişkinde pnömotoraks yazıyor. Şekildeki magenta renk, genişleyen ve duvarı yıkılan hava boşluklarını gösteriyor. Özetle: sentriasinerde respiratuvar bronşiyol düzeyindeki merkezi bölge, panasinerde asinüsün tamamı, paraseptalde ise lobül septumuna ve plevraya komşu distal bölge genişler.
+İlk tip: sentriasiner, yani sentrilobüler amfizem. Asinüsün merkezini ya da proksimalini, yani respiratuvar bronşiyol bölümünü tutar. Distal alveoller korunur. Bu yüzden aynı asinüs ya da lobül içinde hem amfizematöz hem de normal hava boşlukları bulunur.
+Sigara içimiyle ilişkilidir ve klinik olarak en yaygın formdur: amfizem olgularının yaklaşık yüzde doksan beşi.
+Üst loblarda, özellikle apikal segmentlerde daha sık ve şiddetlidir. 2023 2024 sınavının kırk üçüncü ve 2022 2023 sınavının altmışıncı sorusunda "sıklıkla akciğerin alt lobları tutulur" ifadesi geçti ve sentriasiner amfizem için yanlıştı.
+Yaygın ve ağır sentriasiner amfizemde distal asinüs de tutulur. Bu yüzden onu panasiner amfizemden morfolojik olarak ayırmak zorlaşabilir.
+Çok sigara içen kişilerde, orta ile ağır derecedeki amfizeme sıklıkla kronik bronşit de eşlik eder.
+Mekanizması ne? Sigara lökosit ve makrofaj kemotaksisini, elastaz salınımını ve aktivasyonunu indükler. İçerdiği oksidanlarla alfa bir antitripsini inhibe eder ve elastik doku yıkımına neden olur. Bu mekanizma Kitap birde, Bölüm üç nokta onda anlatılıyor.
+Amfizematöz boşlukların duvarı sıklıkla siyah, yani antrakotik pigment içerir. Bronş ve bronşiyollerin çevresinde ve septalarda inflamasyon da septal yıkıma eklenebilir.
+Peki neden üst lob? Kesin bilinmese de olası açıklamalar şunlar. Akciğer tepelerinde ventilasyonun perfüzyona oranı yüksektir. Solunan partiküller ve oksidanlar orada daha uzun kalır, kanla gelen koruyucu antiproteazlar ve antioksidanlar ise daha az ulaşır. Tepedeki alveoller daha gergin olduğu için mekanik stres de daha fazladır. Ayrıca sigara dumanı partikülleri, ilk ulaştıkları yer olan respiratuvar bronşiyollerde birikir. Bu da hasarın asinüsün merkezinde başlamasını açıklar.
+İkinci tip: panasiner amfizem. Burada asinüsler, respiratuvar bronşiyolden terminal alveole kadar uniform olarak genişler.
+Çok sık görülmez.
+Alt loblar tutulur, özellikle akciğerin ön yüzü.
+Ve en önemlisi: alfa bir antitripsin eksikliğiyle ilişkilidir. Alfa bir antitripsinin proteaz inhibitör, yani P i lokusunda genetik bozukluk vardır. Sonuçta alveol duvarlarındaki elastik dokuda proteolitik yıkım başlar. Bu bilgi üç sınavda soruldu: 2025 2026 sınavının kırk altıncı, 2024 sınavının yirmi altıncı ve 2023 2024 sınavının kırk birinci sorusunda, kalıtsal alfa bir antitripsin eksikliğiyle ilişkili amfizem tipi panasiner amfizemdi.
+Peki neden asinüsün tamamı ve neden alt lob? Alfa bir antitripsin eksikliğinde koruyucu kalkan her yerde eksiktir. Elastaz nereye ulaşırsa orada yıkım yapar. Bu yüzden asinüsün her bölümü eşit etkilenir. Akciğer kanının büyük kısmı ise yerçekimi nedeniyle alt loblara gider. Elastaz taşıyan nötrofiller de en çok oraya ulaşır.
+
+### k3b1_03 | Paraseptal, irregüler, büllöz amfizem, özet tablo, Soru 1 ve 2
+Üçüncü tip: paraseptal, yani distal asiner amfizem. Burada asinüslerin distali tutulur. Proksimal bölüm normaldir.
+Lobüllerin sınırında, lobüler bağ dokusu septumlarında ve plevraya yakın bölgelerde şiddetlidir. Skar, fibrozis ve atelektazi alanlarının çevresinde belirgindir.
+Akciğerin üst yarısında daha ağırdır.
+Birbiriyle ilişkili çok sayıda genişlemiş boşluk, çapı sıfır virgül beş ile iki santimetre arasında olan kistler oluşturur. Bu kistler plevranın hemen altındadır ve yırtılınca havayı plevra boşluğuna boşaltır. Bu yüzden paraseptal amfizem, genç erişkinlerde spontan pnömotoraksın esas nedenidir. Bu, 2024 sınavının yirmi üçüncü ve 2023 2024 sınavının kırk yedinci sorusuydu. Tipik hasta uzun boylu, zayıf, genç bir erkektir.
+Son olarak irregüler amfizem ve büllöz amfizem. İrregüler amfizem, fibrozisin eşlik ettiği hava yolu genişlemesidir. Asinüsü düzensiz biçimde tutar ve eski bir skar dokusuyla ilişkili fokal bir formdur. Çok sık görülür, ama klinik önemi yoktur.
+Amfizemin tanımındaki "belirgin fibrozis yok" kuralının tek istisnası gibi görünür. Ama burada fibrozis amfizemin sonucu değil, nedenidir: skar dokusu büzülürken çevresindeki hava boşluklarını çeker ve genişletir.
+Büllöz amfizem ise ayrı bir tip değildir. Sentriasiner ya da paraseptal amfizemin abartılı, yani egzajere biçimidir. Bül, çapı bir santimetreden büyük hava boşluğudur. Büyük büller komşu sağlam akciğeri sıkıştırır ve pnömotoraksa yol açabilir. Tedavide büllektomi önerilir.
+Şimdi hepsini ekrandaki tabloda toplayalım. Sentriasiner amfizem: asinüsün tutulan bölümü merkezdir, yani respiratuvar bronşiyol. Lob: üst, apikal. İlişkili durum: sigara, kronik bronşit eşlik eder. Klinik önemi: en sık tiptir, yüzde doksan beş, KOAH'ın amfizemidir.
+Panasiner amfizem: asinüsün tamamı, uniform olarak tutulur. Lob: alt, ön yüz. İlişkili durum: alfa bir antitripsin eksikliği. Klinik önemi: genç yaşta ağır amfizem.
+Paraseptal amfizem: tutulan bölüm distaldir, yani septum ve plevra komşuluğu. Lob: üst yarı. İlişkili durum: skar, fibrozis ve atelektazi komşuluğu. Klinik önemi: genç erişkinde spontan pnömotoraks.
+İrregüler amfizem: tutulum düzensizdir. Lob sütununda bir bilgi yok. İlişkili durum: eski skar. Sık görülür, ama klinik önemi yoktur.
+Büllöz amfizem: sentriasiner ya da paraseptal amfizemin abartılı biçimidir. Lob sütununda yine bir bilgi yok. İlişkili durum: bir santimetreden büyük bül. Klinik önemi: pnömotoraks ve büllektomi.
+Ve işte sık karıştırılan nokta: üst lob mu, alt lob mu? Akılda tutmanın kolay yolu nedeni düşünmek. Sigara solunan bir etkendir ve en çok, ventilasyonun perfüzyondan fazla olduğu üst loblarda hasar yapar. Yani sentriasiner amfizem, üst lob. Alfa bir antitripsin eksikliği ise kanla ilgili bir sorundur ve elastaz kanla en çok alt loblara taşınır. Yani panasiner amfizem, alt lob.
+Bronşektazi de alt lobları tutar, bunu dördüncü bölümde göreceğiz. Ama nedeni farklıdır: sekresyonların yerçekimiyle birikmesi.
+Bu bölümden yıllara göre gelen soru sayısına bakalım. 2022 2023 sınavında üç, 2023 2024 sınavında beş, 2024 sınavında dört ve 2025 2026 sınavında üç soru geldi. Yani toplam on beş soruyla bu bölüm, kitabın en çok soru gelen bölümü.
+Her yıl üç ile beş soru geldi. Sorulan bilgiler şunlardı: amfizemde belirgin fibrozis yoktur, primer hasar asinüstedir, alfa bir antitripsin eksikliği panasiner amfizem yapar, sentriasiner amfizem alt lobları değil üst lobları tutar, paraseptal amfizem genç erişkinde spontan pnömotoraksın nedenidir ve sarkoidoz obstrüktif değildir. Şimdi bu soruları birlikte çözelim.
+Bölüm sonu sorularına geçiyoruz. Soru bir. Bu soru üç sınavda soruldu: 2022 2023 sınavının altmış sekizinci, 2024 sınavının otuz ikinci ve 2023 2024 sınavının kırk beşinci sorusu.
+Aşağıdakilerden hangisi obstrüktif akciğer hastalıklarından biri değildir?
+A: Astım.
+B: Kronik bronşit.
+C: Bronşektazi.
+D: Sarkoidoz.
+E: Kistik fibrozis.
+Durdur ve düşün.
+Cevap D, sarkoidoz. Sarkoidoz granülomatöz bir interstisyel akciğer hastalığıdır. İlerledikçe fibrozis yapar ve akciğerin genişlemesini kısıtlar. Toplam akciğer kapasitesi ve FVC azalır, FEV bir bölü FVC oranı normaldir. Yani restriktif bir hastalıktır.
+A, B, C ve E ise hava akımına karşı direnci artıran klasik obstrüktif hastalıklardır. Daralma astımda bronş düz kası, ödem ve mukustan kaynaklanır. Kronik bronşitte mukus ve küçük hava yolu hastalığından, bronşektazide ve kistik fibrozda ise kalın sekresyonlar ve hava yolu duvarının hasarından kaynaklanır.
+Soru iki. 2025 2026 sınavının kırk beşinci ve 2024 sınavının yirmi beşinci sorusu.
+Primer hasarın asinüslerde gözlendiği obstrüktif akciğer hastalığı aşağıdakilerden hangisidir?
+A: Amfizem.
+B: Silikozis.
+C: Kronik bronşit.
+D: Astım.
+E: Bronşiektazi.
+Durdur ve düşün.
+Cevap A, amfizem. Asinüs, terminal bronşiyolün distalindeki yapılardır: respiratuvar bronşiyoller, alveol kanalları ve alveoller. Amfizem, tanım gereği terminal bronşiyollerin distalini tutar. KOAH'ta amfizem asiner düzeydeki, kronik bronşit ise bronşiyal düzeydeki direnci ifade eder.
+B yanlış: silikoz bir pnömokonyozdur, yani restriktif bir interstisyel hastalıktır ve obstrüktif değildir. C ve D yanlış: kronik bronşit ve astım, iletici hava yollarının, yani bronş ve bronşiyollerin hastalığıdır. E yanlış: bronşektazi, bronşların ve bronşiyollerin kalıcı genişlemesidir. Asinüsü değil, iletici hava yollarını tutar.
+
+### k3b1_04 | Soru 3, 4, 5, 6 ve pekiştirme sorusu
+Soru üç. Bu da üç sınavda soruldu: 2025 2026 sınavının kırk birinci, 2023 2024 sınavının ellinci ve 2022 2023 sınavının elli altıncı sorusu.
+Amfizem ile ilgili aşağıdakilerden hangisi yanlıştır?
+A: Terminal bronşiyollerin distalindeki hava boşluklarının genişlemesi ile seyreden bir hastalıktır.
+B: Belirgin fibrozis mevcuttur.
+C: Septal harabiyet akciğerin eski hâlini alma yeteneğinde azalmaya sebep olur.
+D: Kalıcı bir hastalıktır.
+E: Senil olarak da alveollerde genişleme görülebilir.
+Durdur ve düşün.
+Cevap B. Yani yanlış olan ifade B şıkkı. Amfizemin tanımında belirgin interstisyel fibrozis olmaması yer alır. Yıkılan duvarlardan kalan fibrovasküler adacıklar fibrozise benzeyebilir ve yeniden yapılanmaya bağlı hafif fibrozis görülebilir. Ama belirgin fibrozis, amfizemin değil, interstisyel fibrozisin özelliğidir.
+A, C ve D tanımın kendisidir: terminal bronşiyol distali, septal harabiyetle elastik geri çekimin kaybı ve kalıcı genişleme. E doğrudur ve bir ayrımı vurgular: yaşlılıkta alveoller düzensiz olarak genişleyebilir, buna senil aşırı havalanma denir. Ama duvar yıkımı olmadığı için bu gerçek amfizem değildir.
+Bir not: 2025 2026 sürümünde E şıkkı, soru bankasında "esas olarak alveollerde genişleme görülebilir" biçiminde kaydedilmiştir. İki ifade de doğru kabul edilir.
+Soru dört. Bu soru da üç sınavda soruldu: 2025 2026 sınavının kırk altıncı, 2024 sınavının yirmi altıncı ve 2023 2024 sınavının kırk birinci sorusu.
+Alfa bir antitripsin eksikliği ile ilişkili KOAH alt tipi aşağıdakilerden hangisidir?
+A: Kronik bronşit.
+B: Santral amfizem.
+C: Panasiner amfizem.
+D: Pulmoner fibrozis.
+E: Bronşiektazi.
+Durdur ve düşün.
+Cevap C, panasiner amfizem. Alfa bir antitripsin eksikliğinde, özellikle P i Z Z'de, elastazı nötralize edecek antiproteaz her yerde eksiktir. Asinüsün bütün bölümleri eşit olarak yıkılır, yani tutulum panasinerdir. Kan akımının fazla olduğu alt loblar da en çok etkilenir. Hastalık genç yaşta ortaya çıkar ve sigara onu belirgin biçimde hızlandırır.
+A yanlış: kronik bronşitin temel nedeni sigaradır ve alfa bir antitripsin eksikliğiyle özgül bir ilişkisi yoktur. B yanlış: santral, yani sentriasiner amfizem, sigarayla ilişkili, üst lobları tutan, en sık amfizem tipidir. D yanlış: pulmoner fibrozis restriktif bir hastalıktır ve KOAH'ın alt tipi değildir. E yanlış: bronşektazi alfa bir antitripsin eksikliğinde görülebilir, ama eksikliğe özgü KOAH tipi panasiner amfizemdir.
+Soru beş. 2022 2023 sınavının altmışıncı ve 2023 2024 sınavının kırk üçüncü sorusu.
+Aşağıdakilerden hangisi sentriasiner amfizem özelliklerinden biri değildir?
+A: Sigara ile ilişkilidir.
+B: En sık görülen formdur.
+C: Sıklıkla akciğerin alt lobları tutulur.
+D: Sigara içen kişilerde kronik bronşit de amfizeme eşlik eder.
+E: Sigara, içerdiği oksidanlarla alfa bir antitripsini inhibe eder ve elastik doku yıkımı olur.
+Durdur ve düşün.
+Cevap C. Yani sentriasiner amfizemin özelliği olmayan şık C. Sentriasiner amfizem üst loblarda, özellikle apikal segmentlerde daha sık ve ağırdır. Alt lobları tutan amfizem, alfa bir antitripsin eksikliğine bağlı panasiner amfizemdir.
+A, B, D ve E ise sunumdaki sentriasiner amfizem slaytının maddeleridir: sigarayla ilişkilidir ve klinik olarak en yaygın formdur, yüzde doksan beş. Çok sigara içenlerde kronik bronşit eşlik eder. Ve sigara, oksidanlarla alfa bir antitripsini inhibe ederek elastik doku yıkımına yol açar.
+Soru altı. 2024 sınavının yirmi üçüncü ve 2023 2024 sınavının kırk yedinci sorusu.
+Genç erişkinlerde spontan pnömotoraksa en sık sebep olan amfizem türü hangisidir?
+Bu sorunun şıkları kaynakta kayıtlı değil.
+Durdur ve düşün.
+Cevap: paraseptal amfizem, yani distal asiner amfizem. 2023 2024 sınavında bu, C şıkkıydı. Paraseptal amfizemde asinüsün distali, yani lobül septumlarına ve plevraya komşu bölge tutulur. Birbiriyle ilişkili genişlemiş boşluklar, plevranın hemen altında sıfır virgül beş ile iki santimetre çaplı kistler oluşturur. Bu kistlerin yırtılması havayı plevra boşluğuna boşaltır.
+Sorunun diğer şıkları büyük olasılıkla şunlardı. Sentriasiner amfizem: yaşlı içicide, KOAH'la birlikte. Panasiner amfizem: alfa bir antitripsin eksikliği, alt lob. İrregüler amfizem: skar komşuluğu, klinik önemi yok. Ve büllöz amfizem. Bunlar da pnömotoraks yapabilir. Ancak genç ve başka açıdan sağlıklı bir erişkindeki spontan pnömotoraksın esas nedeni paraseptal amfizemdir.
+Son olarak, konuyu pekiştirmek için hazırlanmış yeni bir soru.
+Sağ pnömonektomi yapılmış bir hastanın sol akciğerinde hava boşluklarının genişlediği görülüyor. Alveol duvarlarında yıkım yoktur. Bu durum için en doğru tanım hangisidir?
+A: Sentriasiner amfizem.
+B: Panasiner amfizem.
+C: Kompansatuvar aşırı havalanma.
+D: Büllöz amfizem.
+E: Bronşektazi.
+Durdur ve düşün.
+Cevap C, kompansatuvar aşırı havalanma. Amfizemin tanımı duvar yıkımını şart koşar. Yıkım olmadan hava boşluklarının genişlemesi aşırı havalanmadır. Pnömonektomiden sonra kalan akciğerin boşluğu doldurmak için genişlemesi, kompansatuvar aşırı havalanmanın tipik örneğidir.
+A, B ve D amfizem tipleridir ve hepsinde duvar yıkımı vardır. E yanlış: bronşektazi asinüsün değil, bronş ve bronşiyollerin genişlemesidir ve duvarın kronik nekrotizan enfeksiyonla harabiyetiyle gelişir.
+Bölüm birin sonuna geldik. Bir sonraki bölümde kronik bronşiti konuşacağız.

@@ -1,0 +1,93 @@
+### k5b4_01 | Giriş, tedavinin ilkeleri ve oksijen tedavisi
+Kor pulmonale. Bölüm dört: Tedavi.
+Kor pulmonalenin tedavisi, Bölüm birdeki zincirin halkalarını sırayla kırmaktır: altta yatan akciğer hastalığını düzeltmek, hipoksiyi gidermek, pulmoner basıncı düşürmek ve sağ ventrikülün iş yükünü azaltmak.
+Bu halkalardan en önemlisi hipoksidir. Sunumun deyişiyle oksijen, pulmoner vazokonstriksiyonu durduran ve uzun süreli pulmoner vazodilatasyon yapan tek ilaçtır.
+Ama oksijenin de doğru dozu vardır ve sınav dört yıl üst üste bu dozu sordu: kronik hiperkapnik hastaya nazal kanülle dakikada sekiz ile on litre oksijen verilmez. Hadi başlayalım.
+Önce tedavinin ilkeleri. Sunum, kor pulmonalenin tedavisini kalp yetersizliği tedavisinin genel çerçevesine yerleştirir. Bu genel çerçeve şöyledir.
+Etiyolojiye yönelik tedavi. Presipite eden faktörlerin tedavisi; bu faktörler anemi, enfeksiyonlar, tirotoksikoz, tuz alımı ve kalp yetersizliğini kötüleştiren ilaçlardır. Bu ilaçlar da kalsiyum antagonistleri, nonsteroid antiinflamatuvar ilaçlar ve antiaritmiklerdir.
+Ardından önyük ve ardyükün azaltılması, inotropinin artırılması, sağkalımın uzatılması ve yaşam kalitesinin artırılması: istirahat, tuzsuz diyet ve kilo verme. Kor pulmonalede bu çerçeve şu hedeflere dönüşür.
+Birinci hedef: altta yatan hastalığın tedavisi ve önlemler. Sunuma ve sınava göre temel amaç budur. 2025 2026 sınavının on dokuzuncu sorusunda "altta yatan hastalığın tedavisi temel amaçtır" ifadesi doğru olarak geçti.
+İkinci hedef: pulmoner arter basıncını düşürmek. Bunun için oksijen, gerekirse de pulmoner vazodilatörler kullanılır.
+Üçüncü hedef: sağ ventrikülün iş yükünü azaltmak. Bunu diüretikler ve flebotomi sağlar.
+Dördüncü hedef: komplikasyonları tedavi etmek. Yani enfeksiyonları, aritmileri ve tromboembolizmi.
+Şimdi oksijen tedavisine geçelim. Sunum oksijeni ünlem işaretiyle vurgular: oksijen, pulmoner vazokonstriksiyonu durduran ve uzun süreli pulmoner vazodilatasyon yapan tek ilaçtır.
+Etkileri şunlar: dispnede azalma, mental fonksiyonlarda iyileşme, diürezde artış ve pulmoner damar direncinde azalma. Her etkinin mekanizması, önceki bölümlerdeki zincirdir. Tek tek bakalım.
+Bir: alveoler oksijen yükselince pulmoner arteriollerdeki K v kanalları yeniden açılır. Düz kas gevşer ve pulmoner vasküler direnç düşer. Böylece sağ ventrikülün ardyükü azalır.
+İki: böbrek ve kas dokusu oksijenlenince renin anjiyotensin sistemi ve sempatik aktivasyon azalır. Böbrek, tuttuğu sodyumu ve suyu atar. Sonuç: diürez artar, ödem çözülür.
+Üç: eritropoetin uyarısı azalır ve polisitemi geriler.
+Dört: beynin oksijenlenmesi mental fonksiyonları düzeltir.
+Uzun süreli oksijen tedavisi, KOAH'ta sağkalımı uzattığı kanıtlanmış az sayıdaki tedaviden biridir. Ama dikkat: bu yarar ancak günde en az on beş saat kullanımla elde edilir.
+Güncel KOAH önerilerine göre endikasyonlar şunlardır. Birincisi, istirahatte P a O ikinin elli beş milimetre cıva ya da daha düşük, veya S p O ikinin yüzde seksen sekiz ya da daha düşük olması. İkincisi, P a O iki elli altı ile elli dokuz milimetre cıva arasındayken pulmoner hipertansiyon, sağ kalp yetersizliğine bağlı periferik ödem ya da polisitemi bulunması. Polisitemi burada yüzde elli beşin üzerinde hematokrit demektir. Yani kor pulmonale gelişmişse oksijen daha erken başlanır.
+Peki doğru doz ne? Neden düşük akım? Kronik hiperkapnik hastada oksijen düşük akımla verilir: nazal kanülle genellikle dakikada bir ile üç litre. Hedef, S p O ikinin yüzde seksen sekiz ile doksan iki arasında, yani P a O ikinin altmış ile altmış beş milimetre cıva arasında olmasıdır.
+Bu hastaya yüksek konsantrasyonda oksijen verilirse ne olur? P a C O iki yükselir, asidoz derinleşir ve hasta uykuya eğilimli hâle gelip karbondioksit narkozuna girebilir. Bunun üç mekanizması vardır.
+Birinci mekanizma: hipoksik vazokonstriksiyonun kalkması. İyi havalanmayan alveollerin damarları, hipoksi nedeniyle daralmış durumdadır. Yüksek oksijen bu daralmayı her yerde birden kaldırır. Kan yeniden kötü havalanan alveollere gider, ventilasyon perfüzyon uyumu bozulur ve karbondioksit atılamaz. En önemli mekanizma budur.
+İkinci mekanizma: Haldane etkisi. Oksijenle doyan hemoglobin karbondioksite daha az bağlanır. Hemoglobinden ayrılan karbondioksit plazmaya geçer ve P a C O iki yükselir.
+Üçüncü mekanizma: hipoksik solunum dürtüsünün azalması. Kronik hiperkapnide solunum merkezi karbondioksite duyarsızlaşır ve dürtünün bir kısmı hipoksiden gelir. Hipoksi tamamen düzeltilince ventilasyon bir miktar azalır. Ama bu mekanizmanın katkısı, eskiden sanıldığından küçüktür.
+Ekrandaki şekilde, nazal kanülle verilen oksijenin akım hızı ve solunan havadaki yaklaşık oksijen oranı, yani F i O iki var. Yatay eksende nazal kanül akım hızı, dikey eksende yüzde sıfırdan yüzde elliye kadar, onar puan arayla ilerleyen oksijen oranı görüyorsun. Dakikada bir litrede yüzde yirmi dört, iki litrede yüzde yirmi sekiz, üç litrede yüzde otuz iki, dört litrede yüzde otuz altı, beş litrede yüzde kırk ve altı litrede yüzde kırk dört.
+İlk üç sütun renkli, son üç sütun gri. Sağdaki ilk kutuda şu yazıyor: dakikada bir ile üç litre, hiperkapnik hastada uzun süreli tedavi, hedef S p O iki yüzde seksen sekiz ile doksan iki. Altındaki kutuda ise: dakikada sekiz ile on litre, nazal kanülle uygulanmaz.
+Altyazı şöyle. Şekil dört nokta bir: nazal kanülle oksijen akım hızı ve solunan havadaki yaklaşık oksijen oranı. Dakikada her bir litre, yaklaşık dört puanlık artış sağlar. Gerçek değer, hastanın solunum hızına ve derinliğine göre değişir. Kesikli çizgi oda havasıdır, yani yüzde yirmi bir. Kronik hiperkapnik hastada uzun süreli tedavi dakikada bir ile üç litreyle yapılır. Dakikada altı litrenin üzerindeki akımlar nazal kanülle ek oksijen sağlamaz, burun mukozasını kurutur ve tahriş eder.
+Bu yüzden "nazal oksijen tedavisi dakikada sekiz ile on litre uygulanır" ifadesi yanlıştır. Bu ifade dört sınavda da geçti: 2025 2026 sınavının on dokuzuncu, 2024 sınavının otuz yedinci, 2023 2024 sınavının otuz dokuzuncu ve 2022 2023 sınavının otuz sekizinci sorusu.
+Peki neden yanlış? İki ayrı nedenle. Birincisi, kronik hiperkapnik hastada yüksek akım karbondioksit retansiyonunu artırır. İkincisi, nazal kanül zaten dakikada altı litrenin üzerinde anlamlı ek oksijen sağlamaz. Daha yüksek ve kontrollü bir oksijen konsantrasyonu gerekiyorsa Venturi maskesi kullanılır. Venturi maskesi, hastanın solunum düzeninden bağımsız olarak sabit bir F i O iki verir: yüzde yirmi dört, yüzde yirmi sekiz, yüzde otuz bir gibi.
+
+### k5b4_02 | Altta yatan hastalık, diüretikler, digoksin, antikoagülasyon ve flebotomi
+Sırada altta yatan hastalık ve dekompansasyon nedenleri var. Sunumdaki tedavi listesinin büyük kısmı, altta yatan hastalığa yöneliktir.
+KOAH'ta bronkodilatasyon yapılır: beta iki sempatomimetikler, antikolinerjikler ve teofilin. Bunlara steroidler ve sigaranın bırakılması eklenir. Ayrıntılar için Kitap dörde bakabilirsin. Teofilin diyafram kontraktilitesini ve sağ ventrikül fonksiyonunu da artırır, ama aritmi riski nedeniyle dikkatle kullanılır.
+Enfeksiyöz atakların tedavisi, yani antibiyotik. Bronşit alevlenmesi ya da pnömoni hipoksemiyi derinleştirir, pulmoner vazokonstriksiyonu artırır ve dengedeki sağ ventrikülü yetersizliğe iter. Sınavın ifadesiyle: araya giren enfeksiyonlar hastayı dekompanse hâle getirebilir. Bu, 2025 2026 sınavının on dokuzuncu sorusunda doğru ifadeydi.
+Obstrüktif uyku apnesi. Sunuma göre OSA hastalarının yüzde beş ile on ikisinde kronik kor pulmonale gelişir. Her apne sırasında gelişen gece hipoksemisi ve göğüs içi basınç dalgalanmaları pulmoner basıncı yükseltir. Tedavisi pozitif hava yolu basıncıdır. CPAP, yani sürekli pozitif basınç, üst hava yolunun kapanmasını önler. Hiperkapnik hastada iki basınç düzeyli BiPAP ventilasyonu da destekler.
+Son olarak obezite hipoventilasyon ve göğüs kafesi hastalıkları. Bunlarda noninvaziv ventilasyon ve kilo verme uygulanır.
+Şimdi diüretikler ve asetazolamid. Sunuma göre ödemde diüretikler kullanılır: furosemid ve spironolakton. Tuz kısıtlanır. Hastanın kilosu, aldığı ve çıkardığı sıvı ve elektrolitleri izlenir.
+2025 2026 sınavının yirminci sorusunda "ödem varlığında diüretikler kullanılır" ifadesi doğru olarak geçti. Diüretikler dolaşan hacmi azaltarak sistemik venöz basıncı düşürür ve ödemi çözer.
+Sunumun burada özel bir notu var: kronik hiperkapnik hastalarda ilk seçenek asetazolamiddir. Neden? Nedeni, diğer diüretiklerin asit baz dengesine etkisidir. Adım adım bakalım.
+Bir: kronik hiperkapnik hastada böbrekler, respiratuvar asidozu kompanse etmek için bikarbonat tutmuştur.
+İki: furosemid gibi kıvrım diüretikleri klor ve potasyum kaybettirir ve hacmi daraltır. Bu da bikarbonatı daha da yükselten bir metabolik alkaloz yapar. Buna kontraksiyon alkalozu denir.
+Üç: alkaloz solunum merkezini baskılar. Hasta daha az solur ve P a C O iki daha da yükselir.
+Dört: asetazolamid ise karbonik anhidrazı inhibe ederek böbrekten bikarbonat attırır. Hafif bir metabolik asidoz yapar, solunum merkezini uyarır, ventilasyonu artırır ve P a C O ikiyi düşürür. Aynı zamanda diüretik etki de gösterir.
+Bir uyarı: aşırı diürezden kaçınılmalıdır. Hacim fazla azalırsa sağ ventrikülün önyükü düşer ve zaten sınırda olan debi azalır. Kan yoğunlaşır, polisitemi ve viskozite artar. Hipokalemi de aritmi riskini ve digoksin toksisitesini artırır.
+Sırada digoksin, aritmiler ve antikoagülasyon var. Sunuma göre konjestif kalp yetersizliğinde kardiyotonikler kullanılabilir: dopamin, dobutamin ve dijital. Dopamin ve dobutamin, dekompanse sağ ventrikül yetersizliğinde yoğun bakımda damar içi verilir.
+Digoksinin kor pulmonalede iki kullanım yeri vardır. Birincisi, atriyal fibrilasyonda ventrikül hızının kontrolü. 2025 2026 sınavının on dokuzuncu sorusunda "atriyal fibrilasyon varlığında digoksin kullanılabilir" ifadesi doğru olarak geçti. İkincisi, eşlik eden sol ventrikül sistolik yetersizliği.
+Digoksinin sağ ventrikül fonksiyonuna katkısı ise sınırlıdır. Bu hastalarda hipoksemi, hipokalemi ve asidoz, digoksin toksisitesini ve aritmi riskini artırır. Bu yüzden doz dikkatle ayarlanır ve düzey izlenir.
+Sunum tedavi listesinde antikoagülanları da sayar. Kor pulmonalede antikoagülasyonun üç gerekçesi vardır.
+Birinci gerekçe: atriyal fibrilasyon. Genişlemiş atriyumda pıhtı oluşur ve emboli riski vardır. Bu yüzden atriyal fibrilasyon varlığında uzun süreli oral antikoagülan tedavisi gerekir. Bu da 2025 2026 sınavının on dokuzuncu sorusunda doğru ifadeydi. Karar, inme risk skoruna, yani C H A iki D S iki V A S c skoruna göre verilir.
+İkinci gerekçe: kronik tromboembolik pulmoner hipertansiyon. Yeni emboliler sağ ventrikülü daha da zorlayacağı için yaşam boyu antikoagülasyon gerekir.
+Üçüncü gerekçe: tromboz eğilimi. Düşük debi, hareketsizlik, venöz staz ve polisitemi venöz tromboz riskini artırır. Hastaneye yatan hastada profilaksi yapılır.
+Şimdi flebotomi. Sunuma göre hematokrit yüzde elli beşin üzerindeyse flebotomi yapılır: haftada bir, iki yüz elli ile üç yüz mililitre kan alınabilir. Amaç kan viskozitesini düşürmektir. Viskozite azalınca pulmoner vasküler direnç düşer, sağ ventrikülün iş yükü azalır ve mikrodolaşım düzelir.
+Ama unutma: flebotomi polisiteminin nedenini düzeltmez. Asıl tedavi, uyarıyı ortadan kaldıran oksijendir. Bu yüzden flebotomi, oksijen tedavisine rağmen hematokriti yüksek kalan ve hiperviskozite belirtileri olan hastada ek tedavidir. Bu belirtiler baş ağrısı, baş dönmesi ve görme bulanıklığıdır. Alınan kanın yerine çoğu zaman serum fizyolojik verilir ve hacmin birden düşmesi önlenir.
+
+### k5b4_03 | Pulmoner vazodilatörler, tedavi özeti ve bölüm sonu soruları
+Sırada pulmoner vazodilatörler var. Sunumdaki pulmoner vazodilatör tedavi seçenekleri şunlar: ACE inhibitörleri ya da ARB'ler. Kalsiyum kanal blokerleri, yani nifedipin, diltiazem ve verapamil; bunlara hastaların yüzde yirmi beşi yanıt verir. İnhale nitrik oksit ve iloprost. Ve endotelin reseptör antagonisti, yani bosentan.
+Etki mekanizmaları farklıdır. İnhale nitrik oksit, damar düz kasında siklik GMP'yi artırır. İloprost, inhale edilen bir prostasiklin analoğudur ve siklik AMP'yi artırır. Bosentan ise güçlü bir vazokonstriktör ve düz kas büyüme faktörü olan endotelin birin reseptörlerini bloke eder.
+Burada ekranda bir kutu var: sunum ile güncel bilgi arasındaki fark. Güncel kılavuzlar pulmoner vazodilatörleri dikkatli kullanır. Kalsiyum kanal blokerleri, yalnızca sağ kalp kateterizasyonunda akut vazoreaktivite testi pozitif çıkan hastalarda yüksek dozda kullanılır: nifedipin, diltiazem ya da amlodipin. Verapamil, negatif inotrop etkisi nedeniyle önerilmez.
+Akciğer hastalığına bağlı pulmoner hipertansiyonda, yani klasik kor pulmonalede, bosentan gibi sistemik vazodilatörler genellikle önerilmez. Çünkü hipoksik vazokonstriksiyonu bütün akciğerde kaldırarak kanı kötü havalanan alveollere yönlendirir ve hipoksemiyi ağırlaştırabilirler. Oksijenden farklı olarak V bölü Q uyumunu bozarlar.
+İnhale ilaçlar ise yalnızca havalanan alveollerin damarlarını genişlettiği için bu sakıncayı taşımaz. İnterstisyel akciğer hastalığına bağlı pulmoner hipertansiyonda inhale treprostinil kullanılabilmektedir.
+Şimdi bütün bölümü bir tabloda toparlayalım: tedavi özeti. Her satırda tedaviyi, zincirde kırdığı halkayı ve sınav notunu söyleyeceğim. Birinci satır: altta yatan hastalığın tedavisi, yani bronkodilatör, steroid, CPAP ya da BiPAP. Kırdığı halka: hipoksi ve hiperkapninin kaynağı. Sınav notu: temel amaç.
+Antibiyotik. Kırdığı halka: dekompansasyonu tetikleyen enfeksiyon. Sınav notu: enfeksiyon hastayı dekompanse eder.
+Uzun süreli oksijen: dakikada bir ile üç litre, günde en az on beş saat. Kırdığı halka: hipoksik vazokonstriksiyon ve polisitemi. Sınav notu: tek gerçek pulmoner vazodilatördür ve nazal yoldan dakikada sekiz ile on litre verilmez.
+Diüretik: asetazolamid, furosemid ve spironolakton. Kırdığı halka: hacim fazlalığı ve venöz konjesyon. Sınav notu: kronik hiperkapnide ilk seçenek asetazolamid.
+Digoksin, dopamin ve dobutamin. Kırdığı halka: atriyal fibrilasyonda hız ve dekompanse yetersizlik. Sınav notu: atriyal fibrilasyonda digoksin kullanılabilir.
+Oral antikoagülan. Kırdığı halka: emboli ve tromboz. Sınav notu: atriyal fibrilasyonda uzun süreli gerekir.
+Flebotomi. Kırdığı halka: viskozite. Sınav notu: hematokrit yüzde elli beşin üzerindeyse, haftada iki yüz elli ile üç yüz mililitre.
+Ve son satır: pulmoner vazodilatörler. Kırdığı halka: pulmoner vasküler direnç. Sınav notu: kalsiyum kanal blokerlerine yanıt yüzde yirmi beş.
+Bu bölümden yıllara göre soru sayısına bakalım. Ekrandaki grafikte 2022 2023 sınavında bir soru, 2023 2024 sınavında bir soru, 2024 sınavında bir soru ve 2025 2026 sınavında yine bir soru var.
+Yani tedavi soruları toplam dört. Dört sınavın dördünde de aynı soru, aynı şıklarla soruldu ve cevap her seferinde "nazal oksijen tedavisi dakikada sekiz ile on litre uygulanır" yanlış ifadesiydi. Şimdi bu soruyu birlikte çözelim.
+Bölüm sonu soruları. Soru bir. Bu soru dört sınavın dördünde de soruldu: 2025 2026 sınavının on dokuzuncu, 2024 sınavının otuz yedinci, 2023 2024 sınavının otuz dokuzuncu ve 2022 2023 sınavının otuz sekizinci sorusu.
+Kor pulmonale tedavisine ilişkin aşağıdakilerden hangisi yanlıştır?
+A: Atriyal fibrilasyon varlığında uzun süreli oral antikoagülan tedavisi gerekir.
+B: Atriyal fibrilasyon varlığında digoksin kullanılabilir.
+C: Araya giren enfeksiyonlar hastayı dekompanse hale getirebilir.
+D: Altta yatan hastalığın tedavisi temel amaçtır.
+E: Nazal oksijen tedavisi dakikada sekiz ile on litre uygulanır.
+Durdur ve düşün.
+Cevap E. Yani yanlış olan ifade E şıkkı. Kor pulmonaleli hasta çoğu zaman kronik hiperkapniktir. Bu hastada oksijen düşük akımla, yani nazal kanülle dakikada bir ile üç litre, ve S p O iki yüzde seksen sekiz ile doksan iki hedeflenerek verilir.
+Yüksek akım ne yapar? Hipoksik vazokonstriksiyonu bütün akciğerde kaldırıp V bölü Q uyumunu bozar, Haldane etkisiyle karbondioksit yükünü artırır ve karbondioksit narkozuna yol açabilir. Nazal kanül ayrıca dakikada altı litrenin üzerinde ek oksijen sağlamaz. 2022 2023 sınavında şık "uygulanabilir" diye geçti, 2024 sınavında ise soru şıksız olarak kayda geçti. Cevap dört yılda da aynı.
+Diğer şıklara bakalım. A doğru: genişlemiş atriyumda pıhtı oluşabileceği için atriyal fibrilasyonda uzun süreli oral antikoagülasyon gerekir. B doğru: digoksin, atriyal fibrilasyonda ventrikül hızını kontrol eder. C doğru: enfeksiyon hipoksemiyi derinleştirerek sağ ventrikülü yetersizliğe iter. D doğru: kor pulmonalenin kaynağı akciğerdedir ve tedavinin temeli altta yatan hastalığın tedavisidir.
+Son olarak, konuyu pekiştirmek için hazırlanmış yeni bir soru.
+Kronik hiperkapnik KOAH ve kor pulmonalesi olan, bacaklarında ödem bulunan hastada diüretik olarak asetazolamidin tercih edilmesinin nedeni aşağıdakilerden hangisidir?
+A: Güçlü bir kıvrım diüretiği olması.
+B: Böbrekten bikarbonat attırarak hafif metabolik asidoz yapması ve solunum merkezini uyarması.
+C: Potasyum tutması ve hiperkalemi yapması.
+D: Pulmoner arterleri doğrudan genişletmesi.
+E: Eritropoetin yapımını artırması.
+Durdur ve düşün.
+Cevap B. Asetazolamid, proksimal tübülde karbonik anhidrazı inhibe eder ve bikarbonatı idrarla attırır. Ortaya çıkan hafif metabolik asidoz solunum merkezini uyarır ve P a C O ikiyi düşürür. Kıvrım diüretikleri ise kontraksiyon alkalozu yaparak solunumu baskılayabilir ve hiperkapniyi ağırlaştırabilir.
+A yanlış: asetazolamidin diüretik etkisi zayıftır. Kıvrım diüretiği furosemiddir. C yanlış: asetazolamid potasyum kaybettirir. D yanlış: pulmoner arterlere doğrudan etkisi klinik olarak önemli değildir. E yanlış: eritropoetin artışı polisitemiyi ağırlaştırır ve istenmez.
+Bölüm dördün sonuna geldik. Bu bölümle birlikte kor pulmonale kitabının da sonuna geldik.

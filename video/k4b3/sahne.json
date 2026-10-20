@@ -1,0 +1,232 @@
+{
+  "_aciklama": "parcalar.txt'deki her dolu satirin ekranda vurgulanacak blogu (CSS secici), satir sirasiyla. Girdi duz secici ya da {\"sel\", \"ac\", \"dur\"}: ac = bu satirdan itibaren o soru kartinin cevabi acik, dur = satirdan sonra eklenecek dusunme arasi (sn). Kimlikler: #bas bolum basligi, #s1.. .book-section sirasi, #k1.. soru kartlari, .qtext soru cumlesi, .opt siklar. Kurallar: video/YAZIM_KURALLARI.md",
+  "kaynak": "kaynak/modul4/kitaplar/m4k4/03_antimuskarinik.html",
+  "ust_baslik": "Antiastmatik İlaçlar · Bölüm 3 · Antimuskarinikler ve Metilksantinler",
+  "parcalar": {
+    "k4b3_01": [
+      "#bas",
+      ".chapter-lead",
+      ".chapter-lead",
+      ".chapter-lead",
+      "#s1 > h3, #s1 > p:nth-of-type(1)",
+      "#s1 > p:nth-of-type(1)",
+      "#s1 > p:nth-of-type(2)",
+      "#s1 > ol > li:nth-child(1)",
+      "#s1 > ol > li:nth-child(2)",
+      "#s1 > ol > li:nth-child(3)",
+      "#s1 > ol > li:nth-child(4)",
+      "#s1 > p:nth-of-type(3)",
+      "#s1 > p:nth-of-type(4)",
+      "#s1 tbody tr:nth-child(1)",
+      "#s1 tbody tr:nth-child(2)",
+      "#s1 tbody tr:nth-child(3)",
+      "#s1 > p:nth-of-type(5)",
+      "#s1 > figure",
+      "#s1 > figure",
+      "#s1 > figure",
+      "#s1 > figure",
+      "#s1 > figure"
+    ],
+    "k4b3_02": [
+      "#s1 > p:nth-of-type(6)",
+      "#s1 > p:nth-of-type(6)",
+      "#s1 > p:nth-of-type(7)",
+      "#s1 > p:nth-of-type(7)",
+      "#s2 > h3, #s2 > p:nth-of-type(1)",
+      "#s2 > p:nth-of-type(1)",
+      "#s2 > p:nth-of-type(1)",
+      "#s2 > p:nth-of-type(2)",
+      "#s2 > ul > li:nth-child(1)",
+      "#s2 > ul > li:nth-child(2)",
+      "#s2 > ul > li:nth-child(2)",
+      "#s2 > ul > li:nth-child(3)",
+      "#s2 > p:nth-of-type(3)",
+      "#s3 > h3, #s3 > p:nth-of-type(1)",
+      "#s3 > p:nth-of-type(2)",
+      "#s3 > p:nth-of-type(2)",
+      "#s3 > p:nth-of-type(3)",
+      "#s3 > h4, #s3 > p:nth-of-type(4)",
+      "#s3 > ul > li:nth-child(1)",
+      "#s3 > ul > li:nth-child(2)",
+      "#s3 > ul > li:nth-child(3)",
+      "#s3 > .hl-block",
+      "#s3 > .hl-block"
+    ],
+    "k4b3_03": [
+      "#s4 > h3, #s4 > p:nth-of-type(1)",
+      "#s4 > p:nth-of-type(1)",
+      "#s4 > h4:nth-of-type(1), #s4 > ol > li:nth-child(1)",
+      "#s4 > ol > li:nth-child(1)",
+      "#s4 > ol > li:nth-child(1)",
+      "#s4 > ol > li:nth-child(2)",
+      "#s4 > ol > li:nth-child(2)",
+      "#s4 > ol > li:nth-child(3)",
+      "#s4 > p:nth-of-type(2)",
+      "#s4 > h4:nth-of-type(2), #s4 > p:nth-of-type(3)",
+      "#s4 > ul > li:nth-child(1)",
+      "#s4 > ul > li:nth-child(2)",
+      "#s4 > p:nth-of-type(4)",
+      "#s5 > h3, #s5 > p:nth-of-type(1)",
+      "#s5 > p:nth-of-type(1)",
+      "#s5 > figure",
+      "#s5 > figure",
+      "#s5 > figure",
+      "#s5 > p:nth-of-type(2)",
+      "#s5 > p:nth-of-type(2)"
+    ],
+    "k4b3_04": [
+      "#s5 > p:nth-of-type(3)",
+      "#s5 > ol > li:nth-child(1)",
+      "#s5 > ol > li:nth-child(2)",
+      "#s5 > p:nth-of-type(4)",
+      "#s5 > p:nth-of-type(4)",
+      "#s6 > h3, #s6 > p:nth-of-type(1)",
+      "#s6 > p:nth-of-type(1)",
+      "#s6 td:nth-child(1)",
+      "#s6 td:nth-child(2)",
+      "#s6 > p:nth-of-type(2)",
+      "#s6 > ul > li:nth-child(1)",
+      "#s6 > ul > li:nth-child(2)",
+      "#s6 > p:nth-of-type(3)",
+      "#s7",
+      "#s7",
+      "#s8 > h2, #k1 .card-kicker",
+      "#k1 .qtext",
+      "#k1 .opt:nth-child(1)",
+      "#k1 .opt:nth-child(2)",
+      "#k1 .opt:nth-child(3)",
+      "#k1 .opt:nth-child(4)",
+      "#k1 .opt:nth-child(5)",
+      {
+        "sel": "#k1 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k1 .card-body p:nth-child(1), #k1 .card-source",
+        "ac": "k1"
+      },
+      "#k1 .card-body p:nth-child(2)",
+      "#k1 .card-body p:nth-child(2)",
+      "#k2 .card-kicker",
+      "#k2 .qtext",
+      "#k2 .opt:nth-child(1)",
+      "#k2 .opt:nth-child(2)",
+      "#k2 .opt:nth-child(3)",
+      "#k2 .opt:nth-child(4)",
+      "#k2 .opt:nth-child(5)",
+      {
+        "sel": "#k2 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k2 .card-body p:nth-child(1), #k2 .card-source",
+        "ac": "k2"
+      },
+      "#k2 .card-body p:nth-child(2)",
+      "#k2 .card-body p:nth-child(2)"
+    ],
+    "k4b3_05": [
+      "#k3 .card-kicker",
+      "#k3 .qtext",
+      "#k3 .opt:nth-child(1)",
+      "#k3 .opt:nth-child(2)",
+      "#k3 .opt:nth-child(3)",
+      "#k3 .opt:nth-child(4)",
+      "#k3 .opt:nth-child(5)",
+      {
+        "sel": "#k3 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k3 .card-body p:nth-child(1), #k3 .card-source",
+        "ac": "k3"
+      },
+      "#k3 .card-body p:nth-child(1)",
+      "#k3 .card-body p:nth-child(2)",
+      "#k3 .card-body p:nth-child(2)",
+      "#k4 .card-kicker",
+      "#k4 .qtext",
+      "#k4 .opt:nth-child(1)",
+      "#k4 .opt:nth-child(2)",
+      "#k4 .opt:nth-child(3)",
+      "#k4 .opt:nth-child(4)",
+      "#k4 .opt:nth-child(5)",
+      {
+        "sel": "#k4 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k4 .card-body p:nth-child(1), #k4 .card-source",
+        "ac": "k4"
+      },
+      "#k4 .card-body p:nth-child(2)",
+      "#k5 .card-kicker",
+      "#k5 .qtext",
+      "#k5 .opt:nth-child(1)",
+      "#k5 .opt:nth-child(2)",
+      "#k5 .opt:nth-child(3)",
+      "#k5 .opt:nth-child(4)",
+      "#k5 .opt:nth-child(5)",
+      {
+        "sel": "#k5 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k5 .card-body p:nth-child(1), #k5 .card-source",
+        "ac": "k5"
+      },
+      "#k5 .card-body p:nth-child(2)",
+      "#k6 .card-kicker",
+      "#k6 .qtext",
+      "#k6 .opt:nth-child(1)",
+      "#k6 .opt:nth-child(2)",
+      "#k6 .opt:nth-child(3)",
+      "#k6 .opt:nth-child(4)",
+      "#k6 .opt:nth-child(5)",
+      {
+        "sel": "#k6 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k6 .card-body p:nth-child(1), #k6 .card-source",
+        "ac": "k6"
+      },
+      "#k6 .card-body p:nth-child(2)",
+      "#k7 .card-kicker",
+      "#k7 .qtext",
+      "#k7 .opt:nth-child(1)",
+      "#k7 .opt:nth-child(2)",
+      "#k7 .opt:nth-child(3)",
+      "#k7 .opt:nth-child(4)",
+      "#k7 .opt:nth-child(5)",
+      {
+        "sel": "#k7 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k7 .card-body p:nth-child(1), #k7 .card-source",
+        "ac": "k7"
+      },
+      "#k7 .card-body p:nth-child(2)",
+      "#k8 .card-kicker",
+      "#k8 .qtext",
+      "#k8 .opt:nth-child(1)",
+      "#k8 .opt:nth-child(2)",
+      "#k8 .opt:nth-child(3)",
+      "#k8 .opt:nth-child(4)",
+      "#k8 .opt:nth-child(5)",
+      {
+        "sel": "#k8 .card-title",
+        "dur": 4.5
+      },
+      {
+        "sel": "#k8 .card-body p:nth-child(1), #k8 .card-source",
+        "ac": "k8"
+      },
+      "#k8 .card-body p:nth-child(1)",
+      "#k8 .card-body p:nth-child(2)",
+      "#k8 .card-body p:nth-child(2)",
+      "#bas"
+    ]
+  }
+}

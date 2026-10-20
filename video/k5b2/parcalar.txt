@@ -1,0 +1,85 @@
+### k5b2_01 | Giriş, semptomlar ve fizik muayene
+Kor pulmonale. Bölüm iki: Klinik tablo ve laboratuvar.
+Kor pulmonaleli hastada iki hastalığın bulguları üst üste biner. Bir yanda altta yatan akciğer hastalığının bulguları var: nefes darlığı, öksürük, ronküs ve siyanoz. Öbür yanda sağ kalp yetersizliğinin bulguları: boyun venlerinde dolgunluk, hepatomegali ve ödem.
+Bunlara bir de hipokseminin ve hiperkapninin beyin ve kan üzerindeki etkileri eklenir. Bu bölümde her bulguyu mekanizmasıyla birlikte anlatacağız.
+Sınav bu konuda iki ayrımı tekrar tekrar sordu. Bir: kor pulmonalede hipoksemi vardır. İki: periferik ödem, sağ kalp yetersizliğinin bulgusudur. Hadi başlayalım.
+Önce semptomlar ve nedenleri. Sunumdaki semptomları kaynaklandıkları yere göre gruplarsan, kolayca akılda kalırlar. Tablodaki her semptomu mekanizmasıyla birlikte sayalım.
+Birinci semptom: dispne. En sık görülen semptom budur. Altta yatan akciğer hastalığına bağlıdır. Sağ ventrikül yetersizliği eklenince, debinin egzersizde artamaması dispneyi ağırlaştırır.
+İkincisi: taşipne ve prodüktif öksürük. Nedeni altta yatan hastalıktır, yani kronik bronşitte mukus hipersekresyonu.
+Üçüncüsü: hemoptizi. Mekanizması, pulmoner kapillerlerden alveollere kan sızmasıdır. Yüksek pulmoner basınç, kırılgan damarları zorlar.
+Dördüncüsü: sağ üst kadranda dolgunluk, bulantı, kusma ve iştahsızlık. Peki neden? Karaciğerin kronik pasif konjesyonu: karaciğer kapsülü gerilir. Barsak duvarındaki venöz konjesyon da emilimi ve iştahı bozar.
+Beşincisi: baş ağrısı, bilinç bulanıklığı, uykuya eğilim, ajitasyon ve flapping tremor, yani asteriksis. Bunların nedeni hiperkapni ve hipoksidir. Karbondioksit beyin damarlarını genişletir ve kafa içi basıncı artırır. Sabah baş ağrısı bundandır. Ağır hiperkapnide ise karbondioksit narkozu gelişir.
+Altıncısı: egzersiz sırasında senkop. Daralmış pulmoner damar yatağı, egzersizde debinin artmasına izin vermez. Kas damarları genişlerken debi artmayınca beyin perfüzyonu düşer.
+Yedincisi: ses kısıklığı. Genişlemiş sol pulmoner arter, aort ile pulmoner arter arasından geçen sol nervus rekürrensi basar. Buna Ortner sendromu denir.
+Sunum tipik görünümü tek cümlede verir: şişman, siyanoze, elleri sıcak, konjonktivaları kızarmış, yani kemozisi olan hasta. Bu, kronik bronşit ağırlıklı "mavi şişkin" KOAH hastasıdır.
+Peki bu hasta neden siyanoze? Siyanoz, hipoksemi ile polisiteminin birleşiminden kaynaklanır. Kanda hemoglobin çok olduğu için deoksijenize hemoglobin miktarı siyanoz eşiğini kolayca aşar. Ellerin sıcak olması ve konjonktivaların kızarıklığı ise karbondioksitin damar genişletici etkisinin sonucudur.
+Şimdi fizik muayeneye geçelim. Sunumdaki genel kardiyak muayene düzeni şöyle: inspeksiyon, nabız ve kan basıncı, palpasyon ve oskültasyon. Bu düzen, kor pulmonalede şu bulguları ortaya çıkarır.
+Birinci bulgu: boyun venlerinde dolgunluk, belirgin a ve v dalgaları. Juguler ven, sağ atriyumun basınç göstergesidir. Hipertrofik, sertleşmiş sağ ventrikül dolarken sağ atriyum daha güçlü kasılmak zorunda kalır ve a dalgası büyür. Sağ ventrikül genişleyip triküspit halkası açılınca ise sistolde kan sağ atriyuma geri kaçar. Bu kez v dalgası büyür.
+İkinci bulgu: pulsus paradoksus, yani derin inspiryumda sistolik kan basıncının on milimetre cıvadan fazla düşmesi. Bunu Bölüm bir nokta altıda görmüştük.
+Üçüncü bulgu: sağ ventrikül aktivitesi. Palpasyonda subksifoid bölgede ve sol parasternal alanda kaldırıcı bir vuru hissedilir. Hipertrofik sağ ventrikül göğüs duvarına daha güçlü vurur. KOAH'ta ise akciğer aşırı havalandığı için bu vuru en iyi epigastriumda hissedilir.
+Dördüncü bulgu: S üç gallop ve P iki sertleşmesi. Pulmoner kapak, yüksek basınçlı pulmoner arterde daha sert kapanır, yani P iki şiddetlenir. Sağ ventrikül yetersizliğinde de sağ taraflı S üç duyulur.
+Beşinci bulgu: inspiryumda şiddetlenen holosistolik üfürüm, yani Carvallo bulgusu. Bu, fonksiyonel triküspit yetersizliğidir. İnspiryumda sağ kalbe dönen kan arttığı için, triküspit yetersizliğinin üfürümü inspiryumda şiddetlenir. Sol kalp üfürümleri ise inspiryumda değişmez ya da azalır.
+Altıncı bulgu: hassas hepatomegali, hepatojuguler reflü ve asit. Sağ atriyum basıncı karaciğer venlerine yansır. Karaciğere bastırınca artan venöz dönüşü yetersiz sağ ventrikül karşılayamaz ve boyun venleri belirginleşir. Buna hepatojuguler reflü pozitif denir.
+Yedinci bulgu: periferik ödem. Sunuma göre hidrostatik basınç artışına bağlıdır. Bunu birazdan, Bölüm iki nokta üçte ayrıntısıyla konuşacağız.
+Sekizinci bulgu: akciğerde iki taraflı ronküs ve bazallerde raller. Bunlar altta yatan KOAH'ın bulgusudur. Bu bilgi 2025 2026 sınavının on yedinci sorusunda doğru ifade olarak geçti: KOAH'a bağlı akciğerlerde ronküsler duyulabilir.
+Sunum, kalp yetersizliğinin fonksiyonel ağırlığını değerlendirmek için NYHA sınıflamasını da verir. Sınıf birde fiziksel aktivitede kısıtlanma yoktur. Sınıf ikide hafif kısıtlanma vardır: hasta istirahatte rahattır, ama olağan aktivite halsizlik, nefes darlığı, çarpıntı ya da angina yapar.
+Sınıf üçte belirgin kısıtlanma vardır: hasta istirahatte rahattır, ama olağandan az aktivite semptom yapar. Sınıf dörtte ise hiçbir aktivite rahatsızlık duymadan yapılamaz. İstirahatte bile semptom vardır.
+
+### k5b2_02 | Periferik ödem, kan gazları ve laboratuvar
+Peki periferik ödem neden sağ kalbin bulgusudur? Önce tanım: ödem, kapillerden dokuya sızan sıvının, lenfatiklerle geri alınabilecek miktarı aşmasıdır. Sıvıyı dışarı iten kuvvet, kapiller hidrostatik basınçtır. Hangi kapillerlerde basıncın yükseldiği ise ventriküllerden hangisinin yetersiz olduğuna bağlıdır. Zinciri adım adım kuralım.
+Bir: sağ ventrikül yetersizleşince kanı ileri gönderemez. Kan, sağ atriyumda ve ona dökülen sistemik venlerde birikir.
+İki: sistemik venöz basınç yükselir. Bu basınç sistemik kapillerlere yansır ve hidrostatik basınç artar.
+Üç: sıvı, yerçekiminin etkisiyle en çok bacaklarda dokuya geçer. İşte periferik, yani pretibiyal ödem. Yatan hastada ise sıvı sakral bölgede toplanır. Aynı basınç karaciğerde hepatomegali, periton boşluğunda asit yapar.
+Dört: düşük debi böbrek perfüzyonunu azaltır. Renin anjiyotensin aldosteron sistemi aktive olur, böbrek sodyum ve su tutar. Hiperkapni de böbrekte sodyum tutulumunu artırır. Dolaşan hacim arttıkça ödem ağırlaşır.
+Sol ventrikül yetersizliğinde ise kan sol atriyumda ve pulmoner venlerde birikir. Basınç pulmoner kapillerlere yansır, sıvı akciğer interstisyumuna ve alveollere geçer. Sonuç: akciğer ödemi.
+Bu yüzden sınavdaki "periferik ödem sol kalp yetersizliğinin bir bulgusudur" ifadesi yanlıştır. Bu ifade 2025 2026 sınavının on yedinci ve 2023 2024 sınavının otuz sekizinci sorusunda geçti. Doğrusu, 2022 2023 sınavındaki biçimiyle: "ödem sağ kalp yetersizliğinin bir bulgusudur". Bu da 2022 2023 sınavının kırk birinci sorusunun D şıkkıydı.
+Ekrandaki tabloda sağ kalp yetersizliği, yani kor pulmonale ile sol kalp yetersizliği yan yana. Birincisi, kanın biriktiği yer: sağ kalp yetersizliğinde sistemik venler, sol kalp yetersizliğinde pulmoner venler.
+İkincisi, ödem: sağ kalp yetersizliğinde periferik ödem ve asit, sol kalp yetersizliğinde akciğer ödemi.
+Üçüncüsü, diğer konjesyon bulguları. Sağ kalp yetersizliğinde juguler venöz dolgunluk, hassas hepatomegali ve hepatojuguler reflü. Sol kalp yetersizliğinde ise ortopne, paroksismal noktürnal dispne ve bazallerde inspiratuvar raller.
+Dördüncüsü, kalp sesleri ve üfürüm. Sağ kalp yetersizliğinde P iki sertleşmesi, sağ S üç ve inspiryumda artan triküspit yetersizliği üfürümü. Sol kalp yetersizliğinde ise sol S üç ve mitral yetersizliği üfürümü.
+Ve sık karıştırılan nokta. Kor pulmonaleli hastanın akciğerinde de raller duyulabilir. Ama bu raller kalp yetersizliğinden değil, altta yatan akciğer hastalığından kaynaklanır: KOAH'ta ronküs ve bazallerde raller, pulmoner fibroziste ise inspiratuvar "velcro" raller. Yani akciğerdeki ses, sol kalp yetersizliğinin kanıtı sayılmamalıdır.
+Sırada kan gazları ve laboratuvar var. Sunuma göre kor pulmonalede dört bulgu görülür. Hipoksemi, yani P a O ikinin elli milimetre cıvanın altında olması. Hiperkapni, yani P a C O ikinin elli milimetre cıvanın üstünde olması. Bir de respiratuvar asidoz ve polisitemi. Bu bulguların her biri hem hastalığın nedeni, hem de sonucudur.
+Hipoksemi, kronik kor pulmonaleye hemen her zaman eşlik eden ve onu başlatan bulgudur. Hipoksik pulmoner vazokonstriksiyonun tetikleyicisidir. Bunu Bölüm bir nokta beşte görmüştük. Bu yüzden "hipoksemi eşlik etmez" ifadesi yanlıştır. Bu ifade 2025 2026 sınavının yirminci, 2023 2024 sınavının kırkıncı ve 2022 2023 sınavının otuz yedinci sorusunda geçti.
+Hiperkapni ise özellikle kronik bronşit ağırlıklı KOAH'ta, obezite hipoventilasyonda ve göğüs kafesi hastalıklarında görülür. Aynı sorularda "hiperkapni görülebilir" ifadesi doğruydu. Hiperkapni, alveoler hipoventilasyonun sonucudur.
+Respiratuvar asidoz: karbondioksit birikince kanın p H değeri düşer. Kronik durumda böbrekler bikarbonat tutarak p H değerini normale yaklaştırır. Buna kompanse respiratuvar asidoz denir. Asidoz, pulmoner vazokonstriksiyonu ayrıca güçlendirir.
+Polisitemi, kronik hipoksemiye kompansatuvar bir yanıttır. Bunu da Bölüm bir nokta beşte görmüştük. Hematokrit yüzde elli beşin üzerine çıkabilir.
+Diğer tetkiklere bakalım. Natriüretik peptitler, yani BNP ve NT pro BNP, gerilen sağ ventrikülden salınır ve yükselir. Karaciğer konjesyonu, transaminaz ve bilirubin artışı yapabilir. Solunum fonksiyon testleri, altta yatan hastalığı ve ağırlığını gösterir.
+Uyku apnesi düşünülen hastada polisomnografi, kronik tromboembolik hastalık düşünülen hastada ise ventilasyon perfüzyon sintigrafisi yapılır.
+
+### k5b2_03 | Akut kor pulmonale ve bölüm sonu soruları
+Son başlık: akut kor pulmonale ve masif pulmoner emboli. Sunum, akut kor pulmonalenin en sık nedeni olan masif akciğer embolisini ayrıca vurgular. Ani tıkanma, pulmoner direnci dakikalar içinde artırır. Hazırlıksız sağ ventrikül en fazla kırk milimetre cıva kadar ortalama basınç üretebilir. Genişler, kasılması bozulur, septum sola itilir ve sol ventrikülün doluşu ve debisi düşer.
+Klinik tablo, bu olayların doğrudan yansımasıdır: dispne, plöretik göğüs ağrısı, taşipne, taşikardi, öksürük ve hemoptizi, senkop, periferik siyanoz, boyun venlerinde dolgunluk ve pozitif hepatojuguler reflü, pulsus paradoksus, subksifoid ve sol parasternal alanda sağ ventrikül aktivitesi, S üç gallop, P iki sertleşmesi ve triküspit yetersizliğine bağlı holosistolik üfürüm.
+Senkop ve hipotansiyon, sağ ventrikülün ve dolayısıyla bütün dolaşımın çökmekte olduğunu gösterir ve acil tedavi gerektirir.
+Bu bölümden yıllara göre soru sayısına bakalım. Ekrandaki grafikte 2022 2023 sınavında bir soru, 2023 2024 sınavında iki soru var. 2024 sınavında bu bölümden soru yok. 2025 2026 sınavında ise yine iki soru var.
+Yani klinik ve laboratuvar soruları toplam beş. "Hipoksemi eşlik etmez" ifadesinin yanlışlığı üç kez, "periferik ödem sol kalp yetersizliğinin bulgusudur" ifadesinin yanlışlığı iki kez soruldu. İki soru, 2023 2024 ve 2025 2026 sınavlarında aynı şıklarla tekrarlandı. Şimdi bu soruları birlikte çözelim.
+Bölüm sonu soruları. Soru bir. Bu soru üç sınavda soruldu: 2025 2026 sınavının yirminci, 2023 2024 sınavının kırkıncı ve 2022 2023 sınavının otuz yedinci sorusu.
+Kor pulmonale ile ilgili aşağıdakilerden hangisi yanlıştır?
+A: Temelde akciğer hastalıklarına bağlı gelişen sağ kalp yetersizliğidir.
+B: Hipoksemi eşlik etmez.
+C: Hiperkapni görülebilir.
+D: Bu hastalarda atriyal fibrilasyon gelişebilir.
+E: Ödem varlığında diüretikler kullanılır.
+Durdur ve düşün.
+Cevap B. Yani yanlış olan ifade B şıkkı. Hipoksemi, kronik kor pulmonalenin hem başlatıcısı hem eşlikçisidir. Alveoler hipoksi pulmoner arteriolleri daraltır. Kronikleşince damar duvarını yeniden şekillendirir ve polisitemi yapar. Sunuma göre P a O iki çoğu zaman elli milimetre cıvanın altındadır. Aynı soru üç sınavda aynı şıklarla soruldu ve cevap üçünde de B.
+Diğer şıklara bakalım. A doğru: tanımın kendisidir. C doğru: alveoler hipoventilasyonda P a C O iki, elli milimetre cıvayı aşar. D doğru: sağ atriyumun genişlemesi, hipoksi ve bronkodilatörler atriyal aritmileri kolaylaştırır. E doğru: sağ kalp yetersizliğine bağlı ödemde diüretik kullanılır. Kronik hiperkapnik hastada ilk seçenek asetazolamiddir. Bunu Bölüm dört nokta dörtte göreceğiz.
+Soru iki. 2025 2026 sınavının on yedinci ve 2023 2024 sınavının otuz sekizinci sorusu.
+Kor pulmonale ile ilgili aşağıdakilerden hangisi yanlıştır?
+A: Pulmoner hipertansiyon ve ciddiyeti kötü prognozla ilişkilidir.
+B: Sağ atriyum büyümesine bağlı EKG'de P pulmonale gelişebilir.
+C: Sağ ventrikülde hipertrofi ve dilatasyon gelişebilir.
+D: Periferik ödem sol kalp yetersizliğinin bir bulgusudur.
+E: KOAH'a bağlı akciğerlerde ronküsler duyulabilir.
+Durdur ve düşün.
+Cevap D. Yanlış ifade D şıkkı. Periferik ödem, sağ kalp yetersizliğinin bulgusudur. Sistemik venlerde biriken kan, sistemik kapillerlerin hidrostatik basıncını artırır. Sol kalp yetersizliğinin karşılığı ise akciğer ödemidir.
+Diğer şıklar doğru. A doğru: pulmoner hipertansiyon mortaliteyi iki ile üç kat artırır. B doğru: P pulmonale sağ atriyum büyümesinin işaretidir. Bunu Bölüm üç nokta birde göreceğiz. C doğru: kronik basınç yükü hipertrofi, akut yük ya da yetersizlik ise dilatasyon yapar. E doğru: ronküs, altta yatan KOAH'ın bulgusudur.
+Son olarak, konuyu pekiştirmek için hazırlanmış yeni bir soru.
+Kor pulmonaleli bir hastada triküspit odağında duyulan holosistolik üfürümün derin inspiryumda şiddetlenmesinin nedeni aşağıdakilerden hangisidir?
+A: İnspiryumda sol ventriküle dönen kanın artması.
+B: İnspiryumda göğüs içi basıncın düşmesiyle sağ kalbe venöz dönüşün artması.
+C: İnspiryumda aort basıncının yükselmesi.
+D: İnspiryumda mitral kapağın daha geç kapanması.
+E: İnspiryumda kalp hızının azalması.
+Durdur ve düşün.
+Cevap B. İnspiryumda göğüs içi basınç daha negatif olur ve sistemik venlerden sağ kalbe dönen kan artar. Sağ ventrikül daha çok kan pompalar ve yetersiz triküspit kapaktan geri kaçan kan da artar. Bu, triküspit yetersizliğinin Carvallo bulgusudur ve üfürümün sağ kalpten kaynaklandığını gösterir.
+A yanlış: inspiryumda pulmoner damar yatağı genişlediği için sol kalbe dönüş geçici olarak azalır. Sol kalp üfürümleri bu yüzden inspiryumda artmaz. C, D ve E de yanlış: bu değişiklikler inspiryumun tipik etkileri değildir ve triküspit üfürümünü açıklamaz.
+Bölüm ikinin sonuna geldik. Bir sonraki bölümde tanıyı, yani EKG'yi, akciğer grafisini ve ekokardiyografiyi konuşacağız.

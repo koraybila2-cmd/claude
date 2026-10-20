@@ -1,0 +1,4 @@
+
+# Video ciktilari repoya girmez
+video/**/*.mp4
+video/**/ses/

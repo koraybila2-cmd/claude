@@ -1,0 +1,53 @@
+{
+  "_aciklama": "parcalar.txt'deki her dolu satirin ekranda vurgulanacak blogu (CSS secici), satir sirasiyla. Girdi duz secici ya da {\"sel\", \"ac\", \"dur\"}: ac = bu satirdan itibaren o soru kartinin cevabi acik, dur = satirdan sonra eklenecek dusunme arasi (sn). Kimlikler: #bas bolum basligi, #s1.. .book-section sirasi, #k1.. soru kartlari, .qtext soru cumlesi, .opt siklar. Kurallar: video/YAZIM_KURALLARI.md",
+  "kaynak": "kaynak/modul4/kitaplar/m4k2/01a_tanim.html",
+  "ust_baslik": "Astım · Bölüm 1 · Tanım ve patogenez",
+  "parcalar": {
+    "k2b1a_01": [
+      "#bas",
+      ".chapter-lead",
+      ".chapter-lead",
+      "#s1 > h3, #s1 > p:nth-of-type(1)",
+      "#s1 > p:nth-of-type(1)",
+      "#s1 > p:nth-of-type(2)",
+      "#s1 > ul > li:nth-child(1)",
+      "#s1 > ul > li:nth-child(2)",
+      "#s1 > ul > li:nth-child(3)",
+      "#s1 > ul > li:nth-child(4)",
+      "#s1 > p:nth-of-type(3)",
+      "#s1 > p:nth-of-type(3)",
+      "#s1 > p:nth-of-type(4)",
+      "#s1 > p:nth-of-type(4)",
+      "#s1 > p:nth-of-type(5)",
+      "#s2 > h3, #s2 > p:nth-of-type(1)",
+      "#s2 > p:nth-of-type(1)",
+      "#s2 > p:nth-of-type(2)",
+      "#s2 > p:nth-of-type(3)"
+    ],
+    "k2b1a_02": [
+      "#s3 > h3, #s3 > p:nth-of-type(1)",
+      "#s3 > h4:nth-of-type(1), #s3 > ul:nth-of-type(1) > li:nth-child(1)",
+      "#s3 > ul:nth-of-type(1) > li:nth-child(2)",
+      "#s3 > ul:nth-of-type(1) > li:nth-child(2)",
+      "#s3 > ul:nth-of-type(1) > li:nth-child(2)",
+      "#s3 > ul:nth-of-type(1) > li:nth-child(3)",
+      "#s3 > h4:nth-of-type(2), #s3 > p:nth-of-type(2)",
+      "#s3 > p:nth-of-type(2)",
+      "#s3 > h4:nth-of-type(3), #s3 > ul:nth-of-type(2) > li:nth-child(1)",
+      "#s3 > ul:nth-of-type(2) > li:nth-child(1)",
+      "#s3 > ul:nth-of-type(2) > li:nth-child(2)",
+      "#s3 > ul:nth-of-type(2) > li:nth-child(3)",
+      "#s3 > ul:nth-of-type(2) > li:nth-child(4)",
+      "#s3 > ul:nth-of-type(2) > li:nth-child(5)",
+      "#s3 > h4:nth-of-type(4), #s3 > p:nth-of-type(3)",
+      "#s3 > table",
+      "#s3 tbody tr:nth-child(1)",
+      "#s3 tbody tr:nth-child(2)",
+      "#s3 tbody tr:nth-child(3)",
+      "#s3 tbody tr:nth-child(4)",
+      "#s3 > p:nth-of-type(4)",
+      "#s3 > p:nth-of-type(4)",
+      "#bas"
+    ]
+  }
+}
