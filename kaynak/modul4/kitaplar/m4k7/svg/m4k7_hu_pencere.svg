@@ -1,0 +1,42 @@
+<svg viewBox="0 0 640 212" width="100%" style="display:block" role="img" aria-label="Hounsfield olcegi ve akciger ile mediasten pencereleri: hangi yogunluk araligi gri tonlara yayiliyor">
+  <defs><marker id="k78i" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k78ic" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k78im" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <defs><linearGradient id="k78iL" x1="60" x2="600" y1="0" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#3c3c3c"/><stop offset="0.575" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></linearGradient><linearGradient id="k78iM" x1="60" x2="600" y1="0" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1a1a1a"/><stop offset="0.42" stop-color="#1a1a1a"/><stop offset="0.62" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></linearGradient></defs>
+  <line x1="60.0" y1="72" x2="600.0" y2="72" stroke="var(--color-neutral-700)" stroke-opacity="0.6"/>
+  <line x1="60.0" y1="69" x2="60.0" y2="75" stroke="var(--color-neutral-700)" stroke-opacity="0.6"/>
+  <text x="60.0" y="87.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">−1000</text>
+  <line x1="195.0" y1="69" x2="195.0" y2="75" stroke="var(--color-neutral-700)" stroke-opacity="0.6"/>
+  <text x="195.0" y="87.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">−500</text>
+  <line x1="330.0" y1="69" x2="330.0" y2="75" stroke="var(--color-neutral-700)" stroke-opacity="0.6"/>
+  <text x="330.0" y="87.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">0</text>
+  <line x1="465.0" y1="69" x2="465.0" y2="75" stroke="var(--color-neutral-700)" stroke-opacity="0.6"/>
+  <text x="465.0" y="87.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">+500</text>
+  <line x1="600.0" y1="69" x2="600.0" y2="75" stroke="var(--color-neutral-700)" stroke-opacity="0.6"/>
+  <text x="600.0" y="87.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">+1000</text>
+  <line x1="87.0" y1="70" x2="141.0" y2="70" stroke="var(--color-text)" stroke-opacity="0.55" stroke-width="5"/>
+  <line x1="289.5" y1="70" x2="316.5" y2="70" stroke="var(--color-text)" stroke-opacity="0.55" stroke-width="5"/>
+  <line x1="335.4" y1="70" x2="346.2" y2="70" stroke="var(--color-text)" stroke-opacity="0.55" stroke-width="5"/>
+  <line x1="438.0" y1="70" x2="600.0" y2="70" stroke="var(--color-text)" stroke-opacity="0.55" stroke-width="5"/>
+  <text x="60.0" y="22.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">hava −1000</text>
+  <line x1="60.0" y1="26" x2="60.0" y2="67" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-dasharray="2 2"/>
+  <text x="88.5" y="40.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">akciğer ≈ −850</text>
+  <line x1="100.5" y1="44" x2="100.5" y2="67" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-dasharray="2 2"/>
+  <text x="303.0" y="22.0" text-anchor="end" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">yağ ≈ −100</text>
+  <line x1="303.0" y1="26" x2="303.0" y2="67" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-dasharray="2 2"/>
+  <text x="330.0" y="40.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">su 0</text>
+  <line x1="330.0" y1="44" x2="330.0" y2="67" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-dasharray="2 2"/>
+  <text x="328.8" y="58.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">kas, kan ≈ +40</text>
+  <line x1="340.8" y1="62" x2="340.8" y2="67" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-dasharray="2 2"/>
+  <text x="438.0" y="22.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">kemik +400 … +1000</text>
+  <text x="60.0" y="104.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Akciğer penceresi · S −600, G 1500</text>
+  <rect x="60" y="112" width="540" height="14" fill="url(#k78iL)" stroke="var(--color-neutral-700)" stroke-opacity="0.4"/>
+  <line x1="370.5" y1="108" x2="370.5" y2="130" stroke="var(--color-accent-700)" stroke-width="1.2"/>
+  <text x="374.5" y="106.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">+150</text>
+  <text x="60.0" y="140.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">akciğer dokusu gri tonlarda ayrışır; yumuşak doku ve kemik beyazlaşır</text>
+  <text x="60.0" y="166.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Mediasten penceresi · S +40, G 400</text>
+  <rect x="60" y="174" width="540" height="14" fill="url(#k78iM)" stroke="var(--color-neutral-700)" stroke-opacity="0.4"/>
+  <line x1="286.8" y1="170" x2="286.8" y2="192" stroke="var(--color-accent-700)" stroke-width="1.2"/>
+  <text x="290.8" y="168.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">−160</text>
+  <line x1="394.8" y1="170" x2="394.8" y2="192" stroke="var(--color-accent-700)" stroke-width="1.2"/>
+  <text x="398.8" y="168.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">+240</text>
+  <text x="60.0" y="202.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">akciğer tamamen siyah; kalp, damar, lenf düğümü ve yağ ayrışır</text>
+</svg>

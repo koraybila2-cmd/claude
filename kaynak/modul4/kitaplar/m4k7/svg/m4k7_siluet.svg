@@ -1,0 +1,61 @@
+<svg viewBox="0 0 640 292" width="100%" style="display:block" role="img" aria-label="Siluet isaretinin mekanizmasi: PA isin demeti kalbin sag kenarina teget gecer; kenar ancak kalp ile hava dolu orta lob arasinda yogunluk farki varsa gorulur">
+  <defs><marker id="k78f" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k78fc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k78fm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <g transform="translate(0,0)">
+  <text x="10.0" y="14.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">A · ORTA LOB DOLU</text>
+  <rect x="14" y="22" width="282" height="7" rx="2" fill="var(--color-neutral-700)" fill-opacity="0.55"/>
+  <text x="296.0" y="14.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">dedektör (önde)</text>
+  <ellipse cx="155" cy="152" rx="140" ry="88" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="1.2"/>
+  <clipPath id="k78fA"><path d="M126,72 C80,76 32,104 28,150 C26,186 58,222 120,232 L150,214 L152,154.5 A52,42 0 0,1 152,89.5 L140,76 Z"/></clipPath>
+  <g clip-path="url(#k78fA)"><path d="M0.0,0.0 L160.0,0.0 L160.0,148.0 L146.0,150.0 L28.0,178.0 L0.0,184.0 Z" fill="var(--color-neutral-700)" fill-opacity="0.42"/></g>
+  <path d="M126,72 C80,76 32,104 28,150 C26,186 58,222 120,232 L150,214 L152,154.5 A52,42 0 0,1 152,89.5 L140,76 Z" fill="none" stroke="var(--color-text)" stroke-opacity="0.6" stroke-width="1.1"/>
+  <path d="M176,72 C230,74 282,104 286,150 C288,186 258,222 214,230 L206,214 L228,158 C244,140 246,104 224,86 C212,78 194,73 176,72 Z" fill="none" stroke="var(--color-text)" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="28" y1="178" x2="146" y2="150" stroke="var(--color-text)" stroke-opacity="0.8" stroke-width="1.2" stroke-dasharray="4 2"/>
+  <ellipse cx="185" cy="122" rx="52" ry="42" fill="var(--color-neutral-700)" fill-opacity="0.42" stroke="var(--color-text)" stroke-opacity="0.5"/>
+  <circle cx="196" cy="206" r="10" fill="var(--color-neutral-700)" fill-opacity="0.42"/>
+  <circle cx="165" cy="220" r="15" fill="var(--color-neutral-700)" fill-opacity="0.3"/><circle cx="165" cy="226" r="5" fill="white"/>
+  <rect x="140" y="62" width="30" height="8" rx="2" fill="var(--color-neutral-700)" fill-opacity="0.3"/>
+  <line x1="44" y1="262" x2="44" y2="34" stroke="var(--color-neutral-700)" stroke-opacity="0.28" stroke-dasharray="3 3" marker-end="url(#k78f)"/>
+  <line x1="88" y1="262" x2="88" y2="34" stroke="var(--color-neutral-700)" stroke-opacity="0.28" stroke-dasharray="3 3" marker-end="url(#k78f)"/>
+  <line x1="282" y1="262" x2="282" y2="34" stroke="var(--color-neutral-700)" stroke-opacity="0.28" stroke-dasharray="3 3" marker-end="url(#k78f)"/>
+  <line x1="133" y1="262" x2="133" y2="34" stroke="var(--color-accent-2-900)" stroke-width="1.6" marker-end="url(#k78fm)"/>
+  <circle cx="133" cy="122" r="4" fill="white" stroke="var(--color-accent-2-900)" stroke-width="1.6"/>
+  <text x="185.0" y="120.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">kalp</text>
+  <text x="185.0" y="133.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">(su yoğunluğu)</text>
+  <text x="74.0" y="126.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">orta lob</text>
+  <text x="74.0" y="139.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">dolu</text>
+  <text x="84.0" y="204.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">alt lob</text>
+  <text x="84.0" y="217.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">havalı</text>
+  <line x1="133" y1="18" x2="133" y2="33" stroke="var(--color-accent-2-900)" stroke-width="2.5" stroke-dasharray="2 2"/>
+  <text x="140.0" y="52.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">sağ kalp kenarı: yok</text>
+  <text x="155.0" y="282.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">X ışını arkadan girer (PA)</text>
+  </g>
+  <g transform="translate(330,0)">
+  <text x="10.0" y="14.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">B · ALT LOB DOLU</text>
+  <rect x="14" y="22" width="282" height="7" rx="2" fill="var(--color-neutral-700)" fill-opacity="0.55"/>
+  <text x="296.0" y="14.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">dedektör (önde)</text>
+  <ellipse cx="155" cy="152" rx="140" ry="88" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="1.2"/>
+  <clipPath id="k78fB"><path d="M126,72 C80,76 32,104 28,150 C26,186 58,222 120,232 L150,214 L152,154.5 A52,42 0 0,1 152,89.5 L140,76 Z"/></clipPath>
+  <g clip-path="url(#k78fB)"><path d="M0.0,184.0 L28.0,178.0 L146.0,150.0 L160.0,148.0 L160.0,300.0 L0.0,300.0 Z" fill="var(--color-neutral-700)" fill-opacity="0.42"/></g>
+  <path d="M126,72 C80,76 32,104 28,150 C26,186 58,222 120,232 L150,214 L152,154.5 A52,42 0 0,1 152,89.5 L140,76 Z" fill="none" stroke="var(--color-text)" stroke-opacity="0.6" stroke-width="1.1"/>
+  <path d="M176,72 C230,74 282,104 286,150 C288,186 258,222 214,230 L206,214 L228,158 C244,140 246,104 224,86 C212,78 194,73 176,72 Z" fill="none" stroke="var(--color-text)" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="28" y1="178" x2="146" y2="150" stroke="var(--color-text)" stroke-opacity="0.8" stroke-width="1.2" stroke-dasharray="4 2"/>
+  <ellipse cx="185" cy="122" rx="52" ry="42" fill="var(--color-neutral-700)" fill-opacity="0.42" stroke="var(--color-text)" stroke-opacity="0.5"/>
+  <circle cx="196" cy="206" r="10" fill="var(--color-neutral-700)" fill-opacity="0.42"/>
+  <circle cx="165" cy="220" r="15" fill="var(--color-neutral-700)" fill-opacity="0.3"/><circle cx="165" cy="226" r="5" fill="white"/>
+  <rect x="140" y="62" width="30" height="8" rx="2" fill="var(--color-neutral-700)" fill-opacity="0.3"/>
+  <line x1="44" y1="262" x2="44" y2="34" stroke="var(--color-neutral-700)" stroke-opacity="0.28" stroke-dasharray="3 3" marker-end="url(#k78f)"/>
+  <line x1="88" y1="262" x2="88" y2="34" stroke="var(--color-neutral-700)" stroke-opacity="0.28" stroke-dasharray="3 3" marker-end="url(#k78f)"/>
+  <line x1="282" y1="262" x2="282" y2="34" stroke="var(--color-neutral-700)" stroke-opacity="0.28" stroke-dasharray="3 3" marker-end="url(#k78f)"/>
+  <line x1="133" y1="262" x2="133" y2="34" stroke="var(--color-accent-700)" stroke-width="1.6" marker-end="url(#k78fc)"/>
+  <circle cx="133" cy="122" r="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.6"/>
+  <text x="185.0" y="120.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">kalp</text>
+  <text x="185.0" y="133.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">(su yoğunluğu)</text>
+  <text x="74.0" y="126.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">orta lob</text>
+  <text x="74.0" y="139.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">havalı</text>
+  <text x="84.0" y="204.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">alt lob</text>
+  <text x="84.0" y="217.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">dolu</text>
+  <line x1="133" y1="18" x2="133" y2="33" stroke="var(--color-accent-700)" stroke-width="3"/>
+  <text x="140.0" y="52.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">sağ kalp kenarı: keskin</text>
+  <text x="155.0" y="282.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">X ışını arkadan girer (PA)</text>
+  </g>
+</svg>

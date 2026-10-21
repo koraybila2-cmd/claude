@@ -1,0 +1,60 @@
+<svg viewBox="0 0 640 400" width="100%" style="display:block" role="img" aria-label="Mediastinumun bolumleri: angulus sterni ile T4-T5 diski arasindaki duzlem; mediastinum superius ve inferius; inferius'un anterius, medium ve posterius bolumleri">
+  <defs><marker id="k77a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k77ac" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k77am" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="490" y="30" width="50" height="24" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="515.0" y="46.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T1</text>
+  <rect x="490" y="58" width="50" height="24" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="515.0" y="74.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T2</text>
+  <rect x="490" y="86" width="50" height="24" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="515.0" y="102.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T3</text>
+  <rect x="490" y="114" width="50" height="24" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="515.0" y="130.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T4</text>
+  <rect x="490" y="142" width="50" height="24" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="515.0" y="158.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T5</text>
+  <rect x="490" y="170" width="50" height="24" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="515.0" y="186.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T6</text>
+  <rect x="490" y="198" width="50" height="24" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="515.0" y="214.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T7</text>
+  <rect x="490" y="226" width="50" height="24" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="515.0" y="242.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T8</text>
+  <rect x="490" y="254" width="50" height="24" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="515.0" y="270.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T9</text>
+  <rect x="490" y="282" width="50" height="24" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="515.0" y="298.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T10</text>
+  <rect x="490" y="310" width="50" height="24" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="515.0" y="326.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T11</text>
+  <rect x="490" y="338" width="50" height="24" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="515.0" y="354.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T12</text>
+  <text x="20.0" y="20.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">ÖN</text>
+  <text x="620.0" y="20.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">ARKA</text>
+  <path d="M98,88 L486,32 L486,140 L112,146 Z" fill="var(--color-neutral-700)" fill-opacity="0.08"/>
+  <path d="M114,148 L486,142 L486,362 C400,342 330,300 300,292 C240,300 190,318 162,330 L150,300 Z" fill="var(--color-accent-700)" fill-opacity="0.07"/>
+  <ellipse cx="300" cy="226" rx="96" ry="70" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.7" stroke-width="1.4"/>
+  <ellipse cx="300" cy="226" rx="96" ry="70" fill="var(--color-neutral-700)" fill-opacity="0.16"/>
+  <line x1="96" y1="86" x2="110" y2="142" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="12" stroke-linecap="round"/>
+  <line x1="113" y1="149" x2="150" y2="300" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="12" stroke-linecap="round"/>
+  <line x1="152" y1="304" x2="160" y2="330" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-width="7" stroke-linecap="round"/>
+  <path d="M160,332 C200,312 250,292 300,292 C360,292 420,322 486,364" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="7" fill="none"/>
+  <text x="330.0" y="316.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">diyafram</text>
+  <text x="60.0" y="112.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">manubrium</text>
+  <text x="84.0" y="230.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" transform="rotate(-76 84 230)">corpus sterni</text>
+  <line x1="98" y1="86" x2="488" y2="30" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.2"/>
+  <text x="200.0" y="60.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" transform="rotate(-8 200 60)">apertura thoracis superior</text>
+  <line x1="112" y1="146" x2="488" y2="140" stroke="var(--color-accent-700)" stroke-width="2"/>
+  <text x="104.0" y="150.0" text-anchor="end" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">angulus sterni</text>
+  <text x="548.0" y="145.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">T4-T5 diski</text>
+  <text x="300.0" y="98.0" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Mediastinum superius</text>
+  <text x="300.0" y="114.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">timus, büyük venler, arcus aortae ve dalları, nn. vagi ve phrenici,</text>
+  <text x="300.0" y="127.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">trakea, özofagus, ductus thoracicus</text>
+  <text x="300.0" y="210.0" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Mediastinum medium</text>
+  <text x="300.0" y="226.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">perikard ve kalp, büyük damarların</text>
+  <text x="300.0" y="239.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kökleri, ana bronşlar, nn. phrenici</text>
+  <text x="172.0" y="196.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">M.</text>
+  <text x="172.0" y="209.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">anterius</text>
+  <line x1="172" y1="214" x2="176" y2="250" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="0.9"/>
+  <text x="440.0" y="230.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">M.</text>
+  <text x="440.0" y="243.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">posterius</text>
+  <text x="440.0" y="262.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">aorta desc.,</text>
+  <text x="440.0" y="275.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">özofagus, d. thor.,</text>
+  <text x="440.0" y="288.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">azygos, vagus</text>
+  <text x="300.0" y="382.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">Mediastinum inferius = anterius + medium + posterius (fibröz perikard ayırır)</text>
+</svg>

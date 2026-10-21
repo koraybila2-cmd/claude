@@ -1,0 +1,43 @@
+<svg viewBox="0 0 640 362" width="100%" style="display:block" role="img" aria-label="Tipik kaburganin bolumleri, vertebra ile eklemleri ve collum boyunca uzanan donme ekseni; ustten gorunus">
+  <defs><marker id="k71a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k71ac" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k71am" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <text x="16.0" y="18.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">ARKA</text>
+  <text x="16.0" y="352.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">ÖN</text>
+  <circle cx="230" cy="150" r="38" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="1.2"/>
+  <circle cx="230" cy="90" r="16" fill="none" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <path d="M205,118 Q196,72 230,64 Q264,72 255,118" stroke-width="8" stroke="var(--color-neutral-700)" stroke-opacity="0.42" stroke-linecap="round" fill="none"/>
+  <line x1="230" y1="64" x2="230" y2="24" stroke-width="9" stroke="var(--color-neutral-700)" stroke-opacity="0.42" stroke-linecap="round" fill="none"/>
+  <line x1="206" y1="76" x2="162" y2="54" stroke-width="10" stroke="var(--color-neutral-700)" stroke-opacity="0.42" stroke-linecap="round" fill="none"/>
+  <line x1="254" y1="76" x2="298" y2="54" stroke-width="10" stroke="var(--color-neutral-700)" stroke-opacity="0.42" stroke-linecap="round" fill="none"/>
+  <path d="M266,132 L302,66 C318,54 334,52 350,56 C410,66 462,118 464,182 C466,250 420,304 344,320" stroke-width="11" stroke="var(--color-neutral-700)" stroke-opacity="0.42" stroke-linecap="round" fill="none"/>
+  <path d="M344,320 C314,326 280,330 256,331" stroke-width="10" stroke="var(--color-accent)" stroke-opacity="0.45" stroke-linecap="round" fill="none"/>
+  <rect x="206" y="318" width="48" height="26" rx="7" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.55"/>
+  <circle cx="266" cy="132" r="3.2" fill="var(--color-accent-700)"/>
+  <circle cx="302" cy="66" r="3.2" fill="var(--color-accent-700)"/>
+  <line x1="248" y1="165" x2="336" y2="4" stroke="var(--color-accent-700)" stroke-width="1.6"/>
+  <text x="342.0" y="13.0" text-anchor="start" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">dönme ekseni</text>
+  <text x="342.0" y="26.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">(collum costae boyunca)</text>
+  <text x="222.0" y="26.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">processus spinosus</text>
+  <text x="156.0" y="50.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">processus transversus</text>
+  <text x="186.0" y="150.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">corpus vertebrae</text>
+  <text x="230.0" y="356.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sternum</text>
+  <text x="320.0" y="352.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">cartilago costalis</text>
+  <line x1="312" y1="92" x2="305" y2="71" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="0.9"/>
+  <text x="314.0" y="102.0" text-anchor="start" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">tuberculum costae</text>
+  <text x="314.0" y="114.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">art. costotransversaria</text>
+  <line x1="300" y1="126" x2="287" y2="104" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="0.9"/>
+  <text x="302.0" y="136.0" text-anchor="start" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">collum costae</text>
+  <line x1="284" y1="158" x2="270" y2="138" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="0.9"/>
+  <text x="286.0" y="168.0" text-anchor="start" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">caput costae</text>
+  <text x="286.0" y="181.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">art. capitis costae (iki vertebra + disk)</text>
+  <text x="362.0" y="44.0" text-anchor="start" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">angulus costae</text>
+  <text x="362.0" y="56.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">(en zayıf nokta)</text>
+  <text x="476.0" y="150.0" text-anchor="start" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">corpus costae</text>
+  <text x="476.0" y="163.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">iç yüzünün alt kenarında</text>
+  <text x="476.0" y="175.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sulcus costae (VAN)</text>
+  <text x="476.0" y="270.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">Kaburga, arka ucundaki</text>
+  <text x="476.0" y="282.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">eksen etrafında dönen</text>
+  <text x="476.0" y="294.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">uzun bir kaldıraçtır: boyunda</text>
+  <text x="476.0" y="306.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">birkaç derecelik dönme ön</text>
+  <text x="476.0" y="318.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">uçta 1-2 cm'lik harekete</text>
+  <text x="476.0" y="330.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">dönüşür.</text>
+</svg>

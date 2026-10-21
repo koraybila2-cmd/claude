@@ -1,0 +1,93 @@
+<svg viewBox="0 0 640 340" width="100%" style="display:block" role="img" aria-label="Kalbin on gogus duvarina izdusumu, kapaklarin anatomik yeri ve oskultasyon odaklari">
+  <defs><marker id="k78c" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k78cc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k78cm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <path d="M270,76 L236,76" stroke-width="9" stroke="var(--color-accent)" stroke-opacity="0.45" stroke-linecap="round" fill="none"/>
+  <path d="M236,76 Q176,80 144,98" stroke-width="9" stroke="var(--color-neutral-700)" stroke-opacity="0.16" stroke-linecap="round" fill="none"/>
+  <path d="M310,76 L344,76" stroke-width="9" stroke="var(--color-accent)" stroke-opacity="0.45" stroke-linecap="round" fill="none"/>
+  <path d="M344,76 Q404,80 436,98" stroke-width="9" stroke="var(--color-neutral-700)" stroke-opacity="0.16" stroke-linecap="round" fill="none"/>
+  <path d="M270,112 L228,116" stroke-width="9" stroke="var(--color-accent)" stroke-opacity="0.45" stroke-linecap="round" fill="none"/>
+  <path d="M228,116 Q168,120 136,138" stroke-width="9" stroke="var(--color-neutral-700)" stroke-opacity="0.16" stroke-linecap="round" fill="none"/>
+  <path d="M310,112 L352,116" stroke-width="9" stroke="var(--color-accent)" stroke-opacity="0.45" stroke-linecap="round" fill="none"/>
+  <path d="M352,116 Q412,120 444,138" stroke-width="9" stroke="var(--color-neutral-700)" stroke-opacity="0.16" stroke-linecap="round" fill="none"/>
+  <path d="M270,148 L220,156" stroke-width="9" stroke="var(--color-accent)" stroke-opacity="0.45" stroke-linecap="round" fill="none"/>
+  <path d="M220,156 Q160,160 128,178" stroke-width="9" stroke="var(--color-neutral-700)" stroke-opacity="0.16" stroke-linecap="round" fill="none"/>
+  <path d="M310,148 L360,156" stroke-width="9" stroke="var(--color-accent)" stroke-opacity="0.45" stroke-linecap="round" fill="none"/>
+  <path d="M360,156 Q420,160 452,178" stroke-width="9" stroke="var(--color-neutral-700)" stroke-opacity="0.16" stroke-linecap="round" fill="none"/>
+  <path d="M270,184 L212,196" stroke-width="9" stroke="var(--color-accent)" stroke-opacity="0.45" stroke-linecap="round" fill="none"/>
+  <path d="M212,196 Q152,200 120,218" stroke-width="9" stroke="var(--color-neutral-700)" stroke-opacity="0.16" stroke-linecap="round" fill="none"/>
+  <path d="M310,184 L368,196" stroke-width="9" stroke="var(--color-accent)" stroke-opacity="0.45" stroke-linecap="round" fill="none"/>
+  <path d="M368,196 Q428,200 460,218" stroke-width="9" stroke="var(--color-neutral-700)" stroke-opacity="0.16" stroke-linecap="round" fill="none"/>
+  <path d="M270,220 L204,236" stroke-width="9" stroke="var(--color-accent)" stroke-opacity="0.45" stroke-linecap="round" fill="none"/>
+  <path d="M204,236 Q144,240 112,258" stroke-width="9" stroke="var(--color-neutral-700)" stroke-opacity="0.16" stroke-linecap="round" fill="none"/>
+  <path d="M310,220 L376,236" stroke-width="9" stroke="var(--color-accent)" stroke-opacity="0.45" stroke-linecap="round" fill="none"/>
+  <path d="M376,236 Q436,240 468,258" stroke-width="9" stroke="var(--color-neutral-700)" stroke-opacity="0.16" stroke-linecap="round" fill="none"/>
+  <path d="M270,256 L196,276" stroke-width="9" stroke="var(--color-accent)" stroke-opacity="0.45" stroke-linecap="round" fill="none"/>
+  <path d="M196,276 Q136,280 104,298" stroke-width="9" stroke="var(--color-neutral-700)" stroke-opacity="0.16" stroke-linecap="round" fill="none"/>
+  <path d="M310,256 L384,276" stroke-width="9" stroke="var(--color-accent)" stroke-opacity="0.45" stroke-linecap="round" fill="none"/>
+  <path d="M384,276 Q444,280 476,298" stroke-width="9" stroke="var(--color-neutral-700)" stroke-opacity="0.16" stroke-linecap="round" fill="none"/>
+  <path d="M270,292 L188,316" stroke-width="9" stroke="var(--color-accent)" stroke-opacity="0.45" stroke-linecap="round" fill="none"/>
+  <path d="M188,316 Q128,320 96,338" stroke-width="9" stroke="var(--color-neutral-700)" stroke-opacity="0.16" stroke-linecap="round" fill="none"/>
+  <path d="M310,292 L392,316" stroke-width="9" stroke="var(--color-accent)" stroke-opacity="0.45" stroke-linecap="round" fill="none"/>
+  <path d="M392,316 Q452,320 484,338" stroke-width="9" stroke="var(--color-neutral-700)" stroke-opacity="0.16" stroke-linecap="round" fill="none"/>
+  <path d="M270,50 C230,42 190,50 140,36" stroke-width="7" stroke="var(--color-neutral-700)" stroke-opacity="0.42" stroke-linecap="round" fill="none"/>
+  <path d="M310,50 C350,42 390,50 440,36" stroke-width="7" stroke="var(--color-neutral-700)" stroke-opacity="0.42" stroke-linecap="round" fill="none"/>
+  <path d="M266,48 L314,48 L307,112 L308,290 L298,294 L290,318 L282,294 L272,290 L273,112 Z" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.55"/>
+  <line x1="273" y1="112" x2="307" y2="112" stroke="var(--color-neutral-700)" stroke-opacity="0.5"/>
+  <text x="52.0" y="134.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">2. İKA</text>
+  <text x="52.0" y="170.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">3. İKA</text>
+  <text x="52.0" y="206.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">4. İKA</text>
+  <text x="52.0" y="242.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">5. İKA</text>
+  <text x="52.0" y="116.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">2. kıkırdak</text>
+  <line x1="410" y1="30" x2="410" y2="318" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="410.0" y="332.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sol l. medioclavicularis</text>
+  <path d="M322,118 C300,124 280,134 258,142 C246,184 246,236 258,256 C300,262 360,256 398,238.0 C422,190 372,130 322,118 Z" fill="var(--color-accent-2-900)" fill-opacity="0.06" stroke="var(--color-accent-2-900)" stroke-opacity="0.75" stroke-width="1.6"/>
+  <circle cx="322" cy="118" r="3.2" fill="var(--color-accent-2-900)"/>
+  <circle cx="258" cy="142" r="3.2" fill="var(--color-accent-2-900)"/>
+  <circle cx="258" cy="256" r="3.2" fill="var(--color-accent-2-900)"/>
+  <circle cx="398" cy="238.0" r="3.2" fill="var(--color-accent-2-900)"/>
+  <rect x="304" y="145.5" width="12" height="5" rx="2" fill="var(--color-text)"/>
+  <rect x="292" y="163.5" width="12" height="5" rx="2" fill="var(--color-text)"/>
+  <rect x="294" y="181.5" width="12" height="5" rx="2" fill="var(--color-text)"/>
+  <rect x="278" y="199.5" width="12" height="5" rx="2" fill="var(--color-text)"/>
+  <path d="M292,163.0 C284,150 274,140.0 272,134.0" fill="none" stroke="var(--color-accent-700)" stroke-width="1.3" marker-end="url(#k78cc)"/>
+  <path d="M313,144 L317,141.0" fill="none" stroke="var(--color-accent-700)" stroke-width="1.3" marker-end="url(#k78cc)"/>
+  <path d="M307,186 C330,198 360,224.0 385,233.0" fill="none" stroke="var(--color-accent-700)" stroke-width="1.3" marker-end="url(#k78cc)"/>
+  <path d="M286,206.0 C290,218.0 296,220.0 308,220.0" fill="none" stroke="var(--color-accent-700)" stroke-width="1.3" marker-end="url(#k78cc)"/>
+  <circle cx="260" cy="130.0" r="11" fill="white" fill-opacity="0.9" stroke="var(--color-accent-700)" stroke-width="1.6"/>
+  <text x="260.0" y="134.2" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">A</text>
+  <circle cx="320" cy="130.0" r="11" fill="white" fill-opacity="0.9" stroke="var(--color-accent-700)" stroke-width="1.6"/>
+  <text x="320.0" y="134.2" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">P</text>
+  <circle cx="320" cy="220.0" r="11" fill="white" fill-opacity="0.9" stroke="var(--color-accent-700)" stroke-width="1.6"/>
+  <text x="320.0" y="224.2" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">T</text>
+  <circle cx="398" cy="238.0" r="11" fill="white" fill-opacity="0.9" stroke="var(--color-accent-700)" stroke-width="1.6"/>
+  <text x="398.0" y="242.2" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">M</text>
+  <circle cx="320" cy="166.0" r="8" fill="white" stroke="var(--color-accent-700)" stroke-width="1" stroke-dasharray="2 2"/>
+  <text x="320.0" y="169.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">E</text>
+  <text x="244.0" y="213.0" text-anchor="end" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">sağ atriyum</text>
+  <line x1="372" y1="248" x2="416" y2="265" stroke="var(--color-accent-2-900)" stroke-opacity="0.8" stroke-width="0.9"/>
+  <text x="418.0" y="268.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">sağ ventrikül</text>
+  <text x="418.0" y="222.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">sol ventrikül</text>
+  <circle cx="470" cy="40" r="8" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="470.0" y="43.6" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">A</text>
+  <text x="484.0" y="41.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Aort odağı</text>
+  <text x="484.0" y="53.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sağ 2. İKA, sternum kenarı</text>
+  <circle cx="470" cy="70" r="8" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="470.0" y="73.6" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">P</text>
+  <text x="484.0" y="71.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Pulmoner odak</text>
+  <text x="484.0" y="83.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sol 2. İKA, sternum kenarı</text>
+  <circle cx="470" cy="100" r="8" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="470.0" y="103.6" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">E</text>
+  <text x="484.0" y="101.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Erb noktası</text>
+  <text x="484.0" y="113.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sol 3. İKA, sternum kenarı</text>
+  <circle cx="470" cy="130" r="8" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="470.0" y="133.6" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">T</text>
+  <text x="484.0" y="131.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Triküspit odağı</text>
+  <text x="484.0" y="143.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sternumun sol alt kenarı</text>
+  <circle cx="470" cy="160" r="8" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="470.0" y="163.6" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">M</text>
+  <text x="484.0" y="161.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Mitral odak</text>
+  <text x="484.0" y="173.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">apeks: sol 5. İKA, MKÇ'nin içi</text>
+  <rect x="464" y="181.5" width="12" height="5" rx="2" fill="var(--color-text)"/>
+  <text x="484.0" y="188.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kapağın gerçek yeri</text>
+  <circle cx="470" cy="201" r="3.2" fill="var(--color-accent-2-900)"/>
+  <text x="484.0" y="205.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kalbin dört köşe noktası</text>
+</svg>

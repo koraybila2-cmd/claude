@@ -1,0 +1,65 @@
+<svg viewBox="0 0 640 470" width="100%" style="display:block" role="img" aria-label="Ductus thoracicus'un seyri: cisterna chyli, hiatus aorticus, aorta ile v. azygos arasinda yukselis, T5 civarinda saga-sola gecis, sol venoz aci">
+  <defs><marker id="k77c" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k77cc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k77cm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="296" y="50" width="88" height="20" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.4"/>
+  <text x="303.0" y="64.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">C7</text>
+  <rect x="296" y="76" width="88" height="20" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.4"/>
+  <text x="303.0" y="90.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T1</text>
+  <rect x="296" y="102" width="88" height="20" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.4"/>
+  <text x="303.0" y="116.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T2</text>
+  <rect x="296" y="128" width="88" height="20" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.4"/>
+  <text x="303.0" y="142.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T3</text>
+  <rect x="296" y="154" width="88" height="20" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.4"/>
+  <text x="303.0" y="168.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T4</text>
+  <rect x="296" y="180" width="88" height="20" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.4"/>
+  <text x="303.0" y="194.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T5</text>
+  <rect x="296" y="206" width="88" height="20" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.4"/>
+  <text x="303.0" y="220.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T6</text>
+  <rect x="296" y="232" width="88" height="20" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.4"/>
+  <text x="303.0" y="246.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T7</text>
+  <rect x="296" y="258" width="88" height="20" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.4"/>
+  <text x="303.0" y="272.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T8</text>
+  <rect x="296" y="284" width="88" height="20" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.4"/>
+  <text x="303.0" y="298.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T9</text>
+  <rect x="296" y="310" width="88" height="20" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.4"/>
+  <text x="303.0" y="324.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T10</text>
+  <rect x="296" y="336" width="88" height="20" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.4"/>
+  <text x="303.0" y="350.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T11</text>
+  <rect x="296" y="362" width="88" height="20" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.4"/>
+  <text x="303.0" y="376.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T12</text>
+  <rect x="296" y="388" width="88" height="20" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.4"/>
+  <text x="303.0" y="402.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">L1</text>
+  <rect x="296" y="414" width="88" height="20" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.4"/>
+  <text x="303.0" y="428.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">L2</text>
+  <line x1="340" y1="46" x2="340" y2="436" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-dasharray="3 3"/>
+  <text x="340.0" y="40.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">orta hat</text>
+  <text x="160.0" y="18.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">HASTANIN SAĞI</text>
+  <text x="500.0" y="18.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">HASTANIN SOLU</text>
+  <path d="M400,164 L384,372 L378,444" stroke="var(--color-neutral-700)" stroke-opacity="0.25" stroke-width="20" fill="none"/>
+  <text x="416.0" y="294.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">aorta</text>
+  <path d="M280,398 L280,170 C280,152 262,148 244,152" stroke="var(--color-neutral-700)" stroke-opacity="0.5" stroke-width="5" fill="none"/>
+  <text x="268.0" y="294.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">v. azygos</text>
+  <path d="M560,16 L520,50" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="6"/>
+  <path d="M600,66 L520,50 L470,96" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="7" fill="none"/>
+  <text x="568.0" y="22.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">v. jug. int.</text>
+  <text x="604.0" y="82.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">v. subclavia sin.</text>
+  <path d="M80,16 L120,50" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="6"/>
+  <path d="M40,66 L120,50 L170,96" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="7" fill="none"/>
+  <text x="40.0" y="86.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sağ venöz açı</text>
+  <path d="M150,112 C140,86 130,60 122,52" stroke="var(--color-accent-700)" stroke-width="2.4" fill="none"/>
+  <text x="156.0" y="124.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">ductus lymphaticus dexter:</text>
+  <text x="156.0" y="136.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">sağ üst çeyreğin lenfi</text>
+  <path d="M336,440 C336,398 330,372 328,346 L328,216 C328,190 352,190 354,164 L354,86 C356,30 440,20 516,48" stroke="var(--color-accent-700)" stroke-width="3.2" fill="none"/>
+  <ellipse cx="336" cy="434" rx="12" ry="18" fill="var(--color-accent-700)" fill-opacity="0.35" stroke="var(--color-accent-700)"/>
+  <text x="318.0" y="450.0" text-anchor="end" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">cisterna chyli (L1-L2)</text>
+  <text x="422.0" y="376.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hiatus aorticus (T12):</text>
+  <text x="422.0" y="388.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">aorta ile v. azygos arasında</text>
+  <text x="160.0" y="242.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">orta hattın sağında, özofagusun</text>
+  <text x="160.0" y="254.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">arkasında, aorta ile azygos arasında</text>
+  <circle cx="340" cy="190" r="6" fill="white" stroke="var(--color-accent-2-900)" stroke-width="2"/>
+  <text x="422.0" y="186.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">T4-T6 (≈T5): sağdan sola geçer</text>
+  <text x="422.0" y="200.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">altında yaralanma → sağ şilotoraks</text>
+  <text x="422.0" y="213.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">üstünde yaralanma → sol şilotoraks</text>
+  <text x="422.0" y="162.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">özofagusun solunda yükselir</text>
+  <text x="420.0" y="114.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">C7'de kemer yapar,</text>
+  <text x="420.0" y="127.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">sol venöz açıya açılır</text>
+</svg>

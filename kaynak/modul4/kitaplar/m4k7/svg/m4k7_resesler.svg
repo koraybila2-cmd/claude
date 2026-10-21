@@ -1,0 +1,49 @@
+<svg viewBox="0 0 640 372" width="100%" style="display:block" role="img" aria-label="Plevral resesler: koronal kesitte kostodiyafragmatik ve frenikomediastinal, enine kesitte kostomediastinal ve vertebromediastinal resesler">
+  <defs><marker id="k74a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k74ac" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k74am" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <text x="160.0" y="16.0" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">A · Koronal kesit (sağ taraf, önden)</text>
+  <line x1="40" y1="44" x2="40" y2="300" stroke-width="9" stroke="var(--color-neutral-700)" stroke-opacity="0.5" stroke-linecap="round" fill="none"/>
+  <line x1="270" y1="44" x2="270" y2="290" stroke-width="5" stroke="var(--color-neutral-700)" stroke-opacity="0.5" stroke-linecap="round" fill="none"/>
+  <path d="M40,302 C70,232 120,214 155,216 C200,218 240,240 270,270" stroke-width="7" stroke="var(--color-neutral-700)" stroke-opacity="0.5" stroke-linecap="round" fill="none"/>
+  <path d="M45,48 Q155,-4 265,48 L265,262 C240,238 200,222 155,222 C120,222 76,238 46,294 Z" stroke="var(--color-accent-700)" stroke-width="2" fill="var(--color-accent-700)" fill-opacity="0.10"/>
+  <path d="M64,64 Q155,8 254,64 L254,240 C232,222 200,210 155,210 C118,210 84,224 62,252 Z" stroke="var(--color-accent-700)" stroke-width="1" stroke-opacity="0.8" fill="#e9e7e5"/>
+  <circle cx="257" cy="146" r="5" fill="white" stroke="var(--color-neutral-700)"/><circle cx="257" cy="160" r="4" fill="white" stroke="var(--color-neutral-700)"/>
+  <text x="155.0" y="130.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">akciğer</text>
+  <text x="155.0" y="144.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">(pleura visceralis ile örtülü)</text>
+  <text x="155.0" y="32.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">cupula pleurae</text>
+  <text x="28.0" y="196.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" transform="rotate(-90 28 196)">pars costalis</text>
+  <text x="286.0" y="150.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" transform="rotate(-90 286 150)">pars mediastinalis</text>
+  <text x="300.0" y="150.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em" transform="rotate(-90 300 150)">mediastinum</text>
+  <text x="155.0" y="248.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">pars diaphragmatica</text>
+  <text x="224.0" y="160.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hilus</text>
+  <text x="244.0" y="206.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">lig. pulmonale</text>
+  <line x1="246" y1="202" x2="262" y2="196" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="0.9"/>
+  <line x1="56" y1="316" x2="49" y2="288" stroke="var(--color-accent-700)" stroke-opacity="0.8" stroke-width="0.9"/>
+  <text x="58.0" y="322.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">recessus costodiaphragmaticus (sinüs): keskin</text>
+  <line x1="262" y1="336" x2="262" y2="262" stroke="var(--color-accent-700)" stroke-opacity="0.8" stroke-width="0.9"/>
+  <text x="256.0" y="340.0" text-anchor="end" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">recessus phrenicomediastinalis: keskin</text>
+  <text x="160.0" y="360.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">karın boşluğu</text>
+  <text x="486.0" y="16.0" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">B · Enine kesit (kalp düzeyi, aşağıdan)</text>
+  <ellipse cx="486" cy="182" rx="146" ry="128" stroke-width="9" stroke="var(--color-neutral-700)" stroke-opacity="0.5" stroke-linecap="round" fill="none"/>
+  <rect x="473" y="50" width="26" height="16" rx="3" fill="white" stroke="var(--color-neutral-700)"/>
+  <text x="486.0" y="44.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sternum</text>
+  <circle cx="486" cy="286" r="22" fill="white" stroke="var(--color-neutral-700)"/>
+  <text x="486.0" y="290.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">vertebra</text>
+  <path d="M470,66 C430,58 372,88 352,150 C338,214 368,272 420,292 C440,300 458,302 466,288 C456,268 440,250 432,224 C420,190 420,150 438,112 C448,92 462,78 470,66 Z" stroke="var(--color-accent-700)" stroke-width="2" fill="var(--color-accent-700)" fill-opacity="0.10"/>
+  <path d="M448,96 C412,92 370,116 362,160 C354,212 382,262 428,280 C444,284 452,276 448,262 C438,240 428,214 426,186 C424,150 432,118 448,96 Z" stroke="var(--color-accent-700)" stroke-width="1" stroke-opacity="0.8" fill="#e9e7e5"/>
+  <path d="M502,66 C542,58 600,88 620,150 C634,214 604,272 552,292 C532,300 514,302 506,288 C516,268 528,250 538,226 C552,196 556,160 540,124 C530,100 514,80 502,66 Z" stroke="var(--color-accent-700)" stroke-width="2" fill="var(--color-accent-700)" fill-opacity="0.10"/>
+  <path d="M546,120 C580,112 606,132 612,166 C618,214 590,262 546,280 C530,284 522,276 526,262 C536,240 546,216 548,190 C552,166 552,140 546,120 Z" stroke="var(--color-accent-700)" stroke-width="1" stroke-opacity="0.8" fill="#e9e7e5"/>
+  <ellipse cx="490" cy="172" rx="50" ry="58" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.6"/>
+  <text x="490.0" y="170.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kalp</text>
+  <text x="490.0" y="183.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">(perikard)</text>
+  <circle cx="512" cy="256" r="11" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.6"/>
+  <circle cx="490" cy="250" r="6" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.6"/>
+  <line x1="600" y1="330" x2="514" y2="266" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="0.9"/>
+  <text x="604.0" y="334.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">aorta</text>
+  <line x1="396" y1="334" x2="462" y2="290" stroke="var(--color-accent-700)" stroke-opacity="0.8" stroke-width="0.9"/>
+  <text x="336.0" y="346.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">recessus vertebromediastinalis: yuvarlak</text>
+  <line x1="420" y1="54" x2="466" y2="74" stroke="var(--color-accent-700)" stroke-opacity="0.8" stroke-width="0.9"/>
+  <line x1="556" y1="54" x2="510" y2="78" stroke="var(--color-accent-700)" stroke-opacity="0.8" stroke-width="0.9"/>
+  <text x="380.0" y="50.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">rec. costomediastinalis</text>
+  <text x="598.0" y="50.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">solda daha geniş</text>
+  <text x="598.0" y="62.0" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">(incisura cardiaca)</text>
+</svg>

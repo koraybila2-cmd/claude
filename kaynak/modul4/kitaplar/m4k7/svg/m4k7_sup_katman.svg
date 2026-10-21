@@ -1,0 +1,36 @@
+<svg viewBox="0 0 640 386" width="100%" style="display:block" role="img" aria-label="Mediastinum superius'taki yapilarin onden arkaya katman katman dizilimi">
+  <defs><marker id="k77b" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k77bc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k77bm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="60" y="10" width="570" height="40" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <rect x="60" y="10" width="570" height="40" rx="4" fill="var(--color-neutral-700)" fill-opacity="0.12"/>
+  <text x="72.0" y="35.0" text-anchor="start" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Manubrium sterni</text>
+  <text x="262.0" y="27.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">ön sınır; arka yüzüne m. sternohyoideus ve</text>
+  <text x="262.0" y="41.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">m. sternothyroideus tutunur</text>
+  <rect x="60" y="56" width="570" height="40" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="72.0" y="81.0" text-anchor="start" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">1 · Bez katmanı</text>
+  <text x="262.0" y="81.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">timus (erişkinde yağ dokusuna dönüşmüş kalıntısı)</text>
+  <rect x="60" y="102" width="570" height="40" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="72.0" y="127.0" text-anchor="start" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">2 · Venöz katman</text>
+  <text x="262.0" y="119.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">vv. brachiocephalicae, VCS'nin üst yarısı,</text>
+  <text x="262.0" y="133.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">v. intercostalis superior sinistra</text>
+  <rect x="60" y="148" width="570" height="40" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-opacity="1" stroke-width="1.5"/>
+  <text x="72.0" y="173.0" text-anchor="start" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">3 · Arteriyel katman</text>
+  <text x="262.0" y="165.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">arcus aortae ve dalları: truncus brachiocephalicus,</text>
+  <text x="262.0" y="179.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">a. carotis communis sinistra, a. subclavia sinistra</text>
+  <rect x="60" y="194" width="570" height="40" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="72.0" y="219.0" text-anchor="start" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">    ilişkili sinirler</text>
+  <text x="262.0" y="211.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">nn. vagi ve kardiyak dalları, sol n. laryngeus</text>
+  <text x="262.0" y="225.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">recurrens, nn. phrenici</text>
+  <rect x="60" y="240" width="570" height="40" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-opacity="1" stroke-width="1.5"/>
+  <text x="72.0" y="265.0" text-anchor="start" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">4 · Visseral katman</text>
+  <text x="262.0" y="257.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">trakea (önde) ve özofagus (arkada); paratrakeal</text>
+  <text x="262.0" y="271.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">ve trakeobronşiyal lenf düğümleri</text>
+  <rect x="60" y="286" width="570" height="40" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="72.0" y="311.0" text-anchor="start" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">5 · Lenfatik</text>
+  <text x="262.0" y="311.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">ductus thoracicus (özofagusun solunda)</text>
+  <rect x="60" y="332" width="570" height="40" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <rect x="60" y="332" width="570" height="40" rx="4" fill="var(--color-neutral-700)" fill-opacity="0.12"/>
+  <text x="72.0" y="357.0" text-anchor="start" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">T1-T4 vertebra gövdeleri</text>
+  <text x="262.0" y="357.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">arka sınır; önlerinde m. longus colli</text>
+  <line x1="30" y1="20" x2="30" y2="368" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k77b)"/>
+  <text x="22.0" y="190.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" transform="rotate(-90 22 190)">önden arkaya</text>
+</svg>

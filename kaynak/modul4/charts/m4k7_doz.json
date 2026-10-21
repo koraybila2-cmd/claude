@@ -1,0 +1,2 @@
+{"width": 640, "height": 240, "ariaLabel": "Göğüs görüntüleme yöntemlerinin yaklaşık efektif radyasyon dozu (mSv)", "unit": " mSv", "maxValue": 16,
+ "categories": [{"label": "PA grafi", "value": 0.02}, {"label": "PA + lateral grafi", "value": 0.1}, {"label": "Düşük doz BT (tarama)", "value": 1.5}, {"label": "Standart toraks BT", "value": 7}, {"label": "BT anjiyografi (pulmoner emboli)", "value": 15}]}

@@ -1,0 +1,54 @@
+<svg viewBox="0 0 640 372" width="100%" style="display:block" role="img" aria-label="Diyaframin uc buyuk acikligi: T8 foramen venae cavae, T10 hiatus oesophageus, T12 hiatus aorticus; sol yandan sematik gorunus">
+  <defs><marker id="k72a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k72ac" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k72am" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <text x="16.0" y="16.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">ÖN</text>
+  <text x="624.0" y="16.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">ARKA</text>
+  <rect x="548" y="22" width="60" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="578.0" y="42.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">T6</text>
+  <rect x="548" y="60" width="60" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="578.0" y="80.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">T7</text>
+  <rect x="548" y="98" width="60" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="578.0" y="118.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">T8</text>
+  <rect x="548" y="136" width="60" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="578.0" y="156.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">T9</text>
+  <rect x="548" y="174" width="60" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="578.0" y="194.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">T10</text>
+  <rect x="548" y="212" width="60" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="578.0" y="232.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">T11</text>
+  <rect x="548" y="250" width="60" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="578.0" y="270.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">T12</text>
+  <rect x="548" y="288" width="60" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="578.0" y="308.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">L1</text>
+  <rect x="548" y="326" width="60" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.45"/>
+  <text x="578.0" y="346.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">L2</text>
+  <line x1="522" y1="8" x2="522" y2="364" stroke="var(--color-neutral-700)" stroke-opacity="0.28" stroke-width="16" stroke-linecap="round"/>
+  <text x="522.0" y="362.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">aorta</text>
+  <path d="M70,150 C110,118 160,102 205,98" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="9" fill="none" stroke-linecap="round"/>
+  <path d="M205,98 C250,94 300,96 335,104" stroke="var(--color-neutral-700)" stroke-opacity="0.22" stroke-width="9" fill="none"/>
+  <path d="M335,104 C390,118 425,160 452,189 C480,220 500,250 512,265" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="9" fill="none"/>
+  <path d="M512,265 C520,290 528,320 538,352" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <path d="M506,263 Q522,249 538,263" stroke="var(--color-neutral-700)" stroke-opacity="0.8" stroke-width="2" fill="none"/>
+  <text x="270.0" y="88.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">centrum tendineum</text>
+  <text x="95.0" y="170.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">pars sternalis</text>
+  <text x="508.0" y="334.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">crus dextrum</text>
+  <text x="150.0" y="40.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">göğüs boşluğu</text>
+  <text x="150.0" y="200.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">karın boşluğu</text>
+  <line x1="300" y1="30" x2="300" y2="190" stroke="var(--color-neutral-700)" stroke-opacity="0.3" stroke-width="14" stroke-linecap="round"/>
+  <text x="300.0" y="24.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">VCİ</text>
+  <line x1="412" y1="24" x2="472" y2="232" stroke="var(--color-accent-700)" stroke-opacity="0.35" stroke-width="13" stroke-linecap="round"/>
+  <text x="404.0" y="24.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">özofagus</text>
+  <line x1="300" y1="96" x2="548" y2="113" stroke="var(--color-accent-700)" stroke-opacity="0.5" stroke-width="1"/>
+  <circle cx="300" cy="96" r="5" fill="white" stroke="var(--color-accent-700)" stroke-width="2"/>
+  <line x1="452" y1="189" x2="548" y2="189" stroke="var(--color-accent-700)" stroke-opacity="0.5" stroke-width="1"/>
+  <circle cx="452" cy="189" r="5" fill="white" stroke="var(--color-accent-700)" stroke-width="2"/>
+  <line x1="522" y1="257" x2="548" y2="265" stroke="var(--color-accent-700)" stroke-opacity="0.5" stroke-width="1"/>
+  <circle cx="522" cy="257" r="5" fill="white" stroke="var(--color-accent-700)" stroke-width="2"/>
+  <text x="14.0" y="236.0" text-anchor="start" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">T8 · Foramen venae cavae</text>
+  <text x="14.0" y="250.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">centrum tendineum'da; VCİ, sağ n. phrenicus dalları</text>
+  <text x="14.0" y="263.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">kasılınca gerilip açılır → venöz dönüş artar</text>
+  <text x="14.0" y="286.0" text-anchor="start" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">T10 · Hiatus oesophageus</text>
+  <text x="14.0" y="300.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sağ krusun kas lifleri arasında; özofagus, trunci vagales</text>
+  <text x="14.0" y="313.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">kasılınca sıkışır → reflüye karşı dış sfinkter</text>
+  <text x="14.0" y="336.0" text-anchor="start" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">T12 · Hiatus aorticus</text>
+  <text x="14.0" y="350.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">krusların arkasında, lig. arcuatum medianum altında;</text>
+  <text x="14.0" y="362.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">aorta, ductus thoracicus, (v. azygos) · kasılmadan etkilenmez</text>
+</svg>

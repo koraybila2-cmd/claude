@@ -1,0 +1,62 @@
+<svg viewBox="0 0 640 376" width="100%" style="display:block" role="img" aria-label="Hava yolunun basamaklari, kusak (generasyon) numaralari, duvar yapisindaki ogelerin hangi duzeye kadar devam ettigi ve iletici bolge ile solunum bolgesi">
+  <defs><marker id="k75c" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k75cc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k75cm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <text x="12.0" y="60.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">Hava yolu</text>
+  <text x="236.0" y="60.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">kuşak</text>
+  <rect x="12" y="72" width="200" height="22" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35"/>
+  <text x="20.0" y="87.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Trachea</text>
+  <text x="236.0" y="87.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">0</text>
+  <rect x="12" y="99" width="200" height="22" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35"/>
+  <text x="20.0" y="114.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Bronchus principalis</text>
+  <text x="236.0" y="114.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">1</text>
+  <text x="262.0" y="114.0" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">P</text>
+  <rect x="12" y="126" width="200" height="22" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35"/>
+  <text x="20.0" y="141.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Bronchus lobaris</text>
+  <text x="236.0" y="141.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">2</text>
+  <text x="262.0" y="141.0" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">L</text>
+  <rect x="12" y="153" width="200" height="22" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35"/>
+  <text x="20.0" y="168.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Bronchus segmentalis</text>
+  <text x="236.0" y="168.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">3</text>
+  <text x="262.0" y="168.0" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">S</text>
+  <rect x="12" y="180" width="200" height="22" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35"/>
+  <text x="20.0" y="195.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Küçük bronşlar</text>
+  <text x="236.0" y="195.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">4-10</text>
+  <rect x="12" y="207" width="200" height="22" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35"/>
+  <text x="20.0" y="222.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Bronchiolus (lobularis) · &lt; 1 mm</text>
+  <text x="236.0" y="222.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">11-15</text>
+  <text x="262.0" y="222.0" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">L</text>
+  <rect x="12" y="234" width="200" height="22" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35"/>
+  <text x="20.0" y="249.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Bronchiolus terminalis</text>
+  <text x="236.0" y="249.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">16</text>
+  <text x="262.0" y="249.0" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">T</text>
+  <rect x="12" y="261" width="200" height="22" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35"/>
+  <text x="20.0" y="276.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Bronchiolus respiratorius</text>
+  <text x="236.0" y="276.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">17-19</text>
+  <text x="262.0" y="276.0" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">R</text>
+  <rect x="12" y="288" width="200" height="22" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35"/>
+  <text x="20.0" y="303.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Ductus alveolaris</text>
+  <text x="236.0" y="303.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">20-22</text>
+  <rect x="12" y="315" width="200" height="22" rx="3" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35"/>
+  <text x="20.0" y="330.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Saccus alveolaris · alveol</text>
+  <text x="236.0" y="330.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">23</text>
+  <text x="296.0" y="60.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" transform="rotate(-38 296 60)">kıkırdak</text>
+  <rect x="293" y="75" width="14" height="124" rx="4" fill="var(--color-neutral-700)" fill-opacity="0.45"/>
+  <text x="336.0" y="60.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" transform="rotate(-38 336 60)">bez</text>
+  <rect x="333" y="75" width="14" height="124" rx="4" fill="var(--color-neutral-700)" fill-opacity="0.45"/>
+  <text x="376.0" y="60.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" transform="rotate(-38 376 60)">goblet h.</text>
+  <rect x="373" y="75" width="14" height="151" rx="4" fill="var(--color-neutral-700)" fill-opacity="0.45"/>
+  <text x="416.0" y="60.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" transform="rotate(-38 416 60)">silyalı epitel</text>
+  <rect x="413" y="75" width="14" height="205" rx="4" fill="var(--color-neutral-700)" fill-opacity="0.45"/>
+  <text x="456.0" y="60.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" transform="rotate(-38 456 60)">kulüp h.</text>
+  <rect x="453" y="210" width="14" height="70" rx="4" fill="var(--color-neutral-700)" fill-opacity="0.45"/>
+  <text x="496.0" y="60.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" transform="rotate(-38 496 60)">düz kas</text>
+  <rect x="493" y="75" width="14" height="232" rx="4" fill="var(--color-neutral-700)" fill-opacity="0.45"/>
+  <text x="536.0" y="60.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" transform="rotate(-38 536 60)">gaz değişimi</text>
+  <rect x="533" y="264" width="14" height="70" rx="4" fill="var(--color-accent-700)" fill-opacity="0.7"/>
+  <path d="M588,72 L596,72 L596,258 L588,258" stroke="var(--color-neutral-700)" stroke-width="1.2" fill="none"/>
+  <path d="M588,263 L596,263 L596,337 L588,337" stroke="var(--color-accent-700)" stroke-width="1.6" fill="none"/>
+  <text x="612.0" y="205.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" transform="rotate(-90 612 205.0)">iletici bölge</text>
+  <text x="626.0" y="205.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" transform="rotate(-90 626 205.0)">ölü boşluk ≈150 mL</text>
+  <text x="614.0" y="328.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve" transform="rotate(-90 614 328.0)">solunum</text>
+  <text x="628.0" y="328.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve" transform="rotate(-90 628 328.0)">(asinüs)</text>
+  <text x="12.0" y="366.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">PLSLTR ("PLeaSe LaTeR"): Principalis · Lobaris · Segmentalis · Lobularis · Terminalis · Respiratorius</text>
+</svg>

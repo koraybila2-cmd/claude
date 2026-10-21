@@ -1,0 +1,120 @@
+<svg viewBox="0 0 640 418" width="100%" style="display:block" role="img" aria-label="Gogus duvarinin oryantasyon cizgileri: onden, sag yandan ve arkadan; cizgiler bir tarafta gosterilmistir">
+  <defs><marker id="k78a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k78ac" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k78am" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <text x="110.0" y="16.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">ÖNDEN</text>
+  <text x="322.0" y="16.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">SAĞ YANDAN · KOL YUKARIDA</text>
+  <text x="532.0" y="16.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">ARKADAN</text>
+  <path d="M95,40 L94,58 C80,68 44,66 26,78 C16,86 17,106 20,124 L28,230 C32,260 36,280 38,300" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.3" fill="none"/>
+  <path d="M100,84 C80,78 58,88 30,78" stroke-width="5" stroke="var(--color-neutral-700)" stroke-opacity="0.42" stroke-linecap="round" fill="none"/>
+  <path d="M101,208 C80,236 55,262 34,272" stroke-width="3" stroke="var(--color-accent)" stroke-opacity="0.45" stroke-linecap="round" fill="none"/>
+  <circle cx="63" cy="156" r="3" fill="var(--color-neutral-700)" fill-opacity="0.55"/>
+  <path d="M125,40 L126,58 C140,68 176,66 194,78 C204,86 203,106 200,124 L192,230 C188,260 184,280 182,300" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.3" fill="none"/>
+  <path d="M120,84 C140,78 162,88 190,78" stroke-width="5" stroke="var(--color-neutral-700)" stroke-opacity="0.42" stroke-linecap="round" fill="none"/>
+  <path d="M119,208 C140,236 165,262 186,272" stroke-width="3" stroke="var(--color-accent)" stroke-opacity="0.45" stroke-linecap="round" fill="none"/>
+  <circle cx="157" cy="156" r="3" fill="var(--color-neutral-700)" fill-opacity="0.55"/>
+  <path d="M98,82 L122,82 L119,116 L101,116 Z" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.55"/>
+  <path d="M101,117 L119,117 L119,208 L101,208 Z" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.55"/>
+  <path d="M104,209 L116,209 L110,228 Z" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.55"/>
+  <text x="96.0" y="120.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">angulus sterni</text>
+  <text x="63.0" y="172.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">meme başı</text>
+  <text x="70.0" y="290.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">arcus costalis</text>
+  <line x1="110" y1="76" x2="110" y2="306" stroke="var(--color-accent-700)" stroke-opacity="1" stroke-width="1.2" stroke-dasharray="5 3"/>
+  <circle cx="110" cy="314" r="7.5" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="110.0" y="317.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">1</text>
+  <line x1="121" y1="76" x2="121" y2="324" stroke="var(--color-accent-700)" stroke-opacity="1" stroke-width="1.2" stroke-dasharray="5 3"/>
+  <circle cx="121" cy="332" r="7.5" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="121.0" y="335.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">2</text>
+  <line x1="138" y1="76" x2="138" y2="306" stroke="var(--color-accent-700)" stroke-opacity="1" stroke-width="1.2" stroke-dasharray="5 3"/>
+  <circle cx="138" cy="314" r="7.5" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="138.0" y="317.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">3</text>
+  <line x1="154" y1="76" x2="154" y2="324" stroke="var(--color-accent-700)" stroke-opacity="1" stroke-width="1.2" stroke-dasharray="5 3"/>
+  <circle cx="154" cy="332" r="7.5" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="154.0" y="335.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">4</text>
+  <path d="M262,132 C254,190 256,250 264,300" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.3" fill="none"/>
+  <path d="M374,112 C386,170 384,240 372,300" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.3" fill="none"/>
+  <path d="M282,82 L294,20" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.3" fill="none"/>
+  <path d="M352,80 L342,20" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.3" fill="none"/>
+  <path d="M282,82 C276,104 266,124 262,136" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.3" fill="none"/>
+  <path d="M352,80 C360,92 368,102 374,114" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.3" fill="none"/>
+  <path d="M282,82 Q318,116 352,80" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-width="1" fill="none"/>
+  <text x="317.0" y="76.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">koltuk altı</text>
+  <line x1="366" y1="100" x2="382" y2="60" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="0.9"/>
+  <text x="384.0" y="56.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ön aksiller pli</text>
+  <line x1="272" y1="114" x2="260" y2="60" stroke="var(--color-neutral-700)" stroke-opacity="0.55" stroke-width="0.9"/>
+  <text x="258.0" y="56.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">arka aksiller pli</text>
+  <line x1="362" y1="106" x2="362" y2="306" stroke="var(--color-accent-700)" stroke-opacity="1" stroke-width="1.2" stroke-dasharray="5 3"/>
+  <circle cx="362" cy="314" r="7.5" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="362.0" y="317.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">5</text>
+  <line x1="318" y1="100" x2="318" y2="306" stroke="var(--color-accent-700)" stroke-opacity="1" stroke-width="1.2" stroke-dasharray="5 3"/>
+  <circle cx="318" cy="314" r="7.5" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="318.0" y="317.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">6</text>
+  <line x1="276" y1="114" x2="276" y2="306" stroke="var(--color-accent-700)" stroke-opacity="1" stroke-width="1.2" stroke-dasharray="5 3"/>
+  <circle cx="276" cy="314" r="7.5" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="276.0" y="317.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">7</text>
+  <text x="262.0" y="318.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">arka</text>
+  <text x="376.0" y="318.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ön</text>
+  <path d="M517,40 L516,58 C502,68 466,66 448,78 C438,86 439,106 442,124 L450,230 C454,260 458,280 460,300" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.3" fill="none"/>
+  <path d="M492,97 L486,170 L446,106 Q470,90 492,97 Z" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.5" stroke-width="1.2"/>
+  <path d="M491,112 L442,94" stroke-width="3.2" stroke="var(--color-neutral-700)" stroke-opacity="0.42" stroke-linecap="round" fill="none"/>
+  <path d="M547,40 L548,58 C562,68 598,66 616,78 C626,86 625,106 622,124 L614,230 C610,260 606,280 604,300" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.3" fill="none"/>
+  <path d="M572,97 L578,170 L618,106 Q594,90 572,97 Z" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.5" stroke-width="1.2"/>
+  <path d="M573,112 L622,94" stroke-width="3.2" stroke="var(--color-neutral-700)" stroke-opacity="0.42" stroke-linecap="round" fill="none"/>
+  <circle cx="532" cy="68.0" r="3.4" fill="var(--color-neutral-700)"/>
+  <circle cx="532" cy="82.5" r="2.3" fill="var(--color-neutral-700)"/>
+  <circle cx="532" cy="97.0" r="2.3" fill="var(--color-neutral-700)"/>
+  <circle cx="532" cy="111.5" r="2.3" fill="var(--color-neutral-700)"/>
+  <circle cx="532" cy="126.0" r="2.3" fill="var(--color-neutral-700)"/>
+  <circle cx="532" cy="140.5" r="2.3" fill="var(--color-neutral-700)"/>
+  <circle cx="532" cy="155.0" r="2.3" fill="var(--color-neutral-700)"/>
+  <circle cx="532" cy="169.5" r="2.3" fill="var(--color-neutral-700)"/>
+  <circle cx="532" cy="184.0" r="2.3" fill="var(--color-neutral-700)"/>
+  <circle cx="532" cy="198.5" r="2.3" fill="var(--color-neutral-700)"/>
+  <circle cx="532" cy="213.0" r="2.3" fill="var(--color-neutral-700)"/>
+  <circle cx="532" cy="227.5" r="2.3" fill="var(--color-neutral-700)"/>
+  <circle cx="532" cy="242.0" r="2.3" fill="var(--color-neutral-700)"/>
+  <text x="524.0" y="71.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">C7</text>
+  <line x1="488" y1="111.5" x2="528" y2="111.5" stroke="var(--color-accent-2-900)" stroke-opacity="0.7" stroke-width="1" stroke-dasharray="2 2"/>
+  <text x="524.0" y="107.5" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">T3</text>
+  <line x1="488" y1="169.5" x2="528" y2="169.5" stroke="var(--color-accent-2-900)" stroke-opacity="0.7" stroke-width="1" stroke-dasharray="2 2"/>
+  <text x="524.0" y="165.5" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">T7</text>
+  <text x="484.0" y="186.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">angulus inferior</text>
+  <text x="524.0" y="245.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T12</text>
+  <line x1="578" y1="80" x2="578" y2="306" stroke="var(--color-accent-700)" stroke-opacity="1" stroke-width="1.2" stroke-dasharray="5 3"/>
+  <circle cx="578" cy="314" r="7.5" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="578.0" y="317.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">8</text>
+  <line x1="548" y1="70" x2="548" y2="324" stroke="var(--color-accent-700)" stroke-opacity="1" stroke-width="1.2" stroke-dasharray="5 3"/>
+  <circle cx="548" cy="332" r="7.5" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="548.0" y="335.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">9</text>
+  <line x1="532" y1="74" x2="532" y2="306" stroke="var(--color-accent-700)" stroke-opacity="1" stroke-width="1.2" stroke-dasharray="5 3"/>
+  <circle cx="532" cy="314" r="7.5" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="532.0" y="317.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">10</text>
+  <circle cx="26" cy="356" r="6.8" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="26.0" y="359.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">1</text>
+  <text x="38.0" y="359.8" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">orta hat (l. mediana anterior)</text>
+  <circle cx="26" cy="372" r="6.8" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="26.0" y="375.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">2</text>
+  <text x="38.0" y="375.8" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">l. sternalis</text>
+  <circle cx="26" cy="388" r="6.8" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="26.0" y="391.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">3</text>
+  <text x="38.0" y="391.8" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">l. parasternalis</text>
+  <circle cx="26" cy="404" r="6.8" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="26.0" y="407.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">4</text>
+  <text x="38.0" y="407.8" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">l. medioclavicularis</text>
+  <circle cx="238" cy="356" r="6.8" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="238.0" y="359.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">5</text>
+  <text x="250.0" y="359.8" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">l. axillaris anterior</text>
+  <circle cx="238" cy="372" r="6.8" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="238.0" y="375.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">6</text>
+  <text x="250.0" y="375.8" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">l. axillaris media</text>
+  <circle cx="238" cy="388" r="6.8" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="238.0" y="391.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">7</text>
+  <text x="250.0" y="391.8" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">l. axillaris posterior</text>
+  <circle cx="448" cy="356" r="6.8" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="448.0" y="359.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">8</text>
+  <text x="460.0" y="359.8" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">l. scapularis</text>
+  <circle cx="448" cy="372" r="6.8" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="448.0" y="375.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">9</text>
+  <text x="460.0" y="375.8" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">l. paravertebralis</text>
+  <circle cx="448" cy="388" r="6.8" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="448.0" y="391.5" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">10</text>
+  <text x="460.0" y="391.8" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">orta hat (l. mediana posterior)</text>
+</svg>

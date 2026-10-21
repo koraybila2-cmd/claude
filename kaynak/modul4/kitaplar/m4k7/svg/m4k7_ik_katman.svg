@@ -1,0 +1,82 @@
+<svg viewBox="0 0 640 404" width="100%" style="display:block" role="img" aria-label="Interkostal araligin katmanlari, sulcus costae icinde ven-arter-sinir dizilimi, kollateral dallar ve torasentez ignesinin gecis yeri">
+  <defs><marker id="k73a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k73ac" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k73am" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <text x="14.0" y="20.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">DIŞ</text>
+  <text x="470.0" y="20.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">İÇ (göğüs boşluğu)</text>
+  <rect x="96" y="34" width="12" height="266" fill="var(--color-neutral-700)" fill-opacity="0.30"/>
+  <rect x="108" y="34" width="34" height="266" fill="var(--color-neutral-700)" fill-opacity="0.08"/>
+  <rect x="142" y="34" width="46" height="266" fill="var(--color-neutral-700)" fill-opacity="0.18"/>
+  <rect x="196" y="46" width="108" height="72" rx="28" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.4"/>
+  <rect x="196" y="212" width="108" height="72" rx="28" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.4"/>
+  <path d="M262,118 Q262,98 284,98 L304,98 L304,118 Z" fill="var(--color-text)" fill-opacity="0.05"/>
+  <text x="236.0" y="80.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">üst kaburga</text>
+  <text x="236.0" y="252.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">alt kaburga</text>
+  <rect x="198" y="118" width="36" height="94" fill="var(--color-neutral-700)" fill-opacity="0.14"/>
+  <line x1="200" y1="124" x2="232" y2="138" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="200" y1="142" x2="232" y2="156" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="200" y1="160" x2="232" y2="174" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="200" y1="178" x2="232" y2="192" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="200" y1="196" x2="232" y2="210" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-width="1"/>
+  <rect x="234" y="118" width="30" height="94" fill="var(--color-neutral-700)" fill-opacity="0.24"/>
+  <line x1="236" y1="138" x2="262" y2="124" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="236" y1="156" x2="262" y2="142" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="236" y1="174" x2="262" y2="160" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="236" y1="192" x2="262" y2="178" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-width="1"/>
+  <line x1="236" y1="210" x2="262" y2="196" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-width="1"/>
+  <rect x="286" y="146" width="18" height="52" fill="var(--color-neutral-700)" fill-opacity="0.24"/>
+  <circle cx="275" cy="108" r="6" fill="white" stroke="var(--color-accent-700)" stroke-width="1.6"/>
+  <text x="275.0" y="112.0" text-anchor="middle" font-family="var(--font-body)" font-size="8.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">V</text>
+  <circle cx="275" cy="122" r="6" fill="white" stroke="var(--color-accent-700)" stroke-width="1.6"/>
+  <text x="275.0" y="126.0" text-anchor="middle" font-family="var(--font-body)" font-size="8.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">A</text>
+  <circle cx="275" cy="137" r="6" fill="white" stroke="var(--color-accent-700)" stroke-width="1.6"/>
+  <text x="275.0" y="141.0" text-anchor="middle" font-family="var(--font-body)" font-size="8.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">N</text>
+  <circle cx="270" cy="204" r="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <circle cx="282" cy="204" r="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <line x1="310" y1="34" x2="310" y2="300" stroke="var(--color-neutral-700)" stroke-opacity="0.5" stroke-width="1"/>
+  <rect x="316" y="34" width="10" height="266" fill="var(--color-accent-700)" fill-opacity="0.12"/>
+  <line x1="316" y1="34" x2="316" y2="300" stroke="var(--color-accent-700)" stroke-width="2"/>
+  <line x1="326" y1="34" x2="326" y2="300" stroke="var(--color-accent-700)" stroke-width="2"/>
+  <rect x="326" y="34" width="140" height="266" fill="var(--color-neutral-700)" fill-opacity="0.07"/>
+  <text x="400.0" y="60.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">akciğer</text>
+  <line x1="20" y1="164" x2="338" y2="164" stroke="var(--color-accent-2-900)" stroke-width="2.4" marker-end="url(#k73am)"/>
+  <text x="20.0" y="156.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">torasentez iğnesi</text>
+  <text x="20.0" y="182.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">aralığın ortasından</text>
+  <circle cx="102" cy="58" r="7.5" fill="white" stroke="var(--color-neutral-700)" stroke-width="1"/>
+  <text x="102.0" y="61.6" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">1</text>
+  <circle cx="125" cy="58" r="7.5" fill="white" stroke="var(--color-neutral-700)" stroke-width="1"/>
+  <text x="125.0" y="61.6" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">2</text>
+  <circle cx="165" cy="58" r="7.5" fill="white" stroke="var(--color-neutral-700)" stroke-width="1"/>
+  <text x="165.0" y="61.6" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">3</text>
+  <circle cx="216" cy="196" r="7.5" fill="white" stroke="var(--color-neutral-700)" stroke-width="1"/>
+  <text x="216.0" y="199.6" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">4</text>
+  <circle cx="249" cy="196" r="7.5" fill="white" stroke="var(--color-neutral-700)" stroke-width="1"/>
+  <text x="249.0" y="199.6" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">5</text>
+  <circle cx="295" cy="186" r="7.5" fill="white" stroke="var(--color-neutral-700)" stroke-width="1"/>
+  <text x="295.0" y="189.6" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">6</text>
+  <line x1="313" y1="300" x2="304" y2="310" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="0.9"/>
+  <line x1="321" y1="300" x2="322" y2="310" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="0.9"/>
+  <line x1="380" y1="300" x2="340" y2="310" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="0.9"/>
+  <circle cx="300" cy="316" r="7.5" fill="white" stroke="var(--color-neutral-700)" stroke-width="1"/>
+  <text x="300.0" y="319.6" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">7</text>
+  <circle cx="322" cy="316" r="7.5" fill="white" stroke="var(--color-neutral-700)" stroke-width="1"/>
+  <text x="322.0" y="319.6" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">8</text>
+  <circle cx="344" cy="316" r="7.5" fill="white" stroke="var(--color-neutral-700)" stroke-width="1"/>
+  <text x="344.0" y="319.6" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">9</text>
+  <text x="14.0" y="344.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">1 deri</text>
+  <text x="14.0" y="356.5" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">2 deri altı yağ dokusu</text>
+  <text x="14.0" y="369.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">3 m. serratus anterior (yan duvarda)</text>
+  <text x="14.0" y="381.5" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">4 m. intercostalis externus</text>
+  <text x="14.0" y="394.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">5 m. intercostalis internus</text>
+  <text x="314.0" y="344.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">6 m. intercostalis intimus</text>
+  <text x="314.0" y="356.5" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">7 fascia endothoracica + pleura parietalis</text>
+  <text x="314.0" y="369.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">8 cavitas pleuralis (sıvı)</text>
+  <text x="314.0" y="381.5" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">9 pleura visceralis + akciğer</text>
+  <text x="486.0" y="106.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">sulcus costae içinde</text>
+  <text x="486.0" y="119.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">V-A-N: ven, arter, sinir;</text>
+  <text x="486.0" y="131.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">5 ile 6 arasında; sinir en</text>
+  <text x="486.0" y="143.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">altta, en az korunan</text>
+  <text x="486.0" y="200.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">kollateral dallar:</text>
+  <text x="486.0" y="213.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">alt kaburganın üst</text>
+  <text x="486.0" y="225.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">kenarı boyunca</text>
+  <line x1="482" y1="122" x2="284" y2="122" stroke="var(--color-accent-700)" stroke-opacity="0.45" stroke-width="0.9"/>
+  <line x1="482" y1="206" x2="288" y2="204" stroke="var(--color-accent-700)" stroke-opacity="0.45" stroke-width="0.9"/>
+</svg>

@@ -43,3 +43,15 @@ Kaynak sunumlar (Drive): KOAH patogenezi (Göksel Altınışık Ergur; slayt + a
 2. Tarihsel çerçeve (İHEB 1948, Alma-Ata, Astana 2018, DSÖ 2008)
 3. Binyıl ve Sürdürülebilir Kalkınma Hedefleri (SKH 3 alt hedefleri, sayılar)
 4. Ölçme (İGE, HEAT, Health Equity Monitor, Türkiye verileri), 10 gerçek, mücadele
+
+## Kitap 7 — Toraks Anatomisi: Göğüs Duvarı ve Cavitas Thoracis (0 soru; sunum: Dr. Öğr. Üyesi Şule Onur, 89 slayt)
+Kaynak: `D3 Thorax anatomisi, ŞuleOnur.pptx` (Drive: Modül 4 → Anatomi). Metin: `sunum-metinleri/toraks_anatomisi.txt`. Görseller: `kitaplar/m4k7/img` (üretim: `kitaplar/m4k7/src/gorseller.py`).
+1. Göğüs kafesi (sl. 3-7): sternum, kaburgalar, torakal vertebralar, aperturalar; eklemler (kostovertebral, kostokondral, interkondral, sternokostal, sternoklaviküler, manubriosternal); hareketler (tulumba kolu, kova sapı, kaliper; üç çap)
+2. Solunum kasları (sl. 8-28): diyafram (bölümler, kruslar, arkuat bağlar; T8/T10/T12 açıklıkları; Morgagni, Bochdalek, hiatal herni; gelişim; işlev; n. phrenicus C3-5); interkostal kaslar (eksternal, internal, intimi, subkostal, transversus thoracis); levatores costarum, serratus posterior; yardımcı inspiratuvar/ekspiratuvar kaslar
+3. Duvarın sinir-damar-lenfi ve meme (sl. 29-45): torakal spinal sinirler, tipik ve atipik interkostal sinirler (dallar, VAN, dermatomlar); posterior (12 çift) ve anterior (9 çift) interkostal arterler, a. thoracica interna; torasentez; interkostal venler ve azygos sistemi; duvar lenf düğümleri; meme
+4. Cavitas thoracis ve plevra (sl. 47-56): bölmeler; plevranın gelişimi; visseral/parietal plevra ve bölümleri; plevral boşluk ve sıvı; refleksiyon hatları ve resesler (RCD = sinüs); projeksiyonlar (plevra 8-10-12, akciğer 6-8-10); klinik (efüzyon, pnömotoraks, tüp)
+5. Akciğerler ve bronş ağacı (sl. 57-61): akciğerin dış yapısı, lob/fissür, hilus ve radix; trakea; ana bronşlar (sağ kısa-kalın-dik); arbor bronchialis (PLSLTR), iletici/solunum bölgesi, asinüs ve lobül; bronkopulmoner segmentler (sağ 3-2-5, sol 5-5)
+6. Akciğer ve plevranın damar, lenf, sinirleri (sl. 62-73): pulmoner (fonksiyonel) ve bronşiyal (besleyici) dolaşım; lenf drenajı; pulmoner pleksus (parasempatik/sempatik etkiler ve ilaçlar), visseral afferentler, plevranın sinirleri ve yansıyan ağrı; solunumun kontrolü
+7. Mediastinum (sl. 74-87): sınırlar, hareketlilik, bölümler (angulus sterni düzlemi); superius, anterius, medium, posterius içerikleri; birden fazla bölümde bulunan yapılar; perikard ve kalbin konumu; klinik (kitleler, kayma)
+8. Yüzey ve radyolojik anatomi (sunum dışı, tamamlayıcı): oryantasyon çizgileri; kemik işaretleri ve vertebra düzeyleri; lob/fissür izdüşümü ve oskültasyon; kalbin izdüşümü, kapak yerleri ve odaklar; PA/AP grafi tekniği, beş yoğunluk, mediastinal konturlar, hiluslar, KTO; silüet işareti ve hava bronkogramı; yan grafi; HU ve pencereler, BT anahtar kesitleri (bifurkasyon ve dört boşluk düzeyi)
+9. Genel deneme sınavı: 25 yeni soru (her bölümden), açıklamalı, cevap anahtarı
