@@ -1,0 +1,908 @@
+2.KURUL ÇIKMIŞLARI 23-24
+BİYOKİMYA
+
+
+1) Asidoza karşı korunmada aşağıdakilerden hangisinin bir rolü YOKTUR?
+
+A. Hemoglobin
+
+B. Bikarbonat tampon sistemi
+
+C. Akciğer
+
+D. Böbrekler
+
+E. Karaciğer
+
+
+
+2) Kalbi ve solunumu durmuş bir hastanın periferik dokularındaki hemoglobini ile ilgili olarak
+aşağıdakilerden hangisi SÖYLENEMEZ?
+
+A. Mutlaka dokulara bırakacak oksijeni vardır.
+
+B. Oksijene olan ilgisi yükselmiştir.
+
+C. Daha fazla hidrojen bağlar.
+
+D. Daha fazla karbondioksit bağlar.
+
+E. Oksijen disosiyasyon eğrisi kaymıştır.
+
+
+
+3) Karbonmonoksitin aşağıdaki özelliklerinden hangisi insana daha az zarar vermesine neden olur?
+
+A. Kokusunun ve uyarıcı özelliğinin olmaması
+
+B. Hemoglobine olan ilgisinin oksijene göre çok yüksek olması
+
+C. Hemoglobinin oksijen disosiyasyon eğrisini sola kaydırması
+
+D. Sitokrom oksidazı bloke etmesi
+
+E. Hemoglobin demirine 180 derecelik bir açıyla bağlanması
+
+
+
+TIP TARİHİ VE ETİK
+
+1)Tıp madde ve kanunları sadece tıp ile ilgili yanlış
+BİYOFİZİK
+1)Sesin oluşumunda aerodinamik-myoelastik teoriya göre vokal korddaki frekans veya ses
+oluşumunda(fonasyon) hangisi primer faktör değildir?
+
+A- Nöromuskuler kontrol ve kuvvet
+
+B-Artikülatör organ
+
+C- Doku elastikliği
+
+D-Glotal açıklıktaki hava geçişinde oluşan bernouilli etkisi
+
+E-Subklotik basınç
+
+
+
+2) L uzunluğundaki damarın başlangıçtan bitişe kadar basınç değeri düşüyor. Bu durumun
+nedenleri arasında yer almaz ?
+
+A- direnç değişimi
+
+B- yüzey gerilimi
+
+C- damar yarıçapı
+
+D- akım hızı
+
+E- viskozite değişimi
+
+
+
+3) Erişkin bir kişide arterler ve arteriollerden oluşan sistemdeki kan hacmi kaç ml'ye düşerse
+basınç 0 mmhg olur ?
+
+A)100
+
+B)1000
+
+C)5000
+
+
+
+4) Şekilde görünen sol ventrikül basınç-hacim grafiğinde 1 numaralı döngüden(düz siyah çizgi) 2
+numaralı (kesikli çizgi) döngüye geçiş gerçekleşiyorsa,bu değişimle ilgili aşağıda verilen ifadelerden
+hangisi/hangileri SÖYLENEMEZ? ( şekil ?? )
+
+1)kompliyans azalır
+
+2)atım hacmi artar
+
+3) diyastol sonu basınç(EDP) azalır
+
+4)atım sırasında yapılan iş artar
+
+5) sistol sonu basınç (ESV) artar
+
+
+
+A) 2,4 B) 1,3,5 C) 3,5 D) 1,2,4 E) 1,3
+5) Bende amfizem astım rds ve pulmoner fibroz hastalığı olan grafik vardı. Hangisi söylenemez.
+
+A)rds Ve pulmoner fibröziste kompliyans artar.?
+
+B)astım ve amfizemde kompliyans artar.
+
+C) astım ve amfizemde yapılan iş artar
+
+D) Astım ve amfizemde rezidüel hacim artar
+
+E) histerezis eğrisi o kadar kayar ki rezidüel hacim kısmına yaklaşır.
+
+
+
+6) Akciğerin apexinde olan kan basıncı kalp seviyesindeki kan basıncından ne kadar azdır ve
+akciğerin base kısmında olan kan basıncından ne kadar fazladır Akciğerin apeksinden base'ine
+doğru inildikçe aşağıdakilerden hangilerinin değeri yükselir?
+
+A -perfüzyon
+
+B-ventilasyon
+
+C-ventilasyon/perfüzyon oranı
+
+D-kompleyans
+
+
+
+7) Herhangi bir L uzunluğunda r yarıçapında basıncı P olan debisi Q olan damarın yarıçapı dörtte
+birine indiriliyor. Debisinin değişmemesi için basıncı kaç P olmalı ?
+
+A)16P
+
+B)1/64P
+
+C)1/216P
+
+D)64P
+
+E)216P
+
+
+
+8) Sol ventrikül eğrisinde 1 numaradan 2 numaraya geçişin nedeni ? ( kesikli bi çizgiden düz bi
+çizgiye geçiş grafiği )
+
+A)Artyük artışı
+
+B)Preload artışı
+
+
+
+
+9) L uzunluğundaki r yarıçaplı P basınçta damarda sabit q debisiyle kan akımı vardır.r yarıçapı %20
+oranında azalırsa L uzunluğunda q debisini sabit tutmak için basınç kaç katına çıkmalıdır
+
+Cevap:256P
+10) Alveol kompliyansının azalması alveol V-t grafiğini nasıl değiştirir?
+
+1-zaman sabiti azalır
+
+2-zaman sabiti artar
+
+3-soluk hacmi azalır
+
+4-kararlı düzeye ulaşma süresi uzar
+
+
+
+
+HİSTOLOJİ
+
+1)Akciğer alveollerinde yerleşik olan tip1 ve tip2 hücreleri için doğru olan ifade aşağıdakilerden
+hangisidir ?
+
+A)Tip 1 hücrenin diğer adı Toz hücresidir.
+
+B)Tip 2 hücre kan hava bariyeri yapısına katılmaktadır.
+
+C)Tip 2 hücreler progenitor hücreler olup Tip 1 HÜCREYE dönüşebilmektedir.
+
+D)Tip 1 hücreler alveol yüzeyinin %5 ini oluşturmaktadır.
+
+E)Tip 2 hücreleri Kohn gözenekleri arasından geçerek fagositoz yapabilmektedir.
+
+Cevap:C
+
+
+
+2) Östaki borusu hangisinden gelişir?
+
+A)İkinci faringeal arkus
+
+B)Birinci faringeal arkus
+
+C)İkinci faringeal cep
+
+D)Birinci faringeal cep
+
+E)İkinci faringeal yarık
+
+
+
+3)Timus epitel retiküler hücrelerle ilgili aşağıdakilerden hangisi doğru değildir?
+
+A. Epitel retiküler hücreler endoderm kökenlidir
+
+B. Kan timüs bariyerinde tip1 hücreler görev alır
+
+C. Tip2 epitel retiküler hücreler korteks medulla sınırında yer alır
+
+D. Tip5 epitel retiküler hücreler medulla içerisinde yer alır
+
+E. Tip6 epitel retiküler hücresinin diğer adı hassal cisimciğidir
+
+Cevap:C
+4) Tiroidin C hücrelerinden oluşan ultimobronşiyal cisim nereden gelişir?
+
+A) Birinci faringeal arkus
+
+B) İkinci faringeal yarık
+
+C) Dördüncü faringeal cep
+
+D) Dördüncü faringeal arkus
+
+E) Dördüncü faringeal yarık
+
+Cevap:4.faringeal cep
+
+
+
+5) Embriyonik gelişimle ilgili aşağıdakilerden hangisi yanlıştır?
+
+A)Anterior kardinal benler sol brakiosefalik veni oluşturur
+
+B)Posterior kardinal venler vena cava inferior oluşturur
+
+C)Hepatik venleri vitellin venler oluşturur
+
+D)Ortak karotid arter 5. Faringeal arkustan oluşur
+
+E)Truncus Coeliacusu vitellin arter oluşturur
+
+
+
+6) Burun yapısı ve histolojisi ile ilgili hangisi doğrudur?
+
+A-) olfactör dokunun epiteli yalancı çok katlı silli silindirik epiteldir
+
+B-)vestibül dokunun epiteli yalancı çok katlı silli silindirik epiteldir
+
+C-)koku reseptörü vestibül dokuda bulunur
+
+D-)olfactör doku repiratuar bölümünde bulunur
+
+E-)respiratuar dokunun epiteli keratinize çok katlı yassı epiteldir
+
+Cevap:A
+
+
+
+
+7) Dalak histolojisi ile ilgili hangisi doğrudur ?
+
+A) Dalak cisimcikleri (malpighi) kırmızı pulpada yer alır
+
+B) Billroth kordonları beyaz pulpa içinde sıralanmıştır
+
+C) Dalak pulpasında çok sayıda lenf damarı bulunur
+
+D) Stave hücreleri kırmızı pulpadaki sinzovoidlerde sıralanmıştır
+
+E) Periarteriyal lenfatik kılıfta çok sayıda B lenfosit bulunmaktadır
+8) Aşağısakilerden hangisi prekapiller sfinkterler için yanlıştır ?
+
+A,kesintisiz kapillerde perisi ve endotel hücreleri arasında GAP junctionlar bulunur.
+
+B,kesintisiz kapillerde zonula ocludens bulunur.
+
+C,sinüzoidal katillerin çapı dağa büyüktür.
+
+D,pencereli kapillerde madde geçişi daha kolay olur.
+
+E,kesintili kapillerde pinositik veziküller bulunur.
+
+
+
+9) Aşağıdakilerden hangisi siyanotik kalp anomalilerinden biri olan fallot tetralojisine ait
+durumlardan biridir?
+
+A) Sol ventrikül hipertofisi
+
+B) Aortanın sola doğru yer değiştirmesi
+
+C) pulmoner atrezi
+
+D) Ventriküler septal defekt
+
+E) Atrial septal defekt
+
+
+
+10) V. Brachiocephalica nerden oluşur?
+
+A)stave hücreleri
+
+B) 1.arkus
+
+C) Faringeal cep
+
+D)Lig vocale ve olfactoria nin epiteli
+
+E)Metarteriyoller ve sifinkter
+FİZYOLOJİ
+
+
+1)Vazokonstriktor merkez sanjyede kac uyari gerçekleştirir
+
+
+
+2) Vazomosyonu belirleyen en önemli faktör hangisidir?
+
+A) Doku o2 parsiyel basıncı
+
+B) Doku o2 miktarı
+
+C)Doku co2 parsiyel basıncı
+
+D) Doku h iyonu miktarı
+
+E) Doku hco2 iyonu miktarı
+
+Cevap:A
+
+
+
+3) Koruma amaçlı aşırı gerilmeyi önleyen ve tidal volüm 1500 mlnin altında görülmeyen
+hangisidir?
+
+A)öksürük refleksi
+
+B)maksimal ekspiratuvar basınç
+
+C)astrositler
+
+D)Hering-Bureuer refleksi
+
+E)kombine obstürktüf ve restrüktif patern
+
+Cevap:D
+
+
+
+4) Kalp kasında aksiyon potansiyeli hangi kanalların açılması ile meydana gelir?
+
+A) Hızlı Ca , Yavaş K kanalları
+
+B) Hızlı Na, Yavaş Ca kanalları
+
+C) Hızlı Na ,Yavaş K kanalları
+
+D) Hızlı K , Yavaş Ca kanalları
+
+E) Hızlı Na , Yavaş Cl kanalları
+
+Cevap b
+5) Pulmoner kapiller ile ilgili aşağıdakilerden hangisi yanlıştır?
+
+A)pulmoner kapiller basıncı 7 mmHgdır
+
+B)Kalp debisi 3 kat arttığında kan yetirince oksijenlemez(cümle uzundu )
+
+C)geçiş süresi 0.25-0.30 saniyedir
+
+
+
+6) Arteriyoller ile kapiller yatak arasında bulunan metaarteriyollerle ilgili hangisi doğrudur?
+
+a) prekapiller sfinktere sahiptir.
+
+b) tunika media tabakasında kesintisiz bir düz kas katmanı bulunur.
+
+c) arteriyollere giden kan akımını kontrol ederler.
+
+d) işlek kanallardan kan alırlar.
+
+e) kan akım yönünü düzenleyen kapakçıklara sahiptir.
+
+
+
+7) Ventriküllerin depolarizasyonunun sonra ermesi ile oluşan potansiyelleri tarafından meydana
+getirilen hangisidir?
+
+A)T dalgası
+
+B)QRS kompleksi
+
+C)ST segmenti
+
+D)P dalgası
+
+E)QT aralığı
+
+
+
+8) En hızlı impuls iletimine sahip kalp dokusu hangisidir?
+
+A) SA düğümü
+
+B) Purkinje lifleri
+
+C) AV düğümü
+
+D) His demetleri
+
+E) Atriyum kası
+9) sol kalp yetmezliğinin en belirgin göstergesi hangisidir ?
+
+A) pulmoner ödem
+
+B) jugularis ven basınç artışı
+
+C) ascites
+
+D) sağ kalpte hipertrofi
+
+E) periferal ödem
+
+
+
+10) İnspirasyon rezervi,soluk hacmi ve ekspirasyon rezervi toplamı hangisidir?
+
+A)Vital kapasite
+
+B)Fonksiyonel rezidüel hacim
+
+C)inspirasyon kapasitesi
+
+D)ekspirasyon kapasitesi
+
+E)total akciğer kapasitesi
+
+
+
+11) Şant akımının (kanın venöz harmanlanması) etkisi sonucu sol kalpten aorta pompalanan kanda
+pO2 hangi değere düşer?
+
+A)85
+
+B)95*
+
+C)40
+
+D)60
+
+E)26
+
+
+
+12) Pulmoner venöz basınç ve pulmoner kapiller basınçta çok büyük artışlara, alveollerin
+interstisyel alanların sıvı ile dolmasına neden olan hastalık hangisidir?
+
+A)Mitral kapak yetmezliği
+
+B)Hidrojen iyon artışı
+
+C)Pnömonü
+
+D)Hipertansiyon
+
+E)Isı artışı
+13) Basınç farkı dışında aşağıdakilerden hangisi gaz difüzyonunu etkiler?
+
+A)Difüze olacağı mesafe
+
+B)Enine kesit alanı
+
+C)Gaz mol. ağırlığı ve sıcaklık
+
+D)Gazın erime kapasitesi
+
+E)Hepsi
+
+Cevap:E
+
+
+
+14) Inspirasyonda solunumu sınırlayan ve solunum frekansını artıran merkez hangisidir?
+A)pnomotaksik
+
+B)pons
+
+C)medullar nöronlar
+
+D)Apnostik merkez
+
+E)dorsal solunum merkezi
+
+
+
+15) Yan bolümleri sempatik liflerle kalbe eksitatör uyarılar göndererek kalp hızı ve kasılma gücünü
+artırırken vegal sinir ile kalp hızını azaltıcı uyarılar da gönderen bölüm hangisidir ?
+
+A-)pons
+
+B-)Mezansofolon
+
+C-)Dinsofolon
+
+D-)Vazomotormerkez
+
+E-)Korteks
+
+
+
+16) Ayakta duran bir kişinin akciğerlerinin en üst bölgesinde pulmoner arterial basınç kalp
+seviyesindeki pulmoner arterial basınçtan ve akciğerlerin en alt kısmındaki basınçtan yaklaşık ne
+kadar fazladır?
+
+A) 23 mmHg kadar daha az – 15 mmHg kadar daha fazla
+
+B) 32 mmHg kadar daha az – 15 mmHg kadar daha fazla
+
+C) 15 mmHg kadar daha az – 8 mmHg kadar daha fazla
+
+D) 11 mmHg kadar daha az – 6 mmHg kadar daha fazla
+
+E) 20 mmHg kadar daha az – 12 mmHg kadar daha fazla
+17) Vazokonstriktör sinir uçlarından salınan madde NE’dir. NE direk olarak damar düz kas
+üzerindeki hangi reseptöre bağlanırsa VK sebep olur?
+
+A)Nikotinik reseptör
+
+B)Alfa reseptör
+
+C)Beta reseptör
+
+D)Gama reseptör
+
+E)Delta reseptör
+
+
+18) Ağır egzersizle kan akımı 4 7 katına çıkar. Bunu sağlayan mekanizma hangisidir?
+
+A-Hepsi sağlar
+
+B-Hiçbiri sağlamaz
+
+C-Bütün kapiller genişleyerek kan akımı 2 katına çıkar
+
+D-Pulmoner arteriyel basınç artar
+
+E-Açık kapiller sayısı artar.
+
+
+
+19) Göğüs kafesini çevreleyen diyafragmayı örter Sinir inervasyonu vardır Sistemik dolaşımda
+bulunur, pulmoner vene dökülür özellikleri ile tanımlanan hangisidir?
+
+A)Paryetel Plevra
+
+B)Intestinal Ödem
+
+C)Hiçbiri
+
+D)Lenfatik Ödem
+
+E)Visseral Plevra
+
+
+
+20) Kalp hızı 200/dk olan bir kişide süresi en belirgin şekilde kısalan dönem hangisidir? A)aksiyon
+potansiyeli
+
+B)sistol
+
+C)relatif refraktör dönem
+
+D)absoli refraktör dönem
+
+E)diastol
+
+cevap:E
+21)Solunum sırasında rectus abdominis ve internal oblik kaşlarının kasılması hangi sonuca
+neden olur?
+
+A) plevral sıvının lenfatiklerden emilimini sağlar
+
+B)Frenik sıvının lenfatiklerle emilimini sağlar
+
+C) Hiçbiri
+
+D) Ventilatuar hava akışının max düzeye ulaşmasına yardımcı olur
+
+E) Akciğer içi basıncı artırarak ekspirasyonu sağlar
+
+Cevap:E
+
+
+
+ANATOMİ
+
+
+1-v cardiaca parva
+
+2-v cardiaca minimal
+
+3-veya cardica anterion
+
+4-...
+
+1)Sinüs coronariusa dökülmez ?
+
+A)2-3
+
+
+
+2) Lumbal 5. Vertebra hizasında V. İliaca communis dextra ve sinistranın birleşimi ile oluşan
+Vena cava inferior ... arka duvarında foramen Vena cavaya doğru seyreder. Bu seyri esnasında
+hangisi Vena cava inferiora açılmaz?
+
+A-Vv. lumbales
+
+B-V. Ovarica Dexter
+
+C-V. Renalis sinister
+
+D. Testicularis sinister(cevap)
+
+E-Vv. Hepatica
+
+
+
+3) A. İliaca interna’nın dalı olan ve foramen suprapriforme den geçip kalçanın arka kısmına
+dağılan damar
+
+Cevap: A- Glutea superior
+4) Nabız alınan yerlerden hangisi doğru değildir ?
+
+A-Fovea Radialis
+
+B-Fossa axillaris
+
+C-Fossa poplitea
+
+D-Ön kolun 1/3ü
+
+E-Fossa cubiti
+
+
+
+5) Solunum yollarında bronchus lobaristen sonra hangisi gelir?
+
+A) bronchus terminalis
+
+B) bronchus respiratuaris
+
+C)bronchus lobaris
+
+D) saccus alveolaris
+
+E) ductus alveolaris
+
+
+
+?????? 6) Yüz enfeksiyonları v. facialis’ten hangi ven aracılığıyla derine geçer?
+
+A) v. profunda facie
+
+B) v. temporalis superficialis
+
+C) v. occipitalis
+
+D) v. angularis
+
+E) v. auricularis posterior
+
+
+
+7) Aşağıdakilerden hangisi burnun dış duvarında bulunmaz ?
+
+A)Maxillaris
+
+B)os nasale
+
+C)os sphenoidale
+
+D)os Ethmoidale
+
+E)os palatina
+8) Larynx ile ilgili hangisi yanlıştır?
+
+A)Cartilago corniculata 2 adettir
+
+B)M. Crycoarytenoidea posterior rima glottisi genişletebilen tek kastır
+
+C)A. Laryngea superior , a. Carotis communis'in thyroidea superior dalından çıkar.
+
+D)N. Laryngea recurrens , plica vocalislerin üst tarafından genel duyu alır
+
+E)Ventriculus larynx , plica vocalis ve plica vestibulum arasındadır
+
+
+
+9) Hangileri sol akciğerde bulunur?
+
+I)Fissura Horizontalis
+
+II)Fissura Oblique
+
+III)Lobus Medius
+
+IV)Lingula Pulmonis
+
+V)Segmentum Medialis
+
+
+
+1) A.Phrenica inferior
+
+2) A.renalis
+
+3) Aorta abdominalis
+
+4) Truncus cealicus
+
+5) A.Mesenterica superior
+
+10)Yukarıdaki arterlerden hangisi/hangileri glandula suprarenalisin beslenmesine yardımcı
+olur? A)4 5 B)2 C)2 3 D)1 E)1 2 3
+
+
+
+11) İntravenöz enjeksiyon ve Venöz kan alma için en uygun damar nedir ?
+
+A-V brachialis
+
+B-V ulnaris
+
+C-V mediana cubiti
+
+D-V radialis
+12) Kalp yapi eslestirmelerinden hangisi yanlıştır?
+
+A)Atrium dectrum-m.pectinai
+
+B)Ventriculus sinister-m. Papillaris septalis
+
+C)Ventriculus sinister-trabecula cornae
+
+D)Vetriculum dexter- m.papillaris anterior
+
+E)Ventriculum dexter-trabecula septomarginalis
+
+
+
+
+13) Göbeğin alt hizasında, karın ön duvarı derisinde meydana gelen bir inflamasyonda öncelikli
+olarak hangisi etkilenir?
+
+a) aksiller lenf nodüllerin apikal grubu
+
+b) derin inguinal
+
+c) parasternal
+
+d) aksiller lenf nodüllerin anterior grubu
+
+e) yüzeyel inguinal (cevap)
+
+
+
+
+?????? 14) Yüz bölgesindeki enfeksiyonları a.facialis’ten derindeki yüzeye taşınmasında görev
+alan arter aşağıdakilerden hangisidir?
+
+A: A. angularis
+
+B: A. temporalis superficialis
+
+C: A. occipitalis
+
+D. A. auricularis posterior
+
+E. A.profunda fascii
+
+
+
+15) Nodi atriyoventriculis nerde bulunur?
+
+A-Ostium coronariusun alt kısmında
+
+B-İnterventricularisin pars membranesında
+16) Hangisi v. porta hepatise dökülmez?
+
+A)v. gastrica sinistra
+
+B) v. gastrica dextra
+
+C) v. pancreatıca
+
+D) v.paraumblıcales
+
+E) v. Cystica
+
+
+
+17) Pleuranın alt kenarı mid-inspirasyon sırasında linea axillaris mediana da kaçıncı kaburga
+seviyesinde bulunur?
+
+a)12    b)10    c)8   d)6   e)4
+
+
+
+18) Sa düğümü nerede bulunur?
+
+A)crista terminalis (cevap)
+
+B)m.papilaris
+
+C)septomarginalis
+
+
+
+19) Göğüs kafesini örten ve sinir inervasyonu sağlayan yapı?
+
+A-)parietel plevra
+
+B-)viseral plevra
+
+C-)lenfatik ödem
+
+D-)intersiyel ödem
+
+E-) hiçbiri
+
+
+
+20) Aorta thoracica aşağıdaki organ ve bölgelerden hangisini beslemez?
+
+A)12. Costanın altı
+
+B)ilk iki Costa
+
+C)akciğer
+
+D)Diyafram
+
+E) Pericardium
+??????? 21) A.mammaria lateralis hangisinin dalıdır?
+
+A-A.axillaris
+
+B-a.thoraco lateralis
+
+C-a.subscapularis doğru cevabı
+
+
+
+22) Umbilikal alt yüzeyel bölgede ödem oluşan birinde hangi lenf nodülünde sıkıntı vardır?
+A)Yüzeyel inguinal nod
+
+B)Derin inguinal nod
+
+C)Axillar bölgenin apikali
+
+D)Axillar bölgenin centrali
+
+
+
+
+23) Arteria maxillarisin üst molar,premolar dişleri ve sinüs maxillarisi besleyen dalı
+aşağıdakilardan hangisi?
+
+A _meningea media
+
+B_ tympanica anterior
+
+C_ alveolaris superior posterior
+
+D_ sphenopalatina
+
+E_ alveolaris inferior
+
+
+
+24) Aşağıdakilerden hangisi mediastinum superius'ta bulunmaz ?
+
+A-N. Vagus
+
+B-Arcus aorta
+
+C-Oesephagus
+
+D-Bronchus principalis
+
+E-Ductus thoracicus
+

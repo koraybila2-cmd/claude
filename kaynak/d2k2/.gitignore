@@ -1,0 +1,7 @@
+kitaplar/*/k*.html
+kitaplar/*/k*.pdf
+kitaplar/*/p-*.jpg
+kitaplar/*/*.png
+kitaplar/*/svg/_preview.html
+charts/_yil_*.json
+__pycache__/

@@ -1,0 +1,52 @@
+<svg viewBox="0 0 640 520" width="100%" style="display:block" role="img" aria-label="Fetal dolaşımda kanın yolu ve üç şant">
+  <defs><marker id="ft" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="ftc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="ftm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="250" y="8" width="140" height="38" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="320.0" y="30.9" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Plasenta</text>
+  <rect x="200" y="76" width="240" height="44" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="320.0" y="94.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">V. umbilicalis</text>
+  <text x="320.0" y="109.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">O₂ doygunluğu ≈ %80</text>
+  <rect x="30" y="150" width="230" height="46" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="145.0" y="169.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">1 · Ductus venosus</text>
+  <text x="145.0" y="184.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kanın yaklaşık yarısı karaciğeri atlar</text>
+  <rect x="380" y="150" width="230" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="495.0" y="169.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Karaciğer sinüzoidleri</text>
+  <text x="495.0" y="184.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">→ vv. hepaticae</text>
+  <rect x="200" y="226" width="240" height="44" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="320.0" y="244.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">V. cava inferior → sağ atriyum</text>
+  <text x="320.0" y="259.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">alt gövdenin venöz kanıyla karışır</text>
+  <rect x="20" y="302" width="250" height="52" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="145.0" y="324.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">2 · Foramen ovale</text>
+  <text x="145.0" y="339.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">→ sol atriyum → sol ventrikül</text>
+  <rect x="370" y="302" width="250" height="52" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="495.0" y="324.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Sağ ventrikül</text>
+  <text x="495.0" y="339.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">VCS + sinus coronarius + VCİ'nin azı</text>
+  <rect x="20" y="384" width="250" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="145.0" y="403.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Aorta ascendens</text>
+  <text x="145.0" y="418.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">koroner arterler, baş, boyun, kollar</text>
+  <rect x="300" y="384" width="170" height="46" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="385.0" y="403.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">3 · Ductus arteriosus</text>
+  <text x="385.0" y="418.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">→ arcus aortae</text>
+  <rect x="490" y="384" width="130" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="555.0" y="403.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Akciğerler</text>
+  <text x="555.0" y="418.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">yaklaşık %10</text>
+  <rect x="130" y="460" width="380" height="50" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="320.0" y="481.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Aorta descendens → gövde ve alt ekstremite</text>
+  <text x="320.0" y="496.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">aa. umbilicales (a. iliaca interna) → plasenta</text>
+  <line x1="320" y1="47" x2="320" y2="74" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ft)"/>
+  <line x1="260" y1="121" x2="175" y2="148" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ft)"/>
+  <line x1="380" y1="121" x2="465" y2="148" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ft)"/>
+  <line x1="175" y1="197" x2="255" y2="224" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ft)"/>
+  <line x1="465" y1="197" x2="385" y2="224" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ft)"/>
+  <line x1="270" y1="271" x2="175" y2="300" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ft)"/>
+  <line x1="370" y1="271" x2="465" y2="300" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ft)"/>
+  <text x="150.0" y="284.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">VCİ akımının çoğu</text>
+  <text x="150.0" y="296.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">(crista dividens)</text>
+  <text x="490.0" y="284.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">VCS kanı</text>
+  <line x1="145" y1="355" x2="145" y2="382" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ft)"/>
+  <line x1="460" y1="355" x2="400" y2="382" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ft)"/>
+  <line x1="530" y1="355" x2="555" y2="382" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ft)"/>
+  <line x1="170" y1="431" x2="230" y2="458" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ft)"/>
+  <line x1="385" y1="431" x2="360" y2="458" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ft)"/>
+  <path d="M511,485 L630,485 L630,27 L392,27" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ft)"/>
+  <text x="616.0" y="250.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">deoksijene kan</text>
+</svg>

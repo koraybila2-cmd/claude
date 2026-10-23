@@ -1,0 +1,2 @@
+{"width": 640, "height": 230, "ariaLabel": "Kalp dokularında yaklaşık iletim hızları, metre/saniye", "unit": "", "maxValue": 4,
+ "categories": [{"label": "SA düğüm", "value": 0.05}, {"label": "Atriyum kası", "value": 0.3}, {"label": "İnternodal yollar", "value": 1}, {"label": "AV düğüm", "value": 0.05}, {"label": "His demeti ve dalları", "value": 1.5}, {"label": "Purkinje lifleri", "value": 4}, {"label": "Ventrikül kası", "value": 0.5}]}

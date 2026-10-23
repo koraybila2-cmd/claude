@@ -1,0 +1,58 @@
+<svg viewBox="0 0 640 400" width="100%" style="display:block" role="img" aria-label="Koroner arterlerin dallanma şeması ve besleme alanları">
+  <defs><marker id="kr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="krc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="krm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="220" y="10" width="200" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="320.0" y="29.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Aorta ascendens</text>
+  <text x="320.0" y="44.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">bulbus aortae · sinus aortae</text>
+  <rect x="20" y="92" width="240" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="140.0" y="111.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">A. coronaria dextra (RCA)</text>
+  <text x="140.0" y="126.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sağ (ön) sinüsten çıkar</text>
+  <rect x="380" y="92" width="240" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="500.0" y="111.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">A. coronaria sinistra (LMCA)</text>
+  <text x="500.0" y="126.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sol (sol arka) sinüsten · 1-2 cm</text>
+  <line x1="270" y1="56" x2="180" y2="90" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#kr)"/>
+  <line x1="370" y1="56" x2="460" y2="90" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#kr)"/>
+  <rect x="330" y="172" width="140" height="46" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="400.0" y="191.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">R. interventric.</text>
+  <text x="400.0" y="206.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">anterior (LAD)</text>
+  <rect x="490" y="172" width="140" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="560.0" y="191.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">R. circumflexus</text>
+  <text x="560.0" y="206.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">(LCx)</text>
+  <line x1="470" y1="139" x2="400" y2="170" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#kr)"/>
+  <line x1="530" y1="139" x2="560" y2="170" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#kr)"/>
+  <rect x="20" y="172" width="240" height="218" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="30.0" y="192.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">Dalları</text>
+  <text x="30.0" y="208.5" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">R. coni arteriosi</text>
+  <text x="30.0" y="225.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">R. nodi sinuatrialis (≈%60)</text>
+  <text x="30.0" y="241.5" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Rr. atriales · r. atrialis intermedius</text>
+  <text x="30.0" y="258.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">R. marginalis dexter (akut marjinal)</text>
+  <text x="30.0" y="274.5" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">R. nodi atrioventricularis (≈%80)</text>
+  <text x="30.0" y="291.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">R. interventricularis posterior (PDA)</text>
+  <text x="30.0" y="307.5" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Rr. posterolaterales dextri</text>
+  <text x="30.0" y="324.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">Beslediği alan</text>
+  <text x="30.0" y="340.5" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">sağ atriyum, sağ ventrikül,</text>
+  <text x="30.0" y="357.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">septumun arka 1/3'ü, SA ve AV düğüm,</text>
+  <text x="30.0" y="373.5" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">sol ventrikülün diyafragmatik yüzü</text>
+  <line x1="140" y1="139" x2="140" y2="170" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#kr)"/>
+  <rect x="330" y="250" width="140" height="140" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="340.0" y="268.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">Dalları</text>
+  <text x="340.0" y="282.5" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">R. coni arteriosi</text>
+  <text x="340.0" y="297.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Rr. laterales</text>
+  <text x="340.0" y="311.5" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">(diyagonal)</text>
+  <text x="340.0" y="326.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Rr. septales</text>
+  <text x="340.0" y="340.5" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">Beslediği alan</text>
+  <text x="340.0" y="355.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">sol ventrikül ön</text>
+  <text x="340.0" y="369.5" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">duvarı, apeks,</text>
+  <text x="340.0" y="384.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">septumun ön 2/3'ü</text>
+  <line x1="400" y1="219" x2="400" y2="248" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#kr)"/>
+  <rect x="490" y="250" width="140" height="140" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="500.0" y="268.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">Dalları</text>
+  <text x="500.0" y="282.5" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">R. marginalis sin.</text>
+  <text x="500.0" y="297.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">R. posterior ventr. sin.</text>
+  <text x="500.0" y="311.5" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Rr. atriales</text>
+  <text x="500.0" y="326.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">R. nodi SA (≈%40)</text>
+  <text x="500.0" y="340.5" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">R. nodi AV (≈%20)</text>
+  <text x="500.0" y="355.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">Beslediği alan</text>
+  <text x="500.0" y="369.5" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">sol atriyum,</text>
+  <text x="500.0" y="384.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">kalbin sol kenarı</text>
+  <line x1="560" y1="219" x2="560" y2="248" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#kr)"/>
+</svg>

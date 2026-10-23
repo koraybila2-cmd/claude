@@ -1,0 +1,2 @@
+{"width": 640, "height": 220, "ariaLabel": "Kalp boşluklarında dinlenmedeki yaklaşık en yüksek (sistolik) basınç, mmHg", "unit": " mmHg", "maxValue": 140,
+ "categories": [{"label": "Sağ atriyum", "value": 5}, {"label": "Sağ ventrikül", "value": 25}, {"label": "Sol atriyum", "value": 10}, {"label": "Sol ventrikül", "value": 120}]}

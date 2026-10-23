@@ -1,0 +1,2 @@
+{"width": 640, "height": 220, "ariaLabel": "Fetal dolaşımda farklı noktalarda kanın yaklaşık oksijen doygunluğu (yüzde)", "unit": "%", "maxValue": 100,
+ "categories": [{"label": "V. umbilicalis", "value": 80}, {"label": "VCİ (sağ atriyuma girerken)", "value": 70}, {"label": "Sol ventrikül ve aorta ascendens", "value": 65}, {"label": "Aorta descendens", "value": 60}, {"label": "Sağ ventrikül ve truncus pulm.", "value": 55}]}

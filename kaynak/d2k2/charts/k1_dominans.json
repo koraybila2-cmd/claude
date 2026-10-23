@@ -1,0 +1,2 @@
+{"width": 640, "height": 200, "ariaLabel": "Koroner dominansın yaklaşık dağılımı (yüzde)", "unit": "%", "maxValue": 80,
+ "categories": [{"label": "Sağ dominant", "value": 70}, {"label": "Kodominant", "value": 20}, {"label": "Sol dominant", "value": 10}]}
