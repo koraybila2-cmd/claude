@@ -5,3 +5,4 @@ kitaplar/*/*.png
 kitaplar/*/svg/_preview.html
 charts/_yil_*.json
 __pycache__/
+kitaplar/*/_contact.html
