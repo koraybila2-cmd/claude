@@ -30,7 +30,7 @@
    - Romatolojik hastalıklar (3,1)
    - Otoantikorlar/ANA (3,1)
 5. **BSD sorularının dörtte biri daha önce bir modül sınavında sorulmuş.** M1 için modül sınavı arşivi yok. M1 dışındaki 430 sorunun 108'i (%25), bir MSD'de neredeyse aynen sorulmuş. Bu oran M4'te %41'e çıkıyor. 108 tekrarın 45'i aynı yılın MSD'sinden geliyor; yani bu yıl girdiğiniz MSD-2, 3 ve 4'ün soruları yüksek getirili.
-6. **Yıllar arasında da tekrar var.** 551 sorunun 133'ünün (%24) başka bir yılda metin olarak çok benzeri sorulmuş. 2023-24 sınavı, 2022-23'ün 25 sorusunu neredeyse aynen tekrarlamış. Bazı alt konular ise her yıl aynı kalıpla geliyor (bkz. 3. bölüm).
+6. **Yıllar arasında da tekrar var.** 551 sorunun 101'inin başka bir yılın BSD'sinde neredeyse aynısı var (benzerlik ≥0,8). Daha gevşek ölçütle (≥0,55 ve aynı konu) bu sayı 133'e (%24) çıkıyor. 2023-24 sınavı, 2022-23'ün 25 sorusunu neredeyse aynen tekrarlamış. Bazı alt konular ise her yıl aynı kalıpla geliyor (bkz. 3. bölüm).
 
 ## 1. Modüllere göre dağılım
 
@@ -167,7 +167,7 @@ Soru kökleri ve doğru cevaplar tek tek kontrol edildi. "Yıl" sütunu, altı s
 | M1 | Periton boşlukları, çıkmazlar, sıvı yayılımı | 6/6 | Recessus hepatorenalis/subhepaticus, excavatio rectouterina, supra-/infrakolik kompartmanlar. |
 | M1 | Mezenterler (ventral mezenter türevleri, mesocolon) | 5/6 | "Ventral mezenterden gelişen yapılar" 23-24 ve 24-25. |
 | M1 | Foramen epiploicum (Winslow) / bursa omentalis | 5/6 | "Foramen Winslow'un sınırlarından olmayan" 21-22 ve 24-25. |
-| M1 | Akut karın / akut abdomen | 5/6 | "İlk istenecek radyolojik tetkik" ve "en sık cerrahi gerektiren akut karın" 24-25 ve 25-26'da aynı. |
+| M1 | Akut karın, peritonit, apandisit | 6/6 | "İlk istenecek radyolojik tetkik" ve "en sık cerrahi gerektiren akut karın" 24-25 ve 25-26'da aynı. "Akut apandisiti desteklemeyen bulgu" ve "iskemik vasıfta ağrı" 22-23 ve 23-24'te aynı. |
 | M1 | Retroperitoneal organlar | 4/6 | "Primer retroperitoneal organ" 22-23 ve 24-25. |
 | M2 | SLE | 5/6 | Bulgular, 2019 klasifikasyon kriterleri, aktiviteyle ilişkili otoantikor. |
 | M2 | ANA paternleri (IIF, Hep-2) | 5/6 | CREST'te sentromer paterni (3 yıl), dense fine speckled paterni (23-24 ve 24-25). |
