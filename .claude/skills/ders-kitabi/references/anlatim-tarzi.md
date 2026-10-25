@@ -6,6 +6,17 @@ Bu dosya, SKILL.md'nin "2. Kitabı yaz" adımında uyulacak yazım felsefesidir.
 
 Bir tıp öğrencisine tıp konularını öğreten ve sınavına hazırlayan bir eğitimcisin — bir tıp profesörü gibi yaz: textbook kalitesinde bilgi doğruluğu, uzun ve açıklayıcı bir anlatım. Karşındaki öğrenci konuyu ilk kez görüyormuş gibi düşün ve öyle anlat.
 
+## Çıkmış soru odaklı yapı (kullanıcının kalıcı talimatı, Modül 5-6'dan itibaren her dosyada)
+
+Kullanıcı Ekim 2026'da şunu istedi: "bundan sonra hazırladığın her dosyada daha önceden çıkmış soruları konunun başında göster (hem dosyanın başında hem de her konuda); daha önceden hiç soru sorulmamış slaytları dikkate alma; sürekli aynı soruları sormuş konuları öncesinde belirt; kendini tekrar etme, aynı şeyin anlatıldığı farklı slaytları aynı konuda anlat." Bu bölüm aşağıdaki eski kurallarla çeliştiği her yerde önceliklidir.
+
+- **Dosyanın başında:** (1) "Sürekli aynı sorulan konular" listesi: hangi soru kalıbı kaç sınavda, hangi yıllarda soruldu. (2) Dosyadaki bütün çıkmış soruların konu konu kısa dizini (soru kökü, doğru cevap, yıllar).
+- **Her konunun başında:** o konunun çıkmış soru kartları (kök, şıklar, doğru cevap, yıllar ve soru numaraları). Her kartta kısa bir gerekçe olur: doğru şık neden doğru, her çeldirici neden yanlış. Mekanizmanın uzun anlatımı kartta değil, ardından gelen anlatımda bir kez yapılır. Kart, anlatımdaki ilgili alt başlığa yönlendirir.
+- **Yıllar arasında neredeyse aynı olan sorular tek kartta birleşir.** Kartta bütün yıllar ve soru numaraları, şık ya da cevap farkları yazılır. Üç veya daha fazla sınavda gelen kalıplar "sürekli soruluyor" diye etiketlenir.
+- **Hiç soru gelmemiş sunumlar ve slaytlar anlatılmaz.** Kapsam, soru gelmiş konulardır. Soru gelmiş bir konu yine textbook derinliğinde ve nedenselliğiyle anlatılır: sorulan her noktayı ve olası varyantlarını cevaplayacak kadar, mekanizmasıyla. Bu, aşağıdaki "Kapsam — gerçekten her yönüyle" ve "sunumlar bağlamdır" kurallarını hiç soru gelmemiş konular için geçersiz kılar.
+- **Sunumu klasörde olmayan ama sorusu olan konular atlanmaz.** Sorular önceliklidir. Bu konular kısa tutulur ve "sunumu yok" diye işaretlenir.
+- **Tekrar yok.** Farklı sunumlarda aynı şey anlatılıyorsa tek konuda birleştirilir. Aynı mekanizma başka bir kitapta zaten anlatıldıysa yeniden anlatılmaz, oraya gönderme yapılır.
+
 ## Girdileri (sunum + çıkmış sorular) nasıl kullanacaksın
 
 - **Sunumlar bağlamdır, sınır değil.** Sunumlarda hiç bahsedilmeyen yerlerden de sınavda sık soru çıkıyor. Sunum senin için belirsiz/gevşek bir iskeledir — bunu çok kale alma. Asla anlatımını yalnızca sunumdaki bilgiyle sınırlama; konuyu kendi tıbbi bilginle, sunumun kapsadığından daha geniş ve derin anlat.

@@ -29,7 +29,7 @@ Bu iki dosya NotebookLM'in yaptığı şemalandırmanın yerini alır — ayrı 
 
 ## 2. Kitabı yaz
 
-Yazım felsefesi ve kuralları için **references/anlatim-tarzi.md** dosyasını oku ve harfiyen uygula — bu kullanıcının kendi tanımladığı, sabit talimattır (özet: sunum ve sorular sadece bağlam/kapsam göstergesidir, sınır değildir; textbook derinliği; nedensellik; konuyu sorular yokmuş gibi anlatıp sadece örtüştüğü yerlerde vurgu yap).
+Yazım felsefesi ve kuralları için **references/anlatim-tarzi.md** dosyasını oku ve harfiyen uygula. Oradaki "Çıkmış soru odaklı yapı" bölümü her dosyada geçerlidir: çıkmış sorular hem dosyanın başında hem her konunun başında gösterilir, soru gelmemiş slaytlar anlatılmaz, sürekli aynı sorulan konular önceden belirtilir, tekrar edilmez. Bu kullanıcının kendi tanımladığı, sabit talimattır (özet: soru gelmiş konular textbook derinliğinde ve nedensellikle anlatılır; sunum o konular için bağlamdır, sınır değildir).
 
 Konu şemasındaki her bölüm için şunları üret:
 - Tam metin anlatım (anlatim-tarzi.md'ye göre) — **özellikle "Mekanizma anlatımı: adım adım nedensellik" bölümündeki disiplinle**: her çok adımlı mekanizma açık, nedenli, sıralı adımlara bölünmüş olmalı; konuyu ilk kez gören biri tam anlamıyla anlayabilmeli. Bu kitaplardaki tekrar eden zayıflık noktası burasıdır, üstünkörü geçme.
