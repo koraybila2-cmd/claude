@@ -1,0 +1,50 @@
+<svg viewBox="0 0 640 238" width="100%" style="display:block" role="img" aria-label="Açlığın beş evresi: postabsorptif, erken açlık, orta düzey açlık, uzun süreli açlık ve son evre; kan glukozunun kaynağı ve beynin yakıtı">
+  <defs><marker id="k6a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k6ac" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k6am" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="101.0" y="10.0" width="93.0" height="44.0" rx="4" fill="var(--color-accent)" fill-opacity="0.12"/>
+  <text x="147.5" y="29.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Postabsorptif</text>
+  <text x="147.5" y="44.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">yemekten 2-4 saat</text>
+  <rect x="196.0" y="10.0" width="103.0" height="44.0" rx="4" fill="var(--color-accent)" fill-opacity="0.22"/>
+  <text x="247.5" y="29.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Erken açlık</text>
+  <text x="247.5" y="44.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ilk 24 saat</text>
+  <rect x="301.0" y="10.0" width="118.0" height="44.0" rx="4" fill="var(--color-accent)" fill-opacity="0.32"/>
+  <text x="360.0" y="29.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Orta düzey açlık</text>
+  <text x="360.0" y="44.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">glikojen bitince</text>
+  <rect x="421.0" y="10.0" width="118.0" height="44.0" rx="4" fill="var(--color-accent)" fill-opacity="0.42000000000000004"/>
+  <text x="480.0" y="29.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Uzun süreli açlık</text>
+  <text x="480.0" y="44.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">~20. günden sonra</text>
+  <rect x="541.0" y="10.0" width="88.0" height="44.0" rx="4" fill="var(--color-accent)" fill-opacity="0.52"/>
+  <text x="585.0" y="29.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Son evre</text>
+  <text x="585.0" y="44.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">yağ bitince</text>
+  <text x="92.0" y="92.0" text-anchor="end" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Kan glukozu</text>
+  <text x="92.0" y="140.0" text-anchor="end" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Beynin yakıtı</text>
+  <text x="92.0" y="190.0" text-anchor="end" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Öne çıkan</text>
+  <rect x="101.0" y="74.0" width="93.0" height="28.0" rx="4" fill="var(--color-accent)" fill-opacity="0.18"/>
+  <text x="147.5" y="92.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">besinler</text>
+  <rect x="196.0" y="74.0" width="103.0" height="28.0" rx="4" fill="var(--color-accent)" fill-opacity="0.3"/>
+  <text x="247.5" y="92.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">karaciğer glikojeni</text>
+  <rect x="301.0" y="74.0" width="238.0" height="28.0" rx="4" fill="var(--color-accent)" fill-opacity="0.45"/>
+  <text x="420.0" y="92.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">glukoneogenez (40. günde yarıya iner)</text>
+  <rect x="541.0" y="74.0" width="88.0" height="28.0" rx="4" fill="var(--color-accent)" fill-opacity="0.6"/>
+  <text x="585.0" y="92.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">protein yıkımı</text>
+  <rect x="101.0" y="122.0" width="198.0" height="28.0" rx="4" fill="var(--color-accent-700)" fill-opacity="0.18"/>
+  <text x="200.0" y="140.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">glukoz</text>
+  <rect x="301.0" y="122.0" width="118.0" height="28.0" rx="4" fill="var(--color-accent-700)" fill-opacity="0.35"/>
+  <text x="360.0" y="140.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">glukoz, keton artar</text>
+  <rect x="421.0" y="122.0" width="118.0" height="28.0" rx="4" fill="var(--color-accent-700)" fill-opacity="0.6"/>
+  <text x="480.0" y="140.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">çoğu keton cismi</text>
+  <rect x="541.0" y="122.0" width="88.0" height="28.0" rx="4" fill="var(--color-accent-700)" fill-opacity="0.25"/>
+  <text x="585.0" y="140.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">yeniden glukoz</text>
+  <text x="147.5" y="178.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">insülin ↑, glikojen</text>
+  <text x="147.5" y="191.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ve yağ depolanır</text>
+  <text x="247.5" y="178.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">glikojenoliz;</text>
+  <text x="247.5" y="191.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">glikojen ~18 saatte</text>
+  <text x="247.5" y="204.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">biter</text>
+  <text x="360.0" y="178.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">lipoliz, ketogenez;</text>
+  <text x="360.0" y="191.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">Cori ve glukoz-</text>
+  <text x="360.0" y="204.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">alanin döngüleri</text>
+  <text x="480.0" y="178.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kas proteini korunur;</text>
+  <text x="480.0" y="191.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T3 ↓, asidoz olabilir</text>
+  <text x="585.0" y="178.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">proteinin yarısı</text>
+  <text x="585.0" y="191.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">gidince ölüm</text>
+  <text x="100.0" y="230.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">Zaman ekseni ölçeksizdir. Evrelerin sınırları sunumdaki tanımlardır.</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg viewBox="0 0 640 262" width="100%" style="display:block" role="img" aria-label="Kaynağa göre dermatofitler: antropofilik türler insandan insana geçer ve hafif, kronik enfeksiyon yapar; zoofilik ve jeofilik türler hayvandan ve topraktan geçer, şiddetli ve akut enfeksiyon yapar">
+  <defs><marker id="k7a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k7ac" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k7am" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="8" y="8" width="196" height="76" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="106.0" y="27.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Antropofilik</text>
+  <text x="106.0" y="42.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">insandan insana</text>
+  <text x="106.0" y="57.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">T. rubrum, T. tonsurans,</text>
+  <text x="106.0" y="72.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">T. schoenleinii, E. floccosum</text>
+  <line x1="106" y1="86" x2="106" y2="122" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k7a)"/>
+  <rect x="222" y="8" width="196" height="76" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="320.0" y="27.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Zoofilik</text>
+  <text x="320.0" y="42.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hayvandan insana</text>
+  <text x="320.0" y="57.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">M. canis (kedi, köpek),</text>
+  <text x="320.0" y="72.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">T. mentagrophytes, T. verrucosum</text>
+  <line x1="320" y1="86" x2="320" y2="122" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k7a)"/>
+  <rect x="436" y="8" width="196" height="76" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="534.0" y="27.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Jeofilik</text>
+  <text x="534.0" y="42.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">topraktan insana</text>
+  <text x="534.0" y="57.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Nannizzia gypsea</text>
+  <text x="534.0" y="72.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">(çiftçi, çömlekçi, arkeolog)</text>
+  <line x1="534" y1="86" x2="534" y2="122" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k7a)"/>
+  <rect x="8" y="126" width="196" height="100" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="106.0" y="149.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Kronik, hafif enfeksiyon</text>
+  <text x="106.0" y="164.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">az iltihap, az kaşıntı</text>
+  <text x="106.0" y="179.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">aylar-yıllar sürer</text>
+  <text x="106.0" y="194.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">tip I yanıt: IgE, atopi</text>
+  <text x="106.0" y="209.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sık; kişiden kişiye yayılır</text>
+  <rect x="222" y="126" width="410" height="100" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="427.0" y="149.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Akut, şiddetli enfeksiyon</text>
+  <text x="427.0" y="164.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">güçlü iltihap: kızarıklık, püstül, kerion</text>
+  <text x="427.0" y="179.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">haftalar sürer</text>
+  <text x="427.0" y="194.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">tip IV aşırı duyarlılık, IgG</text>
+  <text x="427.0" y="209.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">tedaviye yanıt çok iyi</text>
+  <line x1="150" y1="244" x2="490" y2="244" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k7a)"/>
+  <text x="142.0" y="248.0" text-anchor="end" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">insana uyum çok</text>
+  <text x="498.0" y="248.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">insana uyum az</text>
+  <text x="320.0" y="238.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">konağın tepkisi şiddetlenir</text>
+</svg>

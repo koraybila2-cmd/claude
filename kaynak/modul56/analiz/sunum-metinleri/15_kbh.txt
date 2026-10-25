@@ -1,0 +1,376 @@
+=== Sayfa 1 ===
+=== Sayfa 2 ===
+Kronik Böbrek Hastalığı
+=== Sayfa 3 ===
+KBH Tanımı
+• GFR’de azalma olsun veya olmasın, böbrekte en az 3 ay süreyle devam
+  eden yapısal yada işlevsel bozuklukları veya herikisi ile giden idrar, kan ya
+  da görüntüleme yöntemleri ile saptanan bir hasar olmasıdır
+   • KBH Hasar Kriterleri: Üç ay veya daha uzun süren böbrek hasarı varlığı
+        Böbrek hasarını gösteren Belirteçler ( bir veya daha fazlasının bulunması)
+       • Albüminuri: AER≥ 30 mg/gün; ACR≥ 30 mg/g
+       • İdrar sediment anormallikleri
+       • Tübuler bozukluklara bağlı Elektrolit veya diğer anormallikler
+       • Histolojik anormallikler
+       • Görüntüleme ile saptanmış yapısal anormallikler
+       • Böbrek nakli öyküsü
+• GFR de azalma:
+     • Böbrek hasarı olsun ya da olmasın GFR’nin 3 ay veya daha
+       uzun süredir 60 ml/dk/1.73m2 ’nin altında olması
+
+      AER: Albumin atılım hızı, ACR: Alb/Kre oranı
+=== Sayfa 4 ===
+=== Sayfa 5 ===
+• SORU:::70 yaşında kadın hasta nefes darlığı şikayeti ile acil servise
+  başvuruyor. Ayrıntılı anamnez ve Sistemik FM yapıldıktan sonra
+  istenen lab tetkiklerinde kreatini 3,1 mg/dL saptanıyor .
+• Hastaya ABH? KBH? Ayrımını yapmak için ne yapılmalıdır???*
+=== Sayfa 6 ===
+KBH Epidemiyolojisi
+• Genel olarak KBH prevalansı %10-15 arasında değişmektedir.
+• Dünyada her 10 yetişkinden birinde çeşitli evrelerde böbrek hastalığı
+• Türkiye’de KBH prevalansı CREDIT (açılımı:Chronic Renal Disease In
+  Turkey) çalışmasında %15.7 bulundu.
+• KBH da mortalite:Yapılan çalışmalar, Genel popülasyonda
+  40-44 yaş arası kadınlarda yaşam beklentisi 40.3 yıl, aynı
+  yaşta Hemodiyalize başlayanda 10.2 yıl.
+• Diyaliz hastalarında ölüm oranlarının genel popülasyona
+  göre 10-30 kat daha yüksek olduğunu göstermiştir.
+                                              TÜRKİYE BÖBREK HASTALIKLARI
+       ÖNLEME VE KONTROL PROGRAMI 2004-2017
+=== Sayfa 7 ===
+ KBH evrelendirilmesi
+• KBH evrelendirilmesinin amaçları;
+   • izlemi ve tedaviyi yönetmek,
+   • progresyon hızı ile ilgili risk değerlendirilmesi yapmak ve
+   • komplikasyonlar açısından hastayı izlemektir.
+• 2012’de KDIGO (Kidney Disease: Improving Global Outcomes ) kılavuzunda:
+• KBH Risk sonucunu tahmin etmede, 4 kategoriyi takip edilmesini öneriyor
+   • KBH Nedeni
+   • 6 eGFR kategorisi
+   • 3 Albuminuri kategorisi
+   • Diğer risk faktörleri ve co-morbid faktörler
+=== Sayfa 8 ===
+                                                           Türkiyede Evre 5 KBH’nın Etiyolojik dağılımı
+                                           KBH’nın Nedenleri                                       %
+                                           Diyabetes Mellitus                                      39,04
+                                           Tip 1 DM                                                3,56
+                                           Tip 2 DM                                                35,49
+                                           Hipertansiyon                                           24,91
+
+• Tüm dünyada ve ülkemizde                 Glomerulonefrit                                         5,90
+ KBH’nın                                   Polikistik Böbrek Hastalığı                             4,85
+• Başlıca nedeni Diyabetes                 Amiloidoz                                               1,89
+ mellitus ve Hipertansiyondur*
+                                           Tubulointerstisyel Nefrit                               1,45
+                                           Obstriktif Nefropati                                    1,19
+                                           Renovasküler Hastalık                                   0,89
+
+•  * Not: HT nun primer değil KBH bağlı    Diğer                                                   7,79
+  oluşan sekonder hipertansiyon olduğuna
+  dair kuvvetli şüpheler var               Nedeni Bilinmeyen                                       13,15
+• TND-2020                                 Toplam                                                  100
+=== Sayfa 9 ===
+KBH’da GFR ve albuminüri Kategorileri göre Evre Tanım
+
+      Evre      GFR kategorilerine             GFR (ml/dk/1.73 m²
+               göre Tanım ve Aralık
+                                                                    KBH da albuminüri Kategorileri (mg/
+     Evre 1     Normal veya yüksek GFR                ≥90                         gün)
+     Evre 2        Hafif GFR azalması                60-89             A1           A2           A3
+                                                                       <30        30-300        >300
+     Evre 3a   Hafif ile orta derece azalmış         45-59
+                                                                     Normal        Orta         İleri
+                                                                    veya hafif   derecede    derecede
+     Evre 3b       Orta ila çok azalmış              30-44            artış        artış       artış
+
+     Evre 4            Çok azalmış                   15-29
+
+      Evre 5        Böbrek Yetmezliği               <15 veya
+     Evre 5D                                         Diyaliz
+=== Sayfa 10 ===
+ KBH evrelendirilmesi
+• KBH evrelendirilmesinin amaçları; izlemi ve tedaviyi yönetmek, progresyon hızı
+  ile ilgili risk değerlendirilmesi yapmak ve komplikasyonlar açısından hastayı
+  izlemektir.
+• 2012’de KDIGO (Kidney Disease: Improving Global Outcomes ) kılavuzunda:
+• KBH Risk sonucunu tahmin etmede, 4 kategoriyi takip edilmesini öneriyor
+   • KBH Nedeni
+   • 6 eGFR kategorisi
+   • 3 Albuminuri kategorisi
+   • Diğer risk faktörleri ve co-morbid faktörler
+• Proteinürinin (A1-3) şiddetiyle birlikte azalmış GFR düzeyine göre hastaların
+  gelişebilecek böbrek ve kardiyovasküler komplikasyon risklerine göre düşük,
+  orta artmış risk, yüksek ve çok yüksek riskli gruplara ayrılması sağlanmıştır.
+=== Sayfa 11 ===
+GFR ve Albuminüri kategorilerine göre KBH risk tabakalaması
+=== Sayfa 12 ===
+KBH riskini arttıran faktörler
+İleri yaş               Diyabetes mellitus                     Hipertansiyon
+Ailede KBH öyküsü       Böbrek kütlesinde azalma               Proteinüri
+                        Unilateral nefrektomi, renal agenezi
+
+Düşük doğum ağırlığı    Sistemik enfeksiyonlar                 Otoimmün hastalıklar
+Irk                     Üriner enfeksiyonlar                   Obesite
+Düşük sosyoekonomik     Üriner sistem taşları                  Dislipidemi
+durum
+Düşük eğitim düzeyi     Üriner sistem                          Sigara içme
+                        obstrüksiyonu
+Unilateral nefrektomi   İlaç toksisitesi NSAİİ.                Akut böbrek hastalığı
+Toksinler               Kemoteropatikler
+=== Sayfa 13 ===
+                                         HASAR
+
+                                             YANIT?
+
+                                  NEFRON HASARI
+
+SAĞLAM NEFRONLARDA
+ADAPTİF HİPERFİLTRASYON                               RENAL TÜBÜLER
+Sağlam kalan nefronlarda filtrasyon artar.
+                                                      KOMPANZASYON
+İntraglomerüler basınç yükselir → glomerüler
+kapiller hasar hızlanır
+
+    NORMAL SERUM                                      SIVI-ELEKTROLİT
+      KREATİNİN                                       DENGESİ SÜRDÜRÜLÜR
+=== Sayfa 14 ===
+PRİMER HASTALIĞIN AKTİVİTESİNDEN BAĞIMSIZ OLARAK
+             SAĞLAM NEFRONLARDA
+            ADAPTİF HİPERFİLTRASYON
+               Böbrek perfüzyonunun azalmasına cevap
+                         olarak renin salınır.
+                 RAAS aktivasyonu: anjiyotensin II →
+                Efferent arteriolde vazokonstriksiyon +
+                 aldosteron → Na+ ve su retansiyonu.
+
+            Proteinürik hasar tübül hücrelerinde inflamasyon
+               başlatır.İnterstisyel fibrozis ve atrofi gelişir.
+=== Sayfa 15 ===
+KBH Klinik özellikler
+• KBH’nın erken evrelerinde(1-3. evreleri) pek bir belirti ve bulguya
+  rastlanmaz. Genellikle sinsi belirti ve bulgu vermeden ilerler
+• Ancak KBH nedeni Glomerülonefrit ise
+   •   Ödem (hafif, ciddi, anazarka tarzı ödem, olabilir)
+   •   İdrar renginde koyulaşma (çay rengi idrar)
+   •   Hematüri
+   •   Hipertansiyon ile başvurabilir.
+• Erken bulgular arasında noktüri de bulunur. 3. evreden itibaren pek
+  çok hastada poliüri ve bunun bir parçası olarak da noktüri görülür.
+• Anemi, GFR<60 ml/dk/1.73m2 (Evre-3) te gelişmeye başlar
+   • Halsizlik, kolay yorulma, efor dispnesi kendini belli eder
+=== Sayfa 16 ===
+KBH Klinik özellikler
+• Kemik ağrıları: KBH’nın 3. Evresinde itibaren aktif vitamin D Sentezinin
+  azalmasıyla, kalsiyum-fosfat-parathormon-fibrobalast growt faktör-23 aksı
+  bozulmaya başlar ve bunun sonucu olarak kemik ağrıları görülebilir. Kronik
+  gelişen asidozda kemik ağrılarına etkisi olabilir
+• Kaşıntı, KBH’nın ilerleyen evrelerinde görülen kaşıntı üre fosfor
+  parathormon yüksekliklerinin bir sonucu olarak karşımıza çıkar
+• 4. evreden sonra iştahsızlık, halsizlik, bulantı, genel düşkünlük hali üre
+  toksinlerinin atılımının azalması ile oluşur
+• Sodyum, potasyum, su ve asit baz bozuklukları da 3. evreden itibaren
+  başlayabilir ama genellikle 4. evreden sonra belirgin hale gelir
+• İdrarın da azalması ile vücutta biriken suyun artması sonucunda hastada
+  periferik ödem, kontrol altına alınamayan hipertansiyon ve akciğer ödemi
+  gibi hipervomi bulguları, dilüsyonel hiponatremi gelişir
+• İleri evre KBH gelindiğinde asidoz da derinleşir ve takipne oluşur
+=== Sayfa 17 ===
+KBH Klinik özellikler
+• KBH da hiperkalemi evre 4-5 de başlayabilir. Ancak genellikle ileri
+  evrede oliguri başlayınca görülür.
+• Evre 5 KBH’ da endokrin anormallileri
+   • Plasma Growth hormon (retardasyon),
+   • Plasma insülin klirensi düştüğünden kanda insulin artar (hipoglisemiye
+     yatkınlık olusur )
+   • Erkeklerde Prolaktin seviyesi artar (Jinekomasti, sexual disfonksiyon , fertilite
+     gelişebilir)
+   • Kadınlarda pitutual-ovarial aks bozulur (amonore, infertilite gelişebilir)
+   • Antijene T hc cevabı ve nötrofil aktivasyon bozukluğu nedeniyle
+     immunizasyon kotudur. Aşılama işlemleri başarısız olabilir
+   • Hücresel ve humoral bozukluk nedeniyle kronik immunosupresif kabul edilir
+=== Sayfa 18 ===
+KBH Tanı
+• KBH’nın erken evreleri (Evre 1-2) asemptomatik olduğu için tanı
+  genellikle başka nedenlerle yapılan tahliller sırasında çıkan bazı
+  sonuçlarla rastlantısal olarak konur.
+• eGFR, böbrek fonksiyonlarının değerlendirilmesi ve KBH’nın evresini
+  belirlenmesi için kullanılır
+        GFR (Glomerüler Filtrasyon Hızı) Hızı için Formüller
+        Kreatinin klirensi (ml/dk)       İdrar Kreatinini (mg/dl) x idrar hacmi (ml) /
+                                         Serum Kreatinini (mg/dl) x1440 (dk)
+        eGFR                             Kreatinin testi x Serum Kreatinini -1.154 x Yaş -0.203 x
+                                         Cinsiyet x Irk
+                                         Kre Testi: IDMS (175) ,IDMS olmayan(186)
+                                         Erkek: 1 Kadın 0,742       Siyah:1,21 siyah olmayan: 1
+        Cockcroft-Gault formülü          ((140-Yaş)/Kreatinin )) x (vücut Ağırlığı/72) x cinsiyet
+                                         (Erkekler x 1, Kadınlarda x 0.85)
+=== Sayfa 19 ===
+KBH Tanı
+• Serum kreatinin değeri normalin üstünde gözükmesi oldukça geç bir
+  bulgudur.
+   • Serum Kreatinin değerinin yükselmesi böbrekteki nefronlarının %50’nin
+     üstünde kaybı demektir
+=== Sayfa 20 ===
+KBH Tanı
+• Proteinüri Saptanması
+• Proteinüri varlığı ve derecesi KBH için tanısal, prognostik ve tedavi
+  göstergesi olan bir parametredir
+• Kalitatif değerlendirmede protein ≥1+ ise 3 ay içinde kantitatif olarak teyid
+  edilmelidir
+• İki hafta ara ile yapılan iki ya da daha fazla kantitatif değerlendirmede
+  pozitiflik saptanan hastalar kronik böbrek hastalığı yönünden
+  incelenmelidir         .
+• Bunun için 24 saatlik idrar biriktirilir. İdrar biriktirme zorluğu olan
+  hastalarda spot idrarda albümin/Kreatinin veya protein/Kreatinin oranına
+  bakılır
+• İdrar protein-kreatinin oranı = 1000 * Spot idrar proteini (mg/dl) / Spot idrar kreatinini (mg/dl)
+     •   Normalde spot idrarda protein/kreatinin oranı 200 mg / g'den azdır.
+                            • Albümin/kreatinin 30 mg/g altındadır
+=== Sayfa 21 ===
+KBH Tanı
+• Görüntüleme yöntemleri:
+• Uriner sistem Ultrasonu: Kolay ulaşılabilir, hızla yapılabilecek, ilaç
+  kullanımını gerektirmeyen non invazif, güvenlik ve sağlanan bilgiler
+  nedeniyle en sık tercih edilen görüntüleme yöntemidir
+• Uriner sistem ultrasonunda böbrek boyutlarının küçük olması (80
+  mm ??), kortikal kalınlığın azalmış olması, ekojenitenin artması, yada
+  çok sayıda kistin bulunması kronisite lehine değerlendirilir
+• Ancak KBH olduğu halde böbrek boyutlarında küçülme olmayan
+  hastalıklar olduğu unutulmamalıdır
+=== Sayfa 22 ===
+KBH Tanı
+=== Sayfa 23 ===
+• KBH Tanısı konulduktan sonra olası sebeplerin
+  belirlenmesi
+=== Sayfa 24 ===
+KBH tanılı hastanın değerlendirilmesi-1
+• Uzun süredir devam eden diyabet ve hipertansiyon genellikle KBH’na yol açar.
+• Bu tür hastalarda hastalık süresi (diyabet ve / veya hipertansiyon) ve kontrol
+  derecesi belirlenmelidir.
+• Ek olarak, diyabetik veya hipertansif retinopatinin varlığı doğrulanmalıdır çünkü
+  retinopatili hastaların diyabet ve / veya hipertansiyona bağlı KBH olma olasılığı
+  daha yüksektir
+=== Sayfa 25 ===
+KBH tanılı hastanın değerlendirilmesi-2
+• Kalıtsal bozukluklar
+• Bazı kistik, interstisyel ve glomerüler böbrek hastalıkları gibi kalıtsal
+  bozukluklar, KBH'nin nispeten yaygın nedenleridir.
+• Bu nedenle, anormal böbrek görüntüleme öyküsü (örn., Polikistik
+  böbrek hastalığı) veya anormal idrar bulguları (örn., hematüri veya
+  proteinüri) dahil olmak üzere, aile üyelerindeki böbrek hastalığı
+  hakkında spesifik sorular sormak önemlidir
+=== Sayfa 26 ===
+KBH tanılı hastanın değerlendirilmesi-3
+• Kanser öyküsü olan (örn, Miyelom veya renal hücreli karsinom) ve
+  kemoterapi veya radyoterapi ile tedavi gören hastalar, kanserin
+  kendisinden veya tedavisinden KBH geliştirebilir.
+
+• Daha önce geçirilmiş ürolojik cerrahi, geçirilmiş pelvik veya
+  retroperitoneal cerrahi, bilinen veya şüphelenilen abdominal veya
+  retroperitoneal malignite, mesaneyi içeren nörolojik hastalık,
+  hematüri, alt karın, pelvik veya yan ağrısı olan hastalarda idrar yolu
+  tıkanıklığına bağlı KBH geişebilir
+=== Sayfa 27 ===
+KBH tanılı hastanın değerlendirilmesi-4
+• Hastanın geçmişte kullandığı potansiyel nefrotoksik ilaçlar da dahil
+  olmak üzere tüm kullandığı ilaçlar gözden geçirilmelidir (şu anda
+  kullanmasa bile).
+• Örnek olarak, psikiyatrik durumlar için uzun süreli lityum kullanımı,
+  "zayıflama kliniklerinden" bazı Çin otları veya analjezik kombinasyon
+  ajanlarının her biri,
+• KBH’na yol açan kronik interstisyel hasara neden olabilir
+=== Sayfa 28 ===
+KBH Genel Tedavi yaklaşımı
+1. Progresyonu azaltmaya yönelik                          2. KBH da geriye döndürülebilir
+   tedavi                                                    nedenlerin tedavisi
+   a. Diyet                                                  a. Uriner sistem obstruksiyonu
+       1.  Diyette Protein kısıtlaması: Hemodiyalize         b. Ek hasardan kaçınma
+           girmiyorsa                                            1.   İlaçlar (Aminoglikozid, NSAİİ kullanıyorsa
+           (0,8-1gr/kg/gün). HD giriyorsa 1,2gr/kg/                   kesilmesi,doz azaltımı, ilaç etkileşimleri,
+      gün protein diyeti                                              ilaç düzeyi izlemi)
+       2. 5 gr/gün tuzlu diyet (2 gr Na)                         2.   Radyokontrast ajanlar
+       3. Diyabetikse 30-35 kkal/kg/gün kalori                   3.   Gebelik
+   c. Kan basıncı kontrolü (ACE-I, ARB)
+                                                          3. Primer renal hastalığın tedavisi
+   d. Kan şekeri kontrolü (Tip 2DM varsa)
+      (SGLT2-I)                                           4. Komorbid durumların tedavisi
+   e. Proteinürinin azaltılması                           5. Azalmış böbrek fonksiyonuna bağlı
+       1.   Diyette Protein kısıtlaması(0,8-1gr/kg/gün)      komplikasyonların tedavisi
+       2.   ACE-I, ARB
+    f. Sigaranın kesilmesi                                6. Renal replasman tedavisine hazırlık
+   g. Fazla kiloların verilmesi                           7. Diyaliz ve transplantasyon
+   h. Kronik metabolik asidoz tedavisi
+      (HCO3:22 nin altında ise)
+=== Sayfa 29 ===
+         Diyalize başlama zamanı
+• eGRF:8-10 ml/dk/1.73 ml/dk/m2
+• Kontrolsüz refrakter hipervolemi, hiperkalemi, M.
+  Asidoz
+• Üremik Perikardit, plörit
+• Üremik Ensefalopati
+• Üremik Noropati
+• Malnutrisyon
+• Şiddetli bulantı kusma
+• Kanama diyatezi
+=== Sayfa 30 ===
+Renal replasman tedavileri
+
+• Böbrek nakli
+• Hemodiyaliz
+• Periton diyalizi
+=== Sayfa 31 ===
+           Böbrek Nakli
+Böbrek                Böbrek
+Vericisi              Alıcı
+=== Sayfa 32 ===
+                   Böbrek Nakli
+• Son dönem Böbrek hastalığının en seçkin
+  tedavisidir
+• Böbrek nakli için iki kaynak vardır:
+ – Beyin ölümü olan kişiler (kadavra)
+ – Canlı vericiler ( eş anne baba vs)
+=== Sayfa 33 ===
+                                 Hemodiyaliz
+• Hemodiyaliz(HD), hemen hemen tüm ülkelerde en yaygın kullanılan
+  renal replasman tedavisidir
+• HD işlemi, diffüzyon ile solütler ve ultraﬁltrasyon ile sıvı uzaklaştıran
+  öğeler içerir
+• HD işlemi için şunlara gereksinim vardır
+  – Damar yolu girişi
+      •   Arteriovenöz ﬁstül
+      •   Arteriovenöz greft
+      •   Cift lümenli HD kateteri
+  –   HD cihazı,
+  –   Diyalizör,
+  –   Diyalizat,
+  –   Anti koagulasyon
+• İntradiyalitik hipotansiyon ve kramp, diyaliz sonrası en sık görülen yan
+  etkileridir
+• Haftada 3 kez 4 saat yapılan konvansiyonel diyalizinde sağkalımı arzu
+  edildiği kadar iyi değildir
+=== Sayfa 34 ===
+=== Sayfa 35 ===
+                 Periton diyalizi
+• Periton diyalizi renal transplantasyon ve
+  hemodiyalizin yanında uygun ve seçilmiş hastalara
+  uygulanabilecek, iyi yaşam kalitesi ve evde diyaliz
+  olanağı veren bir renal replasman tedavisidir.
+• Özellikle aletli periton diyalizi ile hastanın sosyal
+  aktivitelerine, mesleğine devamı mümkün olmaktadır
+• Periton diyaliz sisteminin bölümleri
+  – Periton diyaliz kateteri
+  – Periton diyaliz solüsyonu
+  – Periton membranı ve membranın vasküler dokusu
+=== Sayfa 36 ===
+Periton
+diyalizi
+=== Sayfa 37 ===
+=== Sayfa 38 ===
+Kaynaklar:
+1. KDIGO 2012 Clinical Practice Guideline for the Evaluation and
+   Management of Chronic Kidney Disease
+2. Brenner and Rector's The Kidney, Eleventh Edition
+3. Temel nefroloji
+4. Comprensive clinical nephrology
+=== Sayfa 39 ===

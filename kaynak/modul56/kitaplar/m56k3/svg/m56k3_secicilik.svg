@@ -1,0 +1,50 @@
+<svg viewBox="0 0 640 318" width="100%" style="display:block" role="img" aria-label="KKB gruplarının kalp ve damar etkileri: dihidropiridinler, diltiazem ve verapamil; 0 etki yok, üç artı en fazla">
+  <defs><marker id="k3h" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k3hc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k3hm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <text x="343.0" y="26.0" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Dihidropiridinler</text>
+  <text x="455.0" y="26.0" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Diltiazem</text>
+  <text x="567.0" y="26.0" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Verapamil</text>
+  <text x="280.0" y="60.0" text-anchor="end" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Vazoselektivite</text>
+  <rect x="290" y="38" width="106" height="34" rx="3" fill="var(--color-accent)" fill-opacity="0.85"/>
+  <text x="343.0" y="60" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="white">+++</text>
+  <rect x="402" y="38" width="106" height="34" rx="3" fill="var(--color-accent)" fill-opacity="0.24"/>
+  <text x="455.0" y="60" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">+</text>
+  <rect x="514" y="38" width="106" height="34" rx="3" fill="var(--color-accent)" fill-opacity="0.05"/>
+  <text x="567.0" y="60" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">0</text>
+  <text x="280.0" y="100.0" text-anchor="end" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Antianjinal etkinlik</text>
+  <rect x="290" y="78" width="106" height="34" rx="3" fill="var(--color-accent)" fill-opacity="0.85"/>
+  <text x="343.0" y="100" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="white">+++</text>
+  <rect x="402" y="78" width="106" height="34" rx="3" fill="var(--color-accent)" fill-opacity="0.85"/>
+  <text x="455.0" y="100" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="white">+++</text>
+  <rect x="514" y="78" width="106" height="34" rx="3" fill="var(--color-accent)" fill-opacity="0.85"/>
+  <text x="567.0" y="100" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="white">+++</text>
+  <text x="280.0" y="140.0" text-anchor="end" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Sistemik vazodilatör etki</text>
+  <rect x="290" y="118" width="106" height="34" rx="3" fill="var(--color-accent)" fill-opacity="0.46"/>
+  <text x="343.0" y="140" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">++</text>
+  <rect x="402" y="118" width="106" height="34" rx="3" fill="var(--color-accent)" fill-opacity="0.24"/>
+  <text x="455.0" y="140" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">+</text>
+  <rect x="514" y="118" width="106" height="34" rx="3" fill="var(--color-accent)" fill-opacity="0.24"/>
+  <text x="567.0" y="140" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">+</text>
+  <text x="280.0" y="180.0" text-anchor="end" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Miyokard depresyonu (negatif inotropi)</text>
+  <rect x="290" y="158" width="106" height="34" rx="3" fill="var(--color-accent)" fill-opacity="0.13"/>
+  <text x="343.0" y="180" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">0 / +</text>
+  <rect x="402" y="158" width="106" height="34" rx="3" fill="var(--color-accent)" fill-opacity="0.24"/>
+  <text x="455.0" y="180" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">+</text>
+  <rect x="514" y="158" width="106" height="34" rx="3" fill="var(--color-accent)" fill-opacity="0.85"/>
+  <text x="567.0" y="180" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="white">+++</text>
+  <text x="280.0" y="220.0" text-anchor="end" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">AV iletiyi yavaşlatma (PR uzaması)</text>
+  <rect x="290" y="198" width="106" height="34" rx="3" fill="var(--color-accent)" fill-opacity="0.05"/>
+  <text x="343.0" y="220" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">0</text>
+  <rect x="402" y="198" width="106" height="34" rx="3" fill="var(--color-accent)" fill-opacity="0.24"/>
+  <text x="455.0" y="220" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">+</text>
+  <rect x="514" y="198" width="106" height="34" rx="3" fill="var(--color-accent)" fill-opacity="0.46"/>
+  <text x="567.0" y="220" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">++</text>
+  <text x="280.0" y="260.0" text-anchor="end" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Damar dışı düz kas gevşetme (konstipasyon)</text>
+  <rect x="290" y="238" width="106" height="34" rx="3" fill="var(--color-accent)" fill-opacity="0.05"/>
+  <text x="343.0" y="260" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">0</text>
+  <rect x="402" y="238" width="106" height="34" rx="3" fill="var(--color-accent)" fill-opacity="0.24"/>
+  <text x="455.0" y="260" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="var(--color-text)">+</text>
+  <rect x="514" y="238" width="106" height="34" rx="3" fill="var(--color-accent)" fill-opacity="0.85"/>
+  <text x="567.0" y="260" text-anchor="middle" font-family="var(--font-body)" font-size="13" font-weight="700" fill="white">+++</text>
+  <text x="290.0" y="296.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">Sunumdaki karşılaştırma tablosu. Dihidropiridinler arasında</text>
+  <text x="290.0" y="309.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">vazoselektiflik bakımından pek fark yoktur.</text>
+</svg>

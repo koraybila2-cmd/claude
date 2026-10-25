@@ -1,0 +1,432 @@
+=== Sayfa 1 ===
+ACE İNHİBİTÖRLERİ VE ANJİYOTENSİN
+RESEPTÖR BLOKÖRLERİ
+Dr. Öğr. Üyesi İdris AYHAN
+=== Sayfa 2 ===
+Renin-Anjiyotensin-Aldosteron Sistemi
+
+▪ Anjiyotensin dönüştürücü enzim (ACE veya ADE) inhibitörleri ve anjiyotensin
+  reseptör blokörleri (ARB) etkilerini renin-anjiyotensin-aldosteron sistemi
+  (RAAS) üzerinden gösterirler.
+▪ RAAS, kan hacminin ve sistemik vasküler direncin düzenlenmesinde rol alarak
+  kalp debisi ve arteriyel basıncı etkiler.
+▪ Adından da anlaşılacağı gibi bu sistemin üç önemli bileşeni vardır
+   ▪ Renin
+   ▪ Anjiyotensin
+   ▪ Aldosteron
+▪ Esas olarak böbrekler tarafından salınan renin, anjiyotensin oluşumunu uyarır,
+  bu da adrenal korteksten aldosteron salımını tetikler.
+                                                                                   2
+=== Sayfa 3 ===
+Renin
+
+▪ Renin böbrekler tarafından dolaşıma salınan
+  proteolitik bir enzimdir.
+
+▪ Renin salımı farklı mekanizmalarla
+  tetiklenebilir:
+    ▪ Renal arter basıncının azalması
+         ▪ Sistemik hipotansiyon
+         ▪ Kan hacminin azalması
+         ▪ Renal arter stenozu
+    ▪ Sempatik sinir aktivasyonu (β 1-
+      adrenoseptörler yoluyla)
+    ▪ Böbreğin distal tübüllerine sodyum iletiminin
+      azalması
+    ▪ RAAS yolak ürünü olan Anjiyotensin 2
+      düzeyinin azalması (feedback)
+    ▪ Renin salımını baskılayan atrial natriüretik    Zieg, J. (2017). Frontiers in pediatrics, 5, 213.
+
+      peptid (ANP) düzeyinin azalması
+                                                                                                          3
+=== Sayfa 4 ===
+Jukstaglomerüler (JG) Hücreler ve Makula Densa
+
+▪ Jukstaglomerüler (JG) hücreler ve makula densa, kan
+  basıncını ve sıvı dengesini düzenleyen RAAS’ı kontrol
+  eder.
+
+▪ JG hücreler, renin depolama ve salımının birincil
+  bölgesidir. Afferent arteriyol basıncını algılar.
+     ▪ Afferent arteriyol basıncının düşmesi JG hücrelerinden
+       renin salınmasına, artması ise renin salımının
+       inhibisyonuna neden olur.
+     ▪ JG hücreleri β 1-adrenoseptörler üzerinden sempatik
+       sinir uyarımına da renin salgılayarak cevap verir.
+
+▪ Makula densa, afferent arteriyoldeki JG hücrelerinin
+  bitişiğinde, distal tübülde yer alır ve tübüler sıvıdaki
+  sodyum ve klorür iyonlarının konsantrasyonunu algılar.
+     ▪ Sodyum ve klorür derişiminin azalması renin salınmasına,
+       artması ise renin salımının inhibisyonuna neden olur.
+
+                                                                  4
+=== Sayfa 5 ===
+Anjiyotensin-II Oluşumu
+
+▪ Renin kana salındığında, karaciğer tarafından üretilen ve dolaşımda bulunan
+  anjiyotensinojene etki ederek dekapeptit yapıda olan anjiyotensin 1
+  oluşumunu sağlar.
+▪ Özellikle akciğerler olmak üzere vasküler endotelde, anjiyotensin dönüştürücü
+  enzim (ACE) tarafından anjiyotensin 1’den iki amino asidi koparılarak oktapeptit
+  yapılı anjiyotensin 2 oluşturulur.
+   ▪ Kalp, beyin, damar endoteli gibi dokularda da ACE bulunmaktadır.
+
+                                                                                5
+=== Sayfa 6 ===
+Anjiyotensin-II'nin Önemli İşlevleri
+
+▪ Damarları daraltarak sistemik vasküler direnci ve arteriyel
+  basıncı artırır.
+
+▪ Böbreklerden sodyum geri emilimini uyararak sodyum ve
+  su tutulumunu artırır.
+
+▪ Adrenal korteksten aldosteron salımına neden olur,
+    ▪ Aldosteron böbreklerde sodyum ve sıvı tutulumunu arttırır.
+
+▪ Hipofizden vazopressin (antidiüretik hormon, ADH)
+  salımını uyarır.
+
+▪ Beyindeki susuzluk merkezlerini uyararak su tutulumunu
+  artırır.
+
+▪ Kardiyak ve vasküler hipertrofiyi uyarır.
+                                                                   https://cvpharmacology.com/vasodilator/ace
+
+                                                                                         6
+=== Sayfa 7 ===
+7
+=== Sayfa 8 ===
+Anjiyotensin-II Reseptörleri
+
+▪ Anjiyotensin 2 için AT1 ve AT2 isimli iki
+  reseptör tipi tanımlanmıştır.
+
+▪ AT3 ve AT4 reseptörlerinin varlığını
+  göstermiş olsa da bu reseptör fonksiyonları
+  hakkındaki bilgiler kısıtlıdır.
+
+▪ Anjiyotensin reseptörlerine sadece
+  anjiyotensin 2 değil, anjiyotensinden
+  türetilen başka moleküller de etki edebilir.
+  Ancak farmakolojik hedef açısından öne
+  çıkan molekül anjiyotensin 2, temel
+  etkilerinden sorumlu reseptör ise AT1’dir.
+
+                                                 8
+=== Sayfa 9 ===
+Tip 1 ve 2 Anjiyotensin-II Reseptörleri
+        Anjiyotensin 2 Reseptörü Tip 1 (AT1)                                 Anjiyotensin 2 Reseptörü Tip 2 (AT2)
+
+        Özellikle kan basıncı düzenlenmesi ve damarlar üzerinde etkilidir.   Daha çok koruyucu ve onarıcı süreçlerde görev alır.
+
+        Vazokonstriksiyon                                                    Vazodilatasyon
+
+        Renal su ve tuz geri emiliminde artış                                Renal su ve tuz geri emiliminde azalma
+
+        Damar düz kasında proliferasyon                                      Mitogenezde azalma
+
+        İnflamatuvar sitokin aktivasyonu                                     İnflamasyonda azalma
+
+        Kardiyak hipertrofi                                                  Miyosit hipertrofisinde azalma
+
+        Aldosteron artışı
+
+        Vazopressin artışı
+
+        Böbrek kan akımı azalması
+                                                                             Kardiyak fibroziste azalma
+        Renin salımı inhibisyonu
+                                                                             Fetal doku gelişimi
+        Santral sempatik aktivitenin düzenlenmesi
+                                                                             Apoptoz
+        Santral osmotik kontrol
+
+        Hücre dışı bağ doku oluşumu
+
+        Oksidatif stres
+                                                                                                                                   9
+        Endotel işlev bozukluğu
+=== Sayfa 10 ===
+ACE İnhibitörleri - Tarihçe
+
+▪ ACE inhibitörlerinin keşfi 1970’lere dayanmaktadır.
+▪ Brezilya'nın güneybatısındaki muz tarlalarında çalışan işçilerin bir
+  engerek yılanı tarafından ısırıldıktan sonra yığılma/baygınlık
+  semptomları göstermeleri yılan zehrinden kan basıncını düşüren
+  bir bileşen aranmasına yol açmıştır.
+▪ Bu yılanın (Bothrops Jararaca) zehrinden elde edilen peptidlerin
+  ACE’yi inhibe ettiği bulunmuş ve intravenöz yoldan
+  kullanıldığında kan basıncını düşürdüğü gözlenmiştir.
+▪ Zaman içerisinde ACE ve anjiyotensin üzerine yapılan etkileşim
+  çalışmalarıyla çeşitli ACE inhibitörleri geliştirilmiştir.
+
+                                                                         10
+=== Sayfa 11 ===
+ACE İnhibitörleri - Tarihçe
+
+▪ Tedavide kullanılan ilk ACE inhibitörü kaptoprildir.
+    ▪ Sülfidril grubuna bağlı yan tesirleri (nötropeni ve proteinüri riski)
+      bulunduğu için sülfidril grubu içermeyen inhibitörler geliştirilmiştir.
+
+▪ ACE inhibitörleri ilk zamanlar sadece renovasküler hipertansiyon
+  tedavisinde ve esansiyel hipertansiyonun üçüncü basamak
+  tedavisinde kullanılmıştır.
+
+▪ Güvenlilik ve geleneksel antihipertansif ilaçlara göre
+  üstünlüklerinin belirlenmesinin ardından kullanımları
+  yaygınlaşmıştır.
+
+▪ Enalapril ve lisinopril hariç diğerleri önilaç formundadır,
+  karaciğerde aktif metabolitlerine dönüşürler.
+    ▪ Biyoyararlanımın artırılması için önilaç olarak hazırlanır.
+
+                                                                                11
+=== Sayfa 12 ===
+▪ Kimyasal olarak üç farklı ACE inhibitörü sınıfı geliştirilmiştir. Bunlar yapılarında
+  barındırdığı sülfidril, karboksil veya fosforil gruplarına göre sınıflandırılır.
+
+▪ Farklı moleküler yapıda olmaları vücuttaki
+  dağılımlarının yanı sıra enzime afinite, etki
+  gücü, etki süresi ve eliminasyon süreci gibi
+  parametreleri de etkiler.
+
+                                                                                         12
+=== Sayfa 13 ===
+Benazepril
+Perindopril
+Ramipril
+Kinapril
+Moeksipril
+Trandolapril
+=== Sayfa 14 ===
+ACE İnhibitörleri – Etki Mekanizması
+
+▪ ACE inhibitörleri, anjiyotensin 1'in anjiyotensin 2'ye
+  dönüşümünü sağlayan ACE aktivitesini inhibe
+  ederek anjiyotensin 2 düzeyini düşürür ve
+  bradikinin yıkımını azaltır. Böylelikle;
+    ▪ Vazodilatasyon oluşur, arteriyel basınç düşer
+    ▪ ADH ve aldosteron salımı azalır
+    ▪ Su ve tuz tutulumu düşer, kan hacmi azalır
+    ▪ Sempatik adrenerjik aktivite yavaşlar
+    ▪ Kan basıncı düşer
+    ▪ Ön-yük ve art-yük azalır, kalbin iş yükü ve
+      oksijen ihtiyacı azalır
+    ▪ Kardiyak şekillenme (remodelling) önlenir
+                                                           14
+=== Sayfa 15 ===
+ACE İnhibitörleri – Etki Mekanizması
+
+▪ ACE inhibitörlerinin etki etmesi için plazma renin düzeyinin yüksek
+  olması şart değildir. Ancak dolaşımdaki renin seviyeleri yüksekken
+  kullanıldığında daha etkilidirler.
+
+▪ Renin-anjiyotensin sistemi kalp, beyin, damar ve böbrek gibi birçok
+  dokuda bulunduğundan ACE inhibitörleri, dolaşımdaki plazmada
+  anjiyotensinin dönüşümünü bloke etmenin yanı sıra buralarda da
+  etki gösterebilir.
+
+▪ Diyabet veya kalp yetersizliği gibi durumlarda ilave faydalı etkileri
+  vardır.
+     ▪ Efferent arteriyolde dilatasyon sağlanarak, artmış olan glomerüler
+       basınç düşürülür.
+     ▪ Anjiyotensin 2’nin doku üzerindeki ve hemodinamik olumsuz etkileri
+       engellenir.
+     ▪ İskelet kasında kan akımının artmasıyla mikrodolaşım iyileştirilir.
+     ▪ Bradikinin artışıyla hücre seviyesinde insüline bağlı glikoz ulaşımı
+       kolaylaştırılır.
+                                                                              15
+=== Sayfa 16 ===
+ACE İnhibitörleri – Endikasyonlar - Hipertansiyon
+
+▪ Hipertansiyonun birinci basamak tedavisinde monoterapi veya kombinasyon
+  seçeneği olarak kullanılabilirler.
+▪ Renal arter stenozu kaynaklı hipertansiyon tedavisinde faydalıdırlar.
+   ▪ Stenoz durumunda böbrekler tarafından hipotansiyon algılanarak renin salgısı
+     artar ve RAAS üzerinden hipertansiyon oluşur.
+   ▪ Bilateral renal arter stenozu durumunda kontrendikedir !!!
+
+▪ Anjiyotensin 2 oluşumunun azaltılması arteriyel ve venöz dilatasyona yol
+  açarak arteriyel (art-yük) ve venöz (ön-yük) basıncı azaltırlar.
+▪ Natriürez ve diüreze neden olarak, kan hacmi ve kalp debisini azaltır, arteriyel
+  basıncı düşürürler.
+
+                                                                                    16
+=== Sayfa 17 ===
+ACE İnhibitörleri – Endikasyonlar – Kalp Yetersizliği
+
+▪ ACE inhibitörlerinin, sistolik fonksiyon bozukluğunun neden olduğu kalp
+  yetersizliğinin (azalmış ejeksiyon fraksiyonu ile kalp yetersizliği; HFrEF)
+  tedavisinde çok etkili olduğu kanıtlanmıştır.
+▪ Art-yükün azaltılmasıyla ventrikül atım hacmi artar ve ejeksiyon fraksiyonu
+  iyileştirilir.
+▪ Ön-yükün azaltılmasıyla pulmoner konjesyon, sistemik konjesyon ve ödem
+  azaltılır.
+▪ Kronik kalp yetersizliği bakımından olumsuz olan sempatik aktivasyon
+  yavaşlatılır.
+
+                                                                                17
+=== Sayfa 18 ===
+ACE İnhibitörleri – Endikasyonlar – Kalp Yetersizliği
+
+▪ Art-yük ve ön-yükteki azalma sayesinde
+  kalbin oksijen ihtiyacı azaltılıp oksijen
+  arz/talep dengesine katkı sağlanır .
+▪ Anjiyotensin 2’nin bir etkisi olan kardiyak
+  şekillenme (remodelling) önlenir.
+▪ KKY tedavisinde, böbrek kan akımı ve
+  fonksiyonunu genellikle bozmamaları
+  direkt vazodilatörlere ve diüretiklere
+  üstünlüğüdür.
+
+                                                        18
+=== Sayfa 19 ===
+ACE İnhibitörleri – Endikasyonlar – MI Sonrası
+
+▪ ACE inhibitörleri, miyokard infarktüsü sonrası infarktüs yayılmasını sınırlamak,
+  ilerleyici sol ventrikül dilatasyonunu azaltmak ve kardiyak şekillenmeyi
+  (remodelling) önlemek maksadıyla kullanılabilmektedir.
+
+                                                                                 19
+=== Sayfa 20 ===
+ACE İnhibitörleri – İstenmeyen Etkiler
+
+▪ ACE inhibitörlerinin yan etki görülme sıklığı nispeten düşüktür ve iyi
+  tolere edilirler.
+
+▪ Yaygın görülen ve rahatsızlık verici bir yan tesiri, hastaların yaklaşık
+  %10'unda görülen kuru öksürüktür.
+     ▪ Bu etki bradikinin düzeyindeki artışla ilişkilidir.
+
+▪ Bradikinin artışına bağlı olarak anjiyoödem oluşabilir.
+
+▪ Ciddi sıvı veya tuz kaybı olan hastalar ve plazma renin düzeyi yüksek
+  olanlarda ACE inhibitörünün ilk dozu şiddetli hipotansiyona neden
+  olabilir.
+     ▪ Özellikle kalp yetmezliği olan hastalarda bir sorun olabilir.
+
+▪ Aldosteron oluşumunun azalmasıyla hiperkalemi görülebilir.
+
+▪ Plazma lityum düzeylerini arttırabilirler.
+
+                                                                             20
+=== Sayfa 21 ===
+ACE İnhibitörleri – Kontrendikasyonlar
+
+▪ ACE inhibitörlerinin gebelikte kullanımında abortus ve
+  malformasyonlarla karşılaşılmıştır. Gebelik ve laktasyon
+  döneminde kontrendikedir.
+▪ Potasyum tutucu diüretiklerle birlikte kullanımında
+  hiperkalemi şiddetlenebilir.
+▪ Nonsteroid anti-inflamatuar ilaçlarla eş zamanlı
+  kullanımında böbrek fonksiyonları bozulabilir.
+
+                                                             21
+=== Sayfa 22 ===
+ACE İnhibitörleri – Kontrendikasyonlar
+
+▪ Bilateral renal arter stenozu kaynaklı hipertansiyon vakalarında, ACE
+  inhibitörü kullanımı sonucunda böbrek yetmezliği gelişebilir.
+
+▪ Bilateral renal arter stenozunda dolaşımdaki anjiyotensin 2 düzeyi
+  artar. Ancak anjiyotensin 2 kaynaklı kasılma, böbrek efferent
+  arteriyolünde afferent arteriyolden daha fazladır. Bu farklılık
+  glomerüler kılcal basıncın ve filtrasyonun korunmasına yardımcı olur.
+
+▪ Anjiyotensin 2 oluşumunun bloke edilip kasılmanın ortadan
+  kaldırılması, glomerüler filtrasyon hızında ani bir düşüşe neden
+  olabilir.
+
+▪ Tek taraflı renal arter stenozunda genellikle sağlıklı böbrek yeterli
+  filtrasyonu sağlayabildiğinden bu durum bir sorun oluşturmayabilir.
+
+                                                                          22
+=== Sayfa 23 ===
+23
+=== Sayfa 24 ===
+Anjiyotensin Reseptör Blokörleri (ARB) – Etki Mekanizması
+
+▪ Bu ilaçlar, ACE inhibitörlerine çok benzer etkilere
+  sahiptir ve aynı endikasyonlar (hipertansiyon, kalp
+  yetmezliği, miyokard enfarktüsü sonrası) için
+  kullanılırlar.
+▪ Ancak etki mekanizmaları, anjiyotensin 2
+  oluşumunun değil aktivitesinin engellenmesi
+  şeklindedir.
+▪ ARB'ler, tip 1 anjiyotensin 2 (AT1) reseptörlerini
+  seçici ve yarışmalı olarak bloke eden reseptör
+  antagonistleridir.
+▪ AT1 inhibisyonu sonucunda anjiyotensin 2’nin
+  fizyolojik etkileri engellenmiş olur.
+
+                                                            24
+=== Sayfa 25 ===
+Anjiyotensin Reseptör Blokörleri (ARB) – Etki Mekanizması
+
+▪ AT1 reseptörü; kalp, böbrek, vasküler düz kas hücreleri, beyin, adrenal bez, plateletler,
+  yağ dokusu ve plasentada bulunmaktadır.
+▪ Anjiyotensin 2'nin vazokonstriksiyon, aldosteron salımını uyarma, tuz ve su dengesini
+  düzenleme gibi temel fizyolojik etkileri, AT1 aracılığıyla olur.
+▪ AT1 inhibisyonu sonucunda (ACE inhibitörlerinin etkisine benzer şekilde)
+    ▪ Vazodilatasyon oluşur, arteriyel basınç düşer
+    ▪ ADH ve aldosteron salımı azalır
+    ▪ Su ve tuz tutulumu düşer, kan hacmi azalır
+    ▪ Sempatik adrenerjik aktivite yavaşlar
+    ▪ Kan basıncı düşer
+    ▪ Ön-yük ve art-yük azalır, kalbin iş yükü ve oksijen ihtiyacı azalır
+    ▪ Kardiyak şekillenme (remodelling) önlenir
+
+                                                                                          25
+=== Sayfa 26 ===
+=== Sayfa 27 ===
+Anjiyotensin Reseptör Blokörleri - İstenmeyen Etkiler
+
+▪ ARB'ler ACE'yi inhibe etmediğinden, bradikinin
+  düzeyinde bir artışa neden olmazlar.
+   ▪ Genellikle kuru öksürük ve anjiyoödem gözlenmez.
+
+▪ Özellikle ilk dozda olmak üzere ortostatik
+  hipotansiyon oluşabilir.
+▪ Hiperkalemiye neden olabilir.
+▪ Baş ağrısı, baş dönmesi, yorgunluk görülebilir.
+▪ Reseptör blokajı esnasında plazma anjiyotensin 2
+  seviyesi belirgin şekilde artacağından ilaç terapisi
+  aniden kesilirse hipertansiyon meydana gelebilir.
+                                                         27
+=== Sayfa 28 ===
+Anjiyotensin Reseptör Blokörleri - Kontrendikasyonlar
+
+▪ Bilateral renal arter stenozu kaynaklı hipertansiyon vakalarında, ARB kullanımı
+  böbrek yetmezliğine neden olabilir.
+▪ Gebelik ve laktasyon döneminde kontrendikedir.
+▪ Potasyum düzeyini artırabilen ilaçlarla (örn. tutucu diüretikler) kombine
+  kullanımında hiperkalemi şiddetlenebilir.
+▪ Nonsteroid anti-inflamatuar ilaçlarla birlikte kullanımında glomerüler
+  filtrasyon basıncının azalmasına ve böbrek fonksiyon bozukluğuna yol açabilir.
+
+                                                                                   28
+=== Sayfa 29 ===
+Anjiyotensin Reseptör Blokörleri - Farmakokinetik
+
+                                                    29
+=== Sayfa 30 ===
+ACE İnhibitörleri ve ARB’ler
+
+                               30
+=== Sayfa 31 ===
+ACE İnhibitörleri ve ARB’ler – COVID 19
+
+                                          31
+=== Sayfa 32 ===
+ACE İnhibitörleri ve ARB’ler – COVID 19
+
+                                  ▪ Hipotez 1: SARS-CoV-2, anjiyotensin dönüştürücü enzim 2'ye
+                                    bağlanarak hücreye giriş yaptığı için bu reseptör sayısının artmasına
+                                    neden olan ACEi veya ARB kullanımı viral girişimi artırabilir.
+
+                                  ▪ Hipotez 2: Anjiyotensin 2’nin varlığı veya aktivitesinin engellenmesi
+                                    ACE2 tarafından koruyucu etkili moleküller üretilmesini sağlar.
+
+                                                                                            32

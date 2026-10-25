@@ -1,0 +1,70 @@
+DERMATOFİTLER — Prof. Dr. Can Ergin (2025-26, PAÜ Tıp Fakültesi Dönem III)
+Kaynak: Drive read_file_content (OCR; görüntü tabanlı PDF, 29 sayfa). Dosya adı "Çağrı Hoca_Dermatofitler".
+
+Dermatofitler - Sınıflandırma
+Alem: Mantarlar · Şube: Askomiçeta · Sınıf: Öaskomiçetes · Takım: Onygenales · Aile: Arthrodermataceae (teleomorf: Arthroderma)
+Trichophyton sp, Lophophyton sp (saç, deri, tırnak) · Microsporum sp, Nannizzia sp, Paraphyton sp (saç ve deri) · Epidermophyton sp (deri ve tırnak)
+Keratinize dokuya invazyon → kolonizasyon → cilt bütünlüğünün bozulması → infeksiyon → sekonder infeksiyon
+Kaynağa göre: antropofilik, zoofilik, jeofilik
+Zoofilik dermatofitler: T. equinum (at), T. erinacei (kirpi), T. interdigitale / T. mentagrophytes (kemiriciler-tavşan), T. simii (maymun), T. verrucosum (büyükbaş), M. canis (kedi-köpek), P. cookei, M. gallinae / L. gallinae (horoz), N. gypsea, N. persicolor (tarla/ev faresi), T. bullosum (at, eşek), T. benhamiae (kobay, kemiriciler)
+Coğrafik sınırlanan dermatofitler: T. concentricum, T. schoenleinii, T. soudanense, T. erinacei, T. megninii, M. audouinii
+Mark Twain, 1880, A Tramp Abroad
+! Vücuttaki dermatofit infeksiyonlarına Tinea adı verilir !
+T. barbae: T. mentagrophytes, T. rubrum, M. canis
+T. capitis: T. tonsurans, M. canis
+T. corporis: T. rubrum, T. mentagrophytes
+T. cruris: E. floccosum, T. rubrum, T. mentagrophytes
+T. manuum: T. rubrum, T. mentagrophytes
+T. pedis: T. mentagrophytes, T. rubrum, E. floccosum
+Ringworm
+T. unguium: T. rubrum, T. mentagrophytes, Microsporum spp, E. floccosum
+Onikomikoz: herhangi bir mantar (maya, küf, dermatofit)
+Tinea glabrosa, tinea gladiatorum, tinea incognito, tinea ciliaris, tinea imbricata
+Kaynak-histopatoloji: Akut (zoofilik/jeofilik): şiddetli reaksiyon, süre haftalar, IgG Ab, tip IV Hs, TH/TS normal, tedavi cevabı +++; Kronik (antropofilik): hafif cevap, süre ay→yıl, tip I Hs, atopi/IgE, normal veya ↓, sıklık ↑
+Kolonizasyon fazı → epitelyal faz → kronik yüzeyel dermatofitoz / derin dermatofitoz (keratin filament, keratin yıkımı, disülfit köprüleri, sülfit, aminoasit, tripeptid, fungal sekresyon)
+Savunma mekanizmaları: ter bezi kimyasal salgıları, serbest yağ asitleri, serum DIF (doymamış transferrin), kompleman aktivasyonu, artan hücre "turnover"u, proteolitik enzimler, hormonlar vb., hücresel immünite (IC deri testi)
+Klinik görünümler
+Tanı: A) Direkt tanı B) Kültür
+Eritrazma (Corynebacterium minutissimum) — ayırıcı tanı
+Tinea capitis için (saç invazyon tipleri):
+ Endotriks enfeksiyon → T. schoenleinii, T. violaceum, T. tonsurans (Favik saç invazyonu → T. schoenleinii)
+ Ektotriks enfeksiyon → T. verrucosum, T. equinum, M. audouinii, M. canis, N. gypsea, N. nana, T. mentagrophytes
+ Non-trikal enfeksiyon → T. rubrum, T. concentricum, T. simii
+Kültür: SDA (+ sikloheksimid), 25°C - 37°C, 3 hafta
+ Koloni morfolojisi, koloni rengi, düz/ters pigment, mikroskopi, biyokimyasal reaksiyonlar, asimilasyon farkları, ısı farkları, kıl perforasyon testi
+Mikroskopi: laktofenol pamuk mavisi, asid füksin çözeltisi, Parker mürekkebi
+ Trichophyton, Lophophyton: mikrokonidya
+ Microsporum, Nannizzia, Paraphyton: makrokonidya
+ Epidermophyton: grup makrokonidya
+Dermatofitler - virülans faktörleri:
+ Endoproteaz: subtilinler, fungalizinler → keratin yıkımı
+ Ekzoproteazlar: serin proteazlar, lösin aminopeptidazlar, karboksipeptidazlar, dipeptidil proteazlar (çoğunlukla Microsporum'larda) → uzun peptidlerin oligopeptid ve aminoasitlere parçalanması
+ Psödokinazlar (çoğunlukla Microsporum'larda) → çevresel uyum
+ Kinaz → cilt adaptasyonu
+ Mannan → makrofaja bağlı fagositoz inhibisyonu, hücresel immün cevap inhibisyonu
+ Sülfit → keratinin sistein ve S-sülfosisteine yıkımı
+ LysM → hücresel yapıların gizlenmesi
+ Polisiklik aromatik preniltransferazlar (çoğunlukla Microsporum'larda)
+Dermatofit "Clade"leri:
+Clade A: Trichophyton — T. benhamiae, T. bullosum, T. concentricum, T. equinum, T. eriotrephon, T. erinacei, T. interdigitale, T. mentagrophytes, T. quinckeanum, T. rubrum, T. schoenleinii, T. simii, T. soudanense, T. tonsurans, T. verrucosum, T. violaceum
+Trichophyton rubrum
+Trichophyton mentagrophytes kompleks: atlet ayağı. İnkübasyon 7-10 gün. Beyaz-pembe-sarı koloni, ters: kahverengi-renksiz. Ülkemizde 2. sıklıkta. Üreaz (+), kıl perforasyon testi (+). %1 dekstrozlu mısır unlu agarda pigmentsiz.
+Atlet ayağı / onikomikoz risk faktörleri: dolaşım bozuklukları (kronik venöz yetmezlik, periferik arter hastalıkları, alt ekstremitede lenfödem), onikodistrofi, ayak tırnağı deformiteleri, psoriasis vulgaris/unguium, iktiyozis vulgaris, diabetes mellitus, sportif aktivitelerde tırnak ve tırnak yatağı mikrotravmaları, hiperhidrozis ve aşırı nemli kullanım, immünsüpresyon (örn. HIV), trizomi 21
+Trichophyton interdigitale: antropofilik türleri non-inflamatuvar tinea unguium ve tinea pedis'te yaygındır; T. mentagrophytes ile klonal benzerlik gösterir.
+Trichophyton indotineae
+Trichophyton schoenleinii: Kel şamdanı! Saçkıran, Favus! Ülkemizde 1950'lere kadar sık. Kalıcı saç kaybı. İnkübasyon 15 gün. Renksiz → kahverengi. Sık klamidyokonidya. Mikrokonidya oluşturmaz.
+Trichophyton tonsurans: T. capitis ↑, T. corporis, T. unguium. Güney-Güneydoğu Anadolu ↑. Kahverengi, yayılan pigment. Balon formunda mikrokonidyalar. Toplum içi bulaş, epidemiler.
+Trichophyton verrucosum: küçükbaş hayvanlardan bulaş sıktır. Orta/Doğu/Güneydoğu Anadolu'da sıktır. Düğme biçimli koloni, beyaz, sarı pigment. 37°C'de hızlı ürer (25°C / 37°C).
+Trichophyton violaceum: mor renkli pigment yapar. Kesintili, zincir yapan klamidyokonidyaları bulunur. Toplum içi bulaş, epidemiler.
+Trichophyton erinacei: zoofilik; kirpi (Erinaceus). Üreaz (-). NaCl ile pigment baskılanır. Avrupa'da.
+Trichophyton benhamiae: zoofilik, çoğunlukla kobaylarda. T. bullosum: zoofilik, çoğunlukla atlarda. T. concentricum: antropofilik, tinea imbricata etkeni (Polinezya: Tokelau). T. equinum: çoğunlukla atlarda, makroskopisi T. tonsurans'a benzer. T. quinckeanum: zoofilik, ev farelerinde yaygın. T. simii: zoofilik, maymun.
+Clade B: Epidermophyton — Epidermophyton floccosum: antropofilik; sıklıkla cilt ve tırnak infeksiyonu; toplu yaşanan yerlerde epidemiler; sarı → kahverengi pigment; mikrokonidya yoktur.
+Clade C: Nannizzia — N. aenigmaticum, N. corniculata, N. duboisii, N. fulva, N. gypsea, N. incurvata, N. nana, N. persicolor, N. praecox
+ Nannizzia gypsea: her keratinize dokuda etkendir; makrokonidyalar içbükeydir; ters pigmenti tarçın rengindedir; beyaz → mor pigment; geofilik; N. incurvata ile morfolojisi benzer.
+ Nannizzia nana: makrokonidyaları iki gözlüdür; makrokonidyalar ince duvarlı, yumurta biçimlidir; turuncu-kahverengi pigment; domuz ve yabani hayvanlardan bulaşır.
+ N. corniculata (zoofilik, Orta Afrika), N. duboisii (zoofilik, Orta Afrika), N. fulva (geofilik), N. incurvata (geofilik), N. persicolor (zoofilik), N. praecox (antropofilik)
+Clade D: Paraphyton — P. cookei (geofilik), P. cookiellum (geofilik), P. mirabile (zoofilik)
+Clade E: Lophophyton — Lophophyton gallinae
+Clade F: Microsporum — M. audouinii (antropofilik), M. canis (zoofilik), M. ferrugineum (antropofilik)
+ Microsporum audouinii: çocuklarda tinea capitis epidemisi; terminal klamidyokonidya; septalı hifa; tarak uçlu hifa; PDA'da kahverengi (santral) ve periferde kırmızı pigment.
+ Microsporum canis: en sık çocuklarda; kedi ve köpekten bulaş sıktır; sarı pigment yapar; makrokonidyada 6+ bölme sayısı.

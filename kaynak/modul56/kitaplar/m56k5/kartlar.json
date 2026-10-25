@@ -1,0 +1,641 @@
+{
+ "kitap": "Kitap 5",
+ "konular": [
+  "gis_anatomi",
+  "histoloji",
+  "ishal",
+  "malabsorbsiyon",
+  "malab_pato"
+ ],
+ "bolumler": [
+  {
+   "no": "1",
+   "ad": "İnce ve kalın bağırsağın yapısı",
+   "kartlar": [
+    {
+     "no": "1.1",
+     "ids": [
+      "MSD-2023-2024-57",
+      "MSD-2024-57",
+      "BSD-2023-2024-72"
+     ],
+     "kisa": "İnce bağırsakla ilgili doğru ya da yanlış ifade (villus, mikrovillus, plika, goblet, Peyer, Paneth havuzu)",
+     "kisa_cevap": "Villusu epitel ve lamina propria oluşturur (2023-24) · “az gelişmiş mikrovillus” yanlıştır (2024-25) · Paneth hücreleri bezlerin tabanındadır (BSD 2023-24)",
+     "cevap": "**Kaynak notu:** BSD 2023-24 sorusunda iki ifade tartışmalıdır. Plika sirkülaris, tunika mukozanın üç katmanının (epitel, lamina propria, muskularis mukoza) submukozayla birlikte yaptığı katlantıdır. Bu yüzden “L. muscularis mukoza semisirküler katlantıda bulunur” (B) ifadesi aslında doğrudur. Anahtardaki C ifadesinde geçen “duodenal bezler” de Brunner bezleri anlamında okunmamalıdır. Paneth hücreleri duodenumdaki Lieberkühn kriptlerinin tabanında bulunur, Brunner bezlerinde yoktur. Anahtar C'dir. Sınavda büyük olasılıkla katlantının çekirdeğinin submukoza olduğu, kas tabakasının (tunika muskularis) katlantıya girmediği kastedildi.",
+     "varyant": [
+      "2024-25 MSD aynı havuzu tersinden sordu ve yanlışı istedi: **az gelişmiş mikrovillus yapıları vardır** (D) yanlıştır. Doğru kabul edilenler: duodenumun submukozasında Brunner bezleri bulunur, villus yapıları vardır, semisirküler katlantı bulunur, bezlerde Paneth hücresi bulunur.",
+      "BSD 2023-24'te doğru ifade: **Paneth hücreleri duodenal bezlerin tabanında bulunur** (C). Yanlış kabul edilenler: goblet hücre sayısı en fazla duodenumdadır, L. muscularis mukoza semisirküler katlantıda bulunur, M hücreleri lizozim salgılar, Brunner bezleri jejunumun submukozasındadır."
+     ],
+     "gerekce": [
+      "**D doğru.** Villus, mukozanın iki üst katmanının, yani yüzey epiteli ile lamina propriasının parmak biçimli çıkıntısıdır. Çekirdeğindeki lamina propria kan kapillerlerini ve lakteal denen lenf kılcalını taşır. Submukoza villusa girmez. Submukozanın da katıldığı daha büyük katlantı plika sirkülaristir.",
+      "Mikrovillus ince bağırsakta en iyi gelişmiş hâlindedir (A). Her enterositte yaklaşık 3000 tane bulunur ve yüzeyi 20 kat artırır. Plikalar duodenumun yalnızca ilk kısmında yoktur, geri kalanında vardır, bu yüzden “duodenumda yoktur” genellemesi yanlıştır (B). Goblet hücreleri ileumda azalmaz, tersine artar (C). Peyer plakları jejunumda değil ileumdadır (E). → 1.1, 1.2"
+     ]
+    },
+    {
+     "no": "1.2",
+     "ids": [
+      "MSD-2025-2026-21",
+      "MSD-2022-2023-57",
+      "MSD-2021-2022-57",
+      "BSD-2025-2026-24"
+     ],
+     "kisa": "Bağırsak epitel hücreleri ve görevleri",
+     "kisa_cevap": "M hücresi lipid emmez, antijen taşır · lizozimi Paneth hücresi salgılar · Paneth hücresi bez tabanındadır, absorbsiyon yapmaz",
+     "varyant": [
+      "2022-23 MSD: antijen sunumunda görev alan hücre: **M (mikrofold) hücresi**. Çeldiriciler enteroendokrin, goblet, kök ve Paneth hücreleriydi.",
+      "2021-22 MSD: ince bağırsak bezlerinde lizozim salgılayan hücre: **Paneth hücresi** (öncüller arşivde yok).",
+      "BSD 2025-26 ince ve kalın bağırsağı karşılaştırdı ve yanlışı sordu: **villusların lümene bakan üst kısımlarında bulunan Paneth hücrelerinin görevi absorbsiyon yapmaktır** (E) yanlıştır. Doğru kabul edilenler: ince bağırsakta yüzey alanı plika, villus ve mikrovillusla artar; kalın bağırsakta dış kas tabakası üç bant (tenya koli) hâlindedir; Brunner bezleri yalnızca duodenumdadır; goblet hücreleri kalın bağırsağa doğru artar."
+     ],
+     "gerekce": [
+      "**C doğru (yanlış eşleşme).** M hücreleri Peyer plaklarının lenfoid foliküllerini örten özelleşmiş epitel hücreleridir. Mikrovillusları azdır, apikal yüzleri mikrokıvrımlıdır ve adları buradan gelir. Görevleri besin emmek değildir. Lümendeki antijenleri ve mikroorganizmaları yıkmadan hücrenin içinden geçirirler (transsitoz) ve bazal yüzlerindeki cepte bekleyen dendritik hücrelere ve lenfositlere teslim ederler. Bağırsağın bağışıklık yanıtı buradan başlar. Lipidlerin yoğun emilimi enterositin işidir.",
+      "Diğer eşleşmeler doğrudur. Enterosit emer, aynı zamanda salgılar. Paneth hücresi bezin tabanındadır, asidofil granüllerinde lizozim ve defensin gibi antimikrobiyal peptitler taşır ve florayı düzenler. Goblet hücresi mukus salgılar. Enteroendokrin hücre bazal yüzünden kana gastrin, sekretin, kolesistokinin ve motilin gibi hormonlar verir. → 1.2"
+     ]
+    },
+    {
+     "no": "1.3",
+     "ids": [
+      "MSD-2023-2024-58",
+      "MSD-2022-2023-58"
+     ],
+     "kisa": "İnce bağırsak bezlerinde (Lieberkühn kriptlerinde) bulunmayan hücre",
+     "kisa_cevap": "Mide bezinin hücreleri: boyun müköz hücreleri (2023-24), esas hücreler (2022-23)",
+     "varyant": "2022-23 MSD aynı soruyu sordu: ince bağırsaktaki intestinal bezleri oluşturan hücrelerden olmayan: **esas hücreler** (E). Kök, goblet, enteroendokrin ve Paneth hücreleri bezde bulunur.",
+     "gerekce": [
+      "**A doğru.** Boyun müköz hücreleri ve esas (zimojen) hücreler mide bezlerinin hücreleridir. Boyun müköz hücreleri bezin boyun kısmında mukus salgılar. Esas hücreler bezin tabanında pepsinojen ve mide lipazı salgılar. İnce bağırsakta karşılıkları yoktur, çünkü burada protein sindirimini pankreas enzimleri yapar.",
+      "İnce bağırsak bezi (Lieberkühn kripti) beş hücre tipi içerir: enterosit, goblet, Paneth, enteroendokrin ve farklılaşmamış (kök) hücreler. Ara hücreler (E), kök hücreden goblet hücresine ya da enterosite dönüşmekte olan ve hâlâ bölünebilen hücrelerdir. Kriptin orta kısmında bulunurlar. → 1.2"
+     ]
+    },
+    {
+     "no": "1.4",
+     "ids": [
+      "MSD-2025-2026-20",
+      "BSD-2024-2025-72"
+     ],
+     "kisa": "Duodenuma özgü yapı: Brunner bezleri ve yeri",
+     "kisa_cevap": "Brunner bezleri, duodenumun submukozasında",
+     "varyant": "BSD 2024-25: ince bağırsak için doğru ifade: **duodenum submukoza tabakasında Brunner bezleri bulunur** (D). Çeldiriciler: villus mukoza ve submukozadan oluşur, mikrovillus az gelişmiştir, jejunumdaki lenf folikülü topluluğuna Peyer plağı denir, Brunner bezleri lamina propriadadır.",
+     "gerekce": [
+      "**B doğru.** Brunner bezleri duodenumun submukozasındaki dallı, bileşik tübüler bezlerdir ve sindirim kanalının başka bir yerinde bulunmaz. Salgıları bikarbonattan zengin, alkali bir mukustur. Mideden gelen asit kimusun duodenum mukozasını aşındırmasını önler ve pankreas enzimlerinin çalışacağı nötr ortamı hazırlar. Bu yüzden bezler, asidin ilk çarptığı proksimal duodenumda en yoğundur.",
+      "Tenya koli kalın bağırsağın dış kas bantlarıdır (A). Peyer plakları ileumda yoğundur (C). Goblet hücreleri distale doğru artar, en bol oldukları yer kalın bağırsaktır (D). Tek tek lenfoid foliküller sindirim kanalının her yerinde bulunabilir (E). BSD sorusundaki “Brunner bezleri lamina propriadadır” ifadesi yanlıştır, bezler submukozadadır. Villus da submukoza içermez. → 1.1, 1.3"
+     ]
+    },
+    {
+     "no": "1.5",
+     "ids": [
+      "MSD-2020-s32"
+     ],
+     "kisa": "Duodenumun omurga seviyesi",
+     "kisa_cevap": "L1-L3",
+     "gerekce": [
+      "**L1-L3.** Duodenum pilordan duodenojejunal fleksuraya kadar uzanan, yaklaşık 25 cm'lik, C biçimli bir tüptür ve pankreas başını kucaklar (Şekil 1.3). Pars superior L1 hizasında başlar. Pars descendens L1'den L3'e iner. Pars horizontalis L3 hizasında vena cava inferior ve aortanın önünden sağdan sola geçer. Pars ascendens L2'ye çıkar ve duodenojejunal fleksurada jejunuma döner. Duodenumun tamamı L1-L3 arasında kalır. → 1.3"
+     ]
+    },
+    {
+     "no": "1.6",
+     "ids": [
+      "MSD-2018-2019-5"
+     ],
+     "kisa": "Bulbus duodeninin komşuları",
+     "kisa_cevap": "Lobus quadratus, safra kesesi, ductus choledochus",
+     "gerekce": [
+      "**1, 2 ve 5.** Bulbus duodeni, pars superiorun pilordan sonraki ilk 2-3 cm'lik, duvarı ince ve iç yüzü düz (plikasız) başlangıcıdır. Duodenumun mezenteri olan, hareketli kalan tek kısmıdır. Önünde ve üstünde karaciğerin lobus quadratusu ile safra kesesi vardır (Şekil 1.3). Bu yüzden iltihaplı safra kesesi duodenuma yapışıp fistül açabilir. Arkasından ductus choledochus, a. gastroduodenalis ve v. portae geçer. Arka duvardaki bir ülser a. gastroduodenalisi aşındırıp ağır kanama yapabilir.",
+      "Dalak sol üst kadrandadır, duodenumla komşuluğu yoktur. Mide bulbusun komşusu değil, devamıdır: bulbus pilordan hemen sonra başlar. → 1.3"
+     ]
+    },
+    {
+     "no": "1.7",
+     "ids": [
+      "MSD-2022-2023-5",
+      "MSD-2022-2023-3",
+      "MSD-2022-2023-4",
+      "MSD-2019-3",
+      "MSD-2019-4",
+      "BSD-2022-2023-3",
+      "BSD-2019-2020-4",
+      "BSD-2021-2022-3"
+     ],
+     "kisa": "Jejunum ve ileumun farkları: dört öncüllü ifade havuzu",
+     "kisa_cevap": "Havuzun ifadeleri doğrudur; yalnızca “plika ileumun tamamında geniş ve çok sayıdadır” ve “villus jejunum ve ileumda bulunmaz” yanlıştır",
+     "varyant": [
+      "Aynı havuzdan altı soru daha geldi ve hepsinin cevabı “hepsi doğru” (I-II-III-IV) idi: 2022-23 MSD'de iki soru, 2019-20 MSD'de bir soru, BSD 2022-23, BSD 2019-20 ve BSD 2021-22'de birer soru (BSD 2021-22'nin öncülleri arşivde yok). Bu sorularda doğru sayılan ifadeler: jejunum daha geniş lümenli ve daha kalın duvarlı, ileum daha dar lümenli ve daha ince duvarlıdır; Peyer plakları jejunumda bulunmaz; jejunumun damarlanması daha fazla olduğu için ileuma göre daha kırmızı görünür; duodenum regio epigastrica ve regio umbilicaliste bulunur; villuslar jejunumda çok sayıdadır, ileumda az ve küçüktür; haustra coli ince bağırsakta bulunmaz; plikalar jejunumun tamamında geniş ve çok sayıdadır.",
+      "2019-20 MSD'nin S3'ü bu karttaki soruyla aynıdır ve cevabı da aynıdır (1-3)."
+     ],
+     "gerekce": [
+      "**E doğru (I ve III).** Jejunumdan ileuma doğru emilim yükü azalır, bağırsak da buna göre incelir. Besinlerin çoğu jejunumda emildiği için yüzey orada en geniştir. Plikalar jejunumun tamamında yüksek, sık ve kalındır, villuslar uzun ve çok sayıdadır (I, III). İleuma doğru plikalar alçalır ve seyrekleşir, terminal ileumda kaybolur. Bu yüzden “ileumun tamamında geniş ve çok sayıda” ifadesi yanlıştır (II). Villuslar ise ince bağırsağın her yerinde, ileumda da vardır (IV yanlış).",
+      "Havuzun diğer ifadeleri aynı mantıktan çıkar (Tablo 1.3). Çok iş yapan jejunumun lümeni geniş, duvarı kalın, kanlanması zengindir, canlıyken daha kırmızı görünür. İleumun duvarı incedir, damar arkadları çok katlıdır, vasa recta kısadır, mezenteri daha yağlıdır. Peyer plakları ileumun antimezenterik duvarındadır, jejunumda yoktur. Haustralar kalın bağırsağa aittir. Duodenum epigastrik ve umbilikal bölgelerde yer alır. → 1.3, 1.4"
+     ]
+    },
+    {
+     "no": "1.8",
+     "ids": [
+      "MSD-2024-58",
+      "MSD-2021-2022-4",
+      "MSD-2021-2022-58",
+      "MSD-2021-2022-5",
+      "MSD-2020-s31",
+      "BSD-2022-2023-71",
+      "BSD-2021-2022-70"
+     ],
+     "kisa": "Yapı ince bağırsağın mı, kalın bağırsağın mı?",
+     "kisa_cevap": "Kalın bağırsağın: tenya koli, haustra, perikriptal kılıf, kollajen tabaka · ince bağırsağın: Peyer plakları, Paneth hücresi",
+     "varyant": [
+      "BSD 2022-23: ince bağırsakta bulunmayan yapı: **kollajen tabaka** (B). Villus, mikrovillus, Brunner bezleri ve semisirküler katlantı ince bağırsakta vardır.",
+      "2021-22 MSD bu ayrımı üç soruda sordu: intestinum crassum'da bulunan yapı **tenya koli**, ince bağırsak yapısında bulunmayan yapı yine **tenya koli**, kolondaki keseciklerin adı **haustra coli** (öncüller arşivde yok).",
+      "2020-21 MSD tersini sordu: kalın bağırsakla ilgili olmayan oluşum: **Peyer plakları**. BSD 2021-22: kalın bağırsak bezlerinde bulunmayan hücre: **Paneth hücresi** (ikisinin de öncülleri arşivde yok)."
+     ],
+     "gerekce": [
+      "**A doğru.** Perikriptal kılıf (perikriptal fibroblast kılıfı), kalın bağırsak kriptlerini lamina propriada saran, birbirine bağlı fibroblastlardan ve miyofibroblastlardan yapılmış bir kılıftır. Kriptlerin uzun ve düz tüpler hâlinde sıralandığı kolonda belirgindir. Kollajen tabaka da kolona özgüdür. Yüzey epitelinin bazal laminası ile emici kapillerler arasında uzanan kalın bir kollajen banttır. Kolonun su ve elektrolit emilimini düzenlediği düşünülür. Kollajenöz kolitte kalınlaşır.",
+      "M hücresi, villus, mikrovillus ve lenf folikülü ince bağırsakta vardır (B-E). Kartın diğer sorularında aynı ayrım tersinden soruldu. Tenya koli ve haustra kalın bağırsağın dış görünüşünü, Peyer plakları ve Paneth hücreleri ince bağırsağın mukozasını tanımlar (Tablo 1.4). → 1.5"
+     ]
+    },
+    {
+     "no": "1.9",
+     "ids": [
+      "MSD-2019-5",
+      "MSD-2018-2019-3"
+     ],
+     "kisa": "Kalın bağırsağın dış özellikleri ve rektumun arterleri",
+     "kisa_cevap": "Haustra coli ve appendices epiploicae kalın bağırsakta vardır · a. rectalis media a. iliaca internadan çıkar",
+     "varyant": "2018-19 MSD: a. rectalis media hangi arterin dalıdır? **A. iliaca interna** (C). Çeldiriciler a. mesenterica superior, a. mesenterica inferior, a. pudenda interna ve a. femoralisti.",
+     "gerekce": [
+      "**1 ve 2.** Kalın bağırsak üç dış özelliğiyle tanınır: üç tenya koli bandı, bantlar arasındaki keseler (haustra coli) ve serozadan sarkan yağ uzantıları (appendices epiploicae ya da omentales). Tenyalar bağırsağın boyundan kısadır. Duvar onlara göre büzülür ve aralarda kese kese bombeleşir, haustralar böyle oluşur.",
+      "Rektum ve anal kanalın üç arteri vardır ve hiçbiri a. iliaca externadan çıkmaz (3 ve 4 yanlış). A. iliaca externa pelvisten çıkıp alt ekstremiteye gider, pelvis organlarına dal vermez. A. rectalis superior a. mesenterica inferiorun son dalıdır. A. rectalis media doğrudan a. iliaca internadan çıkar. A. rectalis inferior ise a. iliaca internanın dalı olan a. pudenda internadan çıkar (Şekil 1.4). 2018-19 sorusunda a. pudenda interna bu yüzden güçlü bir çeldiricidir: inferiorun kaynağıdır, medianın değil. → 1.5, 1.6"
+     ]
+    },
+    {
+     "no": "1.10",
+     "ids": [
+      "MSD-2024-5"
+     ],
+     "kisa": "Tamamen intraperitoneal olan bağırsak parçası",
+     "kisa_cevap": "Appendix vermiformis (anahtar arşivde yok)",
+     "cevap": "**Kaynak notu:** Bu sorunun anahtarı arşivde kayıtlı değil. Anatomik olarak tek doğru cevap **appendix vermiformis** (E)'dir: kendi mezenteri (mesoappendix) vardır ve bütünüyle periton içindedir.",
+     "gerekce": [
+      "**E doğru.** Bir organın intraperitoneal olması, bütün yüzeyinin visseral peritonla örtülmesi ve bir mezenterle arka karın duvarına asılı kalması demektir. Appendiks mesoappendix ile asılıdır, arteri (a. appendicularis) bu mezenterin serbest kenarında seyreder. Jejunum, ileum, colon transversum ve colon sigmoideum da intraperitonealdir, ama şıklarda yoktur.",
+      "Diğerleri tam intraperitoneal değildir. Rektumun üst üçte biri önden ve yanlardan, orta üçte biri yalnızca önden peritonla örtülür, alt üçte biri periton dışındadır (A). Duodenumun yalnızca bulbusu intraperitonealdir, gerisi sekonder retroperitonealdir (B). Colon ascendens ve descendens gelişim sırasında mezenterlerini kaybedip arka karın duvarına yapışmıştır, sekonder retroperitonealdir (C, D). → 1.5"
+     ]
+    },
+    {
+     "no": "1.11",
+     "ids": [
+      "MSD-2018-2019-4"
+     ],
+     "kisa": "McBurney noktasındaki ağrı",
+     "kisa_cevap": "Appendix vermiformis",
+     "gerekce": [
+      "**C doğru.** McBurney noktası, sağ spina iliaca anterior superior ile göbeği birleştiren çizginin dış üçte biri ile iç üçte ikisinin birleştiği yerdir. Appendiks tabanının karın ön duvarındaki izdüşümüdür. Appendiksin ucu kişiden kişiye yer değiştirir (retroçekal, pelvik, subçekal), ama tabanı tenya kolilerin birleştiği yerde sabittir. Nokta bu yüzden tabanı gösterir.",
+      "Akut apandisitte ağrı önce göbek çevresinde başlar, çünkü appendiksin visseral afferentleri T10 segmentine gider. İltihap parietal peritona ulaşınca ağrı somatik olur ve McBurney noktasına yerleşir. Safra kesesi ağrısı sağ üst kadranda, pankreas ağrısı epigastriumda ve sırta yayılarak, dalak ağrısı sol üst kadranda, böbrek ağrısı kostovertebral açıda hissedilir. → 1.5"
+     ]
+    },
+    {
+     "no": "1.12",
+     "ids": [
+      "MSD-2025-2026-5"
+     ],
+     "kisa": "Anal kanalın boylamasına mukoza katlantıları (görsel soru)",
+     "kisa_cevap": "Columnae anales (Morgagni kolonları; anahtar arşivde yok)",
+     "cevap": "**Kaynak notu:** Sorunun görseli ve anahtarı arşivde yok. Anal kanalın mukozasındaki boylamasına katlantılar yalnızca **columnae anales** (A) olabilir. Diğer şıkların hepsi rektuma ya da kolona aittir.",
+     "gerekce": [
+      "**A doğru.** Anal kanalın üst yarısında mukoza 6-10 boylamasına kabartı yapar: columnae anales (Morgagni kolonları). Kolonların içinde a. ve v. rectalis superiorun uç dalları bulunur. Kolonların alt uçları yarım ay biçimli valvulae anales ile birbirine bağlanır, aralarında sinus anales kalır. Valvulaların çizdiği dişli çizgi (linea pectinata) gelişimsel bir sınırdır. Üstünde endoderm kökenli mukoza, visseral sinirler ve portal venöz drenaj vardır. Altında ektoderm kökenli deri, somatik sinir (n. pudendus) ve sistemik venöz drenaj vardır.",
+      "Plica transversalis recti (D), rektumun ampulla kısmındaki üç yatay (Houston) katlantıdır, anal kanalda değildir. Haustra coli (B), tenia libera (C) ve tenia mesocolica (E) kolonun dış yapılarıdır. Tenya koliler üç banttır: serbest yüzdeki tenia libera, mezokolonun tutunduğu tenia mesocolica, omentumun tutunduğu tenia omentalis. → 1.5"
+     ]
+    },
+    {
+     "no": "1.13",
+     "ids": [
+      "MSD-2024-3",
+      "MSD-2021-2022-3",
+      "MSD-2020-s08"
+     ],
+     "kisa": "Bağırsak bölümlerinin arterleri (truncus coeliacus, SMA, IMA)",
+     "kisa_cevap": "IMA: colon descendens ve sigmoideum · a. jejunales: SMA'nın dalı · duodenum: a. gastroduodenalis ve pankreatikoduodenal arterler",
+     "varyant": [
+      "2021-22 MSD: a. jejunales hangi arterin dalıdır? **A. mesenterica superior** (öncüller arşivde yok).",
+      "2020-21 MSD: duodenumun beslenmesiyle ilgili arterler hangileridir? Cevap **I-II-III**. Öncüller arşivde yok. Duodenumu besleyen arterler şunlardır: a. gastroduodenalis ve dalları (a. supraduodenalis, a. pancreaticoduodenalis superior anterior ve posterior), a. mesenterica superiordan çıkan a. pancreaticoduodenalis inferior, ilk kısım için ayrıca a. gastrica dextra ve a. gastroomentalis dextra. A. mesenterica inferior ya da kolon arterleri gibi bir öncül duodenumu beslemez."
+     ],
+     "gerekce": [
+      "**C doğru (3 ve 4).** Bağırsağın arterleri embriyonik bağırsağın üç bölümünü izler (Şekil 1.4). Ön bağırsağı, yani duodenumun papillaya kadar olan kısmını da truncus coeliacus besler. Orta bağırsağı (papilladan colon transversumun sağ üçte ikisine kadar) a. mesenterica superior besler. Arka bağırsağı (colon transversumun sol üçte biri, colon descendens, sigmoideum ve rektumun üst kısmı) a. mesenterica inferior besler. IMA'nın dalları a. colica sinistra, aa. sigmoideae ve a. rectalis superiordur.",
+      "Mide truncus coeliacusun dallarıyla beslenir (1). Colon ascendens orta bağırsaktan gelir, SMA'nın dalları a. ileocolica ve a. colica dextra ile beslenir (2). Jejunum ve ileumun 15-18 dalı (aa. jejunales ve ileales) SMA'nın sol yanından çıkar. → 1.6"
+     ]
+    },
+    {
+     "no": "1.14",
+     "ids": [
+      "MSD-2025-2026-3",
+      "MSD-2024-4"
+     ],
+     "kisa": "Portal ven: iliak venlerle anastomoz yeri ve porta hepatisin içeriği",
+     "kisa_cevap": "Portal-iliak anastomoz rektum ve anüstedir · v. hepatica porta hepatiste bulunmaz",
+     "cevap": "**Kaynak notu:** 2025-26 sorusunda A ve B şıkları aynıdır (ikisi de “Sadece I-II”). Bu bir yazım hatasıdır, cevabı etkilemez. 2024-25 sorusunda ductus cysticus da kesin olarak porta hepatisten geçmez, ductus hepaticus communis ile porta hepatisin hemen altında, lig. hepatoduodenale içinde birleşir. Anahtar v. hepatica'dır, çünkü hepatik venler karaciğeri porta hepatisten değil, arka yüzden doğrudan vena cava inferiora açılarak terk eder.",
+     "varyant": "2024-25 MSD: porta hepatiste bulunmayan yapı: **v. hepatica** (A). Lenf damarları, ductus cysticus, sinir pleksusu ve v. portae çeldiriciydi.",
+     "gerekce": [
+      "**C doğru (III ve IV).** Rektum ve anal kanalın venleri iki yöne akar (Şekil 1.4). V. rectalis superior v. mesenterica inferiora, oradan portal sisteme dökülür. V. rectalis media doğrudan, v. rectalis inferior ise v. pudenda interna aracılığıyla v. iliaca internaya, yani sistemik dolaşıma dökülür. Üçü rektum duvarındaki plexus venosus rectalis içinde birbirine bağlanır. Portal basınç arttığında (ör. sirozda) kan bu bağlantılardan sistemik tarafa kaçar ve rektal varisler gelişir.",
+      "Colon descendens ve sigmoideumun venleri (v. colica sinistra, vv. sigmoideae) yalnızca v. mesenterica inferiora açılır (I, II). Retroperitoneal kolonda portal venlerle lomber venler arasında küçük bağlantılar vardır, ama iliak venlerle bağlantı yoktur. Porta hepatisten v. portae, a. hepatica propria'nın dalları, ductus hepaticus dexter ve sinister, lenf damarları ve sinir pleksusu geçer. → 1.6"
+     ]
+    },
+    {
+     "no": "1.15",
+     "ids": [
+      "MSD-2025-2026-4",
+      "BSD-2024-2025-4"
+     ],
+     "kisa": "Bağırsağın lenf drenajı: duodenum ve cisterna chyli",
+     "kisa_cevap": "Pars descendens: truncus coeliacus ve SMA çevresindeki düğümler · bağırsak lenfi alt ekstremite lenfiyle cisterna chylide karışır",
+     "varyant": "BSD 2024-25: intestinal kanaldan gelen lenf alt ekstremite lenfiyle nerede karışır? **Cisterna chyli** (E). Çeldiriciler nodi mesenterici superiores ve inferiores, nodi colici dextri ve bir lenf gövdesiydi.",
+     "gerekce": [
+      "**C doğru (I ve IV).** Bağırsağın lenfi arterlerini izler. Pars descendens ön bağırsakla orta bağırsağın birleştiği yerdir ve papilla major bu parçadadır. Papillanın üstü truncus coeliacusun, altı SMA'nın alanıdır. Lenf de iki yöne akar: üst kısım pankreatikoduodenal düğümlerden truncus coeliacus çevresindeki düğümlere, alt kısım SMA çevresindeki düğümlere gider. İnflamasyon bu iki gruptan birinde ya da ikisinde lenfadenopati yapar.",
+      "IMA çevresindeki düğümler arka bağırsağın, yani colon descendens, sigmoideum ve rektumun üst kısmının lenfini toplar (II). A. iliaca communis çevresindeki düğümler pelvisin ve alt ekstremitenin lenfini toplar (III). Truncus coeliacus, SMA ve IMA çevresindeki preaortik düğümlerin lenfi truncus intestinalis olarak birleşir. Truncus intestinalis, alt ekstremite ve pelvis lenfini getiren trunci lumbales ile L1-L2 hizasındaki cisterna chylide buluşur (Şekil 1.5). Lenf buradan ductus thoracicus ile sol venöz açıya taşınır. → 1.6"
+     ]
+    },
+    {
+     "no": "1.16",
+     "ids": [
+      "MSD-2023-2024-3",
+      "BSD-2023-2024-4"
+     ],
+     "kisa": "İnce bağırsağın sempatik ve parasempatik lifleri",
+     "kisa_cevap": "Sempatik: medulla spinalisin T9-T10 segmentleri · parasempatik: n. vagus",
+     "varyant": "BSD 2023-24: ince bağırsakların parasempatik lifleri hangi sinirle gelir? **N. vagus** (C). Çeldiriciler n. hypogastricus, nn. splanchnici pelvici, n. splanchnicus major ve minordu.",
+     "gerekce": [
+      "**C doğru.** İnce bağırsağın preganglioner sempatik lifleri medulla spinalisin T9-T10 segmentlerinin lateral boynuzundan çıkar. Sempatik gövdeden sinaps yapmadan geçer, n. splanchnicus major ve minor olarak plexus coeliacus ve mesentericus superiordaki ganglionlara ulaşır. Postganglioner lifler arterlerle birlikte bağırsağa gider (Şekil 1.6). İnce bağırsağın ağrısı da aynı segmentlere döner. T10 dermatomu göbek çevresidir, ince bağırsak ve appendiks ağrısı bu yüzden göbek çevresinde hissedilir. Daha yukarıdaki segmentler göğüs organlarına ve mideye, daha aşağıdakiler kalın bağırsağa ve pelvis organlarına sempatik verir.",
+      "Parasempatik lifler n. vagustan gelir. Vagus, sol fleksura kolikaya kadar, yani orta bağırsağın sonuna kadar bütün sindirim kanalını innerve eder. Bundan sonrasını nn. splanchnici pelvici (S2-S4) innerve eder. N. hypogastricus ve nn. splanchnici major ve minor sempatik liflerdir. → 1.7"
+     ]
+    },
+    {
+     "no": "1.17",
+     "ids": [
+      "MSD-2023-2024-5",
+      "MSD-2023-2024-4"
+     ],
+     "kisa": "İnce bağırsağın pleksusları sırasıyla ve genel visseral afferent yol",
+     "kisa_cevap": "Pl. mesentericus superior → subserosus → myentericus → submucosus · dolgunluk duyusu vagusla nucleus tractus solitariiye",
+     "varyant": "Aynı sınavda (2023-24 MSD) visseral afferent yol da soruldu: ince bağırsağın dolgunluk, şişkinlik ve mukoza irritasyonu gibi genel visseral afferent duyuları **n. vagus lifleriyle nucleus tractus solitariiye** gelir (A). Çeldiriciler: nn. splanchnici pelvici ile beyin sapına, sempatik liflerle beyin sapına, parasempatik liflerle medulla spinalise, sempatik liflerle medulla spinalisin ilgili segmentine.",
+     "gerekce": [
+      "**A doğru.** Otonom lifler bağırsağa arterlerle girer ve duvarın katmanlarını dıştan içe sırayla geçer (Şekil 1.6). Plexus coeliacustan sonra SMA'yı saran plexus mesentericus superior gelir. Lifler mezenterden bağırsak duvarına ulaşınca seroza altındaki plexus subserosusa, oradan iki kas tabakası arasındaki plexus myentericusa (Auerbach) ve en içte submukozadaki plexus submucosusa (Meissner) dağılır. Myenterik pleksus peristaltizmi, submukozal pleksus salgıyı ve mukozanın kan akımını yönetir. Plexus mesentericus inferior ve plexus hypogastricus kalın bağırsağın ve pelvisin pleksuslarıdır.",
+      "Visseral afferent lifler iki yol izler. Gerilme, dolgunluk ve kimyasal uyaran gibi fizyolojik duyular parasempatik liflerle, yani vagusla taşınır. Bu liflerin hücre gövdeleri vagusun alt ganglionunda, merkezi uçları beyin sapındaki nucleus tractus solitariidedir. Ağrı ise sempatik liflerle (nn. splanchnici) geriye gider ve medulla spinalisin T9-T10 segmentlerine girer, bu yüzden o segmentin dermatomuna yansır. → 1.7"
+     ]
+    }
+   ]
+  },
+  {
+   "no": "2",
+   "ad": "İshalli çocuk",
+   "kartlar": [
+    {
+     "no": "2.1",
+     "ids": [
+      "MSD-2024-53",
+      "MSD-2023-2024-50",
+      "MSD-2022-2023-50",
+      "MSD-2021-2022-53",
+      "MSD-2020-s19",
+      "MSD-2019-54"
+     ],
+     "kisa": "Süresine göre ishal: persistan ve kronik ishalin tanımı",
+     "kisa_cevap": "Akut başlayıp 14 günden uzun süren: persistan ishal · 30 günden uzun süren ve tartı kaybıyla giden: kronik ishal",
+     "varyant": [
+      "2022-23 ve 2019-20 MSD'de aynı soru, aynı şık havuzu. Cevap **persistan ishal**.",
+      "2023-24, 2021-22 ve 2020-21 MSD'de süre 30 güne çıktı ve tartı kaybı eklendi: akut başlayan, 30 günden uzun süren ve tartı kaybıyla birlikte olan ishal **kronik ishaldir**. Şık havuzu aynıydı (2021-22 ve 2020-21'de öncüller arşivde yok)."
+     ],
+     "gerekce": [
+      "**D doğru.** Sunumdaki tanımlar süreye dayanır (Şekil 2.1). Akut ishal birkaç gün içinde geçer. Akut başlayan bir ishal 14 günü aşarsa persistan ishal adını alır. Bir aydan uzun süren ve kilo alamamayla birlikte olan ishal kronik ishaldir. Ayrım düşünülecek nedeni değiştirir. Persistan ishal çoğu zaman enfeksiyonun mukozada bıraktığı hasarın, örneğin sekonder laktaz eksikliğinin, beslenme bozukluğuyla birleştiği bir kısır döngüdür. Kronik ishal ise altta yatan bir malabsorbsiyon hastalığını düşündürür (Bölüm 3.1).",
+      "Steatore bir süre tanımı değildir, dışkıyla aşırı yağ kaybını anlatır (B). Geçiş kakası, yenidoğanda mekonyumdan süt dışkısına geçerken, yaşamın 3-15. günleri arasında dışkı sayısının günde 8-10'a çıkmasıdır, ishal değildir (E). → 2.1"
+     ]
+    },
+    {
+     "no": "2.2",
+     "ids": [
+      "MSD-2025-2026-17"
+     ],
+     "kisa": "Akut ishalin tanımı",
+     "kisa_cevap": "Günde 3 ya da daha fazla, ya da normalinden 2 fazla sulu dışkılama (DSÖ)",
+     "gerekce": [
+      "**B doğru.** DSÖ tanımıyla akut ishal, 24 saatte 3 ya da daha fazla sulu dışkılama, ya da çocuğun alışık olduğundan en az 2 fazla sulu dışkılamadır. Sunum bunu ağırlıkla da tanımlar: süt çocuğunda günde 10 g/kg'dan, büyük çocukta günde 200 g'dan fazla dışkı çıkarmak. Tanımdaki “normalinden 2 fazla” kaydı anne sütüyle beslenen bebeği korur. Bu bebekler günde birçok kez yumuşak dışkı yapabilir ve bu normaldir.",
+      "Tek bir gevşek dışkı ishal sayılmaz (A). 14 günü aşan ishal persistan ishaldir (C). Çok yağlı dışkı steatoredir (D). Yenidoğanda mekonyumdan süt dışkısına geçiş döneminin sık dışkılaması geçiş kakasıdır (E). → 2.1"
+     ]
+    },
+    {
+     "no": "2.3",
+     "ids": [
+      "MSD-2025-2026-15",
+      "MSD-2024-52",
+      "MSD-2023-2024-51",
+      "MSD-2020-s20",
+      "MSD-2018-2019-53"
+     ],
+     "kisa": "Bulguları verilen çocukta dehidratasyonun derecesi",
+     "kisa_cevap": "%10 ve üzeri kayıp, ağır dehidratasyon",
+     "varyant": "2024-25, 2023-24, 2020-21 ve 2018-19 MSD'de aynı bulgu listesi, aynı beş şık (2020-21'de şıklar arşivde yok). Cevap her seferinde **%10 ve üzeri, ağır dehidratasyon**. Liste, sunumdaki ağır dehidratasyon slaytının kendisidir.",
+     "gerekce": [
+      "**E doğru.** Listede ağır dehidratasyonun bulguları vardır: kalp hızı artmış, deri turgoru azalmış, fontanel ve göz küreleri çökük, ekstremiteler soğuk ve alacalı (cutis marmorata), bilinç letarjiden komaya kadar bozulabilir, idrar 1 ml/kg/saatin çok altında. Hafif dehidratasyonda (%3-5) muayene hemen tamamen normaldir, yalnızca susuzluk artmış ve idrar hafif azalmıştır. Orta dehidratasyonda (%6-9) ağız kurur, gözler hafif çöker, turgor hafif azalır, kapiller dolum uzar ve çocuk huzursuzlaşır (Tablo 2.1).",
+      "Listenin en çok yanıltan satırı, kan basıncının normal olabilmesidir. Çocuk kaybettiği hacmi uzun süre taşikardi ve damar daralmasıyla telafi eder. Kan basıncı ancak bu mekanizmalar tükenince düşer (Şekil 2.2). Kan basıncı normal diye dehidratasyonu hafif saymak bu yüzden yanlıştır. Listedeki bulgular hem dehidratasyonun bulgularıdır hem de derecesini belirlemeye yeter (A, B yanlış). → 2.2"
+     ]
+    }
+   ]
+  },
+  {
+   "no": "3",
+   "ad": "Malabsorbsiyon",
+   "kartlar": [
+    {
+     "no": "3.1",
+     "ids": [
+      "MSD-2024-66",
+      "MSD-2022-2023-66",
+      "MSD-2019-63",
+      "MSD-2018-2019-63"
+     ],
+     "kisa": "Malabsorbsiyonun evreleri: hangi hastalık hangi evreyi bozar?",
+     "kisa_cevap": "Transport evresi: lenfanjiektazi · intralüminal evre: kronik pankreatit · enfeksiyon: Whipple hastalığı · biyopside bulgu veren: gluten enteropatisi",
+     "varyant": [
+      "2019-20 MSD: intralüminal evreyi etkileyen hastalık: **kronik pankreatit** (E). Çeldiriciler çölyak, Whipple hastalığı, lenfanjiektazi ve tüberkülozdu.",
+      "2022-23 MSD: malabsorbsiyonun enfeksiyon nedeniyle geliştiği hastalık: **Whipple hastalığı** (D). Çeldiriciler abetalipoproteinemi, pankreatit, glüten enteropatisi ve kısa barsak sendromuydu.",
+      "2018-19 MSD: ince bağırsak biyopsisinde histopatolojik bulgu beklenen hastalık: **gluten enteropatisi** (E). Çeldiriciler kistik fibrozis, skleroderma, kısa bağırsak sendromu ve akut pankreatitti."
+     ],
+     "gerekce": [
+      "**A doğru.** Emilim üç evrede yürür (Şekil 3.1). Lüminal evrede pankreas enzimleri ve safra besinleri emilebilir hâle getirir. Mukozal evrede fırçamsı kenar enzimleri sindirimi bitirir ve enterosit ürünleri işler. Transport evresinde besinler kana ve lenfe geçer. Lenfanjiektazide ince bağırsağın lenf damarları genişlemiş ve tıkalıdır. Enterositte paketlenen şilomikronlar lenfe çıkamaz. Genişleyen lakteal yırtılınca lenf lümene sızar ve yağ, protein ve lenfosit dışkıyla kaybedilir (protein kaybettiren enteropati).",
+      "Glüten enteropatisi ve disakkaridaz eksikliği mukozal evrenin hastalıklarıdır (C, D). Sklerodermada bağırsak hareketi bozulur, durgun lümende bakteriler çoğalır ve safra asitlerini parçalar, yani bozukluk lümende başlar (E). Amiloidoz birikimin yerine göre mukozayı, damar duvarını ve kası etkileyebilir (B). Kartın diğer soruları da aynı sınıflamadan gelir. Kronik pankreatit lüminal evreyi bozar. Whipple hastalığı bir bakterinin, Tropheryma whipplei'nin yaptığı enfeksiyondur. Lüminal hastalıklarda ve kısa bağırsakta mukoza sağlam kaldığı için biyopsi bulgu vermez. Çölyakta ise villus atrofisi görülür. → 3.1"
+     ]
+    },
+    {
+     "no": "3.2",
+     "ids": [
+      "MSD-2019-53"
+     ],
+     "kisa": "Kronik ishalin nedenini aydınlatan öykü bilgileri",
+     "kisa_cevap": "Hepsi: başlangıç yaşı, diyetle ilişkisi, dışkının özellikleri, geçirilmiş enfeksiyonlar",
+     "gerekce": [
+      "**E doğru.** Kronik ishalli çocukta tanının en önemli basamağı ayrıntılı öyküdür. Dört bilginin her biri ayrı bir hastalık grubunu işaret eder. Başlangıç yaşı: doğumdan beri süren ishal konjenital bir bozukluğu (konjenital klor ishali, mikrovillus inklüzyon hastalığı, Shwachman-Diamond sendromu), 1-3 yaşta başlayan ishal oyun çocuğu ishalini düşündürür. Diyetle ilişki: formül süte geçişte başlayan ishal inek sütü proteini duyarlılığını, ek gıdaya, yani glütene geçişte başlayan ishal çölyak hastalığını düşündürür.",
+      "Dışkının özellikleri: patlayıcı, sulu, asidik ve pişik yapan dışkı karbonhidrat malabsorbsiyonunu, bol, yağlı, soluk ve çok kötü kokulu dışkı pankreas yetmezliğini, yumuşak ve daha az yağlı dışkı mukoza hastalığını düşündürür. Geçirilmiş enfeksiyonlar: gastroenteritten sonra sekonder disakkaridaz eksikliği ya da giardiyaz gelişebilir. → 3.2"
+     ]
+    },
+    {
+     "no": "3.3",
+     "ids": [
+      "BSD-2019-2020-94"
+     ],
+     "kisa": "Pnömatozis intestinalis ve portal vende hava",
+     "kisa_cevap": "Nekrotizan enterokolit",
+     "gerekce": [
+      "**C doğru.** Nekrotizan enterokolit (NEK), en çok prematüre yenidoğanda, enteral beslenmeye başlandıktan sonra gelişen iskemik ve iltihabi bir bağırsak nekrozudur. Olgunlaşmamış mukoza bariyeri, azalmış kan akımı, enteral beslenme ve bakteri kolonizasyonu birleşerek mukozayı hasarlar. Bakteriler bağırsak duvarına girer ve orada fermentasyonla gaz, özellikle hidrojen üretir. Duvar içindeki gaz radyografide pnömatozis intestinalis olarak görülür. Gaz mezenterik venlerle portal vene taşınınca karaciğer üzerinde dallanan hava gölgeleri çıkar. İkisi birlikte NEK'in tanı koyduran radyolojik bulgusudur.",
+      "Malabsorbsiyon öyküsünde NEK bu yüzden sorulur: nekrotik bağırsağın cerrahi olarak çıkarılması kısa bağırsak sendromu bırakır. Gangrenöz kolesistitte gaz safra kesesinin duvarında, perfore apandisitte serbest karın boşluğunda toplanır. Duodenal atrezi “çift balon” görünümü verir. Nekrotizan pankreatitte gaz pankreasın çevresindedir. → 3.2"
+     ]
+    },
+    {
+     "no": "3.4",
+     "ids": [
+      "MSD-2019-70",
+      "MSD-2018-2019-71"
+     ],
+     "kisa": "Malabsorbsiyonlu hastada beklenmeyen bulgu",
+     "kisa_cevap": "Yutma bozukluğu (2019-20) · eklemlerde şişlik (2018-19)",
+     "cevap": "**Kaynak notu:** 2018-19 anahtarındaki “eklemlerde şişlik” malabsorbsiyonun kendisinden doğmaz, ama malabsorbsiyon yapan bazı hastalıklarda görülür. Çölyak hastalığında artrit ve artralji ekstraintestinal bulgulardandır (Bölüm 4.2), inflamatuvar bağırsak hastalığında eklem bulguları sıktır. Soru malabsorbsiyon sendromunun kendi bulgularını sorduğu için anahtar doğru kabul edilebilir.",
+     "varyant": "2018-19 MSD: aynı soru, aynı dört bulgu; beklenmeyen bulgu **eklemlerde şişlik** (E).",
+     "gerekce": [
+      "**C doğru.** Malabsorbsiyonun bulguları iki kaynaktan gelir. Birincisi, emilmeyen besinin bağırsakta yaptıklarıdır: ishal, gaz, karın şişliği (D). İkincisi, emilmeyen besinin vücutta bıraktığı açıktır: kilo alamama ve büyüme duraklaması (E), yağ malabsorbsiyonunda yağda eriyen A, D, E ve K vitaminlerinin eksikliği. A vitamini eksikliği gece körlüğü ve kseroftalmi yapar (A). D vitamini ve kalsiyum emilmeyince raşitizm gelişir (B). Yutma bozukluğu ise besinin bağırsağa ulaşmasından önceki bir sorundur ve ağız, farenks ya da özofagus hastalığını gösterir. → 3.2"
+     ]
+    },
+    {
+     "no": "3.5",
+     "ids": [
+      "MSD-2018-2019-72"
+     ],
+     "kisa": "Malabsorbsiyonlu çocukta gereksiz ölçüm",
+     "kisa_cevap": "Uyluk kalınlığı",
+     "gerekce": [
+      "**C doğru.** Malabsorbsiyonlu çocuğun muayenesi antropometriyle başlar ve ölçümler standart değerlerle karşılaştırılır. Boy ve ağırlık büyüme eğrisine işlenir (A, B). Ardışık kayıtlarda önce kilo alımı yavaşlar, sonra durur, uzun dönemde boy da etkilenir. Deri kıvrım kalınlığı (triseps) yağ depolarını, orta kol çevresi kas ve yağ kitlesini birlikte gösterir (D, E). Bunların yaşa göre referans değerleri vardır. Uyluk kalınlığının çocuk antropometrisinde standart bir ölçüm yöntemi ve referansı yoktur. → 3.2"
+     ]
+    },
+    {
+     "no": "3.6",
+     "ids": [
+      "MSD-2018-2019-74"
+     ],
+     "kisa": "Çocukta malabsorbsiyonun en sık görüldüğü yaş aralığı",
+     "kisa_cevap": "6 ay - 5 yaş",
+     "gerekce": [
+      "**B doğru.** 6 ay ile 5 yaş arası, çocuğun anne sütünden ek gıdaya ve aile sofrasına geçtiği dönemdir. Diyete ilk kez gluten, inek sütü ve çeşitli karbonhidratlar girer. Çölyak hastalığı ve inek sütü proteini duyarlılığı bu yüzden bu yaşlarda ortaya çıkar. Aynı dönemde çocuk sık gastroenterit geçirir. Her gastroenterit mukozada geçici bir disakkaridaz eksikliği bırakabilir, giardiyaz da bu yaşta sıktır. Büyüme hızı yüksek olduğu için emilimdeki küçük bir açık bile kilo eğrisinde hızla görünür.",
+      "İlk 6 ayda yalnızca anne sütü alan bebekte malabsorbsiyon nadirdir. Doğumdan beri süren ishal konjenital bir hastalığı düşündürür (A). Okul çağında ve ergenlikte çölyak gibi hastalıklar görülebilir, ama daha çok ekstraintestinal bulgularla ortaya çıkar (C-E). → 3.2"
+     ]
+    },
+    {
+     "no": "3.7",
+     "ids": [
+      "MSD-2025-2026-48",
+      "MSD-2023-2024-76",
+      "MSD-2020-s54",
+      "BSD-2025-2026-82"
+     ],
+     "kisa": "Karbonhidrat malabsorbsiyonunu düşündürmeyen bulgu",
+     "kisa_cevap": "Ödem (protein malabsorbsiyonunun bulgusudur)",
+     "varyant": "2023-24 ve 2020-21 MSD ile BSD 2025-26'da aynı soru, aynı beş ifade (BSD'de şıkların sırası farklı, 2020-21'de şıklar arşivde yok). Cevap her seferinde **ödem varlığı tipiktir**.",
+     "gerekce": [
+      "**C doğru.** Karbonhidrat malabsorbsiyonunun bütün bulguları, emilmeyen şekerin bağırsakta yaptıklarından doğar (Şekil 3.2). Şeker lümende su tutar ve sulu ishal yapar. Kolona ulaşınca bakteriler onu fermente eder. Hidrojen, karbondioksit ve metan aşırı gaz, karın şişliği ve kramp yapar (A). Hidrojen kana geçip nefesle atılır (D). Kısa zincirli yağ asitleri ve laktik asit dışkıyı asitleştirir (pH < 6) ve perianal bölgeyi tahriş eder (B). Gazla karışan sulu dışkı bol ve köpüklüdür (E). Sunuma göre gaz karbonhidrat malabsorbsiyonu için özgüldür.",
+      "Ödem protein malabsorbsiyonunun ya da protein kaybının bulgusudur. Albümin düşünce plazmanın onkotik basıncı azalır ve sıvı damar dışına kaçar. Karbonhidrat malabsorbsiyonunda serum proteinleri korunur, ödem beklenmez. → 3.3"
+     ]
+    },
+    {
+     "no": "3.8",
+     "ids": [
+      "MSD-2022-2023-74",
+      "MSD-2021-2022-75",
+      "MSD-2019-72",
+      "MSD-2018-2019-73"
+     ],
+     "kisa": "Karbonhidrat malabsorbsiyonunda ilk yapılacak ve en yararlı test",
+     "kisa_cevap": "Dışkıda redüktan madde (ve pH) analizi",
+     "varyant": [
+      "2021-22 MSD'de aynı soru: cevap **dışkıda redüktan madde ve pH analizi** (öncüller arşivde yok).",
+      "2019-20 ve 2018-19 MSD sorunun eski biçimini sordu: karbonhidrat malabsorbsiyonunu göstermek için en yararlı test **gaitada redüktan madde** (B). Çeldiriciler gaita mikroskopisi, gizli kan, gaita kültürü ve gaitada elastazdı."
+     ],
+     "gerekce": [
+      "**E doğru.** Glukoz, galaktoz, laktoz ve maltoz indirgen (redüktan) şekerlerdir. Emilmeyip dışkıya geçtiklerinde, bakır indirgenmesine dayanan bir testle (Clinitest tableti) saptanırlar. Dışkıda %0,5'in üzerinde redüktan madde anormaldir. Aynı örnekte ölçülen düşük pH, şekerin kolonda fermente edildiğini gösterir. İki test ucuzdur, dışkı örneği yeter ve ilk basamakta yapılır. Sükroz indirgen değildir. Sükraz-izomaltaz eksikliği aranıyorsa örnek önce asitle hidrolize edilir. Tanı sonra hidrojen nefes testiyle ya da biyopside disakkaridaz ölçümüyle doğrulanır (Tablo 3.1).",
+      "Steatokrit yağı (A), alfa-1 antitripsin bağırsaktan protein kaybını (B), ter testi kistik fibrozisi (C) gösterir. Biyopsi girişimseldir, ilk test olamaz (D). Eski soruların çeldiricilerinde gaita mikroskopisi ve kültürü enfeksiyonu, gizli kan kanamayı, elastaz pankreas yetmezliğini gösterir. → 3.3, 3.5"
+     ]
+    },
+    {
+     "no": "3.9",
+     "ids": [
+      "MSD-2025-2026-51",
+      "MSD-2024-73",
+      "MSD-2023-2024-73",
+      "MSD-2022-2023-73",
+      "MSD-2020-s59",
+      "MSD-2019-71"
+     ],
+     "kisa": "Ekzokrin pankreas yetmezliğini gösteren dışkı testi",
+     "kisa_cevap": "Fekal elastaz-1",
+     "varyant": [
+      "2024-25, 2023-24 ve 2022-23 MSD'de aynı soru, aynı beş şık, yalnızca sıraları farklı. 2020-21 MSD'de de cevap **fekal elastaz-1** (öncüller arşivde yok).",
+      "2019-20 MSD bunu kistik fibrozisli hastaya bağladı: ekzokrin pankreas fonksiyonunu değerlendirmek için uygun test **gaitada elastaz** (C). Çeldiriciler gaitada ve kanda alfa-1 antitripsin, kanda orosomukoid ve kanda A, D, E vitamin düzeyleriydi."
+     ],
+     "gerekce": [
+      "**D doğru.** Elastaz-1 yalnızca pankreasın asiner hücrelerinden salgılanan bir proteazdır ve bağırsaktan geçerken neredeyse hiç yıkılmaz. Dışkıdaki miktarı pankreasın salgıladığı enzim miktarını yansıtır. Hasta pankreas enzimi kullanıyor olsa bile sonuç bozulmaz, çünkü ilaçlardaki domuz enzimi testin ölçtüğü insan elastazıyla tepkimeye girmez. Değer 200 µg/g dışkının altındaysa yetmezlik, 100'ün altındaysa ağır yetmezlik vardır (Şekil 3.3).",
+      "Steatokrit ve Sudan III boyası dışkıda yağ bulunduğunu gösterir, ama yağın neden emilmediğini göstermez (C, E). Yağ pankreas yetmezliğinde de, safra eksikliğinde de, mukoza hastalığında da dışkıya geçer. Alfa-1 antitripsin bağırsaktan protein kaybını (A), redüktan madde karbonhidrat malabsorbsiyonunu gösterir (B). Kanda A, D, E vitaminlerinin düşüklüğü yağ malabsorbsiyonunun sonucudur, nedenini ayırmaz. → 3.4"
+     ]
+    },
+    {
+     "no": "3.10",
+     "ids": [
+      "BSD-2023-2024-100",
+      "MSD-2021-2022-76",
+      "BSD-2022-2023-99"
+     ],
+     "kisa": "Kistik fibrozisle ilgili yanlış ifade",
+     "kisa_cevap": "“Dışkıda yağ saptanmaz” (pankreas yetmezliği steatore yapar)",
+     "varyant": "2021-22 MSD ve BSD 2022-23'te aynı soru (BSD'de aynı şıklar, 2021-22'de öncüller arşivde yok). Cevap her seferinde **dışkıda yağ saptanmaz**.",
+     "gerekce": [
+      "**C doğru (yanlış ifade).** Kistik fibroziste CFTR klor kanalı bozuktur. Pankreas kanallarında klor ve bikarbonat salgısı, onunla birlikte su salgısı azalır. Salgı koyulaşır ve kanalları tıkar, asinüsler kendi enzimleriyle yıkılır ve fibroza uğrar. Lipaz bağırsağa ulaşamadığı için yağ sindirilemez ve dışkıya geçer. Bu yüzden dışkıda yağ pozitiftir (steatore): bol, yağlı ve pis kokulu dışkı. Fekal elastaz-1 düşüktür. Hastaların çoğunda pankreas yetmezliği doğumda ya da ilk yıllarda başlar.",
+      "Diğer ifadeler doğrudur. Hastalık otozomal resesiftir (A). Ter testinde klor yüksekliği ve CFTR mutasyon analizi tanı koydurur (B). Malabsorbsiyon, akciğer enfeksiyonlarının artırdığı enerji harcaması ve iştahsızlık gelişme geriliği yapar (D). Tedavide pankreas enzim replasmanı (PERT), yüksek kalorili diyet ve A, D, E, K vitaminleri verilir (E). → 3.4"
+     ]
+    },
+    {
+     "no": "3.11",
+     "ids": [
+      "BSD-2019-2020-100"
+     ],
+     "kisa": "Malabsorbsiyonda temel testler arasında olmayan",
+     "kisa_cevap": "Gaitada H. pylori antijeni",
+     "gerekce": [
+      "**D doğru.** H. pylori midenin enfeksiyonudur ve gastrit, peptik ülser ve mide kanseriyle ilişkilidir. İnce bağırsakta emilimi bozmaz, malabsorbsiyon araştırmasında yeri yoktur. Malabsorbsiyonun birinci basamak dışkı testleri ise her besin grubu için ayrı bir soru sorar (Tablo 3.1). Kantitatif yağ ölçümü yağın (A), pH ve redüktan madde karbonhidratın (C, E) emilip emilmediğini gösterir. Mikroskopi yağ damlacıklarını, sindirilmemiş kas liflerini ve en sık malabsorbsiyon etkeni olan Giardia'nın trofozoitlerini ve kistlerini gösterir (B). → 3.5"
+     ]
+    }
+   ]
+  },
+  {
+   "no": "4",
+   "ad": "Çölyak hastalığı",
+   "kartlar": [
+    {
+     "no": "4.1",
+     "ids": [
+      "MSD-2025-2026-46"
+     ],
+     "kisa": "Çölyak hastalığının temel patogenezi",
+     "kisa_cevap": "Gluten alımından sonra gelişen T hücre aracılı immün yanıt",
+     "gerekce": [
+      "**D doğru.** Çölyak hastalığı, genetik yatkınlığı (HLA-DQ2 ya da DQ8) olan kişide gluten alımıyla tetiklenen, T hücre aracılı, kronik inflamatuvar bir ince bağırsak hastalığıdır. Glutenin alkolde çözünen kısmı olan gliadin, prolin ve glutaminden zengin olduğu için sindirim enzimlerine dirençlidir ve uzun peptitler hâlinde mukozaya ulaşır. Lamina propriada doku transglutaminazı bu peptitleri değiştirir. HLA-DQ2/DQ8 taşıyan antijen sunan hücreler onları CD4+ T hücrelerine sunar ve hasarı başlatan yanıt bu T hücrelerinden çıkar (Şekil 4.1). B hücrelerinin ürettiği antikorlar tanıda kullanılır, ama hasarın asıl nedeni değildir.",
+      "Laktoz intoleransı çölyakın nedeni değil sonucudur, hasarlı mukozada laktaz azalır (A). Hastalık iskemik (B), otozomal resesif bir epitel hastalığı (C) ya da bakteriyel toksinlere karşı bir yanıt (E) değildir. Kalıtımı çok genlidir, en güçlü yatkınlık geni HLA'dır. → 4.1"
+     ]
+    },
+    {
+     "no": "4.2",
+     "ids": [
+      "MSD-2023-2024-66",
+      "MSD-2022-2023-65",
+      "MSD-2021-2022-66",
+      "MSD-2019-64",
+      "BSD-2024-2025-94"
+     ],
+     "kisa": "Çölyakta doku hasarı: CD4+ T hücresi, IFN-γ ve miyofibroblastların metalloproteinazı",
+     "kisa_cevap": "Metalloproteinaz (CD4+ T hücreleri IFN-γ aracılığıyla indükler)",
+     "varyant": [
+      "2022-23 ve 2021-22 MSD'de aynı soru (2021-22'de öncüller arşivde yok). Cevap **metalloproteinaz**.",
+      "2019-20 MSD ve BSD 2024-25 aynı zincirin bir önceki halkasını sordu: çölyakta CD4 pozitif T hücreleri interferon gama aracılığıyla neyi indükler? **Metalloproteaz enzimini**. Çeldiriciler klonal B hücre çoğalması, apoptoz, bakteri çoğalması ve eozinofil infiltrasyonuydu."
+     ],
+     "gerekce": [
+      "**A doğru.** Hasar zinciri şöyle işler (Şekil 4.1). Değiştirilmiş gliadin peptitleri HLA-DQ2/DQ8 ile CD4+ T hücrelerine sunulur. Uyarılan T hücreleri interferon gama (IFN-γ) ve TNF-α salgılar. Bu sitokinler lamina propriadaki miyofibroblastları ve fibroblastları uyarır, bu hücreler de matriks metalloproteinazları salgılar. Enzimler mukozanın hücre dışı matriksini, yani villusları ayakta tutan bağ dokusu iskeletini parçalar. Villuslar kısalır ve düzleşir. Kaybedilen epiteli yerine koymak için kriptler uzar ve hücre üretimini artırır.",
+      "Transglutaminaz (E) zincirin başındaki enzimdir. Gliadini değiştirip immün yanıtı başlatır, ama dokuyu kendisi yıkmaz ve miyofibroblastlardan salgılanmaz. Disakkaridaz (B) fırçamsı kenarın enzimidir ve çölyakta azalır. Lipaz (D) pankreastan gelir. Amidaz (C) bu zincirde yer almaz. → 4.1"
+     ]
+    },
+    {
+     "no": "4.3",
+     "ids": [
+      "MSD-2020-s52"
+     ],
+     "kisa": "Doku transglutaminazının çölyaktaki rolü",
+     "kisa_cevap": "Gliadin peptitlerini immün sistemi uyaran biçime getirir (deamidasyon)",
+     "gerekce": [
+      "Doku transglutaminazı (tTG, TG2) proteinleri birbirine bağlayan ve değiştiren bir enzimdir. Çölyakta lamina propriaya ulaşan gliadin peptitlerindeki glutamini glutamik aside çevirir (deamidasyon). Peptit böylece eksi yük kazanır. HLA-DQ2 ve DQ8'in peptit bağlama cebi eksi yüklü peptitleri sever. Değiştirilmiş gliadini çok daha sıkı bağlar ve CD4+ T hücrelerine güçlü biçimde sunar. Kaynağın ifadesiyle tTG, gliadin gibi immün sistemi uyaran peptitlerin açığa çıkmasını sağlar.",
+      "tTG ayrıca gliadine bağlanıp onunla kompleks oluşturur. Gliadine özgü T hücrelerinin yardımıyla B hücreleri bu kompleksteki tTG'ye karşı da antikor üretir. Anti-tTG IgA bu yüzden bir otoantikordur ve çölyak taramasının ilk testidir (Bölüm 4.2). → 4.1"
+     ]
+    },
+    {
+     "no": "4.4",
+     "ids": [
+      "MSD-2020-s01"
+     ],
+     "kisa": "Çölyak hastalığı tanısına katkısı olan bulgu",
+     "kisa_cevap": "HLA-DQ2/DQ8 taşıyıcılığı",
+     "gerekce": [
+      "Çölyak hastalarının neredeyse tamamı HLA-DQ2 ya da DQ8 taşır, büyük çoğunluğu DQ2, kalanların çoğu DQ8. Testin gücü bu yüzden negatif sonuçtadır: HLA-DQ2 ve DQ8'in ikisi de yoksa çölyak hastalığı pratik olarak dışlanır. Pozitif sonuç tanı koydurmaz. Genel toplumun yaklaşık üçte biri bu genleri taşır ve çoğunda hastalık gelişmez. HLA tiplemesi bu yüzden serolojisi ya da biyopsisi belirsiz kalan hastada ve risk gruplarındaki (birinci derece akrabalar, tip 1 diyabet, Down sendromu) çocuğu izleme alıp almamaya karar verirken kullanılır.",
+      "Tanının temeli seroloji ve duodenum biyopsisidir. Anti-tTG IgA en duyarlı ve özgül testtir. Birlikte total IgA ölçülür, çünkü IgA eksikliğinde anti-tTG IgA yalancı negatif çıkar. → 4.2"
+     ]
+    },
+    {
+     "no": "4.5",
+     "ids": [
+      "BSD-2024-2025-98"
+     ],
+     "kisa": "Ek gıdaya geçişten sonra ishal ve kilo duraklaması olan 13 aylık bebek",
+     "kisa_cevap": "Çölyak hastalığı",
+     "gerekce": [
+      "**D doğru.** Öykünün anahtarı zamanlamadır. Bebek ilk 6 ay yalnızca anne sütüyle normal kilo almış. İshal 6. ayda ek gıdaya, yani glutene başlanınca ortaya çıkmış ve kilo alımı duraksamış. Bu, sunumun “ek gıdalara geçiş döneminde başlayan bulgular çölyak hastalığının işaretidir” cümlesinin kendisidir. Tablo klasik çölyaktır: 6-24 ay, kronik ishal, gelişme geriliği. Önce kilo etkilenmiş (ağırlık SDS -2,03), boy henüz korunmuş (SDS -0,17). Malabsorbsiyonda önce kilo, çok sonra boy etkilenir (Bölüm 3.2). Demir eksikliği anemisi de çölyakta sıktır, çünkü demir duodenumdan emilir ve hasar en çok duodenumdadır.",
+      "Disakkaridaz eksikliğinde (A) dışkı patlayıcı, sulu ve asidiktir, yakınma laktoz ya da sükroz alımıyla ilişkilidir. Protein kaybettiren enteropatide (B) albümin düşer ve ödem gelişir, bu hastanın albümini normaldir. Bağırsak enfeksiyonları (C) akut başlar, ek gıdayla aylarca süren bir ilişki göstermez. Kistik fibroziste (E) yağlı ishal doğumdan itibaren vardır, akciğer bulguları eşlik eder ve ek gıdayla ilişkili değildir. → 4.2"
+     ]
+    },
+    {
+     "no": "4.6",
+     "ids": [
+      "MSD-2025-2026-45",
+      "MSD-2024-65",
+      "MSD-2019-73"
+     ],
+     "kisa": "Çölyak hastalığının histopatolojisi",
+     "kisa_cevap": "Villus kısalması ya da atrofisi, kript hiperplazisi, intraepitelyal lenfosit artışı",
+     "varyant": [
+      "2024-25 MSD üç bulguyu birden sordu: intraepitelyal lenfosit artışı; villuslarda azalma, subtotal atrofi; kriptlerde uzama, hiperplazi ve mitoz artışı. Cevap **I-II-III** (üçü de).",
+      "2019-20 MSD: çölyakta ince bağırsak histolojisinde beklenen bulgu: **villus atrofisi** (A). Çeldiriciler eozinofili, kript absesi, ülserler ve foliküler hiperplaziydi."
+     ],
+     "gerekce": [
+      "**C doğru.** Çölyak hastalığının biyopsi tablosu üç bulgudan oluşur: intraepitelyal lenfosit (İEL) artışı, kript hiperplazisi ve villusların kısalıp düzleşmesi (Şekil 4.2). Normal distal duodenumda villus boyu kript derinliğinin 3-5 katıdır. Hasar ilerledikçe villuslar kısalır, kriptler uzar ve oran 1'in altına düşer. İEL için üst sınır H&E boyamasında 100 enterositte 20, CD3 immünohistokimyasında 100 enterositte 25 lenfosittir.",
+      "Lamina propriada lenfosit ve plazma hücresi artışı (E) çölyakta vardır, ama özgül değildir. Tipik olan, lenfositlerin epitelin içine girmesidir. Eozinofil ağırlıklı infiltrasyon (B) eozinofilik gastroenteriti ve tropikal spruyu, granülomlar (D) Crohn hastalığını, kript absesi inflamatuvar bağırsak hastalığını düşündürür. Mukozada fibrozis ve atrofik bezler (A) kalıcı bir hasarın son evresidir, çölyakın tipik tablosu değildir. → 4.3"
+     ]
+    },
+    {
+     "no": "4.7",
+     "ids": [
+      "MSD-2023-2024-65",
+      "BSD-2019-2020-93"
+     ],
+     "kisa": "Villus hipertrofisi ve kript hiperplazisi nerede görülür?",
+     "kisa_cevap": "Villus hipertrofisi: cerrahi sonrası uyum · kript hiperplazisi: erken evre gluten enteropatisi",
+     "varyant": "BSD 2019-20 aynı havuzdan kript hiperplazisini sordu: ince bağırsaklarda kript hiperplazisi **erken evre gluten enteropatisinde** izlenir (D). Çeldiriciler folik asit yetmezliği, kemoterapi, ileri evre çölyak hastalığı ve B12 vitamini eksikliğiydi.",
+     "gerekce": [
+      "**A doğru.** Mukoza kaybedilen emilim yüzeyini telafi etmeye çalışır. İnce bağırsağın bir kısmı cerrahi olarak çıkarıldığında (rezeksiyon) ya da devre dışı bırakıldığında (bypass), geride kalan bağırsakta villuslar uzar ve kalınlaşır, kriptler derinleşir. Bu uyuma (adaptasyon) bağlı villus hipertrofisi, kısa bağırsak sendromunda emilimin zamanla düzelmesinin nedenidir. Çölyakta ise villuslar uzamaz, kısalır (B).",
+      "Kript, villusa hücre gönderen üretim alanıdır. Kript hasar görürse villus kısalır, uzamaz (C). Radyoterapi, kemoterapi, folik asit ve B12 eksikliği DNA sentezini bozar ve kriptleri küçültür (kript hipoplazisi), villuslar da kısalır (D, E). Kript hiperplazisi ise tersine, villustaki hücre kaybına karşı kriptin üretimi artırmasıdır. Çölyakta erken evrede (Marsh 2), villuslar henüz korunmuşken görülür. En ileri evrede (Marsh 4) kriptler de tükenir ve hipoplastik olur. → 4.3"
+     ]
+    },
+    {
+     "no": "4.8",
+     "ids": [
+      "MSD-2018-2019-64",
+      "MSD-2021-2022-65"
+     ],
+     "kisa": "Tropikal spru",
+     "kisa_cevap": "Histopatolojik bulgu verir; antibiyotik tedavisinden sonra bulgular düzelir",
+     "cevap": "**Kaynak notu:** B ifadesi (“spesifik bir etkeni yoktur”) aslında tartışmalıdır. Tropikal spruda tek bir etken gösterilmemiştir. Hastalığın bakteriyel bir enfeksiyon ya da ince bağırsakta bakteri çoğalması olduğu düşünülür, antibiyotiğe yanıt da bunu destekler. Ders tropikal spruyu enfeksiyon kaynaklı bir malabsorbsiyon olarak ele aldığı için B yanlış sayıldı. Anahtar A'dır.",
+     "varyant": "2021-22 MSD: doğru ifade: **antibiyotik tedavisi sonrasında histopatolojik bulgular düzelir** (öncüller arşivde yok). Bu, 2018-19 sorusundaki E şıkkının tersidir.",
+     "gerekce": [
+      "**A doğru.** Tropikal spru, tropik bölgelerde yaşayan ya da oraya uzun süre giden kişilerde görülen, kronik ishal ve malabsorbsiyonla seyreden bir mukoza hastalığıdır. Biyopside çölyakı andıran bir tablo görülür: intraepitelyal lenfosit artışı ve villus kısalması. Fark ayrıntıdadır. Villuslar kısmen korunur, lamina propriada eozinofiller çölyaktan daha belirgindir ve hasar ileumu da tutar. Mukoza hasarlandığı için malabsorbsiyon intralüminal değil, mukozal evrededir (C).",
+      "Hastalık çölyakın tropik bölgelerdeki adı değildir (D). Çölyak serolojisi negatiftir ve glutensiz diyete yanıt yoktur. Buna karşılık oral folat ve antibiyotiğe (tetrasiklin) hızlı yanıt verir ve tedaviden sonra histopatolojik bulgular düzelir (E yanlış, 2021-22'nin cevabı). → 4.4"
+     ]
+    },
+    {
+     "no": "4.9",
+     "ids": [
+      "BSD-2023-2024-94",
+      "BSD-2022-2023-93"
+     ],
+     "kisa": "Refrakter çölyak hastalığı",
+     "kisa_cevap": "On iki ay glutensiz diyete rağmen yanıt vermeyen hastalar",
+     "varyant": "BSD 2022-23'te aynı soru, aynı şıklar. Cevap yine **C**.",
+     "gerekce": [
+      "**C doğru.** Refrakter çölyak hastalığında hasta en az 12 ay sıkı glutensiz diyete uyduğu hâlde malabsorbsiyon belirtileri ve villus atrofisi sürer. Bu tanıyı koymadan önce yanıtsızlığın en sık nedeni dışlanmalıdır: diyete gizli gluten girmesi. Ardından laktoz intoleransı, ince bağırsakta bakteri çoğalması ve mikroskobik kolit gibi eşlik eden durumlar aranır. Refrakter çölyakın bir tipinde intraepitelyal lenfositler anormal, klonal bir topluluğa dönüşür ve enteropatiyle ilişkili T hücreli lenfomaya ilerleyebilir. Ayrımın önemi buradan gelir.",
+      "Antigliadin antikorunun pozitif olması (A) refrakter hastalığın tanımı değildir, üstelik antikorlar diyete uyan hastada düşer. Glutensiz diyetle tedavi edilip iyileşen hasta (B) yanıt veren, yani refrakter olmayan hastadır. Refrakter hastalık yaşla (D) ya da bulguların geç ortaya çıkmasıyla (E) değil, tedaviye yanıtsızlıkla tanımlanır. → 4.4"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,810 @@
+=== Sayfa 1 ===
+GLOMERÜLER HASTALIKLAR
+
+              Dr. Mevlüt Çeri
+                Nefroloji B.D
+=== Sayfa 2 ===
+                              Kavramlar/Terimler
+
+•   Glomerülonefrit: Glomerül yumağının içinde inflamasyona yol açan herhangi bir
+    durum
+
+•   Glomerüloskleroz: Kapiller yumağın segmental veya global olarak kollapsı olup
+    kollapsa uğrayan kapiller lümeni artık kapalıdır
+
+•   Membranöz: Glomerül kapiller duvarının kalınlaşması
+
+•   Proliferatif: Glomerül içinde hücre sayısının artmasıdır. Glomerüle ait hücrelerin
+    çoğalmasına yada dolaşımdaki inflamasyon hücrelerinin glomerülü infiltre etmesi
+
+•   Membranoproliferatif: Hem membranöz hem de proliferatif değişikliklerin birlikte
+    bulunması
+=== Sayfa 3 ===
+                               Kavramlar/Terimler
+
+•   Remisyon: Hastalık belirtilerinin kaybolması
+
+          Tam remisyon: Proteinüri < 200-300 mg/gün
+          Kısmi remisyon: Proteinürinin %50 den fazla azalması veya < 3.5 g/gün
+
+•   Relaps: Hastalık belirtilerinin yeniden ortaya çıkması
+•   Kür: Hastalığın tamamen ortadan kalkması
+=== Sayfa 4 ===
+                        Glomerülün Yapısı
+
+•   Afferent ve efferent arterden oluşan kapiller yatak
+•   Mezengial matrix ve mezengial hücreler
+•   Endotel
+•   Glomerüler basement membran
+=== Sayfa 5 ===
+Filtrasyon Membranı
+            1. Fenestrated Endothelium
+            2. Lamina Rara Interna
+            3. Lamina Rara Densa
+            4. Lamina Rara Externa
+            5. Podocyte Slit membrane
+  Capillary Lumen
+=== Sayfa 6 ===
+Filtrasyon Membranı
+=== Sayfa 7 ===
+=== Sayfa 8 ===
+                    Filtrasyon Membranı
+
+Net glomerül filtrasyon P= Glomerül filtrasyon P – Intratübüler P
+NFP = (P GC –  GC ) – (P BC –  BC ) ~ 10 mmHg
+
+                                         10 mmHg
+
+                                         45mmHg
+
+                                         25 mmHg
+=== Sayfa 9 ===
+                                   PROTEİNÜRİ MEKANİZMALARI
+
+                              Normal glomerüllerde protein kaçışının
+                              önlenmesinde molekülün büyüklüğü ve
+                              elektriksel yükü önem kazanır.
+
+SİZE-SELEKTİVİTE                    CHARGE-SELEKTİVİTE
+
+Endotelyal hücrelerdeki            Heparan sülfat proteoglikanlar
+fenestralar
+                                   Endotelyal hücreler ve GBM’da
+GBM’daki porlar                    negatif yük(sialoproteinler)
+
+Epitelyal hücre ayaksı             Anyonik proteinlerin (albümin)
+çıkıntıları (slit diyafram)        filtrasyonunun engellenmesi
+=== Sayfa 10 ===
+                  Protein Atılımı: Normaller
+
+   ERİŞKİNLER                       ÇOCUK ve
+                                  ADÖLESANLAR
+            ≤150 mg/gün
+                                         ≤40 mg/m2/gün
+
+Fonksiyonel proteinüri
+ Ateş
+ Egzersiz
+ Konjestif kalp yetmezliği      NON-NEFROTİK DÜZEYDE
+                                 PROTEİN ATILIMI
+ Albümin infüzyonu
+                                 GEÇİCİ OLARAK ARTTIĞI
+ Vazopressor ajanlar (ANG II,   DURUMLAR
+  norepinefrin)
+=== Sayfa 11 ===
+                              Proteinüri
+
+•   Fizyolojik proteinüri erişkinlerde ≤150 mg/gün
+    – 20-30 mg albumin
+    – 10-20 mg düşük molekül ağırlıklı proteinler
+    – 40-60 mg Tamm-Horsfall proteini (Henle kulpu çıkan kalın kolda
+      sentezlenir) ve diğerleri
+• Mikroalbuminüri
+    – 30-300 mg/gün
+    – 20-200 µg/dk
+=== Sayfa 12 ===
+ Proteinüriyi saptama yöntemleri
+
+SEMİ-KANTİTATİF YÖNTEMLER
+
+       Dipstick
+
+       Sülfosalisilik asit
+
+KANTİTATİF YÖNTEMLER
+
+       24 saatlik idrar örneğinde total protein
+
+       Spot idrar örneğinde protein/kreatinin oranı
+=== Sayfa 13 ===
+           Proteinüri Saptama Yöntemleri
+                           • Yalancı negatif
+• İdrar tetkik çubuğu
+  kullanılarak;                -Dilüe idrar
+   – Negatif                   -Düşük molekül ağırlıklı
+   – Eser—15 - 30 mg/dL         proteinlerin varlığı
+   – 1+ —30 -100 mg/dL     •    Yalancı pozitif
+   – 2+ —100 -300 mg/dL        -Alkali idrar
+   – 3+ —300 -1000 mg/dL       -Konsantre idrar
+   – 4+ — >1000 mg/dL          -Semen veya vajinal sıvı varlığı
+                               -Gross hematüri
+                               -Penisilin, sülfonamid
+                               -Kontrast madde
+=== Sayfa 14 ===
+• Mikroalbuminiriye sensitif değildir. Sensitif olduğu
+  proteinüri dereceleri hasarın geç bulgularını yansıtır.
+
+• Bu nedenle mikroalbuminüriyi değerlendiren stickler
+  ortaya çıkarılmıştır.
+          * Clinitec microalbumin dipstick
+          * Micral-test II stripler
+=== Sayfa 15 ===
+   • Spot idrar protein/kreatinin oranı: N’de 0.1
+   (oran 1 ise proteinüri 1 g/gün, 2 ise 2g/gün, 3.5’in
+üzerinde ise 3.5g/gün üzerindedir.
+
+   • Proteinüri Selektivitesi: IgG/transferrin klirensi
+   <0.15: selektif proteinüri (elektriksel yük bariyeri
+bozuk)…MDH
+   >0.2: non-selektif proteinüri (proliferatif GN)
+=== Sayfa 16 ===
+                              Patogenez
+
+•   İmmün glomerüler hasarı başlatan olay halen net olarak
+    anlaşılamamıştır.
+
+•   GN’lerin çoğu immün disregülasyonun sonucu olarak gelişir.
+
+ Tolerans eksikliğine bağlı olarak self antijenlere uygunsuz immün
+  yanıtın gelişmesi (otoimmünite)
+ Yabancı antijenlere karşı oluşan immün yanıtın bir sonucu olarak
+=== Sayfa 17 ===
+                             Patogenez
+
+• Nefritojenik immün yanıtta hem hücresel hem de humoral
+  komponent rol alır;
+
+• Humoral immün yanıttan immün depozitler ve kompleman
+  aktivasyonu sorumludur.
+
+• Hücresel immün yanıt ise sirkülasyondaki mononükleer iltihabi
+  hücrelerle glomerül infiltrasyonu ve kresent oluşumunda rol alır.
+=== Sayfa 18 ===
+                              Patogenez
+
+• Humoral yanıtı başlatan antijen;
+
+    Glomerül içinde olabileceği gibi (anti-GBM antikor hastalığı) yada,
+
+    Glomerülde lokalize olmayan Ag (SLE’de olduğu gibi antijenlerin
+    pasif olarak tutulması) olabilir.
+=== Sayfa 19 ===
+                                           Patogenez
+
+•   Normalde dolaşımda bulunan Ag-Ab-kompleman kompleksi eritrosit üzerindeki
+    C3b reseptörü ile bağlanabilir.Böylece eritrositlerin dalak ve karaciğerden geçişi
+    esnasında dolaşımdan uzaklaştırılır.
+
+•   Antijenemi sürekli olduğunda ya da immün kompleks bağlanması defektif
+    olduğunda immün kompleksler;
+
+     Glomerüler mezengiumda Fc reseptörlerine bağlanır
+     Mezengium ya da subendotelyal aralıkta pasif difüzyonla birikir
+          •   APSGN
+          •   IgA nefropatisi
+          •   Anti-GBM antikor hastalığı
+          •   Lupus nefriti
+          •   Tip1 MPGN
+=== Sayfa 20 ===
+    Kompleman sistemi;
+
+•    Inflamasyonun ilerlemesine ve hücresel hasara neden olan protein
+     kaskatının çoğaltılmasına yardımcı olur.
+
+•    İster klasik isterse de alternatif yolla aktive edilmiş olsun C3’ün
+     ayrışmasını ve bu yolla MAC’ın aktive olmasını sağlar.
+=== Sayfa 21 ===
+=== Sayfa 22 ===
+Klasik yol;
+
+• İmmün komplekslerin komplemanın C1q kısmına bağlanması ile
+  aktive edilir.
+  Antikor Fc kısmı-C1q
+    MPGN tip1
+    Diffüz proliferatif lupus nefriti
+    Kryoglobunemi
+
+• Bu patolojilerde C3 ve C4 genelde düşüktür.
+=== Sayfa 23 ===
+Alternatif yol;
+
+• Aktive olmak için immün komplekslere ihtiyaç duymaz.
+• Bakteriyel polisakkarit Ag, polimerik IgA, hasarlanmış hücreler ve
+  endotoksinlerce aktive edilebilinir.
+     C3 glomerulopati
+     Poststreptokoksik GN
+• Genelde serum C3 azalmış, C4 normaldir.
+=== Sayfa 24 ===
+=== Sayfa 25 ===
+    HÜCRESEL İMMÜNİTE
+
+•   Hastalığın nedeni olarak Ag-Ab birikiminin gösterilemediği
+    hastalarda mononükleer hücreler, lenfosit ve makrofajların primer rol
+    oynadığına yönelik güçlü kanıtlar mevcuttur.
+
+•   Ancak humoral süreçlerde olduğu kadar net olarak T hücre aracılı
+    süreç aydınlatılmamıştır.
+
+ Hücresel immünitenin patogenezde ana rol aldığı grup:
+• Minimal change hastalığı
+• Fokal segmental glomerüloskleroz
+• ANCA pozitif GN’ler
+=== Sayfa 26 ===
+=== Sayfa 27 ===
+                       Nefrotik Sendrom
+
+•   >3.5 gr/gün proteinüri olması veya plazma albumin düzeyini <3.5
+    gr/dL altına düşüren düzeyde proteinüri
+
+•   Diğer tüm belirti ve bulgular KOMPLİKASYONDUR, tanım içine
+    sokulmamalıdır.
+=== Sayfa 28 ===
+Nefrotik Sendrom Ödem: Mekanizma
+=== Sayfa 29 ===
+                              Klinik
+
+Belirtiler                        Bulgular
+
+•   Halsizlik                     •    Solukluk
+•   Kırmızı idrar                 •    Bifissür ödem
+•   Göz kapaklarında şişlik       •    Pretibiyal ödem (kolay gode bırakır)
+•   Bacaklarda şişlik             •    Anazarka tarzı ödem
+                                  •    Makroskobik hematüri
+                                  •    Altta yatan hastalığa ait bulgular
+=== Sayfa 30 ===
+                Nefrotik Sendrom: laboratuvar
+
+   Serum kreatinin ve GFH genelde N      Protein Elektroforezi
+                                                  Albümin 
+   T. Protein                                   Alfa1 globülin , N
+   Albümin                                      Alfa2 globülin 
+                                                  Beta globülin , N
+   T. Kolesterol                                Gamma globülin 
+
+   Trigliserid                       İmmun belirteçler:
+   VLDL-kolesterol                    ANA, ANCA, Ig’ler,
+                                         komplemanlar….
+   LDL-kolestrol 
+                                        İdrar incelemesi: Değişken
+   HDL-kolesterol N, , 
+   sT3 N-, sT4 N
+   TSH N, Vit D , hipokalsemi
+=== Sayfa 31 ===
+                 Nefrotik Sendrom: komplikasyon
+
+HİPERLİPİDEMİ
+T.Kolesterol, LDL ve TG artışı
+    Plazma onkotik basıncında azalma ve periferik katabolizma bozukluğuna
+    bağlı olarak;
+•   KC’de lipoprotein yapımı artmıştır.
+•   TG’den zengin lipoprotein katabolizması azalmıştır.
+•   LDL reseptör aracılı klirens azalmıştır.
+=== Sayfa 32 ===
+                 Nefrotik Sendrom: komplikasyon
+
+HEMOSTAZ ANORMALLİKLERİ
+• Tromboembolik komplikasyonlara eğilim artmıştır (arteriyel ve venöz
+  sistemde); renal ven trombozu, DVT, pulmoner emboli…
+• RVT en sık görüldüğü membranöz glomerulonefrit
+• Serum albümin düzeyi 2-2.5 altında risk yüksek
+• Koagülasyon ve fibrinolitik sistemle ilgili faktörler sorumlu;
+ F10, 11, 12, plazminojen, ATIII, protein C ve S azalmış,
+ F2, 5, 7, 8, 12, fibrinojen, tromb agg artmış ve hemokonsantrasyon mevcuttur.
+=== Sayfa 33 ===
+               Nefrotik Sendrom: komplikasyon
+
+İNFEKSİYONA EĞİLİM
+
+Hümoral cevap bozulmuştur ve kapsüllü bakterilerin opsonizasyonu
+yetersizdir.
+  (hipogamaglobulinemi, alternatif yoldan kompleman aktivasyonun
+bozulması)
+
+Hücresel İmmnünitede bozulma; pulmoner, menengial, peritoneal infeksiyon
+sıklığı artmıştır (özellikle çocuklarda asitte spontan bakteriyel peritonit)
+=== Sayfa 34 ===
+Glomerüler hastalıklarda klinik başvuru şekilleri;
+=== Sayfa 35 ===
+=== Sayfa 36 ===
+                                               SLE
+
+                                                     Ig A Nefropatisi
+
+                 Minimal Değ.                                            Anti-GBM
+                 Hastalığı                                               Hastalığı
+
+NEFROTİK                                                                             NEFRİTİK
+                                Diabetik
+Mekanizma            FSGS       Nefropati                               Vaskülit     Mekanizma
+                        Membranöz       MPGN
+                                                     Post-streptokoksik GN
+Podosit hasarı          GP                                                           İnflamasyon
+                                                                                     Proliferasyon
+                                                                                     GBM’da
+                                                                                     kırılmalar
+                                                                                     Kresent oluşumu
+
+                                                                    Hematüri
+
+                      Proteinüri
+=== Sayfa 37 ===
+     Nefrotik sendrom ve glomerüler hastalıklarda tedavi
+                         prensipleri
+
+•   Altta yatan nedene yönelik tedavi
+•   Glomerüler hastalığa spesifik tedavi
+•   Ödemin tedavisi (sodyum kısıtlaması, diüretik)
+•   Proteinüri tedavisi (ACEİ, ARB (intraglomerüler basıncın azaltılması), kan
+    basıncı 140/90 altına indirilmesi, diyette protein kısıtlaması 0.6-0.8
+    g/kg/gün)
+•   Hiperlipideminin kontrolü (HMGCoA redüktaz inhbitörleri, gemfibrozil)
+•   Hiperkoagülabilitenin kontrolü: (özellikle trombotik hadise öyküsü mevcut
+    veya riski yüksek ise) antikoagülasyon
+=== Sayfa 38 ===
+Nefrotik Sendrom
+
+   PRİMER
+
+ SEKONDER
+=== Sayfa 39 ===
+            Sekonder nefrotik sendrom nedenleri
+
+    İNFEKSİYONLAR                         MALİGNİTELER
+   Bakteriyel                           Soliter
+      Streptokok, stafilokok, tbc,         Akciğer, kolon, mide, meme,
+        sfiliz, lepra                          böbrek, serviks, over, prostat,
+   Viral                                      pankreas
+      Hepatit B ve C, CMV,              Lenfoproliferatif
+        Epstein-Barr, HIV                   Lösemi, lenfoma, multipl
+   Helmintik                                myelom
+      Şistosomiazis, filariazis
+   Protozoal
+      Malarya, toksoplazmozis
+=== Sayfa 40 ===
+             Sekonder nefrotik sendrom nedenleri
+
+    SİSTEMİK HASTALIKLAR              HEREDİTER HASTALIKLAR
+   Diyabetes mellitus (en sık)      Alport sendromu
+   Amiloidozis                      Fabry hastalığı
+   SLE                              Nail-patella sendromu
+   Vaskülitler                      Orak hücreli anemi
+   Kriyoglobülinemi                 Konjenital nefrotik sendrom
+   Dermatomiyozit                   1-antitripsin eksikliği
+   Sarkoidoz
+   Miksödem
+=== Sayfa 41 ===
+           Sekonder nefrotik sendrom nedenleri
+
+    İLAÇLAR                         ALLERJENLER
+   Penisilamin, probenesid        Yılan ve böcek sokması
+   Parametadion, trimetadion      Polenler
+   Kaptopril, NSAİ ilaçlar        Aşı ve serumlar
+   Organik altın, eroin
+   Bizmut, civa
+=== Sayfa 42 ===
+                    PRİMER GLOMERÜLER HASTALIKLAR
+
+•   Bilinen sistemik hastalık veya etken (multisistem, heredofamilyal, metabolik
+    hastalıklar, infeksiyonlar veya ilaçlar gibi) olmaksızın, yalnız veya ağırlıklı
+    olarak glomerüllerin tutulduğu hastalıklardır.
+=== Sayfa 43 ===
+                    Minimal Değişiklik Hastalığı
+
+İDİYOPATİK                                    HİSTOPATOLOJİ
+SEKONDER NEDENLER                   IM:       Normal veya minimal
+                                              değişiklikler
+   Hodgkin hastalığı
+   Lösemi                          IF:       İmmün depolanma yok
+                                              veya mesengial bölgede
+   NSAI ilaçlar, altın                   minimal
+   Lityum, interferon              EM:       Epitelyal hücre ayaksı
+   Viral ve parazitik inf.                   çıkıntılarında füzyon
+ Allerjik olaylar (besin, polen,
+    arı sokması)
+=== Sayfa 44 ===
+                       Minimal Değişiklik Hastalığı
+
+                                                             PROGNOZ
+•   Çocuklukta NS’ın en sık nedeni
+•   Temel klinik özellik yaygın ödem
+•   Proteinüri masif olabilir                                      İYİ
+•   Genelde HT ve hematüri olmaz
+•   Böbrek fonksiyon bozukluğu özellikle çocuklarda sık değil
+•   Çocukta genelde steroid ile tam remisyon, 8 hft sonra yanıt yok ise bx
+    yapılmalı, yetişkinde ilk etapta bx
+•   Tedavi: kortikosteroid (1 mg/kg/gün, max 80 mg), sık relaps veya steroide
+    direnç varsa diğer immünsupresifler (siklofosfamid, siklosporin, AZA, MMF
+    gibi)
+•   Tdv’ye cevapsızlıkta ise altta FSGS tipi bir histopatolojik lezyonun olmadığı
+    ekarte edilmelidir.
+=== Sayfa 45 ===
+                     Fokal Segmental Glomeruloskleroz
+
+•   Karakteristik sklerotik lezyonlar glomerüllerin ancak bir kısmında (fokal),
+    tutulan glomerüllerin ancak belli bir segmentinde (segmental) görülür.
+
+•   Erişkinlerde NS’un %20’sinden sorumlu, genç erişkinlerde sık
+
+•   MDH’ın daha ağır bir formu olarak görülebilir(EM ayaksı uzantılarda füzyon)
+=== Sayfa 46 ===
+     FSGS hastalık değil histopatolojik bir lezyondur
+
+                                             İlerlemiş FSGS, glomerulun üst
+Normal glomerul         Hafif düzeyde FSGS
+                                             kısmında segmental skleroz ile
+                                             birlikte kapiller kollaps
+=== Sayfa 47 ===
+                                                Patogenez
+
+•   Son yıllardaki çalışmalar FSGS nin bir podosit
+    hastalığı olduğunu göstermiştir.
+
+•   Primer FSGS hastalarının çoğunda glomerüler
+    hücre hasarının dolaşımdaki bir faktöre bağlı olduğu
+    düşünülmektedir.
+
+•   Permeabilite artırıcı olarak çeşitli faktörler
+    suçlanmaktadır [Hemopeksin, vasküler endotelyal
+    büyüme faktörü, Kardiyotropin benzeri sitokin-1,
+    soluble urokinase plasminogen activator receptor
+    (suPAR) ]
+
+•   FSGS’nin çeşitli genetik formları mevcuttur..
+
+                                                           HİSTOPATOLOJİ
+
+                                                           IM:   Glomerüllerin % 50’sinden azında
+                                                                 segmental skleroz
+
+                                                           IF:   Düzensiz IgM ve C3       birikimi
+=== Sayfa 48 ===
+                                                               Sınıflama
+
+Causes of Focal Segmental Glomerulosclerosis.
+
+Type of Disease                Cause
+Primary (idiopathic) form      Specific cause unknown; mediated by circulating permeability factors
+Secondary forms
+    Familial or genetic      Mutations in specific podocyte genes*
+    Virus-associated        Human immunodeficiency virus type 1, parvovirus B19, simian virus 40, cytomegalovirus, Epstein–Barr virus
+    Drug-induced              Heroin; interferons alfa, beta, and gamma; lithium; pamidronate; sirolimus; calcineurin-inhibitor
+                               nephrotoxicity; anabolic steroids
+    Adaptive                  Conditions with reduced renal mass: oligomeganephronia, very low birth weight, unilateral renal agenesis,
+                               renal dysplasia, reflux nephropathy, sequela to cortical necrosis, surgical renal ablation, renal allograft, aging
+                               kidney, any advanced renal disease with reduced functioning nephrons
+                            Conditions with initially normal renal mass: systemic hypertension, acute or chronic vaso-occlusive processes
+                               (atheroembolization, thrombotic microangiopathy, renal-artery stenosis), elevated body-mass index (obesity,
+                               increased lean body mass [e.g., bodybuilding]), cyanotic congenital heart disease, sickle cell anemia
+
+                                                                                                Vivette D, et al. N Engl J Med 2011:365; 2398-2410
+=== Sayfa 49 ===
+                                     Klinik
+                                                                        100
+                                                                                                  Non-nefrotik
+
+                                                    Renal sağ kalım %
+                                                                        80
+
+                                                                        60
+                                                                                                                 Nefrotik
+                                                                        40
+
+                                                                        20
+                                                                                                   Proteinüri≥14 g/gün
+                                                                         0
+•   Biyopsi anında yada başvuru sırasında;                                    1   2   3   4   5     6     7       8     9    10   11 12
+                                                                                                        Yıllar
+
+      Nefrotik düzeyde proteinüri %60-75
+      Mikroskobik hematüri ve değişen derecede proteinüri %30-50
+      Hipertansiyon %45-65
+      Böbrek yetmezliği %25-50
+
+•   NS hastalar arasında spontan komplet remisyon oranı bilinmemektedir, muhtamelen
+    <%10
+•   Nefrotik hastaların %50’si 5-10 yıl içinde son dönem böbrek yetmezliği gelişir.
+•   Ciddi NS (>10-15 gr proteinüri), HT, AIDS varlığında prognoz kötü
+
+                                                                                                                      UpToDate 2015
+=== Sayfa 50 ===
+                FSGS tedavisinde kullanılan ajanlar
+
+İmmunsüpresif tedavi              İmmunsüpresif olmayan tedavi
+
+• Glukokortikoidler               • RAS blokajı
+• Kalsinörin inhibitörleri        • Lipid düşürücü ajanlar
+• Mikofenolat mofetil             • Kan basıncı kontrolü
+• Sitotoksik ilaçlar              • Tuz kısıtlaması
+• Sirolimus                       • Fiziksel aktivite
+• Rituximab                       • Sigara bırakılması
+• Adrenokortikotropik hormon      • İdeal kilonun sağlanması
+• Plazmaferez
+=== Sayfa 51 ===
+              Transplantasyon sonrası FSGS
+
+•   FSGS’ye bağlı SDBY gelişen hastaların yaklaşık %30’nda Tx
+    sonrası FSGS tekrarlamaktadır.
+Riskli hastalar
+    – Genç hastalar
+    – Primer hastalığı hızlı ilerleyenler
+    – Önceki allograftta rekürrens olanlar
+=== Sayfa 52 ===
+                     Membranöz Glomerulonefrit
+
+ Erişkinlerde sık                   Şiddetli proteinüri
+ Pik insidans 40-50 yaş             % 10-20 selektif
+ % 80-90 nefrotik sendrom                 Mikroskobik hematüri
+ % 10-20 non-nefrotik proteinüri             % 30-50
+
+ Hipertansiyon seyrek
+                                     Makroskobik hematüri nadir
+ GFH normal veya hafif azalmış
+                                     Kompleman düzeyi normal
+ Trombotik olaylar sık
+=== Sayfa 53 ===
+=== Sayfa 54 ===
+                  Membranöz Glomerulonefrit
+
+İDİYOPATİK
+                                        HİSTOPATOLOJİ
+SEKONDER NEDENLER
+ Maligniteler                   IM:    GBM’da diffüz
+ SLE
+                                        kalınlaşma
+
+ Hepatit B, C                   IF:    GBM boyunca
+ Altın, NSAİD,                         granüler tarzda IgG
+                                        ve C3 birikimi
+D-penisilamin
+=== Sayfa 55 ===
+                      Membranöz Glomerulonefrit
+
+•   Aşikar NS
+•   Erken dönemde KB, GFR, idrar sedimenti N
+•   Geç dönemde HT, böbrek fonksiyon bozukluğu
+•   Antifosfolipaz A2 reseptör Antikor(anti-PLA2R)!!!
+•   NS’ın infeksiyöz ve trombotik komplikasyonları(RVT) sık
+•   İleri yaş, erkek cinsiyet, masif proteinüri, kontrolsüz HT, GFR
+    düşüklüğü, tübüler atrofi ve fibrozis kötü prognoz işaretleridir
+=== Sayfa 56 ===
+                   Membranöz Glomerulonefrit
+
+•   Konservatif yaklaşım
+    -Yüksek spontan remisyon oranları
+    -İmmunsupresiflere bağlı toksisite
+    -Neoplazm gibi sekonder sorunların geç teşhisi
+
+•   İmmunosupresif tdv (steroid+klorambusil veya siklofosfamid-
+    ponticelli rejimi, siklosporin,MMF, rituksimab),sık nüks nedeniyle
+    steroid monoterapisi önerilmez.
+
+•   Serum kreatinin> 4 mg/dl ise immunosupresif tedavi yararı yok
+=== Sayfa 57 ===
+Membranoproliferatif GlomerÜlonefrit (MPGN)
+=== Sayfa 58 ===
+MPGN
+=== Sayfa 59 ===
+MPGN
+=== Sayfa 60 ===
+                                        MPGN
+
+ Çocuk ve genç erişkin
+% 10-15
+ Nefrotik sendrom (% 40-70)
+ Akut nefritik sendrom (%20-30)
+ Rutin idrar analizinde asemptomatik
+  proteinüri ve hematüri (% 20-30)
+ Tekrarlayan gross hematüri atakları
+  (%10-20)
+=== Sayfa 61 ===
+C3 Glomerülopati-Klinik
+=== Sayfa 62 ===
+MPGN’nin tipik histopatolojik bulguları
+
+1.Endotelyal ve mezangial hücre proliferasyonu
+2. Mezangial matriksde artış
+3. GBM’de kalınlaşma ve çift kontur
+4. Glomerüler yumakda lobulasyon
+5. Lökosit infiltrasyonu
+=== Sayfa 63 ===
+=== Sayfa 64 ===
+MPGN-Tedavi
+=== Sayfa 65 ===
+MPGN-Tedavi
+=== Sayfa 66 ===
+=== Sayfa 67 ===
+            IgA Nefriti(Berger hastalığı)
+
+• 1968’de Berger ve Hinglais tarafından tanımlanmıştır
+
+• Difüz mezangial IgA birikimi ile karakterize
+  mezengioproliferatif glomerülonefrit
+        Ancak popülasyonun %3-16’de IgA birikimi mevcut
+       (latent IgA nefriti?)
+
+•   Dünyanın en gelişmiş ülkelerinde en yaygın primer GN
+
+• Asemptomatik hematüri                 RPGN
+=== Sayfa 68 ===
+                          Epidemiyoloji
+•   20-30 yaş en sık
+•   E/K:2/1(Batı Avrupa-Kuzey Amerika), Doğu Asya ve Kafkaslarda en sık
+    (E=K)
+•   Genel populasyon prevelans 25-50/100.000
+•   Prevelans değişikliği böbrek hastalığı ve böbrek bx uygulamasının bölgesel
+    farklılıktan olabilir
+=== Sayfa 69 ===
+                       Patogenez
+
+ Patogenezdeki asıl ​olay, ağırlıklı olarak polimerik zayıf
+  galaktosillenmiş IgA1 olan IgA'nın mezanjiyal
+  birikmesidir.
+=== Sayfa 70 ===
+                                   Patoloji
+•   IFM’de baskın mezanjial polimerik IgA1 birikimi patognomonik bulgudur
+
+•   1/3 hastada görülen subendotelyal kapiller duvarda IgA depozitleri daha
+    yüksek histolojik aktivite(artmış mezanjiyal ve endokapiller hiperselülerite)
+    ve daha kötü böbrek sonuçları ile ilişkilidir
+
+•   İleri dönem hastalıkta glomerüloskleroz,tübüler inflamasyon-atrofi,
+    interstisyel fibrozis
+=== Sayfa 71 ===
+=== Sayfa 72 ===
+                               Klinik bulgular
+•   Hastalığa özel bulgu yok !!!!!!!
+
+•   Tekrarlayan makroskopik hematüri %40-50
+          Kahvererengi, pıhtısız, ödeme bağlı yan ağrısı
+
+•   Asemptomatik hematüri, proteinüri %30 -40
+           Prtüri < 2 gr/gün
+           Takibinde %20-25’inde
+            gross hematüri
+
+•   ABY < %10
+          Kresentik IgANP
+          Hematüriye bağlı obstrüksiyon
+          Diğer ABY
+
+•   Kronik böbrek yetmezliği
+•   Nadiren malign HT
+•   Ailesel IgA nefropati(%10-15-OD)
+=== Sayfa 73 ===
+   Biyopsi yapmadan tanı mümkün mü?
+
+• Bulgular son derece non spesifik olduğu için mutlaka
+  renal biyopsi gerekir
+
+• Hematüri + persistan >500 mg/gün proteinüri, yeni HT
+  gelişimi yada KB yükselme(100-130/60-80 mmHg iken)
+  şiddetli yada ilerleyici hastalık düşündürür
+
+                  Renal Biyopsi
+=== Sayfa 74 ===
+          Prognostik faktörler - Klinik
+
+• Hipertansiyon varlığı ya da kontrol altında tutulamayan
+  kan basıncı
+• Tanı anında kreatinin yüksekliği
+• 6 aydan uzun süre ile devam eden mikroskopik hematüri
+• 6 aydan uzun süre ile devam eden persistan proteinüri
+  (>500 mg/g)
+• Hiperürisemi
+• İleri yaş
+• Obesite
+=== Sayfa 75 ===
+    Prognostik faktörler - Histopatolojik
+
+• Glomerüler skleroz varlığı    • İyi prognoz kriteri
+                                    Reküren makroskopik
+• Interstisyel fibroz varlığı         hematüri
+                                •   Etkisiz faktörler
+• Tübüler atrofi                     Cinsiyet
+                                     Kan IgA düzeyi
+                                     IgA birikiminin şiddeti
+• Kresent varlığı
+=== Sayfa 76 ===
+                                  Tedavi
+•   İzole hematüri, hiç veya minimal proteinüri (<500 mg/gün) ve normal GFR
+    olanlarda genelde tedavi ve biyopsi gerekmez. İlerleyici hastalık açısından
+    6 ay aralıklarla izlenmelidir
+
+•   Kalıcı proteinüri ( >500 mg/gün), hızlı azalmayan normal veya sadece
+    hafifçe azalmış GFR ve hafif-orta şiddette histolojik bulgular olan hastalar
+    başlangıçta immünosüpresif olmayan tedavilerle yönetilir
+
+•   Daha ciddi veya hızlı ilerleyen hastalığı olanlarda (Üç ila altı aylık ACE
+    inhibitörü / ARB tedavisine rağmen artmakta olan proteinüri yada nefrotik
+    proteinüri, artan serum kreatinin ve / veya daha şiddetli histolojik bulgular)
+    hastalığın ilerlemesini yavaşlatmak için immünosüpresif tedavi gereklidir
+=== Sayfa 77 ===
+               Nonimmünsüpresif tedavi
+
+•   ACE inh/ARB ile KB kontrolü
+      (Hedef KB <130/80 mmHg)
+
+•   Lipid düşürücü tedavi
+
+•   Balık yağı: 3-6 ay devam eden nefron koruyucu önlemlere rağmen >1
+    gr/gün proteinürisi devam eden 3.3 gr/gün veya daha fazla başlanabilir
+    (2D)
+
+•   Tuz kısıtlaması
+•   Fiziksel aktivite
+•   Sigara bırakılması
+•   İdeal kilonun sağlanması
+=== Sayfa 78 ===
+                     Tonsillektomi
+• IgAN hastalarında rutin tonsillektomi önerilmez(2D)
+    Tekrarlayan bakteriyel tonsilliti olanlar
+    Gross hematüri atakları ile tonsillit arasında açık ilişki
+     olanlarda
+
+            TONSİLLEKTOMİ DÜŞÜNÜLEBİLİR!!!
+=== Sayfa 79 ===
+                  İmmünsüpresif tedavi
+•   GK’lerin tek başına veya diğer immünosüpresif ilaçlarla
+    kombinasyon halinde kullanım endikasyonları iyi tanımlanmamıştır
+
+•   Çoğu nefrolog hafif, stabil veya çok yavaş ilerleyen IgAN’ni GK’ler
+    veya diğer immünosüpresiflerle tedavi etmez
+
+•   Glukokortikoidler ile tedavi;
+      Aşamalı olarak azalan GFR
+      ACE) inh/ARB ile maksimum antiproteinürik tedaviden sonra 3-6
+       ay >1 g/gün kalıcı proteinüri
+      Böbrek biyopsisinde aktif hastalığın morfolojik kanıtı (örneğin,
+       proliferatif veya nekrotizan glomerüler değişiklikler)
+=== Sayfa 80 ===
+İmmünsüpresif tedavi
+=== Sayfa 81 ===
+                    Transplantasyon
+
+• Diğer SDBY sebeplerinden daha kötü değil
+
+• %21-58 histolojik rekürrens
+
+• 10 yıl sonunda %7-10 rekürren IgANP ve tx kaybı
+
+• Steroid erken çekilmesi rekürren IgANP riskini 8 kat arttırır
+
+• Verici kadavrada sadece IgA birikimi saptanması tx için engel
+  değil, Tx takiben hızla ortadan kaybolmaktadır
+=== Sayfa 82 ===
+                  Hızlı İlerleyen Glomerulonefrit (RPGN)
+
+•   Haftalar ya da aylar içerisinde son dönem böbrek yetmezliğine götürebilen
+    ve histopatolojik olarak glomerüllerde yaygın (genellikle %50’nin üzerinde)
+    kresent oluşumu ile karakterize olan bir sendromdur.
+•   Primer
+•   Sekonder
+    Infeksiyon (PSGN, infektif endokardit, visseral abse, HBV)
+    -Multisitem hast (SLE, Goodpasture, HSP, mikr PAN)
+    -İlaçlar (Rifampsin, D-penisilamin, hidralazin, allopurinol)
+=== Sayfa 83 ===
+=== Sayfa 84 ===
+                Hızlı İlerleyen Glomerulonefrit (RPGN)
+
+•   Tip I (Lineer Ig boyanması): Anti GBM hast, Goodpasture sendromu
+
+•   Tip 2 (Granüler Ig boyanması-immunkompleks ilişkili): Lupus, HSP,
+    IgA nefropati, Mikst kryoglobulinemi
+
+•   Tip 3 (Ig boyanması yok-ANCA ilişkili vaskülit): Wegener’s
+    granulomatozis, Churg-Strauss sendr, mikroskopik PAN
+=== Sayfa 85 ===
+                Hızlı İlerleyen Glomerulonefrit (RPGN)
+
+•   Yüksek doz (pulse) steroid, siklofosfamid, plazmaferez, diyaliz
+    tedavi yaklaşımları

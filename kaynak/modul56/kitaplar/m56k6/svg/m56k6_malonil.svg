@@ -1,0 +1,50 @@
+<svg viewBox="0 0 640 336" width="100%" style="display:block" role="img" aria-label="Malonil-CoA anahtarı: toklukta asetil-CoA karboksilaz aktif, malonil-CoA yüksek, yağ asidi sentezlenir ve CPT-1 baskılanır; açlıkta ACC fosforillenip kapanır, malonil-CoA düşer, CPT-1 açılır ve β-oksidasyon artar">
+  <defs><marker id="k6d" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k6dc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k6dm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <text x="160.0" y="20.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">TOKLUK</text>
+  <rect x="10" y="30" width="300" height="40" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="160.0" y="46.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">İnsülin ↑</text>
+  <text x="160.0" y="61.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sitrat ↑</text>
+  <line x1="160" y1="70" x2="160" y2="90" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k6d)"/>
+  <rect x="10" y="92" width="300" height="40" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="160.0" y="108.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Asetil-CoA karboksilaz</text>
+  <text x="160.0" y="123.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">aktif: defosforile, sitratla uyarılmış</text>
+  <line x1="160" y1="132" x2="160" y2="152" stroke="var(--color-accent-700)" stroke-width="1.5" marker-end="url(#k6dc)"/>
+  <rect x="85" y="154" width="150" height="32" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="160.0" y="173.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Malonil-CoA ↑</text>
+  <line x1="120" y1="186" x2="80" y2="218" stroke="var(--color-accent-700)" stroke-width="1.6" marker-end="url(#k6dc)"/>
+  <rect x="10" y="220" width="140" height="46" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="80.0" y="239.3" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Yağ asidi sentezi</text>
+  <text x="80.0" y="253.3" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">trigliserit → VLDL</text>
+  <line x1="200" y1="186" x2="232" y2="214" stroke="var(--color-neutral-700)" stroke-width="1.6"/>
+  <line x1="223.0" y1="216" x2="241.0" y2="216" stroke="var(--color-neutral-700)" stroke-width="2.5"/>
+  <rect x="160" y="220" width="150" height="52" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="235.0" y="235.3" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">CPT-1 baskılanır</text>
+  <text x="235.0" y="249.3" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">yağ asidi mitokondriye</text>
+  <text x="235.0" y="263.3" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">giremez, yakılmaz</text>
+  <text x="480.0" y="20.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">AÇLIK</text>
+  <rect x="330" y="30" width="300" height="40" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="480.0" y="46.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Glukagon ↑, AMP ↑</text>
+  <text x="480.0" y="61.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">AMPK ve PKA</text>
+  <line x1="480" y1="70" x2="480" y2="90" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k6d)"/>
+  <rect x="330" y="92" width="300" height="40" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="480.0" y="108.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Asetil-CoA karboksilaz</text>
+  <text x="480.0" y="123.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">inaktif: fosforile</text>
+  <line x1="480" y1="132" x2="480" y2="152" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k6d)"/>
+  <rect x="405" y="154" width="150" height="32" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="480.0" y="173.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Malonil-CoA ↓</text>
+  <line x1="440" y1="186" x2="400" y2="218" stroke="var(--color-neutral-700)" stroke-width="1.4" stroke-dasharray="4 3" stroke-opacity="0.7" marker-end="url(#k6d)"/>
+  <rect x="330" y="220" width="140" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="400.0" y="246.3" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Yağ asidi sentezi durur</text>
+  <rect x="480" y="220" width="150" height="52" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="555.0" y="235.3" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">CPT-1 serbest</text>
+  <text x="555.0" y="249.3" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">açil-karnitin</text>
+  <text x="555.0" y="263.3" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">mitokondriye girer</text>
+  <line x1="555" y1="272" x2="555" y2="288" stroke="var(--color-accent-700)" stroke-width="1.6" marker-end="url(#k6dc)"/>
+  <rect x="460" y="288" width="170" height="40" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="545.0" y="303.9" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">β-oksidasyon ↑</text>
+  <text x="545.0" y="318.9" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">asetil-CoA → keton cisimleri</text>
+  <line x1="320" y1="14" x2="320" y2="330" stroke="var(--color-neutral-700)" stroke-opacity="0.25" stroke-width="1"/>
+  <text x="10.0" y="296.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">Malonil-CoA hem yağ asidi sentezinin ilk ürünüdür</text>
+  <text x="10.0" y="308.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hem de yeni yapılan yağ asidinin yakılmasını</text>
+  <text x="10.0" y="320.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">engeller.</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg viewBox="0 0 640 356" width="100%" style="display:block" role="img" aria-label="Bağırsağın arter alanları: truncus coeliacus ön bağırsak, a. mesenterica superior orta bağırsak, a. mesenterica inferior arka bağırsak, a. iliaca interna rektumun alt kısmı ve anal kanal; venöz drenaj portal ve sistemik">
+  <defs><marker id="k5d" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k5dc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k5dm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="14" y="10" width="112" height="104" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="70.0" y="30.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Truncus coeliacus</text>
+  <text x="70.0" y="45.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">a. gastroduodenalis</text>
+  <text x="70.0" y="60.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">a. pancreatico-</text>
+  <text x="70.0" y="75.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">duodenalis superior</text>
+  <line x1="70.0" y1="114" x2="70.0" y2="146" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5d)"/>
+  <rect x="12.0" y="150.0" width="116.0" height="34.0" rx="4" fill="var(--color-accent)" fill-opacity="0.15"/>
+  <text x="70.0" y="171.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Ön bağırsak</text>
+  <text x="70.0" y="202.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">mide, duodenumun</text>
+  <text x="70.0" y="215.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">papillaya kadarki</text>
+  <text x="70.0" y="228.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kısmı</text>
+  <rect x="134" y="10" width="207" height="104" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="237.5" y="30.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">A. mesenterica superior</text>
+  <text x="237.5" y="45.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">a. pancreaticoduodenalis inferior</text>
+  <text x="237.5" y="60.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">aa. jejunales ve ileales (15-18)</text>
+  <text x="237.5" y="75.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">a. ileocolica, a. colica dextra</text>
+  <text x="237.5" y="90.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">a. colica media</text>
+  <line x1="237.5" y1="114" x2="237.5" y2="146" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5d)"/>
+  <rect x="132.0" y="150.0" width="211.0" height="34.0" rx="4" fill="var(--color-accent)" fill-opacity="0.32"/>
+  <text x="237.5" y="171.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Orta bağırsak</text>
+  <text x="237.5" y="202.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">duodenumun geri kalanı, jejunum,</text>
+  <text x="237.5" y="215.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ileum, çekum, appendiks, colon</text>
+  <text x="237.5" y="228.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ascendens, transversumun sağ 2/3'ü</text>
+  <rect x="349" y="10" width="142" height="104" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="420.0" y="30.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">A. mesenterica inferior</text>
+  <text x="420.0" y="45.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">a. colica sinistra</text>
+  <text x="420.0" y="60.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">aa. sigmoideae</text>
+  <text x="420.0" y="75.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">a. rectalis superior</text>
+  <line x1="420.0" y1="114" x2="420.0" y2="146" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5d)"/>
+  <rect x="347.0" y="150.0" width="146.0" height="34.0" rx="4" fill="var(--color-accent)" fill-opacity="0.5"/>
+  <text x="420.0" y="171.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Arka bağırsak</text>
+  <text x="420.0" y="202.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">transversumun sol 1/3'ü,</text>
+  <text x="420.0" y="215.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">descendens, sigmoideum,</text>
+  <text x="420.0" y="228.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">rektumun üst kısmı</text>
+  <rect x="499" y="10" width="127" height="104" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="562.5" y="30.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">A. iliaca interna</text>
+  <text x="562.5" y="45.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">a. rectalis media</text>
+  <text x="562.5" y="60.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">a. pudenda interna →</text>
+  <text x="562.5" y="75.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">a. rectalis inferior</text>
+  <line x1="562.5" y1="114" x2="562.5" y2="146" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5d)"/>
+  <rect x="497.0" y="150.0" width="131.0" height="34.0" rx="4" fill="var(--color-accent)" fill-opacity="0.7"/>
+  <text x="562.5" y="171.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Pelvis</text>
+  <text x="562.5" y="202.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">rektumun orta ve alt</text>
+  <text x="562.5" y="215.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kısmı, anal kanal</text>
+  <rect x="12.0" y="252.0" width="481.0" height="22.0" rx="4" fill="var(--color-accent)" fill-opacity="0.2"/>
+  <text x="252.0" y="267.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Venler: v. mesenterica superior ve inferior → v. portae → karaciğer (portal)</text>
+  <rect x="497.0" y="252.0" width="131.0" height="22.0" rx="4" fill="var(--color-neutral-700)" fill-opacity="0.18"/>
+  <text x="562.0" y="267.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">v. iliaca interna</text>
+  <circle cx="495" cy="263" r="7" fill="white" stroke="var(--color-accent-700)" stroke-width="2"/>
+  <line x1="495" y1="270" x2="495" y2="282" stroke="var(--color-accent-700)" stroke-width="1"/>
+  <text x="400.0" y="296.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">plexus venosus rectalis: portal ve sistemik venler rektum ve anal kanalda birleşir</text>
+  <text x="320.0" y="326.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">Lenf arterleri izler: truncus coeliacus, SMA ve IMA çevresindeki preaortik düğümler · pelvis için iliak düğümler</text>
+</svg>

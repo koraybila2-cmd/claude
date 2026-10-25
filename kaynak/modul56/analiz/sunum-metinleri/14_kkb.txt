@@ -1,0 +1,523 @@
+=== Sayfa 1 ===
+KALSİYUM KANAL BLOKÖRLERİ
+
+Dr. Öğr. Üyesi İdris AYHAN
+=== Sayfa 2 ===
+Kalsiyum Kanal Tipleri
+
+  Kanal Tipi              Diğer Adı                    Yerleşim                     Aktivasyon                 Görev ve Fonksiyonlar
+                                                       Sinir hücreleri, kalp,                                  Hızlı yanıt gerektiren olaylarda etkilidir,
+  T-tipi                  Geçici (transient)                                        Düşük voltajda
+                                                       endokrin doku                                           kalpte pacemaker aktivitesi sağlar.
+                                                       Kas hücreleri, kalp, sinir                              Kas kasılmasını sağlar, kalp kası ve düz
+  L-tipi                  Uzun süreli (long-lasting)                                Yüksek voltajda
+                                                       sistemi                                                 kas kasılmasında önemli rol oynar.
+                                                                                                               Nörotransmitter salımını düzenler, sinir
+  N-tipi                  Nöronal                      Sinir sistemi                Orta- yüksek voltajda
+                                                                                                               iletiminde kritik rol oynar.
+
+                                                       Beyin, özellikle purkinje                               Sinapslarda nörotransmitter salımını
+  P/Q-tipi                Purkinje, Q-tipi                                          Yüksek voltajda
+                                                       hücreleri                                               düzenler, beyin işlevlerinde önemlidir.
+
+                                                                                                               Sinir hücrelerinde düşük yoğunlukta
+  R-tipi                  Dirençli (resistant)         Sinir sistemi                Orta voltajda
+                                                                                                               bulunur, sinaptik iletimde görev alır.
+
+                                                                                                               Hücre dışı sinyallerle aktive edilir,
+  Reseptör ile uyarılan   Ligand ile açılan            Hücre yüzey reseptörleri     Ligand bağlanması          özellikle nöronlarda ve endokrin
+                                                                                                               sistemde sinyal iletimi için önemlidir.
+
+                                                                                                               Hücrelere mekanik uyaranların
+                                                       Kas, damar endoteli, bazı                               algılanmasını sağlar, özellikle kan
+  Gerim ile uyarılan      Mekano-duyarlı                                            Mekanik gerimle uyarılır
+                                                       sinir hücreleri                                         basıncı ve organ genişlemesi gibi
+                                                                                                               durumlarda aktiftir.
+
+                                                                                                                                                        2
+=== Sayfa 3 ===
+     Kalp Kasının Kasılması - İyon Akışı - Nodal Hücreler
+
+Pacemaker Hücrelerinde Spontan Uyarı Oluşumu
+
+▪ Faz 4
+     ▪ Funny current sodyum kanalları (If) açılır, hücre içine sodyum (Na⁺) akışı olur.
+     ▪ Potansiyel -40 mV civarına ulaştığında T-tipi (transient) kalsiyum kanalları açılır.
+     ▪ Kalsiyum (Ca²⁺) girişiyle membran potansiyeli eşik değere yaklaşır.
+
+▪ Faz 0 (Depolarizasyon)
+     ▪ L-tipi (long-lasting) kalsiyum kanalları açılır, hızlı bir Ca²⁺ girişiyle hücre hızla
+       depolarize olur.
+
+▪ Faz 3 (Repolarizasyon)
+     ▪ L-tipi kalsiyum kanalları kapanır, potasyum (K⁺) kanalları açılır
+     ▪ Hücre dışına potasyum çıkışı, hücre zarını tekrar negatif yöne iter ve
+       repolarizasyonu tamamlar.
+
+                                                                                               3
+=== Sayfa 4 ===
+Kalp Kasının Kasılması - İyon Akışı - Kasılabilir Hücreler
+▪ Pacemaker hücrelerinde oluşan uyarı kasılabilir hücrelere aktarılır (gap
+  junction).
+
+▪ Faz 0 (Depolarizasyon)
+      ▪ Voltaj bağımlı hızlı sodyum kanalları açılır, hücre içine ani Na⁺ akışı hücre
+        zarını hızla depolarize eder.
+
+▪ Faz 1 (Erken repolarizasyon )
+      ▪ Potasyum kanalları açılır, kısa süreli K⁺ çıkışı zar potansiyelinde hafif bir
+        düşüşe yol açar.
+
+▪ Faz 2 (Plato fazı)
+      ▪ L-tipi kalsiyum kanalları açılır, hücre içine Ca²⁺ girer. Potasyum
+        kanallarından hücre dışına K⁺ akışı devam eder.
+      ▪ Kalsiyum ve potasyum akışlarının dengesi, zar potansiyelini bir süre sabit
+        (plato) tutar ve hücre içinde kalsiyum birikir.
+
+▪ Faz 3 (Repolarizasyon)
+      ▪ L-tipi kalsiyum kanalları kapanır, hücre dışına potasyum çıkışının devam
+        etmesi hücre zarını tekrar negatif değere getirir.
+
+▪ Faz 4 (Dinlenme fazı)
+      ▪ Hücre -90 mV civarındaki dinlenme potansiyeline ulaşır ve bir sonraki uyarıyı
+        bekler.
+                                                                                        4
+=== Sayfa 5 ===
+5
+=== Sayfa 6 ===
+Kalp Kasının Kasılma Mekanizması
+
+▪ Uyarı etkisiyle voltaja bağlı L-tipi kalsiyum kanalları açılır
+
+▪ Hücre dışından kalsiyum girişi ➔ Sarkoplazmik retikulumdan (SR)
+  kalsiyum salımı (ryanodin reseptörleri (RyR) kalsiyuma bağlı kalsiyum
+  salımı)
+
+▪ Sitoplazmada kalsiyum artışı ➔ Kalsiyum troponine bağlanır
+
+▪ Troponin-Ca²⁺ kompleksi oluşur ➔ Tropomiyozin blokajı kalkar
+
+▪ Miyozin ve aktin etkileşimi ➔ kasılma (ATP kullanımı ile kayma
+  hareketi)
+
+▪ Kasılma sonrası kalsiyum geri alımı ➔ SERCA (sarco/endoplazmik
+  retikulum Ca²⁺ ATPaz) pompası ile SR'a geri dönüş
+
+▪ Kalan kalsiyumun hücre dışına çıkması ➔ Gevşeme
+
+                                                                          6
+=== Sayfa 7 ===
+Damar Düz Kası Kasılması
+
+▪ Uyarı (hormon, sinir uyarısı, mekanik gerilme) etkisiyle voltaja bağlı L-tipi kalsiyum
+  kanalları açılır.
+
+▪ Hücre dışından kalsiyum girişi ➔ sitoplazmada kalsiyum artışı
+
+▪ Kalsiyumun kalmodulin ile bağlanması ➔ Ca²⁺-kalmodulin kompleksi oluşumu
+
+▪ Ca²⁺-kalmodulin kompleksinin miyozin hafif zincir kinazı (MLCK) aktive etmesi
+
+▪ Miyozinin fosforilasyonu ➔ miyozin ve aktin etkileşimi
+
+▪ Kasılma (ATP kullanımı ile kayma hareketi)
+
+▪ Kalsiyum seviyesinin düşmesi➔ MLCK aktivitesinin azalması ve miyozinin
+  defosforilasyonu ➔ gevşeme
+
+İskelet kası hücre içi kalsiyum havuzunu kullandığından kasılma KKB ile bloke olmaz.
+
+                                                                                           7
+=== Sayfa 8 ===
+Kalsiyum Kanal Blokörleri (KKB)
+
+▪ KKB voltaj bağımlı L-tipi kalsiyum kanallarını
+  bloke ederek kalsiyum iyonlarının hücre içine
+  geçişini engeller.
+     ▪ α1 alt birim üzerinde KKB ilaç grupları için farklı
+       bağlanma bölgeleri bulunur
+
+▪ Hücre içi kalsiyum seviyesinin azalmasıyla
+     ▪ Düz kaslar gevşer
+     ▪ Miyokardın oksijen ihtiyacı azalır
+     ▪ Elektriksel ileti yavaşlar
+
+▪ Bu etkiler hipertansiyon, anjina pektoris ve
+  bazı aritmi türlerinde terapötik fayda sağlar.
+
+                                                             8
+=== Sayfa 9 ===
+KKB Etki Mekanizması - Kalp
+
+▪ KKB'ler, voltaj bağımlı L-tipi kalsiyum kanallarını inhibe ederek hücre içi kalsiyum
+  düzeyini azaltır.
+▪ Nodal dokuda (peacemaker hücreler) ve kasılabilir (miyosit) hücrelerde kalsiyum
+  düzeyinin azalması
+    ▪ Atriyoventriküler (AV) düğüm üzerinden geçen elektriksel iletimi yavaşlatır.
+        ▪ Negatif dromotropik etki
+    ▪ Kalbin kasılma hızını (atım sayısı) azaltır.
+        ▪ Negatif kronotropik etki
+    ▪ Kalbin kasılma gücünü azaltır.
+        ▪ Negatif inotropik etki
+
+▪ Kan basıncı, kalbin iş yükü ve oksijen ihtiyacı azaltılmış olur, kalp ritmi düzenlenir.
+    ▪ Antihipertansif, antianjinal ve antiaritmik etki
+
+                                                                                            9
+=== Sayfa 10 ===
+KKB Etki Mekanizması - Damar Düz Kası
+
+▪ KKB'ler, voltaj bağımlı L-tipi kalsiyum kanallarını inhibe ederek hücre içi kalsiyum
+  düzeyini azaltır.
+▪ Ca²⁺-kalmodulin kompleksi oluşmaması MLCK aktivitesini azaltır.
+▪ Bu durum miyozinin defosforile olmasına neden olur.
+▪ Miyozin - aktin etkileşimi gerçekleşmez ve gevşeme oluşur.
+▪ Damar düz kasların gevşemesiyle vasküler direnç azalır ve kan basıncı düşer.
+▪ Damar genişletici etkisi arteriyollerde daha belirgindir.
+▪ Koroner dilatasyon ile kalbe oksijen sunumu artar.
+▪ Antihipertansif ve antianjinal etki sağlanır.
+
+                                                                                         10
+=== Sayfa 11 ===
+KKB Etkileri
+
+▪ Diüretik ve beta blokörlerin aksine kalp, beyin, böbrek kan akımını ve doku perfüzyonunu
+  azaltmazlar, karbonhidrat ve lipid metabolizmasını olumsuz etkilemezler.
+
+▪ Anjiyotensin antagonistleri kadar olmasa da diyabetik nefropatililerde proteinüriyi azaltırlar.
+
+▪ Trombosit agregasyonunu inhibe edebilirler, ancak antiagregan olarak kullanılmazlar.
+
+▪ DHP türevlerinin zayıf natriüretik ve diüretik etkileri vardır.
+
+▪ DHP’ler oksidatif stresi azaltabilir ve eNOS aktivasyonu yapabilir.
+
+▪ Verapamil yüksek dozlarda insülin salımını bloke edebilir.
+
+▪ Verapamil kemoterapötik dirençte rol oynadığı düşünülen p-glikoproteinleri inhibe eder.
+
+                                                                                                    11
+=== Sayfa 12 ===
+ KKB Sınıflandırma
+
+▪ KKB'ler etki tiplerine göre dihidropiridin (DHP) ve
+  non-dihidropiridin (fenilalkilaminler ve
+  benzotiyazepinler) olmak üzere iki ana gruba
+  ayrılır.
+
+▪ DHP'ler genellikle periferik damarları
+  genişletirken,
+
+▪ Fenilalkilaminler (verapamil) daha çok kalp hızını
+  ve kontraktilitesini düşürmek için kullanılır.
+
+▪ Benzotiyazepinler (diltiazem) ise hem damar
+  genişletici hem de kalp hızını azaltıcı etki gösterir.
+
+                                                           12
+=== Sayfa 13 ===
+KKB Sınıfları Karşılaştırma
+
+                              13
+=== Sayfa 14 ===
+    KKB Sınıflandırma
+     KKB Grubu            Alt Grup           Örnek İlaçlar          Etkili Olduğu Alanlar                          Özellikler
+
+                                                                                             - Kalp hızını ve kontraktiliteyi düşürür
+                        Fenilalkilamin         Verapamil           Kalp (AV nod, miyokard)   - Atriyoventriküler iletimi yavaşlatır
+                                                                                             - Atriyal fibrilasyon ve taşikardi tedavisinde etkili
+Non-Dihidropiridinler
+                                                                                             - Hem damar genişletici hem de kalp hızını
+                        Benzotiyazepin         Diltiazem              Kalp ve damarlar       düşürücü etki
+                                                                                             - Kalp üzerindeki etkisi verapamile göre daha hafif
+
+                                                                                             - Etki süresi kısa, refleks taşikardiye yol açabilir
+                         Birinci Nesil    Nifedipin, Nikardipin      Damar düz kasları
+                                                                                             - Akut hipertansiyon krizlerinde etkili
+
+                                                                                             - Yavaş salım preparatları
+                                          Felodipin, Isradipin,
+                          İkinci Nesil                               Damar düz kasları       - Daha uzun etki süresi, daha az refleks taşikardi
+                                          Benidipin, Nimodipin
+                                                                                             - Nimodipin, özellikle subaraknoid kanamada
+Dihidropiridinler
+                                                                                             - Farmakokinetik özellikler iyileştirilmiştir.
+                                         Amlodipin, Azelnidipin,
+                        Üçüncü Nesil                                 Damar düz kasları       - Uzun yarılanma ömrü, günde bir kez kullanım
+                                              Efonidipin
+                                                                                             - Refleks taşikardi riski düşük
+                        Dördüncü Nesil    Lasidipin, Silnidipin,                             - L-tipi ve N-tipi kalsiyum kanallarını inhibe eder,
+                                                                     Damar düz kasları
+                                             Lerkanidipin                                    daha dengeli kan basıncı kontrolü              14
+=== Sayfa 15 ===
+15
+=== Sayfa 16 ===
+Dihidropiridinler
+
+▪ Grup adı, taşıdıkları 1,4-dihidropiridin yapısından gelmektedir. Yapısal modifikasyonlarla farmakokinetik ve farmakodinamik
+  özellikleri değiştirilmiş türevler üretilmiştir.
+
+▪ Çoğunlukla damar düz kasları üzerinde etkilidir, periferik vazodilatasyon sağlarlar.
+
+▪ Farmakokinetik ve farmakodinamik modifikasyonlarla farklı jenerasyonlar türetilmiştir.
+
+                                                                                                                                16
+=== Sayfa 17 ===
+Dihidropiridinler - Birinci Nesil DHP'ler
+
+▪ Nifedipin ilk geliştirilen DHP KKB’dir.
+▪ Güçlü bir vazodilatördür ancak etki süresi kısa
+  olduğu için ani kan basıncı düşüşleri yapabilir.
+    ▪ Refleks sempatik aktivasyona neden olur.
+
+▪ Anjina, hipertansiyon tedavisinde ve akut
+  hipertansiyon krizlerinde etkilidir.
+▪ Refleks taşikardi, baş ağrısı, çarpıntı, postüral
+  hipotansiyon, ayak bileği ödemine (diğer DHP’lerde
+  de görülebilir) neden olabilir.
+
+                                                       17
+=== Sayfa 18 ===
+Dihidropiridinler - İkinci Nesil DHP'ler
+
+▪ Felodipin, benidipin, isradipin ve nimodipin gibi ilaçları
+  içerir.
+▪ Yavaş salım preparatlar geliştirilmiştir.
+▪ Bu jenerasyonun yarı ömrü birinci nesilden daha
+  uzundur, bu da daha stabil bir kan basıncı kontrolü
+  sağlar.
+▪ Felodipin, özellikle periferik ödem yapma eğilimindedir.
+▪ Nimodipin subaraknoid kanamada etkilidir.                    uzatılmış salım
+                                                               (sustained-release oral)
+
+                                                                      18
+=== Sayfa 19 ===
+Dihidropiridinler - Üçüncü Nesil DHP'ler
+
+▪ Amlodipin, azelnidipin ve efonidipin gibi uzun etkili ajanları içerir.
+
+▪ Stabil anjina ve hipertansiyon tedavisinde yaygın olarak tercih edilir.
+
+▪ Farmakokinetik özellikler iyileştirilmiştir.
+
+▪ Yarılanma ömrü uzun ajanlar geliştirilmesi günde bir kez kullanıma
+  olanak tanır.
+                                                                              Mason, R. P., P. Marche, and T. H. Hintze. Arteriosclerosis,
+                                                                              thrombosis, and vascular biology 23.12 (2003): 2155-2163.
+▪ Refleks taşikardi riski düşüktür.
+
+▪ Lipid peroksidasyonunu azaltma, bradikinin ve nitrik oksit oluşturma gibi
+  L-tipi kanalları bloke etmenin haricinde kardiyovasküler etki potansiyeli
+  taşırlar.
+
+▪ Amlodipin’in yarılanma ömrü uzundur (30-50 saat). Etkisi geç (yaklaşık 1
+  hafta sonra) başlar. Verapamil ve diltiazem bağlanma yerine de bağlanır.
+
+                                                                                                                           19
+=== Sayfa 20 ===
+ Dihidropiridinler - Dördüncü Nesil DHP'ler
+
+▪ Silnidipin, lerkanidipin ve lasidipin dördüncü
+  nesil DHP türevleridir.
+▪ Hem L-tipi hem de N-tipi kalsiyum kanallarını
+  bloke ederek daha dengeli bir vazodilatasyon
+  ve kan basıncı kontrolü sağlarlar.
+▪ Özellikle silnidipin, damar direncini azaltırken
+  kalp hızında artışa neden olmaz ve ortostatik
+  hipotansiyon riskini en aza indirir.
+
+                                                     20
+=== Sayfa 21 ===
+Dihidropiridinler - Farmakokinetik
+
+                                     21
+=== Sayfa 22 ===
+Non-dihidropiridinler - 1. Fenilalkilaminler (Verapamil)
+
+▪ Belirgin kardiyak etkinlik gösterir.
+      ▪ AV iletimi yavaşlatma → negatif dromotropik etki
+      ▪ Kalp atım hızını azaltma → negatif kronotropik etki
+      ▪ Kalp kasılma gücünü azaltma → negatif inotropik etki
+
+▪ Hem kalp kası kontraktilitesini hem de kalp hızını düşürür.
+
+▪ Damar düz kası üzerindeki etkinlik zayıf
+
+▪ HT + supraventriküler taşikardide etkili
+
+▪ Antianjinal ve antiaritmik olarak kullanımı var
+
+▪ Sinus bradikardisi, kardiyojenik şok, kalp yetersizliği olanlarda riskli
+
+▪ Beta blokörlerle birlikte kullanımı riskli
+
+▪ İstenmeyen tesirler; konstipasyon, bradikardi, AV Blok, prolaktin artışı, rebound HT
+
+                                                                                         22
+=== Sayfa 23 ===
+Non-dihidropiridinler - 2. Benzotiyazepinler (Diltiazem)
+
+▪ Hem kalp hem de damar düz kası üzerinde etkinlik gösterir.
+
+▪ Verapamil kadar güçlü bir negatif inotropik etkiye sahip olmamakla
+  birlikte, koroner arter hastalığında etkili bir seçenektir.
+
+▪ Kalp hızını düşürmesi ve antianjinal etkileri nedeniyle özellikle anjina
+  ve hipertansiyon tedavisinde tercih edilir.
+
+▪ Pulmoner konjesyonu bulunan infarktüslü ve sol ventrikül yetmezliği
+  olanlarda kontrendikedir.
+
+▪ KC transaminazların plazma düzeyini yükseltebilir.
+
+▪ Ödem, baş ağrısı, baş dönmesi, yorgunluk, konstipasyon, sinüs
+  bradikardisi gibi yan tesirler görülebilir.
+
+                                                                             23
+=== Sayfa 24 ===
+KKB Endikasyonları
+
+Kardiyovasküler                                            Non-Kardiyovasküler
+▪ İskemik kalp hastalığı (stabil anjina pektoris, sessiz   ▪ Migren
+  iskemi, vazospastik anjina)
+                                                           ▪ Özofageal spazm
+▪ Sistemik hipertansiyon
+                                                           ▪ Hipertansif diyabetiklerde renal koruma
+▪ Pulmoner hipertansiyon (primer)                          ▪ Raynaud hastalığı (Reyno)
+▪ Kardiyak aritmi (Supraventriküler aritmiler, idyopatik
+  ventriküler taşikardiler)
+
+▪ Diyastolik ventriküler disfonksiyon
+
+▪ Hipertrofik obstrüktif kardiyomiyopati
+
+▪ Serebral vazospazm (nimodipin)
+
+                                                                                                 24
+=== Sayfa 25 ===
+                                      KKB - Kombine İlaç Kullanımı
+▪ KKB’ler hipertansiyon tedavisinde diüretikler, ACE inhibitörleri veya anjiyotensin reseptör
+  blokörleri (ARB) ile kombine kullanılabilir.
+▪ Verapamil hariç olmak üzere beta blokörlerle birlikte kullanılabilirler.
+    ▪ Verapamil + beta blokör kullanımında kardiyak depresan etki şiddetlenebilir.
+
+         Kombine İlaç Grubu                             Durum ve Tedavi Amacı                                   Kombinasyonun Tercih Nedeni
+
+                                      Dirençli hipertansiyon ve kalp hızının kontrol altına alınması Sinerjik etkiyle kan basıncını kontrol altına almak ve
+    KKB + Beta Blokörler
+                                      gereken durumlar                                               kalp hızını yavaşlatmak
+                                                                                                     KKB damar genişletici etkisi ile ACE/ARB'nin böbrek
+    KKB + ACE İnhibitörleri/ARB'ler   Hipertansiyon ve kalp yetersizliği olan hastalarda
+                                                                                                     koruyucu ve kalp koruyucu etkisini artırır
+                                      Ödemin azaltılması gereken hipertansiyon ve kalp               Diüretikler fazla sıvıyı atarken, KKB kan basıncını
+    KKB + Diüretikler
+                                      yetersizliği durumları                                         daha etkin şekilde düşürür
+                                      Hipertansiyon ve yüksek kolesterol düzeyine sahip              Kolesterolü düşürmek ve tansiyonu kontrol etmek
+    KKB + Statinler
+                                      kardiyovasküler hastalık riski yüksek hastalar                 için çift etki
+                                                                                                     Alfa blokörler prostat semptomlarını rahatlatırken
+    KKB + Alfa Blokörler              Dirençli hipertansiyon ve prostat hipertrofisi olan hastalarda
+                                                                                                     KKB ile kan basıncı etkin bir şekilde düşer
+                                                                                                     KKB kalp hızını kontrol ederken digoksin kalbin
+    KKB + Digoksin                    Kalp yetersizliği ve atriyal fibrilasyon tedavisinde
+                                                                                                     kasılma gücünü artırır
+                                      Atriyal fibrilasyon ve yüksek tromboembolizm riski olan        KKB kalp hızını kontrol eder, antikoagülanlar ise kan
+    KKB + Antikoagülanlar
+                                      hastalarda                                                     pıhtılaşma riskini azaltır
+                                      Anjina tedavisinde, KKB'nin tek başına yeterli olmadığı        KKB damarları genişleterek kan akışını artırır,
+    KKB + Antianjinal İlaçlar
+                                      durumlarda                                                     antianginal ilaçlar ise oksijen ihtiyacını azaltır
+                                                                                                     KKB’ler tansiyonu kontrol ederken, NSAID ağrı
+                                      Ağrı yönetiminin gerektiği, ancak KKB kullanan
+    KKB + NSAİİ'ler                                                                                  yönetiminde kullanılır; ancak uzun süreli kullanımdan
+                                      hipertansiyon hastalarında                                                                                           25
+                                                                                                     kaçınılmalıdır
+=== Sayfa 26 ===
+                                 KKB Dikkat Edilmesi Gereken Durumlar
+        Dikkat Edilecek Hususlar                                                                  Açıklama
+
+Doz Ayarlaması                         Yaşlılarda, karaciğer veya böbrek yetmezliği olanlarda düşük dozlarla başlanmalı ve doz yavaşça artırılmalı.
+
+İstenmeyen Tesirler                    En yaygın yan etkiler arasında baş ağrısı, ödem, kızarıklık, yorgunluk ve hipotansiyon yer alır.
+
+Hipotansiyon Riski                     Özellikle ilk doz veya doz artışında kan basıncında aşırı düşüş riski vardır; kan basıncı dikkatle izlenmelidir.
+
+Kalp Hızı ve Ritmi                     Bradikardi veya AV blok riski olan hastalarda dikkatli kullanılmalıdır.
+                                       Non-DHP’ler (verapamil ve diltiazem), negatif inotropik etkileri nedeniyle kalp yetersizliği olan hastalarda miyokardiyal
+Kalp Kontraktilitesi                   kontraktiliteyi fazla azaltabilir.
+                                       Özellikle non-DHP’ler negatif inotropik etkiyle ileri düzey kardiyomiyopatili hastalarda durumu ağırlaştırabilir.
+
+Periferik Ödem Riski                   Özellikle DHP’lerde yaygın olarak görülen ödem riski, gerekirse doz ayarlaması yapılmalıdır.
+
+Gebelik ve Emzirme                     Gebelik kategorisi genellikle C veya D’dir, emziren annelerde kullanımında dikkatli olunmalıdır.
+
+Karaciğer ve Böbrek Yetmezliği         İlacın vücuttan atılımını etkileyebileceği için doz ayarlaması yapılmalı ve yakın takip edilmelidir.
+
+Anjina veya Miyokard İnfarktüsü        Bazı KKB'ler anjina semptomlarını kötüleştirebilir, miyokard enfarktüsü sonrası stabil hastalarda kullanılmalıdır.
+
+Tedavi Süresinin Takibi                Tedavi kesildiğinde ilacın ani bırakılması rebound hipertansiyon riski oluşturabilir, kademeli olarak azaltılmalıdır.
+
+İlaç Etkileşimleri                     CYP3A4 enzimi üzerinden metabolize edilen ilaçlarla etkileşime girebilir.
+
+                                                                                                                                                               26
+=== Sayfa 27 ===
+                                                          KKB – İlaç Etkileşimleri
+     İlaç Grubu                           Örnek İlaçlar                        Etkileşim Türü                          Potansiyel Etkiler
+
+Beta blokörler              Propranolol, Metoprolol            Sinerjik etki                    Hipotansiyon, bradikardi, AV blok riski
+Antihipertansif ilaçlar     ACE inhibitörleri, ARB'ler         Sinerjik etki                    Kan basıncında aşırı düşüş
+                                                                                                KKB düzeyinde artış, yan etki riski (özellikle dihidropiridin
+Antifungal ilaçlar          Ketokonazol, İtrakonazol           CYP3A4 inhibisyonu
+                                                                                                türevlerinde toksisite riski)
+
+Antibiyotikler              Klaritromisin, Eritromisin         CYP3A4 inhibisyonu               KKB kan düzeylerinde artış, hipotansiyon riski
+
+Statinler                   Atorvastatin, Simvastatin          CYP3A4 inhibisyonu               Statinlerin kan düzeylerinde artış, rabdomiyoliz riski
+
+Anti-epileptik ilaçlar      Fenitoin, Karbamazepin             CYP3A4 indüksiyonu               KKB düzeyinde azalma, etkinlik kaybı
+                                                                                                Siklosporin toksisitesi artabilir, KKB ile kombine kullanımda
+Bağışıklık baskılayıcılar   Siklosporin                        CYP3A4 inhibisyonu
+                                                                                                hipotansiyon riski
+                                                                                                Lityum toksisite riski artabilir, lityum düzeyleri takip
+Lityum                      Lityum                             Farmakodinamik etkileşim
+                                                                                                edilmelidir
+                                                                                                Digoksin toksisitesi riski artabilir; KKB'ler digoksin atılımını
+Digoksin                    Digoksin                           Farmakodinamik etkileşim
+                                                                                                azaltabilir
+Antiagregan ve
+                            Aspirin, Varfarin                  Farmakodinamik etkileşim         Kanama riski (özellikle yaşlı hastalarda dikkat edilmeli)
+antikoagülanlar
+Diüretikler                 Furosemid, Hidroklorotiyazid       Farmakodinamik etkileşim         Hipotansiyon ve elektrolit dengesizliği riski
+
+NSAİİ                       İbuprofen, Naproksen               Farmakodinamik etkileşim         Antihipertansif etkinlikte azalma, sıvı retansiyonu
+
+                                                                                                                                                         27
+=== Sayfa 28 ===
+                                  KKB – Besin Etkileşimleri
+
+                  Besin                                                           Etkileşim ve Etkisi
+
+                                  Greyfurt gibi nar suyu da CYP3A4 enzimini inhibe edebilir. Bu durum, özellikle amlodipin gibi bazı KKB'lerin
+Greyfurt ve nar
+                                  etkisini artırarak hipotansiyon riskini yükseltebilir.
+
+                                  Alkol, KKB'lerin hipotansif etkisini artırabilir ve aşırı tansiyon düşüklüğüne yol açabilir. Bu nedenle KKB
+Alkol
+                                  tedavisi sırasında alkol tüketimi sınırlandırılmalıdır.
+
+                                  Fazla tuz tüketimi KKB'lerin antihipertansif etkisini azaltabilir. Yüksek tuz alımı tansiyonu artırabilir ve
+Yüksek tuzlu gıdalar
+                                  KKB'lerin etkinliğini düşürebilir.
+
+                                  Bazı KKB'ler (örneğin, verapamil) ile potasyum takviyeleri veya potasyum yönünden zengin gıdalar (muz,
+Potasyum içeriği yüksek gıdalar
+                                  portakal, patates) kombinasyonu, yüksek potasyum düzeyine (hiperkalemi) yol açabilir.
+
+                                  Kafein, bazı hastalarda kan basıncını geçici olarak artırabilir, bu da KKB'lerin antihipertansif etkisini
+Kafein
+                                  azaltabilir.
+                                  Sarımsağın doğal olarak kan basıncını düşürücü etkisi vardır. KKB’lerle birlikte tüketildiğinde kan basıncı
+Sarımsak
+                                  daha fazla düşebilir.
+
+                                                                                                                                                 28

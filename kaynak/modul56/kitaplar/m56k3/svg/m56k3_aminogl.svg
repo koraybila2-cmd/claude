@@ -1,0 +1,40 @@
+<svg viewBox="0 0 640 416" width="100%" style="display:block" role="img" aria-label="Aminoglikozid nefrotoksisitesinin basamakları: süzülme, megalin aracılı endositoz, lizozomda birikim, fosfolipidoz, lizozom yırtılması ve hücre ölümü, oligürisiz ABH">
+  <defs><marker id="k3m" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k3mc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k3mm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="20" y="10" width="380" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="210.0" y="29.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Süzülme</text>
+  <text x="210.0" y="44.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">katyonik aminoglikozid glomerülde serbestçe süzülür</text>
+  <line x1="210" y1="56" x2="210" y2="76" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3m)"/>
+  <rect x="20" y="80" width="380" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="210.0" y="99.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Bağlanma ve endositoz</text>
+  <text x="210.0" y="114.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">lümen yüzünde fosfolipid ve megaline bağlanır, hücreye alınır</text>
+  <line x1="210" y1="126" x2="210" y2="146" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3m)"/>
+  <rect x="20" y="150" width="380" height="46" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="210.0" y="169.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Lizozomda birikim</text>
+  <text x="210.0" y="184.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">serum düzeyinin 100-1000 katına ulaşır</text>
+  <line x1="210" y1="196" x2="210" y2="216" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3m)"/>
+  <rect x="20" y="220" width="380" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="210.0" y="239.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Fosfolipidoz</text>
+  <text x="210.0" y="254.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">fosfolipazlar inhibe olur, miyeloid cisimcikler, hücre şişer</text>
+  <line x1="210" y1="266" x2="210" y2="286" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3m)"/>
+  <rect x="20" y="290" width="380" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="210.0" y="309.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Lizozom yırtılır</text>
+  <text x="210.0" y="324.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">mitokondri hasarı, apoptoz ve nekroz, inflamasyon</text>
+  <line x1="210" y1="336" x2="210" y2="356" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3m)"/>
+  <rect x="20" y="360" width="380" height="46" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="210.0" y="379.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Oligürisiz ABH</text>
+  <text x="210.0" y="394.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">tedavinin 5-10. günü; distal tutulumda poliüri, K⁺ ve Mg²⁺ kaybı</text>
+  <line x1="196.0" y1="136" x2="224.0" y2="136" stroke="var(--color-accent-2-900)" stroke-width="2.5"/>
+  <line x1="222" y1="136" x2="430" y2="136" stroke="var(--color-accent-2-900)" stroke-width="1.4"/>
+  <rect x="430" y="90" width="200" height="92" rx="4" fill="white" stroke="var(--color-accent-2-900)" stroke-width="1.5"/>
+  <text x="530.0" y="111.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">Günde tek doz</text>
+  <text x="530.0" y="125.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">tübülün alım kapasitesi</text>
+  <text x="530.0" y="139.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">doyduğu için tek yüksek tepe</text>
+  <text x="530.0" y="153.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">daha az ilaç biriktirir;</text>
+  <text x="530.0" y="167.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">postantibiyotik etki korunur</text>
+  <rect x="430" y="262" width="200" height="92" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="530.0" y="283.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Risk faktörleri</text>
+  <text x="530.0" y="297.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ileri yaş, böbrek hastalığı,</text>
+  <text x="530.0" y="311.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hipotansiyon, sepsis, karaciğer</text>
+  <text x="530.0" y="325.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hastalığı, vankomisin, diğer</text>
+  <text x="530.0" y="339.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">nefrotoksinler</text>
+</svg>

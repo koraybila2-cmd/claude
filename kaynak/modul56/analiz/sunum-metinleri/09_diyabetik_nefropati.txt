@@ -1,0 +1,217 @@
+=== Sayfa 1 ===
+    Diyabetik Nefropati
+(Diyabetik Böbrek Hastalığı)
+=== Sayfa 2 ===
+Diyabetin Kronik komplikasyonları
+• Mikrovaskuler komplikasyonlar
+   • Diyabetik Retinopati
+  • Diyabetik Nefropati
+• Makrovaskuler komplikasyonlar
+   •   Ateroskleroz
+   •   Hipertansiyon
+   •   Iskemik kalp hastalığı ve Myokard infarktusu
+   •   Serebrovaskuler hastalık ( inme felç gibi)
+• Diyabetik Noropati
+• Diyabetik ayak
+=== Sayfa 3 ===
+Diyabetik Nefropati
+• Ilk kez 1936 yılında kimmelsteil ve Wilson tarafından tanımlanmıştır.
+• KBH en sık nedenlerinden biridir
+• Diyabetik nefropati (diyabetik böbrek hastalığı), diyabete bağlı gelişen
+  karakteristik yapısal ve fonksiyonel değişikliklerle tanımlanır
+• Yapısal değişiklikler
+   •   glomerül bazal membranda kalınlaşma
+   •   Mesangiumda genişleme ve nodüller
+   •   endotel hasarı
+   •   Glomerüloskleroz
+   •   podosit kaybı
+• Klinik bulgular
+   • Albüminüri
+   • GFR de azalma
+=== Sayfa 4 ===
+Diyabetik Nefropati
+           Tip-1 DM                           Tip-2 DM
+• 10-15 yıl içinde % 10-15 unda   • DN prevelansı daha yaygındır
+  mikroalbuminuri gelişebilir     • Tanı anında %10-20 sinde
+• 20 yılda %8-10 sinde Son          mikroalbuminuri mevcut olabilir
+  Dönem Böbrek Hastalığı (SDBH)   • 20 yıl içinde %10-15 hastada
+  gelişebilir                       SDBH gelişebilir
+=== Sayfa 5 ===
+                              Türkiyede Evre 5 KBH’nın Etiyolojik dağılımı
+KBH’nın Nedenleri                                                        %
+Diyabetes Mellitus                                                       39,04
+Tip 1 DM                                                                 3,56
+Tip 2 DM                                                                 35,49
+Hipertansiyon                                                            24,91
+Glomerulonefrit                                                          5,90
+Polikistik Böbrek Hastalığı                                              4,85
+Amiloidoz                                                                1,89
+Tubulointerstisyel Nefrit                                                1,45
+Obstriktif Nefropati                                                     1,19
+Renovasküler Hastalık                                                    0,89
+Diğer                                                                    7,79
+Nedeni Bilinmeyen                                                        13,15
+Toplam                                                                   100
+=== Sayfa 6 ===
+    Diyabetik Nefropati- Risk Faktörleri
+•    Hiperglisemi (süre ve derecesi)
+•    Hipertansiyon
+•    Dislipidemi
+•    Obesite
+•    Sigara
+•    Etnik köken
+•    Genetik yatkınlık
+     • Ailede DN öyküsü
+     • RAS poliformizmi
+     • Insulin drenci
+=== Sayfa 7 ===
+Hiperglisemi
+   • Hiperglisemi diyabetin kronik komplikasyonlarının temel
+     nedenlerinden biridir.
+   • Dört farklı mekanizma ile olumsuz etkilerini gösterir:
+     - İleri glikasyon son ürünlerinin oluşması (AGE)
+     - Protein kinaz C aktivasyonu
+     - Oksidatif stres ve polyol yolağında bozukluk
+     - Heksozamin yolağı ve fruktoz-6 fosfat oluşumu
+=== Sayfa 8 ===
+=== Sayfa 9 ===
+AGE
+AGE’ler spesifik reseptörlerine (RAGE)
+bağlanırlar:
+1. Sitokin ve büyüme faktörlerinin salınımına
+   neden olur
+2. Reaktif oksijen türleri oluşur
+3. Prokoagülan aktivite artar
+4. Damar düz kas proliferasyonu ve
+   ekstraselüler matriks sentezi artar
+=== Sayfa 10 ===
+Hemodinamik faktörler
+• Hipergliseminin ortaya çıkardığı sorunların hızlanmasına neden olur. Bu
+  faktörler;
+   • Hiperfiltrasyon; TANIM:
+       • Diyabetli hastalarda, hastalık seyrinin başlarında paradoksal olarak yüksek bir GFR vardır
+          (yani, "glomerüler hiperfiltrasyon").
+       • Glomerüler hiperfiltrasyon, genellikle GFR'nin diyabeti olmayan aynı yaştaki sağlıklı
+          kontrollerdekinden yaklaşık %20 veya daha fazla olması olarak tanımlanır.
+       • Hiperglisemiye bağlı afferent arteriolde vasodilatasyon görülür (IGF-1, TGF-beta , nitrik
+          oksit, glukagon).
+       • Efferent arteriolde vasokonstriksiyon
+       • Glomerüler hipertansiyon
+=== Sayfa 11 ===
+Renovaskuler regulasyon
+=== Sayfa 12 ===
+RAS Aktivasyonu
+• İntrarenal RAS aktivasyonu diyabetik nefropati patogenezinde önemli
+  bir rol oynar.
+• Hiperglisemi ve AGE’ler anjiyotensinojen ve renin salınımı uyarır.
+• Proteinüri, tubulus hücrelerinde RAS aktivasyonuna neden olur.
+  Tubuler toxositeye neden olur
+• Anjiyotensin II’nin birçok non-hemodinamik etkisi vardır:
+   hücre proliferasyonu, hipertrofi, ECM genişlemesi, TGF-
+   beta sentezi
+=== Sayfa 13 ===
+ Diyabetik nefropatide patogenez
+Metabolik                    Genetik                    Hemodinamik
+
+ Glukoz                                Vasoaktif hormonlar
+                    Protein kinaz C
+                     aktivasyonu       Anjiotensin II, endotelin
+ Glukasyon
+                               Sitokinler
+                               TGF-ß, VEGF
+
+                 ESM ↑                     Vasküler permeabilite artışı
+
+  ESM birikimi           GLOMERULOSKLEROZ
+                                                      Proteinüri
+=== Sayfa 14 ===
+  Patoloji
+• Renal volüm artışı; yaklaşık %15 artış olur.
+• Kapiller bazal membran kalınlaşması
+• Diffüz mesangial matriks artışı
+• Nodüler glomerüloskleroz (Kimmelstiel-Wilson lezyonu)
+• Diffüz glomerüloskleroz
+• Arteriol lezyonları
+• Tübüler lezyonlar
+=== Sayfa 15 ===
+Diyabetik Nefropati klinik seyri
+=== Sayfa 16 ===
+Diyabetik Nefropati - Evreleri
+=== Sayfa 17 ===
+    Diabetik Nefropati
+                  Klinik Evreler
+
+               Tip 1 de daha belirgin-ilk 5 yıl
+GFH
+
+               30-300 mg/gün albüminüri, RİA
+Mikroalb.
+
+              Günlük protein atılımı 300 mg üzerinde
+              Progresif renal fonksiyon kaybı ve Nefrotik
+Makroalb.     sendrom klinik özellikleri
+
+               İleri KBH ve son dönem böbrek
+İleri Evre
+               yetmezliğine gidiş – Kreatinin 2.0 mg
+               üzerine çıktığında SDBY gidiş 2.5 yıl
+=== Sayfa 18 ===
+   Mikroalbuminüri-Makroalbuminüri
+• Mikroalbuminüri;
+  • Günlük idrarla 30-300 mg albümin atılımıdır.
+  • Diabetik nefropatinin en erken bulgularından birisidir.
+  • Nefropatinin erken tanınması başarılı bir önleme tedavisinin
+    düzenlenmesi için;
+     • 5 yılı geçen tüm tip 1 DM lu olgulara
+     • Diabetin yaşına bakılmaksızın tüm tip 2 DM lu olgulara 70yaşına kadar
+       mikroalbuminuri için yıllık tarama yapılmalıdır.
+
+• Makroalbuminüri
+  • Overt proteinüri (aşikar proteinüri, çok yüksek albumin atılımı)
+  • Albumin atılımının >300 mg/gün
+=== Sayfa 19 ===
+Diyabetik Nefropati -Klinik özellikler
+• Hastalığın en önemli klinik belirtileri
+   • Albuminuri
+   • Ilerleyeci kronik böbrek hastalığıdır
+=== Sayfa 20 ===
+Diyabetik Böbrek Hastalığında eGFR azalması
+• Yaşlanmadan dolayı 0,5-1 ml/dk/1.73m2 /yıl
+• Albuminuri durumuna göre
+   • Normoalbuminuri: %1.2 / yıl
+   • Mikroalbuminuri: %1.7 / yıl
+   • Makroalbuminuri: %5.7/ yıl
+• SDBH ulaşanların %25-30 u Normoalbuminuriktır
+=== Sayfa 21 ===
+DN Genel Tedavi yaklaşımı
+1. Progresyonu azaltmaya yönelik tedavi
+   a. Diyet
+      1. Diyette Protein kısıtlaması: Hemodiyalize girmiyorsa
+         (0,8-1gr/kg/gün). HD giriyorsa 1,2gr/kg/gün
+      2. 5 gr/gün tuzlu diyet (2 gr Na)
+  c. Kan basıncı kontrolü (ACE-I, ARB)
+  d. Kan şekeri kontrolü
+  e. Proteinürinin azaltılması
+      1. Diyette Protein kısıtlaması(0,8-1gr/kg/gün)
+      2. ACE-I, ARB
+      3. SGLT2 tedavileri
+   f. Sigaranın kesilmesi
+  g. Fazla kiloların verilmesi
+=== Sayfa 22 ===
+Diyabetik Böbrek Hastalarında Risk Yönetimi
+=== Sayfa 23 ===
+Diyabetik Nefropati -Önleyici Tedavi
+
+• İyi Glisemik Kontrol (HbA1c<7.0) sağlanması en önemli ve temel
+  engelleyici tedavi yöntemidir.
+• Hem tip 1 DM hem de tip 2 DM için önemlidir.
+=== Sayfa 24 ===
+RAS blokajının
+böbrek koruyucu mekanizmaları
+• Sistemik kan basıncında düşme
+• İntraglomerüler basınçta düşme
+• Proteinüride azalma
+• Natriürez
+• Anjiotensin II’nin değişik hücreler üzerine yapmış olduğu
+  etkinin giderilmesi
+• Makrofaj aktivasyonunun inhibisyonu

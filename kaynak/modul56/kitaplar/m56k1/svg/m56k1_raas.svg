@@ -1,0 +1,59 @@
+<svg viewBox="0 0 640 420" width="100%" style="display:block" role="img" aria-label="Renin-anjiyotensin-aldosteron sistemi">
+  <defs><marker id="k1e" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k1ec" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k1em" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="20" y="10" width="185" height="44" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="112.5" y="28.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Afferent perfüzyon ↓</text>
+  <text x="112.5" y="43.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hipovolemi, darlık, KY</text>
+  <rect x="227" y="10" width="186" height="44" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="320.0" y="28.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Makula densada NaCl ↓</text>
+  <text x="320.0" y="43.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hiponatremi, hacim azlığı</text>
+  <rect x="435" y="10" width="185" height="44" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="527.5" y="28.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Sempatik β1 uyarısı</text>
+  <text x="527.5" y="43.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ayağa kalkma, kanama</text>
+  <rect x="230" y="82" width="180" height="40" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="320.0" y="105.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Renin ↑ (granüler hücre)</text>
+  <path d="M112,54 L112,66 L320,66 L320,78" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1e)"/>
+  <line x1="320" y1="54" x2="320" y2="78" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1e)"/>
+  <path d="M528,54 L528,66 L320,66 L320,78" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1e)"/>
+  <rect x="20" y="150" width="170" height="44" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="105.0" y="168.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Anjiyotensinojen</text>
+  <text x="105.0" y="183.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">karaciğer</text>
+  <rect x="235" y="150" width="170" height="44" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="320.0" y="168.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Anjiyotensin I</text>
+  <text x="320.0" y="183.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">etkisiz dekapeptid</text>
+  <rect x="450" y="150" width="170" height="44" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="535.0" y="168.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Anjiyotensin II</text>
+  <text x="535.0" y="183.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">oktapeptid</text>
+  <line x1="190" y1="172" x2="231" y2="172" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1e)"/>
+  <line x1="405" y1="172" x2="446" y2="172" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1e)"/>
+  <text x="210.0" y="188.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">renin</text>
+  <text x="426.0" y="166.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">ACE</text>
+  <text x="426.0" y="206.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">akciğer endoteli</text>
+  <path d="M320,122 L320,136 L210,136 L210,164" fill="none" stroke="var(--color-accent-700)" stroke-width="1.5" marker-end="url(#k1ec)"/>
+  <rect x="20" y="248" width="138" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="89.0" y="267.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Vazokonstriksiyon</text>
+  <text x="89.0" y="282.1" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">efferent &gt; afferent</text>
+  <path d="M535,194 L535,222 L89,222 L89,244" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1e)"/>
+  <rect x="164" y="248" width="172" height="46" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="250.0" y="267.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Adrenal KORTEKS</text>
+  <text x="250.0" y="282.1" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">zona glomerulosa → aldosteron</text>
+  <path d="M535,194 L535,222 L250,222 L250,244" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1e)"/>
+  <rect x="342" y="248" width="136" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="410.0" y="267.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Proksimal tübül</text>
+  <text x="410.0" y="282.1" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">Na⁺ emilimi ↑ (NHE3)</text>
+  <path d="M535,194 L535,222 L410,222 L410,244" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1e)"/>
+  <rect x="484" y="248" width="136" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="552.0" y="267.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Susama ve ADH ↑</text>
+  <text x="552.0" y="282.1" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">su alımı ve tutulması</text>
+  <path d="M535,194 L535,222 L552,222 L552,244" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1e)"/>
+  <rect x="140" y="322" width="280" height="50" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="280.0" y="343.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Aldosteron → toplayıcı kanal esas hücresi</text>
+  <text x="280.0" y="358.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ENaC, Na-K-ATPaz ↑: Na⁺ tutulur; K⁺ ve H⁺ atılır</text>
+  <line x1="244" y1="294" x2="244" y2="318" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1e)"/>
+  <rect x="440" y="322" width="180" height="50" rx="4" fill="white" stroke="var(--color-accent-2-900)" stroke-width="1.5"/>
+  <text x="530.0" y="343.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">Adrenal MEDULLA</text>
+  <text x="530.0" y="358.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">katekolamin; aldosteron DEĞİL</text>
+  <path d="M620,172 L632,172 L632,102 L414,102" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1e)"/>
+  <line x1="462.0" y1="102" x2="478.0" y2="102" stroke="var(--color-accent-2-900)" stroke-width="2.5"/>
+  <text x="476.0" y="96.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">negatif geri bildirim</text>
+  <text x="20.0" y="404.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">Renini baskılayanlar: perfüzyon ↑, tuz yükü, hipernatremi, anjiyotensin II, ANP.</text>
+</svg>

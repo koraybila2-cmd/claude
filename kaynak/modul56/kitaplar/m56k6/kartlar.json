@@ -1,0 +1,337 @@
+{
+ "kitap": "Kitap 6",
+ "konular": [
+  "aclik",
+  "aminoasit"
+ ],
+ "bolumler": [
+  {
+   "no": "1",
+   "ad": "Açlıkta biyokimyasal değişiklikler",
+   "kartlar": [
+    {
+     "no": "1.1",
+     "ids": [
+      "MSD-2018-2019-69",
+      "BSD-2024-2025-96",
+      "MSD-2024-69"
+     ],
+     "kisa": "Açlıkta yakıt depoları: ilk biten kaynak ve başka dokulara yakıt veremeyen depo",
+     "kisa_cevap": "İlk biten ve ilk başvurulan: karaciğer glikojeni · başka dokulara yakıt vermeyen: kas glikojeni",
+     "varyant": [
+      "BSD 2024-25 aynı soruyu “ilk başvurulan” diye sordu, şıklar aynı: **karaciğer glikojeni** (B).",
+      "2024-25 MSD: açlıkta diğer dokuların kullanması için yararlanılan enerji kaynaklarından olmayan: **kas glikojeni** (B). Karaciğer glikojeni, yağ dokusunun trigliserit deposu, kas proteini ve serbest yağ asitleri diğer dokulara yakıt sağlar."
+     ],
+     "gerekce": [
+      "**E doğru.** Açlıkta kan glukozunu ilk koruyan depo karaciğer glikojenidir. Glukagon yükselince karaciğer glikojeni yıkılır (glikojenoliz) ve glukoz kana verilir. Bu depo küçüktür: sunuma göre yaklaşık 108 g'dır ve yaklaşık 18 saatte boşalır. Yağ dokusundaki trigliserit deposu ise haftalarca yeter. Proteinler bir depo değildir. Her proteinin bir işlevi vardır, ancak glukoneogeneze karbon sağlamak için yıkılır.",
+      "Kas glikojeni de açlıkta yıkılır, ama yalnızca kasın kendi kasılması için kullanılır. Kasta glukoz-6-fosfataz yoktur. Glikojenden çıkan glukoz-6-fosfat glukoza çevrilip kana verilemez, kas hücresinde glikolize girer. Kas glikojeni bu yüzden başka dokulara yakıt sağlamaz (2024-25 sorusunun cevabı). Kas proteini ise amino asitleri ve alanin üzerinden karaciğere glukoneogenez için karbon gönderir. → 1.1"
+     ]
+    },
+    {
+     "no": "1.2",
+     "ids": [
+      "MSD-2019-66",
+      "MSD-2018-2019-67"
+     ],
+     "kisa": "Erken açlıkta ya da bir haftaya kadar olan açlıkta görülmeyen durum",
+     "kisa_cevap": "Fruktoz 2,6-bisfosfatın artması (2019-20) · yağ yıkımından gelen asetil-CoA'nın glukoza çevrilmesi (2018-19)",
+     "cevap": "**Kaynak notu:** 2019-20 sorusunda “erken açlık” bir haftaya kadar olan açlık anlamında kullanılmıştır. Sunumun tanımıyla erken açlık yemekten sonraki ilk 24 saattir. Beyin keton cisimlerini ancak açlığın birkaç gününden sonra önemli miktarda kullanır. D ifadesi bu yüzden 2018-19 sorusundaki “bir haftaya kadar olan açlık” için tam doğrudur.",
+     "varyant": "2018-19 MSD aynı dört doğru ifadeyle bir haftaya kadar olan açlığı sordu. Gözlenmeyen: **yağların yıkımıyla oluşan asetil CoA glikoz oluşumuna yönlendirilir** (B).",
+     "gerekce": [
+      "**E doğru.** Fruktoz 2,6-bisfosfat glikolizin anahtar enzimi PFK-1'in en güçlü aktivatörü, glukoneogenezin enzimi fruktoz 1,6-bisfosfatazın da inhibitörüdür. Açlıkta glukagon cAMP üzerinden PFK-2/fruktoz 2,6-bisfosfatazı fosforiller. Enzimin kinaz yüzü kapanır, fosfataz yüzü açılır ve fruktoz 2,6-bisfosfat düşer. Glikoliz yavaşlar, glukoneogenez hızlanır. Fruktoz 2,6-bisfosfatın arttığı durum tokluktur.",
+      "Diğer ifadeler açlığın ilk günlerini anlatır. Karaciğer glikojeni ilk 18-24 saatte tükenir, ardından glukoz glukoneogenezle üretilir. Kas ve böbrek yağ asitlerine geçer. Keton cisimleri yapılmaya başlar ve beyin onları kullanmaya başlar. 2018-19'un cevabındaki yanlış, memelilerin asetil-CoA'dan net glukoz yapamamasıdır. Piruvat dehidrogenaz tepkimesi geri dönmez. Asetil-CoA TCA döngüsüne girerse de iki karbonu CO2 olarak kaybedilir. Yağdan glukoza çevrilebilen tek parça trigliseridin gliserolüdür. → 1.1, 1.2"
+     ]
+    },
+    {
+     "no": "1.3",
+     "ids": [
+      "MSD-2019-67"
+     ],
+     "kisa": "Yemek sonrası karaciğerde aktif olan enzim",
+     "kisa_cevap": "Fosfofruktokinaz-2 (defosforile hâlde kinaz olarak çalışır)",
+     "cevap": "**Kaynak notu:** Sunumdaki tabloya göre piruvat karboksilaz hem toklukta hem açlıkta aktiftir, çünkü asetil-CoA ile aktifleşir (Tablo 1.1). A şıkkı bu yüzden tam yanlış değildir. Soru tokluğa özgü enzimi sorar.",
+     "gerekce": [
+      "**C doğru.** PFK-2/fruktoz 2,6-bisfosfataz iki yüzlü tek bir enzimdir. Toklukta insülin fosfatazları uyarır ve enzim defosforile kalır. Bu hâlde kinaz yüzü çalışır, fruktoz 2,6-bisfosfat yapar, PFK-1'i uyarır ve glikolizi açar. Sunuma göre yemekten sonra kan glukozunun düşmesi için glikolizin de aktif olması gerekir. Açlıkta aynı enzim fosforile olur ve fosfataz olarak çalışır (Tablo 1.1).",
+      "Fosfoenolpiruvat karboksikinaz (B) glukoneogenezin, yağ açilkarnitin transferaz-1 (D, yani CPT-1) yağ asidi oksidasyonunun, glikojen fosforilaz (E) glikojen yıkımının enzimidir. Üçü de açlıkta aktiftir. → 1.2"
+     ]
+    },
+    {
+     "no": "1.4",
+     "ids": [
+      "MSD-2023-2024-68",
+      "MSD-2022-2023-69",
+      "MSD-2021-2022-70"
+     ],
+     "kisa": "Fosforile olunca aktifleşen enzim",
+     "kisa_cevap": "Glikojen fosforilaz (2023-24, 2022-23) · fruktoz 2,6-bisfosfataz (2021-22)",
+     "cevap": "**Kaynak notu:** 2022-23 sorusu yazıldığı gibi okunursa beş enzimin hepsi açlıkta fosforiledir. Asetil-CoA karboksilaz, piruvat dehidrogenaz, piruvat kinaz ve glikojen sentaz fosforilasyonla kapanır, glikojen fosforilaz fosforilasyonla açılır. Sorunun kastettiği, açlıkta fosforile ve aktif olan enzimdir.",
+     "varyant": [
+      "2022-23 MSD: açlık durumunda fosforile olan enzim: **glikojen fosforilaz** (D). Asetil-CoA karboksilaz, piruvat dehidrogenaz, piruvat kinaz ve glikojen sentaz çeldiriciydi.",
+      "2021-22 MSD: fosforile olarak aktif olan: **fruktoz 2,6-bisfosfataz** (öncüller arşivde yok)."
+     ],
+     "gerekce": [
+      "**D doğru.** Açlıkta glukagon (kasta epinefrin) cAMP'yi artırır ve protein kinaz A'yı (PKA) uyarır. PKA fosforilaz kinazı fosforiller. Fosforilaz kinaz da glikojen fosforilazı fosforiller ve aktif a formuna çevirir. Aynı kaskad glikojen sentazı fosforilleyip kapatır. Tek bir sinyal böylece glikojenin hem yıkımını açar hem yapımını kapatır. Açlıkta fosforilasyonla açılan enzimler yıkım enzimleridir: fosforilaz kinaz, glikojen fosforilaz, hormona duyarlı lipaz ve PFK-2/fruktoz 2,6-bisfosfatazın fosfataz yüzü (Tablo 1.1).",
+      "Glikojen sentaz, piruvat kinaz, piruvat dehidrogenaz ve asetil-CoA karboksilaz yapım ya da yakma yollarının enzimleridir ve defosforile hâlde, yani toklukta aktiftir (A-C). Asetil-CoA (E) bir enzim değil, bir metabolittir. → 1.2"
+     ]
+    },
+    {
+     "no": "1.5",
+     "ids": [
+      "MSD-2024-71",
+      "MSD-2023-2024-71",
+      "BSD-2023-2024-96",
+      "BSD-2022-2023-95",
+      "MSD-2021-2022-68",
+      "MSD-2020-s58"
+     ],
+     "kisa": "Açlıkta aktivitesi ya da sentezi artan karaciğer enzimi",
+     "kisa_cevap": "Glukoneogenezin enzimleri: glukoz-6-fosfataz, fruktoz 1,6-bisfosfataz, PEPCK",
+     "varyant": [
+      "BSD 2023-24 ve BSD 2022-23: açlıkta aktivitesi artan: **glukoz-6-fosfataz** (D). Çeldiriciler glukoz-6-fosfat dehidrogenaz, malik enzim, yağ asidi sentaz ve asetil-CoA karboksilazdı. 2020-21 MSD'de de cevap glukoz-6-fosfataz (öncüller arşivde yok).",
+      "2023-24 MSD: açlıkta sentezi artan: **fruktoz 1,6-bisfosfataz** (D). Glukokinaz, sitrat liyaz, asetil-CoA karboksilaz ve yağ asit sentaz çeldiriciydi. 2021-22 MSD'de cevap **fosfoenolpiruvat karboksikinaz** (öncüller arşivde yok)."
+     ],
+     "gerekce": [
+      "**A doğru.** Açlıkta karaciğerin işi kana glukoz vermektir ve bu işi yapan enzimlerin miktarı artar. Glukagon cAMP üzerinden, kortizol kendi reseptörü üzerinden glukoneogenezin üç enziminin genlerini indükler: fosfoenolpiruvat karboksikinaz (PEPCK), fruktoz 1,6-bisfosfataz ve glukoz-6-fosfataz (Tablo 1.1). Glukoz-6-fosfataz hem glikojenden hem glukoneogenezden gelen glukoz-6-fosfatı serbest glukoza çevirir ve kana verilmesini sağlar. Yalnızca karaciğerde ve böbrekte bulunur.",
+      "Diğer şıklar toklukta indüklenen, glukozu yağa çeviren enzimlerdir. Glukokinaz glukozu yakalar. Sitrat liyaz mitokondriden çıkan sitrattan asetil-CoA yapar. Asetil-CoA karboksilaz ve yağ asit sentaz yağ asidi sentezler. Malik enzim ve glukoz-6-fosfat dehidrogenaz bu sentez için NADPH üretir. Açlıkta insülin düştüğü için hepsinin sentezi azalır. → 1.2"
+     ]
+    },
+    {
+     "no": "1.6",
+     "ids": [
+      "MSD-2025-2026-25",
+      "MSD-2022-2023-70",
+      "MSD-2023-2024-69",
+      "MSD-2021-2022-71"
+     ],
+     "kisa": "Açlıkta karaciğerdeki metabolik değişiklikler",
+     "kisa_cevap": "Pentoz fosfat yolu azalır · glikojen fosforilaz azalmaz, artar · hormona duyarlı lipaz defosforile değil, fosforiledir",
+     "varyant": [
+      "2022-23 MSD'de aynı soru, aynı şıklar. Cevap **pentoz fosfat yolu aktivitesi azalır**.",
+      "2023-24 MSD tersini sordu: açlıkta karaciğerde görülmeyen değişiklik: **glikojen fosforilaz aktivitesi azalır** (A). Doğru kabul edilenler: glukoz-6-fosfataz aktivitesi artar, piruvat dehidrogenaz azalır, sitrat sentaz azalır, glukoz-6-fosfat dehidrogenaz azalır.",
+      "2021-22 MSD: açlıkta karaciğerde oluşan değişikliklerden olmayan: **hormon duyarlı lipaz defosforiledir** (öncüller arşivde yok). Açlıkta bu enzim fosforile ve aktiftir, asıl çalıştığı yer de yağ dokusudur."
+     ],
+     "gerekce": [
+      "**E doğru.** Pentoz fosfat yolu (HMP yolu) karaciğerde yağ asidi ve kolesterol sentezi için NADPH üretir. Açlıkta sentez durduğu için NADPH ihtiyacı düşer. Yolun ilk enzimi glukoz-6-fosfat dehidrogenazın sentezi insülinle indüklenir, açlıkta azalır. Glukoz-6-fosfat da glukoza çevrilip kana verilmeye yönelir (Şekil 1.3).",
+      "Diğer şıklar tokluğu anlatır. Açlıkta glikojen yapımı azalır, glikojen sentaz fosforilasyonla aktifleşmez, kapanır (A, B). Fruktoz 2,6-bisfosfat düştüğü için PFK-1 yavaşlar (C). Piruvat dehidrogenaz, β-oksidasyondan gelen asetil-CoA ve NADH ile baskılanır ve PDH kinaz tarafından fosforillenip kapanır. Piruvat böylece glukoneogeneze ayrılır (D). Oksaloasetat glukoneogeneze çekildiği için TCA döngüsü ve sitrat sentaz da yavaşlar. → 1.3"
+     ]
+    },
+    {
+     "no": "1.7",
+     "ids": [
+      "MSD-2023-2024-70"
+     ],
+     "kisa": "Hormona duyarlı lipazın aktivitesini artırmayan hormon",
+     "kisa_cevap": "İnsülin (lipolizi baskılar)",
+     "gerekce": [
+      "**A doğru.** Hormona duyarlı lipaz (HSL), yağ dokusunda trigliseritleri gliserol ve yağ asitlerine ayırır. Sunuma göre glukagon, epinefrin, ACTH ve büyüme hormonu cAMP aracılı bir yolla HSL'yi fosforiller ve aktifleştirir. İnsülin ise ters yönde çalışır. Fosfodiesterazı uyarıp cAMP'yi düşürür ve protein fosfatazları uyararak HSL'yi defosforiller. Toklukta lipoliz bu yüzden durur, açlıkta insülin düşünce başlar.",
+      "Lipolizin ürünleri açlığın iki yakıtını besler. Yağ asitleri kas ve böbrek tarafından yakılır, karaciğerde keton cisimlerine çevrilir. Gliserol karaciğerde glukoneogeneze girer. → 1.4"
+     ]
+    },
+    {
+     "no": "1.8",
+     "ids": [
+      "MSD-2025-2026-23",
+      "MSD-2022-2023-71",
+      "MSD-2018-2019-68"
+     ],
+     "kisa": "Açlıkta görülmeyen değişiklik: asetil-CoA karboksilazın aktifleşmesi",
+     "kisa_cevap": "Asetil-CoA karboksilaz açlıkta aktifleşmez, fosforillenip kapanır",
+     "varyant": [
+      "2022-23 MSD'de aynı soru, aynı şıklar.",
+      "2018-19 MSD aynı ifadeyi başka şıklarla sordu: açlıkta görülmeyen: **asetil CoA karboksilaz aktivitesi uyarılmıştır** (E). Doğru kabul edilenler: glikoliz azalmıştır, karaciğer glikojeni yıkılır, insülin/glukagon oranı azalır, glukoneogenez uyarılır."
+     ],
+     "gerekce": [
+      "**B doğru.** Asetil-CoA karboksilaz (ACC) yağ asidi sentezinin hız kısıtlayan enzimidir: asetil-CoA'yı malonil-CoA'ya çevirir. Toklukta sitratla allosterik olarak aktifleşir ve insülinle sentezi artar. Açlıkta iki kinaz onu fosforiller ve kapatır: AMP ile aktifleşen protein kinaz (AMPK) ve glukagonun uyardığı PKA. Sunum bu basamağı AMPK ile anlatır. Malonil-CoA düşer, CPT-1'in freni kalkar ve yağ asitleri yakılmaya gider (Şekil 1.4).",
+      "Diğer ifadeler açlıkta doğrudur. Glikoliz yavaşladığı için piruvat oluşumu azalır (A). Hormona duyarlı lipaz fosforile ve aktiftir (C). PFK-2'nin kinaz aktivitesi azalır, enzim fosfataz olarak çalışır (D). Fruktoz 1,6-bisfosfataz glukoneogenez için aktiftir (E). → 1.4"
+     ]
+    },
+    {
+     "no": "1.9",
+     "ids": [
+      "MSD-2024-70",
+      "MSD-2022-2023-68",
+      "MSD-2020-s39"
+     ],
+     "kisa": "Açlıkta aktif olan enzim: karnitin palmitoil transferaz-1",
+     "kisa_cevap": "Karnitin palmitoil transferaz-1 (malonil-CoA freni kalkar)",
+     "varyant": "2022-23 MSD: açlıkta daha aktif olan: **karnitin palmitoil transferaz-1** (A). Yağ açil sentaz, PFK-1, PFK-2 ve glikojen sentaz çeldiriciydi. 2020-21 MSD'de de cevap CPT-1 (öncüller arşivde yok).",
+     "gerekce": [
+      "**B doğru.** Uzun zincirli yağ asitleri mitokondri iç zarından kendi başlarına geçemez. Dış zardaki karnitin palmitoil transferaz-1 (CPT-1) açil-CoA'nın açil grubunu karnitine aktarır. Açilkarnitin bir taşıyıcıyla matrikse girer, orada yeniden açil-CoA'ya çevrilir ve β-oksidasyona girer. CPT-1 β-oksidasyonun hız kısıtlayan basamağıdır ve malonil-CoA ile allosterik olarak baskılanır. Açlıkta ACC kapandığı için malonil-CoA düşer, fren kalkar ve CPT-1 aktifleşir. Sunumdaki tablo bunu “inhibitör kaybı” diye yazar (Tablo 1.1).",
+      "Bu düzen yağ asidinin aynı anda hem yapılıp hem yakılmasını önler. Toklukta yapılan malonil-CoA hem yağ asidi sentezinin ilk ürünüdür hem de yeni yapılan yağ asidinin mitokondriye girip yakılmasını engeller. Glikojen sentaz, glukokinaz, piruvat kinaz ve PFK-1 toklukta aktiftir. → 1.4"
+     ]
+    },
+    {
+     "no": "1.10",
+     "ids": [
+      "MSD-2025-2026-24",
+      "MSD-2019-69",
+      "MSD-2021-2022-69"
+     ],
+     "kisa": "Keton cisimleri: kaynağı, kullanımı ve açlıktaki düzeyi",
+     "kisa_cevap": "Kaynağı yağ asitlerinin β-oksidasyonu · asetoasetat koenzim A'yı süksinil-CoA'dan alır · açlıkta β-hidroksibütirat eksikliği görülmez",
+     "varyant": [
+      "2019-20 MSD: keton cisimlerinden enerji üretmek üzere asetoasetil-CoA'ya dönüşecek asetoasetat koenzim A'yı **süksinil-CoA'dan** alır (D). Çeldiriciler serbest koenzim A, HMG-CoA, asetil-CoA ve malonil-CoA'ydı.",
+      "2021-22 MSD: açlıkta eksikliği görülmeyen: **β-hidroksibütirat** (öncüller arşivde yok). Açlıkta keton cisimleri azalmaz, artar."
+     ],
+     "gerekce": [
+      "**E doğru.** Açlıkta yağ dokusundan gelen yağ asitleri karaciğer mitokondrisinde β-oksidasyona girer ve çok miktarda asetil-CoA oluşur. Oksaloasetat glukoneogeneze çekildiği için asetil-CoA'nın hepsi TCA döngüsüne giremez. Fazlası keton cisimlerine çevrilir. İki asetil-CoA asetoasetil-CoA'yı, o da HMG-CoA'yı yapar. HMG-CoA liyaz asetoasetatı ayırır. Asetoasetat NADH ile β-hidroksibütirata indirgenir, bir kısmı da kendiliğinden asetona dönüşür (Şekil 1.5).",
+      "Kullanım ters yönde ve karaciğer dışında olur. Kalp, iskelet kası, böbrek ve uzamış açlıkta beyin, β-hidroksibütiratı yeniden asetoasetata çevirir. Süksinil-CoA:asetoasetat CoA transferaz (tioforaz) süksinil-CoA'nın koenzim A'sını asetoasetata aktarır ve asetoasetil-CoA oluşur. Bu da iki asetil-CoA'ya ayrılıp TCA döngüsünde yakılır. Karaciğerde bu transferaz yoktur, karaciğer yaptığı keton cisimlerini kendisi kullanamaz. Glikoliz, Krebs döngüsü ve amino asit yıkımı keton cisimlerinin ana kaynağı değildir. → 1.5"
+     ]
+    },
+    {
+     "no": "1.11",
+     "ids": [
+      "MSD-2024-68",
+      "MSD-2019-68",
+      "MSD-2020-s30"
+     ],
+     "kisa": "Piruvat dehidrogenaz, α-ketoglutarat dehidrogenaz, transketolaz ve dallı zincirli keto asit dehidrogenazın koenzimi",
+     "kisa_cevap": "Tiyamin pirofosfat (TPP)",
+     "varyant": [
+      "2019-20 MSD'de aynı soru, aynı şıklar (sıraları farklı). Cevap **tiyamin pirofosfat**.",
+      "2020-21 MSD tersinden sordu: tiyamin pirofosfat hangi enzimin koenzimidir? **Transketolaz** (öncüller arşivde yok)."
+     ],
+     "gerekce": [
+      "**C doğru.** Tiyamin (B1 vitamini) hücrede tiyamin pirofosfata (TPP) çevrilir. TPP, bir karbon-karbon bağını koparıp karbonil grubunu taşıyan enzimlerin koenzimidir. Dört enzimi vardır. Piruvat dehidrogenaz glikolizi TCA döngüsüne bağlar. α-Ketoglutarat dehidrogenaz TCA döngüsünün bir basamağıdır. Dallı zincirli α-keto asit dehidrogenaz valin, lösin ve izolösinin yıkımını yapar. Transketolaz pentoz fosfat yolunun oksidatif olmayan kolunda iki karbonluk birimleri aktarır (Şekil 1.6).",
+      "Çeldiricilerin her biri başka bir vitaminin koenzimidir (Tablo 1.2). FAD riboflavinden (B2), NAD niasinden (B3) gelir. İkisi de piruvat dehidrogenazın ve α-ketoglutarat dehidrogenazın koenzimleri arasındadır, ama dekarboksilasyonu yapan TPP'dir. Piridoksal fosfat (B6) transaminasyonların, biyotin karboksilasyonların (piruvat karboksilaz, asetil-CoA karboksilaz) koenzimidir. → 1.6"
+     ]
+    },
+    {
+     "no": "1.12",
+     "ids": [
+      "MSD-2025-2026-26",
+      "MSD-2018-2019-66",
+      "BSD-2019-2020-96",
+      "MSD-2020-s38"
+     ],
+     "kisa": "Tiyamin eksikliği: Wernicke ensefalopatisi, Korsakoff sendromu, uzun açlıktan sonra beslenme",
+     "kisa_cevap": "Tiyamin (koenzim formu tiyamin pirofosfat)",
+     "varyant": [
+      "2018-19 MSD: beslenme bozukluğunda eksikliği gözlenen ve Wernicke ensefalopatisinden sorumlu vitaminin koenzim formu: **tiyamin pirofosfat** (C). Çeldiriciler NAD, askorbik asit, piridoksal fosfat ve FAD'dı.",
+      "BSD 2019-20: uzun süreli açlık ve alkolizmde eksikliği görülen ve Korsakoff sendromuna neden olan vitamin: **tiyamin** (C).",
+      "2020-21 MSD: uzun süreli açlıktan sonra karbonhidratlı beslenme sırasında gereksinim artışına bağlı eksiklik belirtileri gösteren vitamin: **tiyamin** (öncüller arşivde yok)."
+     ],
+     "gerekce": [
+      "**C doğru.** Tiyamin eksikliği hücrelerin enerji üretme kapasitesini azaltır, çünkü TPP'ye bağımlı piruvat dehidrogenaz ve α-ketoglutarat dehidrogenaz yavaşlar. Enerjisini neredeyse yalnızca glukozun oksidasyonundan alan beyin bu açığa en duyarlı organdır. ATP azalınca zarların iyon gradyanları korunamaz, hücre içi ve dışı ödem gelişir. Hasar en çok beyin sapında, talamusta ve mamiller cisimlerde olur. Wernicke ensefalopatisinde nistagmus, çift görme, ataksi ve bilinç bulanıklığı vardır. Kayıt belleğinin bozulduğu Korsakoff psikozu bunun kalıcı izidir. İkisinin birlikteliğine Wernicke-Korsakoff sendromu denir.",
+      "Karbonhidrattan zengin beslenme tiyamin ihtiyacını artırır, çünkü glukoz arttıkça TPP'ye bağımlı enzimlerden geçmesi gereken piruvat da artar. Uzun açlıktan ya da alkolizmden sonra tiyaminsiz glukoz verilirse azalmış depo hızla tükenir ve Wernicke tablosu ortaya çıkabilir. Yeniden beslemeye bu yüzden tiyaminle başlanır (Kitap 4 Bölüm 3.5). Niasin eksikliği pellegra, B12 eksikliği megaloblastik anemi ve nöropati, biyotin eksikliği dermatit ve saç dökülmesi, piridoksal fosfat eksikliği nöropati ve anemi yapar. → 1.6"
+     ]
+    },
+    {
+     "no": "1.13",
+     "ids": [
+      "MSD-2018-2019-51"
+     ],
+     "kisa": "Vitamin eksikliği hastalıklarının eşleştirmesi",
+     "kisa_cevap": "Yalnızca pellegra-niasin eşleştirmesi doğrudur",
+     "gerekce": [
+      "**Yalnız 1.** Pellegra niasin (B3) eksikliğidir: dermatit, ishal ve demans. Niasin NAD ve NADP'nin yapı taşıdır, triptofandan da az miktarda yapılabilir. Kseroftalmi tiyaminin değil A vitamininin eksikliğidir: konjonktiva ve kornea kurur, tedavi edilmezse kornea yumuşar (keratomalazi). Beriberi B6'nın değil tiyaminin (B1) eksikliğidir: kuru tipte periferik nöropati, yaş tipte kalp yetmezliği ve ödem. Skorbüt K vitamininin değil C vitamininin eksikliğidir: kollajen sentezi bozulur, diş eti kanar, yaralar geç iyileşir. K vitamini eksikliği pıhtılaşma faktörlerinin yapımını bozar ve kanama yapar (Tablo 1.2). → 1.6"
+     ]
+    }
+   ]
+  },
+  {
+   "no": "2",
+   "ad": "Amino asit azotu ve üre döngüsü",
+   "kartlar": [
+    {
+     "no": "2.1",
+     "ids": [
+      "MSD-2022-2023-67",
+      "BSD-2023-2024-95",
+      "BSD-2022-2023-94"
+     ],
+     "kisa": "Transaminasyonda amino grubunun aktarıldığı temel yapı",
+     "kisa_cevap": "α-Ketoglutarat (glutamata dönüşür)",
+     "varyant": "BSD 2023-24 ve BSD 2022-23'te aynı soru, aynı şıklar (sıraları farklı). Cevap **α-ketoglutarat** (B).",
+     "gerekce": [
+      "**D doğru.** Amino asitlerin yıkımının ilk basamağı amino grubunun ayrılmasıdır. Aminotransferazlar (transaminazlar) amino asidin α-amino grubunu bir α-keto aside aktarır. Alıcı hemen her zaman α-ketoglutarattır. Amino asit kendi karbon iskeletine, yani bir α-keto aside dönüşür. α-Ketoglutarat ise amino grubunu alıp glutamata dönüşür. Vücudun çeşitli amino asitlerinin azotu böylece tek bir taşıyıcıda, glutamatta toplanır (Şekil 2.1).",
+      "Glutamat bu tepkimenin alıcısı değil ürünüdür (A). Glutamat sonra iki yola gider: glutamat dehidrogenazla amonyağını serbest bırakır ya da amino grubunu oksaloasetata verip aspartat yapar. Aspartat (B) üre döngüsüne ikinci azotu taşır. Glutamin (C) amonyağın kanda taşınma biçimidir. Glisin (E) bir amino asittir. → 2.1"
+     ]
+    },
+    {
+     "no": "2.2",
+     "ids": [
+      "MSD-2018-2019-65",
+      "MSD-2020-s61"
+     ],
+     "kisa": "Transaminasyon tepkimesine katılmayan yapı",
+     "kisa_cevap": "NADH",
+     "cevap": "**Kaynak notu:** 2020-21 sorusunun kökü glutamatın “fazla nitrojen yüküyle” oluştuğunu söyler. Bu tanım hem transaminasyona hem de glutamat dehidrogenazın indirgen aminasyonuna (α-ketoglutarat + NH4+ + NADH ya da NADPH → glutamat) uyar. Glutamat dehidrogenaz NADH ya da NADPH kullanır. Cevap ancak tepkime transaminasyon olarak okunursa doğrudur. 2018-19 sorusu tepkimeyi açıkça transaminasyon diye adlandırır.",
+     "varyant": "2020-21 MSD: ortamda fazla nitrojen yükünün artması glutamatın oluşumu yönünde tepkimeyi sağlar; bu tepkimeye katılmayan: **NADH** (öncüller arşivde yok).",
+     "gerekce": [
+      "**A doğru.** Transaminasyon bir yükseltgenme-indirgenme tepkimesi değildir, yalnızca bir amino grubunun yer değiştirmesidir. Bu yüzden NAD+ ya da NADH kullanılmaz. Tepkimeye katılanlar şunlardır: amino asit, α-keto asit alıcısı (çoğu zaman α-ketoglutarat), ürünler olan yeni α-keto asit ve glutamat, ve B6 vitamininden gelen koenzim piridoksal fosfat (PLP). PLP amino grubunu geçici olarak üzerine alıp piridoksamin fosfata dönüşür, sonra grubu alıcıya verir.",
+      "Transaminasyon dengeye yakın ve geri dönüşlü bir tepkimedir, yönünü maddelerin derişimi belirler. Ortamda azot fazlaysa tepkime glutamat yapımı yönünde, azot azsa amino asit yapımı yönünde işler. Amonyağı serbest bırakan ya da bağlayan glutamat dehidrogenaz ise NAD+ ya da NADP+ kullanan bir oksidatif deaminasyondur (Bölüm 2.1). → 2.1"
+     ]
+    },
+    {
+     "no": "2.3",
+     "ids": [
+      "MSD-2024-67"
+     ],
+     "kisa": "Karaciğerde üreye çevrilmemiş amonyağın perifere kaçmasını önleyen düzen",
+     "kisa_cevap": "Üre sentezinin periportal, glutamin sentezinin perivenöz bölgede olması",
+     "gerekce": [
+      "**A doğru.** Karaciğer asinüsünde kan portal alandan santral vene doğru akar ve hepatositler bu yol üzerinde iki gruba ayrılır (Şekil 2.2). Kanın ilk karşılaştığı periportal hepatositlerde glutaminaz ve üre döngüsü enzimleri bulunur. Üre döngüsünün kapasitesi yüksek, amonyağa afinitesi düşüktür, yani amonyak yoğunken iyi çalışır. Periportal bölgeden kaçan az miktardaki amonyak, kanın son karşılaştığı perivenöz (santral ven çevresindeki) hepatositlerde yakalanır. Bu hücrelerde üre döngüsü yoktur, ama glutamin sentetaz vardır. Bu enzimin amonyağa afinitesi yüksektir, düşük derişimdeki amonyağı da glutamine bağlar. Perivenöz hücreler kaçağı engelleyen son süzgeçtir.",
+      "Glutamin sentezi periportal değil perivenöz bölgededir (B). Glutaminaz perivenöz değil periportal bölgededir (C). İki bölge arasındaki düzene glutamat değil glutamin döngüsü denir (D). Glutaminaz ve glutamin sentetaz aynı hücrede birlikte çalışsaydı biri ötekinin ürününü yıkardı. İki enzim ayrı bölgelerde bulunduğu için böyle bir boşa döngü oluşmaz (E). → 2.2"
+     ]
+    },
+    {
+     "no": "2.4",
+     "ids": [
+      "MSD-2025-2026-22"
+     ],
+     "kisa": "Üre döngüsünün mitokondride gerçekleşen basamağı",
+     "kisa_cevap": "Ornitin transkarbamoilaz (karbamoil fosfat sentetaz I ile birlikte)",
+     "gerekce": [
+      "**D doğru.** Üre döngüsünün ilk iki basamağı mitokondri matriksindedir (Şekil 2.3). Karbamoil fosfat sentetaz I amonyak ve bikarbonattan karbamoil fosfat yapar. Ornitin transkarbamoilaz karbamoil fosfatın karbamoil grubunu ornitine aktarır ve sitrulin oluşur. Sitrulin sitozole çıkar. Kalan üç basamak sitozoldedir: argininosüksinat sentetaz sitrulini aspartatla birleştirir, argininosüksinat liyaz argininosüksinatı arginin ve fumarata ayırır, arginaz arginini üre ve ornitine ayırır (A-C). Ornitin mitokondriye geri döner.",
+      "Üre sentezi, yani ürenin serbest kalması (E), arginaz basamağıdır ve sitozolde olur. İlk basamakların mitokondride olmasının bir nedeni vardır: amonyağı serbest bırakan glutamat dehidrogenaz da mitokondridedir. Zehirli amonyak oluştuğu bölmede hemen bağlanır. → 2.3"
+     ]
+    },
+    {
+     "no": "2.5",
+     "ids": [
+      "MSD-2023-2024-67"
+     ],
+     "kisa": "Üre sentezinde yüksek enerjili bağın kullanıldığı tepkimelerde yer almayan yapı",
+     "kisa_cevap": "Ornitin",
+     "gerekce": [
+      "**A doğru.** Bir üre molekülü üç ATP harcar, ama dört yüksek enerjili fosfat bağı kullanır. Karbamoil fosfat sentetaz I tepkimesinde iki ATP ADP'ye yıkılır: NH4+ + HCO3- + 2 ATP → karbamoil fosfat (B, C). Argininosüksinat sentetaz tepkimesinde bir ATP AMP ve pirofosfata yıkılır, pirofosfat da hemen iki fosfata ayrılır. Bu tek ATP iki yüksek enerjili bağ harcar. Bu tepkimede sitrulin ile aspartat birleşir (D, E).",
+      "Ornitin, ornitin transkarbamoilaz basamağına girer. Bu tepkime ATP kullanmaz, enerjisini karbamoil fosfatın kendi yüksek enerjili bağından alır. Ornitin döngünün sonunda arginazla yeniden oluşur. Döngünün taşıyıcısıdır, tüketilmez (Tablo 2.1). → 2.3"
+     ]
+    },
+    {
+     "no": "2.6",
+     "ids": [
+      "MSD-2019-65",
+      "BSD-2019-2020-95"
+     ],
+     "kisa": "Üre döngüsünü sitrik asit döngüsüne bağlayan metabolit",
+     "kisa_cevap": "Fumarat",
+     "varyant": "BSD 2019-20'de aynı soru, aynı şıklar. Cevap **fumarat**.",
+     "gerekce": [
+      "**A doğru.** Argininosüksinat liyaz argininosüksinatı arginin ve fumarata ayırır. Fumarat bir TCA döngüsü ara ürünüdür. Sitozolde fumaraz ile malata, malat dehidrogenazla oksaloasetata çevrilir. Oksaloasetat glutamattan bir amino grubu alıp (transaminasyon) aspartata döner ve aspartat yeniden üre döngüsüne girer (Şekil 2.3). Bu bağlantıya aspartat-argininosüksinat şantı ya da “Krebs bisikleti” denir, çünkü üre döngüsünü de sitrik asit döngüsünü de Hans Krebs bulmuştur.",
+      "Sitrulin, arginin ve ornitin üre döngüsünün kendi ara ürünleridir ve TCA döngüsüne girmez (B-D). NH4+ üre döngüsünün azot kaynağıdır (E). → 2.3"
+     ]
+    },
+    {
+     "no": "2.7",
+     "ids": [
+      "BSD-2025-2026-31",
+      "BSD-2024-2025-95",
+      "MSD-2021-2022-67"
+     ],
+     "kisa": "N-asetilglutamatın uyardığı enzim: karbamoil fosfat sentetaz I",
+     "kisa_cevap": "Karbamoil fosfat sentetaz I (N-asetilglutamat onun zorunlu allosterik aktivatörüdür)",
+     "varyant": [
+      "BSD 2024-25: karbamoil fosfat sentetaz I'in allosterik aktivatörü: **N-asetil glutamat** (E). Çeldiriciler N-asetil sistein, N-asetil ornitin, N-asetil glisin ve N-asetil glutamindi.",
+      "2021-22 MSD: glutamat ve asetil-CoA'dan N-asetilglutamat sentazla oluşan N-asetilglutamat üre döngüsünde hangi basamağı etkiler? **Karbamoil fosfat sentetaz I** (öncüller arşivde yok)."
+     ],
+     "gerekce": [
+      "**A doğru.** Üre döngüsünün hız kısıtlayan basamağı karbamoil fosfat sentetaz I'dir (CPS I). Bu enzim N-asetilglutamat (NAG) bağlanmadıkça çalışmaz. NAG onun zorunlu allosterik aktivatörüdür. NAG mitokondride N-asetilglutamat sentaz ile asetil-CoA ve glutamattan yapılır. Protein alımı arttığında transaminasyonlarla glutamat artar, arginin de NAG sentazı uyarır. NAG yükselir, CPS I hızlanır ve fazla azot üreye çevrilir. Döngü böylece gelen azot miktarına dakikalar içinde uyum sağlar (Şekil 2.3). Uzun süreli yüksek proteinli diyette ve açlıkta, yani amino asit yıkımının arttığı her durumda, döngünün enzimlerinin sentezi de artar.",
+      "Döngünün diğer enzimleri (ornitin transkarbamoilaz, argininosüksinat sentetaz, argininosüksinat liyaz ve arginaz) NAG ile düzenlenmez (B-E). NAG sentaz eksikliği, CPS I'in kendisi sağlam olduğu hâlde hiperamonyemi yapar ve NAG'nin sentetik benzeri karglumik asitle tedavi edilir. → 2.4"
+     ]
+    }
+   ]
+  }
+ ]
+}

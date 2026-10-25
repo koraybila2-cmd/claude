@@ -1,0 +1,53 @@
+<svg viewBox="0 0 640 500" width="100%" style="display:block" role="img" aria-label="Böbreğin damar ağacı: renal arterden afferent arteriole, glomerülden efferent arteriol ve ikinci kapiller yatağa">
+  <defs><marker id="k1a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k1ac" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k1am" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="30" y="10" width="330" height="36" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="195.0" y="25.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Renal arter</text>
+  <text x="195.0" y="38.1" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">aorttan</text>
+  <line x1="195.0" y1="46" x2="195.0" y2="56" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1a)"/>
+  <rect x="30" y="58" width="330" height="36" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="195.0" y="73.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Segmental arterler</text>
+  <text x="195.0" y="86.1" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hilusta; uç arter, anastomoz yok</text>
+  <line x1="195.0" y1="94" x2="195.0" y2="104" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1a)"/>
+  <rect x="30" y="106" width="330" height="36" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="195.0" y="121.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">İnterlober arterler</text>
+  <text x="195.0" y="134.1" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">piramitlerin arasından yükselir</text>
+  <line x1="195.0" y1="142" x2="195.0" y2="152" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1a)"/>
+  <rect x="30" y="154" width="330" height="36" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="195.0" y="169.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Arkuat arterler</text>
+  <text x="195.0" y="182.1" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">korteks-medulla sınırında kavis</text>
+  <line x1="195.0" y1="190" x2="195.0" y2="200" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1a)"/>
+  <rect x="30" y="202" width="330" height="36" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="195.0" y="217.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">İnterlobüler (kortikal radyal) arterler</text>
+  <text x="195.0" y="230.1" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kortekse dik yükselir</text>
+  <line x1="195.0" y1="238" x2="195.0" y2="248" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1a)"/>
+  <rect x="30" y="250" width="330" height="36" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="195.0" y="265.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Afferent arteriol</text>
+  <text x="195.0" y="278.1" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">giriş direnci</text>
+  <line x1="195.0" y1="286" x2="195.0" y2="296" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1a)"/>
+  <rect x="30" y="298" width="330" height="36" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="195.0" y="313.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Glomerül kapillerleri</text>
+  <text x="195.0" y="326.1" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">1. kapiller yatak: yüksek basınç, süzer</text>
+  <line x1="195.0" y1="334" x2="195.0" y2="344" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1a)"/>
+  <rect x="30" y="346" width="330" height="36" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="195.0" y="361.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Efferent arteriol</text>
+  <text x="195.0" y="374.1" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">çıkış direnci</text>
+  <line x1="195.0" y1="382" x2="195.0" y2="392" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1a)"/>
+  <rect x="30" y="394" width="330" height="36" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="195.0" y="409.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Peritübüler kapillerler · vasa recta</text>
+  <text x="195.0" y="422.1" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">2. kapiller yatak: düşük basınç, geri emer</text>
+  <line x1="195.0" y1="430" x2="195.0" y2="440" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k1a)"/>
+  <rect x="30" y="442" width="330" height="36" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="195.0" y="457.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Venler</text>
+  <text x="195.0" y="470.1" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">interlobüler → arkuat → interlober → renal ven</text>
+  <path d="M372,254 L384,254 L384,378 L372,378" fill="none" stroke="var(--color-accent-700)" stroke-width="1.3"/>
+  <text x="394.0" y="302.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">Glomerül iki arteriol arasında:</text>
+  <text x="394.0" y="317.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">afferent daralırsa basınç düşer,</text>
+  <text x="394.0" y="331.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">efferent daralırsa basınç yükselir.</text>
+  <text x="394.0" y="345.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">(otoregülasyon: Bölüm 2.4)</text>
+  <text x="394.0" y="400.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Vasa recta jukstamedüller</text>
+  <text x="394.0" y="414.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">nefronların efferentinden çıkar.</text>
+  <text x="394.0" y="224.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">Soru 1.2 → afferent arteriolün</text>
+  <text x="394.0" y="238.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">kökeni interlobüler arterdir</text>
+  <text x="394.0" y="80.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Böbrek kan akımı ≈1,2 L/dk</text>
+  <text x="394.0" y="94.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">= kalp debisinin ≈%20'si</text>
+</svg>

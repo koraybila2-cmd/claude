@@ -1,0 +1,116 @@
+<svg viewBox="0 0 640 306" width="100%" style="display:block" role="img" aria-label="Solda Rhizopus'un laktofenol pamuk mavisiyle görülen yapıları: stolon, rizoid, sporanjiyofor, sporanjium, kolumella; sağda rinoorbitoserebral mukormikozun gelişimi: sporların solunması, savunmanın bozulması, anjioinvazyon, nekroz ve orbitaya, beyne yayılım">
+  <defs><marker id="k7e" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k7ec" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k7em" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <text x="122.0" y="18.0" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Rhizopus (LPCB)</text>
+  <path d="M14,262 Q57,255 100,262 T186,262 L230,259" fill="none" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100,262 q-5.0,12.0 -10,20" fill="none" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M94.0,274.4 l-4,5" fill="none" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100,262 q-1.0,15.0 -2,26" fill="none" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M98.8,278.12 l-4,5" fill="none" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100,262 q4.0,13.0 8,22" fill="none" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M104.8,275.64 l4,5" fill="none" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100,262 q7.0,9.0 14,14" fill="none" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M108.4,270.68 l4,5" fill="none" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="100.0" y1="262.0" x2="100.0" y2="136.0" stroke="var(--color-accent)" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="100.0" cy="108.0" r="28" fill="var(--color-accent)" fill-opacity="0.12" stroke="var(--color-accent)" stroke-width="1.6"/>
+  <path d="M88.24,134.6 Q88.24,110.8 100,110.8 Q111.76,110.8 111.76,134.6" fill="white" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="102.6" cy="87.9" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="98.2" cy="92.2" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="105.4" cy="91.3" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="114.2" cy="115.8" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="122.2" cy="114.9" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="113.2" cy="103.4" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="83.4" cy="91.1" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="78.5" cy="100.2" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="104.0" cy="99.2" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="95.0" cy="101.2" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="115.1" cy="108.5" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="102.7" cy="90.1" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="110.0" cy="102.0" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="81.8" cy="114.1" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="107.0" cy="103.1" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="77.7" cy="100.1" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="84.2" cy="95.1" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="102.7" cy="91.1" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="86.1" cy="105.5" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="108.8" cy="96.5" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="79.1" cy="110.2" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="108.9" cy="87.1" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="93.0" cy="98.1" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="113.2" cy="89.2" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="95.4" cy="87.4" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="83.1" cy="106.6" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="92.0" cy="103.4" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="90.0" cy="88.0" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="97.7" cy="99.9" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="117.6" cy="113.8" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="85.9" cy="94.6" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="99.9" cy="89.8" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="79.8" cy="104.8" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="114.0" cy="102.1" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <path d="M186,262 q-5.0,12.0 -10,20" fill="none" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180.0,274.4 l-4,5" fill="none" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M186,262 q-1.0,15.0 -2,26" fill="none" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M184.8,278.12 l-4,5" fill="none" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M186,262 q4.0,13.0 8,22" fill="none" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190.8,275.64 l4,5" fill="none" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M186,262 q7.0,9.0 14,14" fill="none" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M194.4,270.68 l4,5" fill="none" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="186.0" y1="262.0" x2="186.0" y2="187.0" stroke="var(--color-accent)" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="186.0" cy="172.0" r="15" fill="var(--color-accent)" fill-opacity="0.12" stroke="var(--color-accent)" stroke-width="1.6"/>
+  <path d="M179.7,186.25 Q179.7,173.5 186,173.5 Q192.3,173.5 192.3,186.25" fill="white" fill-opacity="1" stroke="var(--color-accent)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="177.7" cy="169.4" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="194.3" cy="178.7" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="191.6" cy="170.9" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="177.4" cy="173.6" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="187.4" cy="162.3" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="178.3" cy="171.3" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="197.1" cy="178.0" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="183.9" cy="159.4" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="175.7" cy="171.9" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <circle cx="188.0" cy="159.3" r="1.7" fill="var(--color-accent)" fill-opacity="0.9"/>
+  <line x1="122.0" y1="90.0" x2="136.0" y2="80.0" stroke="var(--color-neutral-700)" stroke-width="1" stroke-linecap="round"/>
+  <text x="138.0" y="76.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sporanjium, içinde</text>
+  <text x="138.0" y="88.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sporanjiosporlar</text>
+  <line x1="108.0" y1="120.0" x2="136.0" y2="112.0" stroke="var(--color-neutral-700)" stroke-width="1" stroke-linecap="round"/>
+  <text x="138.0" y="115.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kolumella</text>
+  <text x="106.0" y="190.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sporanjiyofor</text>
+  <text x="140.0" y="254.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">stolon</text>
+  <line x1="70.0" y1="290.0" x2="88.0" y2="282.0" stroke="var(--color-neutral-700)" stroke-width="1" stroke-linecap="round"/>
+  <text x="66.0" y="294.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">rizoid</text>
+  <text x="377.0" y="18.0" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Rinoorbitoserebral mukormikoz</text>
+  <rect x="252" y="30" width="250" height="40" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="377.0" y="46.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Sporlar solunur</text>
+  <text x="377.0" y="61.1" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">burunda ve sinüslerde tutulur</text>
+  <line x1="377" y1="71" x2="377" y2="83" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k7e)"/>
+  <rect x="252" y="84" width="250" height="40" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="377.0" y="100.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Savunma bozuk: spor çimlenir</text>
+  <text x="377.0" y="115.1" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">nötropeni, ketoasidoz, steroid</text>
+  <line x1="377" y1="125" x2="377" y2="137" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k7e)"/>
+  <rect x="252" y="138" width="250" height="40" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="377.0" y="154.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Anjioinvazyon</text>
+  <text x="377.0" y="169.1" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hifa damar duvarına girer, tromboz</text>
+  <line x1="377" y1="179" x2="377" y2="191" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k7e)"/>
+  <rect x="252" y="192" width="250" height="40" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="377.0" y="208.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Enfarkt ve nekroz</text>
+  <text x="377.0" y="223.1" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">damakta, burunda siyah eskar</text>
+  <line x1="377" y1="233" x2="377" y2="245" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k7e)"/>
+  <rect x="252" y="246" width="250" height="40" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="377.0" y="262.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Yayılım: sinüs → orbita → beyin</text>
+  <text x="377.0" y="277.1" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">günler içinde; proptozis, görme kaybı</text>
+  <rect x="514" y="84" width="118" height="94" rx="4" fill="none" stroke="none"/>
+  <text x="573.0" y="106.3" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Neden diyabet?</text>
+  <text x="573.0" y="120.3" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">asidozda transferrin</text>
+  <text x="573.0" y="134.3" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">demiri bırakır:</text>
+  <text x="573.0" y="148.3" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">serbest demir ↑,</text>
+  <text x="573.0" y="162.3" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">mantar hızla ürer</text>
+  <rect x="514" y="84" width="118" height="94" rx="4" fill="none" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-dasharray="4 3"/>
+  <line x1="513" y1="104" x2="505" y2="104" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k7e)"/>
+  <rect x="514" y="192" width="118" height="94" rx="4" fill="white" stroke="var(--color-accent-2-900)" stroke-width="1.5"/>
+  <text x="573.0" y="209.8" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">Tedavi</text>
+  <text x="573.0" y="222.8" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">cerrahi debridman</text>
+  <text x="573.0" y="235.8" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">+ amfoterisin B</text>
+  <text x="573.0" y="248.8" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">+ risk faktörünün</text>
+  <text x="573.0" y="261.8" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">düzeltilmesi</text>
+  <text x="573.0" y="274.8" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-2-900)" xml:space="preserve">vorikonazol etkisiz</text>
+  <line x1="513" y1="212" x2="505" y2="212" stroke="var(--color-accent-2-900)" stroke-width="1.5" marker-end="url(#k7em)"/>
+</svg>

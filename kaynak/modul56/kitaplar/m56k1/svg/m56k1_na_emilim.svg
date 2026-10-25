@@ -1,0 +1,27 @@
+<svg viewBox="0 0 640 250" width="100%" style="display:block" role="img" aria-label="Süzülen sodyumun nefron segmentlerine göre geri emilim yüzdesi">
+  <defs><marker id="k1d" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k1dc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k1dm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <line x1="50" y1="196.0" x2="620" y2="196.0" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-width="1"/>
+  <text x="44.0" y="199.5" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">%0</text>
+  <line x1="50" y1="145.7" x2="620" y2="145.7" stroke="var(--color-neutral-700)" stroke-opacity="0.15" stroke-width="1"/>
+  <text x="44.0" y="149.2" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">%20</text>
+  <line x1="50" y1="95.4" x2="620" y2="95.4" stroke="var(--color-neutral-700)" stroke-opacity="0.15" stroke-width="1"/>
+  <text x="44.0" y="98.9" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">%40</text>
+  <line x1="50" y1="45.1" x2="620" y2="45.1" stroke="var(--color-neutral-700)" stroke-opacity="0.15" stroke-width="1"/>
+  <text x="44.0" y="48.6" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">%60</text>
+  <path d="M95.0,196.0 L95.0,36.6 Q95.0,32.6 99.0,32.6 L115.0,32.6 Q119.0,32.6 119.0,36.6 L119.0,196.0 Z" fill="var(--color-accent)"/>
+  <text x="107.0" y="26.6" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">%65</text>
+  <text x="107.0" y="212.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Proksimal tübül</text>
+  <path d="M209.0,196.0 L209.0,137.1 Q209.0,133.1 213.0,133.1 L229.0,133.1 Q233.0,133.1 233.0,137.1 L233.0,196.0 Z" fill="var(--color-accent)"/>
+  <text x="221.0" y="127.1" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">%25</text>
+  <text x="221.0" y="212.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Kalın çıkan kol</text>
+  <path d="M323.0,196.0 L323.0,184.9 Q323.0,180.9 327.0,180.9 L343.0,180.9 Q347.0,180.9 347.0,184.9 L347.0,196.0 Z" fill="var(--color-accent)"/>
+  <text x="335.0" y="174.9" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">%5-8</text>
+  <text x="335.0" y="212.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Distal kıvrımlı tübül</text>
+  <path d="M437.0,196.0 L437.0,192.5 Q437.0,188.5 441.0,188.5 L457.0,188.5 Q461.0,188.5 461.0,192.5 L461.0,196.0 Z" fill="var(--color-accent)"/>
+  <text x="449.0" y="182.5" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">%2-5</text>
+  <text x="449.0" y="212.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Toplayıcı kanal</text>
+  <path d="M551.0,196.0 L551.0,196.0 Q551.0,194.0 553.0,194.0 L573.0,194.0 Q575.0,194.0 575.0,196.0 L575.0,196.0 Z" fill="var(--color-accent)"/>
+  <text x="563.0" y="188.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">&lt;%1</text>
+  <text x="563.0" y="212.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">İdrarla atılan</text>
+  <text x="335.0" y="230.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ince ayar: aldosteron, NCC/ENaC → hedeflenen diüretikler (Kitap 3)</text>
+</svg>

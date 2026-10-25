@@ -1,0 +1,674 @@
+=== Sayfa 1 ===
+Böbrek Hastalıklarına
+     Yaklaşım
+=== Sayfa 2 ===
+Kimlik bilgileri
+
+• Hastanın adı soyadı   • Doktorun adı soyadı
+
+• Yaş                   • Tarih          Saat
+
+• Cinsiyet              • Anamnezin kimden alındığı
+
+• Adres                 • Güvenilirlik
+
+• Telefon
+=== Sayfa 3 ===
+Anamnez:
+• Tanıya ancak iyi anamnezle ulaşabiliriz.
+   1.   Şikayet
+   2.   Hikaye
+   3.   Özgeçmiş
+   4.   Soygeçmiş
+=== Sayfa 4 ===
+Anamnez:
+Şikayet
+1. Karın Ağrısı/ Yan ağrısı/Böğür Ağrısı
+2. Hipertansiyon
+3. İdrar yakınmaları
+4. Karında Palpabl Böbrekler
+5. Ödem
+6. Halsizlik, çabuk yorulma
+7. Ateş
+8. Üremik yakınmalar
+=== Sayfa 5 ===
+Böbrek Hastalıklarında: Şikayet-1
+1-Karın Ağrısı/ Yan ağrısı/Böğür Ağrısı
+   – Kolik ağrı
+   – Künt ağrı
+   – Hassasiyet
+=== Sayfa 6 ===
+Böbrek Hastalıklarında: Şikayet-2
+2. Hipertansiyon
+   • Baş ağrısı
+   • Nefes darlığı
+   • Görme kaybı
+   • Ensefalopati
+   • Serebrovasküler olay
+=== Sayfa 7 ===
+Böbrek Hastalıklarında: Şikayet-3
+3. İdrar yakınmaları
+   • Disüri : İdrar yaparken yanma
+   • Noktüri: Gece idrara çıkma >1
+   • Poliüri: Aşırı idrara çıkma >2500 ml
+   • Pollaküri: Sık idrara çıkma >5
+   • Hematüri: İdrarda eritrosit >2-3
+   • Oligüri: 100-500 ml günlük idrar
+   • Anüri: <100 ml/gün idrar
+   • Komplet anüri: hiç idrar olmaması
+=== Sayfa 8 ===
+Böbrek Hastalıklarında: Şikayet-4
+4. Karında Palpabl Böbrekler (Kist, Kanser)
+=== Sayfa 9 ===
+Böbrek Hastalıklarında: Şikayet-5
+5-Ödem
+  •   Bifüssür ödem: Göz çevresi ödem
+  •   Generalize – yaygın- ödem (Anazarka tipi ödem)
+  •   Lokal ödem
+  •   Gode bırakan ödem
+  •   Gode bırakmayan ödem
+  •   Pretibial ödem
+  •   Sakral ödem
+  •   Bimalleolar ödem
+  •   Asit
+  •   Plevral effüzyon
+  •   Perikardiyal effüzyon
+  •   Akciğer ödemi
+=== Sayfa 10 ===
+Böbrek Hastalıklarında: Şikayet-5
+Bifüssür ödem: Periorbital Ödem   Pretibial Ödem
+=== Sayfa 11 ===
+Pretibial ödem
+=== Sayfa 12 ===
+Böbrek Hastalıklarında: Şikayet-5
+ • Ödemin majör sebepleri
+ 1. Onkotik basınç azalması (Hipoalbüminemi)
+    1. A. Protein kaybı
+        1.   Nefrotik sendrom
+        2.   Protein kaybettirici enteropati
+    2. B. Albümin sentezinin azalması
+        1.   Karaciğer hastalığı
+        2.   Malnütrusyon
+
+ 2. Hidrostatik basınç artışı
+        1.    Venöz obstrüksiyon
+        2.    Kalp yetmezliği
+        3.    Sıvı retansiyonu
+ 3. Lenfatik nedenler
+=== Sayfa 13 ===
+Böbrek Hastalıklarında: Şikayet-5
+
+Volüm Dengesi:
+  1. Övolemi: Normovolemi
+  2. Hipovolemi: Volüm azlığı
+  3. Hipervolemi: Volüm artışı
+=== Sayfa 14 ===
+Böbrek Hastalıklarında: Şikayet-6
+• Halsizlik, çabuk yorulma
+   • Anemi : Eritropoetin eksikliği eksikliği, Demir eksikliği anemisi
+=== Sayfa 15 ===
+Böbrek Hastalıklarında: Şikayet-7
+     • Ateş
+        • Pyelonefrit
+        • Sistemik vaskülitler
+        • Bağ doku hastalıkları
+        • Sepsis
+=== Sayfa 16 ===
+Böbrek Hastalıklarında: Şikayet-8
+     • Üremik yakınmalar
+       • Bulantı, kusma
+       • Kaşıntı
+       • Nefes darlığı
+       • Üremik ağız kokusu
+       • Öğürme
+       • Şuur bulanıklığı
+=== Sayfa 17 ===
+Böbrek Hastalıklarında: Hikaye
+• Semptomların
+   1. Yeri
+   2. Ne zaman başladığı
+   3. Şiddeti, Şekli
+   4. Ne kadar sürdüğü, sıklığı
+   5. Hangi koşullar altında oluşuyor
+   6. Tedavi de dahil olmak üzere artıran ve azaltan nedenler
+   7. Genel seyir normal faaliyetler üzerine etkisi
+   8. Yakınmların olduğu sistem ile ilgili semptomların gözden
+       geçirilmesi
+   9. Benzer belirtilerin önceki geçmişi
+=== Sayfa 18 ===
+Öz Geçmiş
+• Diyabetes mellitus
+• Hipertansiyon
+    • Mutlaka sorulmalı ve süresi, kontrol altında olup olmadığı, kullanılan ilaçlar not edilmeli
+• Taş düşürme
+• Geçirilmiş idrar yolu infeksiyonları
+• Çocuklukta idrar yolu infeksiyonu, işeme sorunları, idrar kaçırma
+• Geçirilen operasyonlar
+• Gut hastalığı
+• Sistemik hastalıklar
+• Kullanılan ilaçlar (NSAII vb)
+• Sigara
+• Düşük doğum ağırlığı
+• Obezite
+=== Sayfa 19 ===
+Soy Geçmiş
+• Ailede kronik böbrek hastası var mı?
+• Ailede diyaliz veya böbrek nakilli hasta var mı?
+• Ailede kalıtsal hastalıklar var mı?
+   • Polikistik böbrek hastalığı, Fabry hastalığı, Alport sendromu, nefronofitizis,
+     FMF hastalığı, primer hiperokzalüri
+=== Sayfa 20 ===
+Hikaye alma bölümü sonu
+• Tanı
+• Öntanı
+=== Sayfa 21 ===
+Böbrek Hastalıklarında:Fizik Muayene
+• Kan basıncı
+• HİPERTANSİYON BÖBREK HASTALIKLARININ EN ÖNEMLİ BULGUSUDUR
+• En sık sekonder hipretansiyon nedeni kronik böbrek hastalığıdır.
+• Her hipertansif hasta kronik böbrek hastalığı yönünden incelenmelidir
+=== Sayfa 22 ===
+Böbrek Hastalıklarında:Fizik Muayene
+• Hipervolemi:Volüm yüklenmesi
+  • Juguler venöz dolgunluk
+  • Akciğerde krepitan raller
+  • Dispne: Özellikle yatarken
+  • Yüksek kan basıncı
+  • İrritatif öksürük
+  • Güçlü, hızlı nabız
+  • S3, S4 üfürüm
+  • Asit
+  • Sakral ödem, Pretibial Ödem
+=== Sayfa 23 ===
+Böbrek Hastalıklarında:Fizik Muayene
+• Hipervolemi
+=== Sayfa 24 ===
+Juguler venoz dolgunluk
+     Volum durumunun
+     değerlendirilmesinde
+     yararlıdır
+
+     Normal juguler venoz
+     basınç:
+     1-8 cmH2O
+     1-6 mmHg dır
+
+   Hepatojuguler reflu
+   Hastanın ağzının açık
+   olması sağlanarak normal
+   nefes alıp verirken karaciğer
+   palpasyonu 30 -60 sn sabit
+   tutularak Yapılır
+   3cm üstünde ise pozitiftir
+=== Sayfa 25 ===
+Böbrek Hastalıklarında:Fizik Muayene
+
+   • Anemi bulguları
+      • Anemi kronik böbrek hastalığının bulgularındandır
+      • Normokrom normositer (EPO eksikliği)
+      • Demir eksikliği kronik böbrek hastalığında sıklıkla
+        gözlenebilir
+=== Sayfa 26 ===
+Böbrek Hastalıklarında:Fizik Muayene
+• Cilt rengi
+• Kaşıntı
+=== Sayfa 27 ===
+Üremik Kaşıntı
+=== Sayfa 28 ===
+Böbrek Hastalıklarında:Fizik Muayene
+
+• BÖBREKLERİN MUAYENESİ
+
+• Böbrekler, anatomik yerleşim açısından el ile muayene edilebilecek bir
+ yerleşimde değildir.
+
+• Bu nedenle büyüklüğü ve yapısı hakkında en iyi ve en kolay bilgi US ile
+ elde edilir.
+
+• Böbrekler 12. torakal ve 3. lumbal vertebralar arasında uzanır. Sağ
+ böbrek sola göre 2 cm daha aşağıdadır
+=== Sayfa 29 ===
+Böbrek hastalıklarında tanı yöntemleri
+• Glomerüler Filtrasyon değerinin ölçülmesi
+• İdrarda protein bakılması
+• İdrar mikroskopisi
+• İdrarda glukoz
+• İdrarda elektrolit bakılması
+• İdrar kültürü
+• Kan testleri
+• Arteriel kan gazı
+• İmmünolojik testler
+• Radyolojik tetkikler
+• Sintigrafik yontemler
+• Böbrek biyopsisi
+=== Sayfa 30 ===
+İdrar muayenesi
+• Çok önemli ve çok basittir
+
+• Muayene için idrar alınması:
+   • Mümkün olduğu kadar konsantre olmalı(önceki akşam az
+     sıvı almalı)
+
+   • İdrar sedimenti için ilk idrar diğer testler için ilk idrardan 1-
+     2 saat sonraki idrar değerlendirilmelidir
+
+   • İdrar alınmadan önce üretra ağzı sabunla yıkanmalıdır
+
+   • Kültür için orta idrar alınmalıdır
+
+   • İdrar 1 saat içinde incelenmelidir
+=== Sayfa 31 ===
+İdrar dansitesi (İdrar özgül ağırlığı ve ozmolarite)
+
+• Böbreklerin idrarı dilüe ve konsantre etme yeteneğinin göstergesidir
+
+• İdrar Özgül Ağırlığı 1003-1030 arasında değişebilir
+
+• Bu değerler 100-1200 mosmollük bir ozmolaliteye eşittir
+
+• Ancak günlük yaşamını sürdüren sağlıklı bir insanda bu limitlere ulaşılması beklenmez.
+
+• Değerler genelde 1015-1025 arasındadır
+
+• Özgül Ağırlık 1010 altında :
+     •   KBH,
+     •   Dİ,
+     •   psikojenik polidipsi
+
+• Özgül ağırlık1030 üstünde:
+     •   DM,
+     •   opak madde kullanımı sırasında,
+     •   Dehidratasyon
+=== Sayfa 32 ===
+İdrar muayenesi
+
+İdrar pH değeri normalde 4,5 -8 arasındadır.
+
+pH : 7,0 üzerinde                                pH : 5,0 ın altında
+    • Vajeteryan diyet                           • Metabolik asidoz
+    • Bakteriürinin (Proteus mirabilis)
+    • Alkalozis
+    • Tiazid diüretikler,
+    • Kusma
+    • Hiperaldesteronizm
+    • Renal tubuler asidoz göstergesi olabilir
+=== Sayfa 33 ===
+İdrar muayenesi
+
+• İdrar glukozu: normal koşullarda negatiftir. Varlığı yüksek kan glukozunu gösterir.
+
+• Plazma glikozunun 160-180 mg/dl aşılması demektir
+
+• İdrar glikozu pozitifse plazma glikozu 210 mg/dl aşmıştır
+
+• Normal serum glukoz düzeylerine rağmen idrarda glukozun varlığı tübüler hasarın
+  göstergesidir.
+
+• İdrar keton pozitifliği ketoneminin varlığına işaret eder ve diyabetik ketoasidoz ile uzamış
+  açlıkta görülebilir
+=== Sayfa 34 ===
+• Nitrit pozitifliği idrardaki bakteri varlığının (E.coli,
+  proteus) duyarlı olmayan göstergeleridir
+•
+• Bilirubin pozitifliği konjuge bilirubin artışını gösterir.
+• Konjuge olmayan bilirubin yüksekliklerinde negatiftir.
+=== Sayfa 35 ===
+• İdrardaki Şekilli Elemanlar
+  • Hücreler: Lökositler, eritrositler, renal tübüler hücreler,
+    oval yağ cisimleri, epitel hücreleri
+
+  • Kristaller: Ürat, kalsiyum fosfat, oksalat, sistin,
+
+  • Silendirler: Hyalin, granüler, eritrosit, lökosit, tübüler
+    hücre,
+
+  • Mikroorganizmalar: Bakteri, mantar,
+
+  • Diğer: Sperm, ve diğer kontaminasyon materyeli
+=== Sayfa 36 ===
+                                   Pyelonefrit,
+    Glomerulonefrit, Vaskülit      tubulointerstisyel hastalık
+
+                                    Lokosit silendirleri
+          Eritrosit silendirleri
+
+Glomerulonefrit, ATN
+
+Epitel silendiri
+=== Sayfa 37 ===
+İdrarda elektrolitler
+• Renal fonksiyon bozukluğu ile gelen bir hastada spot idrarda bakılan
+  sodyumun 20 mEq/L’nin altında olması prerenal nedenlere, üstünde olması
+  prerenal dışındaki akut böbrek yetmezliklerine ya da kronik renal hasara
+  işaret eder.
+
+• Bu ayrımın daha sağlıklı yapılabilmesi için fraksiyone sodyum ekskresyonu
+  (FeNa) hesaplanabilir.
+
+• Normal koşullarda FeNa % 1’in altındadır.
+
+• Prerenal akut böbrek yetmezliğinde FeNa % 1’in altında, diğer bütün renal
+  fonksiyon bozukluklarında (akut ya da kronik) % 1’in üzerindedir.
+
+• FeNa (%) = UNa x Pcr
+           —————— x 100
+             PNa x Ucr
+=== Sayfa 38 ===
+Proteinürili hastaya yaklaşım
+• Fizyopatoloji: Normalde idrarla protein atılımı günde 150 mg’ın
+  altındadır ve çoğunu henle kulpunun çıkan kalın kolunda üretilen
+  Tamm-Horsfall mukoproteini oluşturmaktadır.
+• Glomerüler kapiller duvar yüksek ultrafiltrasyon kapasitesine sahip bir
+  membrandır
+• Bu membran küçük solütlere ve suya oldukça geçirgen iken daha
+  büyük moleküllerin geçişine karşı önemli bir bariyer oluşturmaktadır
+=== Sayfa 39 ===
+Filtrasyon Membranının Proteinlere Karşı Bariyerleri
+
+• 1-Proteinlerin ve membranın elektriksel yükü
+
+• 2-Proteinlerin büyüklüğü ve şekli
+=== Sayfa 40 ===
+         Filtrasyon Membranının Proteinlere Karşı Bariyerleri
+           Size- Selektivity                   Charge- selectivity
+              (büyüklük)                         (elektriksel yük)
+
+Endotelyal hücreler arasındaki           • Endotelyal hücrelerde
+pencereler (375-400 Å)                     sialoglikoproteinler
+ GBM’daki porlar (40-45 Å)               • GBM’ da heparan sülfat
+                                            proteoglikanlar
+ Epitelyal hücre ayaksı                             negatif yük
+ çıkıntıları arasındaki slit
+ diyafram
+                                           negatif yüklü proteinlerin
+                                           (albümin) filtrasyonunun engellenmesi
+
+150,000 daltonun üzerindeki                60,000-150,000 dalton arasındaki
+proteinlerin geçişini engeller             proteinlerin geçişini engeller
+=== Sayfa 41 ===
+Proteinürili hastaya yaklaşım
+• 24 saatlik idrarda 150mg kadar proteinin bulunması normal kabul
+  edilir
+          •   Gebelik
+          •   Ateş
+          •   Egzersiz
+                                               Protein atılımı geçici
+          •   Konjestif kalp yetmezliği        olarak artabilir
+          •   Albümin infüzyonu                Genellikle Proteinüri<1000mg/gün
+          •   Vazopressor ajanlar (ANG II,
+              norepinefrin)
+=== Sayfa 42 ===
+ Proteinürili hastaya yaklaşım
+
+1. Ne kadar Proteinüri ?
+2. Ne tip Proteinüri?
+3. Protein atılım paterni Ne?
+=== Sayfa 43 ===
+Proteinürilerin sınıflandırılması
+• Miktara göre:
+• 1.Nefrotik proteinüri
+       • 3,5 gr/gün üstünde olması
+       • Spot (Anlık) idrarda protein/kreatinin ≥3 gr/gr
+• 2. Non nefrotik proteinüri
+       • 3,5 gr/gün altında olması
+       • Anlık idrarda protein/kreatinin < 3 gr/gr
+   • Persistan non nefrotik proteinüri
+       • <1g/gün….GFH korunmuş……genellikle biyopsisi önerilmez…izlemde tutulur
+       • Tartışmalı olmakla birlikte; 6 ay 1 yıl boyunca devam ederse
+       • >1g/gün’ ü geçerse ve RAS inhibisyonuna rağmen devam ederse renal bx önerilir
+=== Sayfa 44 ===
+Glomerüler Hastalıklar: Klinik Prezantasyon Şekilleri
+=== Sayfa 45 ===
+Hematürili hastaya yaklaşım
+
+• Tanım: Santrifüj edilmiş idrarda (3000 rpm’ de 5 dakika santrifüj
+  edilmiş) idrar mikroskopisinde büyük büyütme ile (40’lık objektif)her
+  alanda 2-3’ten fazla eritrosit varsa bu 3 idrar örneğinden 2’sinde
+  tekrarlıyorsa hematüri olarak kabul edilir.
+
+• Çıplak gözle kırmızı veya çay renginde bir idrarda, mikroskobik
+  incelemede çok sayıda eritrosit varlığı makroskopik hematüri, idrar
+  rengi normalse mikroskopik hematüri olarak tanımlanır
+=== Sayfa 46 ===
+Hematüri nedenleri
+
+• Hematürinin başlangıç değerlendirilmesinde öncelikle aşağıdaki üç
+  soruya yanıt aranmalıdır:
+   • Öykü ve fizik muayene belirli bir tanıyı işaret etmekte midir?
+   • Hematüri glomerüler kaynaklı mı, glomerüler dışı kaynaklı mı?
+   • Hematüri intermittan mı yoksa persistan mıdır?
+• Öykü ayrıntılı olmalı, hematüri paterni, aile öyküsü ve birlikte
+  bulunan semptomlar sorgulanmalıdır.
+• Pyüri ve dizüri ile birlikte hematüri bulunması genellikle üriner sistem
+  infeksiyonunu düşündürmelidir, ama mesane kanseri de olabileceği
+  unutulmamalı
+• Makroskobik hematüri daha çok malingite ile ilişkili olabilir
+=== Sayfa 47 ===
+             Hematüri nedeninin saptanabilme oranları
+
+                           (%10-20)
+                                               Nedeni saptanamayan
+                                               mikroskopik hematüri
+                                               Nedeni saptanabilen
+           %80-90
+
+                      2/3 Orta ve Alt üriner
+1/3 Renal Kaynaklı    sistem kaynaklı
+=== Sayfa 48 ===
+Hematürinin glomerüler kaynaklı nedenleri-
+       I- Proliferatif Glomerulonefritler          2- Proliferatif Olmayan
+       A- Primer Glomerulonefritler                  Glomerulonefritler
+       • - IgA nefropatisi                         • - Minimal değişiklik hastalığı
+       • - Poststreptokoksal glomerülonefrit       • - Fokal ve segmental
+       • - Membranoproliferatif                      glomerülonefrit
+          glomerulonefrit
+       • - İdiopatik hızlı ilerleyen (kresentik)
+                                                   • - Membranöz glomerülopati
+          glomerulonefrit                          • - Trombotik mikroanjiyopatiler
+       • - Fibriler glomerülonefrit
+
+                                                   3- Ailevi Glomerüler Hastalıklar
+       B- Sekonder Glomerülonefritler
+       • - Henoch-Schonlein purpurası
+                                                   • - Alport sendromu
+       • - Sistemik lupus eritematozus             • - İnce bazal membran hastalığı
+       • - Good Pasture hastalığı                  • - Fabry hastalığı
+       • - Sistemik vaskülitler                    • -Nail patella sendromu
+       • - Postinfeksiyoz glomerulonefritler
+       • - Esansiyel mikst kryoglobulinemi
+=== Sayfa 49 ===
+Hematüri nedenleri
+=== Sayfa 50 ===
+• Böbrek fonksiyonlarının ölçülmesi 3 bölümde incelenebilir
+   1. Renal plazma ve kan akımlarının ölçülmesi
+
+   2. Glomerüler filtrasyon hızının ölçülmesi
+
+   3. Tübüler fonksiyonların değerlendirilmesi
+=== Sayfa 51 ===
+2. Glomeruler filtrasyon hızı
+=== Sayfa 52 ===
+• En uygun yol GFH’nın değerlendirilmesidir.
+
+• Böbrekler kardiyak debinin dörtte birini alırlar.
+
+• Renal plazma akımı 600 ml/dk’dır.
+
+• Bu akımın yaklaşık % 20’si ultrafiltrata geçer ve GFH
+ normal bir erişkinde 125 ml/dk/1.73 m2
+
+• Bu da günlük 180 litrelik bir ultrafiltratı oluşturur
+=== Sayfa 53 ===
+  Glomerüler filtrasyon fonksiyonu
+  ile ilgili testler
+Böbrek fonksiyonel kapasitesinin en sensitif ve spesifik
+ölçüsü Glomerüler Filtrasyon Hızı (GFH) dır.
+GFH, fonksiyonel nefron sayısının göstergesi olarak
+düşünülebilir.
+=== Sayfa 54 ===
+• GFH, plazmanın belli bir maddeden böbrek yoluyla temizlenmesidir
+ ve söz konusu bu maddenin birim zamanda tamamen temizlediği
+ plazma volumü o maddenin renal klirensi olarak adlandırılır
+=== Sayfa 55 ===
+Tanı
+• KBH’nın erken evreleri (Evre 1-2) asemptomatik olduğu için tanı
+  genellikle başka nedenlerle yapılan tahliller sırasında çıkan bazı
+  sonuçlarla rastlantısal olarak konur.
+• eGFH, böbrek fonksiyonlarının değerlendirilmesi ve KBH’nın evresini
+  belirlenmesi için kullanılır
+        GFH (Glomerüler Filtrasyon Hızı) Hızı için Formüller
+        Kreatinin klirensi (ml/dk)       İdrar Kreatinini (mg/dl) x idrar hacmi (ml) /
+                                         Serum Kreatinini (mg/dl) x1440 (dk)
+        eGFH                             Kreatinin testi x Serum Kreatinini -1.154 x Yaş -0.203 x
+                                         Cinsiyet x Irk
+                                         Kre Testi: IDMS (175) ,IDMS olmayan(186)
+                                         Erkek: 1 Kadın 0,742       Siyah:1,21 siyah olmayan: 1
+        Cockcroft-Gault formülü          ((140-Yaş)/Kreatinin )) x (vücut Ağırlığı/72) x cinsiyet
+                                         (Erkekler x 1, Kadınlarda x 0.85)
+=== Sayfa 56 ===
+Glomerüler filtrasyon hızı
+
+• Böbreğin işlevsel üniteleri olan glomerüller, gelen plazmayı filtre
+  ederek proteinsiz kısmını tübüler sisteme (Bowman aralığı) iletirler.
+• Normalde GFH:
+  Erkek: 130±18 ml/dk/1.73 m2
+  Kadın: 120±14 ml/dk/1.73 m2
+=== Sayfa 57 ===
+ Kreatinin klirensi
+24 saatlik idrar toplanarak saptanan kreatinin klirensi,
+renal fonksiyonun saptanması için halen en yaygın
+kullanılan yöntemdir.
+Kreatinin klirensinin normal değerleri;
+      kadında 95±20 ml/dk,
+      erkekte 120±25 ml/dk’dır
+Kreatinin filtrasyon markırı olarak en önemli dezavantajı,
+tübüler sekresyona uğramasıdır. Eğer tübüler sekresyon
+ihmal edilirse, şu denklem ortaya çıkar.
+=== Sayfa 58 ===
+Üre
+      • Protein metabolizmasının primer son ürünü, vücuttan nitrojen atılımının en
+        önemli formudur
+
+      • Karaciğerde sentezlenir
+
+      • Klinik pratikte üre ya da BUN (kan üre azotu) olarak ölçülür. Üre ve BUN
+        arasındaki ilişki:
+
+      • Üre = BUN X 2.14 olarak formüle edilir
+
+      • Protein alımı arttıkça artar
+
+      • Renal fonksiyonu normal, 70 g/gün protein alan bir erişkinde BUN: 15 mg/dl
+
+      • Normal BUN aralığı 7-21 mg/dl dir
+=== Sayfa 59 ===
+BUN:
+• Kan BUN düzeyini artıran      • Kan BUN düzeyini azaltan
+  durumlar                        durumlar
+   • Yüksek protein alımı         • Düşük protenli diyet
+   • Diyet                        • Karaciğer yetmezliği
+   • Gastrointestinal kanama,     • Gebelik
+   • İnfeksiyon                   • Poliüri
+   • Steroid                      • Ungunsuz ADH sekresyonu
+   • Tetrasiklin tadavisi
+   • Oliguri
+   • GFR de azalma
+=== Sayfa 60 ===
+GFH tahmininde kreatinin
+            Kreatinin               GFR
+
+             1 mg/dL               Normal
+
+             2 mg/dL                %50
+
+             4 mg/dL                %25
+
+                 (GFH= 1/Serum kreatinin)
+=== Sayfa 61 ===
+• RADYOLOJİK TETKİKLER
+
+  • Her zaman olduğu gibi radyolojik tetkikler de basitten başlanarak
+    yapılmalıdır
+  1. Ultrasonografi
+  2. İntravenöz pyelografi
+  3. Bilgisayarlı tomografi
+  4. Nükleer sintigrafik değerlendirme
+  5. Selektif renal anjiografi
+=== Sayfa 62 ===
+Ultrasonografi
+     • Non-invazif olmasının ve kontrast riski olmaması nedeni
+      ile oldukça sık kullanılmaktadır.
+     • Böbrek boyutlarının, renal parankimin ve pelvikaliksiyel
+      sistemin değerlendirmesi yapılabilir.
+     • kistik renal hastalıkların tanı ve izleminde oldukça
+      yararlıdır.
+     • Doppler tekniği ile de renal akımı değerlendirilebilir.
+     • Renal arter stenozu tanısında ilk basamakta yaygın olarak
+      kullanılmaktadır.
+=== Sayfa 63 ===
+• İntravenöz pyelografi:
+   • Günümüzde göreli olarak daha az kullanılmaktadır.
+
+   • Anatomik yapılarla ilgili bilgilerin yanı sıra renal fonksiyon
+     hakkında bilgi verir.
+
+   • Özellikle nonopak ve renal pelvisin distalindeki taşların
+     lokalizasyonunda yardımcıdır.
+
+   • Ancak hidronefrozu tanımadaki yüksek duyarlılığı, küçük
+     böbrek ve üreter taşlarını göstermedeki yeteneği ile
+     kontrasız BT tercih edilmektedir
+
+   • Özellikle renal fonksiyonu bozuk hastalarda kontrast
+     toksisitesine dikkat edilmesi gereklidir
+=== Sayfa 64 ===
+• Bilgisayarlı tomografi
+
+• Taş hastalığında kontrassız BT,
+
+• Komplike renal kistlerin değerlendirilmesinde ya da tümöral oluşumlar
+ için
+
+• Ayrıca BT anjiografi ile renal kan akımı gösterilebilmektedir.
+
+• Aynı şekilde manyetik rezonans anjiografi ile de renal arter
+ darlıklarının tanıları konabilmektedir
+=== Sayfa 65 ===
+• Selektif renal anjiografi
+• renal arter darlığı için yüksek riskli hasta grubunda ya da diğer tetkiklerde
+ ortaya konmuş şüpheli durumlarda tanı için kullanılan ve altın standart olarak
+ kabul edilen yöntemdir.
+• Tanının yanı sıra anjioplasti ve renal artere stent uygulamaları da
+ yapılabilmektedir.
+• Ayrıca poliarteritis nodoza gibi vaskülitik hastalıklarda mikroanevrizmaların
+ gösterilmesi amacı ile kullanılmaktadır
+=== Sayfa 66 ===
+• Nükleer sintigrafik değerlendirme ile böbreklerin kanlanması ve
+ fonksiyonları ile yararlı bilgiler elde edilebilir.
+
+• Her iki böbreğin ayrı ayrı GFH’ları hesaplanabilir.
+
+• Sık kullanılanları: GFR ölçümü için 99mTc dietilen triamin pentasetik
+ asit (DTPA),
+
+• Ayrıca ACE inhibitörü verilerek yapılan tetkik ile renal arter stnozu
+ tanısı konabilmektedir.
+=== Sayfa 67 ===
+BÖBREK BİYOPSİSİ
+• Böbrek hastalıklarının kesin tanısı böbrek biyopsisi ve histopatolojik
+  inceleme ile konabilir.
+
+• Nedeni kesin olarak saptanamamış akut renal fonksiyon bozukluğunda
+
+• Erişkin hastalarda nefrotik sendrom
+
+• Ancak nefrotik sınırda proteinürisi olmasına karşın diyabetik nefropatisi
+  kesin olarak bilinen ve başka bir dokuda amiloidozu gösterilmiş
+  hastalarda biyopsi yapılmayabilir.
+
+• Ayrıca nefrotik olmayan proteinürilerde
+
+• Etyolojisi bilinmeyen hematüride
+
+• Transplant hastaların değerlendirilmesinde de greft biyopsi çoğu klinik
+  durumda yol göstericidir.

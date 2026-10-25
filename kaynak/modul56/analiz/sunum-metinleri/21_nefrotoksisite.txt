@@ -1,0 +1,1033 @@
+=== Sayfa 1 ===
+NEFROTOKSİSİTE
+  Dr. Öğr. Üyesi Demet Döndü KASIM
+Pamukkale Üniversitesi Tıp Fakültesi
+  Tıbbi Farmakoloji Anabilim Dalı
+=== Sayfa 2 ===
+Nefron Fonksiyonuna Genel Bakış
+
+   Böbrek, büyük miktarlarda
+   plazmayı filtreler,
+   vücudun koruması gereken     Her insan böbreği
+   maddeleri geri emer ve       yaklaşık 1 milyon
+   atılması gereken maddeleri
+   geride bırakır veya          nefrondan oluşur
+   salgılar
+
+   İnsanlarda iki böbrek
+   birlikte dakikada yaklaşık
+   120 mL ultrafiltrat          Böbrekler, vücut
+   üretirken, dakikada          ağırlığının yalnızca
+   yalnızca 1 mL idrar          %0,5'ini oluşturmalarına
+   üretir; glomerüler           rağmen toplam vücut O2
+   ultrafiltratın %99'undan     alımının %7'sini tüketir.
+   fazlası yüksek bir enerji
+   maliyetiyle geri emilir
+=== Sayfa 3 ===
+             Böbreğin Fonksiyonları
+Metabolik artıkların, endojen ve eksojen toksik maddelerin
+vücuttan atılması (Üre, kreatinin, ksenobiyotikler)
+
+Kan basıncının düzenlenmesi (renin-anjitensin-aldosteron sist.)
+
+Sıvı dengesi ve kandaki pH düzenlenmesi (elektrolit, glukoz ve
+protein dengesi)
+
+Kan yapımının regülasyonu (Eritropoetin ile kemik iliğini uyararak
+kan yapımına yardımcı olurlar.)
+
+Kemik yapımının regülasyonu (D vitaminin kullanılmasını sağlayarak
+kan kalsiyum-fosfor seviyesini dengeler)
+=== Sayfa 4 ===
+Renal Anatomi ve Fizyoloji              Çıkan İnce Kol
+                                             (ATL)
+                                         NaCl ve üreye
+                                           geçirgen
+                                        Suya geçirgen
+                                             değil
+
+                                              Çıkan Kalın
+                                                Kol(TAL)
+                                              Aktif olarak
+                     İnen İnce Kol
+                                              NaCl'yi geri
+                         (DTL)
+                                                  emer
+                     Suya geçirgen
+                                             Suya ve üreye
+                     NaCl ve üreye
+                                            karşı geçirgen
+                   geçirgenliği düşük
+                                                 değil
+                   İdrarı hipertonik
+                                                (Na+'nın
+                      hale getirir
+=== Sayfa 5 ===
+Proksimal tübül
+                                    Makula Densa
+                      Özelleşmiş sütunlu epitel hücre kümesi
+                        aracılığıyla afferent arteriyol ile
+                                     temas eder
+                           Henle halkasından çıkan NaCl
+                        konsantrasyonlarını algılamak için
+                               stratejik bir konumda
+                      NaCl konsantrasyonu çok yüksekse
+                     Makula densa aynı nefronun afferent
+                    arteriyollerine kimyasal bir sinyal
+                        (adenozin veya ATP) gönderir
+                             Arterleri daraltır
+                                 GFR düşürür
+                    Tübüloglomerüler geri bildirim (TGF)
+                  olarak bilinen bu homeostatik mekanizma,
+                  organizmayı tuz ve hacim kaybından korur
+
+                      Makula densa ayrıca, afferent
+                       arteriyol duvarındaki komşu
+                   jukstaglomerüler hücrelerden renin
+                          salınımını da düzenler
+=== Sayfa 6 ===
+  Distal Tübül
+          Distal Tübül
+    Aktif olarak NaCl'yi geri
+              emer
+      Suya ve üreye karşı
+         geçirgen değil
+
+    Seyreltik idrar üretme
+      kapasitesi sağlar
+TAL ve DCT'ye topluca nefronun
+  seyreltici segmenti denir
+=== Sayfa 7 ===
+  Toplayıcı kanal sistemi
+
+   Elektrolit
+ bileşimindeki
+son ayarlamalar,    Vazopressin (ADH),
+                   nefronun bu kısmında
+adrenal steroid    su geçirgenliğini de
+   aldosteron            düzenler
+  aracılığıyla
+ burada yapılır
+ADH yokluğunda,
+toplayıcı kanal    ADH varlığında,
+  sistemi suya     toplayıcı kanal
+    geçirgen         sistemi suya
+  değildir ve       geçirgendir ve
+seyreltik idrar     su geri emilir
+     atılır
+=== Sayfa 8 ===
+Renal Epitel Taşımacılığının Genel
+Mekanizması
+         2. Simporterler
+   (birlikte taşıyıcılar),
+   Na⁺ ile birlikte glikoz,             3. Hücre içinde
+   fosfat (H₂PO₄⁻) ve amino             yoğunluğu artan
+          asitleri tübül              maddeler, daha sonra
+    lümeninden hücre içine            konsantrasyon farkı
+       Antiporterler (zıt            nedeniyle bazolateral
+    taşıyıcılar) ise Na⁺’u             tarafa doğru basit
+                                        difüzyonla ya da
+     hücre içine alırken,
+                                        çeşitli taşıyıcı
+       aynı anda hidrojen            proteinler (simporter,
+   iyonlarını (H⁺) hücreden          antiporter, uniporter,
+   4. Çözücü sürüklenmesi
+               lümene
+       (solvent drag)                 kanal) aracılığıyla
+       Epitel hücrelerinin            interstisyel sıvıya
+   arasındaki boşlukta Na⁺ ve                 geçer
+     diğer çözünmüş maddeler
+  biriktikçe, burada ozmotik            1.Na+, K+-ATPaz
+  basınç artar. Bu da, hücre             (sodyum pompası)
+   boyunca küçük bir osmotik
+     basınç farkı oluşturur.          Na+ hücreler dışına
+ Eğer epitel suya geçirgense,           K+' hücre içine
+ su bu farkın etkisiyle tübül
+   lümeninden hücreler arası
+    boşluklara doğru hareket
+eder. Su, hem hücre zarındaki
+         su kanallarından
+      (akvaporinler) hem de
+    hücreler arasındaki sıkı
+  bağlantılardan (paraselüler
+          yol) geçebilir.
+=== Sayfa 9 ===
+Renal Epitel Taşımacılığının Genel
+Mekanizması
+
+                                        6. Hücreler arası
+                                     boşlukta su ve çözünen
+                                      maddeler biriktikçe,
+   5. Su hücreler arası
+boşluğa geçtiğinde, tübül              oradaki hidrostatik
+ lümeninde kalan çözünen              basınç (yani sıvının
+    maddelerin derişimi
+    artar. Bu durum, bu                 hacimsel basıncı)
+   maddeler için epitel              artar. Bu artış, suyun
+         boyunca bir
+ elektrokimyasal gradyan               hareket etmesi için
+          oluşturur.                    yeni bir itici güç
+ Zara geçirgen maddeler,
+bu gradyanı izleyerek hem                   oluşturur.
+     transselüler yolla                 Sonuçta, bu basınç
+   (hücrelerin içinden,
+      örneğin difüzyon,               farkı sayesinde su ve
+  simporter, antiporter,                içindeki çözünmüş
+   uniporter ya da iyon
+   kanallarıyla) hem de                 maddeler, hücreler
+      paraselüler yolla                  arası boşluktan
+   (hücreler arasındaki
+        boşluklardan)                  interstisyel alana,
+interstisyel alana geçer.            oradan da peritübüler
+     Buna karşılık, zar
+ geçirgenliği düşük olan             kılcal damarlara doğru
+  ya da geçirgen olmayan                     taşınır.
+  maddeler tübül içinde
+kalır. Bu maddeler, suyla
+ birlikte zorunlu olarak
+=== Sayfa 10 ===
+      Organik Asit ve Organik Baz
+      Salgılanması
+
+A paneli – Organik asit (anyon) sekresyonu              B paneli – Organik baz (katyon) sekresyonu
+Basolateral membranda ,                                 1. Na⁺/K⁺-ATPaz (1) pompası Na⁺ gradyanını
+ 1. Na⁺/K⁺-ATPaz pompası aktif olarak çalışır           oluşturur
+ 2. α-ketoglutarat (αKG²⁻) ile birlikte Na⁺’un hücre    2. Na⁺/H⁺ antiporteri (2) üzerinden hücre içine Na⁺
+içine girer                                             alırken H⁺ dışarı çıkar
+ 3. Böylece hücre içinde αKG²⁻ birikir                  3. Hücre içi H⁺ konsantrasyonu azalır.     Lüminal
+ 4. organik anyon (A⁻) antiporteri (3)        αKG²⁻     membrandaki H⁺/organik katyon (C⁺) antiporteri (3)
+dışarı, A⁻ içeri alır                                   sayesinde, H⁺ hücreye girerken C⁺ (örneğin
+5. Hücre içinde toplanan A⁻ daha sonra lümenal          kreatinin, morfin, dopamin metabolitleri) lümene
+membrandan (LM) kolaylaştırılmış difüzyonla (örneğin    atılır
+OAT1, OAT3 gibi taşıyıcılarla) tübül lümenine atılır.   Kreatinin, morfin, dopamin, prokainamid, amilorid,
+Para-aminohippürik asit (PAH), penisilin, furosemid,    trimetoprim, kaptopril, metformin
+tiazid diüretikler, ürat, probenesid, NSAİİ
+=== Sayfa 11 ===
+                             Diüretikler
+     Karbonik Anhidraz                               Thiazidler
+       İnhibötörleri                              Sülfonamid Türevi
+Asetazolamid,Diklorfenamid                Alerjik interstisyel nefrit (Akut
+      ve Metazolamid                         İnterstisyel Nefrit AIN)
+  Sülfonamid tipi böbrek                  Kristalüri / tübül obstrüksiyonu
+        lezyonları :                           İmmün kompleks nefriti
+Kristal birikimiyle oluşan
+    tıkanma nefropatisi
+İmmün kökenli interstisyel
+           nefrit
+                                                      Na Kanal İnhibitörleri-
+Loop Diüretikleri
+                                                       K+ Tutucu Diüretikler
+    Furosemid &
+                                                      Amilorid ve Triamteren
+    Bumetanid &
+                                                         Sülfonamid Türevi
+     Torsemid
+                                                        İnterstisyel nefrit
+Sülfonilüre türevi
+                                                      (özellikle triamteren)
+  Amfoterisin B,
+                                                           İmmün aracılı
+aminoglikozidler,
+                                                            inflamasyon
+    sisplatin:
+                                                        Akut böbrek hasarı,
+ nefrotoksisiteyi
+                                                          kreatinin artışı
+      artırır      Doza bağlı değildir ilaç           Böbrek taşı (triamteren
+                   kesilince düzelir                     kristalizasyonu)
+=== Sayfa 12 ===
+ Vazopressin (Vazopressin Reseptörleri
+ V1a, V1b ve V2)
+• Vazopressin (ADH), vücut sıvısı ozmolalitesini
+  düzenleyen ana hormon
+• Vazopressin güçlü bir vazopressör/vazokonstriktördür
+• Hiperosmolalite, hipovolemi ve hipotansiyon
+  vazopressin salınımını artırır
+• 290 mOsm/kg    yoğun bir su arzusuna (susuzluk)
+  oluşturur
+• Vazopressinin V1 reseptörlerine bağlanması:
+  Gq-PLC-IP3 yolunu aktive ederek hücre içi Ca2+'yi
+                  harekete geçirir
+                  PKC'yi aktive eder
+     NSAID'ler, özellikle indometasin, vazopressinin
+                  Vazokonstriksiyon
+               antidiüretik  yanıtı artırır
+     PG'ler vazopressine karşı antidiüretik yanıtları
+ zayıflattığı ve NSAID'ler PG sentezini engellediği için,
+ azalmış PG üretimi muhtemelen vazopressinin antidiüretik
+           yanıtının güçlenmesinden sorumludur.
+=== Sayfa 13 ===
+                                       Ang(1–7), MAS1
+   RENİN-ANJİYOTENSİN SİSTEMİ       reseptörü üzerinden
+                                    etki ederek ACE–Ang
+                 Jukstaglomerüer       II–AT1 yolunun
+                       (JG)          vazokonstriktör ve
+                                    zararlı etkilerine
+                                   karşı dengeleyici rol
+                                            oynar
+                                           RAS'ın bu çoklu kollarının
+                                                farklı aktivasyonu,
+                                            kardiyovasküler ve böbrek
+                                                 hastalıklarındaki
+                                             patofizyolojik sonuçların
+                                           altında yatan neden olabilir
+
+AT1 reseptörü
+hipertansiyon,
+hipertrofik
+kardiyomiyopat
+i, koroner
+arter
+vazokonstriksi
+yonu ve
+diyabetik
+nefropatiye
+yatkınlıkla
+ilişkilendiril
+=== Sayfa 14 ===
+                                          Ang(1–9): AT2
+                                      reseptörlerini aktive
+                                      ederek NO salınımını
+                                    artırır, kardiyoprotektif
+                                       ve antihipertansif
+                                        etkilere sahiptir
+                                                                  Alamandin:
+AngIII →                                                             MRGPRD
+                                                                   reseptörü
+AngII’ye                                                        üzerinden etki
+benzer ama                                                           eder,
+daha zayıf                                                      vazodilatör ve
+etkili,                                                          antifibrotik
+                                                                    özellik
+AT1/AT2                                                            gösterir.
+  AngIV → AT4
+üzerinden                                                        Kronik böbrek
+     (IRAP)                                                      hastalığında
+   üzerinden                                                         artar
+    çalışan,                                       Ang(1–7) →
+   özellikle                                   antianjiyojenik,
+ sinir sistemi    Angiotensin A               antiproliferatif ve
+   ve böbrek     (AngA): AngII’ye           antitrombotik etkilere
+                 benzer ama daha
+    koruyucu                                 sahiptir ve kardiyak
+                 zayıf etkilidir.
+   etkili bir    Son dönem böbrek               iskemi ve kalp
+   peptittir       hastalığında              yetmezliğinde böbrek
+                     yükselir
+                                                  koruyucu ve
+=== Sayfa 15 ===
+  AngII-AT1 Reseptör-Efektör
+  Bağlantısı
+Gq/11 aktivasyonu: Fosfolipaz Cβ-IP3-Ca²⁺ yolunu uyarır →
+hücre içi Ca²⁺ artar, PKC, PLA₂, PLD, MAPK ve NO sentaz
+aktive olur
+Gi aktivasyonu: Adenilil siklazı inhibe eder → hücre içi
+cAMP azalır
+
+G12/13 ve βγ alt birimleri: Tirozin kinazları ve Rho
+GTPaz’ları aktive eder → hücre büyümesi, matriks sentezi
+ve inflamasyon tetiklenir
+ROS (reaktif oksijen türleri): NADPH oksidaz aktivasyonu
+ile artar → vasküler hipertrofi, inflamasyon ve böbrek
+fonksiyon değişikliklerine katkı sağlar
+=== Sayfa 16 ===
+            AngII-AT2 Reseptör Ekseni
+                                                  Sinyal iletimi:
+                                            1. G proteini aracılı (Giα₂
+                                                      ve Giα₃)
+                                             2.G proteinden bağımsız
+                                                   yollarla olur
+                                                  Bu aktivasyon;
+                                          • MAP kinaz ve ERK1/2’yi
+                                            baskılayan fosfotirozin
+                                            fosfatazları aktive eder
+                                          • Ca²⁺ kanallarını inhibe
+   AT₂ reseptörlerinin aktivasyonu, AT₁
+     reseptörlerinin birçok etkisini
+                                            eder
+               dengeleyerek               • NO, cGMP ve bradikinin
+    antiproliferatif (hücre büyümesini      üretimini artırır
+      baskılayıcı), antiinflamatuar,
+        vazodilatör, natriüretik ve       • Ayrıca AT₂ reseptörleri,
+    antihipertansif
+AT₂ reseptörleri     etkilere
+                  fetal       yol açar
+                        dokularda           AT₁ reseptörlerinin
+erişkinlere göre daha yaygındır; ayrıca     ekspresyonunu azaltarak
+kardiyovasküler ve böbrek                   onların etkilerini
+hastalıklarında ekspresyonları artar.       zayıflatabilir.
+=== Sayfa 17 ===
+  Renin, AngII üretim hızının başlıca
+  belirleyicisidir
+ Renin Salgılanmasının Kontrolü
+ Renin, JG aparatındaki granüler hücreler tarafından salgılanır   ve aşağıdaki
+ yollarla düzenlenir:
+ 1. Makula densa (MD)
+ 2. Böbrek içi baroreseptörler
+ 3. β1 adrenerjik reseptörler
+                                 M.D. parakrin etki
+                                 NaCl reabsorbsiyonu, renini
+                                 inhibe eder
+
+                                                                            ANG II
+                                                                        (anjiyotensin
+Basınç artarsa                                                               II):
+→ renin                                                                   AGTR1 (AT₁
+baskılanır                                                              reseptörleri)
+                                                                          üzerinden
+                                                                           negatif
+                                                                           feedback
+                                                                        yaparak renin
+                                                                          salınımını
+                                                                           baskılar
+=== Sayfa 18 ===
+Renin
+                    Adenozin, A₁ reseptörleri
+                   üzerinden adenilil siklazı
+                    inhibe eder, böylece cAMP
+                     üretimi azalır → renin               ATP, P2Y₂
+                             azalır                    reseptörlerini
+                                                        uyararak Ca²⁺
+                                                         salınımını
+                                                        artırır ve bu
+                                                          da renin
+                                                         salınımını
+                                                          baskılar Norepinefrin (NE)
+                                                                    JG hücrelerindeki
+                                                                    β1 reseptörlerinin
+                                                                        aktivasyonu
+                                                                     cAMP'yi ve renin
+                                                                      salgılanmasını
+                                                                          artırır
+   PGE₂ ve PGI₂         • COX-2 ve nNOS, bu
+                          prostaglandinlerin (PG’lerin)
+                                                                       β blokerlerle
+  cAMP düzeyini           üretimini artırır                            tedavi, renin
+ artırarak renin                                                     salgılanmasını ve
+    salınımını          • Uzun süreli düşük sodyum diyeti,
+                          MD hücrelerinde COX-2 ve nNOS                plazma renin
+      uyarır              ekspresyonunu artırır → renin             aktivitesini (PRA)
+=== Sayfa 19 ===
+  Renin Salgısını Etkileyen İlaçlar
+Loop diüretikleri, ACEI'ler, ARB'ler ve renin
+inhibitörleri renin salınımını uyarır ve
+plazma renin konsantrasyonunu (PRC) artırır
+
+NSAID'ler, PG sentezini inhibe ederek renin
+salınımını azaltır
+
+Merkezi etkili sempatolitik ilaçlar ve β1
+adrenerjik reseptör antagonistleri, JG
+hücrelerinin β1 adrenerjik reseptör
+aktivasyonunu azaltarak renin salgısını
+azaltır
+=== Sayfa 20 ===
+    Anjiyotensin II'nin İşlevleri ve
+                  Etkileri
+              Anjiyotensin II (AngII):
+        Toplam periferik direnci (TPR) artırarak kan basıncını yükseltir
+Uzun vadede kalp ile damar yapısında yeniden şekillenmeye (remodelling) yol açar
+
+                                           AngII, kalp kasılmasını doğrudan
+                                              artırır (voltaj kapılı Ca²⁺
+                                             kanalları açarak) ve sempatik
+                                           aktiviteyi güçlendirir; fakat kan
+                                         basıncının artmasıyla devreye giren
+                                          baroreseptör refleksi, kalp hızını
+                                                      azaltabilir
+                                         Kronik etkiler:
+                                         Sürekli AngII artışı, böbrekten Na⁺
+                                         ve su atılımını azaltarak kan
+                                         hacmini artırır ve basınç-natriürez
+                                         eğrisini sağa kaydırır →
+                                         hipertansiyon gelişir
+                                         Ayrıca endotelin-1 ve süperoksit
+                                         üretimini artırarak oksidatif stres
+                                         ve vasküler kas hipertrofisine neden
+                                         olur
+                                         Kalp ve damar duvarında fibrozis ve
+=== Sayfa 21 ===
+Anjiyotensin II'nin İşlevleri
+ve Etkileri
+            Plazma AngII konsantrasyonundaki küçük artışlar,
+                   kan basıncını akut olarak yükseltir
+            AngII, NE’den 40 kat güçlü bir vazokonstriktördür
+                             (EC₅₀ ≈ 0.3 nM)
+
+           Damarları hızla daraltarak kan basıncını saniyeler
+             içinde artırır, ancak bu etki dakikalar içinde
+                             normale döner
+
+             Angiotensin II’nin oluşturduğu ani kan basıncı
+                 artışı, vücuttaki damarların kasılması
+                  (vazokonstriksiyon) nedeniyle olur;
+                yani toplam damar direnci (TPR) yükselir.
+            Bu mekanizma, kan basıncının düşeceği durumlarda
+           (örneğin kan kaybı ya da damarların genişlemesiyle
+              oluşan hipotansiyonda) basıncı hızla normale
+                       döndürerek dolaşımı korur
+=== Sayfa 22 ===
+    Anjiyotensin II'nin Toplam Periferik Direnci
+               Artırdığı     Mekanizmalar
+                  Doğrudan Vazokonstriksiyon
+  AngII, damar düz kasındaki AT1 reseptörlerini aktive ederek Gq/11–PLC–IP₃–Ca²⁺
+    yoluyla prekapiller arteriyoller ve daha az ölçüde postkapiller venüllerde
+                             vazokonstriksiyon yapar.
+  Bu daralma en çok böbrek damarlarında, daha az olarak splanknik yatakta, en az
+                  ise beyin, akciğer ve kas damarlarında görülür.
+Ayrıca endotel hücrelerinde ROS artışı ve NO azalması endotel disfonksiyonuna yol
+                                       açar
+              Periferik Noradrenerjik Nörotransmisyonun Arttırılması
+  AT1 reseptörlerine bağlanan Anjiyotensin II, NE'nin sinir terminallerine geri
+      alımını engelleyerek ve NE'ye vasküler yanıtı artırarak sempatik sinir
+                      terminallerinden NE salınımını artırır
+      Yüksek peptid konsantrasyonları doğrudan ganglion hücrelerini uyarır.
+                              MSS Üzerindeki Etkileri
+ Sempatik tonusu artırır, barorefleks baskılanmasını azaltır, susuzluk hissi ve
+                         vazopressin salınımını tetikler.
+     Vertebral arterlere infüze edilen az miktarda AngII, kan-beyin bariyeri
+   tarafından korunmayan sirkumventriküler çekirdekler (örneğin, area postrema,
+  subfornikal organ, lamina terminalisin organum vasculosum'u) üzerindeki AngII
+                    etkileriyle arteriyel kan basıncını artırır
+                      Adrenal Medulladan Katekolamin Salınımı
+AngII, kromafin hücrelerinin depolarizasyonuna bağlı olarak Ca2+ girişini teşvik
+              ederek adrenal medulladan katekolamin salınımını uyarır
+=== Sayfa 23 ===
+     Anjiyotensin II'nin Böbrek Fonksiyonunu
+             Düzenleme Mekanizmaları
+     Anjiyotensin II, idrarla Na+ ve su atılımını azaltırken K+ atılımını
+                                   artırır
+
+Anjiyotensin II, glomerüler filtrasyon hızını (GFR) çeşitli
+mekanizmalarla etkiler:
+• Afferent arteriyollerin daralması, intraglomerüler basıncı
+ve GFR'yi azaltır
+• Mezanjiyal hücrelerin daralması, glomerül içindeki
+filtrasyon için mevcut kılcal yüzey alanını azaltır ve
+böylece GFR'yi azaltır
+• Efferent arteriyollerin daralması, intraglomerüler basıncı
+artırır ve GFR'yi artırma eğilimindedir
+  Renal arter hipotansiyonunda, AngII'nin efferent arteriyol
+    üzerindeki etkileri baskın hale gelir ve böylece AngII,
+                         GFR'yi artırır
+ Bu nedenle, RAS blokajı, bilateral renal arter stenozu olan
+   hastalarda veya tek böbreği olan tek taraflı stenozu olan
+=== Sayfa 24 ===
+   RAS'ın Bağışıklık Hücreleri
+   Üzerindeki Etkileri
+Anjiyotensin II, bağışıklık hücreleri üzerinde, özellikle kalp, damar
+düz kasları ve böbreklerde inflamasyonu, doku hasarını, yeniden
+şekillenmeyi ve fibrozu artıran AGTR1 reseptörleri aracılığıyla etki
+gösterir
+
+Böbrekte Anjiyotensin II’nin bu immün ve inflamatuar etkileri, zamanla
+yapısal hasara dönüşür:
+– Makrofaj ve T hücre infiltrasyonu, böbrek dokusunda kronik inflamasyon
+başlatır
+– Bu inflamasyon, ROS (reaktif oksijen türleri) üretimini ve sitokin
+salınımını artırarak tübül ve glomerül hücrelerinde hasara neden olur
+– AGTR1 üzerinden uyarılan TGF-β ve PAI-1 gibi faktörler fibrozisi (yani
+bağ dokusu birikimini) tetikler
+– Sonuçta glomerüloskleroz, tübülointerstisyel fibrozis ve filtrasyon
+kapasitesinde azalma gelişir
+=== Sayfa 25 ===
+ Lokal (Doku) Renin-Anjiyotensin
+ Sistemi
+Lokal RAS, hipertrofi, inflamasyon, yeniden
+şekillenme ve apoptozda rol oynayan doku bazlı
+otokrin bir AngII üretim sistemidir
+
+AngII üretimi doku hasarı ve inflamasyon sırasında
+artar; bu da pozitif geri bildirim döngüsüyle
+inflamasyonu daha da şiddetlendirir
+
+Böbrekte lokal RAS, akut durumda GFR’yi korur, ancak
+kronik aktivasyon olduğunda fibrozis, inflamasyon ve
+fonksiyon kaybına yol açar. Tübüler epitel
+hücreleri, interstisyel fibroblastlar, glomerüler
+hücreler (Mesangial hücreler, podositler) ve vasküler
+düz kas hücrelerinde lokal RAS aktivasyonu sonrasında
+fibrozis gelişebilir
+=== Sayfa 26 ===
+             (Pro)Renin Reseptörü (PRR)
+RAS’a bağlı etkiler:
+• Lokal Ang II üretimi artar → fibrozis, nefropati, organ hasarı gelişir
+Ang II’den bağımsız etkiler:
+• PRR aktivasyonu, ERK1/2, p38 MAPK, tirozin kinaz, COX-2, TGF-β ve PAI-1 yollarını uyarır → bu da
+  fibrozis ve doku yeniden şekillenmesine yol açar
+• Bu etkiler ACE inhibitörleri veya AT1 antagonistleriyle baskılanmaz. Fibrozis, nefropati, organ
+  hasarı gelişir
+
+• Diyabetli hastalarda dolaşımdaki plazma (pro)renin konsantrasyonları 100 kat artar ve nefropati,
+  renal fibroz ve retinopati riskinin artmasıyla ilişkilidir
+• Hayvan deneylerinde PRR blokajı (ör. “handle region peptide”) bu hasarlardan koruyucu olmuştur,
+  fakat sonuçlar tam doğrulanmamıştır.
+RAS dışı görevleri:
+• V-ATPaz’ın yardımcı proteini olarak hücre içi pH düzeni, endositoz ve otofaji için gereklidir.
+• PRR geni silinen farelerde → V-ATPaz kaybı, asidoz, otofaji bozulması ve ölümcül organ yetmezliği
+  oluşur.
+• Wnt/β-katenin (fibrozis, hücre proliferasyonu ve EMT (epitelyal-mezenkimal dönüşüm) ile ilişkili
+  genler (örneğin TGF-β, fibronectin, collajen) aktive olur ) ve Wnt-PCP (JNK (c-Jun N-terminal
+  kinaz) ve RhoA/ROCK proteinlerini aktive eder → hücre polaritesi ve migrasyon değişir → doku
+  düzeni bozulur, fibrozis ve vasküler yeniden şekillenme desteklenir ) sinyal yollarını aktive
+  eder; ELABELA/apelin etkilerini (anti-fibrotik, anti-inflamatuar ve vazodilatör) antagonize eder.
+  Aşırı PRR–Wnt aktivasyonu, diyabetik nefropati, kardiyak fibrozis, hipertansiyon ve kanser gibi
+  durumlarda saptanmıştır.
+• Kanser, lipid ve glikoz metabolizması ile ilişkili bulunmuştur.
+  Hepatositlerde susturulması LDL reseptörü ve sortilin-1 ekspresyonunu azaltarak LDL alımını
+  düşürür.
+=== Sayfa 27 ===
+Renin-
+Anjiyotensin
+Sistemi
+İnhibitörleri
+
+• RAS'ı etkileyen ilaçlar,
+  kardiyovasküler
+  hastalıkların tedavisinde
+  önemli bir rol oynar. Renin
+  salınımını inhibe eden β1
+  blokerlerinin yanı sıra,
+  aşağıdaki üç RAS inhibitörü
+  sınıfı terapötik olarak
+  kullanılır:
+1. ACE inhibitörleri
+2. Anjiyotensin II reseptör
+blokerleri
+3. Direkt renin inhibitörleri
+=== Sayfa 28 ===
+ACEİ’ler efferent arteriyolü genişletir, bu da
+glomerüler filtrasyon basıncını düşürür.
+Özellikle bilateral renal arter stenozu, tek
+böbrek veya hipovolemi (örneğin diüretik
+kullanımı, ishal, kalp yetmezliği) durumlarında
+bu etki GFR’yi belirgin şekilde azaltarak akut
+böbrek yetmezliğine yol açabilir.
+
+ACEİ’ler intraglomerüler basıncı düşürerek
+proteinüriyi azaltır ve böbrek koruyucu etki
+gösterir
+
+ACE inhibitörleri düşük dozda nefroprotektif,
+ancak hipoperfüzyon veya stenoz gibi durumlarda
+nefrotoksik hale gelebilir.
+=== Sayfa 29 ===
+=== Sayfa 30 ===
+Nefrotoksisite
+=== Sayfa 31 ===
+=== Sayfa 32 ===
+        NSAID ile ilişkili ABH, çoğunlukla, böbrek
+        perfüzyonunu sürdürmek için özellikle vazodilatör
+        prostaglandinlere bağımlı olan hastalarda meydana
+        gelen GFR'deki hemodinamik aracılı azalmaya
+        bağlıdır
+        ABH'nin bu formu genellikle ilacın
+        kesilmesinden sonra 2 ila 7 gün içinde geri
+        dönüşümlüdür ve sağlıklı bireylerde nadiren
+        görülür
+        Diüretiklerin, ACE inhibitörlerinin,
+NSAID   ARB'lerin ve kalsinörin inhibitörlerinin
+        eşzamanlı kullanımı, NSAID ile ilişkili ABH
+        insidansının artmasıyla ilişkilendirilmiştir
+        Daha az sıklıkla, NSAID'ler ATN'ye veya daha
+        nadiren papiller nekroza neden olur
+
+        NSAID'ler ayrıca sıklıkla önemli proteinüri
+        ile birlikte akut interstisyel nefrite (AIN)
+        neden olabilir
+=== Sayfa 33 ===
+             • Nadiren izole ATN ortaya çıkabilir, ancak
+               böbrek hasarı daha tipik olarak akut hepatit
+               ile ilişkilidir
+             • Böbrek ve karaciğer toksisitesi genellikle 15
+               g'dan fazla alındığında ortaya çıkar, ancak
+               alkoliklerde normal dozlar toksik olabilir
+             • Asetaminofen karaciğerde konjuge edilir ve
+               böbreklerden atılır. %5'ten azı P-450
+Asetaminof     (CYP2E1) enzimleri tarafından metabolize
+               edilerek toksik bir metabolit olan N-asetil-
+
+en             p-benzokinoneimin (NAPQI)n oluşturur ve bu
+               metabolit glutatyonun tiyol grubu tarafından
+               inaktive edilir. Yüksek asetaminofen
+(Parasetam     seviyelerinde glutatyon tükenir ve N-asetil-
+               p-benzokinoneimin (NAPQI) hücre içi
+
+ol)            proteinlerdeki tiyol gruplarına bağlanarak
+               hücre hasarına neden olabilir. Glutatyon
+               önemli bir hücre içi antioksidan olduğundan,
+               kaybı tübüler hücrelerin oksidatif hasarına
+               yatkınlık yaratabilir.
+             • Klinik olarak, akut karaciğer yetmezliği ve
+               ATN ancak glutatyon seviyeleri tükendiğinde
+               başlar ve klinik belirtiler genellikle
+               alımdan 3 ila 4 gün sonra ortaya çıkar.
+               Serbest bir tiyol grubu sağlayarak
+               glutatyonun yerini alan N-asetilsistein,
+               erken uygulandığında koruyucu olabilir.
+=== Sayfa 34 ===
+           • ACE inhibitörleri ve ARB'ler
+             ayrıca efferent arteriyolün
+             kompansatuar vazokonstriksiyonunu
+             bozarak böbrek perfüzyonunun
+ACE          azalması durumunda hemodinamik
+             olarak indüklenen ABH'ye neden
+
+İnhibitö     olabilir
+           • Dehidratasyon, renovasküler
+
+rleri ve     hastalık veya fonksiyonel olarak
+             bozulmuş otoregülasyon nedeniyle
+             böbrek perfüzyonunun tehlikeye
+ARB'ler      girdiği hastalar, tedaviye
+             başladıktan sonra ABH gelişimi
+             açısından özellikle risk
+             altındadır.
+=== Sayfa 35 ===
+     Aminoglikozitler
+• Doz GFR’ye göre ayarlanmazsa aminoglikozit toksisitesi oluşabilir
+• Aminoglikozitler proksimal tübüler hücre lizozomlarında birikir ve serum
+  konsantrasyonlarının 100 ila 1000 katına ulaşabilir. ABH riski, proksimal tübüler
+  hücrelerde gentamisin birikimi ile ilişkilidir ve günlük doz ve tedavi süresi ile
+  ilişkilidir. Proksimal tübüler hücrelerde uzun süreli birikim, ilaç kesildikten
+  sonra bile ABH gelişimine izin verebilir
+• Oligürik olmayan ABH genellikle gentamisin ile tedaviden 5 ila 10 gün sonra
+  ortaya çıkar
+• Distal tübüler segmentlerin tutulumu poliüri, potasyum ve magnezyum kaybına neden
+  olabilir
+• Gentamisin toksisitesi için ek risk faktörleri arasında artan yaş, önceden var
+  olan böbrek hastalığı, hipotansiyon, eşzamanlı karaciğer hastalığı, sepsis,
+  vankomisinin birlikte uygulanması ve eşzamanlı nefrotoksinler bulunur
+• Nefrotoksisiteyi en aza indirmek için aminoglikozit serum seviyeleri izlenmeli,
+  ilaç tek bir günlük toplam dozda uygulanmalı
+•   Gentamisin, tobramisin ve netilmisinin benzer nefrotoksik etkilere sahip olduğu
+=== Sayfa 36 ===
+                     Aminoglikozitler
+
+Yağ dokusunda birikmez, yükleme
+dozu ideal kiloya göre hesaplanır
+İVA= 50/45 kg + 0.905(boy,cm-152.4)
+                                      Terapötik indeksleri dar
+DA= İVA + 0.4(gerçek VA, Kg-İva,kg)
+                                      Toksit etkileri çok
+      Böbrek yetmezliğinde doz
+                                      Ağır ve komplikasyonulu infeksiyonlarda
+    nomogramlara göre ayarlanır
+                                      Günde tek doz uygulamak daha az toksik etki
+                                      yapar
+                                      • Bakterisid etkileri doz bağımlı
+                                      • Post antibiyotik etki
+                                      • Serum seviyelerinin izlemesi daha az yapılır
+=== Sayfa 37 ===
+      Vankomisin
+• Vankomisin nefrotoksisitesinden bazolateral sekresyon yoluyla proksimal tübül
+  hücrelerinde birikimin yattığı düşünülmektedir
+• Yüksek doz vankomisin oksidatif strese neden olur ve intrarenal apoptotik yolları
+  tetikler
+•    İnsanlarda, 15 μg/mL'den daha yüksek başlangıç vankomisin, kademeli bir şekilde
+    nefrotoksisite ile ilişkilendirilmiştir
+• Günde 4 g'dan fazla toplam doz, uzun tedavi süresi, eşzamanlı nefrotoksin veya
+  diüretik maruziyeti ve kritik hastalık nefrotoksisiteyi artırabilir
+•    Vankomisinin piperasilin-tazobaktam ile birlikte uygulanması,   ABH riskini
+    artırabilir
+• ATN, vankomisin nefrotoksisitesinin deneysel modellerinde görülen baskın
+  lezyondur, ancak insan biyopsilerinin vaka raporları hem interstisyel nefrit hem
+  de ATN'yi göstermiştir.
+• Vankomisin, eozinofili ile ilaç reaksiyonuna ve inflamatuar böbrek hasarı ile
+  sistemik semptomlara (DRESS sendromu) neden olabilir
+• Tedavi genellikle konservatiftir. Yüksek akışlı hemodiyaliz, seviyeler çok yüksek
+=== Sayfa 38 ===
+    Amfoterisin B
+
+• Zar geçirgenliğini artıran sulu gözeneklerin oluşmasına neden olur
+• Na,K-ATPaz aktivitesinin artmasına ve hücresel enerji depolarının tükenmesine yol
+  açar
+• Standart amfoterisin B formülasyonu, hücre zarları üzerinde deterjan etkisi olan
+  safra tuzu deoksikolat içinde süspanse edilir.
+•    Nefrotoksisite, genellikle 2 ila 3 gram uygulamadan sonra ortaya çıkan kümülatif
+    dozajla ilgilidir.
+• Nefrotoksisitenin erken belirtileri arasında idrar konsantre etme yeteneğinin kaybı
+  ve ardından GFR'de bir azalma yer alır. Distal tübüler etkilenmeye bağlı hipokalemi
+  ve hipomagnezemi yaygındır. Kortikal toplama kanalında proton geri kaçağı nedeniyle
+  distal renal tübüler asidoz mevcut olabilir.
+• Nefrotoksisitenin önlenmesi, amfoterisin uygulaması sırasında salin yüklemesi ile
+  yüksek idrar akış hızlarının korunmasını gerektirir.
+• Lipozomal amfoterisin B preparatları, ABH insidansını yaklaşık %50 oranında azaltır
+• Amfoterisin B'nin neden olduğu ABH, genellikle ilacın kesilmesiyle geri dönüşümlüdür,
+  ancak magnezyum kaybı ile kendini gösteren distal tübüler hasar devam edebilir
+=== Sayfa 39 ===
+Antiviral Tedavi
+Asiklovir
+Nefrotoksisite tipik olarak intravenöz (IV) asiklovir uygulamasından birkaç gün
+içinde ortaya çıkar:
+-Doğrudan tübüler hücre toksisitesi
+-Asiklovir kristallerinin oluşumuna bağlı
+-AIN'nin toksisitesi
+AKI genellikle hafiftir ve ilacı bıraktıktan sonra iyileşir. Yüksek idrar akış
+hızının korunması ve asiklovirin IV bolus uygulamasından kaçınılması önleyici
+olabilir
+Tenofovir (ilaca başlandıktan sonraki haftalar içinde gelişebilir veya yıllar
+sonra ortaya çıkabilir, ancak geri dönüşümlülük yaygındır)
+Tenofovir, organik anyon taşıyıcıları (OAT'ler) yoluyla proksimal tübül
+hücrelerine salgılanır, burada mitokondriyal DNA sentezine müdahale edebilir ve
+enerji arzını bozabilir, bu da karakteristik genişlemiş, dismorfik mitokondri ile
+sonuçlanır.
+Tenofovir nefrotoksisitesinin belirtileri arasında subklinik tübüler defektler
+(örn. normoglisemik glikozüri), Fanconi sendromu, ATN ve KBH bulunur.
+Risk faktörleri: KBH, ileri yaş, düşük CD4 sayısı ve toplam doz ve TDF kullanım
+süresi
+İlacın kesilmesinden sonra böbrek fonksiyon bozukluğu düzelmediğinde veya direnç
+paternleri tenofoviri hasta bakımı için kritik hale getirdiğinde biyopsi şiddetle
+düşünülmelidir
+=== Sayfa 40 ===
+Diğer Antiviral Ajanlar
+
+• Kobisistat ve dolutegravir, kreatininin proksimal tübüler
+  sekresyonunu inhibe ederek serum kreatinininde yanlış bir
+  yükselmeye neden olur. Kreatinin'de küçük bir artış kabul
+  edilebilir olarak kabul edilir ve genellikle bu ilaçlara
+  başladıktan sonraki 2 hafta içinde ortaya çıkar
+• Bir proteaz inhibitörü olan Atazanavir, ürolitiyazis, kristal
+  kaynaklı böbrek hasarı, AIN veya granülomatöz interstisyel
+  nefrite neden olabilir. Akut sunumlar büyük ölçüde geri
+  dönüşümlüdür, ancak uzun süreli kullanım KBH'ye yol açabilir
+• Hepatit B'yi tedavi etmek için kullanılan ikinci basamak bir
+  ilaç olan Adefovir, yüksek dozlarda reçete edildiğinde sıklıkla
+  nefrotoksikti, ancak mevcut düşük doz rejimleri çoğu hasta için
+  güvenli görünüyor
+•   Foscarnet ve cidofovir iyi bilinen nefrotoksik antivirallerdir.
+=== Sayfa 41 ===
+        İmmünsüpresif Ajanlar
+
+Kalsinörin İnhibitörleri
+• Siklosporin ve takrolimus, kısmen endotelin aracılık ettiği afferent arteriolar
+  vazokonstriksiyona bağlı ABH'ye neden olabilir.
+• Bu genellikle dozun azaltılmasıyla geri dönüşümlüdür
+• Kalsinörin inhibitörleri ayrıca geri dönüşümlü tübüler disfonksiyona neden olur
+  ve muhtemelen endotel üzerindeki etkilerinden dolayı trombotik mikroanjiyopati
+  gelişimi ile ilişkilidir
+Diğer İmmünsüpresif Ajanlar
+• Monoklonal anti-CD3 antikoru (OKT3) veya poliklonal antilenfosit ve antitimosit
+  preparatları (ALG, ATG) ilk doz sitokin salınım sendromuna ve kapiller sızıntıya
+  sekonder prerenal azotemiye neden olabilir
+•    İntravenöz immünoglobulin (IVIG), kısmen bu ürünlerdeki yüksek sükroz
+    konsantrasyonunun aracılık edebileceği ABH'ye neden olabilir. Sükrozun tübüler
+    alımı ozmotik hücre şişmesine ve yaralanmasına neden olabilir
+• Tipik olarak ABH'ye neden olmamasına rağmen, sirolimus, greft fonksiyonu gecikmiş
+=== Sayfa 42 ===
+        Antikoagülasyona Bağlı
+              Nefropati
+• ABH, INR 3'ün üzerine çıkan akut bir artış
+  geliştiren antikoagülan alan hastalarda
+  tanımlanmıştır
+• Antikoagülasyonla ilişkili nefropati (ARN)
+  vakalarının çoğu, altta yatan KBH'si olan
+  hastalarda tedaviye başladıktan sonraki ilk 8
+  hafta içinde ortaya çıkar
+• ABH, böbrek tübüllerinin kırmızı kan hücresi
+  döküntüleri tarafından tıkanması ile birlikte
+  glomerüler hematüriden kaynaklanır.
+• ARN riskinin varfarin ile tedavi edilen
+  hastalarda en yüksek olduğu düşünülmektedir,
+  ancak oral antikoagülanlarla tedavi edilen
+=== Sayfa 43 ===
+Akut Fosfat Nefropatisi
+
+• Oral sodyum fosfat, kolonoskopi prosedürleri için
+  bağırsak hazırlığı olarak yaygın olarak kullanılmaktadır,
+  ancak son ABH vakaları bu müshilin kullanımını
+  sınırlamıştır
+• Oral sodyum fosfat ile ilişkili ABH'nin fosfatüri ve
+  renal tübüllerde akut kalsiyum-fosfat birikiminden
+  kaynaklandığına inanılmaktadır
+•    Bu durum için risk faktörleri arasında yaşlılık, hacim
+    tükenmesi ve altta yatan KBH bulunur.
+• Sodyum fosfat içeren lavmanların kullanımıyla benzer bir
+  fenomen bildirilmiştir
+=== Sayfa 44 ===
+         Kötüye Kullanılan İlaçlar
+ABH, uyuşturucu kullananlarda sık görülen bir durumdur ve ilacın
+nefrotoksisitesi, eşlik eden viral enfeksiyon (HIV, HCV), sepsis, enfektif
+endokardit veya rabdomiyolizden kaynaklanabilir
+
+Kokain, şiddetli hipertansiyon veya rabdomiyoliz nedeniyle ABH'ye yol
+açabilen yoğun vazokonstriksiyona neden olur. Rabdomiyoliz mekanizmaları
+arasında koma ve basınç nekrozu, iskemik kas hasarına yol açan vazospazm
+ve hücresel metabolizmanın artmasına yol açan hiperpireksi ile adrenerjik
+stimülasyon yer alır. Kokain ayrıca miyosit üzerinde doğrudan toksik
+ABD’de
+etkiler kokainin çoğu, bir immünomodülatör ve antihelmintik ajan olan
+         gösterebilir
+levamizol ile kontamine olmuştur.
+
+ABH ile ilişkili diğer yasa dışı uyuşturucular arasında opiatlar (koma ile
+ilişkili, basınca bağlı rabdomiyoliz); fensiklidin (hiperpireksi ve
+vazokonstriksiyona sekonder rabdomiyoliz); ve metamfetaminler
+(rabdomiyoliz, AIM veya akut nekrotizan anjiite sekonder AKI).
+
+Son zamanlarda, sentetik kannabinoidler AKI'nin bir nedeni olarak
+gösterilmiştir, ancak suçlu bileşen belirsizdir. Mümkün olduğunda, böbrek
+biyopsisi ATN ve daha nadiren AIN göstermiştir. Çoğu durumda, ABH için
+başka bir neden tanımlanamamıştır.
+=== Sayfa 45 ===
+ Etilen Glikol
+• Alkol dehidrojenaz tarafından tübüler hücreler için
+  toksik olan glikoaldehit ve glioksilata hızla
+  metabolize edilir.
+• Daha fazla metabolizma, çökelebilen ve
+  intratübüler tıkanıklığa yol açabilen oksalik asit
+  üretir.
+• Ciddi anyon açıklı metabolik asidoz ve yüksek serum
+  ozmol açığı
+• Kalsiyum oksalat kristalleri genellikle idrar
+  mikroskobunda görülür
+• Yönetim, alkol dehidrojenazın fomepizol ile
+  inhibisyonunu veya bu ajan mevcut değilse IV
+  etanolü içerir.
+• Hemodiyaliz hem ana alkolü hem de toksik
+=== Sayfa 46 ===
+               Mesleki Toksinler
+Ağır metaller: Kurşun zehirlenmesi genellikle kronik
+nefropatiye neden olur Nadiren, Fanconi sendromu ile
+ilişkili olabilecek ATI oluşur. ABH, kadmiyum ve cıva
+zehirlenmesinde de ortaya çıkabilir.
+
+Organik Çözücüler: Membran lipidlerinin peroksidasyonu
+nedeniyle ATI'ye neden olabilir. Halojenli
+hidrokarbonlara maruz kalma ile anti-glomerüler bazal
+membran (anti-GBM) antikor hastalığına bağlı subakut
+böbrek yetmezliği de bildirilmiştir.
+
+Bitkisel İlaçlar: Bitkisel ilaçların kullanımı ile ABH
+bildirilmiştir; bununla birlikte, nefrotoksisite
+çoğunlukla bu maddelerin safsızlıklardan kaynaklanır.
+Geleneksel Afrika tıbbında kullanılan bazı otlar
+(örneğin, Cape aloes, Callilepis laureola ),
+Afrika'nın bazı bölgelerinde ABH'nin yaygın
+nedenleridir. Aristoloşik asit (bazı geleneksel Çin
+=== Sayfa 47 ===
+        Kontrast Kaynaklı Nefropati
+• İyotlu kontrastın nefrotoksik olabileceği, ancak kontrast
+  uygulaması ile ABH riskinin sıklıkla abartıldığı genel olarak kabul
+  edilmektedir.
+• ABH tipik olarak altta yatan KBH'si olan hastalarda görülür ve
+  tahmini glomerüler filtrasyon hızı (eGFR) korunmuş hastalarda
+  nadiren görülür
+• Hastanede yatan hastalarda, görüntüleme genellikle diğer potansiyel
+  böbrek hasarları (örn. enfeksiyon, antibiyotikler) ortamında elde
+  edildiğinden, kontrast BT'nin ABH'nin birincil nedeni olup
+  olmadığını belirlemek genellikle zordur
+• Son çalışmalar, IV kontrast BT'nin nefrotoksisite ile bağlantısını
+  sorgulamış ve eGFR'si 30 mL/dak/1.73 m'den yüksek olan hastalara
+  düşük veya izoozmolar kontrast intravenöz olarak uygulandığında
+  minimum ABH riski olduğunu düşündürmüştür.
+• Kalp kateterizasyonu veya renal anjiyografi için gerekli olan
+  intraarteriyel kontrast uygulaması, ABH için daha büyük bir risk
+  oluşturur.
+• Kontrast nefropatiden ABH gelişimi için risk faktörleri arasında
+  diyabetik nefropati, ileri yaş (>75 yaş), konjestif kalp
+  yetmezliği, hacim azalması, hiperürisemi ve yüksek veya tekrarlayan
+  dozlarda radyokontrast ajanlar yer alır.
+• NSAID'lerin, ACE inhibitörlerinin veya diüretiklerin eşzamanlı
+=== Sayfa 48 ===
+Hem Pigment Nefropatisi
+=== Sayfa 49 ===
+ABH ve Karaciğer Hastalığı
+=== Sayfa 50 ===
+Kanser Hastalarında ABH
+=== Sayfa 51 ===
+   Kemoterapötik Ajanlar
+      Sisplatin
+• Oligürik olmayan ABH ile ilişkilidir ve nefroksisite bu ilacın en yaygın
+  doz sınırlayıcı yan etkisidir
+• Sisplatin mitokondride birikerek oksidatif fosforilasyonu inhibe eder,
+  bu da aşırı reaktif oksijen oluşumuna ve ATP oluşumunda bozulmaya neden
+  olarak hücre ölümüne yol açar.
+• Tübüler hasar hem proksimal hem de distal nefronları etkiler ve klinik
+  olarak magnezyum kaybı, bozulmuş idrar konsantrasyonu ve nadiren hacim
+  azalması ile tuz kaybı ile ilişkili olabilir
+• Nefrotoksisiteye karşı profilaksi: hacim yüklemesi ve mümkün olduğunda
+  dozun azaltılması
+• Tedaviden sonra böbrek yetmezliği devam edebilse de, GFR'de ilerleyici
+  düşüş olağandışıdır.
+• Bleomisin ve vinka alkaloidleri ile kombine edildiğinde, sisplatin
+  ayrıca trombotik mikroanjiyopati ile ilişkilidir. Alternatif ajan
+=== Sayfa 52 ===
+            Kemoterapötik Ajanlar
+• Yüksek doz metotreksat ve metabolitleri tübüler lümen
+  içinde çökelebilir ve ABH'ye neden olabilir. İlaç
+  kristalizasyonu için risk faktörleri arasında asit idrar,
+  hacim tükenmesi, bozulmuş GFR ve eşzamanlı nefrotoksin
+  maruziyeti yer alır. Agresif hidrasyon ve idrar
+  alkalinizasyonu (pH >7) nefrotoksisite riskini
+  azaltabilir.
+• Gemsitabin, öncelikle böbrek endoteline zarar vererek
+  ABH'ye neden olan bir nükleozid analoğudur. En sık görülen
+  belirti, ilacın tamamlanmasından 1 ila 2 ay sonra gelişen
+  trombotik bir mikroanjiyopatidir. ABH'ye sıklıkla yeni
+  başlangıçlı hipertansiyon veya mevcut hipertansiyonun
+  kötüleşmesi eşlik eder.
+• Trombotik mikroanjiyopatiye bağlı ABH'ye mitomisin ve
+  vasküler endotelyal büyüme faktörü yollarını inhibe eden
+  ilaçlar da neden olabilir (ör., bevacizumab, tirozin kinaz
+  inhibitörleri)
+=== Sayfa 53 ===
+        Akut İnterstisyel Nefrit
+Her ilaç kullanan kişide olmaz, doza bağlı değildir
+→ yani idiosenkratik bir (bireye özgü) immün
+yanıttır
+Genellikle döküntü, ateş, eozinofili gibi
+ekstrarenal aşırı duyarlılık bulguları eşlik eder
+Aynı ilaca yeniden maruz kalındığında tekrarlar
+
+Nadir olarak granülom oluşumu görülebilir (gecikmiş
+tip aşırı duyarlılık kanıtı)
+AIN, çoğunlukla T hücre aracılı bir immün yanıtla
+gelişen, ilaca bağlı, doza bağımlı olmayan bir aşırı
+duyarlılık nefritidir
+=== Sayfa 54 ===
+       Akut interstisyel nefrit
+
+Doğrudan tübüler           Obstrüktif üropati
+nefrotoksinler               Statin kaynaklı
+Aminoglikozitler               rabdomiyoliz
+Vankomisin
+                              Asiklovir veya
+Amfoterisin
+Sisplatin                        kreatinin
+Kalsinörin inhibitörleri       fosfokinazın
+(CNI'ler) Radyografik      kristalleşmesi ile
+kontrast                    ortaya çıkabilir
+=== Sayfa 55 ===
+Akut interstisyel nefritte rol oynayabilecek
+bağışıklık mekanizmaları
+=== Sayfa 56 ===
+     Akut interstisyel nefrite
+     sebep olan ilaçlar
+İlaç Grubu                       Alt Grup / Örnek İlaçlar
+                                 Penisilinler: Amoksisilin, Ampisilin, Metisilin,
+                                 Oksasilin, Piperasilin, Benzilpenisilin
+                                 Sefalosporinler: Sefaleksin, Sefalotin, Seftriakson,
+Antimikrobiyal ajanlar           Sefazolin Kinolonlar: Siprofloksasin, Levofloksasin,
+                                 Moksifloksasin Diğerleri: Kotrimoksazol,
+                                 Nitrofurantoin, Rifampin, Vankomisin, Eritromisin,
+                                 Gentamisin, Asiklovir, İsoniazid
+                                 Aspirin, İndometasin, İbuprofen, Naproksen,
+NSAID’ler (Salisilatlar dahil)   Piroksikam, Meloksikam, Selekoksib, Diklofenak,
+                                 Sulindak, Mefenamik asit, Sülfasalazin
+                                 Fenitoin, Karbamazepin, Valproat, Lamotrijin,
+Antikonvülsanlar
+                                 Fenobarbital, Triamteren
+                                 Furosemid, Hidroklorotiyazid, Triamteren,
+Diüretikler
+                                 Klortalidon, Etakrinik asit
+                                 Omeprazol, Lansoprazol, Pantoprazol, Ranitidin,
+Antiülser ilaçlar
+                                 Simetidin
+                                 İpilimumab, Nivolumab, Pembrolizumab, Metotreksat,
+Antikanser / İmmün ilaçlar       Sunitinib, Sorafenib, Lenalidomid, Karboplatin,
+                                 Interlökin-2
+                                 Allopurinol, Kaptopril, Fenofibrat, Nifedipin,
+Diğerleri                        Probenesid, Warfarin, Sirolimus, Azatioprin, α-
+                                 metildopa, Betanidin, Altın tuzları, D-penisilamin
+=== Sayfa 57 ===

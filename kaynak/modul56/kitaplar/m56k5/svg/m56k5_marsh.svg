@@ -1,0 +1,142 @@
+<svg viewBox="0 0 640 300" width="100%" style="display:block" role="img" aria-label="Marsh-Oberhuber sınıflaması: Marsh 0 normal, 1 intraepitelyal lenfosit artışı, 2 kript hiperplazisi, 3a kısmi, 3b subtotal, 3c total villus atrofisi; Corazza ve Ensari karşılıkları">
+  <defs><marker id="k5m" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k5mc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k5mm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <text x="100.0" y="20.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">Marsh 1992,</text>
+  <text x="100.0" y="32.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">Oberhuber 1999</text>
+  <text x="100.0" y="228.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">villus/kript</text>
+  <text x="152.0" y="20.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Marsh 0</text>
+  <text x="152.0" y="34.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">normal</text>
+  <path d="M126,169 L126,84 A10,10 0 0 1 146,84 L146,169 Z" fill="var(--color-accent)" fill-opacity="0.1"/>
+  <path d="M158,169 L158,84 A10,10 0 0 1 178,84 L178,169 Z" fill="var(--color-accent)" fill-opacity="0.1"/>
+  <path d="M111,169 L115,169 L115,194 A5,5 0 0 0 125,194 L125,169 L126,169 L126,84 A10,10 0 0 1 146,84 L146,169 L147,169 L147,194 A5,5 0 0 0 157,194 L157,169 L158,169 L158,84 A10,10 0 0 1 178,84 L178,169 L179,169 L179,194 A5,5 0 0 0 189,194 L189,169 L193,169" fill="none" stroke="var(--color-accent-700)" stroke-width="1.6"/>
+  <line x1="110" y1="205" x2="194" y2="205" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.3"/>
+  <circle cx="129.0" cy="161.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="143.0" cy="161.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="129.0" cy="147.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="143.0" cy="147.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="161.0" cy="161.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="175.0" cy="161.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="161.0" cy="147.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="175.0" cy="147.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <text x="152.0" y="228.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">V/K ≥ 3</text>
+  <text x="238.0" y="20.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Marsh 1</text>
+  <text x="238.0" y="34.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">İEL artışı</text>
+  <path d="M212,169 L212,84 A10,10 0 0 1 232,84 L232,169 Z" fill="var(--color-accent)" fill-opacity="0.1"/>
+  <path d="M244,169 L244,84 A10,10 0 0 1 264,84 L264,169 Z" fill="var(--color-accent)" fill-opacity="0.1"/>
+  <path d="M197,169 L201,169 L201,194 A5,5 0 0 0 211,194 L211,169 L212,169 L212,84 A10,10 0 0 1 232,84 L232,169 L233,169 L233,194 A5,5 0 0 0 243,194 L243,169 L244,169 L244,84 A10,10 0 0 1 264,84 L264,169 L265,169 L265,194 A5,5 0 0 0 275,194 L275,169 L279,169" fill="none" stroke="var(--color-accent-700)" stroke-width="1.6"/>
+  <line x1="196" y1="205" x2="280" y2="205" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.3"/>
+  <circle cx="215.0" cy="163.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="229.0" cy="163.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="215.0" cy="147.2" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="229.0" cy="147.2" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="215.0" cy="131.4" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="229.0" cy="131.4" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="215.0" cy="115.6" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="229.0" cy="115.6" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="215.0" cy="99.8" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="229.0" cy="99.8" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="215.0" cy="84.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="229.0" cy="84.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="222.0" cy="79.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="247.0" cy="163.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="261.0" cy="163.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="247.0" cy="147.2" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="261.0" cy="147.2" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="247.0" cy="131.4" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="261.0" cy="131.4" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="247.0" cy="115.6" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="261.0" cy="115.6" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="247.0" cy="99.8" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="261.0" cy="99.8" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="247.0" cy="84.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="261.0" cy="84.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="254.0" cy="79.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <text x="238.0" y="228.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">V/K ≥ 3</text>
+  <text x="324.0" y="20.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Marsh 2</text>
+  <text x="324.0" y="34.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kript hiperplazisi</text>
+  <path d="M298,144 L298,72 A10,10 0 0 1 318,72 L318,144 Z" fill="var(--color-accent)" fill-opacity="0.1"/>
+  <path d="M330,144 L330,72 A10,10 0 0 1 350,72 L350,144 Z" fill="var(--color-accent)" fill-opacity="0.1"/>
+  <path d="M283,144 L287,144 L287,194 A5,5 0 0 0 297,194 L297,144 L298,144 L298,72 A10,10 0 0 1 318,72 L318,144 L319,144 L319,194 A5,5 0 0 0 329,194 L329,144 L330,144 L330,72 A10,10 0 0 1 350,72 L350,144 L351,144 L351,194 A5,5 0 0 0 361,194 L361,144 L365,144" fill="none" stroke="var(--color-accent-700)" stroke-width="1.6"/>
+  <line x1="282" y1="205" x2="366" y2="205" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.3"/>
+  <circle cx="301.0" cy="138.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="315.0" cy="138.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="301.0" cy="121.5" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="315.0" cy="121.5" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="301.0" cy="105.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="315.0" cy="105.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="301.0" cy="88.5" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="315.0" cy="88.5" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="301.0" cy="72.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="315.0" cy="72.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="308.0" cy="67.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="333.0" cy="138.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="347.0" cy="138.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="333.0" cy="121.5" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="347.0" cy="121.5" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="333.0" cy="105.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="347.0" cy="105.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="333.0" cy="88.5" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="347.0" cy="88.5" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="333.0" cy="72.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="347.0" cy="72.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="340.0" cy="67.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <text x="324.0" y="228.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">V/K &lt; 3</text>
+  <text x="410.0" y="20.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Marsh 3a</text>
+  <text x="410.0" y="34.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kısmi atrofi</text>
+  <path d="M384,137 L384,99 A10,10 0 0 1 404,99 L404,137 Z" fill="var(--color-accent)" fill-opacity="0.1"/>
+  <path d="M416,137 L416,99 A10,10 0 0 1 436,99 L436,137 Z" fill="var(--color-accent)" fill-opacity="0.1"/>
+  <path d="M369,137 L373,137 L373,194 A5,5 0 0 0 383,194 L383,137 L384,137 L384,99 A10,10 0 0 1 404,99 L404,137 L405,137 L405,194 A5,5 0 0 0 415,194 L415,137 L416,137 L416,99 A10,10 0 0 1 436,99 L436,137 L437,137 L437,194 A5,5 0 0 0 447,194 L447,137 L451,137" fill="none" stroke="var(--color-accent-700)" stroke-width="1.6"/>
+  <line x1="368" y1="205" x2="452" y2="205" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.3"/>
+  <circle cx="387.0" cy="131.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="401.0" cy="131.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="387.0" cy="99.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="401.0" cy="99.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="394.0" cy="94.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="419.0" cy="131.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="433.0" cy="131.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="419.0" cy="99.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="433.0" cy="99.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="426.0" cy="94.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <text x="410.0" y="228.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">V/K &lt; 3</text>
+  <text x="496.0" y="20.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Marsh 3b</text>
+  <text x="496.0" y="34.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">subtotal atrofi</text>
+  <path d="M470,131 L470,119 A10,10 0 0 1 490,119 L490,131 Z" fill="var(--color-accent)" fill-opacity="0.1"/>
+  <path d="M502,131 L502,119 A10,10 0 0 1 522,119 L522,131 Z" fill="var(--color-accent)" fill-opacity="0.1"/>
+  <path d="M455,131 L459,131 L459,194 A5,5 0 0 0 469,194 L469,131 L470,131 L470,119 A10,10 0 0 1 490,119 L490,131 L491,131 L491,194 A5,5 0 0 0 501,194 L501,131 L502,131 L502,119 A10,10 0 0 1 522,119 L522,131 L523,131 L523,194 A5,5 0 0 0 533,194 L533,131 L537,131" fill="none" stroke="var(--color-accent-700)" stroke-width="1.6"/>
+  <line x1="454" y1="205" x2="538" y2="205" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.3"/>
+  <circle cx="473.0" cy="125.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="487.0" cy="125.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="473.0" cy="119.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="487.0" cy="119.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="480.0" cy="114.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="505.0" cy="125.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="519.0" cy="125.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="505.0" cy="119.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="519.0" cy="119.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="512.0" cy="114.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <text x="496.0" y="228.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">V/K &lt; 3</text>
+  <text x="582.0" y="20.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Marsh 3c</text>
+  <text x="582.0" y="34.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">total atrofi</text>
+  <path d="M541,127 L545,127 L545,194 A5,5 0 0 0 555,194 L555,127 L577,127 L577,194 A5,5 0 0 0 587,194 L587,127 L609,127 L609,194 A5,5 0 0 0 619,194 L619,127 L623,127" fill="none" stroke="var(--color-accent-700)" stroke-width="1.6"/>
+  <line x1="540" y1="205" x2="624" y2="205" stroke="var(--color-neutral-700)" stroke-opacity="0.6" stroke-width="1.3"/>
+  <circle cx="544.0" cy="130.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="560.0" cy="130.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="570.0" cy="130.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="592.0" cy="130.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="602.0" cy="130.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <circle cx="621.0" cy="130.0" r="1.9" fill="var(--color-text)" fill-opacity="0.75"/>
+  <text x="582.0" y="228.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">V/K = 0</text>
+  <text x="100.0" y="258.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">Corazza 2005</text>
+  <text x="100.0" y="288.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">Ensari 2010</text>
+  <rect x="198.0" y="244.0" width="166.0" height="20.0" rx="4" fill="var(--color-accent)" fill-opacity="0.2"/>
+  <text x="281.0" y="258.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">A</text>
+  <rect x="370.0" y="244.0" width="166.0" height="20.0" rx="4" fill="var(--color-accent)" fill-opacity="0.2"/>
+  <text x="453.0" y="258.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">B1</text>
+  <rect x="542.0" y="244.0" width="80.0" height="20.0" rx="4" fill="var(--color-accent)" fill-opacity="0.2"/>
+  <text x="582.0" y="258.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">B2</text>
+  <rect x="198.0" y="274.0" width="80.0" height="20.0" rx="4" fill="var(--color-accent)" fill-opacity="0.2"/>
+  <text x="238.0" y="288.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Tip 1</text>
+  <rect x="284.0" y="274.0" width="252.0" height="20.0" rx="4" fill="var(--color-accent)" fill-opacity="0.2"/>
+  <text x="410.0" y="288.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Tip 2</text>
+  <rect x="542.0" y="274.0" width="80.0" height="20.0" rx="4" fill="var(--color-accent)" fill-opacity="0.2"/>
+  <text x="582.0" y="288.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Tip 3</text>
+</svg>

@@ -1,0 +1,327 @@
+{
+ "kitap": "Kitap 7",
+ "konular": [
+  "dermatofit",
+  "diger_mantar"
+ ],
+ "bolumler": [
+  {
+   "no": "1",
+   "ad": "Dermatofitler",
+   "kartlar": [
+    {
+     "no": "1.1",
+     "ids": [
+      "MSD-2024-63",
+      "MSD-2021-2022-59"
+     ],
+     "kisa": "Hayvandan bulaşan (zoofilik) dermatofitler: kedi ve köpekten bulaşan tür",
+     "kisa_cevap": "Microsporum canis · hayvandan bulaşan etkenlerin grubu: zoofilik",
+     "varyant": "2021-22 MSD: hayvanlardan insanlara ya da diğer hayvanlara bulaşan mikoz etkenleri hangi grup altında toplanır? **Zoofilik** (öncüller arşivde yok).",
+     "gerekce": [
+      "**D doğru.** Dermatofitler kaynaklarına göre üç gruba ayrılır: insandan insana geçen antropofilik, hayvandan geçen zoofilik ve topraktan geçen jeofilik türler. Microsporum canis zoofiliktir ve doğal konağı kedi ve köpektir. Hayvanlarda belirti vermeden de taşınabilir. En sık çocukları tutar, çünkü çocuklar evcil hayvanlarla yakın temastadır. Saçlı deride tinea kapitis, vücutta tinea korporis yapar. Kültürde sarı pigment, mikroskopide altı ya da daha fazla bölmeli, kalın duvarlı, iğ biçimli makrokonidyalar görülür.",
+      "T. mentagrophytes de zoofiliktir, ama kaynağı kemirgenler ve tavşandır (A). E. floccosum ve T. rubrum antropofiliktir (B, C). Nannizzia fulva jeofiliktir (E). → 1.1"
+     ]
+    },
+    {
+     "no": "1.2",
+     "ids": [
+      "MSD-2024-64",
+      "MSD-2022-2023-62",
+      "MSD-2020-s34",
+      "MSD-2018-2019-62",
+      "BSD-2019-2020-81"
+     ],
+     "kisa": "Topraktan bulaşan (jeofilik) dermatofit: Nannizzia gypsea (Microsporum gypseum)",
+     "kisa_cevap": "Nannizzia gypsea (eski adı Microsporum gypseum)",
+     "varyant": [
+      "2018-19 MSD, 2020-21 MSD ve BSD 2019-20 aynı türü jeofilik karakteriyle sordu: tinea etkeni olarak sık izole edilen jeofilik dermatofit, kırsal kesimde ve çiftçilerde sık görülen jeofilik dermatofit, ülkemizde en sık ve özellikle toprakla uğraşanlarda görülen jeofilik dermatofit. Cevap **Nannizzia gypsea**, BSD 2019-20'de eski adıyla **Microsporum gypseum** (2020-21'de öncüller arşivde yok).",
+      "2022-23 MSD: Sabouraud dekstrozlu agarda tarçın renkli pigment oluşumuyla karakterize jeofilik dermatofit: **Nannizzia gypsea** (A)."
+     ],
+     "gerekce": [
+      "**A doğru.** Nannizzia gypsea topraktaki keratin artıklarında (kıl, tüy, boynuz) yaşayan jeofilik bir dermatofittir. İnsana topraktan, çoğu zaman küçük bir yaradan bulaşır. Toprakla yoğun uğraşan çiftçiler, çömlekçiler, inşaat işçileri ve arkeologlar en çok risk altındadır. Her keratinize dokuyu tutabilir. İnsana uyumlu olmadığı için güçlü bir iltihap yapar. Kültürde koloninin tersi tarçın rengindedir, mikroskopide çok sayıda ince duvarlı makrokonidya görülür. Yeni sınıflamada Microsporum gypseum'un adı Nannizzia gypsea olmuştur (Tablo 1.1).",
+      "Nannizzia persicolor fareden bulaşan zoofilik bir türdür (B). Microsporum canis kedi ve köpekten (C), Trichophyton erinacei kirpiden (D) bulaşır. Epidermophyton floccosum antropofiliktir ve toplu yaşanan yerlerde insandan insana yayılır (E). → 1.1"
+     ]
+    },
+    {
+     "no": "1.3",
+     "ids": [
+      "MSD-2023-2024-59",
+      "MSD-2019-57",
+      "MSD-2022-2023-64"
+     ],
+     "kisa": "Özel tinea tipleri: tinea incognito, tinea gladiatorum ve ötekiler",
+     "kisa_cevap": "Steroid kullanılan bölgede: tinea incognito · tinea gladiatorum antropofilik türlerle olur",
+     "varyant": [
+      "2019-20 MSD: uzun süreli steroid kullanımına bağlı lokal immünitenin bozulmasıyla görülen tinea: **tinea incognito** (C). Çeldiriciler tinea ciliaris, cruris, glabrosa ve gladiatorumdu.",
+      "2022-23 MSD: tinea gladiatorum enfeksiyonlarının ortak özelliği: **antropofilik türler ile oluşur** (B). Çeldiriciler tinea imbricatayı (coğrafi olarak sınırlı kronik yüzeyel dermatofitoz, T. concentricum), tinea incognitoyu (steroid kullananlarda) ve tinea ciliarisi (kirpiklerin enfeksiyonu) anlatıyordu."
+     ],
+     "gerekce": [
+      "**C doğru.** Tinea incognito “tanınmayan tinea” demektir. Dermatofitoz egzama ya da dermatit sanılıp uzun süre topikal kortikosteroidle tedavi edilince gelişir. Steroid iltihabı ve lokal bağışıklığı baskılar. Lezyonun tipik kenarı, kızarıklığı ve pullanması kaybolur, kaşıntı azalır, ama mantar baskılanan bağışıklık ortamında genişler. Lezyon atipik görünür ve tanı gecikir. Kazıntıda KOH ile hifaların görülmesi tanıyı koydurur.",
+      "Diğer tipler başka bir özellikle tanımlanır (Tablo 1.2). Tinea gladiatorum güreşçilerde deri temasıyla yayılır ve antropofilik türlerle, çoğunlukla T. tonsurans ile olur (B). Tinea imbricata T. concentricum'un yaptığı, Polinezya gibi coğrafi olarak sınırlı bölgelerde görülen, iç içe halkalar çizen kronik bir yüzeyel dermatofitozdur (E). Tinea ciliaris kirpiklerin (D), tinea glabrosa kılsız (glabröz) derinin (A) dermatofitozudur. → 1.2"
+     ]
+    },
+    {
+     "no": "1.4",
+     "ids": [
+      "BSD-2023-2024-82",
+      "BSD-2022-2023-81",
+      "MSD-2020-s74"
+     ],
+     "kisa": "Tinea kapitisin etkenleri",
+     "kisa_cevap": "Dünyada en yaygın antropofilik etken: Trichophyton tonsurans · tinea kapitis etkeni olmayan: Epidermophyton floccosum",
+     "varyant": [
+      "BSD 2022-23'te aynı soru, aynı şıklar. Cevap **Trichophyton tonsurans** (E).",
+      "2020-21 MSD: tinea kapitis etkeni olmayan dermatofit: **Epidermophyton floccosum** (öncüller arşivde yok)."
+     ],
+     "gerekce": [
+      "**E doğru.** Trichophyton tonsurans antropofilik bir türdür ve saçın içine girer (endotriks invazyon, Şekil 1.2). Sporlar saç telinin içini doldurur, saç dibinden kırılır ve saçlı deride siyah noktalar kalır. İnsandan insana tarak, şapka ve yastıkla yayılır, toplu yaşanan yerlerde ve okullarda salgın yapar. Sunuma göre Türkiye'de Güney ve Güneydoğu Anadolu'da sıktır. Dünyada tinea kapitisin en yaygın antropofilik etkenidir. Sunumun tinea kapitis etkenleri listesinde T. tonsurans ve M. canis vardır.",
+      "Epidermophyton floccosum saçı tutmaz, yalnızca deriyi ve tırnağı tutar (A). 2020-21 sorusunda tinea kapitis etkeni olmayan dermatofit bu yüzden odur. T. rubrum saça girmeyen (non-trikal) bir türdür, tırnak ve deri enfeksiyonlarının en sık etkenidir (B). T. verrucosum zoofiliktir ve çiftlik hayvanlarından bulaşır (C). T. mentagrophytes saçı ektotriks biçimde tutabilir, ama tinea kapitis yapan türü zoofiliktir ve kemirgenlerden bulaşır. Kompleksin antropofilik türü T. interdigitale ise ayağı ve tırnağı tutar (D). → 1.2"
+     ]
+    },
+    {
+     "no": "1.5",
+     "ids": [
+      "MSD-2018-2019-61"
+     ],
+     "kisa": "Tinea manuum için risk faktörü",
+     "kisa_cevap": "İnterdigital hiperhidroz",
+     "cevap": "**Kaynak notu:** Cushing hastalığı (C) da yaygın dermatofit enfeksiyonları için bilinen bir risk faktörüdür. Kortizol fazlası hücresel bağışıklığı baskılar, sunumun listesindeki “immünsüpresyon” maddesi bunu kapsar. Soru en doğrudan ve sunumda adıyla geçen risk faktörünü ister: aşırı terleme ve nem.",
+     "gerekce": [
+      "**B doğru.** Dermatofitler keratini sindirir ve nemli, sıcak, kapalı ortamda en iyi ürer. Parmak aralarındaki aşırı terleme (hiperhidroz) keratin tabakasını yumuşatır, maserasyon yapar ve mantarın tutunup çoğalacağı ortamı hazırlar. Sunumun atlet ayağı ve onikomikoz risk faktörleri listesi aynı mantığı izler: dolaşım bozuklukları (kronik venöz yetmezlik, periferik arter hastalığı, alt ekstremitede lenfödem), tırnak distrofisi ve deformiteleri, psoriazis, iktiyozis, diabetes mellitus, sporda tırnak ve tırnak yatağı mikrotravmaları, hiperhidroz ve aşırı nem, HIV gibi immünsüpresyonlar ve trizomi 21. Tinea manuum çoğu zaman tinea pedisle birlikte görülür, el ayaktaki mantarla temas edince bulaşır.",
+      "Orak hücreli anemi, beta talasemi taşıyıcılığı ve myasthenia gravis dermatofitoz için risk faktörü değildir (A, D, E). → 1.2"
+     ]
+    },
+    {
+     "no": "1.6",
+     "ids": [
+      "MSD-2025-2026-41"
+     ],
+     "kisa": "Direkt mikroskobik incelemede kullanılan kimyasal",
+     "kisa_cevap": "%10 potasyum hidroksit (KOH)",
+     "gerekce": [
+      "**C doğru.** Dermatofitler keratinin içinde yaşar, keratin de mikroskopta mantarı örter. %10-20'lik potasyum hidroksit (KOH) keratini, hücreleri ve kılın yapısını eritir ve şeffaflaştırır. Mantarın hücre duvarındaki kitin ve glukan KOH'a dayanıklıdır, bu yüzden hifalar ve sporlar şeffaflaşan dokuda görünür hâle gelir. İnceleme dakikalar içinde sonuç verir, kültür ise haftalar sürer. KOH ile hifa görülmesi dermatofitoz tanısını destekler ama türü göstermez. Tür kültürle belirlenir.",
+      "Seyreltik KOH (%0,1) keratini eritmez (D). Sülfürik asit bu iş için kullanılmaz (A, B). Siklohekzimid direkt incelemede kullanılan bir kimyasal değil, kültür besiyerine eklenen ve küfleri baskılayan bir maddedir (E). → 1.3"
+     ]
+    },
+    {
+     "no": "1.7",
+     "ids": [
+      "MSD-2025-2026-43",
+      "MSD-2023-2024-60",
+      "MSD-2022-2023-61",
+      "MSD-2020-s33",
+      "BSD-2021-2022-79",
+      "BSD-2024-2025-82"
+     ],
+     "kisa": "Dermatofit kültüründe kontaminant küfleri baskılayan kimyasal: siklohekzimid (Aktidion)",
+     "kisa_cevap": "Siklohekzimid (Aktidion): hızlı üreyen küfleri baskılar, dermatofitlerin ve geç üreyen mayaların üremesine izin verir",
+     "cevap": "**Kaynak notu:** BSD 2024-25 sorusunun kayıtlı anahtarı C'dir (6-aminopenisilanik asit). Bu yanlıştır. 6-Aminopenisilanik asit penisilinlerin çekirdek yapısıdır, küfleri baskılamaz. Doğru cevap D şıkkındaki siklohekzimiddir. Aynı soru 2023-24 MSD'de sorulmuştu ve orada C şıkkı “Aktidion” idi. BSD'de şıklar yer değiştirdiği hâlde anahtarın harfi değiştirilmemiş olabilir.",
+     "varyant": [
+      "2023-24 MSD: tinea unguium etkenlerinin kültüründe kontaminant küfleri baskılamak için kullanılan kimyasal: **Aktidion** (C). Çeldiriciler amfoterisin B, %10 potasyum hidroksit, 6-aminopenisilanik asit ve N-asetil-N-naftilamindi.",
+      "2022-23 MSD: besiyerine eklenerek Onygenales dışı küflerin üremesini engelleyen ve besiyerine seçicilik kazandıran kimyasal: **siklohekzimid** (E). Çeldiriciler aminoprotein, laktofenol pamuk mavisi, melanin ve N,N-dimetil-1-naftilamindi.",
+      "2020-21 MSD ve BSD 2021-22: rutin mikolojik kültürlerde hızlı üreyen küfleri baskılayarak dermatofitlerin üremesini ortaya çıkaran kimyasal, dermatofit kültüründe kontaminasyonu önlemek için besiyerine eklenen madde: **Aktidion (siklohekzimid)** (öncüller arşivde yok).",
+      "BSD 2024-25: onikomikoz kültüründe kontaminant küfleri baskılayan kimyasal: doğrusu **siklohekzimid** (D); kaynak notuna bakın."
+     ],
+     "gerekce": [
+      "**C doğru.** Deri, saç ve tırnak örnekleri çevredeki küf sporlarıyla kirlidir. Aspergillus, Penicillium ve Mucorales gibi saprofit küfler bir-iki günde petriyi kaplar, dermatofitler ise iki-üç haftada ürer. Siklohekzimid (ticari adı Aktidion) ökaryot ribozomlarında protein sentezini durduran bir maddedir. Saprofit küflerin çoğu ona duyarlıdır, Onygenales takımındaki dermatofitler ise dirençlidir. Sabouraud dekstrozlu agara (SDA) eklenince küfler baskılanır ve yavaş üreyen dermatofitler ortaya çıkar (Şekil 1.3). Bakterileri baskılamak için besiyerine ayrıca kloramfenikol eklenir. İnsan patojeni mayaların çoğu da siklohekzimide dirençlidir, Cryptococcus neoformans ise duyarlıdır (Bölüm 2.4).",
+      "Diğer şıklar uydurmadır. Siklohekzimid bir uyarıcı değildir ve dermatofitler üç günde üremez (A). Siklohekzimid antimetabolitleri besiyerinden temizlemez (B), melanin oluşturmaz (D), pigment yaptırmaz (E). 2023-24 sorusunun çeldiricilerinden amfoterisin B mantarların hepsini öldürür, KOH direkt mikroskopinin kimyasalıdır, 6-aminopenisilanik asit penisilinin çekirdeğidir ve bakterileri hedefler. → 1.3"
+     ]
+    },
+    {
+     "no": "1.8",
+     "ids": [
+      "MSD-2025-2026-40",
+      "MSD-2021-2022-62",
+      "MSD-2019-58"
+     ],
+     "kisa": "Kültürde üreyen küfün ve dermatofitin mikroskobik incelemesinde kullanılan boya",
+     "kisa_cevap": "Laktofenol pamuk mavisi",
+     "varyant": [
+      "2021-22 MSD: dermatofit kültürünün rutin tanısında besiyerinde üreyen yapıları tanımlamak için kullanılan boyar madde: **laktofenol pamuk mavisi** (öncüller arşivde yok).",
+      "2019-20 MSD: Sabouraud besiyerinde üreyen küf-mikoz etkenlerinin in vitro tanısında kullanılan: **laktofenol pamuk mavisi** (B). Çeldiriciler laktik asit mürekkebi, çini mürekkebi, indokarmin ve malaşit yeşiliydi."
+     ],
+     "gerekce": [
+      "**B doğru.** Küflerin tür tanısı kültürde üreyen yapıların biçimine dayanır: hifanın, konidyanın ya da sporanjiumun biçimi, sayısı ve dizilişi. Bu yapılar laktofenol pamuk mavisiyle (LPCB) boyanır. Karışımın her bileşeninin bir işi vardır. Fenol mantarı öldürür ve laboratuvar çalışanını korur. Laktik asit mantarın yapısını korur. Pamuk mavisi hücre duvarındaki kitine bağlanıp yapıları maviye boyar. Gliserol preparatın kurumasını önler. Dermatofitlerin mikrokonidya ve makrokonidyaları (Şekil 1.4), mukormikozda Sabouraud agarda üreyen küfün sporanjiyoforları, sporanjiumları ve rizoidleri (Şekil 2.1) bu boyayla görülür.",
+      "Çini mürekkebi beyin omurilik sıvısında Cryptococcus kapsülünü göstermek için kullanılır (A). Hematoksilen-eozin, Gomori gümüş boyası ve PAS doku kesitlerinin boyalarıdır, kültürden yapılan preparatın değil (C-E). Sunum dermatofit mikroskopisi için LPCB'nin yanında asit füksin çözeltisini ve Parker mürekkebini de sayar. → 1.3"
+     ]
+    },
+    {
+     "no": "1.9",
+     "ids": [
+      "MSD-2025-2026-39",
+      "MSD-2024-62",
+      "MSD-2021-2022-61",
+      "MSD-2020-s73",
+      "MSD-2019-59",
+      "MSD-2018-2019-57"
+     ],
+     "kisa": "Favus, kalıcı alopesi ve “kel şamdanı”: Trichophyton schoenleinii",
+     "kisa_cevap": "Trichophyton schoenleinii",
+     "varyant": [
+      "2024-25 MSD: kalıcı alopesi etkeni olması nedeniyle saptandığı zaman sürveyans gereken dermatofit: **T. schoenleinii** (B). 2021-22 MSD: kalıcı alopesiye neden olabilen dermatofit: **T. schoenleinii**. 2020-21 MSD: favus hangi etkenin klinik bulgusudur? **T. schoenleinii** (bu ikisinin öncülleri arşivde yok).",
+      "2018-19 MSD: kültürde mikrokonidya göstermeyen, şamdana benzer hifalı, kalıcı alopesi yapan ve “kel şamdanı” adı verilen dermatofit: **T. schoenleinii** (D).",
+      "2019-20 MSD bunu bir vakayla sordu: tinea kapitis superficialis hastasının kültüründe 17 gün sonra üreyen, üstü buruşuk, düzensiz, krem renkli koloni; mikroskopide tanımlayıcı yapılar var, mikrokonidya yok. Etken: **T. schoenleinii** (D)."
+     ],
+     "gerekce": [
+      "**D doğru.** Trichophyton schoenleinii favusun (halk arasında saçkıran) etkenidir. Antropofiliktir ve saçın içinde hifa ve hava boşlukları yapar (favik invazyon, Şekil 1.2). Saç köklerinin çevresinde hifalardan ve keratin artıklarından oluşan, sarı, çanak biçimli kabuklar (skutula) birikir. İltihap saç köklerini kalıcı olarak yıkar ve yara izli (skatrisyel) kalıcı alopesi gelişir. Çocukta bulunduğunda bu yüzden kaynağın ve temaslıların araştırılması (filiasyon) ve izlenmesi (sürveyans) gerekir. Sunuma göre Türkiye'de 1950'lere kadar sıktı, bugün nadirdir ve coğrafi olarak sınırlı türler arasındadır.",
+      "Kültürde yavaş ürer: inkübasyonu yaklaşık 15 gündür, koloni krem renkten kahverengiye döner, üstü buruşuk ve düzensizdir. Mikrokonidya oluşturmaz, sık klamidyokonidya ve uçları şamdan kollarını andıran hifalar (“kel şamdanı”) yapar (Şekil 1.4). M. canis ve M. audouinii saçın dışını sarar (ektotriks) ve iyileşince saç geri çıkar (A, C). M. gypseum jeofiliktir (B). E. floccosum saçı tutmaz (E). → 1.4"
+     ]
+    },
+    {
+     "no": "1.10",
+     "ids": [
+      "MSD-2019-61",
+      "MSD-2021-2022-64"
+     ],
+     "kisa": "Toplu yaşanan yerde tinea inguinalis salgını: Epidermophyton floccosum",
+     "kisa_cevap": "Epidermophyton floccosum",
+     "varyant": "2021-22 MSD aynı tabloyu başka ayrıntılarla sordu: Aktidionlu SDA'da 28 °C'de 8. günde sarı-zeytin yeşili yüzey pigmentiyle üreyen, tinea inguinalis yapan ve hastanın çevresinde aynı yakınmalı kişilerin bulunduğu dermatofit: **Epidermophyton floccosum** (öncüller arşivde yok).",
+     "gerekce": [
+      "**B doğru.** Vakanın üç ipucu da E. floccosum'u gösterir. Tinea inguinalis (kruris) onun en sık yaptığı enfeksiyondur. Antropofiliktir ve sunumun ifadesiyle toplu yaşanan yerlerde salgın yapar: okul, yatakhane, kışla, spor tesisi. Mikroskopide mikrokonidya yoktur. Düz duvarlı, raket biçimli makrokonidyalar aynı hifadan kümeler hâlinde çıkar (grup makrokonidya, Şekil 1.4). Koloni sarı-zeytin yeşili renktedir, zamanla kahverengiye döner.",
+      "Trichophyton türleri bol mikrokonidya yapar (A). Microsporum canis ve Nannizzia gypsea'nın makrokonidyaları tek tektir, ikisi de saçı tutar ve biri zoofilik, öteki jeofiliktir (C, D). Paraphyton cookei jeofilik bir türdür (E). E. floccosum saçı tutmaz, deriyi ve tırnağı tutar. → 1.4"
+     ]
+    },
+    {
+     "no": "1.11",
+     "ids": [
+      "MSD-2025-2026-44"
+     ],
+     "kisa": "Terbinafine dirençli, hızla yayılan Trichophyton mentagrophytes genotipi",
+     "kisa_cevap": "Trichophyton indotineae (T. mentagrophytes genotip VIII)",
+     "gerekce": [
+      "**B doğru.** Trichophyton indotineae, T. mentagrophytes kompleksinin genotip VIII'idir. 2010'larda Hindistan'da yaygın, iltihaplı ve tedaviye dirençli dermatofitoz salgınlarıyla tanındı ve kısa sürede Türkiye dahil dünyaya yayıldı. Kasık, gövde, kalça ve yüzde geniş, kaşıntılı lezyonlar yapar ve aile içinde kolay bulaşır. Terbinafinin hedefi olan skualen epoksidaz geninde mutasyon taşıyan suşlar yaygındır, bu yüzden terbinafine yanıt alınamaz. Kortikosteroid ve antifungal içeren karışık kremlerin bilinçsiz kullanımı salgını beslemiştir (Bölüm 1.2). Tedavi çoğu zaman itrakonazolle yapılır ve uzun sürer.",
+      "T. interdigitale aynı kompleksin antropofilik türüdür, sunuma göre iltihapsız tinea unguium ve tinea pedis yapar (A). T. rubrum dermatofitozun en sık etkenidir, ama soruda tarif edilen genotip değildir (C). T. erinacei kirpiden bulaşır (D), T. tonsurans tinea kapitis yapar (E). → 1.4"
+     ]
+    }
+   ]
+  },
+  {
+   "no": "2",
+   "ad": "Diğer mantarlar",
+   "kartlar": [
+    {
+     "no": "2.1",
+     "ids": [
+      "MSD-2024-60",
+      "MSD-2023-2024-61",
+      "BSD-2024-2025-83",
+      "MSD-2022-2023-59",
+      "MSD-2020-s14",
+      "MSD-2019-60",
+      "MSD-2018-2019-59",
+      "BSD-2021-2022-80"
+     ],
+     "kisa": "Mukormikoz: anjioinvazyon yapan zigomiçet (Rhizopus) ve en sık tuttuğu bölge",
+     "kisa_cevap": "Rhizopus (R. oryzae = R. arrhizus) · en sık rinoorbital (rinoserebral) tutulum",
+     "varyant": [
+      "2023-24 MSD ve BSD 2024-25'te aynı soru, aynı şıklar (sıraları farklı). Cevap **rinoorbital**.",
+      "Beş sınav etkeni sordu ve cevap hep **Rhizopus** idi: patoloji kesitlerinde anjioinvazyon gösteren, derin immünsüprese hastada sinüzal başlayan küf (2022-23 MSD); klinik ve patolojik olarak anjioinvazyonla seyreden enfeksiyon yapan etken, **Rhizopus oryzae** (2020-21 MSD); immünitesi bozuk hastada anjioinvazyonla rinofasiyal dokuda şiddetli yıkım yapan küf, **Rhizopus arrhizus** (2019-20 MSD); kontrolsüz diyabette sinüslerden başlayıp anjioinvazyonla yayılan fırsatçı patojen, **Rhizopus stolonifer** (2018-19 MSD); immünsüprese hastada anjioinvazyonla doku yayılımı gösteren zigomiçet (BSD 2021-22; 2020-21 ve BSD 2021-22'de öncüller arşivde yok)."
+     ],
+     "gerekce": [
+      "**E doğru.** Mukormikozun (zigomikoz) etkenleri Mucorales takımındaki küflerdir. Sunuma göre Rhizopus oryzae (R. arrhizus) en yaygın etkendir, kültür edilebilen zigomikozların %60'ını yapar ve enfeksiyonlarının %90'ı rinoserebraldir. Sporlar burundan solunur ve önce burun ile paranazal sinüslerde çimlenir. Hifalar damar duvarını işgal eder (anjioinvazyon), damarda tromboz yapar ve beslediği dokuyu nekroza uğratır. Damakta ve burunda siyah nekrotik eskar görülür. Enfeksiyon günler içinde orbitaya, oradan beyne yayılır (rinoorbitoserebral mukormikoz, Şekil 2.1).",
+      "Risk grupları bağışıklığın ve demir dengesinin bozulduğu durumlardır: lösemi ve nötropeni, kontrolsüz diyabet ve özellikle ketoasidoz, yüksek doz kortikosteroid, organ nakli, deferoksamin tedavisi. Dokuda geniş, az bölmeli, dik açıyla dallanan hifalar görülür. Aspergillus da nötropenik hastada damar duvarını tutabilir, ama diyabetik ketoasidozda sinüsten orbitaya ve beyne hızla yayılan tablo mukormikozdur. Mukormikozda akciğer ve gastrointestinal kanal da tutulabilir, ama rinoorbital tutulumdan seyrektir (A, C). Orofarengeal ve retiküloendotelyal tutulum mukormikozun tipik yerleşimleri değildir (B, D). → 2.1"
+     ]
+    },
+    {
+     "no": "2.2",
+     "ids": [
+      "MSD-2024-59",
+      "MSD-2018-2019-58",
+      "MSD-2021-2022-63"
+     ],
+     "kisa": "Mantar alerjisi: en sık alerjik bronkopulmoner reaksiyon yapan cins ve alerjiye neden olan yapı",
+     "kisa_cevap": "Aspergillus · alerjen yapı: peroksizomal membran proteinleri",
+     "varyant": [
+      "2018-19 MSD: pulmoner alerjik etkileri daha sık görülen mikoz etkeni: **Aspergillus** (C). Çeldiriciler Rhizopus, Fusarium, Candida ve Cryptococcus'tu.",
+      "2021-22 MSD: insanlarda fungal alerjiye neden olan yapı: **peroksizomal membran proteinleri** (öncüller arşivde yok)."
+     ],
+     "gerekce": [
+      "**C doğru.** Aspergillus sporları (konidyaları) küçüktür (2-3 µm), havada her yerde bulunur ve alveollere kadar ulaşır. Bağışıklık sistemi bu sporlara aşırı yanıt verirse alerjik hastalıklar gelişir: alerjik bronkopulmoner aspergilloz (ABPA), alerjik fungal sinüzit ve astım alevlenmeleri (Şekil 2.2). ABPA'da bronşlarda çoğalan mantara karşı IgE ve IgG aracılı bir yanıt gelişir. Astımlı ve kistik fibrozisli hastalarda görülür. Total ve Aspergillus'a özgü IgE yükselir, eozinofili ve gezici akciğer infiltratları olur.",
+      "Sunuma göre mantar alerjisi, çevreye yayılan fungal proteinlerin dokuyla karşılaşmasıyla gelişir. Alerjen proteinler arasında peroksizomal membran proteinleri, subtilisin benzeri serin proteazlar, asit ribozomal proteinler, siklofilinler, ısı şok proteinleri, enolaz, aldehit dehidrogenaz, glutatyon S-transferaz ve katalaz sayılır. Peroksizomal membran proteinleri, peroksizomlarla ilişkili ve yağ asitleri, D-amino asitler ve poliaminlerin yıkımında rol alan proteinlerdir. Fusarium, Cryptococcus, Exophiala ve Cladophialophora alerjiden çok enfeksiyon yapar (A, B, D, E). → 2.2"
+     ]
+    },
+    {
+     "no": "2.3",
+     "ids": [
+      "MSD-2023-2024-63"
+     ],
+     "kisa": "Aspergillozun serolojik tanısında serumda aranan yapı",
+     "kisa_cevap": "Galaktomannan",
+     "gerekce": [
+      "**D doğru.** Galaktomannan Aspergillus hücre duvarının bir polisakkaritidir. Mantar dokuda çoğalırken kana ve bronş sıvısına geçer, serumda ve bronkoalveoler lavaj sıvısında ELISA ile ölçülür. İnvaziv aspergillozda, özellikle nötropenik lösemi hastalarında erken tanı ve tedavinin izlenmesi için kullanılır. Daha geniş bir belirteç olan (1→3)-β-D-glukan mantarların çoğunda pozitifleşir, ama Mucorales'te ve Cryptococcus'ta yükselmez.",
+      "Mannan Candida'nın hücre duvarı antijenidir (C). Sukromannan, ksilomannan ve fruktomannan tanıda kullanılan antijenler değildir (A, B, E). Alerjik bronkopulmoner aspergillozda tanı daha çok total ve özgül IgE ve çöktürücü antikorlarla konur, galaktomannan invaziv hastalığın testidir (Şekil 2.2). → 2.2"
+     ]
+    },
+    {
+     "no": "2.4",
+     "ids": [
+      "MSD-2024-61",
+      "MSD-2022-2023-60",
+      "MSD-2019-62"
+     ],
+     "kisa": "Mikotoksinler: aflatoksin ve okratoksin",
+     "kisa_cevap": "Aflatoksin (A. flavus, A. parasiticus; hepatotoksik) · okratoksin A (A. ochraceus; nefrotoksik)",
+     "cevap": "**Kaynak notu:** 2019-20 sorusu okratoksinin “nefritik sendroma” yol açtığını söyler. Sunumdaki tabloya göre okratoksinin böbrek etkisi nefrotoksisitedir: tübülleri ve interstisyumu hasarlayan kronik bir nefropati. Nefritik sendrom ise glomerülonefritin tablosudur. Cevap yine okratoksindir.",
+     "varyant": [
+      "2022-23 MSD'de aynı soru (şıkların sırası farklı). Cevap **aflatoksin** (A). İki soruda da “alfatoksin” ve “orkatoksin” şıkları yazım tuzağıydı.",
+      "2019-20 MSD: özellikle Aspergillus ochraceus'tan salgılanan ve nefritik sendroma yol açan mikotoksin: **okratoksin** (D). Çeldiriciler ergotamin, fumonisin, aflatoksin ve sitrinindi."
+     ],
+     "gerekce": [
+      "**C doğru.** Aflatoksinler en çok Aspergillus flavus ve A. parasiticus tarafından üretilir. Mantar sıcak ve nemli ortamda depolanan fıstık, fındık, badem, kuru incir, tahıllar, mısır ve kırmızıbiber gibi ürünlerde ürer, toksin de ürüne geçer. Aflatoksin B1 karaciğerde sitokrom P450 ile epoksite çevrilir. Epoksit DNA'ya bağlanır ve p53 geninde mutasyon yapar. Aflatoksin bu yüzden hem akut hepatotoksik hem de hepatoselüler karsinom için güçlü bir karsinojendir ve hepatit B ile birlikte riski katlar. Sunumdaki tabloda aflatoksinlerin etkisi hepatotoksisite ve immünsüpresyondur (Tablo 2.1).",
+      "Okratoksin A, A. ochraceus'un toksinidir ve karsinojenik, genotoksik, nefrotoksik ve immünsüpresif etkilidir (A). Fumonisinler Fusarium verticillioides'in, vomitoksin (deoksinivalenol) Fusarium graminearum'un, zearalenon Fusarium culmorum'un, trikotekenler Stachybotrys chartarum'un, patulin Penicillium expansum'un toksinidir. “Alfatoksin”, “orkatoksin” ve “fumitoksin” diye bir mikotoksin yoktur (B, D, E). → 2.2"
+     ]
+    },
+    {
+     "no": "2.5",
+     "ids": [
+      "MSD-2022-2023-63",
+      "MSD-2025-2026-42",
+      "MSD-2023-2024-62",
+      "MSD-2021-2022-60",
+      "MSD-2020-s72"
+     ],
+     "kisa": "Hidrokarbonla kirlenmiş ortamlarda kolonize olan esmer (siyah) maya: Exophiala",
+     "kisa_cevap": "Exophiala (E. dermatitidis, E. phaeomuriformis) · feohifomikoz etkeni",
+     "varyant": [
+      "2025-26 MSD: feohifomikoz olgularından izole edilen etken: **Exophiala dermatitidis** (C). Çeldiriciler C. albicans, C. dubliniensis, Cryptococcus neoformans ve Aspergillus fumigatus'tu.",
+      "2023-24 MSD: petrol tankeri kazalarının etkilediği sahillerde daha yoğun kolonize olan insan patojeni: **Exophiala** (C). 2021-22 MSD: aromatik hidrokarbonları parçalayabildiği için ev ortamında ve kimyasal atıkların yoğun olduğu bölgelerde kolonize olan, immünsüprese konakta enfeksiyon yapan cins: **Exophiala** (öncüller arşivde yok).",
+      "2020-21 MSD: hidrokarbon ve radyoaktif kirliliğin olduğu ortamlarda kolonize olan, pnömoni, menenjit ve cilt mikozları yapan siyah maya: **Exophiala phaeomuriformis** (öncüller arşivde yok)."
+     ],
+     "gerekce": [
+      "**C doğru.** Esmer (dematiase) mantarlar hücre duvarlarında melanin taşıyan, bu yüzden koloni ve hifaları kahverengi-siyah görünen mantarlardır. Sunuma göre 60'tan fazla cins ve 100'den fazla tür içerirler, en sık DHN ve DOPA melaninleri taşırlar ve kromoblastomikoz, miçetom ve feohifomikoz yaparlar. Feohifomikoz, dokuda pigmentli hifa ve maya hücreleriyle seyreden enfeksiyonların genel adıdır. Exophiala bu grubun insanda en sık görülen cinsidir. Önce maya, sonra küf biçiminde ürediği için siyah maya da denir.",
+      "Exophiala aromatik hidrokarbonları (benzen, toluen, petrol türevleri) karbon kaynağı olarak parçalayabilir. Bu yüzden petrolle kirlenmiş sahillerde, kimyasal atıkların yoğun olduğu yerlerde ve evde bulaşık makinesi gibi ortamlarda çoğalır. Melanin onu radyasyona ve oksidatif strese karşı da korur. Sunuma göre en önemli risk kistik fibrozistir, çünkü E. dermatitidis bu hastaların akciğerlerine yerleşir. İmmünsüprese hastada pnömoni, menenjit ve cilt enfeksiyonu yapabilir. Candida türleri pigmentsizdir (A, B). Cryptococcus melanini yalnızca konakta ve özel besiyerinde, lakkaz enzimiyle yapar, kolonileri krem renklidir ve esmer mantar sayılmaz (D). Aspergillus niger siyah konidya yapsa da bir küftür ve hidrokarbonla ilişkili değildir (E, Tablo 2.2). → 2.3"
+     ]
+    },
+    {
+     "no": "2.6",
+     "ids": [
+      "MSD-2018-2019-60",
+      "BSD-2019-2020-82"
+     ],
+     "kisa": "Cryptococcus neoformans: kapsül, lakkaz ve siklohekzimide duyarlılık",
+     "kisa_cevap": "Cryptococcus neoformans",
+     "varyant": "BSD 2019-20: siklohekzimid küflerin çoğunu baskılar, insan patojeni mayaların çoğu ise baskılanmadan ürer. Şüpheli hastadan alınan örneği siklohekzimidsiz besiyerine ekmek gereken insan patojeni maya: **Cryptococcus neoformans** (C).",
+     "gerekce": [
+      "**D doğru.** Cryptococcus neoformans bir basidiomiset mayasıdır. Güvercin dışkısıyla kirlenmiş toprakta yaşar ve solunumla alınır. Sunuma göre en sık etkenler C. neoformans ve C. gattii'dir. Enfeksiyon çoğunlukla bağışıklığı baskılanmış hastada, özellikle AIDS'te menenjit olarak görülür, nadiren sağlam konakta da hastalık yapar. Psödohifa yapmaz. İki virülans faktörü onu fırsatçı bir patojen yapar. Polisakkarit kapsülü fagositozu engeller ve bağışıklık yanıtını baskılar, beyin omurilik sıvısında çini mürekkebiyle hücrenin çevresinde şeffaf bir hale olarak görülür. Lakkaz enzimi konaktaki katekolaminlerden melanin yapar, melanin de mantarı oksidatif hasara karşı korur. Beyin katekolaminden zengindir, bunun mantarın merkezi sinir sistemine yönelmesine katkıda bulunduğu düşünülür.",
+      "Cryptococcus siklohekzimide duyarlı olan az sayıdaki patojen mayadan biridir. Dermatofit kültüründe kullanılan siklohekzimidli besiyeri onu da baskılar ve yanlış negatif sonuç verir. Kriptokokoz düşünülen hastanın örneği bu yüzden siklohekzimidsiz besiyerine ekilir (Bölüm 1.3). Tanıda kapsül antijeninin serumda ve beyin omurilik sıvısında aranması da çok değerlidir. Exophiala esmer bir mayadır ve kapsülü yoktur (A). Candida albicans psödohifa yapar, kapsülü yoktur (E). Dermatofitler fırsatçı değildir, keratini sever (B, C). → 2.4"
+     ]
+    },
+    {
+     "no": "2.7",
+     "ids": [
+      "BSD-2023-2024-83",
+      "BSD-2022-2023-82"
+     ],
+     "kisa": "Rekombinant aşı üretiminde en sık kullanılan maya",
+     "kisa_cevap": "Saccharomyces cerevisiae",
+     "varyant": "BSD 2022-23'te aynı soru, aynı şıklar. Cevap **Saccharomyces cerevisiae** (D).",
+     "gerekce": [
+      "**D doğru.** Saccharomyces cerevisiae ekmek ve bira mayasıdır. Patojen değildir, hızlı ürer ve genetiği iyi bilinir. Bir virüsün yüzey proteinini kodlayan gen mayaya aktarıldığında maya bu proteini bol miktarda üretir. Bakteriden farklı olarak bir ökaryot olduğu için proteini doğru katlar ve gerekli değişiklikleri yapar. Hepatit B aşısındaki HBsAg ve insan papilloma virüsü aşısındaki virüs benzeri parçacıklar bu yolla mayada üretilir. Aşıda virüsün kendisi değil yalnızca yüzey proteini bulunduğu için enfeksiyon riski yoktur.",
+      "Candida auris çoklu ilaç direnciyle bilinen, hastane salgınları yapan bir patojendir (B). Malassezia furfur lipide bağımlı bir deri mayasıdır ve pitiriyazis versikolor yapar (C). Cryptococcus neoformans patojen bir mayadır (E). Trichophyton mentagrophytes maya değil, bir dermatofittir (A). → 2.4"
+     ]
+    }
+   ]
+  }
+ ]
+}

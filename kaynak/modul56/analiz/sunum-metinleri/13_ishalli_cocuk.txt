@@ -1,0 +1,345 @@
+=== Sayfa 1 ===
+İshalli Çocuklarda Öykü
+Ve Fizik Bakı
+
+     Prof. Dr. Ahmet Ergin
+     Çocuk İzlem Polikliniği
+=== Sayfa 2 ===
+ Sunum Planı
+ ◦ İshal ile ilgili tanımlar,
+   Epidemiyoloji, patogenez
+ ◦ Kronik ishalde etyoloji,
+   anamnez ve fizik muayene
+ ◦ Akut ishalde etyoloji, anamnez
+   ve fizik muayene
+ ◦ İshalde tedavi yaklaşımı
+=== Sayfa 3 ===
+Tanımlar (ishal=gastroenterit)
+ Akut İshal: Süt çocukluğu döneminde
+  10g/kg/gün veya büyük çocuklarda 200g
+  dan fazla dışkı çıkarmadır. (DSÖ tanımı; 24
+  saatte 3 ve eskisinden 2 ve daha fazla sulu
+  dışkılama)
+ Persistan ishal: Akut başlayan ve 14 günden
+  uzun süren ishaldir.
+ Kronik ishal: Bir aydan uzun süren ve kilo
+  alamama ile beraber olan ishaldir.
+ Dizanteri: Kanlı, mukuslu, tenesmuslu
+  dışkılama.
+=== Sayfa 4 ===
+ Geçiş kakası: Yaşamın 3.-15. günleri
+ arasında kaka sayısı 8-10’u bulabilir.
+=== Sayfa 5 ===
+ İshal; tüm dünyada çocukluk çağında
+
+  mortalite ve morbitenin önemli
+  sebeplerindendir.
+ Dünyada her yıl 1.7 milyar olgu ve 525 bin
+
+  ishale bağlı 5 yaş altı çocuk ölümü
+  görülmekte.
+ Beş yaş altı çocuklarda malnütrisyonun
+
+  önemli bir sebebi.
+https://www.who.int/en/news-room/fact-sheets/detail/diarrhoeal-disease
+=== Sayfa 6 ===
+ Ülkemizde her yıl 1-1,5 milyon ishal olgusu
+
+ mevcut.
+ Olguların %80’i 2 yaş altında ve çoğu   6-11
+ aylık bebekler.
+ Bunların %1-3 ü ciddi.
+=== Sayfa 7 ===
+ Ülkemizde bebek ölüm nedenleri arasında,
+
+ 2000 yılına kadar olan süreçte, ikinci sırada
+ ishaller vardı.
+ ◦ Alt yapımızın iyileşmesi (sanitasyon), kişisel hijyenin
+   iyileşmesi ve temiz suya ulaşımın artması
+   sonucunda ishaller azaldı.
+
+ ◦ ORS ve ishalli çocuğa yaklaşımın iyi anlatılması ile
+   artık ishalden ölüm azaldı.
+
+ ◦ Ancak halen gereksiz antibiyotik ve antidiyareik
+   kullanımına bağlı sorunlar devam etmektedir.
+=== Sayfa 8 ===
+İshal oluşum mekanizmaları
+1.   Barsak lümeninde emilemeyen, ozmotik olarak aktif
+     maddelerin varlığı (ozmotik ishal).
+2. Elektrolit sekresyonunun artması ya da reabsorbsiyonun
+     engellenmesi (sekretuar ishal).
+3. İntestinal mukozanın bütünlüğünü bozan nedenler
+     (mikroorganizma invazyonu, tümörler, ülserler).
+4. İntestinal motilitede artış ya da azalma (psikojenik ve
+     hormonal bozukluklar, otonomik nöropati)
+   1. Motilite azalması(ağır malnütrisyon, psödoobstrüksiyon,
+          diabetes mellitus, hipotiroidi, hiperkalsemi) staz ile beraber
+          bakteriyel çoğalması,
+   2. Motilite artması (hipertiroidi, inflamasyon, hümoral ajanlar)
+          ise hızlı geçiş sonucu mukozal temasın azalması ile kronik
+          ishale neden olur.
+5. Emilim yüzeyinin azalması (kısa barsak sendromu gibi).
+Memeşa A, Özkan T, Özeke T.Çocuklarda Kronik ishale Tanı Yaklaşımları. Güncel Pediatri 2004 ; 2 : 124-130.
+=== Sayfa 9 ===
+Kronik İshalde Etyoloji
+=== Sayfa 10 ===
+KRONİK İSHAL
+   Kronik İshalde Öykü
+
+➢Kronik ishalli hastaların klinik
+değerlendirilmesinde en önemli basamak detaylı
+bir anamnez alınmasıdır.
+➢Kronik ishalli olgularda malnütrisyon
+(dolayısıyla büyüme geriliği) riski vardır.
+=== Sayfa 11 ===
+➢İshalin başlangıç yaşı hastanın tanısı
+açısından bir ipucu taşıyabilir.
+  ▪ Doğumdan hemen sonraki erken
+    dönemde başlayan ishal kazanılmış
+    malabsorbsiyon bozukluklarının aksine
+    daha çok konjenital (doğuştan gelen) bir
+    bozukluğun belirtisi olabilir. (Örn.
+                                    Otozomal resesif.
+                                    Ekzokrin pankreas
+    Shwachman-Diamond sendromu).    yetersizliği, kemik
+                                           iliği yetersizliği ve
+  ▪ 1-3 yaşları arasında Oyun Çocuğu İshali
+                                          iskelet anomalileri.
+
+    Kr. ishal etyolojisinde önemli yer tutar.
+=== Sayfa 12 ===
+➢Bazen diyet değişiklikleri ile ishal başlangıcı
+arasında kuvvetli ilişkiler vardır. Bu nedenle
+anamnez sırasında bu konu özellikle
+araştırılarak sorgulanmalıdır.
+  ▪Anne sütünden formül süte geçiş sırasında
+  ortaya çıkabilecek benzer bulgular süt
+  proteinlerine karşı duyarlılığı, ek gıdalara
+  geçiş döneminde başlayan benzer bulgular
+  ise çölyak hastalığının işareti olarak
+  değerlendirilmelidir.
+=== Sayfa 13 ===
+➢İlaç kullanımı mutlaka sorulmalıdır.
+  ➢Antibiyotikler
+=== Sayfa 14 ===
+Ayrıca, olguların
+       dışkı sayıları,
+       koku,
+       renk,
+       sıvı içeriği
+gibi özellikleri etiyoloji için ipucu verebilir.
+
+➢Karbonhidrat malabsorbsiyonu olan olgularda
+tipik olarak patlayıcı tarzda sulu dışkı çıkışı
+olmakta ve asidik dışkı içeriğine bağlı olarak
+sıklıkla perianal lezyonlara yol açmaktadır.
+=== Sayfa 15 ===
+➢Pankreatik enzimlerin eksikliği sonucu ortaya
+çıkan yağ malabsorbsiyonu olan olgularda ise çok
+miktarda yağlı ve soluk renkli ve aşırı derecede
+kötü kokulu dışkı görülmektedir.
+➢Buna karşılık intestinal mukoza anormalliklerine
+bağlı olarak ortaya çıkan malabsorbsiyon
+tablolarında ise dışkı sulu olmaktan daha çok
+yumuşak, daha az yağlı ve daha az kötü kokuludur.
+=== Sayfa 16 ===
+➢Olguların yakın zamandaki öyküleri iyi
+değerlendirilmelidir.
+  •Geçirilmiş enfeksiyonlar,
+  •Son zamandaki yapılmış seyahatler,
+  •Geçirilmiş abdominal operasyonlar,
+  •Diğer sistemlere ait yakınma ve semptomlar.
+     Kronik akciğer sorunları;
+              Kistik fibrozise,
+     Eklem bulguları;
+              Kronik inflamatuar barsak hastalığı
+     Sık tekrarlayan enfeksiyonlar;
+              İmmün yetmezlik hastalıkları
+=== Sayfa 17 ===
+➢Aile öyküsü dikkatle alınmalı
+ •ailede mevcut kistik fibrozis olguları,
+ çölyak hastalığı, kronik inflamatuar barsak
+ hastalığı ve HIV enfeksiyonu ipucu olarak
+ değerlendirilmelidir.
+=== Sayfa 18 ===
+Kronik İshalde Fizik Muayene
+➢Olgularda antropometrik ölçümler
+yapılmalı ve standart değerlerle
+karşılaştırılmalıdır.
+
+➢Mümkünse çocuğun doğumdan beri
+yapılan izleminde elde edilen büyüme
+eğrilerinin gözden geçirilmesi yararlıdır.
+=== Sayfa 19 ===
+➢Malnütrisyonun varlığı ve derecesi
+saptanır.
+➢Kr ishale sebep olan hastalığa ait
+diğer bulgular gözlenmeye çalışılır.
+Örneğin, kistik fibrozlu hastalara
+solunum sistemine ait bulgular.
+=== Sayfa 20 ===
+AKUT İSHAL
+Enfeksiyöz akut ishal
+mekanizmaları ve etkenleri
+ I-İntestinal invazyon
+  E.Coli (enteroinvazif), Şigella, Salmonella, Yersinia
+   enterokolitika, Complybacter Jejuni, Entemoeba
+   histolitika (amip)
+ II-Mikrobial toksin oluşturarak
+  V. Kolera, E.Coli (Enterotoksijenik), Clostridium
+   suşları, Staph. Aureus
+ III.İntestinal mukozada hücre harabiyeti
+  E.Coli (Enteropatojenik), Rotavirus, Giardia
+   lamblia (parazit), Criptosporidium (mantar)
+=== Sayfa 21 ===
+Nonenfeksiyöz akut ishal nedenleri
+
+ • Nütrisyonel sebepler (Uygun hazırlanmamış
+   diyet)
+ • Metabolik sebepler
+ • Besin zehirlenmeleri (ağır metal, mantar v.b.)
+ • Antibiyotik etkisi
+ • Neoplastik hastalıklar
+ • Psikolojik stres
+ • Diğer (süt allerjisi, Crohn hastalığı)
+=== Sayfa 22 ===
+Akut İshalde Çocuğa
+Yaklaşım
+Triyaj!!!
+ Dalgınlık
+ Sepsis, paralitik ileus
+ Şok varlığı
+ Sistemik bir hastalığın bulgusu olup olmadığı
+
+           öncelikle saptanmalı.
+=== Sayfa 23 ===
+ Hasta stabilse;
+ ◦ İshalin başlama zamanı,
+ ◦ Gaitanın özelliği, kan, mukus, renk,
+   sayı, kıvamı,
+ ◦ Eşlik eden diğer semptom ve
+   bulgular (Ateş, kusma, nörolojik
+   bulgular)
+ ◦ Aile fertleri veya okulda başka
+   benzer bulguları olan vakalar
+              sorgulanmalıdır.
+=== Sayfa 24 ===
+Fizik Muayenede Yaklaşım
+Hızlıca,
+ Hastayı tart,
+
+ Daha önceki tartısını kullanarak
+ dehidratasyon yüzdesini belirle.
+=== Sayfa 25 ===
+=== Sayfa 26 ===
+Hafif dehidratasyon (%3-5 kayıp)
+   Kan basıncı          Normal
+   Nabız dolgunluğu     Normal
+   Kalp hızı            Normal
+   Fontanel             Normal
+   Ağız mukozası        Normal
+   Göz küreleri         Normal
+   Ekstremiteler        Sıcak, kapiller N
+   İdrar çıkımı         Hafif azalmış
+   Susuzluk hissi       Artmış
+   Deri turgoru         Normal
+   Mental durum         Normal
+=== Sayfa 27 ===
+Orta dehidratasyon (%6-9 kayıp)
+ Kan basıncı        Normal
+ Nabız dolgunluğu   Normal veya hafif azalmış
+ Kalp hızı          Normal
+ Deri turgoru       Hafif azalmış
+ Fontanel           Normal
+ Ağız mukozası      Kuru
+ Göz küreleri       Hafif çökük
+ Ekstiremiteler     Kapiller dolum zamanı
+  uzamış
+ Mental durum       N veya huzursuz
+ İdrar çıkımı       1 ml/kg/saat az
+ Susuzluk hissi     Orta derecede artmış
+=== Sayfa 28 ===
+Ağır dehidratasyon (%10 ve üstünde
+kayıp)
+ Kan basıncı        N veya azalmış
+ Nabız dolgunluğu   Hafif azalmış
+ Kalp hızı          Artmış
+ Deri turgoru       Azalmış
+ Fontanel           Çökük
+ Ağız mukozası      Kuru
+ Göz küreleri       Çökük
+ Ekstiremiteler     Soğuk, rengi dalgalı (cutis
+  marmaratus)
+ Mental durum       N, letharjik veya komatöz
+ İdrar çıkımı       1 ml/kg/saatin çok altında
+ Susuzluk hissi     Belirgin artmış veya koma
+=== Sayfa 29 ===
+Yaklaşım
+Hastaneye yatırma endikasyonu
+  varmı?
+ Şok (hipovolemik, septik)
+ Ağır dehidratasyon
+ Bilinç kapalı ise (koma) yatır.
+=== Sayfa 30 ===
+Varsa!!
+ Acil olarak damar yolu aç, ekstraselluler
+  sıvıda hızlı bir artış sağlayacak, 20 cc/kg
+  İzotonik veya Ringer laktat hızlı (20dk) ver,
+ Gerekirse 2 kez tekrarla,
+ Stabil olunca ORS ye geç ve % 6-9
+  dehidratasyon gibi takip et.
+=== Sayfa 31 ===
+ Stabilse!!
+ % 6-9 kayıp, orta dereceli
+  dehidratasyon var ise :
+  ◦ Rehidrasyon amacıyla 100 ml/kg ORS
+    4 saatte verilir,
+  ◦ Rehidrasyon sağlandıktan sonra,
+    kayıpları karşılayacak şekilde ORS’ye
+    devam edilir (Yaptığı ishalli gaita
+    başına 10 cc/kg ORS verilir).
+  ◦.
+=== Sayfa 32 ===
+ % 3-5 kayıp var ise, hafif
+  dehidratasyon;
+ Rehidrasyon için 50 cc/kg ORS 4
+  saatte verilir.
+
+ Rehidrate olduktan sonra idameye
+ geçilir. 120 cc/kg/gün ORS, İshal diyeti,
+ anne sütü
+=== Sayfa 33 ===
+ Dehidrate olmayan bebeğe ORS
+
+ gerekmez, ANNE SÜTÜ
+ YETERLİDİR, büyük çocuk ise
+ sıvı alımında artış ve ishal diyeti
+ önerilir.
+=== Sayfa 34 ===
+Laboratuar Tanısı
+ Gaita mikroskopisi – Lökosit, eritrosit,
+  mukus
+ Gaita kültürü
+ Akademik: Seroloji, ELİSA, PCR, EM
+=== Sayfa 35 ===
+Gaitada lökosit hangi olgularda görülür?
+
+ Enteroinvazif ishal etkenleri: Şigella,
+  Salmonella, Clostridium jejuni, invazif Vibrio
+  parahemalitikus, Aeromonas, Plesiomonas
+  shigelloides, E. Coli,Yersinia enterokolitika,
+ Enterohemorojik E. Coli ve E. Histolitika
+  (gaitada daha az miktarda lökosit olabilir)
+=== Sayfa 36 ===
+ORS TEDAVİSİNDE KULLANILAN GLUKOZ-ELEKROLİT SIVILARININ BİLEŞİMİ
+=== Sayfa 37 ===
+  Sonuç
+ Çocuklarda ishal hem ölüm nedeni (Sıvı-
+  elektrolit kaybı), hem de malabsorbsiyon ve
+  malnütrisyona yol açtığı için önem taşır.
+ İshallerin çoğu viral veya toksinle oluşur, bu
+  nedenle çoğu zaman antibiyotik ve
+  antidiyareik gerekmez.
+ Ağızdan sıvı tedavisi ve beslenmeye hiç ara
+  verilmemelidir.

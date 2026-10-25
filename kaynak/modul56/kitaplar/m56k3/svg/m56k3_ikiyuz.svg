@@ -1,0 +1,53 @@
+<svg viewBox="0 0 640 420" width="100%" style="display:block" role="img" aria-label="ACE inhibitörünün böbrekteki iki yüzü: hiperfiltrasyon yapan glomerülü korur, perfüzyonu azalmış glomerülde GFR'yi düşürür">
+  <defs><marker id="k3e" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k3ec" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k3em" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <text x="160.0" y="16.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">KORUYUCU YÜZ</text>
+  <text x="480.0" y="16.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">NEFROTOKSİK YÜZ</text>
+  <rect x="20" y="26" width="280" height="48" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="160.0" y="46.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Hiperfiltrasyon</text>
+  <text x="160.0" y="60.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">diyabet, nefron kaybı</text>
+  <rect x="20" y="96" width="280" height="48" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="160.0" y="116.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">AII efferenti daraltır</text>
+  <text x="160.0" y="130.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">glomerül basıncı gereğinden yüksek</text>
+  <rect x="20" y="186" width="280" height="42" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="160.0" y="203.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Efferent gevşer</text>
+  <text x="160.0" y="217.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">fazla basınç kalkar</text>
+  <rect x="20" y="246" width="280" height="42" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="160.0" y="263.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Glomerül basıncı normale iner</text>
+  <text x="160.0" y="277.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">proteinüri ve skleroz azalır</text>
+  <rect x="20" y="306" width="280" height="56" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="160.0" y="323.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Böbrek korunur</text>
+  <text x="160.0" y="337.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kreatinin %30'a kadar yükselebilir:</text>
+  <text x="160.0" y="351.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hasar değil, fazla basıncın kalkması</text>
+  <line x1="160" y1="74" x2="160" y2="92" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3e)"/>
+  <line x1="160" y1="144" x2="160" y2="182" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3e)"/>
+  <line x1="146.0" y1="164" x2="174.0" y2="164" stroke="var(--color-accent-2-900)" stroke-width="2.5"/>
+  <text x="176.0" y="168.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">ACEİ · ARB</text>
+  <line x1="160" y1="228" x2="160" y2="242" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3e)"/>
+  <line x1="160" y1="288" x2="160" y2="302" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3e)"/>
+  <rect x="340" y="26" width="280" height="48" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="480.0" y="39.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Perfüzyon azalmış</text>
+  <text x="480.0" y="53.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">bilateral renal arter darlığı,</text>
+  <text x="480.0" y="67.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">tek böbrekte darlık, hacim azalması</text>
+  <rect x="340" y="96" width="280" height="48" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="480.0" y="116.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Renin ↑, AII efferenti daraltır</text>
+  <text x="480.0" y="130.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">GFR bu daralmaya dayanır</text>
+  <rect x="340" y="186" width="280" height="42" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="480.0" y="203.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Efferent gevşer</text>
+  <text x="480.0" y="217.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">GFR'nin dayanağı kalkar</text>
+  <rect x="340" y="246" width="280" height="42" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="480.0" y="263.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Glomerül basıncı çöker</text>
+  <text x="480.0" y="277.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">filtrasyon durur</text>
+  <rect x="340" y="306" width="280" height="56" rx="4" fill="white" stroke="var(--color-accent-2-900)" stroke-width="1.5"/>
+  <text x="480.0" y="323.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">GFR ani düşer</text>
+  <text x="480.0" y="337.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hemodinamik ABH, bu hastalarda</text>
+  <text x="480.0" y="351.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ACEİ ve ARB kontrendikedir</text>
+  <line x1="480" y1="74" x2="480" y2="92" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3e)"/>
+  <line x1="480" y1="144" x2="480" y2="182" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3e)"/>
+  <line x1="466.0" y1="164" x2="494.0" y2="164" stroke="var(--color-accent-2-900)" stroke-width="2.5"/>
+  <text x="496.0" y="168.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">ACEİ · ARB</text>
+  <line x1="480" y1="228" x2="480" y2="242" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3e)"/>
+  <line x1="480" y1="288" x2="480" y2="302" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3e)"/>
+  <rect x="340" y="376" width="280" height="36" rx="4" fill="white" stroke="var(--color-accent-2-900)" stroke-width="1.5"/>
+  <text x="480.0" y="390.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">NSAİİ eklenirse afferent de daralır:</text>
+  <text x="480.0" y="404.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">giriş kapanır, çıkış açılır, GFR iki uçtan düşer</text>
+</svg>

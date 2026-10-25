@@ -1,0 +1,592 @@
+=== Sayfa 1 ===
+AKUT BÖBREK YETMEZLİĞİ
+ (AKUT BÖBREK HASARI)
+
+       Dr. Mevlüt Çeri
+        Nefroloji BD
+=== Sayfa 2 ===
+Yetmezlik : Böbreğin major fonksiyonlarından birini
+(genellikle glomerüler filtrasyon) yerine getirememesi
+olarak tanımlanmaktadır.
+
+Hasar : Glomerüler filtrasyonda azalma olması temeline
+dayanmamaktadır. Hücresel hasar GFR düşüşünden
+önce veya bağımsız olabilir.
+=== Sayfa 3 ===
+                      Tanım
+
+• Glomerüler filtrasyon hızının ani olarak azalması
+  (saatler-haftalar içerisinde) sonucunda kanda
+  nitrojen kökenli (üre, kreatinin…) olan ve olmayan
+  metabolizma artıklarının birikimi ile karakterize bir
+  sendromdur.
+=== Sayfa 4 ===
+          “Glomerüler filtrasyon hızı” ölçümü
+     Erişkin erkek 130±18 ml/dk/1.73 m², kadın 120
+     ±14ml/dk/1.73 m², 30 yaşından sonra he yıl 0.75-1 ml/dk
+     azalır. Diürnal varyasyon gösterir (Gece en düşük, öğlen
+     sonu en yüksek)
+
+Klasik:
+              İdrar kreatinini [mg/dl] × 24 saatlik idrar volümü [ml]
+          =
+               plazma kreatinini [mg/dl] × 1440 [dak olarak gün]
+=== Sayfa 5 ===
+  Serum üre düzeyini etkileyen faktörler
+
+Serum üresinde artış          Serum üresinde azalma
+
+Dehidratasyon                 Diyetle protein kısıtlanması
+Böbrek kanlanmasında          Vücut suyunda artış
+azalma                        Uygunsuz ADH
+Diyetle protein alımında      Gebelik
+artış
+                              Karaciğer hastalığı
+Katabolik durumlar
+   *Ateş
+   *Travma
+   *Gastrointestinal kanama
+   *Tetrasiklinler
+   *Kortikosteroidler
+=== Sayfa 6 ===
+Serum kreatinin düzeyini etkileyen faktörler
+
+ Serum kreatininde artış   Serum kreatininde azalma
+ Ketotik durum             Diyetle protein kısıtlanması
+ Hiperglisemi              Kas kitlesinin azalması
+ Flusitozin                Malnütrisyon
+ Simetidin, trimetoprim    İleri yaş
+ Aşırı egzersiz            Kadın cinsiyet
+ Diyetle alınan et         İlerlemiş karaciğer hastalığı
+=== Sayfa 7 ===
+                 Tanımlamalar
+• RIFLE kriterleri
+2002 yılında,
+Akut Diyaliz Kalite Girişimi Grubu (Acute Dialysis
+  Ouality Intiative- ADQI)
+
+• AKIN kriterleri
+2005 ylında, Amsterdam
+Akut Böbrek Hasar Ağı (Acute Kidney Injury Network)
+=== Sayfa 8 ===
+                    RIFLE
+
+Risk   Hasar   Yetmezlik   Kayıp      Son dönem böbrek
+                                           yetmezliği
+
+         Hasar                     Klinik sonuç
+=== Sayfa 9 ===
+               RIFLE tanımlaması
+
+          GFR kriteri                 İdrar volümü kriteri
+
+                                                             Sensitif
+Risk      SCr x1.5 veya               <0.5 ml/kg/s
+          GFR azalışı>%25             x6 saat
+
+            SCr x2 veya              <0.5 ml/kg/saat
+Injury      GFR azalışı>%50          x12 saat
+
+              SCr x3 veya           <0.3 ml/kg/s
+              GFR azalışı>%75       x24 saat veya
+Failure        veya sCre >4         Anüri x12 s
+
+Loss                    Tam fx kaybı>1 ay
+
+                           ESRD>3 ay
+ESRD                                                         Spesifik
+=== Sayfa 10 ===
+        AKUT BÖBREK HASARINDA RIFLE VE AKIN
+         EVRELEMELERİNİN KARŞILAŞTIRILMASI
+
+RIFLE Evresi   AKIN Evresi   Serum Kreatinin Kriteri       İdrar Atılımı Kriteri
+
+Risk                 1       Serum kreatininde         6 saat süreyle saatte
+                             başlangıca göre 1.5-2 kat < 0.5 ml/kg
+                             artış olması veya 0.3
+                             mgr/dl artış olması
+
+Hasar                2       Serum kreatininde             12 saat süreyle
+                             başlangıca göre 2-3 kat       saatte < 0.5 ml/kg
+                             artış olması
+
+Yetmezlik            3       Serum kreatininde             24 saat süreyle
+                             başlangıca göre 3 kattan      saatte < 0.3 ml/kg
+                             fazla artış olması veya       veya 12 saat süreyle
+                             akut 0.5 mgr/dl’lik artışla   anüri
+                             beraber kreatinin 4 mgr/dl
+                             üzerinde olması
+=== Sayfa 11 ===
+KDIGO tanım ve sınıflamasına
+        göre:2012
+=== Sayfa 12 ===
+                  Epidemiyoloji
+• Sıklık
+  Genel toplumda <%1
+  Hastanede      %2-7
+  YBÜ’de      %5-30
+
+• Mortalite
+  Komplike olmayan ABH <%5-10
+  YBÜ’de, oligürik, RRT gerektiren, böbrek dışı organ
+  yetersizliği olan ABH %40-90 (En kötü prognoz sepsisle
+  birlikte olduğunda)
+=== Sayfa 13 ===
+ Renal hasar riskini artıran faktörler
+
+• İleri yaş
+• Volüm eksikliği
+• Diyabetes Mellitus
+• Hipertansiyon
+• Diuretik kullanımı
+• Önceki kardiyak ya da renal yetersizlik
+• Proteinuri
+• Miyelom
+=== Sayfa 14 ===
+=== Sayfa 15 ===
+  AKI’ye neden olan başlıca kategorilerin insidansı
+
+Kategori                                       İnsidans
+Prerenal azotemi: Böbreğin akut                55-60%
+hipoperfüzyonuna bağlı
+
+Intrinsic renal azotemi: Renal parankime       35-40%
+ait akut hastalıklar
+ -Büyük böbrek damarı hast.
+ -Küçük böbrek damarları ve glomeruler hast.
+ -ATN (iskemik ve toksik)                      *>90%*
+ -Tubulo-interestisyel hast.
+ -Intratubular obstrüksiyon
+
+Postrenal azotemi: İdrar yollarının akut       <5%
+obstrüksiyonu
+=== Sayfa 16 ===
+     Akut prerenal böbrek yetmezliği
+• Böbrek dokusunun bütünlüğü korunur.
+
+• Böbreklerin perfüzyonunun azalması söz konusudur.
+
+• Hastanın kan basıncında önemli değişiklikler olmadan böbrek
+  perfüzyon basıncıdaki değişikliklere bağlı gelişebilir (Kronik
+  karaciğer hastalığı, kalp yetmezliği…)
+=== Sayfa 17 ===
+           Prerenal azotemi sebepleri
+
+• İntravasküler volüm azalması (hipovolemi)
+      Hemoraji, GIS, Renal, Cild, 3. boşluk sıvı kayıpları
+
+• Kalp debisi azalması
+      Kalp pompa gücü azalması, pulmoner emboli
+
+• Sistemik vazodilatasyon
+      Sepsis, KC yetmezliği, Anaflaksi, İlaçlar
+
+• Renal vazokonstriksiyon
+      Sepsis, KC hastalığı, Hiperglisemi, CSA, NA
+
+• Otoregülasyon ve GFR’yi bozabilen ilaçlar
+      ACE inhibitörleri, NSAI ilaçlar
+=== Sayfa 18 ===
+           Prerenal azotemi fizyopatolojisi
+                      Etkin dolaşan volüm eksikliği
+
+                          Baroreseptör aktivasyonu
+
+         AII                       NA                     ADH
+
+               Vazokostriksiyon/Mezanşiyal kontraksiyon
+ PG
+
+Otoreg                        GFR azalması
+                    (-)
+ NO
+=== Sayfa 19 ===
+Renal ABH sebepleri 4 ana başlık altında
+toplanabilir
+
+Büyük damar tutulumu
+
+Glomerül ya da küçük
+damar tutulumu
+
+Tübüler tutulum (ATN)
+
+Tübülointertisyel tutulum
+=== Sayfa 20 ===
+            Renal ABH sebepleri-I
+
+• Büyük damarlar
+    Vende; Trombüs, kompresyon
+    Arterde;Tromboz, ateroemboli, disseksiyon, vaskülit (Takayasu)
+
+• Glomerül ve küçük damarlar
+     İnflamatuvar (GN, Vaskülitler, Rejeksiyon, Radyasyon)
+     Vazospastik (Malign HT, Gebelik toksemisi, Skleroderma)
+     Hematolojik (HUS/TTP, DIC, Hiperviskozite)
+=== Sayfa 21 ===
+             Renal ABH sebepleri-II
+• Akut tubuler nekroz
+  *İskemik
+  *Toksik
+
+• Tübülointersitisyum
+     Allerjik intertisyel nefrit (NSAID, Antibiyotikler)
+     Akut pyelonefrit (viral, fungal, bakteriyel)
+     Akut sellüler rejeksiyon
+     İnfiltrasyon (Lenfoma, lösemi, sarkoid)
+=== Sayfa 22 ===
+             Nefrotoksik ATN sebepleri
+• Ekzojen                      • Endojen
+Antibiyotikler                   Myoglobin
+  (Asiklovir, aminoglikozid,       (Rabdomiyoliz)
+  ampho B)                       Hemoglobin
+Organik çözücüler
+                                   (Hemoliz)
+  (Etilen glikol, toluen)
+                                 Ürik asit ve myeloma
+Zehirler
+                                 hafif zincirleri
+  (Yılan sokması)
+Kemoterapötikler
+  (Sisplatin, ifosfamid)
+Radyokontrastlar
+Bakteriyel toksinler
+=== Sayfa 23 ===
+ATN Fizyopatolojisi
+=== Sayfa 24 ===
+            ATN seyri
+BAŞLANGIÇ       İskemik ya da toksik hasara
+                Maruziyet
+                Saatler, günler
+İDAME           Üremik komplikasyonların
+                ortaya çıkması
+                1-2 hafta (nadiren 4-6 hafta)
+
+İYİLEŞME        Rejenerasyon ve renal
+                fonksiyonların normale
+                dönmesi
+=== Sayfa 25 ===
+               Postrenal azotemi sebepleri
+
+• Mesane boynu
+      Prostatik hastalık (hipertrofi, neoplazi, infeksiyon)
+      Nörojenik mesane, Antikolinerjikler
+• Üretral (valv, striktür)
+• Üreteral
+      İntra      (Taş, pıhtı, spazmlı üretrit)
+      Ekstra     (Malignite, retroperitoneal fibrozis)
+=== Sayfa 26 ===
+• Erkek hastada      en   sık   nedeni   prostat
+  hastalıkları,
+
+• Kadın      hastada      ürogenital      sistem
+  malignansileri mutlaka ekarte edilmelidir !
+=== Sayfa 27 ===
+              Belirti ve Bulgular
+
+Halsizlik
+Bulantı ve kusma
+İdrar çıkışında azalma
+Bilinç durumunda değişim/ nöbet
+Hipervolemi/ hipovolemi
+Hipertansiyon/ Hipotansiyon
+Aritmi (Hiperkalemiye ikincil)
+Nonspesifik karın ağrısı
+Kanama
+=== Sayfa 28 ===
+                 Laboratuvar Bulguları
+
+BUN ve Kreatinin 
+
+Hiperkalemi (özellikle oligo-anurik hastada)
+
+EKG’de hiperkalemi bulguları
+
+Metabolik asidozis
+
+Hiperfosfatemi
+=== Sayfa 29 ===
+        Böbrek yetersizliği indeksleri
+                   Prerenal          ATN
+
+BUN/Kreatinin      >20               <15
+
+İdrar Na           <10               >20
+
+İdrar dansite      >1020             <1010
+
+İdrar osmolalite   >500              <300
+
+FENa               <%1               >%2
+
+FEüre              <%35              >%50
+
+İdrar sedimenti    Hyalen silendir   Kirli kahve gr.
+=== Sayfa 30 ===
+   İdrar sedimentinin değerlendirilmesi
+
+• Eritrositler (özeliklede dismorfik olanlar), eritrosit
+  silendirleri glomerülonefrit ya da vaskülit için
+
+• Lökosit ve lökosit silendirleri akut intertisyel nefriti
+
+• Çamur görünümündeki kahverengi silendirler, epitel
+  hücreleri ve epitel silendirleri ATN
+
+• Normal bir idrar tahlili ise prerenal ABY düşündürebilir.
+=== Sayfa 31 ===
+    İdrar Na Miktarının Değerlendirilmesi
+•   İdrar sodyum miktarı idrar atılım hızından etkilenir. Bu nedenle
+    böbrek yetersizliğinin etyolojisini değerlendirmede güvenilirliği
+    sınırlıdır.
+
+•   Örn: Günde 60 mmol sodyum atılımı olan hastanın idrar miktarı 1
+    Litre olsun bu hastanın idrar Na düzeyi 60 mmol/L’dir.
+
+•   Aynı hastanın idrar sodyum atılımı değişmesin ancak sıvı alımı
+    artırılarak idrar hacmi 2 litreye çıkartılsın. Bu durumda hastanın
+    idrar Na atılımı 30 mmol/L’ye inecektir.
+=== Sayfa 32 ===
+Fraksiyone Sodyum Atılımın Kullanımı
+
+• Filtre edilen sodyum yükünün ne kadarının
+  atıldığını gösterir.
+
+• ABH’nın etyolojisini belirlemekte kullanılan en
+  güvenilir laboratuvar ölçüsüdür.
+=== Sayfa 33 ===
+Fraksiyone Na   İdrar Na.Pcr
+atılımı (%)                     100
+                Plazma Na.Ucr
+=== Sayfa 34 ===
+      AKI Bio-belirteçleri var mı?
+Düşük molekül ağırlıklı proteinler    Sitokinler
+    B2-mikroglobulin                      Platelet aktive edici faktör
+                                          IL-18
+    A1-mikroglobulin
+    Adenozin deaminaz bağlayıcı       Diğerleri
+      protein                             Kidney injury molekül-1
+    Sistatin-C                            Na/H exchanger isoform-3
+
+    Renal tubuler epitelyal antijen       Nötrofil gelatinaz associated lipocalin
+                                             (NGAL)
+Enzimler
+    N-asetil-b-glukosaminidaz
+    Alanine aminopeptidaz
+    Alkalen fosfataz
+    Laktat dehidrogenaz
+    g/n glutatyon –S-transferaz
+    G-glutamil transpeptidaz
+=== Sayfa 35 ===
+         AMI versus AKI
+
+Period        Acute Myocardial   Acute Kidney
+                 Infarction         Injury
+
+1960s                LDH
+1970s         CPK, myoglobin
+1980s            CK-MB
+1990s             Troponin T
+2000s             Troponin I
+
+    Multiple Therapies
+     50% ↓ Mortality
+=== Sayfa 36 ===
+     AMI versus AKI
+Period      Acute Myocardial    Acute Kidney
+               Infarction          Injury
+
+1960s              LDH         Serum creatinine
+1970s        CPK, myoglobin    Serum creatinine
+1980s           CK-MB          Serum creatinine
+1990s          Troponin T      Serum creatinine
+2000s          Troponin I      Serum creatinine
+
+    Multiple Therapies          Supportive Care
+     50% ↓ Mortality            High Mortality
+=== Sayfa 37 ===
+           ABH’nin komplikasyonları
+
+• Metabolik (Hiperkalemi, Asidoz, Hiponatremi,
+  Hipokalsemi, Hipermagnezemi, Hiperfosfatemi,
+  hiperürisemi)
+• Kardiyovasküler (HT, Pulmoner ödem, Aritmi, Mİ,
+  Perikardit, Pulmoner emboli, Pnömonitis
+=== Sayfa 38 ===
+• GIS (Bulantı, kusma, malnütrisyon, Gastrit, Ülser,
+  Kanama, Stomatit, Gingivit, Pankreatit)
+
+• Nörolojik (İrritabilite, Asteriksis, Konvülsiyon, Mental
+  değişiklikler, Somnolans, Koma)
+
+• Hematolojik (Anemi, Kanama)
+
+• İnfeksiyöz (Pnömoni, Yara, IV giriş, Üriner trakt,
+  Sepsis)
+
+• Diğer (Hıçkırık, İnsülin direnci, PTH artışı, Dvit
+  azalması)
+=== Sayfa 39 ===
+          ABH’de anüri sebepleri
+
+• Üriner traktın tam obstrüksiyonu
+• Renal arterlerin oklüzyonu
+• Ağır proliferatif glomerülonefrit
+• Vaskülit
+• Bilateral kortikal nekroz
+=== Sayfa 40 ===
+              ABH-tanısal yaklaşım
+
+• Klinik değerlendirme (Öykü ve fizik muayene)
+• İdrar tetkiki
+• Biyokimyasal ve hematolojik incelemeler
+• Özel incelemeler
+   İdrar kimyası, immünelektroforez
+   Serolojik testler (anti-GBM Ab, ANCA, ANA, C3-4)
+   Radyolojik (DÜSG, US, Anjiyografi)
+   Renal biyopsi
+=== Sayfa 41 ===
+                Tedavi
+• ABH’nın en iyi tedavisi ABH gelişimini
+  önlemektir !!!!!!!!
+=== Sayfa 42 ===
+            ABH'nın Önlenmesi-I
+
+1) Sıvı dengesinin sağlanması
+  Böbrek kan akımı yetersiz hasta gruplarında
+önemli!!!
+  KY
+ Kronik karaciğer hastalığı
+ İleri yaş
+ DM
+ Renal arter stenozu olan
+ Bilinen kronik böbrek hastalığı olan
+  Bu hastalarda NSAİD, ACE inh, ARB çok dikkatli
+kullanılmalıdır.
+=== Sayfa 43 ===
+               ABH'nın Önlenmesi-II
+2) Nefrotoksik ajanlardan sakınılması
+   Aminoglikozid ve siklosporin ilaç dozu çalışılması
+
+    AG’ler katyonik proteinler olup özellikle proksimal tübül
+membranındaki fosfolipidlere bağlanır ve hücre içi
+lizozomlarda birikir.Lizozomal fonksiyonların inhibisyonu
+hücresel hasardan sorumlu tutulmuştur.
+
+ AG toksitesi 7-10. günlerde ortaya çıkar. Sepsis,
+hipotansiyon, ECF’de azalma yapan durumlarda bu
+süre kısalabilir.
+
+ Günde bir kez verilmesi bölünmüş dozlara göre
+daha az nefrotoksiktir.
+=== Sayfa 44 ===
+             ABH'nın Önlenmesi-III
+
+3)Ürik asit nefropatisinin önlenmesi
+  Lösemi, lenfoma hastalarında allopürinol kullanımı
+
+4) Alkali diürez
+  Myoglobinüri, metotreksat kullanımı sırasında
+=== Sayfa 45 ===
+                  Kontrast Nefropatisi
+•   Önlenebilir ABH nedenleri arasında olması açısından önemlidir.
+
+•   Altta yatan böbrek fonksiyon bozukluğu, ilerlemiş kalp yetmezliği,
+    hastada mevcut hipotansiyon, kullanıan kontrast maddenin toplam
+    dozunun yüksek olması, yüksek ozmolariteli kontrast madde
+    kullanımı ile risk artar.
+
+•   İşlem öncesi başlanan İ.V. Hidrasyon, N-asetilsistein, bikarbonat
+    tedavisi ve gereksiz uygulamaların azaltılması ile kontrast
+    nefropati gelişimi azaltılabilir.
+=== Sayfa 46 ===
+ ABH gelişimini önleyici diğer tedaviler
+
+• Renal kan akımının arttırılması (Dopamin, ANP, loop diüretikler)
+• Tübüler obstrüksiyonun çözülmesi (mannitol, loop diüretikler)
+• Epitelyal hücre şişmesinin azaltılması (mannitol)
+• ATP ve oksijen gereksiniminin azaltılması (loop diüretikler)
+• ATP düzeylerinin arttırılması (MgATP)
+• Reaktif oksijen türevlerinin temizlenmesi (Katalaz, mannitol)
+• İntrasellüler kalsiyum birikiminin önlenmesi (kalsiyum kanal
+  blokerleri)
+• Lökosit-endotel adezyonunun baskılanması (anti-CD18, anti-
+  ICAM-1 antikorları)
+• Sellüler rejenerasyonun uyarılması (aminoasit infüzyonu)
+=== Sayfa 47 ===
+                Diüretikler?
+
+• İdrar volümünü arttırıyor
+• Sağkalım ve renal iyileşmeye etkisiz
+• HD seans sayısı ve süresine etkisiz
+• Oliürik ABY'de idrar volümünü artırmak için
+  verilebilir
+
+                  Yararsız
+=== Sayfa 48 ===
+                Renal doz dopamin?
+
+•   0.5-2 mikrog/kg/dk
+•   Sağkalıma etkisiz (septik şokta mortalite daha fazla)
+•   Renal fonksiyona etkisiz
+•   Aritmi, immün baskılanma, barsak iskemisi riski var
+
+                   Kullanılmamalı!
+=== Sayfa 49 ===
+  ABH olan hastalarda destek tedavi
+• Prerenal ve postrenal etkenlerin düzeltilmesi
+• İlaçların gözden geçirilmesi ve nefrotoksik ajanların kesilmesi
+• Yeterli sıvı alımını sağlanması
+• Sıvı alımı ve çıkışının, vücut ağırlığının takibi
+• Akut komplikasyonların araştırılması ve uygun şekilde tedavi
+  edilmesi (Hiperkalemi, hiperfosfatemi, asidoz, hiponatremi,
+  pulmoner ödem)
+• Erken beslenme desteğinin sağlanması
+• Enfeksiyonların araştırılıp tedavi edilmesi
+• Üremik komplikasyonları olan hastalarda renal replasman
+  tedavisinin başlatılması
+=== Sayfa 50 ===
+           ABH’de RRT endikasyonları
+
+• Kontrolsüz hipervolemi (diüretiğe yanıt vermeyen)
+• Hiperkalemi (serum K>6.5 mEq/L) ve medikal tedaviye
+  yanıt alınamıyorsa
+• Şiddetli metabolik asidozis (pH<7.1)
+• İntoksikasyonlar
+• Üremik belirti ve bulgular
+      Ensefalopati
+      Perikardit
+      Kanama diyatezi
+• Medikal tedaviye yanıt alınmayan hiponatremi…
+=== Sayfa 51 ===
+=== Sayfa 52 ===
+=== Sayfa 53 ===
+                        RRT şekli
+
+Aralıklı hemodiyaliz (IHD)
+
+Uzun süreli günlük
+  hemodiyaliz
+
+Sürekli hemofiltrasyon
+  (CVVH) yada
+  HDF(hemodiafiltrasyon)
+=== Sayfa 54 ===
+                   ABH’de prognoz
+
+• RRT gerektiren, oligürik intrinsik renal ABH’nin mortalitesi
+  yaklaşık %50’dir!
+
+• Tanı sırasında oligüri ve serum Kre>3 mg/dl kötü
+  prognozu gösterir.
+
+• Hastaların %5-16'sında (%13.8’inde) SDBY gelişir.
+=== Sayfa 55 ===
+                      Sonuç
+ABH, hastanede yatan hastalarda sık karşılaşılan,
+özellikle diğer organ sistemlerinde de yetersizlik
+olduğunda mortalitesi yüksek olan bir sendromdur.
+
+Son zamanlarda geliştirilen tanımlamalar ile uygun
+tedavi yaklaşımları, gelecekte bu hastaların sağ
+kalımını iyileştirebilecektir.

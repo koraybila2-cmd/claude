@@ -1,0 +1,278 @@
+=== Sayfa 1 ===
+Çölyak Hastalığı
+
+       Dr. Erdem Çomut
+ Pamukkale Üniversitesi Tıp Fakültesi
+    Tıbbi Patoloji Anabilim Dalı
+               2025
+=== Sayfa 2 ===
+Sunum Planı
+1. Genel bilgiler
+2. Klinik özellikler
+3. Histopatoloji ve sınıflandırma
+4. Ayırıcı tanı
+5. Eve götürülecek mesajlar
+=== Sayfa 3 ===
+Genel Bilgiler
+• Belirli genetik arkaplanı olan hastalarda,
+• Gluten alımı sonrası malabsorpsiyon ile karakterize,
+• İnce bağırsakta görülen
+• Kronik inflamatuar hastalık.
+
+• Sinonimleri: Gluten duyarlı enteropati, non-tropikal sprue, çölyak
+  sprue
+=== Sayfa 4 ===
+Genel Bilgiler
+Gluten ilişkili hastalıklar:
+
+➢Çölyak hastalığı (ÇH)
+➢Dermatitis Herpetiformis
+➢Gluten ataksisi
+➢Non-çölyak gluten sensitivitesi (NÇGS)
+   ✓Gluten ilişkili semptomlar (+)
+   ✓Otoantikorlar (-), normal ya da normale yakın histoloji
+=== Sayfa 5 ===
+Çölyak Hastalığı
+
+• T-hücre ilişkili immün yanıt
+• Gliadin, endomysium ya da doku transgluatminaza karşı otoantikorlar
+  üreten otoreaktif B lenfositler
+• HLA – DQ2 ve HLA –DQ8 ile ilişkili genetik yatkınlık gösteren
+  bireylerde
+=== Sayfa 6 ===
+Patogenez
+                                                                                                Stres molekülleri
+                          Transglutaminaz
+
+ Escudero-Hernández, C., Peña, A. S., & Bernardo, D. (2016). Immunogenetic Pathogenesis of Celiac Disease and Non-celiac
+ Gluten Sensitivity. Current gastroenterology reports, 18(7), 36. https://doi.org/10.1007/s11894-016-0512-2
+=== Sayfa 7 ===
+Klinik Özellikler
+• İnsidans:                         • Cinsiyet:
+➢%0.5-1 Batı Avrupa ve Kuzey        ➢F:M = 3.2:1
+  Amerika’da                        • Yerleşim:
+➢Doğuda da yükseliyor (batı tarzı   ➢Duodenum ve üst jejunum.
+  beslenme)
+                                    ➢Özellikle pediatrik popülasyonda
+• Yaş:                                yamalı dağılım
+➢Çocuklar ve 3-4. dekat
+  erişkinlerde
+=== Sayfa 8 ===
+              Çölyak hastalığını düşündüren belirti ve bulgular
+
+     Gastrointestinal         Ekstraintestinal semptomlar         Spesifik durumlar
+
+                             ➢ Kilo kaybı, gelişememe, boy
+                               kısalığı
+                             ➢ Ergenlikte gecikme, amenore
+                             ➢ İrritabilite, kronik yorgunluk   ➢ CD'li birinci derece
+                             ➢ Nöropati                           akrabalar
+➢ Kronik veya aralıklı diare
+                             ➢ Artrit/artralji                  ➢ Otoimmün durumlar:
+➢ Tedaviye yanıt vermeyen
+                             ➢ Kronik demir eksikliği anemisi     T1DM, tiroid hastalığı,
+  kronik kabızlık
+                             ➢ Osteopeni/osteoporoz,              karaciğer hastalığı
+➢ Kronik karın ağrısı
+                               tekrarlayan kırıklar             ➢ Down sendromu,
+➢ Karın şişliği
+                             ➢ Rekürren aftöz stomatit            Turner sendromu
+➢ Rekürren bulantı ve kusma
+                             ➢ Dermatitis herpetiformis tipi    ➢ William's-Beuren
+                               döküntü                            sendromu
+                             ➢ Diş minesi kusurları             ➢ IgA eksikliği
+                             ➢ Anormal karaciğer biyokimyası
+=== Sayfa 9 ===
+Çölyak hastalığını düşündüren belirti ve bulgular
+➢ Çocuklarda ekstraintestinal bulgular ön plana
+  çıkmaktadır.
+➢ 2011 yılında Türkiye’de yapılan bir çalışmada* 6-17
+  yaş grubu ÇH olan çocuklar;
+➢ Daha çok ekstraintestinal semptomlar ile prezente
+➢ İştahsızlık, pika öyküsü ve boy kısalığı çölyak
+  grubunda kontrol grubuna göre anlamlı oranda
+  yüksek
+
+*Dalgic B, The evaluation of factors and symptoms related to celiac disease in Turkish children. Turk Arch Ped 2011; 46:323-30
+=== Sayfa 10 ===
+Klinik Özellikler
+➢Tanı:                                              H&E veya CD3
+
+Seroloji + Duodenal biyopsi konfirmasyonu (İntraepitelyal lenfositozis,
+villöz kısalma/ düzleşme ve kript hiperplazisi)
+
+• Serolojik testler:
+✓tTGA: Anti doku transglutaminaz IgA (sensitivite ve spesifite      )
+✓EMA: Anti endomisyal antikorlar
+✓AGA: Anti gliadin antikor
+
+• HLA-DQ2 ve/veya -DQ8 için negatif bir test: ÇH riski
+=== Sayfa 11 ===
+Makroskopi (Endoskopi)
+                            Normal duodenal mukoza                           Çölyak hastalığı Marsh 3
+Pililer           Düzenli                                                  • Pililerin kaybı
+                                                                           • Görülebilir fissürler
+                                                                           • Noduler görünüm
+                                                                             (Pililerde taraklanma)
+Villuslar         • Düzenli düzleştirilmiş kuru                            Yok
+                  • Parmak şeklinde
+                  • Suya daldırma tekniği ile endoskopik
+                    büyütmede yükseltilmiş
+Tablo: Normal mukoza ile karşılaştırıldığında çölyak hastalığının endoskopik olarak görülebilen
+ayırt edici özellikleri
+https://www.endoscopy-campus.com/en/bildergalerie/endoskopische-befunde-bei-zoeliakie-einheimischer-sprue/
+=== Sayfa 12 ===
+                                                  N
+
+                                                ÇH
+https://www.endoscopy-campus.com/en/bildergalerie/endoskopische-befunde-bei-zoeliakie-einheimischer-sprue/
+=== Sayfa 13 ===
+Histopatoloji
+                       Normal nedir?
+Normal arşitektür               İntraepitelyal lenfosit (IEL) için
+➢ Distal duodenumda             normal üst limit
+ villüs/kript = 3/1 – 5/1       ➢5 enterosite 1 IEL
+➢ Bulbusta villüs/kript = 2/1   (20 IEL/100 enterosit) H&E
+                                ➢4 enterosite 1 IEL
+                                (25 IEL/100 enterosit) CD3 - IHK
+=== Sayfa 14 ===
+V
+
+    K
+=== Sayfa 15 ===
+Histopatoloji
+                         ÇH’de ne olur?
+Arşitektür                          İntraepitelyal lenfosit (IEL)
+➢ Kısalıp, genişleyen ve hatta      ➢Normal üst limiti aşan oranda
+ kaybolan villuslar                   artış
+➢ Hiperplastik kriptler (Villus /
+ kript oranı )
+
+             Lamina propriada heterojen bir popülasyon
+  Plazma hücreleri (AGA ve EMA otoantikorları), T-helper (dominant),
+       sitotoksik T (az sayıda), nötrofil, eozinofil ve mast h.leri
+=== Sayfa 16 ===
+Çölyak Hastalığının Klasifikasyonu
+=== Sayfa 17 ===
+Marsh klasifikasyonu (1992)
+
+Marsh MN: Gluten, major histocompatabilitiy complex and the small intestine: a molecular and immunobiologic approach to
+the spectrum of glutensensitivity. Gastroenterology1992; 102: 330-354.
+=== Sayfa 18 ===
+Ensari klasifikasyonu (2010)
+=== Sayfa 19 ===
+Ensari klasifikasyonu (2010)
+
+                                          IEL dağılım paterni:
+                                          Normal dekreşendo
+                                             paternin kaybı
+
+                      CD3           CD3
+             N                 ÇH
+=== Sayfa 20 ===
+Marsh 0 – Normal Mukoza
+
+                          CD3
+=== Sayfa 21 ===
+Marsh 1 - İntraepitelyal lenfositozis
+
+                                        CD3
+=== Sayfa 22 ===
+Marsh 1 - İntraepitelyal lenfositozis
+
+                                        CD3
+=== Sayfa 23 ===
+Marsh 2 – Kript hiperplazisi + İELozis
+
+                                         CD3
+=== Sayfa 24 ===
+Marsh 2 – Kript hiperplazisi + İELozis
+
+                                         CD3
+=== Sayfa 25 ===
+Marsh 3 – Düzleşmiş mukoza + intraepitelyal lenfositozis
+
+                                                           CD3
+=== Sayfa 26 ===
+Marsh 3 – Düzleşmiş mukoza + intraepitelyal lenfositozis
+
+                                                           CD3
+=== Sayfa 27 ===
+Ayırıcı Tanı
+Tropikal Sprue                                   Klinikopatolojik tanı
+• Tropikal bölgelerde, kronik ishal
+• Glutensiz diyete yanıt          ; oral folat ve antibiyotiğe hızlı yanıt
+• Negatif Çölyak serolojisi
+• Belirgin IEL ve kısmen korunmuş villuslar,
+• L.P.’da belirgin eozinofiller (ÇH’ye kıyasla)
+=== Sayfa 28 ===
+=== Sayfa 29 ===
+Ayırıcı Tanı
+CVID
+• Plazma hücrelerinin azlığı/yokluğu
+• Lenfoid agregatlar
+• Artmış kript apoptozisi
+• Artmış intraepitelyal nötrofiller
+• Küçük mukozal granülomlar
+• Giardiazis ve CMV enfeksiyonları
+
+Not: CVID, GVHD ve Crohn hastalıklarını da taklit edebilir
+=== Sayfa 30 ===
+=== Sayfa 31 ===
+Ayırıcı Tanı
+Otoimmun Enteropati
+• İnfantlarda inatçı diarenin sık sebebi
+• Sistemik otoimmün hastalık ile ilişkili (IPEX ve APECED sendromları)
+• Erkek predominansı ve aile öyküsü
+
+• Villöz kısalma/düzleşme (+); Her zaman IEL artışı yok
+• Kript epitelinde nötrofiller
+• Artmış apoptosis, goblet ve Paneth hücreleri yokluğu
+• Anti-enterosit antikor olguların %80-90’ında
+=== Sayfa 32 ===
+=== Sayfa 33 ===
+Ayırıcı Tanı
+Medikasyon hasarı
+• NSAID’ler: Villöz kısalma/düzleşme (–), IELozis (+), foveolar metaplazi,
+  ülser, erozyon
+• Anjiotensin II res. Inh.leri : Villöz kısalma/düzleşme (+), IELozis (-)
+• Mikofenolat mofetil: Villöz kısalma
+• İmmün checkpoint inh.             Artan literatür
+=== Sayfa 34 ===
+=== Sayfa 35 ===
+Ayırıcı Tanı
+İnflamatuar Bağırsak Hastalığı
+• Crohn, ÜK
+• Duodenit, arşitektürel distorsiyon
+• Kriptit ve kript apsesi
+• Kript distorsiyonu
+• Mukozal ve submukozal granülomlar
+=== Sayfa 36 ===
+=== Sayfa 37 ===
+EVE GÖTÜRÜLECEK MESAJLAR
+
+ ✓Duodenal bx değerlendirmede mukozal hasarın
+  ortaya koyulması açısından Marsh klasifikasyonu
+  önemlidir
+
+ ✓İEL artışları ve/veya villöz düzleşme her zaman ÇH
+  demek değildir!
+=== Sayfa 38 ===
+ÖZEL TEŞEKKÜR!
+=== Sayfa 39 ===
+  KAYNAKLAR
+❑Pathology of the Gastrointestinal tract, 2017, Carneiro, Chaves, Ensari
+❑Escudero-Hernández, C., Peña, A. S., & Bernardo, D. (2016). Immunogenetic Pathogenesis of
+ Celiac Disease and Non-celiac Gluten Sensitivity. Current gastroenterology reports, 18(7),
+ 36. https://doi.org/10.1007/s11894-016-0512-2
+❑Ensari, A., & Marsh, M. N. (2019). Diagnosing celiac disease: A critical overview. The Turkish
+ journal of gastroenterology : the official journal of Turkish Society of
+ Gastroenterology, 30(5), 389–397. https://doi.org/10.5152/tjg.2018.18635
+❑Smyrk TC. Practical Approach to the Flattened Duodenal Biopsy. Surg Pathol Clin.
+ 2017;10(4):823-839. doi:10.1016/j.path.2017.07.004
+❑Wessels M, Auricchio R, Dolinsek J, et al. Review on pediatric coeliac disease from a clinical
+ perspective. Eur J Pediatr. 2022;181(5):1785-1795. doi:10.1007/s00431-022-04379-x
+❑https://espghan.info/files/New%20Guidelines%20for%20the%20Diagnosis%20of%20Paedia
+ tric%20Coeliac%20Disease.pdf
+❑Losowsky MS. A history of coeliac disease. Dig Dis. 2008;26(2):112-120.
+ doi:10.1159/000116768

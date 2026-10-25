@@ -1,0 +1,51 @@
+<svg viewBox="0 0 640 342" width="100%" style="display:block" role="img" aria-label="İnce bağırsağın sinirleri: sempatik T9-T10 ve nn. splanchnici, parasempatik n. vagus; pleksusların sırası subserosus, myentericus, submucosus; visseral afferent yollar">
+  <defs><marker id="k5f" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k5fc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k5fm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="10" y="12" width="165" height="48" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="92.5" y="32.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Medulla spinalis T9-T10</text>
+  <text x="92.5" y="47.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">lateral boynuz (sempatik)</text>
+  <rect x="10" y="84" width="165" height="48" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="92.5" y="104.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">N. splanchnicus</text>
+  <text x="92.5" y="119.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">major ve minor</text>
+  <rect x="10" y="156" width="165" height="52" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="92.5" y="171.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Ganglion coeliacum ve</text>
+  <text x="92.5" y="185.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">mesentericum superius</text>
+  <text x="92.5" y="199.4" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sinaps</text>
+  <line x1="92" y1="60" x2="92" y2="82" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5f)"/>
+  <line x1="92" y1="132" x2="92" y2="154" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5f)"/>
+  <rect x="290" y="12" width="160" height="48" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="370.0" y="32.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">N. vagus</text>
+  <text x="370.0" y="47.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">parasempatik, beyin sapı</text>
+  <rect x="195" y="156" width="255" height="52" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="322.5" y="171.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Plexus coeliacus →</text>
+  <text x="322.5" y="185.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">plexus mesentericus superior</text>
+  <text x="322.5" y="199.4" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">SMA'yı saran pleksus</text>
+  <line x1="175" y1="182" x2="193" y2="182" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5f)"/>
+  <line x1="370" y1="60" x2="370" y2="154" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5f)"/>
+  <text x="378.0" y="102.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sinaps yapmadan</text>
+  <text x="378.0" y="114.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">geçer</text>
+  <rect x="195" y="226" width="255" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="322.5" y="239.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">1. Plexus subserosus</text>
+  <text x="322.5" y="252.8" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">seroza altında</text>
+  <rect x="195" y="264" width="255" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="322.5" y="277.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">2. Plexus myentericus (Auerbach)</text>
+  <text x="322.5" y="290.8" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">iki kas tabakası arası · peristaltizm</text>
+  <rect x="195" y="302" width="255" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="322.5" y="315.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">3. Plexus submucosus (Meissner)</text>
+  <text x="322.5" y="328.8" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">submukoza · salgı ve kan akımı</text>
+  <line x1="322" y1="208" x2="322" y2="224" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5f)"/>
+  <text x="188.0" y="280.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">duvar, dıştan içe</text>
+  <rect x="468" y="150" width="168" height="70" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="552.0" y="168.9" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Fizyolojik duyular</text>
+  <text x="552.0" y="181.9" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">dolgunluk, gerilme, irritasyon</text>
+  <text x="552.0" y="194.9" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">n. vagus → nucleus tractus</text>
+  <text x="552.0" y="207.9" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">solitarii (beyin sapı)</text>
+  <rect x="468" y="248" width="168" height="70" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="552.0" y="266.9" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Ağrı</text>
+  <text x="552.0" y="279.9" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">nn. splanchnici → arka kök →</text>
+  <text x="552.0" y="292.9" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T9-T10 segmentleri: göbek</text>
+  <text x="552.0" y="305.9" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">çevresine yansır (T10)</text>
+  <path d="M450,240 L459,240 L459,185 L466,185" fill="none" stroke="var(--color-accent-700)" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#k5fc)"/>
+  <path d="M450,283 L466,283" fill="none" stroke="var(--color-accent-700)" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#k5fc)"/>
+  <text x="475.0" y="30.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">— düz ok: efferent lif</text>
+  <text x="475.0" y="46.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">- - kesikli ok: afferent lif</text>
+</svg>

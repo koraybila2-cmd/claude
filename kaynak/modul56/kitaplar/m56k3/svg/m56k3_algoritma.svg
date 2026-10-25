@@ -1,0 +1,44 @@
+<svg viewBox="0 0 640 392" width="100%" style="display:block" role="img" aria-label="Hipertansiyonda ilaç tedavisi algoritması, Türk Hipertansiyon Uzlaşı Raporu 2019">
+  <defs><marker id="k3c" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k3cc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k3cm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="220" y="8" width="200" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="320.0" y="26.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Antihipertansif tedavi</text>
+  <rect x="40" y="60" width="260" height="32" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="170.0" y="79.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Evre 1 hipertansiyon</text>
+  <rect x="370" y="60" width="230" height="32" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="485.0" y="79.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Evre 2 hipertansiyon</text>
+  <path d="M290,38 L290,48 L170,48 L170,56" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3c)"/>
+  <path d="M350,38 L350,48 L485,48 L485,56" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3c)"/>
+  <rect x="20" y="116" width="190" height="62" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="115.0" y="136.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">KB &lt;150/90 mmHg</text>
+  <text x="115.0" y="150.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">tek ilaç: ACEİ ya da ARB,</text>
+  <text x="115.0" y="164.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">KKB ya da diüretik</text>
+  <rect x="230" y="116" width="110" height="40" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="285.0" y="132.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">KB ≥150/90</text>
+  <text x="285.0" y="146.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">mmHg</text>
+  <path d="M120,92 L120,112" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3c)"/>
+  <path d="M220,92 L220,104 L285,104 L285,112" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3c)"/>
+  <rect x="230" y="196" width="390" height="48" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="425.0" y="216.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">İkili kombinasyon</text>
+  <text x="425.0" y="231.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ACEİ ya da ARB + KKB   veya   ACEİ ya da ARB + diüretik</text>
+  <line x1="285" y1="156" x2="285" y2="192" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3c)"/>
+  <line x1="485" y1="92" x2="485" y2="192" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3c)"/>
+  <path d="M115,178 L115,220 L226,220" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3c)"/>
+  <text x="122.0" y="210.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hedefte değil</text>
+  <rect x="230" y="268" width="390" height="40" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="425.0" y="284.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Üçlü kombinasyon</text>
+  <text x="425.0" y="299.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ACEİ ya da ARB + KKB + diüretik</text>
+  <line x1="425" y1="244" x2="425" y2="264" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3c)"/>
+  <text x="433.0" y="258.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hedefte değil</text>
+  <rect x="230" y="332" width="390" height="48" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="425.0" y="352.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Dörtlü: + spironolakton</text>
+  <text x="425.0" y="367.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">dirençli hipertansiyon (önce uyum ve sekonder neden araştırılır)</text>
+  <line x1="425" y1="308" x2="425" y2="328" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k3c)"/>
+  <text x="433.0" y="322.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hedefte değil</text>
+  <text x="20.0" y="252.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">Hedef ≤130 mmHg ise doğrudan</text>
+  <text x="20.0" y="266.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kombinasyonla başlanabilir.</text>
+  <text x="20.0" y="294.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">β bloker yalnızca özel nedenle:</text>
+  <text x="20.0" y="308.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kalp yetmezliği, KAH, anjina,</text>
+  <text x="20.0" y="322.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">atriyal fibrilasyon, gebelik planı.</text>
+  <text x="20.0" y="350.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">3-4 ilaçta en az biri ayrı</text>
+  <text x="20.0" y="364.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">saatte verilir (sabah-akşam).</text>
+</svg>

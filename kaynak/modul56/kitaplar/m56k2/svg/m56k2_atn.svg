@@ -1,0 +1,41 @@
+<svg viewBox="0 0 640 414" width="100%" style="display:block" role="img" aria-label="ATN'de GFR'yi düşüren dört mekanizma: tübül tıkanması, geri sızma, tübüloglomerüler geri bildirim ve damar daralması">
+  <defs><marker id="k2c" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k2cc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k2cm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="170" y="10" width="300" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="320.0" y="29.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Tübül hücresinde ATP tükenir</text>
+  <text x="320.0" y="44.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">iskemi (S3, kalın çıkan kol) ya da toksin (proksimal)</text>
+  <line x1="320" y1="56" x2="320" y2="76" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k2c)"/>
+  <rect x="170" y="80" width="300" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="320.0" y="99.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Na⁺/K⁺-ATPaz durur, polarite kaybolur</text>
+  <text x="320.0" y="114.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">hücre şişer, bazal membrandan kopar</text>
+  <path d="M320,126 L320,138 L165,138 L165,156" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k2c)"/>
+  <path d="M320,126 L320,138 L475,138 L475,156" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k2c)"/>
+  <text x="20.0" y="150.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">TÜBÜL İÇİNDE</text>
+  <text x="620.0" y="150.0" text-anchor="end" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">DAMARDA</text>
+  <rect x="20" y="160" width="290" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="165.0" y="179.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Dökülen hücreler silendir yapar</text>
+  <text x="165.0" y="194.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">lümen tıkanır, tübül basıncı ↑</text>
+  <rect x="330" y="160" width="290" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="475.0" y="179.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Endotel hasarı</text>
+  <text x="475.0" y="194.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">endotelin ↑, nitrik oksit ↓</text>
+  <line x1="165" y1="206" x2="165" y2="216" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k2c)"/>
+  <line x1="475" y1="206" x2="475" y2="216" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k2c)"/>
+  <rect x="20" y="220" width="290" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="165.0" y="239.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Epitel örtüsü kalkar</text>
+  <text x="165.0" y="254.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">süzüntü kana geri sızar</text>
+  <rect x="330" y="220" width="290" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="475.0" y="239.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Damar daralması, lökosit yapışması</text>
+  <text x="475.0" y="254.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">dış medullada akım durgunlaşır</text>
+  <line x1="165" y1="266" x2="165" y2="276" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k2c)"/>
+  <line x1="475" y1="266" x2="475" y2="276" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k2c)"/>
+  <rect x="20" y="280" width="290" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="165.0" y="299.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Proksimalde NaCl emilmez</text>
+  <text x="165.0" y="314.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">makula densaya NaCl ↑ → afferent daralır</text>
+  <rect x="330" y="280" width="290" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="475.0" y="299.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">İskemi kendini sürdürür</text>
+  <text x="475.0" y="314.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">yeni tübül hücreleri ölür</text>
+  <path d="M165,326 L165,338 L300,338 L300,348" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k2c)"/>
+  <path d="M475,326 L475,338 L340,338 L340,348" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k2c)"/>
+  <rect x="120" y="352" width="400" height="52" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="320.0" y="374.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">GFR düşer, glomerül sağlam olsa da</text>
+  <text x="320.0" y="389.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">idrarda kahverengi granüler silendir, FeNa &gt;%2, izostenüri</text>
+</svg>

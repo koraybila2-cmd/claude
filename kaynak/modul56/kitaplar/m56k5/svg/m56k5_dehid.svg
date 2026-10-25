@@ -1,0 +1,46 @@
+<svg viewBox="0 0 640 392" width="100%" style="display:block" role="img" aria-label="Dehidratasyon bulgularının kaynağı: damar içi hacim azalınca sempatik yanıt, ADH ve renin-anjiyotensin-aldosteron, susuzluk; doku sıvısı azalınca turgor ve göz bulguları; kompansasyon tükenince kan basıncı düşer">
+  <defs><marker id="k5h" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k5hc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k5hm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="210" y="8" width="220" height="36" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="320.0" y="29.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Sıvı kaybı: ishal, kusma</text>
+  <line x1="320" y1="44" x2="320" y2="64" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5h)"/>
+  <rect x="200" y="66" width="240" height="36" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="320.0" y="87.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Hücre dışı sıvı azalır</text>
+  <line x1="262" y1="102" x2="150" y2="132" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5h)"/>
+  <line x1="378" y1="102" x2="490" y2="132" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5h)"/>
+  <rect x="30" y="134" width="230" height="38" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="145.0" y="156.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Damar içi hacim azalır</text>
+  <rect x="380" y="134" width="230" height="38" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="495.0" y="156.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Doku arası sıvı azalır</text>
+  <line x1="120" y1="172" x2="96" y2="194" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5h)"/>
+  <line x1="190" y1="172" x2="276" y2="194" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5h)"/>
+  <line x1="495" y1="172" x2="495" y2="194" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5h)"/>
+  <rect x="10" y="196" width="172" height="54" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="96.0" y="212.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Baroreseptör → sempatik</text>
+  <text x="96.0" y="226.4" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kalp hızlanır, deri ve</text>
+  <text x="96.0" y="240.4" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ekstremite damarları daralır</text>
+  <rect x="192" y="196" width="172" height="54" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="278.0" y="212.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Hipotalamus ve böbrek</text>
+  <text x="278.0" y="226.4" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ADH, renin-anjiyotensin-</text>
+  <text x="278.0" y="240.4" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">aldosteron, susuzluk merkezi</text>
+  <rect x="384" y="196" width="222" height="54" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="495.0" y="212.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Turgor azalır, ağız kurur</text>
+  <text x="495.0" y="226.4" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">göz küreleri çöker,</text>
+  <text x="495.0" y="240.4" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">süt çocuğunda fontanel çöker</text>
+  <line x1="96" y1="250" x2="96" y2="270" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5h)"/>
+  <line x1="278" y1="250" x2="278" y2="270" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5h)"/>
+  <rect x="10" y="272" width="172" height="50" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="96.0" y="286.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Taşikardi</text>
+  <text x="96.0" y="300.4" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">soğuk, alacalı ekstremite,</text>
+  <text x="96.0" y="314.4" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kapiller dolum uzar</text>
+  <rect x="192" y="272" width="172" height="50" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="278.0" y="292.9" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">İdrar &lt; 1 ml/kg/saat</text>
+  <text x="278.0" y="307.9" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">susuzluk artar</text>
+  <text x="495.0" y="282.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Bu yanıtlar kan basıncını korur.</text>
+  <text x="495.0" y="296.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Normal kan basıncı dehidratasyonu</text>
+  <text x="495.0" y="310.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">hafif yapmaz.</text>
+  <line x1="96" y1="322" x2="140" y2="342" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5h)"/>
+  <line x1="278" y1="322" x2="278" y2="342" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k5h)"/>
+  <rect x="110" y="344" width="420" height="44" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="320.0" y="361.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Kompansasyon tükenince (≥%10): kan basıncı düşer</text>
+  <text x="320.0" y="377.6" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">beyin perfüzyonu azalır: letarji, koma</text>
+</svg>

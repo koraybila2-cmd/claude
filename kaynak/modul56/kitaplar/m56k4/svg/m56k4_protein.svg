@@ -1,0 +1,27 @@
+<svg viewBox="0 0 640 214" width="100%" style="display:block" role="img" aria-label="Bazı besinlerin protein oranı: hamsi yüzde 29, nohut-mercimek-fasulye yüzde 21, yumurta yüzde 13, lor peyniri yüzde 11, yoğurt yüzde 10">
+  <defs><marker id="k4b" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k4bc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k4bm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <line x1="220.0" y1="10" x2="220.0" y2="180" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-width="1"/>
+  <text x="220.0" y="196.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">%0</text>
+  <line x1="343.3" y1="10" x2="343.3" y2="180" stroke="var(--color-neutral-700)" stroke-opacity="0.15" stroke-width="1"/>
+  <text x="343.3" y="196.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">%10</text>
+  <line x1="466.7" y1="10" x2="466.7" y2="180" stroke="var(--color-neutral-700)" stroke-opacity="0.15" stroke-width="1"/>
+  <text x="466.7" y="196.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">%20</text>
+  <line x1="590.0" y1="10" x2="590.0" y2="180" stroke="var(--color-neutral-700)" stroke-opacity="0.15" stroke-width="1"/>
+  <text x="590.0" y="196.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">%30</text>
+  <text x="208.0" y="32.0" text-anchor="end" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Hamsi</text>
+  <path d="M220.0,20.0 L573.7,20.0 Q577.7,20.0 577.7,24.0 L577.7,32.0 Q577.7,36.0 573.7,36.0 L220.0,36.0 Z" fill="var(--color-accent)" fill-opacity="1"/>
+  <text x="584.7" y="32.0" text-anchor="start" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">%29</text>
+  <text x="208.0" y="66.0" text-anchor="end" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Nohut, mercimek, fasulye</text>
+  <path d="M220.0,54.0 L475.0,54.0 Q479.0,54.0 479.0,58.0 L479.0,66.0 Q479.0,70.0 475.0,70.0 L220.0,70.0 Z" fill="var(--color-accent)" fill-opacity="0.55"/>
+  <text x="486.0" y="66.0" text-anchor="start" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">%21</text>
+  <text x="208.0" y="100.0" text-anchor="end" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Yumurta</text>
+  <path d="M220.0,88.0 L376.3,88.0 Q380.3,88.0 380.3,92.0 L380.3,100.0 Q380.3,104.0 376.3,104.0 L220.0,104.0 Z" fill="var(--color-accent)" fill-opacity="0.55"/>
+  <text x="387.3" y="100.0" text-anchor="start" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">%13</text>
+  <text x="208.0" y="134.0" text-anchor="end" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Lor peyniri</text>
+  <path d="M220.0,122.0 L351.7,122.0 Q355.7,122.0 355.7,126.0 L355.7,134.0 Q355.7,138.0 351.7,138.0 L220.0,138.0 Z" fill="var(--color-accent)" fill-opacity="0.55"/>
+  <text x="362.7" y="134.0" text-anchor="start" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">%11</text>
+  <text x="208.0" y="168.0" text-anchor="end" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">Yoğurt</text>
+  <path d="M220.0,156.0 L339.3,156.0 Q343.3,156.0 343.3,160.0 L343.3,168.0 Q343.3,172.0 339.3,172.0 L220.0,172.0 Z" fill="var(--color-accent)" fill-opacity="0.55"/>
+  <text x="350.3" y="168.0" text-anchor="start" font-family="var(--font-body)" font-size="11.5" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">%10</text>
+  <text x="220.0" y="210.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">Besinin ağırlıkça protein oranı, sunumdaki yaklaşık değerler.</text>
+</svg>

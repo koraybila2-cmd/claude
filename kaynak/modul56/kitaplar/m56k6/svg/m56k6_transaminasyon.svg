@@ -1,0 +1,38 @@
+<svg viewBox="0 0 640 272" width="100%" style="display:block" role="img" aria-label="Transaminasyon ve oksidatif deaminasyon: amino asit ile alfa-ketoglutarat PLP ile alfa-keto asit ve glutamata dönüşür; glutamat dehidrogenaz NAD+ ile amonyağı serbest bırakır">
+  <defs><marker id="k6g" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k6gc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k6gm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="10" y="30" width="130" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="75.0" y="50.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Amino asit</text>
+  <rect x="10" y="86" width="130" height="34" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="75.0" y="106.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">α-Ketoglutarat</text>
+  <rect x="250" y="30" width="130" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="315.0" y="50.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">α-Keto asit</text>
+  <rect x="250" y="86" width="130" height="34" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="315.0" y="106.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Glutamat</text>
+  <line x1="140" y1="47" x2="248" y2="47" stroke="var(--color-neutral-700)" stroke-width="1.6" marker-end="url(#k6g)"/>
+  <line x1="140" y1="103" x2="248" y2="103" stroke="var(--color-neutral-700)" stroke-width="1.6" marker-end="url(#k6g)"/>
+  <line x1="195" y1="50" x2="195" y2="99" stroke="var(--color-accent-700)" stroke-width="1.6" marker-end="url(#k6gc)"/>
+  <text x="203.0" y="80.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">–NH2</text>
+  <text x="195.0" y="18.0" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">aminotransferaz</text>
+  <text x="195.0" y="140.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">koenzim: PLP (B6)</text>
+  <text x="195.0" y="154.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">NAD ya da NADH yok</text>
+  <rect x="440" y="86" width="190" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="535.0" y="105.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Glutamat dehidrogenaz</text>
+  <text x="535.0" y="120.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">mitokondri · NAD(P)+ → NAD(P)H</text>
+  <line x1="380" y1="103" x2="438" y2="103" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k6g)"/>
+  <rect x="440" y="170" width="90" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="485.0" y="190.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">NH4+</text>
+  <rect x="540" y="170" width="90" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="585.0" y="184.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">α-KG</text>
+  <text x="585.0" y="196.4" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">geri döner</text>
+  <line x1="500" y1="132" x2="485" y2="168" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k6g)"/>
+  <line x1="570" y1="132" x2="585" y2="168" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k6g)"/>
+  <rect x="250" y="190" width="130" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="315.0" y="204.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Aspartat</text>
+  <text x="315.0" y="216.4" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">glutamat + oksaloasetat</text>
+  <line x1="315" y1="120" x2="315" y2="188" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k6g)"/>
+  <text x="322.0" y="160.0" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">AST</text>
+  <rect x="250" y="234" width="380" height="30" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="440.0" y="252.3" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Üre döngüsü: bir azot NH4+'ten, bir azot aspartattan</text>
+  <line x1="485" y1="204" x2="485" y2="232" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k6g)"/>
+  <line x1="315" y1="224" x2="315" y2="232" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k6g)"/>
+</svg>

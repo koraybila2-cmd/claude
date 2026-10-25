@@ -1,0 +1,58 @@
+<svg viewBox="0 0 640 392" width="100%" style="display:block" role="img" aria-label="Keton cisimleri karaciğer mitokondrisinde asetil-CoA'dan HMG-CoA üzerinden yapılır; karaciğer dışı dokularda süksinil-CoA'dan koenzim A alan asetoasetat asetoasetil-CoA'ya ve iki asetil-CoA'ya döner">
+  <defs><marker id="k6e" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k6ec" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k6em" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="10" y="10" width="300" height="372" rx="6" fill="var(--color-accent)" fill-opacity="0.06" stroke="var(--color-neutral-700)" stroke-opacity="0.3"/>
+  <rect x="330" y="10" width="300" height="372" rx="6" fill="var(--color-accent-700)" fill-opacity="0.05" stroke="var(--color-neutral-700)" stroke-opacity="0.3"/>
+  <text x="20.0" y="28.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">KARACİĞER MİTOKONDRİSİ: SENTEZ</text>
+  <text x="340.0" y="28.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">KALP, KAS, BEYİN: KULLANIM</text>
+  <rect x="60" y="40" width="150" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="135.0" y="58.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Yağ asitleri</text>
+  <rect x="60" y="100" width="150" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="135.0" y="118.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Asetil-CoA</text>
+  <rect x="60" y="160" width="150" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="135.0" y="178.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Asetoasetil-CoA</text>
+  <rect x="60" y="220" width="150" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="135.0" y="238.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">HMG-CoA</text>
+  <rect x="60" y="280" width="150" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="135.0" y="298.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Asetoasetat</text>
+  <line x1="135" y1="70" x2="135" y2="98" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k6e)"/>
+  <text x="143.0" y="88.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">β-oksidasyon</text>
+  <line x1="135" y1="130" x2="135" y2="158" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k6e)"/>
+  <text x="143.0" y="148.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">tiyolaz (2 asetil-CoA)</text>
+  <line x1="135" y1="190" x2="135" y2="218" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k6e)"/>
+  <text x="143.0" y="208.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">HMG-CoA sentaz (hız kısıtlayıcı)</text>
+  <line x1="135" y1="250" x2="135" y2="278" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k6e)"/>
+  <text x="143.0" y="268.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">HMG-CoA liyaz</text>
+  <rect x="20" y="338" width="125" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="82.5" y="352.3" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Aseton</text>
+  <text x="82.5" y="364.3" text-anchor="middle" font-family="var(--font-body)" font-size="9.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">nefesle atılır</text>
+  <rect x="170" y="338" width="125" height="34" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="232.5" y="358.3" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">β-Hidroksibütirat</text>
+  <line x1="110" y1="310" x2="85" y2="336" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k6e)"/>
+  <text x="16.0" y="326.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kendiliğinden</text>
+  <line x1="160" y1="310" x2="220" y2="336" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k6e)"/>
+  <text x="205.0" y="322.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">NADH</text>
+  <text x="165.0" y="66.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve"></text>
+  <rect x="380" y="60" width="150" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="455.0" y="78.5" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">β-Hidroksibütirat</text>
+  <rect x="380" y="130" width="150" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="455.0" y="148.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Asetoasetat</text>
+  <rect x="380" y="210" width="150" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="455.0" y="228.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Asetoasetil-CoA</text>
+  <rect x="380" y="290" width="150" height="30" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="455.0" y="308.4" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">2 Asetil-CoA</text>
+  <line x1="455" y1="90" x2="455" y2="128" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k6e)"/>
+  <text x="463.0" y="112.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">NAD+ → NADH</text>
+  <line x1="455" y1="160" x2="455" y2="208" stroke="var(--color-accent-700)" stroke-width="1.8" marker-end="url(#k6ec)"/>
+  <rect x="470" y="168" width="158" height="34" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="549.0" y="182.2" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">tioforaz</text>
+  <text x="549.0" y="195.2" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">süksinil-CoA → süksinat</text>
+  <line x1="455" y1="240" x2="455" y2="288" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k6e)"/>
+  <text x="463.0" y="266.0" text-anchor="start" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">tiyolaz</text>
+  <line x1="455" y1="320" x2="455" y2="334" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k6e)"/>
+  <text x="455.0" y="348.0" text-anchor="middle" font-family="var(--font-body)" font-size="11.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">TCA döngüsü → ATP</text>
+  <path d="M295,355 L346,355 L346,75 L378,75" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.4" marker-end="url(#k6e)"/>
+  <path d="M210,295 L340,295 L340,145 L378,145" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.4" marker-end="url(#k6e)"/>
+  <text x="320.0" y="290.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kan</text>
+  <text x="480.0" y="364.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">Karaciğerde tioforaz yok:</text>
+  <text x="480.0" y="377.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">karaciğer keton cisimlerini kullanamaz.</text>
+</svg>

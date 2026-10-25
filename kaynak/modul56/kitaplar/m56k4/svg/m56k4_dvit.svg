@@ -1,0 +1,59 @@
+<svg viewBox="0 0 640 486" width="100%" style="display:block" role="img" aria-label="D vitamininin metabolizması: deri ve besin, karaciğerde 25-hidroksilasyon, böbrekte 1-alfa hidroksilasyon, etkiler ve raşitizm nedenlerinin yerleri">
+  <defs><marker id="k4j" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k4jc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k4jm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <rect x="20" y="10" width="200" height="52" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="120.0" y="25.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Deri</text>
+  <text x="120.0" y="39.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">7-dehidrokolesterol</text>
+  <text x="120.0" y="53.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">UVB ile → D3 (kolekalsiferol)</text>
+  <rect x="240" y="10" width="200" height="52" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="340.0" y="25.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Besin</text>
+  <text x="340.0" y="39.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ergosterol → D2 (ergokalsiferol);</text>
+  <text x="340.0" y="53.8" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">balık yağı, karaciğer, yumurta</text>
+  <path d="M120,62 L120,76 L230,76 L230,88" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k4j)"/>
+  <path d="M340,62 L340,76 L230,76" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5"/>
+  <rect x="120" y="92" width="220" height="44" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="230.0" y="110.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Karaciğer: 25-hidroksilaz</text>
+  <text x="230.0" y="125.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">1. hidroksilasyon</text>
+  <line x1="230" y1="136" x2="230" y2="158" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k4j)"/>
+  <rect x="110" y="162" width="240" height="48" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="230.0" y="182.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">25-OH D vitamini</text>
+  <text x="230.0" y="197.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">dolaşımdaki depo biçimi, kanda ölçülen</text>
+  <line x1="230" y1="210" x2="230" y2="232" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k4j)"/>
+  <rect x="110" y="236" width="240" height="48" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="230.0" y="256.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Böbrek: 1α-hidroksilaz</text>
+  <text x="230.0" y="271.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">PTH uyarır (kalsiyum düşünce)</text>
+  <line x1="230" y1="284" x2="230" y2="306" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k4j)"/>
+  <rect x="110" y="310" width="240" height="48" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="230.0" y="330.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">1,25-(OH)₂ D vitamini (kalsitriol)</text>
+  <text x="230.0" y="345.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">en aktif biçim</text>
+  <rect x="20" y="410" width="180" height="48" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="110.0" y="430.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Barsak</text>
+  <text x="110.0" y="445.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">Ca ve P emilimi ↑ (en önemli)</text>
+  <rect x="230" y="410" width="180" height="48" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="320.0" y="430.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Böbrek</text>
+  <text x="320.0" y="445.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">Ca ve P atılımı ↓</text>
+  <rect x="440" y="410" width="180" height="48" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="530.0" y="430.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Kemik</text>
+  <text x="530.0" y="445.2" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">PTH ile Ca mobilizasyonu</text>
+  <path d="M230,358 L230,384 L110,384 L110,406" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k4j)"/>
+  <path d="M230,384 L320,384 L320,406" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k4j)"/>
+  <path d="M230,384 L530,384 L530,406" fill="none" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#k4j)"/>
+  <text x="462.0" y="25.5" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">güneşlenmeme, koyu ten,</text>
+  <text x="462.0" y="39.5" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">örtünme; takviyesiz anne</text>
+  <text x="462.0" y="53.5" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sütü, annenin eksikliği</text>
+  <line x1="442" y1="36" x2="456" y2="36" stroke="var(--color-neutral-700)" stroke-opacity="0.5" stroke-width="1.2" stroke-dasharray="3 3"/>
+  <text x="462.0" y="96.5" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">karaciğer hastalığı:</text>
+  <text x="462.0" y="110.5" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">25-hidroksilasyon ↓; safra</text>
+  <text x="462.0" y="124.5" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">tıkanıklığı, malabsorpsiyon:</text>
+  <text x="462.0" y="138.5" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">emilim ↓</text>
+  <line x1="342" y1="114" x2="456" y2="114" stroke="var(--color-neutral-700)" stroke-opacity="0.5" stroke-width="1.2" stroke-dasharray="3 3"/>
+  <text x="462.0" y="175.5" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">antikonvülzanlar (fenobarbital,</text>
+  <text x="462.0" y="189.5" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">fenitoin): D vitamini</text>
+  <text x="462.0" y="203.5" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">yıkımı ↑</text>
+  <line x1="352" y1="186" x2="456" y2="186" stroke="var(--color-accent-2-900)" stroke-opacity="1" stroke-width="1.2" stroke-dasharray=""/>
+  <text x="462.0" y="256.5" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kronik böbrek yetmezliği,</text>
+  <text x="462.0" y="270.5" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">1α-hidroksilaz eksikliği</text>
+  <line x1="352" y1="260" x2="456" y2="260" stroke="var(--color-neutral-700)" stroke-opacity="0.5" stroke-width="1.2" stroke-dasharray="3 3"/>
+  <text x="462.0" y="330.5" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kalsitriol reseptörü</text>
+  <text x="462.0" y="344.5" text-anchor="start" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">eksikliği (kalıtsal)</text>
+  <line x1="352" y1="334" x2="456" y2="334" stroke="var(--color-neutral-700)" stroke-opacity="0.5" stroke-width="1.2" stroke-dasharray="3 3"/>
+</svg>

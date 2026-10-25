@@ -1,0 +1,30 @@
+<svg viewBox="0 0 640 212" width="100%" style="display:block" role="img" aria-label="İshalin süresine göre adı: akut ishal 14 günden kısa, persistan ishal akut başlar ve 14 günü aşar, kronik ishal bir aydan uzun sürer ve kilo alamamayla birliktedir">
+  <defs><marker id="k5g" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="k5gc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="k5gm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <line x1="175.0" y1="34" x2="175.0" y2="172" stroke="var(--color-neutral-700)" stroke-opacity="0.45" stroke-width="1"/>
+  <text x="175.0" y="190.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">0</text>
+  <line x1="242.7" y1="34" x2="242.7" y2="172" stroke="var(--color-neutral-700)" stroke-opacity="0.15" stroke-width="1"/>
+  <text x="242.7" y="190.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">7</text>
+  <line x1="310.3" y1="34" x2="310.3" y2="172" stroke="var(--color-neutral-700)" stroke-opacity="0.15" stroke-width="1"/>
+  <text x="310.3" y="190.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">14</text>
+  <line x1="378.0" y1="34" x2="378.0" y2="172" stroke="var(--color-neutral-700)" stroke-opacity="0.15" stroke-width="1"/>
+  <text x="378.0" y="190.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">21</text>
+  <line x1="465.0" y1="34" x2="465.0" y2="172" stroke="var(--color-neutral-700)" stroke-opacity="0.15" stroke-width="1"/>
+  <text x="465.0" y="190.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">30</text>
+  <line x1="610.0" y1="34" x2="610.0" y2="172" stroke="var(--color-neutral-700)" stroke-opacity="0.15" stroke-width="1"/>
+  <text x="610.0" y="190.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">45 gün</text>
+  <line x1="310.3" y1="28.0" x2="310.3" y2="176.0" stroke="var(--color-accent-700)" stroke-opacity="0.9" stroke-width="1.2" stroke-dasharray="4 3"/>
+  <text x="310.3" y="20.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">14. gün</text>
+  <line x1="465.0" y1="28.0" x2="465.0" y2="176.0" stroke="var(--color-accent-700)" stroke-opacity="0.9" stroke-width="1.2" stroke-dasharray="4 3"/>
+  <text x="465.0" y="20.0" text-anchor="middle" font-family="var(--font-body)" font-size="10.5" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">30. gün (1 ay)</text>
+  <text x="163.0" y="59.0" text-anchor="end" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Akut ishal</text>
+  <text x="163.0" y="73.0" text-anchor="end" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">≥3 sulu dışkı / 24 saat</text>
+  <path d="M175.0,51.0 L287.0,51.0 Q291.0,51.0 291.0,55.0 L291.0,65.0 Q291.0,69.0 287.0,69.0 L175.0,69.0 Z" fill="var(--color-accent)" fill-opacity="0.45"/>
+  <text x="163.0" y="105.0" text-anchor="end" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Persistan ishal</text>
+  <text x="163.0" y="119.0" text-anchor="end" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">akut başlar, &gt;14 gün</text>
+  <path d="M175.0,97.0 L461.0,97.0 Q465.0,97.0 465.0,101.0 L465.0,111.0 Q465.0,115.0 461.0,115.0 L175.0,115.0 Z" fill="var(--color-accent)" fill-opacity="0.16"/>
+  <path d="M310.3,97.0 L461.0,97.0 Q465.0,97.0 465.0,101.0 L465.0,111.0 Q465.0,115.0 461.0,115.0 L310.3,115.0 Z" fill="var(--color-accent)" fill-opacity="0.75"/>
+  <text x="163.0" y="151.0" text-anchor="end" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Kronik ishal</text>
+  <text x="163.0" y="165.0" text-anchor="end" font-family="var(--font-body)" font-size="10.5" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">&gt;1 ay + kilo alamama</text>
+  <path d="M175.0,143.0 L606.0,143.0 Q610.0,143.0 610.0,147.0 L610.0,157.0 Q610.0,161.0 606.0,161.0 L175.0,161.0 Z" fill="var(--color-accent)" fill-opacity="0.16"/>
+  <path d="M465.0,143.0 L606.0,143.0 Q610.0,143.0 610.0,147.0 L610.0,157.0 Q610.0,161.0 606.0,161.0 L465.0,161.0 Z" fill="var(--color-accent)" fill-opacity="1.0"/>
+</svg>
