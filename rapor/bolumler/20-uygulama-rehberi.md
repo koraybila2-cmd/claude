@@ -105,7 +105,7 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 | 1 | Barbell bench press | 3 × 5–8 | 4 × 5–8 | 1–2 | Kuvvet takibi; güvenlik kollarıyla |
 | 2 | Oturarak kablo row, dar nötr (V) tutuş | 3 × 8–12 | 4 × 8–12 | 1–2 | Latissimus ağırlıklı; dirsekler gövdeye yakın |
 | 3a | Oturarak dumbbell omuz presi | 2 × 6–10 | 3 × 6–10 | 1–2 | Süperset 3b ile |
-| 3b | Kablo pullover (straight-arm pulldown) | 2 × 10–15 | 3 × 10–15 | 1 | Süperset 3a ile; yalnızca kablo, dumbbell değil |
+| 3b | Tek kol yüksek makara pulldown (D-tutamak) | 2 × 10–15 | 3 × 10–15 | 1 | Süperset 3a ile; lat (ayakta da yapılır) |
 
 ### Omuz–Kol B + karın (Cuma, Zone 2 kardiyodan önce)
 
@@ -140,7 +140,7 @@ Aşağıdaki tablo, programdaki her hareketi çalıştırdığı kaslara göre s
 | Kas grubu | Doğrudan setler (Blok 2–4) | Dolaylı setler (× 0,5) | Toplam Blok 2–4 | Toplam Blok 1 | Değerlendirme |
 |---|---|---|---|---|---|
 | Göğüs | Incline press 4, chest press 3, bench 4, kablo fly 3 = 14 | — | **14** | 10 | Hedefte |
-| Latissimus | Pulldown 4, kablo pullover 3 = 7 | Üç row toplam 10 → 5 | **12** | 8,5 | Hedefte; row'ları lat için doğrudan sayarsan ~15,5 |
+| Latissimus | Pulldown 4, tek kol pulldown 3 = 7 | Üç row toplam 10 → 5 | **12** | 8,5 | Hedefte; row'ları lat için doğrudan sayarsan ~15,5 |
 | Orta sırt (trapezin orta-alt kısmı, romboidler) | Geniş row 3, dar row 4, tek kol kablo row 3 = 10 | Pulldown 4 → 2; iki rear delt hareketi 6 → 3 | **15** | 10,5 | Hedefte |
 | Arka omuz | Rear delt fly 3, kablo reverse fly 3 = 6 | Row'lar 10 → 5 | **11** | 7,5 | Hedefte |
 | Yan omuz | Kablo lateral 4, dumbbell lateral 4 = 8 | Omuz presi 3 → 1,5 | **9,5** | 6 | Küçük kas için yeterli |
@@ -156,7 +156,7 @@ Aşağıdaki tablo, programdaki her hareketi çalıştırdığı kaslara göre s
 
 **Hedefler:** 16 haftalık yapıya göre üst vücut kasları için Blok 1'de 8–10, Blok 2'de 10–14, Blok 3–4'te 12–16 set. Büyük üst vücut kaslarının hepsi Blok 2–4'te 12–15 setle bu aralıkların kesişimindedir. Yan ve arka omuz gibi küçük kaslar için 8–12 set yeterlidir (Bölüm 3, 4). Bacaklarda düşük hacim bilinçli bir tercihtir: amaç bacakları büyütmeden güçlendirmektir. Üst trapez (omuz silkme kası) ayrıca çalıştırılmaz; RDL, row'lar ve dumbbell taşıma sırasında dolaylı olarak çalışır.
 
-**Bir önceki sürüme göre değişenler:** (1) Salonunda göğüs destekli row makinesi olmadığı için Pazartesi row'u **geniş tutuşlu oturarak kablo row** oldu; Perşembe'deki kablo row'u **dar nötr tutuşa** çevrilerek ikisi farklı bölgelere yönlendirildi (geniş tutuş orta sırt ve arka omuz, dar tutuş latissimus) [12]. (2) Pullover yalnızca **kablo** olarak bırakıldı; dumbbell pullover'ın neden sırt hareketi sayılmaması gerektiği aşağıdaki teknik bölümünde açıklanmıştır. (3) Arka omuz için Cuma'ya **kablo reverse fly** eklendi (3 → 6 doğrudan set). (4) Yan omuz için lateral raise'ler Blok 2–4'te 4'er sete çıkarıldı (6 → 8 doğrudan set).
+**Bir önceki sürüme göre değişenler:** (1) Salonunda göğüs destekli row makinesi olmadığı için Pazartesi row'u **geniş tutuşlu oturarak kablo row** oldu; Perşembe'deki kablo row'u **dar nötr tutuşa** çevrilerek ikisi farklı bölgelere yönlendirildi (geniş tutuş orta sırt ve arka omuz, dar tutuş latissimus) [12]. (2) Pullover önce yalnızca **kablo** olarak bırakıldı; halatla yapılan kablo pullover'da yük triceps'e kaydığı için sonra **tek kol yüksek makara pulldown** ile değiştirildi. Dumbbell pullover'ın neden sırt hareketi sayılmaması gerektiği teknik bölümünde açıklanmıştır. (3) Arka omuz için Cuma'ya **kablo reverse fly** eklendi (3 → 6 doğrudan set). (4) Yan omuz için lateral raise'ler Blok 2–4'te 4'er sete çıkarıldı (6 → 8 doğrudan set).
 
 **Gövde (karın ve bel):** Haftada üç kısa blok vardır: Salı anti-rotasyon (Pallof press), Çarşamba fleksiyon (kablo crunch), Cuma anti-ekstansiyon (plank, ardından ab wheel). Squat, Romanian deadlift ve omuz presi de gövdeyi dolaylı olarak yoğun biçimde çalıştırır; bu yüzden ayrıca uzun karın seanslarına gerek yoktur (Bölüm 9). Karın hareketleri kasları güçlendirir ve kalınlaştırır, ancak göbek bölgesindeki yağı seçici olarak yakmaz; karın bölgesinin incelmesi toplam yağ kaybıyla olur (Bölüm 14).
 
@@ -182,7 +182,7 @@ Bu bölüm programdaki her hareketi, haftadaki sırasıyla tek tek anlatır. Her
 - **Nefes ve gövde sıkılığı:** Ağır bileşik hareketlerde (squat, RDL, bench) inişten önce karnına derin nefes al ve gövdeni bir korse gibi sık; en zor noktayı geçince nefesini ver. İzole hareketlerde normal nefes yeterlidir. Kan basıncın yüksekse nefesi uzun süre tutmaktan kaçın (Bölüm 9).
 - **İlerleme:** Tekrar aralığının üst sınırına tüm setlerde ulaşınca ağırlığı en küçük adımla artır (çift progresyon; Bölüm 7).
 
-> **DİKKAT: Pullover düzeltmesi** Programın önceki sürümünde "kablo **veya** dumbbell pullover" yazılıydı; bu yanlıştı. Bench'e yatarak yapılan dumbbell veya barbell pullover'da direnç yere doğrudur. Tork, kollar baş arkasında yere paralelken en yüksek, dumbbell göğsün üstündeyken sıfırdır. Yani hareketin yüklü bölümü, kolun baş üstünde olduğu açılardır. Bu açılarda göğüs kasının alt (sternal) lifleri de omzu güçlü biçimde aşağı çeker. Pullover üzerine yapılan EMG çalışması, bu hareketin göğsü latissimus'tan daha fazla çalıştırdığını göstermiştir [11]. Güncel bir derleme de pullover'ın latissimus'u seçici olarak çalıştırmadığını, göğüs kasını öne çıkardığını belirtmektedir [12]. Ayakta, yüksek makaradan yapılan kablo pullover'da (straight-arm pulldown) ise kablo yükü, kollar kalçaya inene kadar korur. Kol vücudun önünde aşağı indikçe göğüs kasının katkısı azalır, hareketi latissimus ve teres major taşır. Bu yüzden programda sırt için **yalnızca kablo pullover** yer alır. Dumbbell pullover'ı yapmak istersen onu göğüs hareketi olarak say. Kablo pullover'ın latissimus'u daha seçici çalıştırdığı fikri biyomekanik akıl yürütmeye dayanır; bunu doğrudan test eden uzun dönemli bir çalışma yoktur. [[C]]
+> **DİKKAT: Pullover düzeltmesi** Programın önceki sürümünde "kablo **veya** dumbbell pullover" yazılıydı; bu yanlıştı. Bench'e yatarak yapılan dumbbell veya barbell pullover'da direnç yere doğrudur. Tork, kollar baş arkasında yere paralelken en yüksek, dumbbell göğsün üstündeyken sıfırdır. Yani hareketin yüklü bölümü, kolun baş üstünde olduğu açılardır. Bu açılarda göğüs kasının alt (sternal) lifleri de omzu güçlü biçimde aşağı çeker. Pullover üzerine yapılan EMG çalışması, bu hareketin göğsü latissimus'tan daha fazla çalıştırdığını göstermiştir [11]. Güncel bir derleme de pullover'ın latissimus'u seçici olarak çalıştırmadığını, göğüs kasını öne çıkardığını belirtmektedir [12]. Ayakta, yüksek makaradan yapılan kablo pullover'da (straight-arm pulldown) ise kablo yükü, kollar kalçaya inene kadar korur. Kol vücudun önünde aşağı indikçe göğüs kasının katkısı azalır, hareketi latissimus ve teres major taşır. Kablo pullover bu yüzden sırt hareketi olarak tasarlanmıştır. Ancak tricepsin uzun başı omzu da geçer ve omuz ekstansiyonuna güçlü biçimde katılır; dirsekler biraz fazla bükülürse, yük fazla gelirse veya halatın uçları aşağı bastırılırsa yük pushdown'a kayar ve bazı kişilerde triceps baskın hissedilir. Bu programda pullover bu yüzden **tek kol yüksek makara pulldown** ile değiştirildi. Dumbbell pullover'ı yapmak istersen onu göğüs hareketi olarak say. Kablo pullover'ın latissimus'u daha seçici çalıştırdığı fikri biyomekanik akıl yürütmeye dayanır; bunu doğrudan test eden uzun dönemli bir çalışma yoktur. [[C]]
 
 ### Pazartesi 1 — Incline dumbbell press (30°)
 
@@ -573,23 +573,35 @@ Bu bölüm programdaki her hareketi, haftadaki sırasıyla tek tek anlatır. Her
 
 **Sık hatalar:** Beli çukurlaştırmak (yük bele biner); dirsekleri tam yana açıp omuzda ağrıyla devam etmek; yarım tekrar.
 
-### Perşembe 3b — Kablo pullover (straight-arm pulldown)
+### Perşembe 3b — Tek kol yüksek makara pulldown
 
-**Hedef kaslar:** Latissimus, teres major; arka omuz ve tricepsin uzun başı kolu sabitlemeye yardım eder.
+**Hedef kaslar:** Latissimus, teres major; ikincil olarak biseps, brachialis, arka omuz ve trapezin alt kısmı.
 
-**Biyomekanik:** Dirsekler sabit kaldığı için hareket yalnızca omuz ekstansiyonudur; biseps devreye girmez ve latissimus'u biseps yorulmadan tek başına çalıştırırsın. Yüksek makaradan gelen kablo, kollar kalçaya inene kadar gerilimi korur. Kol vücudun önünde aşağı indikçe göğüs kasının bu harekete katkısı azalır ve iş latissimus'a kalır. Bu yüzden kablo pullover, dumbbell pullover'dan farklı olarak bir sırt hareketidir (yukarıdaki düzeltme kutusuna bak).
+**Neden kablo pullover'ın yerine?** Kablo pullover'da dirsekler sabit kalmalı, hareket yalnızca omuz ekstansiyonu olmalıdır. Tricepsin uzun başı omzu da geçtiği için omuz ekstansiyonuna yardım eder; dirsekler biraz fazla bükülürse, ağırlık fazla gelirse veya halatın uçlarını aşağı bastırırsan hareket pushdown'a döner ve triceps baskın hissedilir. Bu çok sık görülen bir durumdur ve hareketi yapamadığın anlamına gelmez; hareketin sana uygun olmadığı anlamına gelir. Tek kol pulldown'da lat'ı bir kanca gibi çalışan elle değil, dirsekle çekersin ve triceps hareketin dışında kalır.
+
+**Biyomekanik:** Kolu baş üstünde uzanmış, latissimus'un uzun boyda olduğu pozisyondan başlatırsın. Direnç kablonun doğrultusundadır ve hareket boyunca sabit kalır. Latissimus'u öne çıkaran şey, dirseği gövdenin yanında aşağı ve hafif geriye, kaburgaya doğru sürmektir. Lat pulldown çalışmalarında çekişin ön tarafta kalması (tutamağın baş arkasına değil göğüs hizasının önüne gelmesi) latissimus aktivitesiyle en tutarlı biçimde ilişkilidir [12]; aynı mantık burada tek kola uygulanır. Tek kolla çalışmak sağ ve sol arasındaki farkı gösterir ve gövdeyi çalışan kolun karşı yanına hafifçe yatırarak hareket yolunu uzatmana izin verir.
 
 **Kurulum:**
 
-1. Yüksek makaraya düz bar veya halat tak. Makaradan 1–2 adım geri çekil.
-2. Kalçadan 30–45° öne eğil, dizler hafif bükük. Kollar baş üstünde, kablo doğrultusunda uzanmış; dirsekler hafif bükük ve sabit.
+1. Yüksek makaraya D-tutamak tak.
+2. Oturarak, ayakta hafif öne eğik veya yarım diz çökerek yapabilirsin. Oturmak oturma kemiğindeki hamstring tendonunu rahatsız ediyorsa ayakta veya yarım diz çökerek yap.
+3. Boştaki elinle makinenin direğini tut; gövdeyi sabit tut.
 
 **Hareket:**
 
-1. Kollarını düz tutarak barı geniş bir yay çizerek uyluklarına kadar indir. "Barı uyluklarına doğru bastır" diye düşün; latissimus'ta sıkışma hisset.
-2. 2–3 saniyede kollar yeniden baş üstüne gelene ve latissimus gerilene kadar geri bırak.
+1. Kolun baş üstünde uzanmış, omzun yukarı kalkmış, latissimus gerilmiş başla. Gövden çalışan kolun karşı yanına en fazla 10–15° yatık olsun.
+2. Önce omzunu aşağı indir. Ardından dirseğini aşağı ve hafif geriye, kaburgana doğru sür. Elini bir kanca gibi düşün: tutamağı sıkıca kavra ama ön kolunla çekme, "dirsekle çek".
+3. Tutamak omzunun önüne, göğüs hizasına gelince 1 saniye sık; dirsek kaburgana yaklaşsın.
+4. 2–3 saniyede kolu tamamen uzat; omzun yeniden yukarı kalksın.
 
-**Sık hatalar:** Dirsekleri bükmek (hareket pushdown'a veya pulldown'a döner); gövdeyi sallamak; omuz silkmek; yukarıdaki gerilme bölümünü yarıda kesmek.
+**Sık hatalar:** Gövdeyi geriye atarak çekmek; çok ağır seçip omuz silkmek; elle ve ön kolla çekmek (biseps baskın olur); tutamağı baş arkasına çekmek; üstte kolu tam uzatmamak.
+
+**Alternatifler (aynı yuvaya):**
+
+- **Asistli barfiks makinesi (nötr tutuş):** 3 × 6–10, RIR 1–2.
+- **Dar nötr tutuşlu lat pulldown:** Pazartesi'deki pulldown'dan farkı, tutuşun dar ve dirseklerin gövdeye yakın olmasıdır.
+- **Pullover makinesi (dirsek pedli):** Salonda varsa. Dirsekleri pede yaslayıp çektiğin için triceps el kuvvetiyle devreye girmez; bu hareketi doğrudan test eden uzun dönemli bir çalışma yoktur.
+- **Kablo pullover'ı yine denemek istersen:** Halat yerine düz bar veya V tutamak kullan; dirsek açısını yaklaşık 15–20°'de sabit tut; ağırlığı yarıya indir; tutamağı değil dirseklerini kalçana doğru sür. Triceps yine baskınsa bırak.
 
 ### Cuma 1a — Kablo fly
 
