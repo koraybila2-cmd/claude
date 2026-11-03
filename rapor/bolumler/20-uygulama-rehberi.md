@@ -32,7 +32,7 @@ Bu bölüm, raporun önceki 19 bölümünde derlenen kanıtları senin için som
 Hedeflerin birbiriyle çatışmasın diye öncelik sırasını net koyalım:
 
 1. **Yağ kaybı:** Haftada vücut ağırlığının %0,5–1'i (yaklaşık 0,5–0,9 kg). Diğer bütün hedeflerini kolaylaştırır.
-2. **Baldır ağrısının iyileşmesi ve güvenli koşuya dönüş:** Kardiyo ve futbol hedeflerinin önündeki engel.
+2. **Baldır ve ön kaval ağrısının değerlendirilmesi, iyileşmesi ve güvenli koşuya dönüş:** Kardiyo ve futbol hedeflerinin önündeki engel. Koşu ve futbol, bir hekim şikâyeti değerlendirene kadar planın dışındadır.
 3. **Üst vücut hipertrofisi:** Kalori açığında bile, yeniden başlayan biri olarak kas kazanman gerçekçi; açık büyüdükçe yağsız kütle kazanımı azalır ama kuvvet kazanımı büyük ölçüde korunur [3] (Bölüm 14).
 4. **Bacak kuvvetinin korunması ve artırılması, bacak hacminin azalması:** "Az, ağır, hızlı, tükenişten uzak" (Bölüm 10).
 5. **Aerobik kondisyon ve futbol performansı:** Önce düşük darbeli temel, sonra futbola özgü çalışma (Bölüm 12).
@@ -46,7 +46,7 @@ Hedeflerin birbiriyle çatışmasın diye öncelik sırasını net koyalım:
 | **3. Birikim II** | 9–12 | Üst vücut 12–16 set; 12. hafta deload | Zone 2 + aralık + yürü–koş | Yürü–koş aşama 4–8; küçük alan oyunlarına geçiş | 11–12. haftalar: **diyet arası** (bakım kalorisi) |
 | **4. Futbol ve pekiştirme** | 13–16 | Üst vücut 12–16 set; 16. hafta test | Zone 2 + aralık + futbol | Kesintisiz koşu, futbola dönüş | Açık yeniden başlar; 16. hafta değerlendirme |
 
-Takvim bir **kılavuzdur**. Baldır rehabilitasyonu ve koşuya dönüş, takvime göre değil **kriterlere** göre ilerler (Bölüm 13). Ağrı izleme modeli, ağrı belirli bir eşiğin altında kaldıkça aktiviteye devam etmeye izin verir [6]. Kriterleri daha erken karşılarsan bir sonraki aşamaya geç; ağrı kurallarını ihlal edersen bir aşama geri dön.
+Takvim bir **kılavuzdur**. Baldır rehabilitasyonu ve koşuya dönüş, takvime göre değil **kriterlere** göre ilerler (Bölüm 13). Ön kaval bölgesindeki şikâyet bir hekim tarafından değerlendirilene kadar koşu, yürü–koş, sıçrama ve futbol içeren her adım ertelenir; bu süre boyunca kardiyo bisiklet veya kürekle sürer. Ağrı izleme modeli, ağrı belirli bir eşiğin altında kaldıkça aktiviteye devam etmeye izin verir [6]. Kriterleri daha erken karşılarsan bir sonraki aşamaya geç; ağrı kurallarını ihlal edersen bir aşama geri dön.
 
 ## Haftalık program
 
@@ -57,7 +57,7 @@ Takvim bir **kılavuzdur**. Baldır rehabilitasyonu ve koşuya dönüş, takvime
 | Çarşamba | **Kardiyo – aralık** (bisiklet/eliptik 4×4) — Blok 4'te futbol olabilir; ardından **Omuz–Kol A + karın** | 35–45 dk + 25 dk |
 | Perşembe | **Üst B** (göğüs–sırt–omuz presi, 3 blok) | 35–45 dk |
 | Cuma | **Omuz–Kol B + karın**, ardından **Kardiyo – Zone 2** (35–45 dk) + esneklik rutini | 20–25 dk + 45–55 dk |
-| Cumartesi | Blok 1–3: **Zone 2 veya yürü–koş** + hafif rehabilitasyon; Blok 4: **futbol** | 40–90 dk |
+| Cumartesi | **Zone 2 bisiklet veya kürek**; yürü–koş (Blok 2–3) ve futbol (Blok 4) yalnızca hekim onayı ve koşu kriterlerinden sonra | 40–90 dk |
 | Pazar | Dinlenme; hafif yürüyüş (adım hedefi) | — |
 
 > **PRATİK: Neden dört kısa seans?** Üst vücut hacmi iki uzun seans yerine iki kısa ana seans (Pazartesi, Perşembe) ve kardiyo günlerine eklenen iki kısa omuz–kol bloğuna (Çarşamba, Cuma) bölünmüştür. Haftalık set sayısı korunduğu sürece, hacmi daha fazla güne yaymak kas büyümesini azaltmaz [10]. Aynı gün içinde birbirinin karşıtı olan kasları (ör. biseps–triseps, göğüs–sırt) süperset yapmak, toplam tekrar sayısını ve uzun dönem kazanımları düşürmeden seans süresini kısaltır; bedeli, seansın biraz daha yorucu hissettirmesidir [9]. Omuz–kol blokları bisiklet veya eliptik kardiyodan sonra (Çarşamba) veya önce (Cuma) yapılabilir; küçük üst vücut kaslarını çalıştırdıkları için kardiyoyla belirgin bir çakışma yaratmazlar.
@@ -95,7 +95,7 @@ Her gün: **8.000–10.000 adım** hedefi (mevcut ortalamandan kademeli artırar
 | 1b | Rear delt fly (makine; yoksa kablo) | 2 × 12–20 | 3 × 12–20 | 0–1 | Süperset 1a ile; arka omuz |
 | 2a | Incline dumbbell curl | 2 × 10–15 | 3 × 10–15 | 0–1 | Süperset 2b ile |
 | 2b | Kablo overhead triceps extension | 2 × 10–15 | 3 × 10–15 | 0–1 | Süperset 2a ile |
-| 3a | Tek kol dumbbell row (bench destekli) | 2 × 10–12 | 3 × 10–12 | 1 | Süperset 3b ile; latissimus ve orta sırt |
+| 3a | Tek kol kablo row (oturarak, alt makara) | 2 × 10–12 | 3 × 10–12 | 1 | Süperset 3b ile; lat ve orta sırt (yedekler: teknik bölümünde) |
 | 3b | Kablo crunch (diz çökerek) | 2 × 10–15 | 3 × 10–15 | 1–2 | Süperset 3a ile; karın |
 
 ### Üst B (Perşembe) — göğüs, sırt ve omuz presi
@@ -141,7 +141,7 @@ Aşağıdaki tablo, programdaki her hareketi çalıştırdığı kaslara göre s
 |---|---|---|---|---|---|
 | Göğüs | Incline press 4, chest press 3, bench 4, kablo fly 3 = 14 | — | **14** | 10 | Hedefte |
 | Latissimus | Pulldown 4, kablo pullover 3 = 7 | Üç row toplam 10 → 5 | **12** | 8,5 | Hedefte; row'ları lat için doğrudan sayarsan ~15,5 |
-| Orta sırt (trapezin orta-alt kısmı, romboidler) | Geniş row 3, dar row 4, dumbbell row 3 = 10 | Pulldown 4 → 2; iki rear delt hareketi 6 → 3 | **15** | 10,5 | Hedefte |
+| Orta sırt (trapezin orta-alt kısmı, romboidler) | Geniş row 3, dar row 4, tek kol kablo row 3 = 10 | Pulldown 4 → 2; iki rear delt hareketi 6 → 3 | **15** | 10,5 | Hedefte |
 | Arka omuz | Rear delt fly 3, kablo reverse fly 3 = 6 | Row'lar 10 → 5 | **11** | 7,5 | Hedefte |
 | Yan omuz | Kablo lateral 4, dumbbell lateral 4 = 8 | Omuz presi 3 → 1,5 | **9,5** | 6 | Küçük kas için yeterli |
 | Ön omuz | Omuz presi 3 | Üç göğüs presi 11 → 5,5 | **8,5** | 6 | Preslerden bolca dolaylı iş alır |
@@ -266,7 +266,7 @@ Bu bölüm programdaki her hareketi, haftadaki sırasıyla tek tek anlatır. Her
 
 **Sık hatalar:** Gövdeyi ileri geri sallamak (yük beline biner); omuzları kulaklara doğru kaldırmak; öndeki gerilmeyi kısaltmak; bilekleri bükmek.
 
-**Senin için:** Gövdenin 10°'den fazla sallanmadan kaldırabileceği bir ağırlık seç. Göğüs destekli row'un yaptığı işi burada karın kasların ve sırt kasların yapar.
+**Senin için:** Göğüs desteği olmadığı için gövdeyi sabit tutmak karın ve bel kaslarının işidir. Gövdenin 10°'den fazla sallanmadan kaldırabileceği bir ağırlık seç.
 
 ### Salı 1 — Back squat (alternatif: hack squat)
 
@@ -469,24 +469,32 @@ Bu bölüm programdaki her hareketi, haftadaki sırasıyla tek tek anlatır. Her
 
 **Sık hatalar:** Omuzları hareket ettirmek (hareket pullover'a döner); beli çukurlaştırmak; dirsekleri aşırı yana açmak.
 
-### Çarşamba 3a — Tek kol dumbbell row (bench destekli)
+### Çarşamba 3a — Tek kol kablo row (oturarak, alt makara)
 
-**Hedef kaslar:** Latissimus, orta sırt, arka omuz, biseps.
+**Hedef kaslar:** Latissimus, orta sırt (trapezin orta-alt kısmı ve romboidler), arka omuz, biseps.
 
-**Biyomekanik:** Gövde yere neredeyse paralelken direnç yere doğrudur. Dumbbell'ı kalçana doğru yay çizerek çekmek omuz ekstansiyonudur ve latissimus'u öne çıkarır; dirseği yana açıp göğse doğru çekmek orta sırtı öne çıkarır. Tek kol olduğu için altta kürek kemiğinin öne kaymasına izin vererek uzun bir hareket açıklığı elde edebilirsin.
+**Biyomekanik:** Dumbbell row'da direnç yere doğrudur ve tork, çekişin ortasında en yüksek, kolun sarktığı altta en düşüktür. Kablo row'da direnç, kablonun doğrultusunda hareket boyunca sabit kalır. Bu yüzden gerilmiş pozisyonda (kol önde uzanmış, kürek kemiği öne kaymış) kas daha fazla yüklenir. Dirsek gövdeye yakın bir yolda kalçaya doğru çekildiğinde hareket ağırlıklı olarak omuz ekstansiyonu olur ve latissimus öne çıkar; dirseği yana, göğse doğru açarsan orta sırt ve arka omuz öne çıkar [12]. Tek kolla çalışmak sağ ve sol arasındaki farkı gösterir. Ayrıca kablo seni dönmeye zorladığı için gövde kasların bir anti-rotasyon işi daha yapar. Bench'e veya göğüs desteğine ihtiyaç yoktur.
 
 **Kurulum:**
 
-1. Bir elini düz bench'e koy. İki seçenek var: aynı taraftaki dizini de bench'e koymak veya iki ayağın yerde, bir ayak geride durmak. 98 kg'da ikinci seçenek beline ve dizine genellikle daha rahattır.
-2. Sırt düz, gövde yere yakın paralel; dumbbell omzunun altında sarkıyor.
+1. Oturarak row istasyonunda alt makaraya tek kol tutamağı (D-tutamak) tak.
+2. Ayaklar platformda, dizler hafif bükük. Boştaki elinle makinenin gövdesini veya kendi uyluğunu tut.
+3. Gövde dik; karnını hafifçe sık. Omuzların ve kalçaların makaraya doğru dönmesine izin verme.
 
 **Hareket:**
 
-1. Omzunun aşağı düşmesine izin ver; sırtının yanında gerilme hisset.
-2. Dirseğini "arka cebine" doğru, vücuduna yakın bir yay çizerek çek; dirsek gövdeni geçince 1 saniye dur.
-3. 2–3 saniyede indir.
+1. Kol önde düz, omzun hafifçe öne kaymış, gövde en fazla 10–15° dönmüş başla; latissimus'ta ve kürek kemiğinin yanında gerilme hisset.
+2. Önce kürek kemiğini geriye ve aşağı çek, ardından dirseğini kalçana doğru, gövdene yakın bir yayda sür. Dirsek gövdeni geçince dur.
+3. Sonda 1 saniye sık; omzun kulağına doğru kalkmasın.
+4. 2–3 saniyede kolu uzat; kürek kemiğinin yeniden öne kaymasına izin ver.
 
-**Sık hatalar:** Gövdeyi döndürerek kaldırmak; omuz silkmek; alttaki gerilmeyi kısaltmak; dumbbell'ı savurmak.
+**Sık hatalar:** Gövdeyi döndürüp geriye atarak çekmek; omuz silkmek; bileği bükmek; öndeki gerilme bölümünü kısaltmak; ağırlığı sallayarak kaldırmak.
+
+**Alternatifler (aynı yuvaya):**
+
+- **Tek kol yüksek makara pulldown:** Yüksek makaraya tek kol tutamak tak, otur veya diz çök. Kolu baş üstünde uzanmış başla; dirseği kaburgana ve kalçana doğru sür. Latissimus'u daha seçici çalıştırır; set ve tekrar aynı.
+- **Asistli barfiks makinesi (nötr veya avuç içi sana dönük tutuş):** 3 × 6–10, RIR 1–2. Asistansı azalttıkça ilerlersin; ağırlığın nedeniyle serbest barfiks yerine bu makine daha ilerletilebilir bir seçenektir.
+- **Tercih etmediklerim:** Barbell veya T-bar row ile Meadows row. Üçü de gövdeyi öne eğik ve yüklü tutar; Salı günü squat ve RDL'den sonra bu yük beline biner.
 
 ### Çarşamba 3b — Kablo crunch
 
@@ -699,6 +707,8 @@ Bu bölüm programdaki her hareketi, haftadaki sırasıyla tek tek anlatır. Her
 
 ## Kardiyo planı
 
+> **DİKKAT: Koşu ve futbol satırları şartlıdır** Aşağıdaki tablolarda yürü–koş, koşu, hızlanma koşusu ve futbol içeren her satır, ön kaval ve baldır şikâyetin bir spor hekimi veya ortopedist tarafından değerlendirilip koşuya izin verilene ve Bölüm 13'teki koşu kriterleri sağlanana kadar **geçerli değildir**. O zamana kadar bu satırların yerine aynı gün, aynı süre ve aynı yoğunlukta **bisiklet veya kürek** koy; aralık günleri (Çarşamba) bisiklette yapılabilir. Eğimli yürüyüş de dışarıda kalır.
+
 ### Blok 1 (Hafta 1–4): Düşük darbeli temel
 
 | Gün | Seans | Yoğunluk | Süre |
@@ -741,8 +751,8 @@ Bu bölüm programdaki her hareketi, haftadaki sırasıyla tek tek anlatır. Her
 |---|---|---|
 | 1–2 | Evre 1 — Sakinleştirme | İzometrik eversiyon 5 × 30–45 sn; izometrik calf raise 5 × 30–45 sn; kalça abduksiyonu 3 × 12–15; tek ayak denge 3 × 30 sn |
 | 3–6 | Evre 2 — Güçlendirme | Bantlı eversiyon 3 × 15–20; tek ayak calf raise (diz düz ve bükük) 3 × 8–15, ağırlıkla ağır-yavaş versiyona ilerle; başparmak vurgulu calf raise; denge ilerlemesi; yan plank |
-| 6–8 | Evre 3 — Koşuya hazırlık | Pogo sıçramaları 3 × 20 → tek ayak 3 × 10; yana sekme 3 × 10; A-skip; 30 dk hızlı yürüyüş |
-| 7–12 | Yürü–koş protokolü | Bölüm 13'teki 8 aşama, gün aşırı; kriterler: calf raise ≥ 20–25/taraf, fark < %10, 20 sekme ağrısız |
+| 6–8 | Evre 3 — Koşuya hazırlık (yalnızca hekim onayı ve ağrısız Evre 2'den sonra) | Pogo sıçramaları 3 × 20 → tek ayak 3 × 10; yana sekme 3 × 10; A-skip; 30 dk hızlı yürüyüş |
+| 7–12 | Yürü–koş protokolü (yalnızca hekim onayından sonra) | Bölüm 13'teki 8 aşama, gün aşırı; kriterler: calf raise ≥ 20–25/taraf, fark < %10, 20 sekme ağrısız |
 | 12+ | Bakım | Tek bacak calf raise ve eversiyon, haftada 2 kez kalıcı olarak |
 
 ## Beslenme planı
@@ -837,7 +847,7 @@ Her hafta sonunda (ör. Pazar akşamı) 10 dakika ayırıp aşağıdaki tabloya 
 2. **Protein:** Günde 160–180 g; her öğünde 35–50 g.
 3. **Üst vücut:** Haftada 2 kısa ana seans + 2 kısa omuz–kol bloğu (her biri en fazla 45 dk), kas başına 10–16 zor set, RIR 0–2, gerilmiş pozisyonu vurgula.
 4. **Bacaklar:** Haftada 1 seans, 5 ağır set (squat + RDL), 3–5 tekrar, RIR 2–3; leg curl ve adduction'ı az setle ihmal etme; leg extension, sıçrama ve yüksek tekrarlı bacak işi yok.
-5. **Kardiyo:** Önce bisiklet ve eliptik; haftada 1 aralık + 1–2 Zone 2; koşuya kriterlerle dön; sonra futbol.
+5. **Kardiyo:** Önce bisiklet ve kürek; haftada 1 aralık + 1–2 Zone 2; koşuya yalnızca hekim onayı ve kriterlerle dön; sonra futbol.
 6. **Baldır:** Rehabilitasyon programını uygula; tek bacak calf raise ve eversiyonu kalıcı olarak programda tut; adım sıklığını artır.
 7. **Kreatin:** 5 g/gün. **Kahve:** antrenman öncesi, akşam değil.
 8. **Uyku:** 7–9 saat. **Adım:** 8.000–10.000.
