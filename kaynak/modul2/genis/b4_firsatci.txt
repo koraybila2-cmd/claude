@@ -1,0 +1,55 @@
+# Ayrıntılı anlatım: Fırsatçı Enfeksiyonlar | Etken listesini ezberlemek yerine “hangi savunma kolu bozuldu?” sorusundan yola çıkan bir düşünme yöntemi, CD4 sayısına göre basamaklar ve sık karıştırılan etken çiftleri.
+
+## 1. Temel fikir: bozulan savunma, gelen etkeni belirler
+Fırsatçı etken, sağlam bağışıklıkta hastalık yapmayan ya da hafif geçen, savunmanın belirli bir kolu çöktüğünde ağır hastalık yapan mikroorganizmadır. Sınav soruları hemen her zaman aynı kalıptadır: bir hasta tipi verilir (nötropenik, nakil hastası, HIV'li, kistik fibrozisli, steroid kullanan) ve beklenen etken sorulur. Hasta tipini savunma koluna, savunma kolunu etkene bağlamak ezberi yarıya indirir.
+| Bozulan savunma | Örnek hasta | Tipik etkenler |
+| **Nötrofil (sayı ya da işlev)** | Kemoterapi sonrası nötropeni, kronik granülomatöz hastalık | Gram negatif basiller (Pseudomonas), _Staphylococcus aureus_, **Aspergillus**, Candida, Mucorales |
+| **Hücresel bağışıklık (T hücre, makrofaj)** | HIV/AIDS, organ nakli, uzun süreli steroid, anti-TNF | Hücre içi etkenler: tüberküloz ve **MAC**, Listeria, Nocardia, **Pneumocystis**, Cryptococcus, Toxoplasma, herpes virüsleri (CMV, VZV, EBV, HHV-8), Cryptosporidium |
+| **Humoral bağışıklık (antikor)** | Agamaglobulinemi, CVID, rituksimab | Kapsüllü bakteriler (pnömokok, _Haemophilus influenzae_), Giardia, enterovirüsler |
+| **Dalak (splenektomi, orak hücre)** | Splenektomili hasta | Kapsüllü bakteriler: pnömokok, meningokok, _H. influenzae_ tip b; Babesia |
+| **Kompleman (C5-C9)** | Geç kompleman eksikliği, ekulizumab | _Neisseria_ (meningokok, gonokok) |
+| **Mukoza ve deri bariyeri** | Yanık, kateter, mukozit, kistik fibroz | Pseudomonas, stafilokok, Candida, **Burkholderia cepacia** (kistik fibrozda) |
+|= Savunma kolu – etken eşleşmesi. Sınavdaki fırsatçı enfeksiyon sorularının neredeyse tamamı bu tablodan çözülür.
+?? Nötropeni = “dışarıdaki” etkenler (bakteri ve küf mantarı); T hücre eksikliği = “hücrenin içine saklanan” etkenler (mikobakteri, virüs, Pneumocystis, Toxoplasma); antikor ya da dalak eksikliği = “kapsüllüler”.
+
+## 2. HIV'de CD4 sayısına göre basamaklar
+CD4 T hücresi düştükçe daha zayıf etkenler hastalık yapmaya başlar. Basamakları bilmek “bu CD4 sayısında hangi etken?” sorusunu doğrudan çözer ve hangi koruyucu tedavinin ne zaman başlandığını açıklar.
+| CD4 (hücre/µL) | Ortaya çıkan enfeksiyonlar | Koruyucu tedavi |
+| < 500 | Oral kandidiyaz, herpes zoster, tüberküloz (her düzeyde olabilir), Kaposi sarkomu başlayabilir | |
+| **< 200** | **Pneumocystis jirovecii pnömonisi**, özofagus kandidiyazı | Trimetoprim-sülfametoksazol |
+| **< 100** | Serebral **toksoplazmoz**, kriptokok menenjiti, kriptosporidiyoz | Toxoplasma IgG pozitifse TMP-SMX |
+| **< 50** | Yaygın **MAC** enfeksiyonu, **CMV retiniti** ve koliti, primer SSS lenfoması (EBV) | Etkin antiretroviral tedavi öncelikli |
+|= HIV'de CD4 eşikleri. Eski çıkmış sorularda MAC için 100/µL altı eşiği de kullanıldı; günümüz kılavuzları 50/µL altını esas alır.
+
+## 3. Sınavda sorulan etkenlerin ayırt edici özellikleri
+### Bakteriler
+- **Nocardia:** Gram pozitif, **dallanan, ince filamentli**, **zayıf (kısmi) aside dirençli** aerob. Toprakta bulunur, solunumla alınır; hücresel bağışıklığı bozuk hastada akciğer absesi yapar ve **beyne** yayılır (beyin absesi). Tedavisi TMP-SMX. _Actinomyces_ ile karıştırılır: Actinomyces anaerobdur, aside dirençli değildir, ağız florasındandır, sülfür granülü yapar ve penisilinle tedavi edilir. Tüberküloz basili ise **güçlü** aside dirençlidir ve dallanmaz.
+- **Mycobacterium avium complex (MAC):** Çevresel (su, toprak) mikobakteri; CD4 50'nin altında ateş, kilo kaybı, ishal, hepatosplenomegali ve anemiyle seyreden **yaygın (dissemine)** hastalık yapar. Tedavide makrolid (klaritromisin, azitromisin) ve etambutol.
+- **Listeria monocytogenes:** Hücre içi gram pozitif çomak; gebelerde, yenidoğanda, yaşlıda, steroid ve anti-TNF kullananda menenjit ve bakteriyemi. Sefalosporinlere doğal dirençlidir; ampisilin verilir.
+- **Burkholderia cepacia:** Kistik fibrozlu hastanın akciğerinde kolonize olan gram negatif çomak; birçok antibiyotiğe doğal dirençlidir ve hızlı akciğer yıkımıyla seyreden “sepasya sendromu” yapabilir. Bu yüzden bazı merkezlerde **akciğer nakli için göreceli kontrendikasyon** sayılır (bu yılın sorusu).
+### Mantarlar
+- **Pneumocystis jirovecii:** Mantardır ama ergosterol taşımaz; bu yüzden amfoterisin ve azollere yanıt vermez. Kuru öksürük, efor dispnesi, belirgin hipoksi, akciğer grafisinde iki taraflı interstisyel (buzlu cam) görünüm, LDH yüksekliği. Tanı bronkoalveolar lavajda gümüş boyası ya da immünfloresan; tedavi ve korunma **TMP-SMX**, ağır hipokside steroid eklenir.
+- **Aspergillus:** Küf mantarı; **nötropenide** invaziv pulmoner aspergilloz yapar. Damarları invaze eder (anjioinvazyon): kanama ve enfarktüs; BT'de “hale işareti”, iyileşirken “hilal havası”. Dar açıyla (45°) **dallanan, bölmeli (septalı)** hifler. Tedavi vorikonazol.
+- **Mucorales (mukormikoz):** **Diyabetik ketoasidoz** ve demir yüklenmesi (deferoksamin) olan hastada rinoserebral enfeksiyon; geniş, **bölmesiz**, dik açıyla dallanan şerit gibi hifler. Tedavi amfoterisin B ve cerrahi.
+- **Cryptococcus neoformans:** Kalın polisakkarit kapsüllü maya; güvercin dışkısı. CD4 100'ün altında menenjit; çini mürekkebiyle kapsül görülür, BOS'ta kriptokok antijeni.
+- **Candida:** Ağız ve özofagus kandidiyazı hücresel bağışıklık eksikliğini, kandidemi ise nötropeni ve kateteri düşündürür.
+- **Sporothrix schenckii:** Gül dikeni ve toprakla deriye girer, lenf yolu boyunca sıralanan nodüller (sporotrikoid yayılım) yapar; “bahçıvan hastalığı”. Isıya göre iki biçimli (dimorfik) mantardır.
+### Parazitler
+- **Cryptosporidium parvum:** Ookistleri **klorlamaya dirençlidir**, filtre edilmeyen içme suyuyla salgın yapar. Sağlam bağışıklıkta kendini sınırlayan sulu ishal; AIDS'te ağır, kronik, kilo kaybettiren ishal. Dışkıda **modifiye aside dirençli** boyamayla görülen küçük yuvarlak ookistler.
+- **Toxoplasma gondii:** Kedi dışkısı ve az pişmiş et; AIDS'te beyinde **halka tarzı kontrast tutan çok sayıda lezyon** (lenfomadan ayrımı önemlidir). Tedavi pirimetamin ve sülfadiazin (folinik asitle).
+- **Giardia:** Antikor (özellikle IgA) eksikliğinde kronik ishal ve emilim bozukluğu.
+### Virüsler
+- **Sitomegalovirüs (CMV):** Nakil hastasının en önemli viral fırsatçı etkenidir (özellikle ilk 1-6 ay). Pnömoni, kolit, hepatit, retinit; dokuda **“baykuş gözü”** görünümlü büyük çekirdek içi cisimcikler. Tedavi gansiklovir.
+- **HHV-8:** **Kaposi sarkomu**, primer efüzyon lenfoması ve multisentrik Castleman hastalığı.
+- **EBV:** Nakil sonrası lenfoproliferatif hastalık, AIDS'te primer SSS lenfoması, oral kıllı lökoplaki.
+- **JC virüsü:** Progresif multifokal lökoensefalopati (natalizumab, rituksimab).
+
+## 4. Sık karıştırılan çiftler
+| Çift | Ayırt ettiren özellik |
+| Nocardia – Actinomyces | Nocardia aerob, zayıf aside dirençli, beyin absesi, TMP-SMX; Actinomyces anaerob, aside dirençli değil, sülfür granülü, penisilin |
+| Nocardia – M. tuberculosis | Nocardia zayıf, tüberküloz basili güçlü aside dirençli; Nocardia dallanır |
+| Aspergillus – Mucorales | Aspergillus bölmeli ve dar açılı; Mucor bölmesiz ve dik açılı, diyabetik ketoasidozda |
+| Toksoplazmoz – primer SSS lenfoması | Toksoplazmoz çok sayıda halka tarzı lezyon, tedaviyle küçülür; lenfoma çoğunlukla tek, EBV DNA pozitif |
+| Cryptosporidium – Giardia | Cryptosporidium hücresel bağışıklık eksikliği, klora dirençli ookist; Giardia antikor eksikliği, kist ve trofozoit |
+|= Sık karıştırılan fırsatçı etkenler.
+!! Bu yılın soruları: kistik fibrozda nakli kısıtlayan etken **Burkholderia cepacia**; klora dirençli ookist **Cryptosporidium**; zayıf aside dirençli dallanan bakteri **Nocardia**; ileri AIDS'te yaygın hastalık **MAC**; nakil sonrası en sık viral etken **CMV**; Kaposi sarkomu **HHV-8**.

@@ -46,8 +46,8 @@
     <text x="235" y="88" text-anchor="middle">Muromonab-CD3</text>
     <text x="128" y="230" text-anchor="middle">Abatasept (CTLA-4-Ig)</text>
     <text x="360" y="88" text-anchor="middle">Siklosporin, takrolimus</text>
-    <text x="300" y="238" text-anchor="start">Basiliksimab (CD25)</text>
-    <text x="465" y="238" text-anchor="middle">Sirolimus, everolimus</text>
+    <text x="350" y="238" text-anchor="middle">Basiliksimab (CD25)</text>
+    <text x="465" y="292" text-anchor="middle">Sirolimus, everolimus</text>
     <text x="350" y="368" text-anchor="middle">Tofasitinib, barisitinib</text>
     <text x="592" y="395" text-anchor="middle">Azatioprin, MMF, metotreksat</text>
     <text x="600" y="232" text-anchor="middle">Glukokortikoidler</text>

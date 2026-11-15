@@ -1,0 +1,51 @@
+# Ayrıntılı anlatım: SLE ve Bağ Dokusu Hastalıkları | Lupusun patogenezi adım adım, organ tutulumlarının sıklık sırası, deri lezyonlarının ayrımı ve diğer bağ dokusu hastalıklarını birbirinden ayıran ipuçları.
+
+## 1. SLE neden olur? Çöp toplama sorunu
+SLE'yi anlamanın en kolay yolu onu bir “temizlik hastalığı” olarak düşünmektir.
+1. Vücutta her gün milyarlarca hücre apoptozla ölür. Ölen hücrenin çekirdek parçaları (DNA, histon, ribonükleoproteinler) normalde makrofajlarca, **erken kompleman proteinleri (C1q, C2, C4)** yardımıyla hızla ve sessizce temizlenir.
+2. Temizlik yetersizse (kompleman eksikliği, ultraviyole ışığın deride apoptozu artırması, genetik yatkınlık) çekirdek artıkları ortalıkta kalır.
+3. Bu artıklardaki DNA ve RNA, plazmasitoid dendritik hücrelerde ve B hücrelerinde **TLR7 ve TLR9** reseptörlerini uyarır; hücreler bol **tip I interferon** salgılar (“interferon imzası”).
+4. Tolerans zaten zayıf olan bireyde otoreaktif B hücreleri etkinleşir ve **antinükleer antikorlar** (ANA, anti-dsDNA, anti-Sm) yapılır.
+5. Antikorlar çekirdek antijenleriyle **immün kompleks** oluşturur; kompleksler böbrek, deri, eklem ve seroz zarlarda birikir, komplemanı tüketir (C3 ve C4 düşer) ve iltihap yapar (**tip III**).
+6. Bazı antikorlar da doğrudan hücre yüzeyine bağlanır: eritrosit (hemolitik anemi), trombosit, lökosit (**tip II**).
+7. Kadın cinsiyeti (östrojen; X kromozomundaki TLR7'nin iki kopya etkinliği) riski yaklaşık dokuz kat artırır; tipik hasta **15-45 yaşında kadındır**.
+?? SLE = “çöpü (çekirdek artıklarını) toplayamayan ve çöpe karşı antikor yapan bağışıklık”. Erken kompleman (C1q, C2, C4) eksikliği bu yüzden SLE'ye en güçlü tek gen yatkınlığıdır.
+
+## 2. Organ tutulumları ve sıklık sırası
+Sınavlar sıklık sorularını seviyor; “hangisi daha sık?” sorusunda genel kural: **eklem, deri ve hematolojik bulgular** en sık, ağır organ tutulumları daha seyrektir.
+| Sistem | Bulgular | Akılda tutma |
+| **Kas-iskelet** (%90'a varan) | Simetrik, en sık el küçük eklemlerinde artrit ve artralji; **eroziv değildir**; Jaccoud artropatisi (düzeltilebilir deformite); avasküler nekroz | “Eroziv artrit” SLE bulgusu değildir (S37) |
+| **Deri** (%80-90) | **Malar döküntü** (burun sırtını aşar, nazolabial oluğu korur, güneşle artar), ışık duyarlılığı, ağız yaraları (ağrısız), diskoid lezyonlar, saç dökülmesi | Malar döküntü trombositopeni ve hemolitik anemiden sıktır (S42) |
+| **Hematolojik** | Lökopeni ve **lenfopeni** (en sık), anemi (kronik hastalık ya da Coombs pozitif hemolitik), **trombositopeni**, lenfadenopati, splenomegali | **Trombositoz** SLE bulgusu değildir (S40) |
+| **Seroz zarlar** | **Plevrit ve plevral efüzyon** (en sık akciğer tutulumu, S31), perikardit (en sık kalp tutulumu) | |
+| **Böbrek** (%50) | Lupus nefriti; sınıf IV (diffüz proliferatif) en sık ve en ağır | Prognozu en çok belirleyen tutulum |
+| **Sinir sistemi** | Nöbet, psikoz, bilişsel bozukluk, inme | |
+| **Kalp** | Perikardit, Libman-Sacks (steril) endokarditi, erken ateroskleroz | |
+| **Akciğer (seyrek)** | Akut lupus pnömonisi, alveoler kanama, pulmoner hipertansiyon, “büzüşen akciğer” | |
+|= SLE organ tutulumları.
+### Lupus deri lezyonları: hangisi iz bırakır?
+| Lezyon | Özellik | İz ve saç kaybı |
+| **Akut kutanöz** (malar döküntü) | Kelebek dağılımlı, geçici, sistemik aktiviteyle paralel | **İz bırakmaz**; saç dökülmesi geçicidir |
+| **Subakut kutanöz** | Papüloskuamöz (psoriazis benzeri) ya da halka (anüler) lezyonlar, güneşe açık bölgeler; **anti-Ro** ile ilişkili | İz bırakmaz, renk değişikliği kalabilir |
+| **Kronik (diskoid)** | Kızarık, pullu, kıl köklerini tıkayan plaklar; ortası atrofik ve skarlı | **Skar ve kalıcı (skatrisyel) alopesi** (S36) |
+|= Lupus deri lezyonlarının ayrımı.
+?? “**D**iskoid **D**erin” iz bırakır: kıl folikülünü yıkar ve saç bir daha çıkmaz. Akut lezyon yüzeyseldir, saç geri gelir.
+
+## 3. Tanı ve takip
+- **ANA** duyarlıdır (%95'ten fazla pozitif), ama özgül değildir; negatif ANA SLE'yi büyük olasılıkla dışlar.
+- **Anti-dsDNA** ve **anti-Sm** özgüldür. **Anti-dsDNA** titresi ve **düşük C3/C4** hastalık aktivitesini (özellikle nefriti) gösterir; anti-Sm aktiviteyle değişmez.
+- 2019 EULAR/ACR ölçütleri: giriş koşulu ANA en az 1/80; ardından klinik ve immünolojik alanlardan puan toplanır.
+- **Antifosfolipid antikorlar** (lupus antikoagülanı, antikardiyolipin, anti-β2 glikoprotein I): tekrarlayan düşük, arter ve ven trombozu. Lupus antikoagülanı laboratuvarda aPTT'yi uzatır ama hastada **tromboz** yapar (adındaki “antikoagülan” yanıltıcıdır).
+- **Tedavi:** Her hastaya **hidroksiklorokin** (alevlenmeyi ve trombozu azaltır; yıllık göz muayenesi); aktiviteye göre glukokortikoid; ağır nefritte mikofenolat ya da siklofosfamid; belimumab (BAFF inhibitörü), anifrolumab (tip I interferon reseptör antikoru), rituksimab.
+### İlaca bağlı lupus
+**Prokainamid, hidralazin**, izoniazid, minosiklin, anti-TNF ilaçlar. **Anti-histon** antikor pozitiftir; böbrek ve sinir sistemi tutulumu nadirdir, anti-dsDNA genellikle negatiftir (anti-TNF hariç); ilaç kesilince düzelir.
+
+## 4. Diğer bağ dokusu hastalıkları
+| Hastalık | Ana bulgular | Antikor | Dikkat |
+| **Sistemik skleroz (skleroderma)** | **Raynaud** (çoğunlukla ilk bulgu), deri kalınlaşması, **sklerodaktili**, parmak ucu çukur skarları ve ülserler, **maske yüz**, telenjiektazi, özofagus dismotilitesi | **Antisentromer** (sınırlı form, CREST), **anti-Scl-70** (topoizomeraz I; yaygın form, akciğer fibrozu), anti-RNA polimeraz III (böbrek krizi) | Skleroderma böbrek krizi: ACE inhibitörü hayat kurtarır |
+| **Sjögren sendromu** | Göz ve ağız kuruluğu (lakrimal ve tükürük bezlerinde lenfosit infiltrasyonu), tükürük bezi büyümesi | **Anti-Ro (SS-A)**, **anti-La (SS-B)**, RF | **Lenfoma riski** belirgin artar (MALT lenfoma; S39) |
+| **Polimiyozit, dermatomiyozit** | **Proksimal** kas güçsüzlüğü (merdiven çıkamama, saç tarayamama), CK yüksek; dermatomiyozitte heliotrop döküntü ve Gottron papülleri | **Anti-Jo-1** (antisentetaz sendromu: miyozit, interstisyel akciğer hastalığı, “mekanik eli”, Raynaud, artrit); anti-Mi-2 | Dermatomiyozitte gizli kanser araştırılır |
+| **Karma bağ dokusu hastalığı** | SLE, skleroderma ve miyozit bulgularının birlikteliği, Raynaud, şiş eller | Yüksek titre **anti-U1 RNP** | |
+| **Antifosfolipid sendromu** | Tromboz, gebelik kayıpları (10. haftadan sonra fetal ölüm), trombositopeni, livedo | Lupus antikoagülanı, antikardiyolipin, anti-β2GPI | 12 hafta arayla iki kez pozitif olmalı |
+|= Bağ dokusu hastalıklarının karşılaştırması.
+!! Bu yılın vaka sorusu (S38): Raynaud, parmak uçlarında çukur skarlar, sklerodaktili, maske yüz, telenjiektazi ve **sentromer paterninde ANA** → **sistemik skleroz** (sınırlı kutanöz form; CREST: kalsinozis, Raynaud, özofagus dismotilitesi, sklerodaktili, telenjiektazi).

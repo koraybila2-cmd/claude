@@ -1,0 +1,23 @@
+# Bu baskı hakkında | Kısaltılmış tek kitabın ayrıntılı anlatımla genişletilmiş hâli.
+
+## Ne değişti?
+Kitabın soru kartları ve kısa konu tekrarları olduğu gibi duruyor. Anlaşılması zor ve sınavda sık sorulan bölümlerin sonuna **“Ayrıntılı anlatım”** başlıklı yeni sayfalar eklendi. Bu sayfalar mekanizmaları adım adım anlatıyor, yan etkilerin ve bulguların nedenini açıklıyor, karşılaştırma tabloları ve ezber ipuçları veriyor.
+| Bölüm | Konu | Ek |
+| 1 | Akılcı ilaç kullanımı | Değişmedi (mevcut anlatım yeterli) |
+| 2 | İmmünsüpresif ve biyolojik ilaçlar | **En kapsamlı ek:** T hücre aktivasyon şeması, her ilaç grubunun mekanizması ve yan etki nedenleri, biyolojik ilaç adlandırma kuralları, JAK-STAT |
+| 3 | Kortikosteroidler | Eksen, genomik etki, mineralokortikoid sıralaması, yan etkilerin nedenleri, steroid sentez inhibitörleri |
+| 4 | Fırsatçı enfeksiyonlar | Savunma kolu – etken eşleşmesi, CD4 basamakları, karıştırılan etken çiftleri |
+| 5 | Glomerüler hastalıklar | Filtrasyon bariyeri şeması, immün kompleks yerleşimi, nefritik ve nefrotik mekanizma, hastalık karşılaştırması |
+| 6 | Aşırı duyarlılık ve anafilaksi | Dört tipin adım adım gelişimi, adrenalinin etki mantığı, tip IV alt tipleri |
+| 7 | Tolerans ve otoimmünite | Santral ve periferik tolerans, tek gen defektleri, HLA ilişkileri |
+| 8 | Artritler | İltihaplı ve mekanik ağrı, eklem sıvısı, kristal artritleri, spondiloartritler |
+| 9 | SLE ve bağ dokusu hastalıkları | Patogenez, organ tutulum sıklıkları, deri lezyonları, bağ dokusu hastalıkları karşılaştırması |
+| 10 | Otoantikorlar ve ANA testi | Testin yapılışı ve paternlerin mantığı, duyarlılık-özgüllük, ANCA, antifosfolipid sendromu |
+|= Bölüm bölüm eklenen ayrıntılı anlatımlar.
+
+## Nasıl çalışmalı?
+1. Önce bölümün başındaki **bu yılın ve geçen yılın sorularını** çözün.
+2. Ardından **kısa konu tekrarını** okuyun.
+3. Takıldığınız ya da ezberlemekte zorlandığınız yerde **ayrıntılı anlatıma** geçin; her bölümün ayrıntılı anlatımı, o bölümün son sayfasından hemen sonra başlar. PDF'in yer imleri (bookmarks) bölümden bölüme geçmeyi kolaylaştırır.
+!! “Sınav notu” kutuları çıkmış sorularda doğrudan kullanılan bilgiyi ve en sık çeldiricileri gösterir.
+?? “Ezber ipucu” kutuları kısaltma, benzetme ve kodlamalarla akılda tutmayı kolaylaştırır.

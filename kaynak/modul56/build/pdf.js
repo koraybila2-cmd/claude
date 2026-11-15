@@ -2,7 +2,7 @@ const path = require("path");
 const { chromium } = require("playwright");
 const [, , inputPath, outputPath, title] = process.argv;
 (async () => {
-  const browser = await chromium.launch({ executablePath: "/opt/pw-browsers/chromium-1194/chrome-linux/chrome" });
+  const browser = await chromium.launch();
   const page = await browser.newPage();
   await page.goto("file://" + path.resolve(inputPath), { waitUntil: "networkidle" });
   await page.evaluate(() => document.fonts.ready);

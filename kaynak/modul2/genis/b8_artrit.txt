@@ -1,0 +1,74 @@
+# Ayrıntılı anlatım: Eklem Yakınmasına Yaklaşım ve Artritler | Eklem ağrısında üç soruyla tanıya yaklaşma, iltihaplı ve iltihapsız ağrının mantığı, kristal artritlerin mekanizması ve spondiloartritlerin ayırt edici özellikleri.
+
+## 1. Üç soruda tanıya yaklaşım
+Eklem yakınması olan hastada tanı çoğu kez laboratuvardan önce, şu üç sorunun cevabıyla daralır:
+1. **İltihaplı mı, iltihapsız (mekanik) mı?**
+2. **Kaç eklem?** Tek eklem (monoartrit), 2-4 eklem (oligoartrit), 5 ve üstü (poliartrit).
+3. **Ne kadar süredir?** Altı haftadan kısa akut, uzun kronik.
+### İltihaplı ağrı neden sabah kötüdür?
+Gece hareketsizlikte sinovyumdan sızan iltihaplı sıvı ve sitokinler eklemde birikir; eklem “jelleşir”. Hareketle sıvı lenf yoluyla temizlenir, sertlik çözülür. Mekanik (dejeneratif) ağrıda ise sorun yük taşıyan kıkırdağın aşınmasıdır; eklem kullanıldıkça ağrı artar, dinlenince azalır.
+| Özellik | İltihaplı | İltihapsız (mekanik) |
+| Sabah tutukluğu | **30-60 dakikadan uzun** | **30 dakikadan kısa** |
+| Hareketle | Azalır | Artar |
+| İstirahatle | Artar ya da değişmez | **Azalır** |
+| Şişlik | **Yumuşak doku şişliği**, sıcaklık, kızarıklık | Kemik büyümesi (osteofit), sert şişlik |
+| Sistemik bulgu | Ateş, yorgunluk, kilo kaybı | Yok |
+| Laboratuvar | Sedimantasyon ve CRP yüksek, anemi | Normal |
+| Eklem sıvısı lökositi | 2.000/mm³'ten fazla | 2.000/mm³'ten az |
+|= İltihaplı ve iltihapsız eklem ağrısının ayrımı.
+Bu yılın S32'sinde iltihapsız ağrı için doğru öncüller **I** (sabah tutukluğu 30 dakikadan kısa) ve **III** (istirahatle azalma) idi; yumuşak doku şişliği iltihabı gösterir.
+### Eklem sayısı ve süreye göre ayırıcı tanı
+| | İltihaplı | İltihapsız |
+| **Akut monoartrit** | **Septik artrit** (ilk dışlanacak), gut, psödogut, reaktif artrit, travmaya bağlı kanama | **Osteoartrit** alevlenmesi, travma, hemartroz, osteonekroz |
+| **Kronik monoartrit ya da oligoartrit** | Tüberküloz ve mantar artriti, spondiloartritler, juvenil idiyopatik artrit | Osteoartrit, pigmente villonodüler sinovit |
+| **Poliartrit** | **Romatoid artrit**, SLE, psoriatik artrit, viral artrit (parvovirüs B19, hepatit B ve C, kızamıkçık) | Osteoartrit (el), hemokromatoz |
+|= Eklem tutulum sayısına göre ayırıcı tanı.
+!! Akut sıcak ve şiş tek eklemde **eklem sıvısı aspirasyonu** (hücre sayımı, Gram boyası, kültür, kristal) yapılmadan septik artrit dışlanamaz; çünkü saatler içinde kıkırdak yıkılır.
+
+## 2. Eklem sıvısı analizi
+| Tür | Görünüm | Lökosit/mm³ | Nötrofil | Örnek |
+| Normal | Berrak, viskoz | < 200 | < %25 | |
+| İltihapsız | Berrak, sarı | 200-2.000 | < %25 | Osteoartrit, travma |
+| İltihaplı | Bulanık | 2.000-50.000 | > %50 | RA, gut, psödogut, spondiloartrit |
+| Septik | Pürülan | > 50.000 (çoğu kez > 100.000) | > %75 | Bakteriyel artrit |
+| Hemorajik | Kanlı | | | Travma, hemofili, pigmente villonodüler sinovit |
+|= Eklem sıvısı sınıflaması.
+
+## 3. Kristal artritleri
+### Gut: monosodyum ürat
+1. Ürik asit, pürinlerin son yıkım ürünüdür; serumda yaklaşık 6,8 mg/dL üzerinde çözünürlük sınırı aşılır.
+2. Kristaller **soğuk** ve az kanlanan eklemlerde (ayak başparmağı, birinci MTF eklemi: **podagra**) ve pH'nın düştüğü durumlarda çöker.
+3. Makrofaj kristali yutar; hücre içindeki **NLRP3 inflamazomu** etkinleşir ve **IL-1β** salınır. IL-1β nötrofilleri çağırır; ani, çok ağrılı akut artrit gelişir.
+4. Polarize mikroskopta **iğne şeklinde, negatif çift kırılımlı** kristaller.
+5. Tetikleyiciler: alkol (özellikle bira), kırmızı et ve deniz ürünü, fruktozlu içecekler, diüretikler (tiyazid, kıvrım), düşük doz aspirin, siklosporin, dehidratasyon, ameliyat; ürik asidi düşüren tedavinin başlangıcı da atak yapabilir.
+6. Tedavi: atakta NSAİİ, **kolşisin** (nötrofil mikrotübüllerini bozar), glukokortikoid; dirençte IL-1 blokajı. Uzun dönemde **allopurinol** ve febuksostat (ksantin oksidaz inhibitörleri), probenesid (ürikozürik). Allopurinolün azatioprinle etkileşimini unutmayın (Bölüm 2).
+### Kalsiyum pirofosfat (CPPD) hastalığı, psödogut
+- **Rombik, zayıf pozitif çift kırılımlı** kristaller; daha çok **diz** ve el bileği.
+- Radyografide kıkırdakta kalsifikasyon: **kondrokalsinozis**.
+- Genellikle 60 yaş üstünde; genç hastada altta yatan metabolik hastalık aranır: **hiperparatiroidi**, **hemokromatoz**, **hipomagnezemi**, **hipofosfatazya**, ayrıca hipotiroidi ve ailesel formlar.
+- **Hipertiroidi** CPPD ile ilişkili değildir (S33; 2018-19'da da aynı cevap).
+?? Kristalleri karıştırmamak için: **gut = iğne, negatif, ayak başparmağı**; **psödogut = rombik (dikdörtgen), pozitif, diz**. “**P**södogut **P**ozitif, **P**aratiroid.”
+
+## 4. Romatoid artrit ve osteoartrit: iki karşıt tablo
+| | Romatoid artrit | Osteoartrit |
+| Temel sorun | Sinovyum iltihabı (otoimmün) | Kıkırdak aşınması (dejeneratif) |
+| El eklemleri | **MKF ve PIF**, el bileği; **DIF korunur** | **DIF (Heberden)** ve PIF (Bouchard) nodülleri, başparmak kökü |
+| Dağılım | Simetrik poliartrit | Yük taşıyan eklemler (diz, kalça), asimetrik |
+| Sabah tutukluğu | > 1 saat | < 30 dakika |
+| Laboratuvar | RF, **anti-CCP**, CRP yüksek | Normal |
+| Radyografi | Eklem çevresi osteopeni, **marjinal erozyon**, simetrik daralma | Asimetrik daralma, **osteofit**, subkondral skleroz ve kist |
+| Eklem dışı | Romatoid nodül, interstisyel akciğer hastalığı, Sjögren, vaskülit, Felty | Yok |
+|= Romatoid artrit ile osteoartritin karşılaştırması.
+Romatoid artritte sinovyum kalınlaşıp **pannus** denen iltihaplı dokuya dönüşür; pannus kıkırdağı ve kemiği yer. RANKL artışı osteoklastları uyarır ve erozyon gelişir. Tedavi erken ve hedefe yönelik yapılır: metotreksat ile başlanır, yanıtsızlıkta biyolojik ilaçlar (anti-TNF, abatasept, tosilizumab, rituksimab) ya da JAK inhibitörleri eklenir (Bölüm 2).
+
+## 5. Spondiloartritler: HLA-B27 ailesi
+Ortak özellikler: **RF negatif (seronegatif)**, HLA-B27 ile ilişki, **sakroiliit** ve omurga tutulumu, alt ekstremitede asimetrik oligoartrit, **entezit** (tendonun kemiğe yapıştığı yerde iltihap; Aşil tendinit, plantar fasiit), **daktilit** (sosis parmak), akut ön üveit.
+| Hastalık | Ayırt ettirici özellik |
+| **Ankilozan spondilit** | Genç erkek, **iltihaplı bel ağrısı** (gece ve sabah kötü, hareketle düzelir), sakroiliit, “bambu kamışı” omurga, Schober testinde kısıtlılık |
+| **Psoriatik artrit** | Psoriazis (bazen artritten sonra çıkar; saçlı deri, göbek, tırnak çukurcukları), **DIF tutulumu**, daktilit, asimetrik oligoartrit, sakroiliit, “kalem-hokka” deformitesi |
+| **Reaktif artrit** | Üretrit (Chlamydia) ya da ishalden (Salmonella, Shigella, Campylobacter, Yersinia) 1-4 hafta sonra artrit, konjonktivit, üretrit; keratoderma blenorajikum |
+| **Enteropatik artrit** | Crohn ya da ülseratif kolitle birlikte; periferik artrit bağırsak aktivitesine paralel |
+|= Spondiloartritlerin ayırt edici özellikleri.
+### Bu yılın vaka sorusu (S45)
+35 yaşında kadında ayak bilekleri, diz ve **DIF** eklemlerinde artrit, **sakroiliak tutulum** ve deride döküntü: DIF tutulumu ve sakroiliit birlikteliği **psoriatik artriti** düşündürür. RA'da DIF korunur ve sakroiliit yoktur; SLE eroziv olmayan küçük eklem artriti yapar.
+!! Akut iltihapsız monoartritin tipik nedeni **osteoartrittir** (S41); reaktif, septik ve kristal artritleri iltihaplıdır.

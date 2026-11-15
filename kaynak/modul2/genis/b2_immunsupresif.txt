@@ -88,7 +88,7 @@ Pirimidin sentezinde dihidroorotat dehidrogenazı baskılar; romatoid artritte m
 Biyolojik ilaçların adları rastgele değildir; son ekleri ilacın ne olduğunu söyler. Bu kuralı bilmek sınavda şık elemeyi çok kolaylaştırır.
 | Son ek | Anlamı | Örnek |
 | **-mab** | Monoklonal antikor | rituksimab, adalimumab |
-| -**xi**mab | Kimerik (fare değişken bölge + insan sabit bölge); immünojenitesi daha yüksek | inf**li**ksimab, ritu**ksi**mab, basili**ksi**mab |
+| -**xi**mab | Kimerik (fare değişken bölge + insan sabit bölge); immünojenitesi daha yüksek | infli**ksi**mab, ritu**ksi**mab, basili**ksi**mab |
 | -**zu**mab | İnsanlaştırılmış (yalnız antijen bağlayan küçük bölge fare) | tosili**zu**mab, natali**zu**mab, omali**zu**mab |
 | -**u**mab | Tamamen insan | adalim**u**mab, golim**u**mab, kanakin**u**mab, ustekin**u**mab |
 | **-cept** | Füzyon proteini (reseptör + IgG Fc) | etaner**cept**, abata**cept** |

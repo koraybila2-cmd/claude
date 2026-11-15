@@ -1,0 +1,88 @@
+# Ayrıntılı anlatım: Kortikosteroidler | Kısa konu tekrarındaki tabloların arkasındaki mantık: eksen nasıl çalışır, ilaç hücrede ne yapar, her yan etki nereden gelir, ilaç neden yavaş kesilir ve steroid sentezini baskılayan ilaçlar nerede etki eder.
+
+## 1. Hipotalamus-hipofiz-böbreküstü ekseni: termostat benzetmesi
+Kortizol düzeyi bir termostat gibi ayarlanır. Hipotalamus **CRH** salgılar, CRH ön hipofizden **ACTH** salgılatır, ACTH böbreküstü korteksinin zona fasikülatasından **kortizol** salgılatır. Kortizol yükselince hem hipotalamusu hem hipofizi baskılar (negatif geri bildirim) ve CRH ile ACTH düşer.
+1. **Günlük ritim:** Kortizol sabaha karşı yükselir, uyanınca en yüksektir, gece yarısı en düşüktür. Bu yüzden yerine koyma tedavisinde dozun **üçte ikisi sabah, üçte biri öğleden sonra** verilir; uzun süreli tedavide ilacı sabah tek dozda vermek ekseni en az baskılar.
+2. **Ölçülen “sıcaklık” serbest kortizoldür:** Plazmadaki kortizolün yaklaşık %90'ı proteine (çoğu transkortine, biraz albümine) bağlıdır. Eksen yalnızca serbest kortizolü algılar. Transkortin artınca (gebelik, östrojen) daha çok kortizol bağlanır, serbest kortizol bir an düşer, ACTH artar ve serbest kortizol eski düzeyine döner: **toplam ve bağlı kortizol yüksek, serbest kortizol normal.** Bu, bu yılın S12 sorusunun mantığıdır.
+3. **Dışarıdan steroid verilince:** Termostat yüksek düzeyi algılar ve CRH ile ACTH'yi kapatır. ACTH uyarısı olmayan böbreküstü korteksi haftalar içinde **körelir (atrofi)**. Bu hasta artık kendi kortizolünü yapamaz; ilaç aniden kesilirse **akut adrenal yetmezlik** gelişir (bkz. bölüm 5).
+?? “Gebelikte kortizol yüksek görünür ama hasta Cushing değildir”: yükselen transkortine bağlı kısımdır, serbest kortizol sabittir.
+
+## 2. Hücre içinde ne olur? Genomik etki adım adım
+1. Kortizol yağda çözündüğü için hücre zarından kolayca geçer.
+2. Sitoplazmada **glukokortikoid reseptörüne** bağlanır. Reseptör boşken ısı şoku proteinlerine (HSP90) bağlı ve etkisizdir; hormon bağlanınca bu proteinlerden ayrılır.
+3. Hormon-reseptör kompleksi **çekirdeğe geçer**.
+4. **Transaktivasyon:** DNA'daki glukokortikoid yanıt elemanlarına bağlanır ve bazı genleri açar. Açılan genler arasında **anneksin A1 (lipokortin)**, IκB (NF-κB'yi tutan protein), β2 adrenerjik reseptör ve glukoneogenez enzimleri vardır. Metabolik yan etkilerin çoğu bu yoldan gelir.
+5. **Transrepresyon:** Kompleks **NF-κB** ve **AP-1**'e yapışıp onları etkisiz bırakır. Bu iki faktörün açtığı genler (IL-1, IL-2, IL-6, TNF-α, COX-2, indüklenebilir NO sentaz, adezyon molekülleri) kapanır. Antiinflamatuvar ve immünsüpresif etkinin büyük kısmı buradan gelir.
+6. Gen yazılımı ve yeni protein yapımı zaman aldığı için **etki birkaç saatte başlar.** Anafilakside steroid ilk ilaç değildir; ilk ilaç adrenalindir.
+### Araşidonik asit yolu: steroid NSAİİ'den bir basamak yukarıdadır
+Zar fosfolipitleri → (**fosfolipaz A2**) → araşidonik asit → iki kola ayrılır: siklooksijenaz (COX) kolu prostaglandin ve tromboksan, lipoksijenaz kolu lökotrien yapar.
+- **Glukokortikoid** anneksin A1'i artırır, anneksin A1 **fosfolipaz A2'yi** baskılar: araşidonik asit hiç serbestleşmez, **iki kol birden** kapanır. Ayrıca COX-2 yapımını da azaltır.
+- **NSAİİ** yalnız COX'u baskılar; lökotrien kolu açık kalır (aspirine duyarlı astımın mantığı).
+!! Sınavda iki yönlü sorulur: doğru şık “anneksin A1 artışıyla fosfolipaz A2 baskılanır”; yanlış şık “anneksin 1 azalır”, “COX-1 artar”, “fosfolipaz C artar”, “histamin salınımını artırır”.
+### Kan hücrelerine etkisi
+- **Nötrofil artar:** Damar duvarına yapışık (marjinal) nötrofiller dolaşıma geçer ve dokuya çıkışları azalır. Sayı artar ama işlev (yapışma, göç) azalır.
+- **Lenfosit, eozinofil, monosit, bazofil azalır:** Lenf dokularına geri çekilirler, eozinofiller apoptoza gider. Bu yüzden steroid lenfoma ve lösemi tedavisinde, eozinofilik hastalıklarda ve astımda etkilidir.
+
+## 3. Mineralokortikoid etki: neden bazı steroidler tuz tutar?
+Kortizol, mineralokortikoid reseptörüne aldosteron kadar güçlü bağlanır ve kanda aldosterondan yüzlerce kat fazladır. Böbrek reseptörü aldosterona nasıl ayrılır? **11β-hidroksisteroid dehidrogenaz tip 2** enzimi toplayıcı kanal hücresinde kortizolü inaktif **kortizona** çevirir; reseptör aldosterona kalır.
+- Bu enzim **meyan kökü (glisirizin)** ile ya da genetik eksiklikle baskılanırsa kortizol reseptörü uyarır: hipertansiyon ve hipokalemi gelişir (görünür mineralokortikoid fazlalığı).
+- Çok yüksek doz hidrokortizon enzimi doyurur ve tuz tutar.
+- Sentetik steroidlerde yapı değiştirilerek mineralokortikoid etki azaltılmıştır: **9α-flor** eklenmesi her iki etkiyi artırır (fludrokortizon), **16. karbona metil ya da hidroksil** eklenmesi mineralokortikoid etkiyi yok eder (deksametazon, betametazon, triamsinolon).
+| İlaç | Antiinflamatuvar güç | Mineralokortikoid güç | Etki süresi |
+| Hidrokortizon | 1 | 1 | Kısa (8-12 saat) |
+| Prednizon, prednizolon | 4 | 0,8 | Orta (12-36 saat) |
+| Metilprednizolon | 5 | 0,5 | Orta |
+| Triamsinolon | 5 | 0 | Orta |
+| Deksametazon, betametazon | 25-30 | 0 | Uzun (36-72 saat) |
+| Fludrokortizon | 10 | **125-250** | Orta |
+|= Glukokortikoidlerin karşılaştırması. Sayılar hidrokortizona göre görelidir.
+?? Mineralokortikoid gücü azalan sıra: **F**ludrokortizon > **H**idrokortizon > **P**rednizolon > **M**etilprednizolon > **D**eksametazon/betametazon (sıfır). “**F**ırtına **H**er **P**azar **M**asayı **D**ağıtır.” Antiinflamatuvar güç ve süre ise ters yönde artar: deksametazon en güçlü ve en uzun etkili.
+### Hangi durumda hangi steroid?
+- **Adrenal yetmezlikte yerine koyma:** hidrokortizon (hem glukokortikoid hem mineralokortikoid etki); primer yetmezlikte aldosteron da eksik olduğu için **fludrokortizon** eklenir.
+- **Uzun süreli antiinflamatuvar tedavi:** prednizon/prednizolon (orta süreli, sabah tek doz ekseni daha az baskılar).
+- **Beyin ödemi (tümör çevresi), deksametazon baskılama testi, ACTH'yi baskılama (konjenital adrenal hiperplazi):** deksametazon (uzun etkili, tuz tutmaz).
+- **Erken doğum tehdidinde fetal akciğer olgunlaşması:** betametazon ya da deksametazon; plasentadaki 11β-HSD2 bunları yıkamaz, fetusa ulaşırlar. Prednizolon plasentada büyük ölçüde etkisizleştirilir; bu yüzden anne hastalığı için gebelikte tercih edilir.
+- **Ağır alevlenmede “pulse” tedavi** (lupus nefriti, vaskülit, multipl skleroz atağı, akut nakil reti): intravenöz yüksek doz metilprednizolon.
+- **Yerel kullanım:** budesonid ve flutikazon (inhaler, burun spreyi); budesonid ağızdan alınınca karaciğerde ilk geçişte büyük ölçüde yıkıldığı için bağırsakta yerel etkili olur, sistemik yan etkisi azdır.
+### Önilaçlar
+**Prednizon** ve **kortizon** önilaçtır; karaciğerde 11β-HSD1 enzimiyle aktif prednizolon ve hidrokortizona dönüşür. Ağır karaciğer yetersizliğinde doğrudan prednizolon tercih edilir. Bu yılın S13'ündeki yanlış öncül tam bunu tersine çevirmişti (“prednizolon önilaçtır” yanlış).
+
+## 4. Yan etkiler: her birinin nedeni
+Yan etkileri ezberlemek yerine “kortizol stres hormonudur; vücudu kısa vadede enerji bulmaya, uzun vadede yapım yerine yıkıma yönlendirir” fikrinden türetmek daha kolaydır.
+| Sistem | Yan etki | Neden |
+| Metabolizma | Hiperglisemi, steroid diyabeti | Glukoneogenez artar, kas ve yağda insüline direnç gelişir |
+| Yağ dokusu | Aydede yüz, ense yağlanması (buffalo hump), gövde şişmanlığı | Yağın yeniden dağılımı; iştah artar |
+| Protein | Kas erimesi (proksimal miyopati), ince deri, mor stria, kolay morarma, yara iyileşmesinde gecikme | Protein yıkımı artar, kollajen yapımı azalır |
+| Kemik | **Osteoporoz** (en sık ciddi uzun dönem etkisi), avasküler (aseptik) femur başı nekrozu | Osteoblast baskılanır, bağırsaktan kalsiyum emilimi azalır, böbrekten atılımı artar |
+| Bağışıklık | Enfeksiyon, **latent tüberküloz reaktivasyonu**, fırsatçı enfeksiyonlar (Pneumocystis, kandida), aşı yanıtında azalma | Sitokin ve lenfosit baskılanması |
+| Göz | Arka subkapsüler **katarakt**, glokom; herpetik keratitin kötüleşmesi | |
+| Kardiyovasküler ve böbrek | Hipertansiyon, ödem, **hipokalemi**, metabolik alkaloz | Mineralokortikoid etki (hiperkalemi değil hipokalemi) |
+| Mide | Peptik ülser riski (özellikle NSAİİ ile birlikte) | Prostaglandinin koruyucu etkisi azalır |
+| Sinir sistemi | Uykusuzluk, öfori, psikoz, depresyon | |
+| Çocuk | Büyüme geriliği | Büyüme hormonu ve epifiz etkisi |
+| Endokrin | Eksen baskılanması, kesilince adrenal yetmezlik | Negatif geri bildirim |
+|= Uzun süreli glukokortikoid tedavisinin yan etkileri ve mekanizmaları.
+!! Mutlak ya da güçlü kontrendikasyonlar: **aktif tüberküloz**, **herpes simpleks keratiti** (kornea delinebilir), sistemik mantar enfeksiyonu. Çıkmış sorularda “glukokortikoid antiinflamatuvar etkisinden dolayı tüberküloz tedavisinde kullanılır” yanlış şıktı (tüberküloz menenjiti ve perikarditinde antitüberküloz tedaviye **ek olarak** verilir, tek başına asla).
+?? Yan etkileri “**CUSHINGOID**” ile hatırlayın: **C**ataract, **U**lcer, **S**kin (ince deri, stria), **H**ypertension, **I**nfection, **N**ecrosis (femur başı), **G**lucose (hiperglisemi), **O**steoporoz, **I**mmünsüpresyon, **D**iyabet/depresyon.
+
+## 5. İlaç neden yavaş azaltılır?
+Üç haftadan uzun, günde 20 mg prednizolon ya da eşdeğerinden yüksek dozla tedavi edilen hastada eksen baskılanmış kabul edilir. Doz basamak basamak azaltılır; amaç hem hastalığın alevlenmesini önlemek hem de körelmiş böbreküstü korteksinin yeniden uyanmasına zaman tanımaktır.
+- **Aniden kesilirse:** halsizlik, bulantı, hipotansiyon, hipoglisemi, ağır olguda şok (akut adrenal yetmezlik). Çıkmış soruda “Addison benzeri tablo yüksek doz kullanımda olur” yanlıştı; yüksek doz kullanım **Cushing** benzeri tablo yapar, Addison benzeri tablo **kesilince** olur.
+- **Stres dozu:** Uzun süre steroid alan hastada ameliyat, ağır enfeksiyon ya da travmada doz geçici olarak artırılır; baskılanmış böbreküstü stres anında ek kortizol salgılayamaz.
+- **Akut adrenal yetmezlik tedavisi:** hemen **yüksek doz intravenöz hidrokortizon** (yüksek dozda mineralokortikoid etkisi de yeterlidir) ve bol serum fizyolojik; “düşük dozla başlayıp yavaş artırmak” yanlıştır.
+
+## 6. Steroid sentezini ve etkisini baskılayan ilaçlar
+Cushing sendromu kortizol fazlalığıdır; tedavide kortizolün yapımı ya da etkisi zincirin farklı noktalarından kesilir. Sentez sırasını bilmek eşleştirme sorularını çözmenin anahtarıdır: kolesterol → (yan zincir yıkım enzimi, CYP11A1) → pregnenolon → … → 11-deoksikortizol → (**11β-hidroksilaz**, CYP11B1) → kortizol.
+| İlaç | Etki noktası | Akılda tutma |
+| **Pasireotid** | **Hipofizdeki somatostatin reseptörleri** (özellikle SSTR5) → ACTH salgısı azalır | Hipofiz kaynaklı Cushing hastalığı; hiperglisemi yapar |
+| Kabergolin | Hipofizdeki dopamin D2 reseptörü → ACTH azalır | Bazı hipofiz adenomlarında |
+| **Aminoglutetimid** | Kolesterol → pregnenolon basamağı (CYP11A1); tüm steroidler azalır, ayrıca aromatazı baskılar | Zincirin **en başı** |
+| **Ketokonazol** | Birçok CYP basamağı (yan zincir yıkımı, 17α-hidroksilaz, 11β-hidroksilaz) | Antifungal olup steroid sentezini baskılar; karaciğer toksisitesi |
+| **Metirapon** | **11β-hidroksilaz** → 11-deoksikortizol birikir | Metirapon testi; gebelikte kullanılabilen seçenek |
+| Osilodrostat | 11β-hidroksilaz (ve aldosteron sentazı) | Yeni, ağızdan |
+| **Etomidat** | 11β-hidroksilaz | İntravenöz anestezik; tek dozda bile kortizolü baskılar, ağır olguda damardan |
+| **Mitotan** | Adrenal kortekste hücre yıkımı (**adrenolitik**) | Adrenal karsinom |
+| **Mifepriston** | **Glukokortikoid reseptör antagonisti** (yüksek dozda), progesteron reseptör antagonisti | Kortizol yüksek kalır ama etkisi kesilir |
+| Spironolakton, **eplerenon** | Mineralokortikoid (aldosteron) reseptör antagonisti | Eplerenon daha seçici; jinekomasti yapmaz |
+|= Steroid sentez ve etki inhibitörleri: sınavda en çok sorulan eşleştirmeler kalın yazıldı.
+?? Zincirin başından sonuna: **“Pasi hipofizde, Amino başta, Keto her yerde, Meti-Eto sonda, Mito yakar, Mife reseptörde.”**

@@ -1,0 +1,92 @@
+# Ayrıntılı anlatım: Aşırı Duyarlılık ve Anafilaksi | Dört reaksiyon tipini birbirinden ayıran tek soru, her tipin adım adım nasıl geliştiği, hastalık eşleştirmeleri ve anafilakside adrenalinin neden ilk ve en önemli ilaç olduğu.
+
+## 1. Dört tipi ayırmanın anahtarı: “Hasarı kim yapıyor?”
+Aşırı duyarlılık, normalde koruyucu olan bağışıklık yanıtının aşırı ya da yanlış hedefe yönelmesiyle doku hasarı oluşmasıdır. Gell ve Coombs sınıflaması hasarı başlatan elemana göre yapılır. Bir hastalığın tipini bulmak için şu sırayla sorun:
+1. Hasar dakikalar içinde mi başlıyor ve IgE ile mast hücresi mi işin içinde? → **Tip I.**
+2. Antikor (IgG ya da IgM) **hücre yüzeyindeki ya da dokudaki sabit** bir antijene mi bağlanıyor? → **Tip II.**
+3. Antikor **dolaşımdaki çözünür** antijenle kompleks yapıp kompleks damar duvarına mı çöküyor? → **Tip III.**
+4. Antikor hiç yok, hasarı **T lenfositi** mi yapıyor? → **Tip IV.**
+| | Tip I (hemen tip) | Tip II (antikor aracılı) | Tip III (immün kompleks) | Tip IV (gecikmiş, hücresel) |
+| Aracı | IgE, mast hücresi, bazofil | IgG, IgM + hücre yüzeyi antijeni | IgG, IgM + çözünür antijen | T lenfosit (CD4, CD8) |
+| Hasar yapan | Histamin, lökotrien, prostaglandin | Kompleman, fagositoz, NK hücresi; reseptör işlev bozukluğu | Kompleman, nötrofil | Makrofaj, eozinofil, sitotoksik T, nötrofil |
+| Başlangıç | Dakikalar | Saatler-günler | Günler (1-2 hafta) | 24-72 saat |
+| Örnek | Anafilaksi, alerjik rinit, astım, ürtiker | Transfüzyon reaksiyonu, otoimmün hemolitik anemi, Goodpasture, **Graves**, **myastenia gravis** | **SLE**, serum hastalığı, Arthus, poststreptokokal GN, poliarteritis nodoza | Tüberkülin testi, kontakt dermatit, sarkoidoz, tip 1 diyabet, multipl skleroz |
+|= Aşırı duyarlılık tipleri karşılaştırması.
+!! Kompleman tip II ve III'te hasarın **aracıdır**, ama **tek başına** bir aşırı duyarlılık mekanizması değildir (bu yılın S27'si). Tip IV'ün diğerlerinden en önemli farkı **antikor olmaması, T lenfosit aracılı olmasıdır** (S29).
+
+## 2. Tip I: adım adım
+### Duyarlanma (ilk karşılaşma, belirti yok)
+1. Alerjen (polen, ilaç, gıda proteini, arı zehri) mukozadan girer ve dendritik hücre tarafından CD4 T hücresine sunulur.
+2. Genetik yatkınlığı olan kişide (atopi) T hücresi **Th2** yönüne farklanır.
+3. Th2 hücresi **IL-4** (ve IL-13) ile B hücresinde **IgE'ye sınıf değişimini**, **IL-5** ile eozinofil yapımını ve etkinleşmesini uyarır.
+4. Yapılan IgE, Fc parçasıyla mast hücresi ve bazofillerin yüzeyindeki yüksek afiniteli **FcεRI** reseptörüne oturur. Kişi artık “duyarlanmıştır.” Bu basamakta özgül IgG değil **IgE** oluşur (çıkmış yanlış şık).
+### Erken (hemen) faz: dakikalar içinde
+1. Aynı alerjen yeniden gelir ve mast hücresi yüzeyindeki iki IgE molekülünü **çapraz bağlar**.
+2. Hücre içi kalsiyum yükselir, granüller dışarı boşalır (**degranülasyon**).
+3. Hazır mediyatörler: **histamin** (damar geçirgenliği artar, düz kas kasılır, kaşıntı), triptaz (laboratuvarda anafilaksinin göstergesi), heparin.
+4. Yeni yapılan lipid mediyatörler: **lökotrien C4, D4, E4** (histaminden çok daha güçlü ve uzun süreli bronkokonstriksiyon), **prostaglandin D2**, trombosit aktive edici faktör (PAF).
+5. Sonuç: vazodilatasyon ve sıvı kaçağı (ödem, ürtiker, hipotansiyon), bronş daralması, mukus artışı.
+### Geç faz: 2-24 saat sonra
+Mast hücresinden salınan sitokinler (TNF, IL-4, IL-5, IL-13) ve kemokinler **eozinofil**, bazofil ve Th2 hücrelerini bölgeye çağırır. Eozinofil granül proteinleri (majör bazik protein) epiteli yıkar. Kronik astımdaki kalıcı iltihabın kaynağı budur. Tip I'de **nötrofil** temel hücre değildir (çıkmış soru).
+?? Tip I sitokinleri: “IL-**4** IgE'yi yapar, IL-**5** eozinofili beşler.”
+
+## 3. Anafilaksi: en ağır tip I tablosu
+Anafilaksi, birden başlayan ve hayatı tehdit eden sistemik aşırı duyarlılık reaksiyonudur. Deri ve mukoza (ürtiker, anjiyoödem), solunum (stridor, hırıltı, hipoksi), dolaşım (hipotansiyon, senkop) ve sindirim (kusma, kramp) sistemlerinden en az ikisi tutulur; bilinen alerjenle karşılaşma sonrası tek başına hipotansiyon da yeterlidir. En sık nedenler: gıda (çocukta), ilaç (penisilin, NSAİİ, kas gevşeticiler), arı sokması, lateks.
+### Adrenalin neden ilk ilaçtır?
+Adrenalin, anafilaksideki her ölümcül mekanizmanın **tersini** aynı anda yapan tek ilaçtır:
+| Reseptör | Etki | Anafilaksideki karşılığı |
+| **α1** | Damar daralması, damar geçirgenliğinin azalması | Hipotansiyon ve şoku düzeltir, mukoza ödemini (gırtlak ödemi) azaltır |
+| **β1** | Kalp hızı ve kasılma gücünde artış | Kalp debisini artırır |
+| **β2** | Bronş gevşemesi; **mast hücresinden mediyatör salınımının durdurulması** | Bronkospazmı çözer, reaksiyonun büyümesini keser |
+|= Adrenalinin anafilakside etki ettiği reseptörler.
+Antihistaminikler yalnız histamini (bir mediyatörü) bloke eder; bronkospazm ve şoku düzeltmez, hem de etkileri geç başlar. Glukokortikoidler gen yazılımı üzerinden çalıştığı için **saatler sonra** etkilidir; ancak geç fazı ve yineleyen (bifazik) reaksiyonu azaltması için verilebilir. Bu yüzden S26'nın cevabı **intramüsküler adrenalindir**.
+### Uygulama
+1. **Adrenalin 1 mg/mL (1/1000) solüsyondan 0,01 mg/kg, erişkinde en fazla 0,5 mg, çocukta en fazla 0,3 mg; uyluğun ön-dış yüzüne kas içine.** Kas içi yol deri altından daha hızlı ve güvenilir emilir. Yanıt yoksa 5-15 dakikada bir tekrarlanır.
+2. Alerjen kaynağı durdurulur (ilaç infüzyonu kesilir), yardım çağrılır.
+3. Hasta sırtüstü yatırılır, bacaklar kaldırılır (solunum sıkıntısı varsa yarı oturur); ani ayağa kaldırma ölümcül olabilir (“boş ventrikül”).
+4. Yüksek akımlı oksijen, geniş damar yolu ve hızlı kristaloid sıvı.
+5. Ek tedaviler: bronkospazmda inhaler salbutamol, H1 ve H2 antihistaminik, glukokortikoid.
+6. **Beta bloker kullanan hastada** adrenaline yanıt zayıf olabilir; **glukagon** verilir (β reseptörden bağımsız olarak cAMP'yi artırır).
+7. Dirençli şokta intravenöz adrenalin infüzyonu (yalnız monitörize ortamda).
+8. Hasta en az 6-12 saat gözlenir: **bifazik reaksiyon** (belirtilerin ilk ataktan saatler sonra yeniden başlaması) olabilir. Taburcu ederken adrenalin otoenjektörü reçete edilir ve kullanımı öğretilir.
+!! Anafilaksi sorularında en sık çeldiriciler: “önce intravenöz antihistaminik”, “önce intravenöz kortikosteroid”, “deri altı adrenalin”. Doğrusu: **ilk ve en önemli basamak intramüsküler adrenalin.**
+### Anafilaktoid (IgE'siz) reaksiyon
+Radyokontrast madde, opioidler, vankomisin (“kırmızı adam sendromu”) mast hücresini IgE olmadan doğrudan uyarır. Önceden duyarlanma gerekmez, ilk karşılaşmada olabilir; tedavisi anafilaksiyle aynıdır.
+
+## 4. Tip II: antikor hücreye ya da dokuya bağlanır
+Antikor, hücre yüzeyindeki ya da hücre dışı matriksteki sabit antijene bağlanır. Hasar üç yoldan olur:
+1. **Opsonizasyon ve fagositoz:** Antikor ve C3b ile kaplanan hücre dalakta makrofajlarca yenir (otoimmün hemolitik anemi, immün trombositopeni, Rh uyuşmazlığı).
+2. **Kompleman ve Fc reseptörü aracılı iltihap:** Antikor dokuya bağlanır, kompleman ve nötrofiller gelir (Goodpasture'da bazal membran, akut romatizmal ateşte kalp).
+3. **Hücre işlevinin bozulması (hücre öldürülmez):**
+- **Graves hastalığı:** Antikor TSH reseptörünü **uyarır** → hipertiroidi.
+- **Myastenia gravis:** Antikor asetilkolin reseptörünü **bloke eder ve yıkılmasını hızlandırır** → kas güçsüzlüğü.
+- Pernisiyöz anemi: intrensek faktöre karşı antikor.
+Bu yılın S25'inde yanlış eşleştirme “myastenia gravis → immün kompleks birikimi” idi; myastenia tip II'dir.
+?? Tip II “**hücreye yapışan**” antikordur; tip III “**havada (kanda) asılı**” antijenle oluşup damar duvarına **yağan** komplekstir.
+
+## 5. Tip III: immün kompleks hastalığı
+1. Çözünür antijen (yabancı serum proteini, ilaç, mikrop, DNA) kanda antikorla birleşir.
+2. Hafif antijen fazlalığında oluşan orta büyüklükte kompleksler hemen temizlenmez.
+3. Kan basıncının ve süzülmenin yüksek olduğu yerlere çöker: **glomerül, eklem sinovyumu, deri, küçük damarlar**.
+4. Kompleman etkinleşir (serum C3 ve C4 düşer); C5a nötrofilleri çağırır.
+5. Nötrofil enzimleri damar duvarında **fibrinoid nekroz** yapar (vaskülit).
+- **Sistemik:** Serum hastalığı (yabancı serum, antitimosit globulin, bazı ilaçlar; 7-10 gün sonra ateş, artrit, ürtiker, proteinüri), **SLE**, poststreptokokal GN, poliarteritis nodoza (HBV), kriyoglobulinemi.
+- **Yerel:** **Arthus reaksiyonu**; önceden yüksek antikoru olan kişide aynı antijen deriye enjekte edilince birkaç saat içinde yerel nekrotizan vaskülit (ör. sık tekrarlanan tetanoz aşısı).
+
+## 6. Tip IV: T lenfositin yaptığı hasar
+Antikor yoktur. Önceden duyarlanmış T hücreleri antijenle karşılaşınca sitokin salgılar ya da hedef hücreyi doğrudan öldürür. Hücrelerin bölgeye toplanması zaman aldığı için reaksiyon **24-72 saatte** belirginleşir.
+| Alt tip | Etkin hücre ve sitokin | Örnek |
+| **IVa** | **Th1** → **IFN-γ** → makrofaj etkinleşmesi | Tüberkülin (PPD) reaksiyonu, kontakt dermatit, **granülomatöz hastalıklar**: sarkoidoz, Crohn, tüberküloz, granülomatöz polianjit |
+| **IVb** | **Th2** → IL-4, IL-5, IL-13 → **eozinofil** | **DRESS sendromu**, kronik astım, makülopapüler döküntünün bir kısmı |
+| **IVc** | **Sitotoksik CD8 T hücresi** → perforin, granzim | **Stevens-Johnson sendromu**, toksik epidermal nekroliz, tip 1 diyabet, viral hepatit hasarı |
+| **IVd** | T hücresi → IL-8 (CXCL8) → **nötrofil** | Akut jeneralize ekzantematöz püstüloz; ders notuna göre **Behçet, romatoid artrit, psoriatik artrit** |
+|= Tip IV alt tipleri. Bu tablo hemen her yıl soruluyor.
+### Granülom nasıl oluşur?
+1. Makrofaj, yıkamadığı bir antijeni (tüberküloz basili, yabancı cisim) içinde taşır ve CD4 T hücresine sunar.
+2. Th1 hücresi IFN-γ salgılar; makrofaj etkinleşir, **epiteloid hücreye** dönüşür; bazıları birleşerek **dev hücre** (Langhans) yapar.
+3. Makrofajlar TNF-α ile bir arada tutulur; çevrede lenfosit halkası oluşur.
+4. Granülom, antijeni hapseden bir duvardır. TNF-α ortadan kalkınca (anti-TNF ilaçlar) duvar çöker ve gizli tüberküloz yeniden etkinleşir (bkz. Bölüm 2).
+!! Tip IVa ile uyumlu **olmayan** hastalıklar sınavda sık soruldu: demir eksikliği anemisi, alerjik rinit (tip I), ankilozan spondilit. DRESS tip IVb'dir, tip III değildir.
+
+## 7. Bağışıklık sisteminin görevleri (S28)
+Bağışıklık sistemi yabancı mikroorganizmalarla savaşır, kendi (self) antijenlerini tanıyıp onlara tolerans gösterir, yaşlanmış ve hasarlı hücreleri temizler ve **kanser hücrelerini tanıyıp yok eder (immün gözetim)**. Kanser hücresini “yok saymak” bir görev değil, bağışıklığın kaçırıldığı durumdur; tümörler PD-L1 gibi frenlerle T hücresini susturur ve kontrol noktası inhibitörleri bu freni kaldırır.

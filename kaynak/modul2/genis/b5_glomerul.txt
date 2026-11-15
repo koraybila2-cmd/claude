@@ -1,0 +1,91 @@
+# Ayrıntılı anlatım: Glomerüler Hastalıkların Patolojisi | Glomerülün süzgeç yapısından başlayarak hasarın nasıl oluştuğu, kompleksin nereye yerleştiğine göre tablonun nasıl değiştiği, nefritik ve nefrotik sendromun nedenleri ve başlıca hastalıkların karşılaştırması.
+
+## 1. Süzgecin üç katmanı ve yük engeli
+Glomerüler filtrasyon bariyeri kandan idrara doğru üç katmandır. Bu sorunun cevabı dört blok sınavında ve üç MSD'de aynıydı: **endotel, bazal membran, visseral epitel (podosit).**
+1. **Pencereli (fenestralı) endotel:** 70-100 nm'lik delikler kan hücrelerini tutar, plazmayı geçirir. Yüzeyindeki negatif yüklü glikokaliks ilk yük engelidir.
+2. **Glomerüler bazal membran (GBM):** Ortası yoğun (lamina densa), iki yanı seyrek tabakalı. **Tip IV kollajen** ağı (α3, α4, α5 zincirleri) ve heparan sülfat proteoglikanlarıyla hem boyut hem **negatif yük** engelidir. Negatif yük, negatif yüklü albüminin geçişini zorlaştırır.
+3. **Podositler (visseral epitel):** Ayaksı çıkıntıları birbirine kenetlenir; aralarındaki **yarık diyafram** (nefrin, podosin proteinleri) son ve en seçici engeldir. **Nefrin** geni bozukluğu konjenital (Fin tipi) nefrotik sendrom yapar.
+Bariyerde **olmayanlar** da sorulur: parietal epitel (Bowman kapsülünü döşer; çoğalırsa hilal yapar), mezangiyal hücreler (kılcalları destekler, kompleksleri temizler, kasılır), tübül hücreleri ve lökositler.
+@SVG glomerul_bariyer.svg
+@SEKIL Şekil 5.A. Glomerüler kılcal duvarın kesiti ve immün komplekslerin yerleşebileceği üç bölge. Kompleksin yeri, hastalığın klinik yüzünü belirler.
+?? Bariyer “**E-B-P**”: **E**ndotel – **B**azal membran – **P**odosit. Parietal epitel ve lökosit bariyerde **değildir**.
+
+## 2. Glomerül hasara nasıl yanıt verir? Yedi temel görünüm
+Glomerülün hasara verebileceği yanıt sayısı sınırlıdır; biyopsi raporundaki terimler bunlardır:
+- **Hücre artışı (hipersellülarite):** mezangiyal ya da endotel hücre çoğalması, lökosit girişi (proliferatif, eksüdatif glomerülonefrit).
+- **Hilal (kresent):** Bowman boşluğunda **parietal epitel** çoğalması, göç eden monosit ve makrofajlar ve fibrin. Kılcal duvar yırtılınca fibrin Bowman boşluğuna sızar ve hilali başlatır. Glomerüllerin çoğunda hilal varsa tablo hızlı ilerleyen glomerülonefrittir.
+- **Bazal membran kalınlaşması:** ya immün kompleks birikimi (membranöz) ya da yeni bazal membran yapımı (diyabet).
+- **Hiyalinoz:** Plazma proteinlerinin damar duvarına sızıp birikmesi; homojen, eozinofilik görünüm.
+- **Skleroz:** Hücre dışı matriks artışı, sonunda glomerülün tamamen fibrozu.
+- **Podosit hasarı:** Ayaksı çıkıntıların **silinmesi (efasman)**; yalnız elektron mikroskobunda görülür.
+- **Çift kontür (tren yolu):** Mezangiyum kılcal duvarın içine uzanır ve yeni bazal membran yapar (membranoproliferatif glomerülonefrit).
+Dağılım terimleri: **diffüz** (glomerüllerin %50'sinden fazlası), **fokal** (%50'den azı); **global** (glomerülün tamamı), **segmental** (bir bölümü).
+
+## 3. İmmün hasar mekanizmaları adım adım
+Glomerülonefritlerin çoğu antikor aracılıdır. Antikorun hedefi ve kompleksin oluştuğu yer iki büyük grubu ayırır.
+### A. Yerinde (in situ) kompleks oluşumu
+Antikor dolaşımdan gelir ve glomerülde **zaten bulunan** bir antijene bağlanır.
+1. **Sabit, intrensek doku antijeni:** Antijen glomerülün kendi yapı taşıdır.
+- **Anti-GBM hastalığı:** Antikor tip IV kollajen α3 zincirinin **NC1 bölgesine** bağlanır. Antijen bazal membran boyunca düzgün dizildiği için immünfloresanda **çizgisel (lineer)** IgG boyanması görülür. Akciğer alveol bazal membranında da aynı antijen bulunduğundan akciğer kanaması eşlik edebilir (**Goodpasture sendromu**). Bu yılın S20'sinin ve dört blok sınavının cevabı budur.
+- **Membranöz nefropati:** Antikor podosit yüzeyindeki **fosfolipaz A2 reseptörüne (PLA2R)** bağlanır (olguların yaklaşık %70'i). Kompleks podositin altında, **subepitelyal** bölgede oluşur. Heymann nefriti deney modelidir.
+2. **Yerleşik (ekilmiş, planted) antijen:** Dolaşımdaki bir antijen glomerüle takılır (ör. katyonik bakteri ürünleri, DNA, ilaçlar), sonra antikor ona bağlanır.
+### B. Dolaşan immün kompleks birikimi (tip III aşırı duyarlılık)
+1. Antijen (bakteri, virüs, DNA, tümör) dolaşımda antikorla karşılaşır ve kompleks oluşur.
+2. Orta büyüklükteki, hafif antijen fazlalığında oluşan kompleksler en zararlıdır: hemen temizlenmez, glomerüle takılır.
+3. Kompleksler glomerülde birikir; **kompleman** etkinleşir (C3a, C5a kemotaksisi; membran saldırı kompleksi).
+4. Nötrofil ve monositler gelir, proteaz ve oksijen radikalleriyle duvarı yıkar.
+5. Sonuç: **granüler (topaklı)** immünfloresan boyanması.
+Bu yılın S23'ünde doğru öncüller: antijen **endojen ya da ekzojen** olabilir, kompleksler **glomerülde birikir**, **kompleman** katılır. Yanlış öncüller: “olayı glomerül başlatır” (kompleks dolaşımda oluşur) ve “aminoglikozid kullanımına bağlıdır” (o toksik tübül hasarıdır).
+### Kompleksin yeri tabloyu belirler
+| Yer | Örnek | Sonuç |
+| **Subepitelyal** (bazal membran ile podosit arası) | Membranöz nefropati, poststreptokokal GN (“hörgüç”) | Hücreler kompleksten bazal membranla ayrıldığı için iltihap azdır; podosit hasarı → **nefrotik** (membranöz). Poststreptokokta kompleman güçlü etkinleştiği için nefritik |
+| **Subendotelyal** (endotel ile bazal membran arası) | Lupus nefriti sınıf IV (“tel halkası”), MPGN tip I | Kan akımına komşu: lökositler ve kompleman kolayca ulaşır → **nefritik**, ağır iltihap |
+| **Mezangiyal** | IgA nefropatisi, Henoch-Schönlein purpurası, lupus sınıf II | Mezangiyal çoğalma, tekrarlayan **hematüri** |
+|= Kompleks yerleşim yeri ve klinik yansıması.
+?? “Kan tarafına yakın kompleks = iltihap ve nefritik; idrar tarafına yakın kompleks = süzgeç bozulması ve nefrotik.”
+### C. Antikor dışı mekanizmalar
+- **Pauci-immün (immün birikimsiz) hasar:** ANCA ilişkili vaskülitler; ANCA nötrofili uyarır, nötrofil damar duvarını yıkar; immünfloresan neredeyse boştur.
+- **Alternatif kompleman yolunun kontrolsüz etkinleşmesi:** **C3 glomerülopati** (yoğun depozit hastalığı ve C3 glomerülonefriti). Faktör H eksikliği ya da C3 konvertazı sabitleyen otoantikor (**C3 nefritik faktör**) yüzünden C3 sürekli yıkılır; immünfloresanda **yalnız C3** boyanır, immünoglobulin yoktur. Serum C3 düşüktür.
+- **Hücresel bağışıklık:** T hücreleri ve makrofajlar.
+- **Podosit hasarı:** toksinler, sitokinler, genetik bozukluklar (minimal değişiklik hastalığı, FSGS).
+### Hasar neden ilerler?
+Glomerüllerin bir kısmı yok olunca kalan nefronlar fazla yük alır (**hiperfiltrasyon**); kılcal basınç artar, podositler zarar görür ve **segmental skleroz** gelişir. Proteinüri tübül hücrelerini de bozar ve interstisyel fibroza yol açar. Bu yüzden başlangıç hastalığı ne olursa olsun GFR belirli bir eşiğin altına düşünce böbrek ilerleyici biçimde son dönem yetmezliğe gider. ACE inhibitörleri ve anjiyotensin reseptör blokerleri efferent arteriyolü gevşetip glomerül içi basıncı düşürerek bu süreci yavaşlatır.
+
+## 4. Glomerüler hastalıkların klinik sendromları
+Bu yılın S22'sinde “major renal sendrom olmayan” soruldu: cevap **nefrolitiyazis**. Glomerüler hastalıklarla ilişkili sendromlar şunlardır:
+| Sendrom | Tanımlayan bulgular | Arkasındaki mekanizma |
+| **Nefritik sendrom** | Hematüri (dismorfik eritrosit, eritrosit silendiri), oligüri, azotemi, hipertansiyon, hafif-orta proteinüri | Kılcal duvarda iltihap ve yırtılma: eritrosit sızar, GFR düşer, tuz-su tutulur |
+| **Nefrotik sendrom** | Proteinüri **> 3,5 g/gün**, hipoalbuminemi, yaygın ödem, hiperlipidemi ve lipidüri | Süzgeç bozulur (çoğu kez podosit), albümin kaçar |
+| **Hızlı ilerleyen GN** | Haftalar-aylar içinde böbrek işlevinin kaybı, nefritik tablo | Glomerüllerin çoğunda hilal |
+| **Asemptomatik hematüri ya da proteinüri** | Yalnız idrar bulgusu | Hafif mezangiyal hastalık (IgA), ince bazal membran |
+| **Akut ve kronik böbrek yetmezliği** | Azotemi, oligüri; kronikte üremi | |
+|= Glomerüler hastalıklarla ilişkili renal sendromlar.
+### Nefrotik sendromun bulguları neden oluşur?
+1. Albümin idrarla kaybolur → **hipoalbuminemi**.
+2. Plazma onkotik basıncı düşer → sıvı damar dışına çıkar → **ödem** (önce göz kapağı, sonra yaygın, anasarka).
+3. Damar içi hacim azalır → renin-anjiyotensin-aldosteron sistemi etkinleşir → tuz-su tutulur, ödem artar.
+4. Karaciğer düşük onkotik basınca yanıt olarak albüminle birlikte lipoproteinleri de fazla yapar → **hiperlipidemi**; süzülen lipid idrarda **yağlı silendir ve oval yağ cisimcikleri** (polarize ışıkta Malta haçı) oluşturur.
+5. İmmünoglobulin ve kompleman kaybı → **enfeksiyon** eğilimi (özellikle pnömokok peritoniti).
+6. Antitrombin III kaybı ve pıhtılaşma faktörü artışı → **tromboz** (renal ven trombozu; en çok membranöz nefropatide).
+
+## 5. Başlıca hastalıkların karşılaştırması
+| Hastalık | Tipik hasta | Işık mikroskobu | İmmünfloresan | Elektron mikroskobu | Klinik |
+| **Minimal değişiklik hastalığı** | Çocuk (en sık nefrotik neden) | Normal | Negatif | Ayaksı çıkıntı silinmesi | Nefrotik, seçici albüminüri, steroide çok iyi yanıt |
+| **FSGS** | Erişkin, siyah ırk, HIV, eroin, obezite | Segmental skleroz | Negatif ya da IgM, C3 | Ayaksı çıkıntı silinmesi | Nefrotik, steroide kötü yanıt |
+| **Membranöz nefropati** | Erişkin (en sık erişkin nefrotik nedenlerinden) | Kalın bazal membran, gümüşle “dikenler” | Granüler IgG, C3; **anti-PLA2R** | Subepitelyal depozit | Nefrotik; ikincil nedenler: HBV, lupus, ilaç, tümör |
+| **Poststreptokokal GN** | Çocuk, boğaz ya da deri enfeksiyonundan 1-4 hafta sonra | Diffüz proliferatif, nötrofil | Granüler IgG, C3 (“yıldızlı gökyüzü”) | Subepitelyal **hörgüç** | Nefritik, düşük C3, ASO yüksek; çocukta iyileşir |
+| **IgA nefropatisi** | Genç erişkin, solunum yolu ya da bağırsak enfeksiyonundan **1-2 gün sonra** | Mezangiyal çoğalma | **Mezangiyal IgA** | Mezangiyal depozit | Tekrarlayan hematüri; dünyada en sık GN |
+| **MPGN** | Hepatit C, kriyoglobulinemi | Lobüler, çift kontür | Granüler IgG, C3 | Subendotelyal depozit | Nefritik-nefrotik karışık |
+| **C3 glomerülopati** | Her yaş | MPGN benzeri | **Yalnız C3** | Yoğun depozit (bazal membran içinde) | Düşük C3, C3 nefritik faktör |
+| **Anti-GBM hastalığı** | Genç erkek (akciğer kanamasıyla), yaşlı kadın | Hilal | **Çizgisel IgG** | | Hızlı ilerleyen GN; plazmaferez |
+| **Lupus nefriti** | Genç kadın | Sınıfa göre değişir (sınıf IV en sık ve en ağır) | “**Full house**”: IgG, IgA, IgM, C3, C1q | Her üç bölgede depozit | Nefritik ya da nefrotik |
+|= Glomerüler hastalıkların karşılaştırma tablosu.
+### Hızlı ilerleyen glomerülonefritin üç tipi
+| Tip | İmmünfloresan | Örnekler |
+| I – Anti-GBM | Çizgisel | Anti-GBM hastalığı, Goodpasture |
+| II – İmmün kompleks | Granüler | Lupus, poststreptokokal, IgA/HSP |
+| III – Pauci-immün | Boş ya da çok az | ANCA vaskülitleri: granülomatöz polianjit (PR3-ANCA), mikroskobik polianjit (MPO-ANCA) |
+|= Hızlı ilerleyen glomerülonefrit (hilalli GN) sınıflaması.
+### Primer ve sekonder ayrımı
+**Primer** glomerüler hastalıkta hastalık yalnız böbrekle sınırlıdır: minimal değişiklik, FSGS, membranöz nefropati, MPGN, IgA nefropatisi, poststreptokokal GN, hızlı ilerleyen GN. **Sekonder** hastalıkta böbrek sistemik bir hastalığın parçasıdır: lupus, diyabet, amiloidoz, **Henoch-Schönlein purpurası** (IgA vasküliti), Goodpasture, vaskülitler, endokarditle ilişkili GN, Alport sendromu. Bu yılın S21'inin cevabı HSP'ydi; 2023-24'te aynı soruda cevap SLE'ydi.
+!! Sık karışanlar: **IgA nefropatisi** enfeksiyondan **1-2 gün sonra** (eşzamanlı) hematüri, C3 normal; **poststreptokokal GN** **1-4 hafta sonra**, C3 düşük. **Anti-GBM** çizgisel, **immün kompleks** granüler, **ANCA** boş. **C3 glomerülopati** yalnız C3, immünoglobulin yok.

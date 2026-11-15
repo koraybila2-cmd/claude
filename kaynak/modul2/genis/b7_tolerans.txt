@@ -1,0 +1,67 @@
+# Ayrıntılı anlatım: İmmün Tolerans ve Otoimmünite | Bağışıklık sistemi kendine saldırmamayı nasıl öğrenir, bu öğrenmenin her basamağı hangi gen bozulunca çöker ve genetik yatkınlıkla çevresel tetikleyici nasıl birleşip otoimmün hastalık yapar.
+
+## 1. Sorun: rastgele üretilen reseptörler
+T ve B hücre reseptörleri gen parçalarının **rastgele** birleştirilmesiyle (V(D)J rekombinasyonu) yapılır. Bu sayede milyonlarca farklı mikrobu tanıyabilen bir repertuvar oluşur, ama aynı rastgelelik kaçınılmaz olarak **kendi dokularımızı tanıyan** reseptörler de üretir. Tolerans, bu kendine tepkili (otoreaktif) hücrelerin yok edilmesi ya da susturulmasıdır. İki aşamada olur: üretildikleri yerde (**santral tolerans**) ve kana çıktıktan sonra (**periferik tolerans**). Hiçbiri kusursuz değildir; sağlıklı insanda da otoreaktif hücreler bulunur, ama baskı altında tutulur.
+
+## 2. Santral tolerans: okulda yapılan eleme
+### T hücreleri timusta
+1. **Pozitif seçim (timus korteksi):** Kendi MHC molekülünü hiç tanıyamayan timosit işe yaramaz; sinyal alamaz ve apoptozla ölür (“ihmalden ölüm”). MHC'yi tanıyanlar yaşar. Bu basamak korteksde olur (çıkmış soru).
+2. **Negatif seçim (timus medullası):** Kendi peptidini MHC üzerinde **çok güçlü** tanıyan timosit tehlikelidir ve apoptozla silinir (**klonal delesyon**).
+3. Peki pankreas insülini ya da tiroid peroksidazı gibi başka organa özgü proteinler timusta nasıl bulunur? Medulla epitel hücrelerindeki **AIRE** (otoimmün düzenleyici) geni bu dokulara özgü yüzlerce proteinin timusta küçük miktarda yapılmasını sağlar. **AIRE mutasyonunda** bu proteinlere karşı tepkili T hücreleri silinmez → **APS-1** (otoimmün poliendokrin sendrom tip 1): hipoparatiroidi, Addison hastalığı ve kronik mukokutanöz kandidiyaz.
+4. Kendi antijenini orta güçte tanıyan bazı CD4 hücreler silinmez, **FOXP3** taşıyan **düzenleyici T hücresine (Treg)** dönüşür.
+### B hücreleri kemik iliğinde
+1. Kendi antijenini güçlü tanıyan olgunlaşmamış B hücresi önce ölmez; hafif zincir genlerini yeniden düzenleyerek **yeni bir reseptör** yapmaya çalışır: **reseptör düzenlenmesi (receptor editing)**. Yeni reseptör artık kendine tepkili değilse hücre yaşar.
+2. Düzenleme başarısız olursa hücre apoptozla silinir.
+3. Zayıf tanıyanlar anerjik hâle gelir.
+!! **Reseptör düzenlenmesi yalnızca B hücre toleransına özgüdür** (S30; 2022-23 ve 2024-25'te de soruldu). Delesyon (apoptoz), anerji, süpresyon ve ignorance hem T hem B hücresinde geçerlidir.
+
+## 3. Periferik tolerans: sahada dört emniyet kilidi
+Timustan kaçan otoreaktif T hücreleri için dört mekanizma vardır:
+| Mekanizma | Nasıl çalışır? | Bozulursa |
+| **Anerji** | Antijen tanınır (sinyal 1) ama **kostimülasyon (CD28-B7, sinyal 2) yoktur**; T hücresi kalıcı olarak yanıtsız kalır. CTLA-4 ve PD-1 gibi frenleyici reseptörler devreye girer | **CTLA4** haplo-yetersizliği, kontrol noktası inhibitörlerinin otoimmün yan etkileri |
+| **Süpresyon (baskılama)** | **Treg** hücreleri (CD4, CD25, FOXP3) IL-10 ve TGF-β salgılar, IL-2'yi tüketir, CTLA-4 ile antijen sunan hücreyi frenler | **FOXP3** mutasyonu → **IPEX** sendromu (immün düzensizlik, poliendokrinopati, enteropati, X'e bağlı); **IL2RA (CD25)** bozuklukları |
+| **Delesyon (apoptoz)** | Sürekli uyarılan T hücresi yüzeyinde **Fas** ve **Fas ligandı** belirir, kendini ve komşusunu apoptoza sokar; ayrıca Bim aracılı iç yol | **FAS** ya da FASL mutasyonu → **ALPS** (otoimmün lenfoproliferatif sendrom); fare lpr modeli |
+| **Ignorance (görmezden gelme)** | Otoreaktif T hücresi antijeniyle **hiç karşılaşmaz**: antijen bağışıklıktan ayrıcalıklı yerlerde (göz, testis, beyin) saklıdır ya da çok az miktardadır | Travmayla saklı antijen açığa çıkar: **sempatik oftalmi**, travma sonrası korneaya karşı antikor, vazektomi sonrası sperm antikoru |
+|= Periferik tolerans mekanizmaları ve bozulduklarında ortaya çıkan tablolar.
+?? “Spesifik antijenle **hiç karşılaşmama**” = **ignorance** (S44; dört kez soruldu). “Kostimülasyon yokluğu” = anerji. “Treg” = süpresyon. “Fas-FasL” = apoptoz. “Yalnızca B hücresi” = reseptör düzenlenmesi.
+
+## 4. Otoimmünite: genetik yatkınlık + çevresel tetikleyici
+Otoimmün hastalık için çoğunlukla ikisi birden gerekir: toleransı zayıflatan **yatkınlık genleri** ve doku hasarı ya da enfeksiyon gibi **tetikleyici** bir olay. Tek yumurta ikizlerinde bile eşleşme oranı çoğu hastalıkta %20-50'dir; bu, genlerin tek başına yetmediğini gösterir.
+### Tek gen defektleri (nadir ama sınavın favorisi)
+Tek bir genin bozulması toleransın bir kilidini tamamen açar ve hastalık neredeyse kesin gelişir:
+| Gen | Bozulan mekanizma | Hastalık |
+| **AIRE** | Timusta organa özgü antijen sunumu (santral tolerans) | APS-1 |
+| **FOXP3** | Treg gelişimi (süpresyon) | IPEX |
+| **FAS**, FASL | Aktive lenfositin apoptozu | ALPS |
+| **CTLA4** | Anerji ve Treg işlevi | Ağır çok organlı otoimmünite |
+| **C1q, C2, C4** (erken kompleman) | Apoptotik hücre ve immün kompleks temizliği | **SLE** |
+|= Otoimmüniteye yol açan tek gen defektleri.
+### Çok genli (poligenik) yatkınlık: her biri riski biraz artırır
+- **HLA genleri en güçlü yatkınlık genleridir.** HLA molekülü hangi peptidin T hücresine sunulacağını belirler; bazı HLA tipleri kendi peptidini daha iyi sunar.
+- **PTPN22** (T hücre sinyalini frenleyen fosfataz; RA, tip 1 diyabet, SLE), **IL23R** (Th17 yolu; Crohn, psoriazis, ankilozan spondilit), **NOD2** (bağırsakta bakteri algılama; Crohn), **FCGRIIB** (frenleyici Fc reseptörü; SLE), **PADI4** (sitrülinasyon; RA), **IL2RA**. Bunlar tek gen defekti **değildir** (bu yılın S34'ünün çeldiricileri; 2025-26'da PADI4 soruldu).
+| HLA | İlişkili hastalık |
+| **HLA-B27** | Ankilozan spondilit (en güçlü ilişki, %90'dan fazla), reaktif artrit, psoriatik ve enteropatik spondilit, akut ön üveit |
+| **HLA-DRB1 “ortak epitop”** (DR4, DR1) | **Romatoid artrit** (S35) |
+| HLA-DR3, DR4 (DQ2, DQ8) | Tip 1 diyabet; DQ2/DQ8 çölyak hastalığı |
+| HLA-DR3 | SLE, Graves, Sjögren, myastenia gravis |
+| HLA-B51 | Behçet hastalığı |
+| HLA-DR2 (DRB1*15) | Multipl skleroz, Goodpasture |
+| HLA-C*06 (Cw6) | Psoriazis |
+|= HLA – hastalık ilişkileri.
+### Ortak epitop romatoid artriti nasıl başlatır?
+1. Sigara ve periodontitis (Porphyromonas gingivalis) akciğer ve dişetinde **PAD** enzimlerini uyarır; proteinlerdeki arginin **sitruline** dönüşür.
+2. HLA-DRB1'in peptid bağlama cebindeki ortak beş aminoasitlik dizi (**ortak epitop**), sitrülinlenmiş peptidleri güçlü bağlayıp T hücresine sunar.
+3. T hücresi B hücresine yardım eder; **anti-CCP (ACPA)** antikorları oluşur. Bu antikorlar hastalıktan yıllar önce kanda görülebilir.
+4. Eklemde sitrülinlenmiş proteinlere karşı yanıt sinovit, pannus ve kemik erozyonu yapar.
+### Çevresel tetikleyiciler: enfeksiyon toleransı nasıl bozar?
+- **Moleküler benzerlik (mimikri):** Mikrobun antijeni kendi proteinimize benzer. Örnek: streptokok M proteini ile kalp miyozini → **akut romatizmal ateş**; Campylobacter ile periferik sinir gangliyozitleri → Guillain-Barré.
+- **Kostimülatörlerin artması (bystander etkinleşme):** Enfeksiyon antijen sunan hücrelerde B7 ve sitokinleri artırır; anerjide bekleyen otoreaktif T hücresi ikinci sinyali alıp uyanır.
+- **Saklı antijenin açığa çıkması:** Travma ya da iltihapla normalde bağışıklıktan gizli antijenler serbestleşir (sempatik oftalmi).
+- **Epitop yayılımı:** Doku hasarı yeni kendi antijenlerini açığa çıkarır; yanıt başlangıçtaki hedefin dışına yayılır ve hastalık kronikleşir.
+- **Diğer etkenler:** Ultraviyole ışık (keratinosit apoptozu → SLE alevlenmesi), sigara (RA), ilaçlar (prokainamid, hidralazin → ilaca bağlı lupus), **kadın cinsiyeti ve östrojen** (SLE'de kadın/erkek 9/1), mikrobiyota.
+
+## 5. Organa özgü ve sistemik otoimmün hastalıklar
+| Organa özgü | Sistemik |
+| Tip 1 diyabet, Hashimoto tiroiditi, Graves, Addison, pernisiyöz anemi, **multipl skleroz**, myastenia gravis, otoimmün hemolitik anemi, immün trombositopeni, Goodpasture, pemfigus, primer biliyer kolanjit, otoimmün hepatit | **SLE**, **romatoid artrit**, **Sjögren sendromu**, **sistemik skleroz**, polimiyozit ve dermatomiyozit, karma bağ dokusu hastalığı, sistemik vaskülitler (mikroskobik polianjit, granülomatöz polianjit) |
+|= Organa özgü ve sistemik otoimmün hastalıklar.
+!! Bu yılın S43'ünde organa özgü olan **multipl sklerozdu**; şıklardaki Sjögren, romatoid artrit, SLE ve mikroskopik polianjit sistemiktir. Ters soruda (“organa özgü olmayan”) sistemik skleroz cevap olmuştu.

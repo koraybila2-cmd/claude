@@ -1,0 +1,72 @@
+# Ayrıntılı anlatım: Otoantikorlar ve ANA Testi | ANA testinin laboratuvarda nasıl yapıldığı, sonucun nasıl okunduğu, hangi antikorun tanı, hangisinin takip için istendiği ve ANCA paternlerinin neden farklı göründüğü.
+
+## 1. ANA testi adım adım: ekranda ne görüyoruz?
+1. Laboratuvarda lama, insan larinks karsinomundan türetilmiş **HEp-2 hücreleri** sabitlenir. Bu hücreler büyük çekirdeklidir ve hızlı bölündükleri için preparatta hem bölünmeyen (**interfaz**) hem bölünen (**metafaz**) hücre bulunur.
+2. Hastanın serumu belli oranlarda sulandırılarak (1/80, 1/160, 1/320…) lamın üzerine damlatılır. Serumda çekirdek antijenlerine karşı antikor varsa ilgili yapıya bağlanır.
+3. Yıkanır; ardından **floresan boyalı anti-insan IgG** eklenir. Bu ikinci antikor, hücreye bağlanmış hasta antikorunu işaretler (bu yüzden yöntemin adı **indirekt** immünfloresandır).
+4. Floresan mikroskobunda parlayan yerin **şekli** antijenin hücredeki yerini (patern), parlamanın görüldüğü **en yüksek sulandırma** ise antikor miktarını (titre) gösterir.
+5. Paterne göre hedef antijen tahmin edilir ve **özgül testlerle** (ELISA, immünblot, anti-dsDNA için Crithidia luciliae testi) doğrulanır.
+### Paterni okumanın mantığı
+Her patern, antijenin hücrenin neresinde durduğunun fotoğrafıdır:
+- **DNA ve histon** kromozomun kendisidir: interfaz çekirdeği düzgün boyanır, metafazda yoğunlaşmış kromozomlar da parlar → **homojen (AC-1)**.
+- **Sentromer proteinleri** her kromozomda bir tanedir: interfazda 46 civarında tek tek nokta, metafazda kromozomların dizildiği hatta noktalar → **sentromer (AC-3)**.
+- **Ribonükleoproteinler (Sm, U1 RNP, Ro, La)** kromozoma bağlı değildir, çekirdek sıvısında dağınıktır: interfazda benekli, metafazda **kromozom bölgesi boyanmaz** → **benekli (AC-4, AC-5)**.
+- **DFS70** proteini hem interfazda yoğun ince benekler hem de metafaz kromozomlarında boyanma verir → **yoğun ince benekli (AC-2)**.
+- **Çekirdekçik proteinleri** (fibrillarin, PM-Scl, RNA polimeraz I) → **nükleolar (AC-8, 9, 10)**.
+- **Jo-1 (histidil-tRNA sentetaz)** ve ribozomal P sitoplazmadadır → **sitoplazmik**; çekirdek boyanmadığı için ANA “negatif” raporlanabilir. Klinik miyozit düşündürüyorsa anti-Jo-1 ayrıca istenmelidir.
+!! **AC-2 (yoğun ince benekli) = anti-DFS70** (S46; 2025-26'da ve iki blok sınavında da soruldu). Anti-DFS70 sağlıklı kişilerde sık görülür ve **tek başına pozitifse** sistemik romatizmal hastalık olasılığını **azaltır**. Bu yüzden “ANA pozitif” sonucu paterniyle birlikte yorumlanmalıdır.
+
+## 2. ANA pozitifliği ne anlama gelir?
+- Sağlıklı kişilerin yaklaşık **%15-30'unda 1/80**, %5'inde 1/160 ve üzeri ANA pozitiftir; yaşlılarda, kadınlarda ve hasta yakınlarında daha sıktır.
+- ANA'nın **SLE için duyarlılığı çok yüksektir** (%95'ten fazla) ama **özgüllüğü düşüktür**. Bu nedenle ANA **dışlamak** için iyi bir testtir: negatif ANA, SLE olasılığını çok düşürür. Pozitif ANA tek başına tanı koydurmaz.
+- Testi yalnızca klinik şüphe varken isteyin (ateş, artrit, döküntü, sitopeni, proteinüri, Raynaud). Belirtisiz kişide düşük titreli ANA çoğu kez yalancı alarmdır.
+| Antikor | Hastalık | Duyarlılık | Özgüllük | Takipte kullanılır mı? |
+| ANA | SLE | **%95+** | Düşük | Hayır |
+| **Anti-dsDNA** | SLE | %60-70 | Yüksek (%95) | **Evet: titre aktiviteyle ve nefritle değişir** |
+| **Anti-Sm** | SLE | %20-30 | **En yüksek (~%99)** | Hayır |
+| Anti-histon | İlaca bağlı lupus | %95 | Düşük (SLE'de de var) | |
+| Anti-sentromer | Sınırlı sistemik skleroz | %60-80 | Yüksek | |
+| Anti-Scl-70 | Yaygın sistemik skleroz | %20-40 | Yüksek | |
+| Anti-Jo-1 | Antisentetaz sendromu | %20-30 (miyozitte) | Yüksek | |
+| Anti-CCP | Romatoid artrit | %60-70 | **%95** | |
+| RF | Romatoid artrit | %70-80 | Düşük (yaşlılık, hepatit C, endokardit, Sjögren) | |
+| c-ANCA (PR3) | Granülomatöz polianjit | %80-90 (yaygın hastalıkta) | Yüksek | Kısmen |
+|= Sık kullanılan otoantikorların tanısal değeri (yaklaşık değerler).
+?? “**Sm** = **S**adece lupus (özgül), **dsDNA** = **d**urum (aktivite) **s**öyler.” Anti-Sm tanıyı koydurur, anti-dsDNA ve C3/C4 takibi gösterir (S47).
+
+## 3. ANCA testi: neden iki farklı patern?
+ANCA (antinötrofil sitoplazmik antikor), nötrofil granüllerindeki enzimlere karşı oluşur. Test etanolle sabitlenmiş nötrofiller üzerinde indirekt immünfloresanla yapılır.
+1. **Proteinaz 3 (PR3)** granüllerde kalır → sitoplazma boyunca yaygın granüler boyanma → **c-ANCA** (sitoplazmik).
+2. **Miyeloperoksidaz (MPO)** güçlü pozitif yüklüdür; etanol sabitlemesi sırasında granülden çıkar ve negatif yüklü çekirdek zarına yapışır → çekirdeğin çevresinde halka → **p-ANCA** (perinükleer).
+3. Patern görüldükten sonra hedef ELISA ile doğrulanır (anti-PR3, anti-MPO).
+### ANCA hasarı nasıl yapar?
+Enfeksiyon gibi bir uyaran nötrofilleri sitokinlerle hazırlar; PR3 ve MPO hücre yüzeyine çıkar. ANCA bu enzimlere bağlanınca nötrofil aşırı etkinleşir, damar duvarına yapışır, oksijen radikalleri ve proteazlar salgılar ve **küçük damar vasküliti** yapar. Kompleks birikmediği için böbrek biyopsisinde immünfloresan neredeyse boştur (**pauci-immün** glomerülonefrit; Bölüm 5).
+| Hastalık | ANCA | Ayırt edici klinik |
+| **Granülomatöz polianjit** (Wegener) | **c-ANCA, anti-PR3** (S49) | Üst solunum yolu (sinüzit, burun septumu delinmesi, eyer burun), akciğerde kaviteli nodül, glomerülonefrit; nekrotizan granülom |
+| Mikroskobik polianjit | **p-ANCA, anti-MPO** | Akciğer kanaması ve glomerülonefrit; **granülom yok** |
+| Eozinofilik granülomatöz polianjit (Churg-Strauss) | p-ANCA (olguların yaklaşık %40'ı) | **Astım**, eozinofili, mononöropati |
+| İlaca bağlı (propiltiourasil, hidralazin, levamizollü kokain) | Çoğunlukla p-ANCA | |
+|= ANCA ilişkili vaskülitler.
+?? “**C**-ANCA = **C**ontinuous granüler = PR**3** = **G**ranülomatöz polianjit (Wegener, 3 organ: burun, akciğer, böbrek).” “**P**-ANCA = **P**erinükleer = **M**PO = **M**ikroskobik polianjit.”
+
+## 4. Antifosfolipid antikorları ve gebelik kaybı
+Antifosfolipid sendromu hem trombozla hem gebelik kayıplarıyla kendini gösterir; S48'de 20. haftada gebelik kaybı öyküsü olan genç kadında beklenen test **lupus antikoagülanıydı**.
+1. Antikorlar aslında fosfolipide bağlı proteinlere, özellikle **β2 glikoprotein I**'e yöneliktir.
+2. Endotel, trombosit ve monositi etkinleştirir, doku faktörünü artırır, kompleman yolunu uyarır; plasentada tromboz ve iltihap gelişir.
+3. **Laboratuvar paradoksu:** Lupus antikoagülanı, deney tüpünde pıhtılaşma testlerinin fosfolipidine bağlanıp **aPTT'yi uzatır**; ama hastada pıhtılaşmayı **artırır**.
+4. **Tanı ölçütleri:** klinik olay (arter ya da ven trombozu; 10. haftadan sonra açıklanamayan fetal ölüm; preeklampsi ya da plasenta yetmezliğiyle 34. haftadan önce erken doğum; 10. haftadan önce üç ve daha fazla açıklanamayan düşük) **ve** en az **12 hafta arayla iki kez** pozitif laboratuvar (lupus antikoagülanı, orta-yüksek titreli antikardiyolipin ya da anti-β2GPI).
+5. **Tedavi:** trombozda ömür boyu **varfarin** (yüksek riskli sendromda doğrudan oral antikoagülanlar önerilmez); gebelikte **düşük molekül ağırlıklı heparin ve düşük doz aspirin** (varfarin teratojendir).
+
+## 5. Pratik kural: hangi tabloda hangi testi isteyelim?
+| Klinik tablo | İlk istenecek antikorlar |
+| Genç kadında ateş, artrit, döküntü, sitopeni | ANA → pozitifse anti-dsDNA, anti-Sm, C3, C4 |
+| Simetrik küçük eklem poliartriti | RF ve **anti-CCP** |
+| Göz ve ağız kuruluğu | Anti-Ro, anti-La, RF |
+| Raynaud, deri sertleşmesi | ANA (sentromer paterni?), anti-Scl-70, anti-RNA polimeraz III |
+| Proksimal kas güçsüzlüğü ve akciğer tutulumu | CK, **anti-Jo-1** ve miyozite özgü antikorlar |
+| Burun-akciğer-böbrek tutulumu, hızlı ilerleyen GN | **ANCA** (PR3, MPO), anti-GBM |
+| Tekrarlayan düşük ya da genç yaşta tromboz | Lupus antikoagülanı, antikardiyolipin, anti-β2GPI |
+| Anne anti-Ro pozitif, bebekte kalp bloğu | Yenidoğan lupusu |
+| Prokainamid ya da hidralazin kullanırken lupus benzeri tablo | Anti-histon |
+|= Klinik tabloya göre istenecek otoantikorlar.
+!! Bu bölümün sorularının neredeyse tamamı aynı beş eşleştirmeden çıkıyor: **AC-2 → anti-DFS70**, **aktivite → anti-dsDNA**, **gebelik kaybı → lupus antikoagülanı**, **Wegener → anti-PR3 (c-ANCA)**, **proksimal güçsüzlük + akciğer + mekanik eli → anti-Jo-1** (S50).
