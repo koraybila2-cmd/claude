@@ -1,0 +1,146 @@
+# Ayrıntılı anlatım: İmmünsüpresif ve Biyolojik İlaçlar | Önceki sayfalardaki kısa konu tekrarının genişletilmiş hâli. Önce bağışıklık yanıtının hangi basamaklarının hedef alındığı, sonra her ilaç grubunun mekanizması, neden o yan etkiyi yaptığı ve ezberi kolaylaştıran ipuçları anlatılır.
+
+## 1. Mantık: ilaçlar bağışıklık yanıtının hangi halkasını keser?
+İmmünsüpresif ilaçların hepsi tek bir sorunun cevabıdır: “T lenfositin uyarılıp çoğalmasını hangi noktada durdurabilirim?” Bu yüzden ilaçları ezberlemenin en kolay yolu, önce T hücresinin nasıl etkinleştiğini adım adım bilmek, sonra her ilacı bu zincirin bir halkasına yerleştirmektir. Zinciri bilen öğrenci, adını ilk kez gördüğü bir ilacın ne yaptığını da çoğu zaman tahmin edebilir.
+@SVG t_hucre_ilac.svg
+@SEKIL Şekil 2.A. T lenfositin üç sinyalle etkinleşmesi ve ilaçların etki noktaları (kırmızı). 1: antijen tanıma, 2: kostimülasyon, 3: IL-2 ile çoğalma uyarısı.
+
+### Adım adım T hücre aktivasyonu
+1. **Antijenin tanınması (sinyal 1).** Antijen sunan hücre (dendritik hücre, makrofaj, B hücresi) yabancı proteini parçalar ve peptidi MHC molekülü üzerinde sunar. T hücre reseptörü (TCR) bu peptid-MHC kompleksini tanır. TCR'nin kendisi sinyal iletemez; yanındaki **CD3** kompleksi sinyali hücre içine taşır.
+2. **Hücre içi kalsiyum yükselir.** TCR-CD3 uyarısı fosfolipaz C-γ'yı etkinleştirir, IP3 oluşur ve endoplazmik retikulumdan kalsiyum salınır.
+3. **Kalsiyum kalsinörini açar.** Kalsinörin, kalsiyum-kalmodulin ile çalışan bir **fosfatazdır** (fosfat koparır). Hedefi NFAT (aktive T hücrelerinin nükleer faktörü) adlı transkripsiyon faktörüdür.
+4. **NFAT çekirdeğe girer.** Fosfatı koparılan NFAT çekirdeğe geçer; NF-κB ve AP-1 ile birlikte **IL-2 geninin** ve diğer sitokin genlerinin yazılmasını başlatır.
+5. **Kostimülasyon (sinyal 2).** Antijen sunan hücredeki **CD80/CD86 (B7)**, T hücresindeki **CD28**'e bağlanır. Bu ikinci sinyal olmadan T hücresi tam etkinleşemez, anerjiye (yanıtsızlık) girer. Bu, vücudun “emin olmadan saldırma” sigortasıdır.
+6. **IL-2 otokrin çalışır (sinyal 3).** Salınan IL-2, aynı T hücresinin yüzeyindeki yüksek afiniteli IL-2 reseptörüne (**CD25**, IL-2R α zinciri) bağlanır. Reseptör JAK-STAT yolunu ve **mTOR** kinazını uyarır.
+7. **Hücre döngüsüne giriş.** mTOR, hücrenin G1'den S fazına geçmesini sağlar. S fazında DNA kopyalanır; bunun için çok miktarda **pürin ve pirimidin nükleotidi** gerekir. Lenfositler, guanozin nükleotitlerini neredeyse yalnızca _de novo_ (sıfırdan) yolla yapar; kurtarma (salvage) yolunu çok az kullanır.
+8. **Klonal çoğalma ve efektör işlev.** Çoğalan T hücreleri sitotoksik hücrelere ve yardımcı T hücrelerine dönüşür; B hücrelerine yardım eder, makrofajları uyarır.
+
+?? Zinciri “Tanı → Kalsiyum → Kalsinörin → NFAT → IL-2 → IL-2R → mTOR → DNA” diye ezberleyin. İlaçlar sırasıyla: anti-CD3 (tanı), siklosporin/takrolimus (kalsinörin), basiliksimab (IL-2R), sirolimus (mTOR), azatioprin/MMF/metotreksat (DNA yapı taşları). Abatasept ikinci sinyali, glukokortikoidler çekirdekteki sitokin genlerini, JAK inhibitörleri sitokin reseptörünün arkasındaki sinyali keser.
+
+## 2. Kalsinörin inhibitörleri: siklosporin ve takrolimus
+### Mekanizma
+Bu iki ilaç kalsinörine doğrudan bağlanmaz. Önce hücre içindeki bir **immünofiline** bağlanırlar; ilaç-immünofilin kompleksi kalsinörini kilitler:
+- **Siklosporin** → **siklofilin** ile kompleks yapar.
+- **Takrolimus** (FK506) → **FKBP-12** (FK506 bağlayan protein) ile kompleks yapar.
+Kalsinörin çalışamayınca NFAT fosfatlı kalır, çekirdeğe giremez, **IL-2 yapılmaz**. T hücresi uyarıyı alır ama çoğalma emrini veremez. Etki T hücresine oldukça seçicidir; kemik iliğini baskılamaz (bu, azatioprinden önemli bir farktır).
+### Yan etkiler ve nedenleri
+- **Nefrotoksisite (en önemli ve doz kısıtlayıcı):** Kalsinörin inhibitörleri **afferent arteriyolü daraltır** (endotelin artar, nitrik oksit azalır). Akut dönemde GFR düşer ve geri dönüşlüdür; uzun dönemde arteriyolopati ve çizgisel interstisyel fibrozisle kalıcı hasar olur. Nakil yapılan böbrekte ilacın kendisi böbreğe zarar verebilir; bu yüzden kan düzeyi izlenir.
+- **Hipertansiyon:** Renal vazokonstriksiyon ve sodyum tutulumu.
+- **Hiperkalemi ve hipomagnezemi:** Distal tübülde potasyum atılımı ve magnezyum geri emilimi bozulur.
+- **Nörotoksisite:** Tremor, baş ağrısı, nöbet; takrolimusta daha sık.
+- **Metabolik:** Takrolimus pankreas β hücresini etkiler, **nakil sonrası diyabet** yapar. Siklosporin hiperlipidemi ve hiperürisemi (gut) yapar.
+- **Siklosporine özgü kozmetik etkiler:** **diş eti hiperplazisi** ve **hirsutizm** (kıllanma). Takrolimusta bunlar belirgin değildir; sınavda “diş eti hiperplazisi, kıllanma” gördüğünüzde siklosporini seçin.
+- **Enfeksiyon ve malignite:** Tüm güçlü immünsüpresanlar gibi; deri kanserleri ve lenfoproliferatif hastalık artar.
+### Farmakokinetik ve etkileşimler
+Her ikisi de karaciğerde **CYP3A4** ile yıkılır ve P-glikoprotein substratıdır. Terapötik aralıkları dardır; kan düzeyi düzenli ölçülür.
+- **Düzeyi artıranlar (toksisite riski):** azol antifungaller (ketokonazol, itrakonazol), makrolitler (eritromisin, klaritromisin), diltiazem, verapamil, greyfurt suyu.
+- **Düzeyi düşürenler (ret riski):** rifampisin, karbamazepin, fenitoin, fenobarbital, St. John's wort (sarı kantaron).
+- Nefrotoksik ilaçlarla (aminoglikozit, NSAİİ, amfoterisin B) birlikte böbrek hasarı katlanır.
+### Kullanım
+Organ nakli (böbrek, karaciğer, kalp) sonrası ret önlenmesi; takrolimus günümüzde birinci seçenektir. Ayrıca psoriazis, atopik dermatit (topikal takrolimus, pimekrolimus), romatoid artrit, nefrotik sendromun bazı türleri. Takrolimus _Streptomyces tsukubaensis_'ten elde edilen makrolid yapılı bir laktondur.
+
+## 3. mTOR inhibitörleri: sirolimus ve everolimus
+Sirolimus (rapamisin) de takrolimus gibi **FKBP-12'ye bağlanır**, ama bu kompleks kalsinörini değil **mTOR**'u (rapamisinin memelideki hedefi) baskılar. Sonuç farklıdır: IL-2 **yapılır**, ama hücre IL-2 reseptöründen gelen uyarıya **yanıt veremez**; G1'den S fazına geçemez.
+| | Takrolimus | Sirolimus |
+| Bağlandığı protein | FKBP-12 | FKBP-12 |
+| Baskıladığı enzim | Kalsinörin | mTOR |
+| IL-2 yapımı | Durur | Sürer |
+| Böbrek | **Nefrotoksik** | **Nefrotoksik değil** |
+| Tipik yan etki | Diyabet, nörotoksisite | **Hiperlipidemi**, trombositopeni, yara iyileşmesinde gecikme, ağız aftı, pnömonit |
+|= Sınavın en sevdiği karşılaştırma: aynı protein, farklı hedef.
+**Klinik sonuç:** Nakil hastasında kalsinörin inhibitörü böbreğe zarar verirse ilaç sirolimusla değiştirilir. mTOR hücre çoğalmasını da yönettiği için sirolimus ve everolimus **antiproliferatif** etkilidir: koroner stentlere kaplanır (stent içi yeniden daralmayı önler), everolimus bazı kanserlerde (böbrek hücreli karsinom, tüberoz skleroz tümörleri) kullanılır. Aynı antiproliferatif etki yara iyileşmesini geciktirir; bu yüzden nakilden hemen sonra kullanımı sınırlıdır.
+?? “Sirolimus: Siroz yapmaz, böbrek de bozmaz ama yağı (lipid) bozar.” FKBP-12'ye bağlanan iki ilacın ayrımı: takrolimus = **T**-hücre IL-2'sini keser, sirolimus = **S** fazına geçişi keser.
+
+## 4. Antimetabolitler: DNA'nın yapı taşlarını kesen ilaçlar
+Çoğalan lenfosit DNA'sını kopyalamak için nükleotit üretmek zorundadır. Antimetabolitler bu üretimi baskılar; bu yüzden en çok hızlı bölünen hücreleri (lenfosit, kemik iliği, bağırsak epiteli) etkiler.
+### Azatioprin
+- **Önilaçtır:** Karaciğerde **6-merkaptopürine (6-MP)** dönüşür; 6-MP sahte bir pürin nükleotidi gibi davranır ve pürin sentezini baskılar, DNA'ya yanlış yerleşir.
+- **Yıkımı üç yoldan olur:** ksantin oksidaz, TPMT (tiyopürin metiltransferaz) ve HGPRT ile aktivasyon.
+- **Allopurinol etkileşimi (çok sorulur):** Allopurinol ksantin oksidazı inhibe eder; 6-MP yıkılamaz, düzeyi yükselir ve **ağır kemik iliği baskılanması** gelişir. Birlikte verilecekse azatioprin dozu dörtte bire (%25-33) indirilir.
+- **TPMT eksikliği:** Genetik olarak TPMT etkinliği düşük kişilerde 6-MP birikir, ağır miyelosüpresyon olur; tedavi öncesi TPMT bakılabilir.
+- **Yan etkiler:** kemik iliği baskılanması (lökopeni, trombositopeni), hepatotoksisite, pankreatit, bulantı, enfeksiyon ve malignite (deri kanseri, lenfoma).
+- **Kullanım:** nakil, inflamatuvar bağırsak hastalığı, otoimmün hepatit, steroid koruyucu olarak lupus ve vaskülitler. Gebelikte kullanılabilir.
+### Mikofenolat mofetil (MMF)
+- Önilaçtır; **mikofenolik aside** dönüşür.
+- **İnozin monofosfat dehidrogenazı (IMPDH)** geri dönüşlü ve seçici olarak baskılar. IMPDH, guanozin nükleotitlerinin _de novo_ yapımının hız kısıtlayan enzimidir.
+- **Neden lenfosite seçici?** Diğer hücreler guanozini kurtarma (salvage) yoluyla geri dönüştürebilir; lenfositler bunu çok az yapar, de novo yola bağımlıdır. Bu yüzden MMF kemik iliğini azatioprinden daha az baskılar.
+- **Yan etkiler:** gastrointestinal (ishal, bulantı; en sık), lökopeni, enfeksiyon (özellikle CMV). **Teratojendir** (gebelikte kontrendike).
+- **Kullanım:** böbrek naklinde azatioprinin yerini almıştır; **lupus nefritinde** indüksiyon ve idamede birinci seçeneklerdendir.
+### Metotreksat
+- Folat antagonistidir: **dihidrofolat redüktazı (DHFR)** baskılar; tetrahidrofolat yapılamaz, pürin ve timidilat sentezi durur.
+- **Düşük dozda haftada bir** verilen metotreksat (romatoid artrit dozu) daha çok **adenozin salınımını artırarak** antiinflamatuvar etki gösterir; bu, kanser tedavisindeki yüksek dozdan farklı bir mekanizmadır.
+- **Romatoid artritin temel (çapa) ilacıdır;** psoriazis, psoriatik artrit, vaskülit ve ektopik gebelikte de kullanılır.
+- **Yan etkiler:** karaciğer fibrozisi (alkol yasak), kemik iliği baskılanması, **ağız yaraları (mukozit)**, interstisyel pnömoni, teratojenite.
+- **Folik/folinik asit:** Haftalık metotreksat ile birlikte folik asit verilir, yan etkileri azaltır. Yüksek doz toksisitede **lökovorin (folinik asit)** “kurtarma” sağlar; lökovorin DHFR'yi gerektirmeden doğrudan tetrahidrofolat kaynağıdır.
+- **Atılım böbrekten olur:** Böbrek yetersizliğinde ve NSAİİ, trimetoprim gibi ilaçlarla birlikte toksisite artar.
+### Leflunomid (bilgi için)
+Pirimidin sentezinde dihidroorotat dehidrogenazı baskılar; romatoid artritte metotreksata alternatiftir. Teratojendir ve vücuttan çok yavaş atılır; gebelik isteyen kadında kolestiraminle uzaklaştırılır.
+?? Üç antimetabolitin hedefini harflerle hatırlayın: **A**zatioprin → **A**llopurinol uyarısı (ksantin oksidaz); **M**MF → **I**MPDH (guanozin, lenfosit seçici); **M**etotreksat → **D**HFR (folat), kurtarıcısı lökovorin.
+
+## 5. Alkilleyici ajan: siklofosfamid
+- **Önilaçtır:** Karaciğerde CYP enzimleriyle aktif metabolitlerine (fosforamid mustard) dönüşür; DNA zincirleri arasında çapraz bağ kurar. Hücre döngüsünden bağımsız etkilidir; B lenfositlerini T lenfositlerinden daha çok baskılar.
+- **En güçlü immünsüpresif sitotoksik ilaçlardandır:** organı tehdit eden durumlarda kullanılır: ağır lupus nefriti, ANCA ilişkili vaskülitler (granülomatöz polianjit), hızlı ilerleyen glomerülonefrit, sistemik sklerozun interstisyel akciğer hastalığı.
+- **Hemorajik sistit:** Yıkım ürünü **akrolein** idrarla atılırken mesane epitelini yakar. Korunma: **MESNA** (akroleini bağlar) ve bol sıvı. Uzun dönemde mesane kanseri riski artar.
+- **Diğer yan etkiler:** pansitopeni, gonadal yetmezlik ve kısırlık (yumurtalık ve sperm hasarı), alopesi, bulantı, ikincil maligniteler, SIADH.
+?? “Siklofosfamid + idrarda kan” = akrolein; çözüm “mesna”.
+
+## 6. Biyolojik ilaçlar: adlarından ne olduklarını okumak
+Biyolojik ilaçların adları rastgele değildir; son ekleri ilacın ne olduğunu söyler. Bu kuralı bilmek sınavda şık elemeyi çok kolaylaştırır.
+| Son ek | Anlamı | Örnek |
+| **-mab** | Monoklonal antikor | rituksimab, adalimumab |
+| -**xi**mab | Kimerik (fare değişken bölge + insan sabit bölge); immünojenitesi daha yüksek | inf**li**ksimab, ritu**ksi**mab, basili**ksi**mab |
+| -**zu**mab | İnsanlaştırılmış (yalnız antijen bağlayan küçük bölge fare) | tosili**zu**mab, natali**zu**mab, omali**zu**mab |
+| -**u**mab | Tamamen insan | adalim**u**mab, golim**u**mab, kanakin**u**mab, ustekin**u**mab |
+| **-cept** | Füzyon proteini (reseptör + IgG Fc) | etaner**cept**, abata**cept** |
+| **-tinib** | Tirozin kinaz (ör. JAK) inhibitörü küçük molekül, ağızdan alınır | tofasi**tinib**, barisi**tinib** |
+| **-kinra** | İnterlökin reseptör antagonisti | ana**kinra** |
+|= Biyolojik ve hedefe yönelik ilaçların adlandırma kuralı.
+### TNF-α inhibitörleri
+TNF-α makrofajların salgıladığı ana inflamatuvar sitokindir: endoteli etkinleştirir, lökositleri çağırır, sinovyumda kıkırdak ve kemik yıkımını başlatır, **granülomun bütünlüğünü korur**.
+- **Monoklonal antikorlar:** infliksimab (kimerik, intravenöz infüzyon), adalimumab, golimumab (insan, deri altı), sertolizumab pegol (PEG'li Fab parçası; Fc'si yok, plasentayı az geçer). Hem çözünür hem zara bağlı TNF-α'yı nötrler.
+- **Füzyon proteini:** **etanersept**; TNF reseptörü (p75) ile IgG1 Fc parçasının birleşimidir. Antikor değildir; deri altına uygulanır. Zara bağlı TNF'ye etkisi zayıf olduğundan granülomatöz hastalıklarda (Crohn) etkisizdir.
+- **Endikasyonlar:** metotreksata yanıtsız romatoid artrit, ankilozan spondilit, psoriatik artrit, psoriazis, Crohn ve ülseratif kolit (etanersept hariç).
+- **Neden tüberküloz ve hepatit B taranır?** Granülomu ayakta tutan TNF-α ortadan kalkınca gizli tüberküloz odağı dağılır ve **latent tüberküloz reaktive olur** (çoğu kez akciğer dışı, yaygın). Başlamadan önce PPD ya da IGRA ve akciğer grafisi, hepatit B serolojisi yapılır; latent tüberkülozda önce koruyucu tedavi verilir.
+- **Diğer yan etkiler:** ciddi bakteriyel ve fırsatçı enfeksiyonlar (Listeria, histoplazmoz), infüzyon ve enjeksiyon yeri reaksiyonları, ilaca bağlı lupus benzeri tablo (ANA, anti-dsDNA pozitifleşebilir), demiyelinizan hastalık alevlenmesi (multipl sklerozda kontrendike), kalp yetersizliğinin kötüleşmesi, lenfoma riskinde artış.
+### T ve B hücresini hedefleyen ilaçlar
+- **Rituksimab (anti-CD20):** CD20 olgun B hücrelerinde bulunur, plazma hücrelerinde bulunmaz. Rituksimab B hücrelerini tüketir (kompleman ve antikor aracılı hücre öldürme). Lenfomalar, anti-TNF'ye yanıtsız romatoid artrit (metotreksatla birlikte), ANCA vaskülitleri, dirençli lupus ve membranöz nefropatide kullanılır. Hepatit B reaktivasyonu ve nadiren progresif multifokal lökoensefalopati (JC virüsü) yapabilir.
+- **Abatasept (CTLA-4-Ig):** CTLA-4, CD80/86'ya CD28'den daha güçlü bağlanan doğal frendir. Abatasept CD80/86'yı işgal eder; **ikinci sinyal (kostimülasyon) gelmez**, T hücresi anerjiye girer. Romatoid artritte kullanılır.
+- **Basiliksimab (anti-CD25):** IL-2 reseptörünü kapatır; nakilde indüksiyonda ret önlenir. (Daklizumab da aynı hedefe yönelikti, piyasadan çekildi.)
+- **Muromonab-CD3 (OKT3):** CD3'e bağlanır, T hücrelerini işlevsiz bırakır; akut ret tedavisinde. İlk dozda T hücrelerinin toplu uyarılmasıyla **sitokin salınım sendromu** (ateş, titreme, hipotansiyon, akciğer ödemi) olur. Günümüzde kullanılmıyor ama sınavda mekanizma olarak sorulur.
+- **Poliklonal antikorlar (antitimosit globulin):** Tavşan ya da ata insan timositleri verilerek elde edilir; birçok T hücre antijenine bağlanıp lenfositleri tüketir. İndüksiyon ve steroide dirençli akut rette. Serum hastalığı ve sitokin salınımı yapabilir.
+- **Alemtuzumab (anti-CD52):** Lenfositleri derin ve uzun süre tüketir; multipl skleroz ve bazı lösemilerde.
+- **Natalizumab (anti-α4 integrin):** Lenfositin damar duvarına yapışıp dokuya (beyin, bağırsak) geçişini engeller; multipl skleroz, Crohn. PML riski en yüksek ilaçtır.
+- **Fingolimod:** Sfingozin-1-fosfat reseptör modülatörüdür; lenfositlerin lenf düğümünden çıkışını engeller, kanda lenfositler azalır. Multipl sklerozda ağızdan; ilk dozda bradikardi yapar.
+### Sitokin ve diğer hedefler
+- **Tosilizumab (anti-IL-6 reseptörü):** anti-TNF'ye yanıtsız romatoid artrit, sistemik juvenil idiyopatik artrit, dev hücreli arterit, sitokin salınım sendromu. IL-6 akut faz yanıtını yönettiği için **CRP'yi düşürür**; bu yüzden enfeksiyon belirtileri maskelenebilir. Lipid yükselmesi ve bağırsak perforasyonu yapabilir.
+- **Anakinra (IL-1 reseptör antagonisti), kanakinumab (anti-IL-1β):** otoinflamatuvar hastalıklar (ailesel Akdeniz ateşinde kolşisine dirençli olgular, kriyopirin ilişkili sendromlar), Still hastalığı, gut atağı.
+- **Ustekinumab:** IL-12 ve IL-23'ün ortak **p40** alt birimine bağlanır; Th1 ve Th17 yanıtını keser. Psoriazis, psoriatik artrit, Crohn. Sekukinumab (anti-IL-17A) psoriazis ve ankilozan spondilitte kullanılır.
+- **Omalizumab (anti-IgE):** Serbest IgE'yi bağlar, mast hücresine bağlanmasını önler; alerjik astım, kronik ürtiker.
+- **Denosumab (anti-RANKL):** Osteoklast oluşumunu engeller; osteoporoz.
+- **Anti-RhD immünoglobulin:** Rh negatif anneye doğum ya da düşük sonrası verilir; fetal Rh pozitif eritrositleri anne bağışıklık sistemi tanımadan temizler ve annenin duyarlanmasını önler (yenidoğanın hemolitik hastalığından korunma).
+### JAK inhibitörleri: ağızdan alınan hedefe yönelik ilaçlar
+Birçok sitokinin reseptörü (IL-2, IL-6, interferonlar, IL-12/23) kendi başına enzim değildir; sinyali hücre içine **Janus kinazlar (JAK1, JAK2, JAK3, TYK2)** taşır. Sitokin bağlanınca JAK'lar birbirini ve reseptörü fosforiller; **STAT** proteinleri bu fosfatlara bağlanır, fosforillenir, çift oluşturup çekirdeğe geçer ve sitokin genlerini çalıştırır.
+- **Tofasitinib** (JAK1 ve JAK3), **barisitinib** (JAK1 ve JAK2), **upadasitinib** (JAK1): JAK'ları baskılayınca STAT fosforillenemez, çekirdeğe geçemez; birçok sitokinin etkisi aynı anda kesilir.
+- **Antikor değildir:** sentetik küçük moleküllerdir, **ağızdan** alınır. Bu, sınavın tofasitinib sorusunda ayırt edici noktaydı.
+- **Kullanım:** romatoid artrit, psoriatik artrit, ülseratif kolit, atopik dermatit, alopesi areata.
+- **Yan etkiler:** **herpes zoster** (en tipik), ciddi enfeksiyonlar, venöz tromboemboli, lipid yükselmesi, sitopeniler; yaşlı ve kardiyovasküler riskli hastada majör kardiyak olay ve malignite riski.
+
+## 7. Bütün tabloyu birleştiren karşılaştırma
+| İlaç | Hedef | Bir cümlede tanıtıcı özellik |
+| Siklosporin | Siklofilin → kalsinörin | Nefrotoksik, diş eti hiperplazisi, kıllanma |
+| Takrolimus | FKBP-12 → kalsinörin | Daha güçlü; nefrotoksik, diyabet, nörotoksik |
+| Sirolimus, everolimus | FKBP-12 → mTOR | Nefrotoksik değil; hiperlipidemi, yara iyileşmesi gecikir; stent kaplaması |
+| Azatioprin | Pürin sentezi (6-MP) | Allopurinolle doz azalt; TPMT eksikliği |
+| Mikofenolat mofetil | IMPDH (guanozin) | Lenfosite seçici; ishal; lupus nefriti; teratojen |
+| Metotreksat | DHFR (folat) | RA'nın temel ilacı; karaciğer, mukozit; lökovorin kurtarır |
+| Siklofosfamid | DNA alkillenmesi | Hemorajik sistit (akrolein, mesna); kısırlık |
+| İnfliksimab, adalimumab | TNF-α | Tüberküloz reaktivasyonu; infliksimab kimerik ve IV |
+| Etanersept | TNF-α (füzyon proteini) | Antikor değil; deri altı; Crohn'da etkisiz |
+| Abatasept | CD80/86 | Kostimülasyonu keser |
+| Rituksimab | CD20 | B hücresini tüketir; plazma hücresine etkisiz |
+| Basiliksimab | CD25 (IL-2R) | Nakilde indüksiyon |
+| Muromonab | CD3 | İlk dozda sitokin salınım sendromu |
+| Tosilizumab | IL-6 reseptörü | CRP düşer, enfeksiyon maskelenir |
+| Tofasitinib, barisitinib | JAK | Ağızdan; herpes zoster |
+|= İmmünsüpresif ve biyolojik ilaçların tek tablo özeti.
+!! Sınavda en sık çeldirici olarak kullanılan beş eşleştirme: (1) takrolimus ve sirolimus aynı proteine bağlanır ama farklı enzimi keser; (2) etanersept antikor değil füzyon proteinidir; (3) tofasitinib antikor değil ağızdan alınan JAK inhibitörüdür; (4) anti-TNF tedavisi öncesi tüberküloz taranır; (5) azatioprin + allopurinol kemik iliğini baskılar.

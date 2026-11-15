@@ -1,0 +1,55 @@
+<svg viewBox="0 0 680 430" width="100%" style="display:block;font-family:Source Serif 4,Georgia,serif" role="img" aria-label="T lenfositin uc sinyalle aktivasyonu ve immunsupresif ilaclarin etki noktalari">
+  <defs>
+    <marker id="ok" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a3533"/></marker>
+  </defs>
+  <!-- APC -->
+  <rect x="8" y="40" width="150" height="250" rx="10" fill="#eef6f9" stroke="#0088b0"/>
+  <text x="83" y="62" text-anchor="middle" font-size="13" font-weight="700">Antijen sunan hücre</text>
+  <rect x="98" y="95" width="60" height="30" rx="4" fill="#fff" stroke="#0088b0"/><text x="128" y="114" text-anchor="middle" font-size="11">MHC + peptit</text>
+  <rect x="98" y="175" width="60" height="30" rx="4" fill="#fff" stroke="#0088b0"/><text x="128" y="194" text-anchor="middle" font-size="11">CD80/86</text>
+  <!-- T cell -->
+  <rect x="200" y="20" width="472" height="400" rx="14" fill="#f7f4f2" stroke="#57534e"/>
+  <text x="436" y="40" text-anchor="middle" font-size="13" font-weight="700">T lenfosit</text>
+  <rect x="200" y="95" width="70" height="30" rx="4" fill="#fff" stroke="#57534e"/><text x="235" y="114" text-anchor="middle" font-size="11">TCR / CD3</text>
+  <rect x="200" y="175" width="70" height="30" rx="4" fill="#fff" stroke="#57534e"/><text x="235" y="194" text-anchor="middle" font-size="11">CD28</text>
+  <line x1="158" y1="110" x2="198" y2="110" stroke="#3a3533" stroke-width="2"/>
+  <line x1="158" y1="190" x2="198" y2="190" stroke="#3a3533" stroke-width="2"/>
+  <text x="178" y="104" text-anchor="middle" font-size="10" font-weight="700">1</text>
+  <text x="178" y="184" text-anchor="middle" font-size="10" font-weight="700">2</text>
+  <!-- cascade -->
+  <rect x="300" y="95" width="120" height="30" rx="4" fill="#fff" stroke="#57534e"/><text x="360" y="114" text-anchor="middle" font-size="11">Ca²⁺ ↑ → kalsinörin</text>
+  <line x1="270" y1="110" x2="298" y2="110" stroke="#3a3533" marker-end="url(#ok)"/>
+  <line x1="270" y1="190" x2="330" y2="128" stroke="#3a3533" marker-end="url(#ok)"/>
+  <rect x="450" y="95" width="90" height="30" rx="4" fill="#fff" stroke="#57534e"/><text x="495" y="114" text-anchor="middle" font-size="11">NFAT (aktif)</text>
+  <line x1="420" y1="110" x2="448" y2="110" stroke="#3a3533" marker-end="url(#ok)"/>
+  <!-- nucleus -->
+  <ellipse cx="600" cy="170" rx="62" ry="48" fill="#fff" stroke="#57534e" stroke-dasharray="4 3"/>
+  <text x="600" y="158" text-anchor="middle" font-size="11" font-weight="700">Çekirdek</text>
+  <text x="600" y="176" text-anchor="middle" font-size="11">IL-2 geni</text>
+  <text x="600" y="192" text-anchor="middle" font-size="10">(NF-κB, AP-1 de gerekir)</text>
+  <line x1="540" y1="115" x2="565" y2="133" stroke="#3a3533" marker-end="url(#ok)"/>
+  <!-- IL-2 secreted -> receptor -->
+  <rect x="300" y="245" width="100" height="30" rx="4" fill="#fff" stroke="#57534e"/><text x="350" y="264" text-anchor="middle" font-size="11">IL-2 → CD25 (IL-2R)</text>
+  <line x1="560" y1="210" x2="402" y2="255" stroke="#3a3533" marker-end="url(#ok)"/>
+  <text x="250" y="262" text-anchor="middle" font-size="10" font-weight="700">3</text>
+  <rect x="430" y="245" width="70" height="30" rx="4" fill="#fff" stroke="#57534e"/><text x="465" y="264" text-anchor="middle" font-size="11">mTOR</text>
+  <line x1="400" y1="260" x2="428" y2="260" stroke="#3a3533" marker-end="url(#ok)"/>
+  <rect x="300" y="320" width="100" height="30" rx="4" fill="#fff" stroke="#57534e"/><text x="350" y="339" text-anchor="middle" font-size="11">JAK → STAT</text>
+  <line x1="350" y1="277" x2="350" y2="318" stroke="#3a3533" marker-end="url(#ok)"/>
+  <rect x="525" y="245" width="135" height="30" rx="4" fill="#fff" stroke="#57534e"/><text x="592" y="264" text-anchor="middle" font-size="11">G1 → S: DNA sentezi</text>
+  <line x1="500" y1="260" x2="523" y2="260" stroke="#3a3533" marker-end="url(#ok)"/>
+  <rect x="525" y="320" width="135" height="30" rx="4" fill="#fff" stroke="#57534e"/><text x="592" y="339" text-anchor="middle" font-size="11">Pürin, pirimidin yapımı</text>
+  <line x1="592" y1="318" x2="592" y2="277" stroke="#3a3533" marker-end="url(#ok)"/>
+  <text x="592" y="372" text-anchor="middle" font-size="11" font-weight="700">Klonal çoğalma</text>
+  <!-- drug labels -->
+  <g font-size="10.5" fill="#b42318" font-weight="700">
+    <text x="235" y="88" text-anchor="middle">Muromonab-CD3</text>
+    <text x="128" y="230" text-anchor="middle">Abatasept (CTLA-4-Ig)</text>
+    <text x="360" y="88" text-anchor="middle">Siklosporin, takrolimus</text>
+    <text x="300" y="238" text-anchor="start">Basiliksimab (CD25)</text>
+    <text x="465" y="238" text-anchor="middle">Sirolimus, everolimus</text>
+    <text x="350" y="368" text-anchor="middle">Tofasitinib, barisitinib</text>
+    <text x="592" y="395" text-anchor="middle">Azatioprin, MMF, metotreksat</text>
+    <text x="600" y="232" text-anchor="middle">Glukokortikoidler</text>
+  </g>
+</svg>
