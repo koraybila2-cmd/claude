@@ -66,5 +66,7 @@ Sülfonilürelerin ve inkretin ilaçlarının mekanizması bu zincirin iki halka
 - **Hipokalemi:** İnsülin potasyumu hücre içine sokar; ketoasidoz tedavisinde potasyum izlenir ve yerine konur.
 - **Tip 1 diyabette** tek tedavi insülindir (bazal + bolus). **Tip 2'de** ağızdan ilaçlar yetmediğinde, gebelikte, ağır enfeksiyon ve ameliyatta, ketoasidoz ve hiperozmolar durumda insülin kullanılır.
 
+@EKLE ezber/e8.txt
+
 ## Çıkmış sorular
 @EKLE sorular/s8.txt

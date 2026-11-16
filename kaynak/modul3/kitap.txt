@@ -4,7 +4,8 @@
 ## Düzen
 1. **Konu anlatımı:** Mekanizmalar adım adım, “neden öyle?” sorusunun cevabıyla anlatılır. Kısa tekrar ile ayrıntılı anlatım ayrı değildir; hepsi tek metindedir.
 2. **Çıkmış sorular:** Bölümün sonunda sırasıyla bu yılın MSD soruları (2026-27), geçen yılın MSD soruları, geçen yılın blok sınavı ve daha eski soruların özeti yer alır. Her kartta doğru şık işaretlidir, altında önceki yıllarla karşılaştırma ve çözüm vardır.
-3. **Ezber özeti:** Kitabın son bölümü; her bölümün sınavda en çok sorulan bilgileri tek satırlık maddelerle.
+3. **Kolay ezber:** Her bölümün anlatımı, “görünce düşün” tablosu ve kodlamalardan oluşan bir ezber sayfasıyla biter.
+4. **Ezber özeti:** Kitabın son bölümü; her bölümün sınavda en çok sorulan bilgileri tek satırlık maddelerle.
 !! “Sınav notu” kutuları çıkmış sorularda doğrudan kullanılan bilgiyi, en sık çeldiricileri ve cevap anahtarının standart bilgiyle çeliştiği yerleri gösterir.
 ?? “Ezber ipucu” kutuları kısaltma, benzetme ve kodlamalarla akılda tutmayı kolaylaştırır.
 ## Bu yılın 50 sorusunun bölümlere dağılımı

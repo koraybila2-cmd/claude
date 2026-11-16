@@ -1,0 +1,25 @@
+## Kolay ezber: klasik ipuçları ve kodlamalar
+| Soruda bunu görünce | Cevap |
+| Genç kadın, burun kanaması, yoğun adet kanaması, peteşi; trombosit sayısı normal | **vWF eksikliği → adezyon bozuk** |
+| Uzun süre yatan yaşlı hastada tek bacakta şişlik | DVT; neden **immobilizasyon (staz)** |
+| Ameliyat ya da uzun uçuş sonrası ani nefes darlığı | Akciğer embolisi |
+| Pulmoner arter çatalında embolus | Eyer embolus |
+| Uzun kemik kırığından 1-3 gün sonra nefes darlığı, bilinç bulanıklığı, peteşi | **Yağ embolisi** |
+| Doğum sırasında ani nefes darlığı, şok, DİK | **Amniyon sıvısı embolisi** |
+| Dalgıç, hızlı yüzeye çıkış | Hava (gaz) embolisi |
+| Ven trombozu olan hastada inme | Paradoksal emboli (patent foramen ovale) |
+| Açık-koyu ardışık tabakalar | Zahn çizgileri (canlıyken oluşmuş trombüs) |
+| Trombüs içinde yeni damarlarla akımın dönmesi | **Rekanalizasyon** |
+| Meme kanserinde portakal kabuğu | Lenfatik tıkanma |
+| Hemosiderin yüklü makrofajlar (kalp yetersizliği hücreleri) | Akciğerde kronik konjesyon |
+| Muskat cevizi karaciğeri | Karaciğerde kronik konjesyon |
+| Genç yaşta tekrarlayan ven trombozu, aile öyküsü | Faktör V Leiden |
+|= Hemodinami bölümünün klasik tanıtıcıları.
+?? **Primer hemostaz “A-S-A”:** **A**dezyon → **S**ekresyon → **A**gregasyon. İlk A'nın yapıştırıcısı **vWF** (reseptörü GP **Ib**: “**b**ir numaralı adım”), son A'nın yapıştırıcısı **fibrinojen** (reseptörü GP **IIb/IIIa**: “**i**kinci-üçüncü adım”).
+?? **Virchow “SEH”:** **S**taz, **E**ndotel hasarı, **H**iperkoagülabilite. Arterde **E**, vende **S** baskın.
+?? **Trombüsün dört yolu “BEEO”:** **B**üyür (propagasyon), **E**mboli atar, **E**rir (dissolüsyon), **O**rganize olur ve rekanalize olur.
+?? **Arter beyaz, ven kırmızı:** arteriyel trombüs **beyaz** (trombosit), venöz trombüs **kırmızı** (eritrosit). İkisi de **kalbe doğru** büyür.
+?? **Beyaz enfarkt “KDB”:** **K**alp, **D**alak, **B**öbrek (sert, tek damarlı). **Kırmızı enfarkt “ABT”:** **A**kciğer, **B**ağırsak, **T**orsiyon (gevşek, çift dolaşım, ven tıkanması).
+?? **Ödemin dört nedeni “HOLG”:** **H**idrostatik ↑, **O**nkotik ↓, **L**enf tıkalı, **G**eçirgenlik ↑.
+?? **Transüda–eksüda:** “**T**ransüda **T**emiz ve hafif (1012'nin altı); **E**ksüda **E**nfeksiyon-iltihap, ağır (1020'nin üstü).”
+?? **Hiperemi “aktif-al”:** arter kaynaklı, **al** (kırmızı). **Konjesyon “pasif-mor”:** ven kaynaklı, mavimsi.

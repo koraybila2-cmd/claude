@@ -73,5 +73,7 @@ Bu yüzden nitrat ve dihidropiridinler çoğu kez **beta blokerle birlikte** ver
 | Angina + sildenafil kullanımı | | **Nitrat**, nikorandil |
 |= Eşlik eden duruma göre antianjinal seçimi.
 
+@EKLE ezber/e5.txt
+
 ## Çıkmış sorular
 @EKLE sorular/s5.txt

@@ -1,0 +1,18 @@
+## Kolay ezber: klasik ipuçları ve kodlamalar
+| Soruda bunu görünce | Bunu düşün |
+| Eforla gelen, dinlenince geçen, baskı tarzı ağrı | Stabil angina |
+| Bıçak saplanır, iğne batar, saniyeler süren, parmakla gösterilen ağrı | Anginal **değil** |
+| Öne eğilince azalan, nefesle artan ağrı | Perikardit, plevra |
+| Son haftalarda eşiği düşen, sıklaşan, istirahatte gelen ağrı; troponin normal | Kararsız angina |
+| Gece ya da sabaha karşı istirahatte ağrı, geçici ST yükselmesi, genç sigara içen | Prinzmetal (vazospastik) angina |
+| Troponin yüksek, ST yükselmesi yok | NSTEMI (trombolitik yok) |
+| ST yükselmesi + troponin yüksek | STEMI (hemen damarı aç) |
+| Diyabetik ya da yaşlı hastada eforla nefes darlığı, terleme | Angina eşdeğeri, sessiz iskemi |
+| Sırta vuran yırtılır tarzda ağrı, kollar arasında tansiyon farkı | Aort diseksiyonu (trombolitik verme) |
+|= “Görünce düşün” tablosu.
+?? **Anginanın üç ölçütü “YET”:** **Y**eri retrosternal (baskı), **E**forla gelir, **T**edavisi dinlenme ya da nitrat (dakikalarda geçer). Üçü varsa tipik, ikisi varsa atipik.
+?? **Kararsız angina “YKİ”:** **Y**eni başlayan, **K**reşendo, **İ**stirahatte.
+?? **Damar–duvar “Ön LAD, Yan LCx, Alt RCA”:** V1-V4 **ön** = LAD; I, aVL, V5-V6 **yan** = LCx; II, III, aVF **alt** = RCA. “**L**ad **L**ider” (en sık tıkanan ve en geniş alan).
+?? **Yaşamı uzatan dörtlü “ABSA”:** **A**spirin, **B**eta bloker, **S**tatin, **A**CE inhibitörü. Nitrat “**N**e yazık ki yalnız rahatlatır”.
+?? **AKS'de acil tedavi “MONA-B”:** **M**orfin, **O**ksijen (satürasyon düşükse), **N**itrat, **A**spirin, **B**eta bloker; STEMI'de ek olarak hemen reperfüzyon.
+?? **MI tipleri:** 1 = plak (bir numaralı neden), 2 = ikili dengesizlik (arz-talep), **3 = üçüncü sayfa haberi: ani ölüm**, 4 = balon/stent, 5 = baypas cerrahisi (en büyük girişim, en büyük sayı).

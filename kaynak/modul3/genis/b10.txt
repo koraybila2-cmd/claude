@@ -127,5 +127,7 @@ Kılcal damarda sıvıyı **dışarı iten** güç **hidrostatik basınç**, **i
 | Görünüm | Berrak | Bulanık |
 |= Transüda ve eksüda. “Transüdanın özgül ağırlığı 1012'den büyüktür” ifadesi yanlıştır.
 
+@EKLE ezber/e10.txt
+
 ## Çıkmış sorular
 @EKLE sorular/s10.txt

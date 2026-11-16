@@ -90,5 +90,7 @@ Uyarı bir halka üzerinde dönüp aynı dokuyu yeniden uyarır. Üç koşul ger
 ### Pulmoner hipertansiyonda sağ ventrikül (S10 vaka sorusu)
 Bu vaka “Kalp yetersizliği” bölümünün sorusudur ama mekanizması burada da işe yarar: (1) pulmoner vasküler direnç artar → sağ ventrikülün **afterload'u** yükselir; (2) sağ ventrikül önce kalınlaşır, sonra genişler ve basıncı karşılayamaz (**RV-PA uyumsuzluğu**; TAPSE/PASP oranı 0,36'nın altında, vakada 0,13); (3) genişleyen sağ ventrikül septumu sola iter (**D biçimli septum**) ve sol ventrikülün dolumunu bozar (ventriküller arası bağımlılık); (4) sol ventrikül atım hacmi ve kalp indeksi düşer, miks venöz oksijen satürasyonu azalır. Perikard efüzyonu bu tablonun sonucudur, tek ve başlıca mekanizması değildir.
 
+@EKLE ezber/e3.txt
+
 ## Çıkmış sorular
 @EKLE sorular/s3.txt

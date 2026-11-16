@@ -1,0 +1,21 @@
+## Kolay ezber: klasik ipuçları ve kodlamalar
+| Soruda bunu görünce | Cevap |
+| Akciğer fibrozu, tiroid bozukluğu, kornea depoziti, gri-mavi deri, yarı ömür 40-60 gün | **Amiodaron** |
+| İlaca bağlı lupus (anti-histon) | **Prokainamid** |
+| Kulak çınlaması, baş dönmesi (sinkonizm), ishal | Kinidin |
+| Antikolinerjik antiaritmik (idrar retansiyonu) | Disopiramid |
+| İskemik ventriküler aritmi; QT kısaltır | **Lidokain** |
+| “En güçlü sodyum kanal blokeri”; MI sonrası ölümü artırır | **Flekainid** |
+| Beta bloker + potasyum kanal blokeri | Sotalol |
+| “Atriyum seçici, yeni başlamış AF, yalnız intravenöz” | **Vernakalant** |
+| Yarı ömrü saniyeler, hızlı bolus, geçici asistoli, teofilin etkisini keser | **Adenozin** |
+| İyotsuz amiodaron | Dronedaron |
+| “Gap junction” | Rotigaptid |
+| Torsades tedavisi | Magnezyum |
+|= Antiaritmiklerin klasik tanıtıcıları.
+?? **Amiodaron yan etkileri “ATKG-DS”:** **A**kciğer (fibroz), **T**iroid (hipo ya da hiper), **K**araciğer, **G**öz (kornea depoziti), **D**eri (gri-mavi renk, ışığa duyarlılık), **S**inir (tremor, nöropati). İlk dördü düzenli izlenir.
+?? **QT uzatanlar “beş anti + bir azol”:** **anti**aritmik (Ia, III), **anti**biyotik (makrolid, florokinolon), **anti**psikotik, **anti**depresan (trisiklik), **anti**emetik (ondansetron) ve azol antifungaller.
+?? **Sınıf III ilaçları “ADIS-V”:** **A**miodaron, **D**ofetilid/**D**ronedaron, **İ**butilid, **S**otalol, **V**ernakalant. Hepsi “**K**” kanalı: “III = **K**” (K harfinde üç çizgi var).
+?? **Adenozin “A”ları:** **A**1 reseptörü, **A**V düğüm, **A**ni bolus, **A**nlık etki (10 saniye), **A**stımda dikkat, **A**minofilin antagonistidir.
+?? **Lidokain “Li-V-İ”:** yalnız **V**entrikül, yalnız **İ**skemi, yalnız **İ**ntravenöz.
+?? **Diltiazem–verapamil:** “**D**iltiazem **D**aha çok emilir; **V**erapamil **V**agon gibi proteine bağlanır.”

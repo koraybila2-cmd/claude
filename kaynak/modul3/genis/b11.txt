@@ -63,5 +63,7 @@ Enfarktüs geçirdikten bir süre sonra ani keskin göğüs ağrısı, hipotansi
 - **III. “Otopside dens skar izlenir”** ✗ Rüptür bölgesi yumuşak, sarı ve kanamalıdır; yoğun skar ancak haftalar sonra oluşur. Skar oluşmuş olsaydı duvar yırtılmazdı.
 Cevap: I ve II.
 
+@EKLE ezber/e11.txt
+
 ## Çıkmış sorular
 @EKLE sorular/s11.txt

@@ -94,5 +94,7 @@ Bu yılın S31'i dört öncülle soruldu; doğru olanlar I ve II'dir:
 | Belirtili bradikardi, AV blok | Atropin, izoproterenol, geçici pil | Kalıcı pil |
 |= Aritmiye göre ilaç seçimi.
 
+@EKLE ezber/e6.txt
+
 ## Çıkmış sorular
 @EKLE sorular/s6.txt

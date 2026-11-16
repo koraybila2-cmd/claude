@@ -1,0 +1,20 @@
+## Kolay ezber: klasik ipuçları ve kodlamalar
+| EKG ya da öyküde bunu görünce | Bunu düşün |
+| Düzensiz düzensiz RR, P dalgası yok | Atriyal fibrilasyon |
+| Testere dişi dalgalar, ventrikül hızı 150 | Atriyal flutter (2:1) |
+| Kısa PR + delta dalgası + geniş QRS | WPW |
+| Aniden başlayıp aniden biten düzenli dar QRS'li taşikardi, genç kadın | AVNRT |
+| QRS ekseninin burkulduğu polimorfik VT, uzun QT | Torsades de pointes |
+| Geniş QRS'li düzenli taşikardi, geçirilmiş MI | Ventriküler taşikardi |
+| Yavaş başlayıp yavaş biten, normal P'li taşikardi; ateş, anemi, hipertiroidi | Sinüs taşikardisi (otomatisite) |
+| Digoksin alan hastada bigemine, bloklu atriyal taşikardi | Geç afterdepolarizasyon |
+| Yüzerken ya da ani zil sesiyle bayılan genç, ailede ani ölüm | Doğuştan uzun QT |
+|= Aritmilerin klasik tanıtıcı özellikleri.
+?? **Fazlar ve iyonlar “Na-K-Ca-K-dinlen”:** faz 0 **Na** girer, faz 1 **K** biraz çıkar, faz 2 **Ca** girer (plato), faz 3 **K** çıkar, faz 4 dinlenme. Düğümde “sodyum yok”: faz 0 **Ca**.
+?? **Üç mekanizma “OTR”:** **O**tomatisite (sinüs taşikardisi), **T**etiklenmiş (torsades, digoksin), **R**e-entry (geri kalan hemen hepsi). Soruda “re-entry ile olmayan” denirse otomatik olarak **sinüs taşikardisi**.
+?? **EAD mi DAD mı?** **E**AD = **E**rken = **E**ğri uzun (uzun QT, yavaş kalp). **D**AD = **D**igoksin = **D**olu kalsiyum (hızlı kalp).
+?? **Re-entry'nin üç şartı “İki yol, bir blok, bir yavaş”.**
+?? **AVNRT ve AVRT:** A-V-**N**-RT = devre **N**od'un içinde. AV-RT = devre **AV** arasında, ek yol üzerinden (WPW).
+?? **WPW'de yasak ilaçlar “ABCD”:** **A**denozin, **B**eta bloker, **C**alsiyum kanal blokeri (verapamil, diltiazem), **D**igoksin (AF varken AV düğümü kapatıp uyarıyı ek yola yollarlar).
+?? **AF'nin üç zararı “HIZ-TEKME-PIHTI”:** hızlı ventrikül (taşikardik kardiyomiyopati), atriyal tekme kaybı (doluş ↓), sol atriyal apendikste pıhtı (inme). Üç tedavi ayağı da aynı sırayla: hız kontrolü, ritim kontrolü, antikoagülan.
+?? **Şok mu kardiyoversiyon mu?** Nabız **yoksa** de**fib**rilasyon (VF, nabızsız VT); nabız **var** ama hasta kötüyse **senkronize** kardiyoversiyon.

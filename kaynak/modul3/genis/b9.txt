@@ -100,5 +100,7 @@ Hepsi **plazminojeni plazmine** çevirir; plazmin fibrini (ve fibrinojeni) parç
 |= Antitrombotik ilaçlarda izlem ve antidotlar.
 ?? “**H**eparin – a**P**TT – **P**rotamin” (HPP); “**W**arfarin – **P**T – vitamin **K**” (WPK). Heparin iç yolu (aPTT), varfarin dış yolu (PT; en kısa ömürlü faktör VII) uzatır.
 
+@EKLE ezber/e9.txt
+
 ## Çıkmış sorular
 @EKLE sorular/s9.txt

@@ -79,5 +79,7 @@ Trombolitikler fibrini eritir. STEMI'deki tam tıkayan pıhtı fibrinden zengind
 |= Angina ve AKS tedavisinde ilaçlar. Antianjinal ilaçların ayrıntısı Bölüm 5'te.
 !! **Anahtara dikkat edilmesi gereken iki soru.** (1) Bu yıl S3: “angina tedavisinde kullanılan ilaçlardan yanlış olan” sorusunda anahtar **dihidropiridin kalsiyum kanal blokeri** dedi; oysa standart bilgide uzun etkili dihidropiridinler (amlodipin) anginada kullanılır, yalnız kısa etkili nifedipin refleks taşikardi yaptığı için önerilmez. Geçen yılın blok sınavında aynı listede cevap “hepsi kullanılır” idi. (2) S6: “STEMI için yanlış olan” sorusunda anahtar **GP IIb/IIIa antagonistleri** dedi; standart bilgide bu ilaçlar perkütan girişim sırasında seçilmiş hastada kullanılır. Sınavda aynı sorular gelirse anahtarın istediği şıkkı işaretleyin.
 
+@EKLE ezber/e1.txt
+
 ## Çıkmış sorular
 @EKLE sorular/s1.txt

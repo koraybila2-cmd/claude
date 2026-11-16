@@ -1,0 +1,24 @@
+## Kolay ezber: klasik ipuçları ve kodlamalar
+| Soruda bunu görünce | Cevap |
+| “Troponin C'ye bağlanır, kalsiyuma duyarlılaştırır, ATP tüketimini artırmaz” | **Levosimendan** |
+| “Rekombinan BNP” | **Nesiritid** |
+| “Na-K ATPaz inhibisyonu”, sarı-yeşil görme, bigemine | **Digoksin** |
+| “PDE3 inhibitörü inotrop” | Milrinon |
+| “Sülfhidril grubu, hızlı-kısa etkili, tat bozukluğu, döküntü” | **Kaptopril** |
+| “Hem böbrek hem karaciğerle atılır” | **Fosinopril** |
+| “Önilaç olmayan ACE inhibitörleri” | **Kaptopril, lisinopril** |
+| ACE inhibitörüyle kuru öksürük | Bradikinin birikimi → ARB'ye geç |
+| “Karbonik anhidraz inhibitörü, metabolik asidoz, böbrek taşı” | **Asetazolamid** |
+| Jinekomasti yapan diüretik | Spironolakton (eplerenon yapmaz) |
+| Ototoksik diüretik | Furosemid |
+| Gece nefes darlığıyla uyanma, iki yastıkla yatma | Sol kalp yetersizliği |
+| Boyun venlerinde dolgunluk, asit, bacak ödemi | Sağ kalp yetersizliği |
+|= Kalp yetersizliği ve ilaçlarının klasik tanıtıcıları.
+?? **Sol mu sağ mı?** **S**ol = **S**olunum (nefes darlığı, ortopne, ral). **S**ağ = **Ş**işlik (boyun veni, karaciğer, bacak).
+?? **Önilaç olmayanlar “KaLi”:** **Ka**ptopril ve **Li**sinopril zaten aktiftir; gerisi “-pril → -prilat” olur.
+?? **F**osinopril = **F**arklı yol: yalnız böbrek değil, böbrek + safra (karaciğer).
+?? **ARB = “-sartan”,** öksürük yapmaz; **“sakubitril”** neprilisini tutar, BNP'yi korur.
+?? **Digoksin toksisitesini artıranlar “KAV-hipoK”:** **K**inidin, **A**miodaron, **V**erapamil ve **hipok**alemi (diüretik).
+?? **İnotroplar:** **D**obutamin = β1 (**D**oğrudan reseptör), **M**ilrinon = PDE3 (**M**olekülü, cAMP'yi yıkımdan korur), **L**evosimendan = troponin C (**L**ifi duyarlılaştırır), **D**igoksin = pompa (Na-K ATPaz).
+?? **Diüretikler nefron sırasıyla “A-L-T-S”:** **A**setazolamid (proksimal), **L**oop/furosemid (Henle), **T**iyazid (distal), **S**pironolakton (toplayıcı kanal). Potasyum: ilk üçü **düşürür**, sonuncusu **yükseltir**.
+?? **Tiyazid yan etkileri “hiperGLUK”:** hiper**G**lisemi, hiper**L**ipidemi, hiper**Ü**risemi, hiper**K**alsemi (potasyum ve sodyum ise düşer).

@@ -78,5 +78,7 @@ Bu bölümün soruları doğru eşleştirmeyi dört yanlış eşleştirmenin ara
 |= Çıkmış yanlış şıklar ve doğruları.
 ?? Hedef eşleştirmeleri tek satırda: **S**tatin–HMG-CoA redüktaz; **E**zetimib–NPC1L1; **R**eçine–safra asidi; **F**ibrat–PPAR-α; **N**iasin–hormon duyarlı lipaz; **-kumab**–PCSK9 proteini; **inklisiran**–PCSK9 mRNA'sı; **bempedoik asit**–ATP sitrat liyaz; **lomitapid**–MTTP.
 
+@EKLE ezber/e7.txt
+
 ## Çıkmış sorular
 @EKLE sorular/s7.txt

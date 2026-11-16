@@ -1,0 +1,21 @@
+## Kolay ezber: klasik ipuçları ve kodlamalar
+| Soruda bunu görünce | Cevap |
+| “COX-1'i geri dönüşümsüz asetiller” | **Aspirin** |
+| “Önilaç, CYP2C19, geri dönüşümsüz P2Y12” | **Klopidogrel** |
+| “Aktif ilaç, geri dönüşümlü P2Y12”, nefes darlığı | **Tikagrelor** |
+| “Monoklonal antikor, GP IIb/IIIa” | **Absiksimab** |
+| Trombosit düşer ama hasta tromboz yapar (5-10. gün) | **HIT** → heparini kes, argatroban ver |
+| “Antitrombin aracılığıyla yalnız Xa” | **Fondaparinuks** |
+| “Serbest ve bağlı trombini baskılar, böbrekten atılır, ağızdan” | **Dabigatran** |
+| Deri nekrozu, teratojen, INR | **Varfarin** |
+| Antijenik, fibrine seçici olmayan fibrinolitik | **Streptokinaz** |
+| Bolus verilen fibrinolitik | Tenekteplaz, retaplaz |
+| Gebede antikoagülan | Heparin, DMAH (varfarin değil) |
+|= Antitrombotiklerin klasik tanıtıcıları.
+?? **Hedefi adından okuyun:** riva-ro-**ksa**-ban, api-**ksa**-ban, edo-**ksa**-ban = **Xa**. Dabi-**gatran**, ar-**gatroban**, bivali-**rudin** = **trombin**. “-**parin**” = heparin ailesi (antitrombin). “-**grel**/-**grelor**” = P2Y12. “-**fiban**/-**fibatid**” = **fib**rinojen reseptörü (GP IIb/IIIa). “-**plaz**/-**kinaz**” = fibrinolitik.
+?? **Varfarinin faktörleri “1972”:** **10, 9, 7, 2** (ve protein C, S).
+?? **Geri dönüşümsüzler “A-K-P”:** **A**spirin, **K**lopidogrel, **P**rasugrel (ameliyattan 5-7 gün önce kesilir). **T**ikagrelor **t**ersinir.
+?? **Heparin aileleri küçüldükçe hedef daralır:** heparin (Xa = IIa) → DMAH (Xa > IIa) → fondaparinuks (yalnız Xa).
+?? **İzlem:** **H**eparin **h**astanede verilir → a**P**TT (iç yol). **V**arfarin e**v**de alınır → **P**T/INR (dış yol).
+?? **Antidotlar:** heparin → **p**rotamin; varfarin → **K** vitamini; dabigatran → **i**darusizumab (“**dabi**”nin “**ida**”sı); Xa inhibitörleri → **andeksa**net (“**anti-Xa**”).
+?? **Arter = trombosit = antiagregan; ven = fibrin = antikoagülan.**

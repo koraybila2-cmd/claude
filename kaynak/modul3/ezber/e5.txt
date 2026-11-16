@@ -1,0 +1,18 @@
+## Kolay ezber: klasik ipuçları ve kodlamalar
+| Soruda bunu görünce | Cevap |
+| “Hem preload hem afterload” | **Nitrat** |
+| “cGMP”, “tiyol grubu”, “tolerans”, “nitratsız aralık” | Nitrat |
+| “Sildenafille birlikte verilmez” | Nitrat (ve nikorandil) |
+| “AV iletiyi azaltır”, kabızlık | **Verapamil** |
+| Refleks taşikardi, ayak bileği ödemi, diş eti hiperplazisi | Dihidropiridin (nifedipin, amlodipin) |
+| “I<sub>f</sub> akımı”, “HCN”, yalnız hız düşer, fosfen | **İvabradin** |
+| “Geç sodyum akımı”, hız ve tansiyon değişmez, QT uzar | **Ranolazin** |
+| “K<sub>ATP</sub> kanal açıcı + nitrat benzeri” | **Nikorandil** |
+| “Yağ asidi oksidasyonunu baskılar” | **Trimetazidin** |
+| Beta bloker sakıncalı, kalsiyum kanal blokeri uygun | **Vazospastik angina** |
+|= Antianjinal ilaçların klasik tanıtıcıları.
+?? **Nitrat zinciri “N-G-G”:** **N**O → **G**uanilat siklaz → c**G**MP → gevşeme. Yan etkiler “**BAŞ-TAŞ-DÜŞ**”: **baş** ağrısı, refleks **taş**ikardi, tansiyon **düş**mesi.
+?? **Nitrat “Ven”, dihidropiridin “Arter”, beta bloker “Kalp”:** V-A-K. Preload'u ven, afterload'u arter, hızı kalp ilacı düşürür.
+?? **Refleks taşikardi yapanlar** (nitrat, dihidropiridin) ile **hız düşürenler** (beta bloker) birbirini dengeler: iyi kombinasyon. **İki hız düşüren** (verapamil + beta bloker) bir arada: kötü kombinasyon.
+?? **İvabradin = “İf-abradin”:** adının başındaki **İ**, I<sub>f</sub> akımını hatırlatır. **Rano-lazin = “Na-lazin”:** geç **Na** akımı.
+?? **Prinzmetal “3 S”:** **S**pazm, **S**abaha karşı, **S**T yükselmesi; tedavide de “**S**akın beta bloker verme”.

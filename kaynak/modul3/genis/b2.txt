@@ -55,5 +55,7 @@ Buradan pratik kural çıkar: **erken belirteç duyarlıdır ama özgül değild
 ### Doğal natriüretik peptitler (ek bilgi)
 BNP ve NT-proBNP ventrikül duvarı gerildiğinde salınır; enfarktüs değil **kalp yetersizliği** belirtecidir (Bölüm 4).
 
+@EKLE ezber/e2.txt
+
 ## Çıkmış sorular
 @EKLE sorular/s2.txt

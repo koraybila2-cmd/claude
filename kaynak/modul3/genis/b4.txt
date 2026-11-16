@@ -92,5 +92,7 @@ Anjiyotensin dönüştürücü enzim (ACE, kininaz II) iki iş yapar: anjiyotens
 - **Furosemid:** En güçlü diüretik; akut akciğer ödeminde intravenöz verilir (ayrıca venleri genişletip preloadu hemen düşürür).
 ?? Kalsiyum: “**L**oop **L**oses calcium (kaybettirir), **T**iyazid **T**utar.” Asit-baz: asetazolamid ve potasyum tutucular **asidoz**; kıvrım ve tiyazid **alkaloz**.
 
+@EKLE ezber/e4.txt
+
 ## Çıkmış sorular
 @EKLE sorular/s4.txt

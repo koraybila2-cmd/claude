@@ -1,0 +1,16 @@
+## Kolay ezber: klasik ipuçları ve kodlamalar
+| Soruda bunu görünce | Cevap |
+| En erken yükselen (klasik) belirteç; iskelet kasında da var; seri ölçümü değersiz | **Miyoglobin** |
+| “Uzun zincirli yağ asitlerini taşır”, “düşük molekül ağırlıklı sitozolik”, “enfarkt büyüklüğünü erken gösterir” | **H-FABP** |
+| “Kobalt bağlayamaz”, “albüminin N-terminali”, “FDA”, “iskemi belirteci” | **İMA** |
+| Yeniden enfarktüsü (reinfarkt) gösteren | **CK-MB** |
+| En özgül; 2 hafta yüksek kalan; geç gelen hastada tanı | **Troponin** |
+| 4-8 saatte başlar, 14-36 saatte tepe, 2 hafta sürer | Troponin (cTnI) |
+| “Serum konsantrasyonu miyokard içinin birkaç katı olmalı” | **Ters cümle** → ideal belirteç ölçütü değil |
+| “Yeniden kanlanmadan sonra yavaşlar / başlar” | **Yanlış** → kanlanınca hızlanır (yıkanma) |
+| Üre, kreatinin | MI enzimi değil |
+|= Biyobelirteç sorularının anahtar sözcükleri.
+?? **Sayılarla zaman:** Miyoglobin “**1-6-24**” (1 saatte çıkar, 6'da tepe, 24'te biter). CK-MB “**4-24-72**” (4 saatte çıkar, 24'te tepe, 72 saatte biter). Troponin “**4-24-14 gün**”. Küçük protein erken çıkar erken gider; büyük yapısal protein geç çıkar uzun kalır.
+?? **İdeal belirteç “ÖZEL”:** **Ö**zgül, **Z**aman aralığı geniş (erken + geç), **E**lverişli yöntem (acil laboratuvar), **L**okal yoğunluk yüksek (miyokardda serumdan çok) ve duyarlı.
+?? **H-FABP = “Hızlı – Fatty (yağ) – Büyüklük”:** hızlı yükselir (2 saat), yağ asidi taşır (**uzun** zincirli), enfarkt büyüklüğünü söyler.
+?? **İMA = “İskemi – Metal (kobalt) – Albümin”.**

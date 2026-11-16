@@ -1,0 +1,19 @@
+## Kolay ezber: klasik ipuçları ve kodlamalar
+| Soruda bunu görünce | Cevap |
+| MI'dan 3-7 gün sonra ani göğüs ağrısı, hipotansiyon, boyun venlerinde dolgunluk | **Serbest duvar rüptürü, tamponad** |
+| MI'dan günler sonra yeni pansistolik üfürüm + sağ kalp yetersizliği | Septum rüptürü |
+| MI'dan günler sonra ani akciğer ödemi + yeni mitral yetersizliği üfürümü | Papiller kas rüptürü |
+| MI'dan 1-3 gün sonra sürtünme sesi, öne eğilince azalan ağrı | Erken (fibrinöz) perikardit |
+| MI'dan haftalar sonra ateş, plörit, perikardit | Dressler sendromu |
+| MI'dan haftalar sonra kalıcı ST yükselmesi, duvarda balonlaşma | Ventrikül anevrizması |
+| MI sonrası inme | Mural trombüs embolisi |
+| MI'nın ilk saatinde ani ölüm | Ventriküler fibrilasyon |
+| 11. günde görülmeyen hücre | Nötrofil |
+| “İskemi subepikarddan başlar” | Yanlış (subendokard) |
+| “Rüptürde dens skar” | Yanlış (yumuşak, sarı doku) |
+|= Enfarktüs patolojisinin klasik tanıtıcıları.
+?? **Hücre sırası “N-M-G-S”:** **N**ötrofil (1-3 gün) → **M**akrofaj (3-7 gün) → **G**ranülasyon (7-10 gün) → **S**kar (2 hafta-2 ay). “**N**e **M**utlu **G**ünler **S**onra.”
+?? **Sayılar “1-3-7-10”:** 1. gün nekroz, 3. gün nötrofil doruğu, 7. gün makrofaj ve rüptür, 10. gün granülasyon. Rüptür = “**3-7**: en yumuşak hafta”.
+?? **Subendokard = “Son durak”:** damarın en ucu, basıncın en yükseği; ilk ölen tabaka.
+?? **Komplikasyonlar zaman sırasıyla “A-P-R-A-D”:** **A**ritmi (saatler), **P**erikardit (1-3 gün), **R**üptür (3-7 gün), **A**nevrizma (haftalar), **D**ressler (haftalar-aylar).
+?? **Damar sıklığı “LAD > RCA > LCx”:** yaklaşık %50 – %35 – %15.

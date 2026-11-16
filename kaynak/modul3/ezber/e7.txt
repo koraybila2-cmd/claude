@@ -1,0 +1,21 @@
+## Kolay ezber: klasik ipuçları ve kodlamalar
+| Soruda bunu görünce | Cevap |
+| Kas ağrısı, CK yüksekliği, rabdomiyoliz | **Statin** (gemfibrozille artar) |
+| Yüz kızarması (flushing), gut, kan şekeri yükselmesi | **Niasin** |
+| Kabızlık, şişkinlik; trigliseriti yükseltir; diğer ilaçların emilimini bozar | **Reçine** |
+| Safra taşı; trigliseriti en çok düşürür | **Fibrat** |
+| “NPC1L1” | **Ezetimib** |
+| “PPAR-α” | **Fibrat** |
+| “PCSK9 antikoru”, deri altı | **Evolokumab, alirokumab** |
+| “siRNA”, “PCSK9 mRNA'sı”, yılda iki kez | **İnklisiran** |
+| “ATP sitrat liyaz” | Bempedoik asit |
+| “MTTP” | Lomitapid |
+| “ANGPTL3” | Evinakumab |
+| Gebede kullanılabilen tek grup | Reçineler |
+|= Hipolipidemiklerin klasik tanıtıcıları.
+?? **En iyiler:** LDL'yi en çok **statin** (ve PCSK9 inhibitörü), trigliseriti en çok **fibrat**, HDL'yi en çok **niasin** düzeltir. “**S**-LDL, **F**-TG, **N**-HDL.”
+?? **PPAR'lar:** PPAR-**α** = fibr**a**t (yağ yakar); PPAR-**γ** = **g**litazon (şeker düşürür).
+?? **Niasin “4 F”:** **F**lushing, **F**azla ürik asit (gut), **F**azla şeker, **F**ena karaciğer. Flushing'e çare: yarım saat önce aspirin.
+?? **Reçine adları “Kole-”:** **kole**stiramin, **kole**stipol, **kole**sevelam = **kole**sterolün safra asidini bağlar.
+?? **PCSK9 ilaçları:** “-**kumab**” antikordur, proteini tutar; “-**siran**” **si**RNA'dır, mRNA'yı keser.
+?? **Statin + ne tehlikeli? “GeMaK”:** **Ge**mfibrozil, **Ma**krolid (ve azol), si**K**losporin.

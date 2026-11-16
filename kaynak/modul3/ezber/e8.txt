@@ -1,0 +1,21 @@
+## Kolay ezber: klasik ipuçları ve kodlamalar
+| Soruda bunu görünce | Cevap |
+| Laktik asidoz, B12 eksikliği, kilo aldırmaz | **Metformin** |
+| “K<sub>ATP</sub> kanalını kapatır”, hipoglisemi, kilo alımı | **Sülfonilüre** |
+| Ek olarak antiagregan ve fibrinolitik etki | **Gliklazid** |
+| “PPAR-γ”, ödem, kalp yetersizliği, kırık | **Pioglitazon** |
+| Gaz, şişkinlik; hipoglisemide yalnız glukoz işe yarar | **Akarboz, miglitol** |
+| Genital mantar enfeksiyonu, öglisemik ketoasidoz, kalp-böbrek yararı | **SGLT-2 inhibitörü** |
+| Bulantı, belirgin kilo kaybı, medüller tiroid kanserinde yasak | **GLP-1 agonisti** |
+| “GLP-1 + GIP” | **Tirzepatid** |
+| Damardan verilen insülin; gebede güvenli | **Regüler insülin** |
+| Tepe yapan orta etkili insülin | **NPH** |
+| Haftada bir insülin | **İcodec** |
+| Pompada kullanılan insülin | Hızlı etkili analog |
+|= Antidiyabetiklerin klasik tanıtıcıları.
+?? **Hızlı insülinler “LAG yok”** (gecikme yok): **L**ispro, **A**spart, **G**lulisin. **Uzun insülinler “GDD”** (Geç Düz Devam): **G**larjin, **D**etemir, **D**egludek.
+?? **NPH = “Ne Pik Ha!”** → tepe yapar. Uzun analoglar “dümdüz”.
+?? **Kilo:** verdirenler “**G-S-M**” (**G**LP-1, **S**GLT-2, **M**etformin); aldıranlar “**İ-S-T**” (**İ**nsülin, **S**ülfonilüre, **T**iyazolidindion).
+?? **Hipoglisemi yapanlar yalnız “salgılatanlar” ve insülin:** sülfonilüre, glinid, insülin. Diğerleri tek başına yapmaz.
+?? **HbA1c eşikleri “5,7 – 6,5”:** altı normal, arası prediyabet, üstü diyabet. Açlık şekeri “100 – 126”.
+?? **SGLT-2 = “Şekeri Sidikle”** atar (idrarla); bu yüzden genital enfeksiyon ve sıvı kaybı. **-gli**pt**in:** **p**ep**t**idazı (DPP-4) tutar, GLP-1'i korur.
