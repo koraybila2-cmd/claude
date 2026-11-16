@@ -1,0 +1,98 @@
+# Antiaritmik İlaçlar | Bu yıl 4 soru (S26, S29, S31, S32), geçen yıl 6 soru; her yıl 4-6 soru. Sınıflama, QT'yi uzatan-kısaltan ilaçlar, amiodaron, vernakalant ve adenozin sabit konular. Aksiyon potansiyeli fazları için Bölüm 3'e bakın.
+
+## 1. Vaughan Williams sınıflaması: hangi faz, hangi kanal?
+Sınıflamayı ezberlemenin yolu, her sınıfı aksiyon potansiyelinin bir fazına bağlamaktır (Şekil 3.A): **sınıf I faz 0** (sodyum), **sınıf II faz 4** (düğümlerde sempatik etki), **sınıf III faz 3** (potasyum), **sınıf IV düğümlerde faz 0** (kalsiyum).
+| Sınıf | Hedef | Aksiyon potansiyeli süresi (QT) | İlaçlar | Kullanım ve not |
+| **Ia** | Na⁺ kanalı (orta) + K⁺ kanalı | **Uzar** | **Kinidin, prokainamid, disopiramid** | Atriyal ve ventriküler aritmi; QT uzar, torsades |
+| **Ib** | Na⁺ kanalı (zayıf; hızlı bağlanıp ayrılır) | **Kısalır** | **Lidokain, meksiletin**, fenitoin | Yalnız **ventriküler** aritmi, özellikle iskemik dokuda; QT kısalır |
+| **Ic** | Na⁺ kanalı (**en güçlü**; yavaş ayrılır) | Pek değişmez | **Flekainid, propafenon**, ajmalin | Yapısal olarak sağlam kalpte AF, SVT; **MI sonrası ve yapısal kalp hastalığında kullanılmaz** (ölümü artırır) |
+| **II** | β reseptörü | | Propranolol, metoprolol, esmolol | Faz 4 eğimini azaltır, AV iletiyi yavaşlatır; MI sonrası ani ölümü azaltır |
+| **III** | K⁺ kanalı | **Uzar** | **Amiodaron**, dronedaron, **sotalol**, dofetilid, ibutilid, vernakalant | Hepsi QT uzatır; torsades riski (amiodaronda en az) |
+| **IV** | L tipi Ca²⁺ kanalı | | **Verapamil, diltiazem** | AV düğümü yavaşlatır: SVT, AF'de hız kontrolü |
+| Diğer | | | **Adenozin, digoksin, magnezyum**, atropin, izoproterenol | |
+|= Antiaritmik ilaçların sınıflaması.
+?? Sınıf sırası “**S**o**B**e **P**a**C**a”: **S**odyum (I), **B**eta (II), **P**otasyum (III), **C**alsiyum (IV). Sınıf I alt grupları ve QT: “**a** uz**a**tır, **b** **b**üzer (kısaltır), **c** **c**ansız bırakır (değiştirmez)”. İlaç adları: Ia “**K**ral **P**ro **Di**sko” (kinidin, prokainamid, disopiramid); Ib “**L**i**M**on” (lidokain, meksiletin); Ic “**F**la**P**” (flekainid, propafenon).
+### Sodyum kanal blokerleri neden üç alt gruba ayrılır?
+Hepsi faz 0'ı yavaşlatır (iletim hızı ↓, QRS genişler), ama kanaldan **ayrılma hızları** farklıdır:
+- **Ib hızlı ayrılır:** Normal hızda atan sağlıklı hücrede atımlar arasında kanaldan çıkar, etkisi azdır. Sık ateşleyen ya da **iskemiyle depolarize** olmuş hücrede kanal sürekli açık ya da inaktif durumdadır ve ilaç yapışık kalır. Bu yüzden lidokain “hasta dokuyu seçer”: MI sonrası ventriküler aritmide kullanılır; atriyal aritmide etkisizdir. Repolarizasyonu hafif kısaltır.
+- **Ic çok yavaş ayrılır:** Normal hızda bile iletimi belirgin yavaşlatır. Skarlı kalpte yavaşlayan iletim re-entry'yi kolaylaştırır; CAST çalışmasında flekainid MI sonrası ölümü artırmıştır. Flekainid ayrıca ryanodin reseptörünü (RyR2) baskılar ve kateşolaminerjik polimorfik VT'de işe yarar.
+- **Ia arada:** ek olarak potasyum kanalını bloke ettiği için QT'yi uzatır.
+- **Ajmalin:** hücreye sodyum girişini yavaşlatır; faz 0'ın maksimum hızını ve doruğunu düşürür, aksiyon potansiyeli amplitüdünü azaltır. Brugada sendromunun tanı testinde kullanılır.
+### Sınıf Ia ilaçların özel yan etkileri
+- **Kinidin:** “sinkonizm” (kulak çınlaması, baş dönmesi, görme bozukluğu), ishal, trombositopeni; digoksin düzeyini artırır; antikolinerjik etkiyle AV iletiyi hızlandırabilir.
+- **Prokainamid:** **ilaca bağlı lupus** (anti-histon; yavaş asetilleyicilerde), intravenöz verilişte hipotansiyon.
+- **Disopiramid:** belirgin **antikolinerjik** etki (idrar retansiyonu, ağız kuruluğu, glokom) ve negatif inotropi.
+
+## 2. Sınıf III: amiodaron ve diğerleri
+### Amiodaron
+- **Dört sınıfın etkisini birden taşır:** potasyum, sodyum ve kalsiyum kanallarını ve β reseptörleri bloke eder. Hem atriyal hem ventriküler aritmilerde en etkili ilaçtır; düşük EF'li hastada kullanılabilen az sayıdaki antiaritmikten biridir. QT'yi uzatmasına rağmen torsades riski düşüktür.
+- **Yapısı iyot içerir ve tiroksine benzer;** etkilerinin bir bölümü nükleer tiroid reseptörü üzerindendir.
+- **Çok yağda çözünür,** dokularda birikir; **yarı ömrü 40-60 gündür.** Etkisi geç başlar, ilaç kesildikten aylar sonra bile sürer.
+| Organ | Yan etki | İzlem |
+| **Akciğer** | **Pulmoner fibroz** (en ciddi) | Akciğer grafisi, solunum testi |
+| **Tiroid** | **Hipotiroidi ya da hipertiroidi** (iyot yükü, T4 → T3 dönüşümünün baskılanması) | TSH |
+| **Karaciğer** | Enzim yükselmesi, hepatit | Karaciğer testleri |
+| **Göz** | **Korneada mikrodepozitler**, nadiren optik nörit | Göz muayenesi |
+| **Deri** | **Işığa duyarlılık**, **gri-mavi renk değişimi** | Güneşten korunma |
+| Kalp | Bradikardi, AV blok | EKG |
+| Sinir | Tremor, periferik nöropati | |
+|= Amiodaronun yan etkileri.
+- **Etkileşim:** CYP3A4, CYP2C9 ve P-glikoproteini baskılar; **varfarin ve digoksin** düzeylerini artırır (dozlar yarıya indirilir).
+- **Dronedaron:** iyotsuz amiodaron türevi; tiroid ve akciğer toksisitesi azdır, antiadrenerjik etki taşır; ağır kalp yetersizliğinde ve kalıcı AF'de kontrendikedir.
+### Sotalol, dofetilid, ibutilid
+- **Sotalol:** seçici olmayan beta bloker + potasyum kanal blokeri (sınıf II + III); böbrekten atılır.
+- **İbutilid** (intravenöz) ve **dofetilid** (ağızdan): AF ve flutterin ilaçla sinüs ritmine döndürülmesinde; torsades riski yüksek.
+- “**Ters kullanım bağımlılığı**”: Bu ilaçlar QT'yi en çok **yavaş** kalp hızında uzatır; bu yüzden bradikardide torsades riski artar.
+### Vernakalant (S29)
+- **Atriyum seçici**; atriyal miyokardda **frekans ve voltaja bağımlı** olarak başta **potasyum kanalları** (I<sub>Kur</sub>) olmak üzere çeşitli iyon kanallarını (sodyum dahil) bloke eder.
+- Hemodinamik olarak stabil erişkinde **yeni başlamış** (cerrahi dışı hastada 7 günden kısa) AF'nin ilaçla sinüs ritmine döndürülmesinde **yalnız intravenöz** kullanılır.
+- **Kontrendikasyon:** hipotansiyon (sistolik < 100 mmHg), ciddi aort darlığı, ileri kalp yetersizliği, uzamış QT, son 30 günde akut koroner sendrom. CYP2D6 ile metabolize olur.
+
+## 3. Düğümlere etkili ilaçlar
+### Adenozin
+- AV düğümde **A1 reseptörünü** uyarır → potasyum kanalları açılır, hücre hiperpolarize olur, kalsiyum girişi azalır → **AV iletim saniyelerce durur**.
+- AV düğümü kullanan re-entry devrelerini (AVNRT, AVRT) kırar: **paroksismal SVT'yi sonlandırmada ilk ilaç**. Ayrıca geniş-dar QRS ayrımında tanısal ipucu verir.
+- **Yarı ömrü 10 saniyeden kısadır** (eritrosit ve endotel hızla alır); büyük bir venden **hızlı bolus** ve ardından serum fizyolojikle verilir.
+- Yan etkiler kısa sürer: geçici asistoli, yüzde kızarma, göğüste sıkışma, nefes darlığı, **bronkospazm** (astımda dikkat).
+- **Metilksantinler (teofilin, aminofilin, kafein)** adenozin reseptörünü bloke eder ve etkisini ortadan kaldırır; **dipiridamol** geri alımını önleyip etkisini artırır.
+### Verapamil ve diltiazem (sınıf IV)
+Bu yılın S31'i dört öncülle soruldu; doğru olanlar I ve II'dir:
+- **Ağızdan biyoyararlanım:** diltiazem (%40-65) > verapamil (%10-35; yoğun ilk geçiş). ✓
+- **Plazma proteinine bağlanma:** verapamil (~%90) > diltiazem (~%80). ✓
+- İkisi de **CYP3A4** ile yıkılır; klaritromisin CYP3A4'ü **inhibe eder** (indüklemez) ve düzeylerini **artırır**. ✗
+- **Kardiyojenik şok ve ileri AV blokta kontrendikedir** (endike değil). ✗
+- WPW'li hastadaki AF'de ve geniş QRS'li taşikardide verilmezler.
+### Digoksin, magnezyum, atropin, izoproterenol
+- **Digoksin:** vagal tonu artırıp AV iletiyi yavaşlatır; AF'de (özellikle kalp yetersizliğiyle birlikte) hız kontrolü. QT'yi kısaltır.
+- **Magnezyum:** torsades de pointes ve digoksine bağlı aritmilerde.
+- **Atropin:** vagusu bloke eder; belirtili sinüs bradikardisi ve AV blokta.
+- **İzoproterenol:** seçici olmayan β agonisti; AV blokta ve **bradikardinin tetiklediği torsades de pointes'te** kalp hızını artırarak QT'yi kısaltır.
+### Yeni hedefler (S32'nin boşluk doldurma sorusu)
+“Sodyum kanal blokajıyla aksiyon potansiyeli süresini **uzatan** ve iletimi yavaşlatan” → **disopiramid** (sınıf Ia); “**HCN kanalı** inhibisyonu yapan” → **ivabradin**; “**gap junction** modülasyonu yapan” → **rotigaptid**. Ek olarak ranolazin geç sodyum akımını hedefler.
+
+## 4. QT aralığını etkileyen ilaçlar
+| QT'yi **uzatanlar** (torsades riski) | QT'yi **kısaltanlar** |
+| Antiaritmikler: **sınıf Ia** (kinidin, prokainamid, disopiramid), **sınıf III** (sotalol, dofetilid, ibutilid, amiodaron) | **Sınıf Ib** (lidokain, meksiletin) |
+| Antibiyotikler: **makrolidler** (eritromisin, klaritromisin), **florokinolonlar** (levofloksasin, moksifloksasin) | **Digoksin** |
+| Antifungaller: **azoller** (flukonazol) | Hiperkalsemi, hiperkalemi |
+| Psikiyatri: trisiklik antidepresanlar (**amitriptilin**), antipsikotikler (haloperidol), sitalopram | Kateşolaminler, taşikardi |
+| Diğer: **ondansetron**, metadon, klorokin | |
+|= QT'yi uzatan ve kısaltan ilaçlar.
+- QT uzatan iki ilacın birlikte kullanımı torsades riskini ciddi artırır; çıkmış çiftler: **amiodaron + amitriptilin, levofloksasin + sotalol, ondansetron + disopiramid, flukonazol + ibutilid**.
+- **S26:** “QT'nin **kısalması** ve aritmi riskinin artması beklenen kombinasyon” → **lidokain + aminofilin** (lidokain sınıf Ib olarak QT'yi kısaltır; aminofilin taşikardi ve aritmi yapıcıdır). Diğer şıklardaki çiftler QT'yi uzatır.
+!! Her antiaritmik aynı zamanda **proaritmiktir.** Sınıf Ia ve III torsades; sınıf Ic skarlı kalpte VT; digoksin her tür aritmi; sınıf II ve IV bradikardi ve AV blok yapar.
+
+## 5. Hangi aritmide hangi ilaç?
+| Aritmi | Akut | Uzun dönem |
+| Paroksismal SVT (AVNRT, AVRT) | Vagal manevra → **adenozin** → verapamil | Kateter ablasyonu; beta bloker |
+| Atriyal fibrilasyon – hız | Beta bloker, verapamil ya da diltiazem, digoksin | Aynı |
+| Atriyal fibrilasyon – ritim | Elektriksel kardiyoversiyon; vernakalant, ibutilid, flekainid, propafenon, amiodaron | Sağlam kalpte flekainid ya da propafenon; yapısal hastalıkta amiodaron; ablasyon |
+| WPW + AF | Prokainamid ya da kardiyoversiyon; **AV düğüm baskılayıcı verilmez** | Ablasyon |
+| Ventriküler taşikardi | Amiodaron, **lidokain** (iskemide), prokainamid; kararsızsa kardiyoversiyon | Defibrilatör, amiodaron, beta bloker |
+| Torsades de pointes | **Magnezyum**, izoproterenol ya da pil | Neden olan ilacın kesilmesi |
+| Digoksin aritmileri | Potasyum, lidokain, digoksin antikoru | |
+| Belirtili bradikardi, AV blok | Atropin, izoproterenol, geçici pil | Kalıcı pil |
+|= Aritmiye göre ilaç seçimi.
+
+## Çıkmış sorular
+@EKLE sorular/s6.txt

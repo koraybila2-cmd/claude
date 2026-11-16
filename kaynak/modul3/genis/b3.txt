@@ -1,0 +1,94 @@
+# Aritmi Mekanizmaları ve Klinik Aritmiler | Bu yıl 5 soru (S7, S8, S9, S11, S12), geçen yıl 3 soru. Re-entry, uzun QT ve atriyal fibrilasyonun mekanizması üzerinden soruluyor.
+
+## 1. Aksiyon potansiyeli: iki farklı hücre, iki farklı eğri
+Aritmileri ve antiaritmik ilaçları (Bölüm 6) anlamanın ön koşulu, kalpte **iki tip** aksiyon potansiyeli olduğunu bilmektir.
+### Hızlı yanıtlı hücreler: atriyum, ventrikül, His-Purkinje
+| Faz | Olay | İyon akımı |
+| **0** – depolarizasyon | Zar potansiyeli −90 mV'den +20 mV'ye sıçrar | Hızlı **sodyum girişi** (I<sub>Na</sub>) |
+| **1** – erken repolarizasyon | Küçük çentik | Sodyum kanalı kapanır, geçici potasyum çıkışı |
+| **2** – plato | Potansiyel 200 ms kadar yüksek kalır | L tipi **kalsiyum girişi** ile potasyum çıkışı dengededir; giren kalsiyum kasılmayı başlatır |
+| **3** – repolarizasyon | Hücre dinlenme düzeyine döner | **Potasyum çıkışı** (I<sub>Kr</sub>, I<sub>Ks</sub>) |
+| **4** – dinlenme | −90 mV'de sabit | I<sub>K1</sub>; Na-K ATPaz iyon dengesini korur |
+|= Ventrikül hücresinin aksiyon potansiyeli.
+Faz 0'ın dikliği **iletim hızını**, faz 2-3'ün uzunluğu **aksiyon potansiyeli süresini ve refrakter dönemi** belirler. EKG'de QRS faz 0'a, QT aralığı faz 0-3 toplamına karşılık gelir.
+### Yavaş yanıtlı hücreler: sinüs ve AV düğüm
+- Dinlenme potansiyeli sabit değildir: **faz 4'te kendiliğinden depolarizasyon** olur (I<sub>f</sub> “funny” akımı ve T tipi kalsiyum). Eşiğe ulaşınca hücre ateşler; bu, **otomatisitedir**.
+- **Faz 0 sodyumla değil kalsiyumla** olur (L tipi kanal); bu yüzden yükseliş yavaştır ve AV düğümde iletim yavaştır. Kalsiyum kanal blokerleri ve beta blokerler bu nedenle özellikle düğümleri etkiler.
+- Faz 4 eğimi ne kadar dikse kalp hızı o kadar yüksektir: sempatik uyarı eğimi dikleştirir, vagus (asetilkolin) yatırır. Sağlıklı insanda en hızlı ateşleyen odak **sinüs düğümüdür** ve ritmi o belirler; derin uykuda vagal ton artar ve hız düşer.
+@SVG aksiyon_potansiyeli.svg
+@SEKIL Şekil 3.A. Solda ventrikül hücresi (fazlar 0-4 ve antiaritmik sınıfların etki ettiği yer), sağda sinüs düğümü hücresi (faz 4 eğimi kalp hızını belirler).
+
+## 2. Aritminin üç mekanizması
+Her taşiaritmi şu üç mekanizmadan biriyle (ya da birleşimiyle) oluşur. Sorular genellikle “hangisi şu mekanizmayla oluşmaz?” biçimindedir.
+### A. Otomatisite artışı
+Faz 4 eğimi dikleşir; odak normalden hızlı ateşler. Tipik örnek **sinüs taşikardisidir**: egzersiz, anksiyete ve panik atak, ateş, anemi, hipertiroidi, kafein, hipovolemi. Yavaş başlar, yavaş sonlanır. İskemik Purkinje hücreleri de anormal otomatisite kazanabilir (enfarktüs sonrası hızlanmış idiyoventriküler ritim).
+### B. Tetiklenmiş aktivite (afterdepolarizasyon)
+Normal bir atımın **peşinden**, repolarizasyon bitmeden ya da hemen bittikten sonra zar potansiyeli yeniden dalgalanır; eşiği aşarsa erken atım doğar.
+- **Erken afterdepolarizasyon (EAD; faz 2-3'te):** Repolarizasyon **uzadığında** olur. Plato uzayınca L tipi kalsiyum kanalları yeniden açılacak zamanı bulur. → **Uzun QT** ve **torsades de pointes**. Bradikardi ve hipokalemi kolaylaştırır.
+- **Geç afterdepolarizasyon (DAD; faz 4'te):** Hücre içi **kalsiyum yüklenmesinde** olur; sarkoplazmik retikulumdan taşan kalsiyum Na-Ca değiştiricisini çalıştırır, içeri net pozitif yük girer. → **Digoksin zehirlenmesi**, kateşolaminerjik polimorfik VT, iskemi-reperfüzyon. Taşikardi kolaylaştırır.
+### C. Re-entry (yeniden giriş): en sık mekanizma
+Uyarı bir halka üzerinde dönüp aynı dokuyu yeniden uyarır. Üç koşul gerekir:
+1. **İki yollu bir devre** (anatomik ya da işlevsel).
+2. Yollardan birinde **tek yönlü blok** (uyarı ileri gidemez ama geri dönebilir).
+3. Diğer yolda **yavaş iletim**; uyarı halkayı dolandığında bloklu yol refrakterlikten çıkmış olmalıdır (dalga boyu = iletim hızı × refrakter dönem; halkadan kısa olmalı).
+Örnekler: **AVNRT**, **AVRT** (WPW), **atriyal flutter**, enfarktüs **skarına bağlı ventriküler taşikardi**, atriyal ve ventriküler **fibrilasyon** (çok sayıda küçük devre). Aniden başlar ve aniden sonlanır.
+| Mekanizma | Tipik aritmiler |
+| Otomatisite artışı | **Sinüs taşikardisi**, ektopik atriyal taşikardi |
+| Tetiklenmiş aktivite – EAD | Uzun QT, **torsades de pointes** |
+| Tetiklenmiş aktivite – DAD | Digoksin zehirlenmesi, kateşolaminerjik VT |
+| Re-entry | AVNRT, AVRT, atriyal flutter, skar VT'si, AF, VF |
+|= Aritmi mekanizmaları ve örnekleri.
+!! Bu yılın S7'si (ve 2023-24, 2020-21): “re-entry ile **oluşmayan**” → **sinüs taşikardisi** (otomatisite). 2020-21'de ventriküler fibrilasyonun mekanizması soruldu: re-entry.
+
+## 3. Uzun QT sendromu ve torsades de pointes
+1. Repolarizasyonu sağlayan potasyum akımı azalır ya da içeri sodyum-kalsiyum akımı uzar → **aksiyon potansiyeli ve QT uzar**.
+2. Uzayan platoda **erken afterdepolarizasyon** oluşur.
+3. Farklı bölgelerde repolarizasyon süreleri farklı olduğundan (dispersiyon) erken atım re-entry'yi başlatır.
+4. Sonuç: QRS ekseninin izoelektrik hat çevresinde burkularak döndüğü polimorfik VT, **torsades de pointes**; kendiliğinden sonlanabilir (senkop) ya da ventriküler fibrilasyona döner (ani ölüm).
+- **Doğuştan:** İyon kanalı genlerinde mutasyon. LQT1 (I<sub>Ks</sub> kaybı; yüzme ve eforla), LQT2 (I<sub>Kr</sub> kaybı; ani ses ve duyguyla), LQT3 (geç sodyum akımı artışı; uykuda). Romano-Ward otozomal dominant; Jervell-Lange-Nielsen otozomal resesif ve sağırlıkla birlikte.
+- **Edinsel:** **Sınıf Ia ve III antiaritmikler**, makrolidler, florokinolonlar, antipsikotikler (haloperidol), metadon, ondansetron, antifungaller; **hipokalemi, hipomagnezemi, hipokalsemi**; bradikardi.
+- **Tedavi:** intravenöz **magnezyum sülfat** (düzeyi normal olsa bile), potasyumun düzeltilmesi, neden olan ilacın kesilmesi; kalp hızını artırıp QT'yi kısaltmak için izoproterenol ya da geçici pil. Doğuştan biçimde beta bloker.
+?? “Uzun QT → **E**rken afterdepolarizasyon → **T**orsades → te**d**avi **M**agnezyum.” Genetik iyon kanalı bozukluğu + repolarizasyon uzaması denince cevap torsades de pointes'tir (S8).
+
+## 4. Supraventriküler taşikardiler
+| Aritmi | Devre ve mekanizma | EKG | Not |
+| **AVNRT** (AV nodal re-entran taşikardi) | **AV düğümün içinde** bir yavaş, bir hızlı yol; re-entry düğümde döner | Düzenli dar QRS; P dalgası QRS'in içinde gizli | En sık paroksismal SVT; genç kadın |
+| **AVRT** (AV re-entran taşikardi) | Atriyum ile ventrikül arasında **AV düğüm dışında doğuştan ek yol** (Kent demeti); uyarı atriyum → AV düğüm → ventrikül → ek yol → atriyum döner | Dar QRS (ortodromik) ya da geniş QRS (antidromik) | Sinüs ritminde **WPW**: kısa PR, **delta dalgası**, geniş QRS |
+| **Atriyal flutter** | Sağ atriyumda triküspit halkası çevresinde büyük re-entry | Testere dişi F dalgaları, atriyum hızı ~300; çoğu kez 2:1 iletimle ventrikül 150 | Ablasyonla tedavi |
+| **Atriyal fibrilasyon** | Çok sayıda küçük re-entry; pulmoner ven ağızlarından tetiklenir | **Düzensiz düzensiz RR, P dalgası yok** | En sık kalıcı aritmi; sıklığı yaşla artar |
+| Sinüs taşikardisi | Otomatisite | Normal P, hız > 100 | Altta yatan neden tedavi edilir |
+|= Supraventriküler taşikardiler.
+- **S9:** “Atriyum ile ventriküller arasında AV düğüm dışında fazladan elektriksel bağlantı” → **AVRT**. AF ek iletim yolundan kaynaklanmaz.
+- **Akut tedavi (dar QRS'li düzenli taşikardi):** vagal manevralar (Valsalva, karotis masajı), sonra **adenozin** (AV düğümü saniyelerce bloke eder, devreyi kırar); kalıcı tedavi kateter ablasyonu.
+- **WPW'li hastada AF tehlikelidir:** Ek yol, AV düğüm gibi “fren” yapmaz. AV düğümü baskılayan ilaçlar (**digoksin, verapamil, diltiazem**, adenozin, beta bloker) uyarıların tamamını ek yola yönlendirir; ventrikül hızı 250-300'e çıkar ve ventriküler fibrilasyon gelişebilir. Bu durumda prokainamid ya da elektriksel kardiyoversiyon uygulanır.
+
+## 5. Atriyal fibrilasyon: iki vaka sorusunun mantığı
+### AF nasıl başlar ve nasıl sürer? (S12)
+1. Hipertansiyon, kapak hastalığı, kalp yetersizliği ya da yaşlılık atriyumda **kronik basınç ve hacim yükü** oluşturur; atriyum genişler.
+2. Gerilen atriyumda **fibrozis** gelişir; uyarı bazı bölgelerde yavaş, bazılarında hızlı iletilir (**heterojen iletim, yapısal ve elektriksel yeniden şekillenme**).
+3. Pulmoner venlerden gelen erken atımlar bu zeminde **re-entry devrelerini** başlatır.
+4. AF sürdükçe atriyum hücrelerinde kalsiyum kanalları azalır, **refrakter dönem kısalır**; daha küçük devreler de dönebilir ve AF kendini sürdürür: “**AF, AF'yi doğurur.**”
+5. Kasılmayan atriyumda, özellikle **sol atriyal apendikste** kan göllenir (staz); trombüs oluşur ve kopan parça **inme** yapar. Risk CHA<sub>2</sub>DS<sub>2</sub>-VASc ile hesaplanır ve antikoagülan verilir.
+### AF ejeksiyon fraksiyonunu nasıl düşürür? (S11)
+Üç mekanizma birbirine bağlıdır:
+1. **Sürekli taşikardi** miyokardın enerji depolarını tüketir → **taşikardik kardiyomiyopati**.
+2. **Atriyal kasılmanın (atriyal tekmenin) kaybı** ventrikül doluşunu %20-30 azaltır → Frank-Starling eğrisinde preload düşer, atım hacmi azalır. Düzensiz RR aralıkları da her atımda farklı doluşa yol açar.
+3. Düşen debi **sempatik sistemi ve RAAS'ı** etkinleştirir → afterload artışı, fibrozis ve yeniden şekillenme.
+Önemli sonuç: hız ya da ritim denetlenince EF çoğu hastada **düzelir**; “EF kalıcı düşer, ritim düzelince düzelme beklenmez” şıkkı yanlıştır.
+### Tedavinin üç ayağı
+- **Hız kontrolü:** beta bloker, verapamil ya da diltiazem, digoksin.
+- **Ritim kontrolü:** elektriksel kardiyoversiyon; amiodaron, propafenon, flekainid, sotalol; kateter ablasyonu (pulmoner ven izolasyonu). AF 48 saatten uzun sürmüşse kardiyoversiyondan önce 3 hafta antikoagülasyon ya da transözofageal EKO ile trombüsün dışlanması gerekir.
+- **İnmeden korunma:** varfarin ya da doğrudan oral antikoagülanlar (Bölüm 9).
+
+## 6. Ventriküler aritmiler ve acil yaklaşım
+- **Ventriküler taşikardi (VT):** Geniş QRS'li (≥ 120 ms) düzenli taşikardi; en sık neden enfarktüs skarı çevresinde re-entry.
+- **Ventriküler fibrilasyon (VF):** Düzensiz, biçimsiz dalgalar; kalp debisi sıfırdır. Ani kardiyak ölümün en sık nedeni; MI'nın ilk saatlerindeki ölümlerin başlıca sebebi.
+- **Nabızsız VT ve VF:** hemen **defibrilasyon** (senkronize olmayan şok) ve kalp masajı; adrenalin, amiodaron.
+- **Nabızlı ama hemodinamisi bozuk taşikardi** (hipotansiyon, göğüs ağrısı, bilinç bulanıklığı, akciğer ödemi): **senkronize kardiyoversiyon**.
+- **Kararlı VT:** amiodaron, lidokain ya da prokainamid.
+- Yüksek riskli hastada (EF ≤ %35, önceki VF) kalıcı korunma **implante edilebilir kardiyoverter defibrilatördür**.
+### Pulmoner hipertansiyonda sağ ventrikül (S10 vaka sorusu)
+Bu vaka “Kalp yetersizliği” bölümünün sorusudur ama mekanizması burada da işe yarar: (1) pulmoner vasküler direnç artar → sağ ventrikülün **afterload'u** yükselir; (2) sağ ventrikül önce kalınlaşır, sonra genişler ve basıncı karşılayamaz (**RV-PA uyumsuzluğu**; TAPSE/PASP oranı 0,36'nın altında, vakada 0,13); (3) genişleyen sağ ventrikül septumu sola iter (**D biçimli septum**) ve sol ventrikülün dolumunu bozar (ventriküller arası bağımlılık); (4) sol ventrikül atım hacmi ve kalp indeksi düşer, miks venöz oksijen satürasyonu azalır. Perikard efüzyonu bu tablonun sonucudur, tek ve başlıca mekanizması değildir.
+
+## Çıkmış sorular
+@EKLE sorular/s3.txt

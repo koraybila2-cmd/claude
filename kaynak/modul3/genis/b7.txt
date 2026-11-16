@@ -1,0 +1,82 @@
+# Hipolipidemik İlaçlar | Bu yıl 4 soru (S20, S21, S23, S24), geçen yıl 4 soru; hep dört soru. Soruların tamamı “ilaç – mekanizma – yan etki” eşleştirmesidir; yanlış şıklar ilaçların mekanizmalarını birbirine karıştırır.
+
+## 1. Lipoproteinler: yağın kandaki taşıtları
+Yağ suda çözünmez; kanda **lipoprotein** paketleri içinde taşınır. Paketin çekirdeğinde trigliserit ve kolesterol esteri, kabuğunda fosfolipit ve **apoprotein** bulunur. Üç yolu bilmek, ilaçların nerede etki ettiğini anlamak için yeterlidir.
+### Eksojen yol (besinle gelen yağ)
+1. Bağırsakta kolesterol, enterosit yüzeyindeki **NPC1L1** taşıyıcısıyla emilir. → **Ezetimib burayı kapatır.**
+2. Yağlar **şilomikron** (apo B48) olarak lenfe ve kana geçer.
+3. Kılcal endotelindeki **lipoprotein lipaz (LPL)** şilomikronun trigliseritini parçalar; yağ asitleri kasa ve yağ dokusuna girer. LPL'yi apo C-II etkinleştirir, apo C-III baskılar. → **Fibratlar LPL'yi artırır.**
+4. Kalan şilomikron kalıntısı karaciğere alınır.
+### Endojen yol (karaciğerin yaptığı yağ)
+1. Karaciğer, kolesterolü **HMG-CoA redüktaz** üzerinden (mevalonat yolu) kendisi yapar. → **Statinler bu enzimi baskılar.**
+2. Karaciğer trigliserit ve kolesterolü **VLDL** (apo B100) olarak salar; yapımında MTTP proteini gerekir. → Lomitapid MTTP'yi, mipomersen apo B100 yapımını baskılar. Yağ dokusundan gelen serbest yağ asitleri VLDL'nin hammaddesidir. → **Niasin bu akışı keser.**
+3. LPL, VLDL'nin trigliseritini alır: VLDL → IDL → **LDL**.
+4. LDL, apo B100'üyle karaciğer ve dokulardaki **LDL reseptörüne** bağlanıp hücreye alınır. Kanda LDL'yi asıl temizleyen karaciğerdeki LDL reseptörüdür.
+5. **PCSK9** proteini LDL reseptörüne bağlanır ve onu lizozomda yıkıma gönderir; PCSK9 çoksa reseptör azalır, LDL yükselir. → **PCSK9 inhibitörleri reseptörü korur.**
+### Ters kolesterol taşınması
+**HDL** (apo A1) dokulardaki fazla kolesterolü toplar ve karaciğere taşır; karaciğer kolesterolü **safra asitlerine** çevirip bağırsağa atar. Safra asitlerinin %95'i ileumdan geri emilir (enterohepatik dolaşım). → **Reçineler bu geri emilimi keser.**
+?? Ortak ilke: karaciğer hücresinde kolesterol azalırsa hücre kandan daha çok kolesterol çekmek için **LDL reseptörünü artırır**. Statin (yapımı keser), ezetimib (emilimi keser), reçine (safra asidi kaybıyla tüketimi artırır) ve PCSK9 inhibitörü (reseptörü korur) farklı yollardan aynı sonuca varır: **LDL reseptörü ↑ → kan LDL'si ↓.**
+
+## 2. İlaç grupları
+| Grup | Mekanizma | LDL | TG | HDL | Başlıca yan etki |
+| **Statinler** | HMG-CoA redüktaz inhibisyonu → LDL reseptörü ↑ | **↓↓↓** | ↓ | ↑ | Miyopati, **rabdomiyoliz**, karaciğer enzimi ↑ |
+| **Ezetimib** | Bağırsakta **NPC1L1** inhibisyonu → kolesterol emilimi ↓ | ↓↓ | – | – | Az; statinle birlikte enzim ↑ |
+| **Safra asidi reçineleri** | Bağırsakta safra asitlerini bağlar → karaciğerde LDL reseptörü ↑ | ↓↓ | **↑** | ↑ | Kabızlık, şişkinlik; ilaç ve vitamin emilimi ↓ |
+| **Fibratlar** | **PPAR-α** aktivasyonu → LPL ↑, apo C-III ↓ | ↓ | **↓↓↓** | ↑↑ | Miyopati (statinle), safra taşı |
+| **Niasin** | Yağ dokusunda hormon duyarlı lipaz ↓ → VLDL ↓ | ↓↓ | ↓↓ | **↑↑↑** | **Flushing, hiperürisemi, hiperglisemi**, hepatotoksisite |
+| **PCSK9 inhibitörleri** | LDL reseptörünün yıkımını önler | **↓↓↓↓** | ↓ | ↑ | Enjeksiyon yeri reaksiyonu |
+| Omega-3 yağ asitleri | Karaciğerde VLDL yapımı ↓ | – | ↓↓ | – | Balık kokusu, kanama eğilimi |
+|= Hipolipidemik ilaçların etkileri.
+### Statinler (atorvastatin, rosuvastatin, simvastatin, pravastatin…)
+- **Endojen** kolesterol sentezinin hız kısıtlayıcı enzimini, HMG-CoA redüktazı yarışmalı baskılarlar; karaciğerde **LDL reseptör ekspresyonu artar**. LDL'yi en çok düşüren ve kardiyovasküler ölümü azalttığı en iyi kanıtlanmış gruptur.
+- Kolesterol sentezi gece arttığı için kısa yarı ömürlüler (simvastatin, lovastatin) **akşam** verilir; atorvastatin ve rosuvastatin günün her saati alınabilir.
+- **Lipid dışı (pleiotropik) etkiler:** plak stabilizasyonu, endotel işlevinde düzelme, iltihabın azalması.
+- **Kas toksisitesi:** kas ağrısından **rabdomiyolize** (CK çok yüksek, miyoglobinüri, böbrek yetersizliği) uzanır. Riski artıranlar: **gemfibrozil** (statin glukuronidasyonunu baskılar), CYP3A4 inhibitörleri (makrolid, azol, siklosporin, greyfurt; simvastatin, lovastatin ve atorvastatinle), hipotiroidi, böbrek yetersizliği, yüksek doz. Fibrat gerekirse **fenofibrat** seçilir.
+- **Diğer:** karaciğer enzimlerinde yükselme, yeni diyabet riskinde hafif artış. **Gebelikte kullanılmaz.**
+### Ezetimib
+Enterositin fırçamsı kenarındaki **NPC1L1 taşıyıcı proteininin işlevini** baskılar (ekspresyonunu değil); hem besin hem safra kolesterolünün emilimi azalır. Tek başına LDL'yi %15-20, statinle birlikte ek %20-25 düşürür. Rabdomiyoliz ezetimibin değil **statinin** yan etkisidir.
+### Safra asidi bağlayan reçineler (kolestiramin, kolestipol, kolesevelam)
+1. Emilmeyen pozitif yüklü reçine bağırsakta negatif yüklü safra asitlerini bağlar ve dışkıyla attırır.
+2. Karaciğer eksilen safra asitlerini yapmak için kolesterol harcar; hücre içi kolesterol azalır.
+3. Karaciğerde **LDL reseptörü artar** (azalmaz; S23) ve kandan LDL çekilir.
+- Karaciğer aynı zamanda VLDL yapımını artırdığı için **trigliserit yükselebilir**; hipertrigliseridemide verilmez.
+- **Emilmediği için sistemik yan etkisi yoktur;** gebelikte ve çocukta kullanılabilen tek gruptur.
+- **Digoksin, varfarin, tiyazid, vankomisin, levotiroksin** gibi ilaçları ve yağda çözünen vitaminleri (A, D, E, K) bağlar; diğer ilaçlar 1 saat önce ya da 4 saat sonra alınır.
+### Fibratlar (fenofibrat, gemfibrozil, bezafibrat)
+- Çekirdek reseptörü **PPAR-α**'yı etkinleştirir: **LPL ekspresyonu artar**, LPL'yi baskılayan apo C-III azalır, yağ asidi oksidasyonu artar, apo A1 yapımı artar.
+- **Trigliseriti en çok düşüren gruptur** (%30-50); ağır hipertrigliseridemide pankreatitten korunmak için ilk seçenek.
+- Ailesel **LPL eksikliğinde etkisizdir** (artıracak enzim yoktur).
+- Yan etki: miyopati (özellikle gemfibrozil + statin), **kolesterol safra taşı**, karaciğer enzimi artışı; varfarinin etkisini artırır.
+### Niasin (nikotinik asit, B3 vitamini)
+- Yağ dokusunda **hormona duyarlı lipazı** baskılar; karaciğere serbest yağ asidi akışı azalır, VLDL ve dolayısıyla LDL azalır. **HDL'yi en çok yükselten** ilaçtır; lipoprotein(a)'yı da düşürür.
+- **Flushing** (yüzde kızarma, sıcaklık, kaşıntı): prostaglandin D2 aracılıdır; ilacı almadan 30 dakika önce **aspirin** ile önlenir.
+- **Hiperürisemi ve gut** (ürat atılımını azaltır), **glukoz toleransında bozulma** (insülin direnci), hepatotoksisite, peptik ülserin alevlenmesi. Bu yılın S20'si: “hiperürisemi ve gut açısından dikkat edilecek, glisemik kontrolü bozabilen ilaç” → **niasin**. “Yan etkisi minimaldir” şıkkı yanlıştır.
+### PCSK9'u hedefleyen ilaçlar
+- **Evolokumab, alirokumab:** PCSK9 **proteinine** bağlanan insan **monoklonal antikorları**; 2-4 haftada bir deri altına.
+- **İnklisiran:** PCSK9 **mRNA'sını** yıkan küçük girişimci RNA (**siRNA**); karaciğerde PCSK9 yapımını durdurur; yılda iki kez deri altına (S24).
+- LDL'yi statinin üstüne %50-60 daha düşürürler; ailesel hiperkolesterolemi ve statine rağmen hedefe ulaşamayan yüksek riskli hastalarda.
+### Diğer ve yeni ilaçlar
+| İlaç | Hedef |
+| **Bempedoik asit** | **ATP sitrat liyaz** (HMG-CoA redüktazın bir üst basamağı); yalnız karaciğerde etkinleştiği için kas yan etkisi azdır |
+| **Lomitapid** | **MTTP** (mikrozomal trigliserit transfer proteini); VLDL ve şilomikron yapımı ↓; karaciğer yağlanması |
+| **Mipomersen** | **Apo B100 mRNA'sına** karşı antisens oligonükleotid |
+| **Evinakumab** | **ANGPTL3**'e karşı monoklonal antikor; LDL reseptöründen bağımsız etki; homozigot ailesel hiperkolesterolemi |
+| Volanesorsen | Apo C-III mRNA'sına karşı antisens; ailesel şilomikronemi |
+|= Yeni hipolipidemik ilaçlar ve hedefleri.
+
+## 3. Sınavın yanlış şık kalıpları
+Bu bölümün soruları doğru eşleştirmeyi dört yanlış eşleştirmenin arasına saklar. Çıkmış yanlış şıklar:
+| Yanlış ifade | Doğrusu |
+| Ezetimib → rabdomiyoliz | Rabdomiyoliz **statinin** yan etkisidir; ezetimib NPC1L1'i baskılar |
+| Niasin → NPC1L1 inhibisyonu / yan etkisi minimaldir | Niasin hormona duyarlı lipazı baskılar; flushing, gut, hiperglisemi yapar |
+| Kolesevelam → PCSK9 inhibitörü | Kolesevelam **safra asidi reçinesidir** |
+| Rosuvastatin → hormona duyarlı lipaz inhibisyonu | Rosuvastatin **HMG-CoA redüktazı** baskılar |
+| Alirokumab → NPC1L1 / Gemfibrozil → NPC1L1 | Alirokumab **PCSK9 antikoru**, gemfibrozil **PPAR-α** aktivatörüdür |
+| Safra asidi reçineleri LDL reseptörünü azaltır | **Artırır** |
+| Statinler eksojen yolu etkiler | **Endojen** sentezi baskılar |
+| Rabdomiyoliz riskini azaltmak için statine fibrat eklenir | Fibrat (özellikle gemfibrozil) riski **artırır** |
+|= Çıkmış yanlış şıklar ve doğruları.
+?? Hedef eşleştirmeleri tek satırda: **S**tatin–HMG-CoA redüktaz; **E**zetimib–NPC1L1; **R**eçine–safra asidi; **F**ibrat–PPAR-α; **N**iasin–hormon duyarlı lipaz; **-kumab**–PCSK9 proteini; **inklisiran**–PCSK9 mRNA'sı; **bempedoik asit**–ATP sitrat liyaz; **lomitapid**–MTTP.
+
+## Çıkmış sorular
+@EKLE sorular/s7.txt

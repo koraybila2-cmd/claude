@@ -1,0 +1,77 @@
+# Antianjinal İlaçlar | Bu yıl 4 soru (S17, S18, S19, S22), geçen yıl 4 soru; her yıl dört soru geliyor. Nitratın mekanizması, kalsiyum kanal blokerlerinin farkları, ivabradin ve vazospastik angina sabit konular.
+
+## 1. Mantık: teraziyi iki yönden düzeltmek
+Angina, oksijen talebinin arzı aşmasıdır (Bölüm 1). Antianjinal ilaçlar ya **talebi azaltır** ya da **arzı artırır**.
+| Belirleyici | Nasıl azaltılır ya da artırılır? | İlaç |
+| **Preload** (venöz dönüş, duvar gerilimi) | Venleri genişlet | **Nitrat** |
+| **Afterload** (arter direnci) | Arteriyolleri genişlet | **Kalsiyum kanal blokeri**; yüksek doz nitrat |
+| **Kalp hızı** | Sinüs düğümünü yavaşlat | **Beta bloker**, verapamil, diltiazem, **ivabradin** |
+| **Kontraktilite** | Kasılma gücünü azalt | Beta bloker, verapamil, diltiazem |
+| **Arz** | Koroner spazmı çöz, diyastolü uzat | Nitrat, kalsiyum kanal blokeri; hız azaltanlar |
+| Hücre metabolizması | Aynı oksijenle daha çok ATP | Ranolazin, trimetazidin |
+|= Antianjinal etkinin yolları. Arteriyel vazokonstriksiyon antianjinal etki oluşturmaz.
+!! S17: **Hem preload hem afterload** üzerine etkili grup → **organik nitratlar** (venler baskın, yüksek dozda arterler de). Beta bloker ikisini de doğrudan değiştirmez; dihidropiridin yalnız afterload'u düşürür.
+
+## 2. Organik nitratlar
+### Mekanizma adım adım
+1. Nitrogliserin düz kas hücresine girer; mitokondriyal aldehit dehidrogenaz ve **tiyol (sülfhidril, –SH) grupları** yardımıyla **nitrik okside (NO)** dönüşür.
+2. NO **guanilat siklazı** etkinleştirir → **cGMP artar**.
+3. cGMP protein kinaz G'yi çalıştırır → miyozin hafif zinciri defosforile olur, hücre içi kalsiyum azalır → **düz kas gevşer**.
+4. Etki **venlerde** belirgindir: kan venlerde göllenir, kalbe dönen kan azalır → **preload düşer** → duvar gerilimi ve oksijen tüketimi azalır. Yüksek dozda arteriyoller de genişler (afterload ↓).
+5. Büyük epikardiyal **koroner arterleri** genişletir ve spazmı çözer; kollateral akımı artırır.
+6. NO'yu ilaç kendisi sağladığı için **endotel zedelenmiş olsa da etkilidir** (asetilkolin gibi endotele bağımlı genişleticilerden farkı).
+### Kullanım ilkeleri
+- **Dil altı nitrogliserin:** Ağız mukozasından emilen ilaç portal dolaşımı atlar, **ilk geçiş etkisine uğramaz**, 1-3 dakikada etki eder, 20-30 dakika sürer; atak tedavisi ve efor öncesi korunmada kullanılır. Ağızdan yutulan nitrogliserin karaciğerde büyük oranda yıkılır.
+- **İzosorbid mononitrat:** Ağızdan biyoyararlanımı yüksektir (ilk geçişe uğramaz); uzun süreli korunmada. İzosorbid dinitrat karaciğerde mononitrata dönüşür.
+- **Tolerans:** Sürekli kullanımda tiyol grupları tükenir ve serbest radikaller artar; etki günler içinde azalır. Çözüm: **her gün 8-12 saatlik nitratsız aralık** (bant gece çıkarılır).
+- **PDE5 inhibitörleriyle (sildenafil, tadalafil) birlikte verilmez:** PDE5 cGMP'yi yıkan enzimdir; nitrat cGMP'yi yaparken yıkımı da durdurulursa cGMP aşırı birikir ve **ağır hipotansiyon** gelişir.
+- **Yan etkiler:** zonklayıcı **baş ağrısı** (menenks damarlarının genişlemesi), yüzde kızarma, ortostatik hipotansiyon, **refleks taşikardi**; yüksek dozda methemoglobinemi. Sağ ventrikül enfarktüsünde ve ağır aort darlığında preload düşüşü tehlikelidir.
+
+## 3. Beta blokerler
+- Kalp hızını ve kasılma gücünü azaltır (talep ↓); **diyastolü uzatarak** koroner doluşu artırır (arz ↑).
+- Stabil anginada ilk seçenektir; MI sonrası ve kalp yetersizliğinde **yaşamı uzatır**.
+- Nitrat ve dihidropiridinlerin yaptığı refleks taşikardiyi önlediği için onlarla iyi birleşir.
+- **Vazospastik (Prinzmetal) anginada sakıncalıdır** (S22): Koroner düz kasta β2 reseptörleri genişletici, α reseptörleri daraltıcıdır. Beta bloker β2'yi kapatınca **α etkisi karşılıksız kalır** ve spazm artar. Bu hastada **kalsiyum kanal blokeri** ve nitrat verilir.
+- Diğer sakıncalar: astım (seçici olmayanlar bronkospazm yapar), ileri AV blok, belirgin bradikardi, dekompanse kalp yetersizliği; diyabetlide hipoglisemi belirtilerini maskeler. Aniden kesilmez (reseptör artışı nedeniyle angina ve enfarktüs tetiklenebilir).
+
+## 4. Kalsiyum kanal blokerleri
+L tipi kalsiyum kanallarını bloke ederler. Bu kanal iki yerde önemlidir: **damar düz kası** (kasılma) ve **kalp** (düğümlerde faz 0, miyokardda plato). İlacın hangi dokuyu seçtiği grubunu ve yan etkisini belirler.
+| | **Dihidropiridinler** (nifedipin, amlodipin, nikardipin, isradipin, felodipin) | **Verapamil** | **Diltiazem** |
+| Seçicilik | **Damar** | **Kalp** | Arada |
+| Arteriyel genişleme | +++ | + | ++ |
+| Kalp hızı | **Artar** (refleks taşikardi) | Azalır | Azalır |
+| **AV iletim** | Etkilemez | **Belirgin azalır** | Azalır |
+| Kontraktilite | Pek değişmez | Azalır | Hafif azalır |
+| Yan etki | Ayak bileği ödemi, baş ağrısı, yüzde kızarma, diş eti hiperplazisi | **Kabızlık**, bradikardi, AV blok, kalp yetersizliğinde kötüleşme | Bradikardi, AV blok |
+|= Kalsiyum kanal blokerlerinin karşılaştırması.
+?? Kalpten damara doğru sıra: **V**erapamil → **D**iltiazem → **D**ihidropiridinler (amlodipin, nifedipin). “**V**entrikül-**D**üğüm-**D**amar.” Verapamilin dihidropiridinlerden belirgin özelliği **AV iletiyi azaltmasıdır** (S18).
+- **Verapamil + beta bloker** birlikte AV bloğu, bradikardiyi ve kalp yetersizliğini ağırlaştırır; birlikte kullanım dikkat ister (intravenöz olarak birlikte verilmez).
+- Verapamil ve diltiazem **CYP3A4** substratı ve inhibitörüdür; digoksin ve siklosporin düzeyini artırırlar. Düşük EF'li kalp yetersizliğinde kullanılmazlar.
+- Kısa etkili **nifedipin** ani hipotansiyon ve refleks taşikardiyle iskemiyi artırabilir; anginada uzun etkili biçimler ya da amlodipin tercih edilir.
+
+## 5. Yeni ve yardımcı antianjinaller
+| İlaç | Mekanizma | Ayırt edici not |
+| **İvabradin** | Sinüs düğümündeki **HCN kanalını** ve **I<sub>f</sub> (funny) akımını** seçici baskılar; faz 4 eğimi azalır | **Yalnız kalp hızını düşürür**; kontraktilite, AV iletim ve kan basıncını etkilemez. Sinüs ritminde olmalı. Yan etki: görme alanında **parlak ışık çakmaları (fosfen)**, bradikardi. Kardiyojenik şok, sinoatriyal blok ve hasta sinüs sendromunda kontrendike |
+| **Ranolazin** | **Geç sodyum akımını** baskılar → hücre içi sodyum ve dolayısıyla kalsiyum birikimi azalır → diyastolik gevşeme düzelir | Kalp hızı ve kan basıncını **değiştirmez**; **QT uzatır**; CYP3A4 ile yıkılır |
+| **Nikorandil** | ATP'ye duyarlı **potasyum kanalı açıcı** + nitrat benzeri NO vericisi | Arter ve ven genişletir; ağız ve bağırsak ülserleri; PDE5 inhibitörleriyle kontrendike |
+| **Trimetazidin** | Yağ asidi β-oksidasyonunu baskılar; miyokard **glikoza** yönelir (aynı oksijenle daha çok ATP) | Hemodinamiyi etkilemez; parkinsonizm yapabilir |
+|= Diğer antianjinal ilaçlar. S19: ivabradin → sinüs düğümünde I<sub>f</sub> akımının inhibisyonu.
+
+## 6. İlaç anginayı kötüleştirebilir mi?
+Evet; üç mekanizma vardır ve hepsi güçlü arter genişleticilerde (kısa etkili dihidropiridin, yüksek doz nitrat, dipiridamol) görülür:
+1. **Koroner çalma:** Sağlam damar, darlığın ardındaki zaten en üst düzeyde genişlemiş damardan daha fazla genişler; kan sağlam bölgeye kayar, iskemik bölge daha az kanlanır.
+2. **Refleks taşikardi:** Kan basıncı düşünce barorefleks kalp hızını artırır; talep artar, diyastol kısalır.
+3. **Perfüzyon basıncının düşmesi:** Diyastolik aort basıncı azalınca koroner akımı süren basınç azalır.
+Bu yüzden nitrat ve dihidropiridinler çoğu kez **beta blokerle birlikte** verilir.
+### Hangi hastaya hangi ilaç?
+| Durum | Tercih | Kaçınılacak |
+| Stabil angina | Beta bloker; ek olarak nitrat, kalsiyum kanal blokeri | |
+| **Vazospastik angina** | **Kalsiyum kanal blokeri**, nitrat | **Beta bloker** |
+| Angina + astım | Kalsiyum kanal blokeri, nitrat | Seçici olmayan beta bloker |
+| Angina + düşük EF'li kalp yetersizliği | Beta bloker (kararlıyken), nitrat, amlodipin | Verapamil, diltiazem |
+| Angina + bradikardi ya da AV blok | Dihidropiridin, nitrat | Beta bloker, verapamil, diltiazem, ivabradin |
+| Angina + sildenafil kullanımı | | **Nitrat**, nikorandil |
+|= Eşlik eden duruma göre antianjinal seçimi.
+
+## Çıkmış sorular
+@EKLE sorular/s5.txt

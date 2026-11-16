@@ -1,0 +1,67 @@
+# Miyokard Enfarktüsünün Patolojisi | Bu yıl 3 soru (S42, S46, S50), geçen yıl 3 soru; her yıl üç soru. Zaman çizelgesi (hangi günde hangi hücre), iskeminin nereden başladığı ve kardiyak rüptür vakası sabit konular.
+
+## 1. Enfarktüs nasıl oluşur?
+1. Olguların %90'ında neden, yırtılan aterosklerotik plak üzerinde gelişen **koroner arter trombozudur** (Bölüm 1). Geri kalanında spazm, emboli (AF, vejetasyon), vaskülit ya da ağır hipotansiyon vardır.
+2. Akım kesilince miyosit saniyeler içinde oksijenli solunumu bırakır; ATP düşer, laktat birikir. **Kasılma 1-2 dakikada durur.**
+3. İlk **20-30 dakika** hasar **geri dönüşümlüdür**; akım dönerse hücre yaşar (bir süre kasılamaz: “sersemlemiş miyokard”).
+4. 20-30 dakikadan sonra hücre zarı yırtılır: **geri dönüşümsüz hasar**, koagülasyon nekrozu başlar ve hücre içeriği (troponin, CK-MB) kana sızar.
+5. Nekroz **dalga cephesi** gibi ilerler: **subendokarddan** başlar, saatler içinde subepikarda doğru yayılır ve **3-6 saatte** en geniş boyutuna ulaşır. Bu yüzden erken reperfüzyon (“zaman kastır”) kurtarılan miyokardı belirler.
+### İskemi neden subendokarddan başlar?
+- Koroner arterler epikarddan girer ve içe doğru dallanır; **subendokard damar ağacının en uç noktasıdır**.
+- Ventrikül boşluğundaki basınç en çok iç tabakaya yansır; **duvar gerilimi ve oksijen tüketimi burada en yüksektir**, sistolde damarları en çok burada sıkışır.
+- Endokardın hemen altındaki ince tabaka ise boşluktaki kandan difüzyonla beslenir ve korunur.
+!! S42: “İskemi **subepikardiyal** alandan başlar” ifadesi **yanlıştır**; subendokarddan başlar. Proksimal tıkanma daha geniş alanı etkiler ve daha büyük enfarkt yapar.
+### Enfarktın yeri ve tipi
+| Tıkanan damar | Sıklık | Enfarkt bölgesi |
+| **Sol ön inen arter (LAD)** | %40-50 | Sol ventrikül **ön duvarı**, septumun ön üçte ikisi, apeks |
+| **Sağ koroner arter (RCA)** | %30-40 | Sol ventrikül **alt-arka duvarı**, septumun arka üçte biri, sağ ventrikül |
+| **Sirkumfleks arter (LCx)** | %15-20 | Sol ventrikül **yan duvarı** |
+|= Koroner arterlere göre enfarkt lokalizasyonu.
+- **Transmural enfarkt:** Duvarın tüm kalınlığı; tek damarın tam tıkanması; EKG'de ST yükselmesi ve Q dalgası (STEMI).
+- **Subendokardiyal enfarkt:** Duvarın iç üçte biri; tam tıkamayan trombüs ya da eriyip açılan tıkanma, ya da yaygın darlık zemininde hipotansiyon; EKG'de ST çökmesi (NSTEMI).
+- Kalp sert bir organdır ve uç arterlerle beslenir; enfarktı **beyazdır (anemik)**. Reperfüzyon sonrası kanamalı görünebilir ve liflerde **kontraksiyon bantları** oluşur (kalsiyum dolan ölü hücrelerin aşırı kasılması).
+
+## 2. Zaman çizelgesi: hangi günde ne görülür?
+Sıra, akut iltihabın ve onarımın genel sırasıdır: **önce nötrofil, sonra makrofaj, sonra granülasyon dokusu, en son skar.**
+| Süre | Çıplak göz | Işık mikroskobu |
+| **0-30 dakika** | Yok | Yok (elektron mikroskobunda glikojen kaybı, mitokondri şişmesi); **geri dönüşümlü** |
+| **30 dakika – 4 saat** | Yok | Kenarda **dalgalı lifler** (ölü liflerin gerilmesi); genellikle belirgin bulgu yok. Trifenil tetrazolyum klorür boyası enfarktı soluk bırakır (2-3. saatten sonra) |
+| **4-12 saat** | Koyu alacalı görünüm başlar | **Koagülasyon nekrozu** başlar: eozinofili artışı, çekirdek değişiklikleri; ödem, kanama. (Anahtara göre makroskopik ve mikroskobik bulgular **4. saatten sonra** gözlenmeye başlar) |
+| **12-24 saat** | Koyu alacalı | Nekroz sürer; **nötrofiller gelmeye başlar** |
+| **1-3 gün** | Ortası sarı-soluk, alacalı | Çekirdek ve çizgilenme kaybı; **yoğun nötrofil infiltrasyonu** (en belirgin 2-3. gün) |
+| **3-7 gün** | Kenarı kırmızı (hiperemik), ortası **sarı ve yumuşak** | Nötrofiller parçalanır; **makrofajlar** ölü lifleri fagosite eder. Duvar en zayıf dönemindedir |
+| **7-10 gün** | En sarı ve yumuşak; kenarlar çökük kırmızı | Kenarlardan **granülasyon dokusu** başlar: yeni kılcal damarlar ve fibroblastlar |
+| **10-14 gün** | Kırmızı-gri çökük kenarlar | Granülasyon dokusu belirgin; kollajen birikmeye başlar. **Nötrofil artık görülmez** |
+| **2-8 hafta** | Gri-beyaz skar kenardan merkeze ilerler | Kollajen artar, hücre azalır |
+| **2 aydan sonra** | **Beyaz, sert skar** | Yoğun (dens) kollajenli skar |
+|= Miyokard enfarktüsünde morfolojik değişikliklerin zaman çizelgesi.
+@SVG mi_zaman.svg
+@SEKIL Şekil 11.A. Enfarktüs sonrası hücre ve doku yanıtının zaman içindeki sırası ve komplikasyonların görüldüğü dönemler.
+?? “**1 gün nekroz, 3 gün nötrofil, 7 gün makrofaj, 10 gün granülasyon, 2 ay skar.**” Rüptür en zayıf dönemde olur: **3-7. gün**.
+- **S50:** “Enfarktüsten sonra **11. günde gözlenmeyen**” → **nötrofil lökositler**. Bu dönemde makrofajlar, yeni damarlar (neovaskülarizasyon), granülasyon dokusu ve fibroblastlar görülür.
+- Miyosit bölünemediği için onarım yenilenmeyle değil **skar** ile olur; skar kasılmaz, kalan miyokard hipertrofiye uğrar ve ventrikül genişler (yeniden şekillenme; ACE inhibitörü bunu önler).
+
+## 3. Komplikasyonlar: zamana göre
+| Dönem | Komplikasyon | Açıklama |
+| **İlk saatler – ilk gün** | **Aritmi** | En sık komplikasyon ve hastane öncesi ölümün başlıca nedeni (**ventriküler fibrilasyon**). Alt duvar enfarktında bradikardi ve AV blok |
+| İlk günler | **Pompa yetersizliği, kardiyojenik şok** | Sol ventrikülün %40'ından fazlası kaybedilince; hastane içi ölümün başlıca nedeni |
+| **1-3 gün** | **Fibrinöz perikardit** | Transmural enfarktın üzerindeki perikardda iltihap; sürtünme sesi, öne eğilince azalan ağrı |
+| **3-7 gün** | **Kardiyak rüptür** | Makrofajların ölü dokuyu temizlediği, henüz skarın oluşmadığı **en yumuşak** dönem |
+| Günler – haftalar | **Mural trombüs** | Hareketsiz duvar üzerinde staz + endokard hasarı; **sistemik emboli** (inme) |
+| Haftalar – aylar | **Ventrikül anevrizması** | Skarlı ince duvarın dışa balonlaşması; trombüs, aritmi, kalp yetersizliği; EKG'de kalıcı ST yükselmesi. Gerçek anevrizma **yırtılmaz** (duvarı fibröz skardır) |
+| 2-10 hafta | **Dressler sendromu** | Otoimmün perikardit: ateş, plörit, perikardit |
+| Aylar – yıllar | Kronik kalp yetersizliği | Yeniden şekillenme |
+|= Miyokard enfarktüsünün komplikasyonları.
+### Kardiyak rüptürün üç biçimi
+1. **Serbest duvar rüptürü** (en sık): Kan perikard boşluğuna dolar (**hemoperikard**) → **kalp tamponadı**: ani keskin göğüs ağrısı, hipotansiyon, taşikardi, boyun venlerinde dolgunluk, derinden gelen kalp sesleri, soğuk terleme; çoğu kez ani ölüm. Risk: ilk enfarktüs, ileri yaş, kadın, ön duvar, hipertansiyon.
+2. **Ventrikül septum rüptürü:** Soldan sağa şant; yeni, kaba pansistolik üfürüm ve sağ kalp yetersizliği.
+3. **Papiller kas rüptürü** (çoğunlukla arka-iç papiller kas; tek damardan, RCA'dan beslendiği için): **akut ağır mitral yetersizliği** ve akciğer ödemi.
+### Bu yılın vaka sorusu (S46)
+Enfarktüs geçirdikten bir süre sonra ani keskin göğüs ağrısı, hipotansiyon ve tamponad bulgularıyla gelen 64 yaşındaki hastada:
+- **I. “Kardiyak rüptür sonrası tamponad gelişmiş olabilir”** ✓
+- **II. “Enfarktüs yüksek olasılıkla bu olaydan 3-7 gün önce olmuştur”** ✓
+- **III. “Otopside dens skar izlenir”** ✗ Rüptür bölgesi yumuşak, sarı ve kanamalıdır; yoğun skar ancak haftalar sonra oluşur. Skar oluşmuş olsaydı duvar yırtılmazdı.
+Cevap: I ve II.
+
+## Çıkmış sorular
+@EKLE sorular/s11.txt

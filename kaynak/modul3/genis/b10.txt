@@ -1,0 +1,131 @@
+# Hemostaz, Tromboz, Emboli ve Ödem | Bu yıl 8 soru (S40, S41, S43, S44, S45, S47, S48, S49), geçen yıl 7 soru. Modülün en kalabalık patoloji bölümü: hemostazın sırası, endotelin görevleri, arteriyel-venöz trombüs farkı, trombüsün akıbeti ve ödem mekanizmaları.
+
+## 1. Hemostaz: kanamanın dört basamakta durdurulması
+Normal hemostaz, damar zedelendiğinde kanı **yalnızca zedelenme yerinde** ve hızla pıhtılaştıran, sonra pıhtıyı sınırlayıp eriten sıkı denetimli bir süreçtir. Sıra sınavda doğrudan sorulur.
+### Basamak 1 – Refleks vazokonstriksiyon (saniyeler)
+Zedelenen damarın düz kası nörojenik refleksle kasılır; endotelden salınan **endotelin** kasılmayı güçlendirir. Kan akımı geçici azalır. (Hemostazın ilk adımı vazodilatasyon **değildir**.)
+### Basamak 2 – Primer hemostaz: trombosit tıkacı (dakikalar)
+1. **Adezyon (yapışma):** Endotel soyulunca altındaki **kollajen** ve **von Willebrand faktörü (vWF)** açığa çıkar. Trombosit, yüzeyindeki **GP Ib** reseptörüyle vWF'ye, vWF de kollajene bağlanır. vWF bir “köprüdür”; özellikle hızlı akan kanda trombositin tutunabilmesi için şarttır.
+2. **Aktivasyon ve sekresyon (salgı):** Yapışan trombosit şekil değiştirir (yassı diskten dikenli küreye), granüllerini boşaltır: yoğun granüllerden **ADP**, kalsiyum, serotonin; alfa granüllerden fibrinojen, vWF, faktör V, PDGF. Ayrıca **tromboksan A2** sentezler. ADP ve TXA2 çevredeki trombositleri çağırıp etkinleştirir. Trombosit yüzeyine negatif yüklü fosfolipitler çıkar; pıhtılaşma faktörleri burada toplanır.
+3. **Agregasyon (kümelenme):** Etkinleşen trombositte **GP IIb/IIIa** reseptörü biçim değiştirir ve **fibrinojeni** bağlar; fibrinojen iki trombosit arasında köprü kurar. Oluşan gevşek kümeye **primer hemostatik tıkaç** denir.
+!! Sıra: **adezyon → sekresyon → agregasyon** (S49'da cevap III-II-I). Köprüler: adezyonda **vWF–GP Ib**, agregasyonda **fibrinojen–GP IIb/IIIa**. Fibrin primer hemostazın parçası değildir.
+### Basamak 3 – Sekonder hemostaz: fibrin ağı
+1. Zedelenen damar duvarından açığa çıkan **doku faktörü** (faktör III) faktör VII'yi bağlar ve etkinleştirir (**dış yol**; hemostazı canlıda asıl başlatan yoldur).
+2. Kaskad faktör X'u etkinleştirir; **Xa + Va** (protrombinaz) protrombini **trombine** çevirir.
+3. **Trombin** fibrinojeni **fibrine** çevirir, faktör XIII'ü etkinleştirir (fibrin çapraz bağlanır), ayrıca trombositleri ve faktör V, VIII, XI'i etkinleştirerek kendini güçlendirir.
+4. Fibrin ağı trombosit kümesini sarar; trombositler kasılır (pıhtı büzüşmesi) ve kalıcı **sekonder hemostatik tıkaç** oluşur.
+### Basamak 4 – Sınırlama ve erime
+Pıhtı sağlam endotele taşmamalıdır. Sağlam endotel antitrombotik moleküller salgılar; **doku plazminojen aktivatörü (t-PA)** plazminojeni plazmine çevirir ve plazmin fibrini eritir (yıkım ürünü: D-dimer).
+| Laboratuvar testi | Ölçtüğü | Uzadığı durumlar |
+| **PT (INR)** | Dış ve ortak yol (VII, X, V, II, fibrinojen) | Varfarin, K vitamini eksikliği, karaciğer hastalığı |
+| **aPTT** | İç ve ortak yol (XII, XI, IX, VIII, X, V, II) | Heparin, hemofili A (VIII) ve B (IX) |
+| Trombosit sayısı | Primer hemostaz (sayı) | Trombositopeni |
+| Kanama zamanı / PFA | Primer hemostaz (işlev) | vWF hastalığı, aspirin, trombosit işlev bozuklukları |
+|= Hemostaz testleri.
+
+## 2. Endotel: iki yüzlü bekçi
+Sağlam endotel pıhtıyı **engeller**; zedelenmiş ya da etkinleşmiş endotel pıhtıyı **başlatır**.
+| **Antitrombotik** (sağlam endotel) | Etki |
+| **Prostasiklin (PGI2)** ve **nitrik oksit (NO)** | Trombosit agregasyonunu baskılar, damarı genişletir |
+| **ADPaz** (adenozin difosfataz) | ADP'yi yıkar; trombosit çağrısını keser |
+| **Heparan sülfat (heparin benzeri moleküller)** | **Antitrombin III**'ü etkinleştirir; trombin, Xa, IXa baskılanır |
+| **Trombomodulin** | Trombini bağlar; trombin artık **protein C**'yi etkinleştirir; aktif protein C (protein S ile) **Va ve VIIIa**'yı yıkar |
+| Doku faktörü yolu inhibitörü (TFPI) | Doku faktörü–VIIa kompleksini baskılar |
+| **Doku plazminojen aktivatörü (t-PA)** | Fibrinolizi başlatır |
+|= Endotelin antitrombotik işlevleri.
+| **Protrombotik** (zedelenmiş endotel) | Etki |
+| **von Willebrand faktörü** | Trombosit adezyonu |
+| **Doku faktörü** (sitokin ve endotoksinle) | Dış yolu başlatır |
+| **PAI-1** (plazminojen aktivatör inhibitörü) | Fibrinolizi baskılar |
+|= Endotelin protrombotik işlevleri.
+- Endotel **trombosit kontraksiyonu yapmaz** (S48); pıhtı büzüşmesi trombositin kendi aktin-miyozin sisteminin işidir.
+?? Antitrombotikler “**PANTT**”: **P**GI2, **A**DPaz ve antitrombin (heparan sülfat), **N**O, **T**rombomodulin, **t**-PA. Protrombotikler “**V**ah **D**ostum **P**ıhtı”: **v**WF, **D**oku faktörü, **P**AI-1.
+### Primer hemostaz bozuklukları (S47 vaka sorusu)
+- **von Willebrand hastalığı:** En sık kalıtsal kanama bozukluğu. vWF eksik olduğundan **trombosit adezyonu** bozulur: burun kanaması, uzun ve yoğun adet kanaması, diş çekimi sonrası kanama, peteşi ve purpura. **Trombosit sayısı ve PT normaldir;** kanama zamanı uzar. vWF aynı zamanda faktör VIII'i taşıdığı için ağır olgularda aPTT hafif uzayabilir.
+- **Bernard-Soulier sendromu:** **GP Ib** eksik → adezyon bozuk; dev trombositler.
+- **Glanzmann trombastenisi:** **GP IIb/IIIa** eksik → agregasyon bozuk.
+- Primer hemostaz bozukluğu **yüzeysel** kanar (peteşi, mukoza kanaması); pıhtılaşma faktörü eksikliği (hemofili) **derin** kanar (eklem içi, kas içi; gecikmiş kanama).
+
+## 3. Tromboz: Virchow üçlüsü
+Tromboz, pıhtının yanlış yerde, damar ya da kalp içinde oluşmasıdır. Üç etken tek tek ya da birlikte neden olur:
+1. **Endotel hasarı:** **Arter ve kalp** trombozunun ana nedeni (aterosklerotik plak yırtılması, enfarktüslü endokard, vaskülit, hipertansiyon, sigara). Endotelin soyulması şart değildir; işlev bozukluğu (antitrombotiklerin azalması) yeter.
+2. **Anormal kan akımı:** **Türbülans** (arterde; endoteli zedeler, girdaplarda staz oluşturur) ve **staz** (vende). Normal laminer akımda trombositler merkezde akar; staz onları duvara yaklaştırır, etkinleşmiş faktörlerin yıkanıp gitmesini engeller. Örnekler: **hareketsizlik**, AF'de sol atriyum, anevrizma, mitral darlığı.
+3. **Hiperkoagülabilite (trombofili):**
+- **Kalıtsal:** **faktör V Leiden** (en sık; faktör V aktif protein C'ye dirençlidir), protrombin G20210A mutasyonu, antitrombin, protein C ve S eksiklikleri.
+- **Edinsel:** uzun yatak istirahati, cerrahi ve travma, kanser (Trousseau), gebelik ve doğum sonrası, **östrojen** (doğum kontrol hapı), antifosfolipid sendromu, HIT, nefrotik sendrom, ileri yaş, şişmanlık, sigara.
+- **S41 vakası:** 75 yaşında kadında baldır derin venlerinde tromboz → en olası neden **immobilizasyon** (staz). Hipertansiyon ve türbülans arter trombozuna götürür; aspirin ve NO trombozu azaltır.
+### Arteriyel ve venöz trombüs
+| | Arteriyel trombüs | Venöz trombüs (flebotromboz) |
+| Ana neden | **Endotel hasarı** (ateroskleroz), türbülans | **Staz**, hiperkoagülabilite |
+| Görünüm | **Gri-beyaz**, kuru, kırılgan; trombosit ve fibrinden zengin (“beyaz trombüs”) | **Kırmızı**; eritrosit ve fibrinden zengin (“kırmızı, staz trombüsü”) |
+| Zahn çizgileri | Belirgin | Var ama silik |
+| **Büyüme yönü** | **Akıma ters** (geriye, kalbe doğru) | **Akımla aynı yönde** (ileri, kalbe doğru) |
+| Tıkama | Çoğu kez tıkayıcı | Hemen her zaman tıkayıcı; damarın kalıbını çıkarır |
+| Yerleşim | **Koroner** > serebral > femoral arter | **Alt ekstremite derin venleri** (%90) |
+| Sonuç | **Enfarktüs** | **Akciğer embolisi** |
+|= Arteriyel ve venöz trombüsün karşılaştırması. S43: venöz trombüs **kan akımıyla aynı yönde büyür**.
+- İki trombüs de **kalbe doğru** büyür; arterde bu akıma ters, vende akımla aynı yöndedir. Büyüyen venöz trombüsün kuyruğu duvara gevşek tutunur ve kolay kopar.
+- **Zahn çizgileri:** açık renkli trombosit-fibrin tabakaları ile koyu eritrosit tabakalarının ardışık dizilimi; trombüsün **akan kanda**, yaşarken oluştuğunu gösterir. Ölüm sonrası pıhtıda yoktur (o pıhtı jelatinimsi, “tavuk yağı” görünümlüdür ve duvara yapışmaz).
+- **Mural trombüs:** kalp boşluğu ya da aort duvarına yapışık trombüs (enfarktüs, anevrizma, AF). **Vejetasyon:** kalp kapağı üzerindeki trombüs (enfektif ya da steril endokardit).
+### Trombüsün akıbeti: dört olasılık
+1. **Propagasyon:** Büyür, damarı tıkar.
+2. **Embolizasyon:** Kopar, akımla uzağa gider.
+3. **Dissolüsyon (erime):** Fibrinolizle tümüyle yok olur; yeni trombüslerde olasıdır (eski trombüs fibrinolitiklere dirençlidir).
+4. **Organizasyon ve rekanalizasyon:** Trombüsün içine endotel, düz kas ve fibroblastlar girer; **yeni kılcal damarlar** oluşur ve bunlar birleşerek akımı kısmen **yeniden kurar**. (S44: neovaskülarizasyon sonrası yeniden kan akımı → **rekanalizasyon**.)
+### Derin ven trombozu
+- Yüzeysel venlerin trombozu (variste) ağrılı ve şişlik yapar ama nadiren emboli atar. **Derin ven** (popliteal, femoral, iliyak) trombozu ise akciğer embolisinin başlıca kaynağıdır.
+- Olguların yarısı **belirtisizdir**, çünkü yan dallar tıkanmayı dolanır; belirti varsa tek bacakta şişlik, ağrı, ısı artışı.
+- Tanı: D-dimer ve bası Doppler ultrasonu.
+
+## 4. Emboli
+Embolus, kanla taşınıp oluştuğu yerden uzakta damarı tıkayan katı, sıvı ya da gaz kütledir; **%99'u trombüsten kopan parçadır** (tromboemboli).
+| Tür | Kaynak | Özellik |
+| **Pulmoner tromboemboli** | **Bacak derin venleri** (%95) | Çoğu küçük ve sessiz. Büyük embolus pulmoner arter çatalına oturur (**eyer embolus**): ani ölüm, akut sağ kalp yetersizliği. Orta boy dallarda kanama ya da **kırmızı enfarkt** (yalnız sol kalp yetersizliği gibi bronşiyal dolaşımın bozuk olduğu durumda) |
+| **Sistemik tromboemboli** | **Sol kalp** (%80: enfarktüs sonrası mural trombüs, AF'de sol atriyum), aort plağı, kapak vejetasyonu | Hedef: alt ekstremite (%75), beyin, bağırsak, böbrek, dalak → enfarktüs |
+| **Paradoksal emboli** | Ven trombüsü, septum defektinden (patent foramen ovale) sola geçer | Venöz trombüsle inme |
+| **Yağ embolisi** | **Uzun kemik kırıkları**, yumuşak doku travması | 1-3 gün sonra nefes darlığı, bilinç bulanıklığı, **peteşi** (koltuk altı, göğüs), trombositopeni |
+| **Hava embolisi** | Dalgıçlarda hızlı yüzeye çıkış (dekompresyon; azot), cerrahi, kateter | “Vurgun”; kemikte keson hastalığı |
+| **Amniyon sıvısı embolisi** | Doğum sırasında plasenta zarlarının yırtılması | Ani nefes darlığı, şok, **yaygın damar içi pıhtılaşma**; akciğer damarlarında fetal skuamöz hücreler |
+| Kolesterol embolisi | Aterom plağı (kateter girişimi sonrası) | Mavi parmak, böbrek yetersizliği |
+|= Emboli türleri.
+
+## 5. Enfarkt
+Enfarkt, arter beslenmesinin ya da ven boşalmasının tıkanmasına bağlı **iskemik nekroz** alanıdır. Beyin dışındaki dokularda **koagülasyon nekrozu**, beyinde likefaksiyon nekrozu görülür. Tabana doğru kama biçimlidir (tepe tıkalı damarı gösterir).
+| | **Beyaz (anemik) enfarkt** | **Kırmızı (hemorajik) enfarkt** |
+| Koşul | Arter tıkanması + **sert (solid)** doku + **tek (uç arter) dolaşım** | **Ven tıkanması** (torsiyon); **gevşek** doku; **çift dolaşım**; önceden konjesyon; tıkalı arterin yeniden açılması (reperfüzyon) |
+| Organ | **Kalp, dalak, böbrek** | **Akciğer**, ince bağırsak, yumurtalık ve testis torsiyonu, beyin (reperfüzyonda) |
+|= Beyaz ve kırmızı enfarkt.
+Enfarkt gelişimini belirleyen etkenler: **damar yapısı** (çift dolaşım: akciğer ve karaciğer dayanıklı), **tıkanma hızı** (yavaş tıkanmada kollateral gelişir), **dokunun hipoksiye duyarlılığı** (nöron 3-4 dakika, miyokard 20-30 dakika, fibroblast saatler) ve kanın oksijen içeriği.
+
+## 6. Hiperemi, konjesyon ve ödem
+### Hiperemi ve konjesyon
+| | **Hiperemi** | **Konjesyon** |
+| Süreç | **Aktif**: arteriyol genişler, gelen kan artar | **Pasif**: venöz boşalma engellenir, kan göllenir |
+| Renk | **Parlak kırmızı** (oksijenli kan) | **Mavimsi-kırmızı (siyanoz)** (oksijensiz kan) |
+| Örnek | Egzersiz, iltihap, utanınca kızarma | Kalp yetersizliği, ven tıkanması |
+|= Hiperemi ve konjesyon.
+- **Akciğerde kronik konjesyon** (sol kalp yetersizliği): alveol duvarları kalınlaşır ve fibrozlaşır; alveollerde **hemosiderin yüklü makrofajlar** (“kalp yetersizliği hücreleri”).
+- **Karaciğerde kronik konjesyon** (sağ kalp yetersizliği): santral ven çevresi konjesyon ve nekroz, çevre bölgeler yağlı → **“muskat cevizi karaciğeri”**; uzun sürerse kardiyak siroz.
+### Ödem: Starling dengesi
+Kılcal damarda sıvıyı **dışarı iten** güç **hidrostatik basınç**, **içeri çeken** güç plazma proteinlerinin (albümin) oluşturduğu **onkotik basınçtır**. Dışarı sızan az miktardaki sıvıyı **lenfatikler** toplar. Bu dengenin herhangi bir yerinin bozulması ödem yapar; ayrıca damar duvarının **geçirgenliği** artarsa protein de dışarı kaçar.
+| Mekanizma | Örnekler |
+| **Hidrostatik basınç artışı – bozulmuş venöz dönüşe bağlı** | Konjestif kalp yetersizliği, konstriktif perikardit, karaciğer sirozunda asit, **venöz tromboz**, dıştan bası (kitle), uzun süre ayakta kalma |
+| **Hidrostatik basınç artışı – venöz dönüş bozukluğu olmadan** | **Nörohümoral disregülasyon** (RAAS ile sodyum ve su tutulumu: kalp yetersizliği, böbrek hastalığı), arteriyol genişlemesi (sıcak) |
+| **Plazma onkotik basıncının düşmesi** (hipoalbuminemi) | **Nefrotik sendrom** (kayıp), **siroz** (yapım azlığı), malnütrisyon (kwashiorkor), protein kaybettiren enteropati |
+| **Lenfatik tıkanma** (lenfödem) | Meme kanserinde **portakal kabuğu** görünümü, lenf düğümü diseksiyonu ve radyoterapi, **filaryaz** (fil hastalığı) |
+| **Sodyum ve su tutulumu** | Böbrek yetersizliği, RAAS etkinleşmesi |
+| **Damar geçirgenliğinin artması** | **İltihap**, yanık, alerji |
+|= Ödem mekanizmaları. S45: “yüksek hidrostatik basınç nedeni olup bozulmuş venöz dönüşe bağlı olmayan” → **nörohümoral disregülasyon**. S40: **ATP bağımlı kalsiyum kanalı** işlev bozukluğu ödem nedeni **değildir**.
+- **Kalp yetersizliğinde ödem iki yoldan olur:** venöz basıncın artması (hidrostatik) ve düşen böbrek kan akımının RAAS'ı etkinleştirip tuz-su tutması (nörohümoral).
+- **Yer çekimine bağlı ödem** (bacaklar, yatan hastada sakrum) kalp yetersizliğini; **göz kapağında** başlayan yaygın ödem böbrek hastalığını düşündürür. Yaygın ağır ödeme **anazarka** denir.
+### Transüda ve eksüda
+| | **Transüda** | **Eksüda** |
+| Neden | Hidrostatik ya da onkotik basınç bozukluğu; damar duvarı sağlam | **İltihap**: geçirgenlik artışı |
+| Protein | Az (< 3 g/dL) | Çok |
+| **Özgül ağırlık** | **< 1,012** | **> 1,020** |
+| Hücre | Az | Çok (lökosit) |
+| Görünüm | Berrak | Bulanık |
+|= Transüda ve eksüda. “Transüdanın özgül ağırlığı 1,012'den büyüktür” ifadesi yanlıştır.
+
+## Çıkmış sorular
+@EKLE sorular/s10.txt

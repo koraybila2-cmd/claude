@@ -1,0 +1,96 @@
+# Kalp Yetersizliği, ACE İnhibitörleri ve Diüretikler | Bu yıl 4 soru (S10, S27, S30, S35), geçen yıl 7 soru. Beş öncüllü ACE inhibitörü sorusu üç yıl aralıksız geldi; ilaç tanıma soruları (levosimendan, asetazolamid, kaptopril) tırnak içinde tanım verip ilacı soruyor.
+
+## 1. Kalp yetersizliği nedir?
+Kalbin, dokuların gereksinimini karşılayacak kanı pompalayamaması ya da bunu ancak yüksek dolum basınçlarıyla yapabilmesidir. Kalp debisi = atım hacmi × kalp hızı; atım hacmini üç şey belirler: **preload** (diyastol sonu doluş), **afterload** (ventrikülün karşısındaki direnç) ve **kontraktilite**.
+| | Azalmış EF'li (sistolik) | Korunmuş EF'li (diyastolik) |
+| EF | **< %40** | ≥ %50 |
+| Sorun | Kasılma zayıf; ventrikül **genişlemiş** | Gevşeme ve doluş bozuk; duvar **kalın**, boşluk küçük |
+| Nedenler | Enfarktüs, dilate kardiyomiyopati, miyokardit, kapak yetersizlikleri | Hipertansiyon, yaşlılık, diyabet, hipertrofik ve restriktif kardiyomiyopati |
+| Ek ses | S3 | S4 |
+|= Kalp yetersizliğinin iki tipi.
+### Kompanzasyon neden sonunda zarar verir?
+Debi düşünce vücut bunu “kan kaybı” gibi algılar ve üç sistemi devreye sokar. Hepsi kısa vadede debiyi korur, uzun vadede kalbi yorar; **tedavinin mantığı bu sistemleri kırmaktır.**
+1. **Frank-Starling:** Ventrikül doldukça lifler gerilir ve daha güçlü kasılır. Ama yetersiz kalpte eğri yataydır; daha fazla dolum debiyi artırmaz, yalnız basıncı artırır → akciğer ödemi.
+2. **Sempatik sistem:** Kalp hızı ve kasılma artar, damarlar daralır. Uzun vadede β reseptörler azalır, miyositler ölür, aritmi artar, afterload yükselir. → **Beta bloker** bunu keser.
+3. **RAAS:** Böbrek kan akımı düşünce renin salınır → anjiyotensin II (damar daralması, afterload ↑) → aldosteron (tuz-su tutulumu, preload ↑, potasyum kaybı, miyokard fibrozu). → **ACE inhibitörü, ARB, aldosteron antagonisti** bunu keser.
+4. **Yeniden şekillenme (remodeling):** Anjiyotensin II, aldosteron ve noradrenalin miyosit hipertrofisi, apoptoz ve fibroz yapar; ventrikül genişler ve küreselleşir. Mortaliteyi azaltan ilaçların ortak özelliği **remodelingi önlemeleridir**.
+5. **Natriüretik peptitler (ANP, BNP):** Gerilen duvardan salınır; damar genişletir, sodyum attırır; karşı dengeleyici sistemdir. **BNP ve NT-proBNP** tanıda kullanılır; neprilisin bunları yıkar (sakubitril bu enzimi baskılar).
+### Belirti ve bulgular
+- **Sol kalp yetersizliği (geriye doğru akciğere):** efor dispnesi, **ortopne**, paroksismal gece dispnesi, akciğer tabanlarında **ral**, S3, akciğer ödemi.
+- **Sağ kalp yetersizliği (geriye doğru sistemik venlere):** **juguler venöz dolgunluk**, hepatomegali, **asit**, bacaklarda gode bırakan **ödem**. En sık nedeni sol kalp yetersizliğidir; akciğer hastalığı ya da pulmoner hipertansiyona bağlı olana **kor pulmonale** denir.
+- **İleriye doğru (düşük debi):** yorgunluk, soğuk ekstremite, prerenal azotemi.
+### Evreler
+| ACC/AHA evresi | Tanım | NYHA sınıfı |
+| **A** | Risk var (hipertansiyon, diyabet); yapısal hastalık ve belirti yok | – |
+| **B** | Yapısal hastalık var (geçirilmiş MI, düşük EF, hipertrofi); belirti yok | I |
+| **C** | Yapısal hastalık + şimdi ya da geçmişte belirti | I-IV |
+| **D** | Tedaviye dirençli ileri hastalık | IV |
+|= Evreleme. NYHA: I belirti yok; II olağan eforla; III olağandan az eforla; IV dinlenmede.
+
+## 2. Tedavi: hangi ilaç neyi düzeltir?
+| İlaç grubu | Örnekler | Etki | Mortalite |
+| **ACE inhibitörü / ARB** | Enalapril, ramipril; valsartan, kandesartan | Anjiyotensin II ↓: preload ve afterload ↓, remodeling önlenir | **Azaltır** |
+| **ARNI** | Sakubitril-valsartan | Neprilisin inhibisyonu + ARB | **Azaltır** |
+| **Beta bloker** | **Metoprolol süksinat, bisoprolol, karvedilol** | Sempatik zararı keser; kararlı hastada düşük dozla başlanır | **Azaltır** |
+| **Aldosteron antagonisti** | Spironolakton, eplerenon | Fibrozu ve potasyum kaybını önler; hiperkalemi | **Azaltır** |
+| **SGLT2 inhibitörü** | Dapagliflozin, empagliflozin | Glukozüri ve natriürez | **Azaltır** |
+| Hidralazin + izosorbid dinitrat | | Arter + ven genişletici; ACE inhibitörü alamayanda | Azaltır |
+| **Diüretikler** | Furosemid, tiyazid, asetazolamid | Hacim yükünü ve ödemi azaltır | Kanıtlanmamış (belirti giderir) |
+| **Digoksin** | | Pozitif inotrop; AF'de hız kontrolü | Azaltmaz (yatışı azaltır) |
+| İvabradin | | Sinüs düğümünde I<sub>f</sub> akımını baskılar; hız ↓ | Yatışı azaltır |
+| **İntravenöz inotroplar** | Dobutamin (β1), milrinon (PDE3), **levosimendan** | Akut ve ileri yetersizlikte kısa süre | Azaltmaz |
+| Diğer | **Nesiritid** (rekombinan BNP; cGMP ↑), konivaptan ve tolvaptan (vazopressin antagonisti), bosentan (endotelin antagonisti; pulmoner hipertansiyon) | | |
+|= Kalp yetersizliği ilaçları.
+?? Yaşamı uzatan dörtlü: **A**CE inhibitörü/ARNI, **B**eta bloker, **A**ldosteron antagonisti, **S**GLT2 inhibitörü. Diüretik ve digoksin “rahatlatır ama uzatmaz”.
+### Pozitif inotroplar: üçü de hücre içi kalsiyum etkisini artırır, ama farklı yoldan
+- **Digoksin:** Na-K ATPaz'ı baskılar → hücre içi sodyum artar → Na-Ca değiştiricisi kalsiyumu dışarı atamaz → **hücre içi kalsiyum artar** → kasılma güçlenir. Ayrıca vagal tonu artırıp AV iletimi yavaşlatır.
+- **Dobutamin** (β1 agonisti) ve **milrinon** (fosfodiesteraz-3 inhibitörü): cAMP'yi artırır → kalsiyum girişi artar. Oksijen tüketimini ve aritmiyi artırırlar.
+- **Levosimendan:** **Troponin C'ye bağlanarak** miyofilamanları **kalsiyuma duyarlılaştırır**; hücre içi kalsiyumu artırmadığı için **ATP tüketimini anlamlı artırmadan** kontraktiliteyi yükseltir. Ayrıca düz kasta ATP'ye duyarlı potasyum kanallarını açıp damar genişletir (“inodilatör”). Akut ve ileri evre kalp yetersizliğinde kısa süreli intravenöz verilir; hipotansiyon ve supraventriküler aritmi yapabilir (S30).
+!! Çeldirici: “troponin C'ye bağlanan” ilaç **levosimendandır**; **nesiritid** troponin C analoğu değil, **BNP analoğudur**.
+### Digoksin: dar terapötik aralık
+- **Zehirlenme belirtileri:** bulantı, kusma, iştahsızlık; **sarı-yeşil görme**, bulanık görme; hemen her tür aritmi (ventriküler ekstrasistol, bigemine, AV blok, bloklu atriyal taşikardi; mekanizma geç afterdepolarizasyon).
+- **Hipokalemi toksisiteyi artırır:** Digoksin Na-K ATPaz'da potasyumun bağlandığı yere bağlanır; potasyum azalınca daha çok bağlanır. Bu yüzden **diüretiklerle birlikte** kullanım risklidir. Hipomagnezemi ve hiperkalsemi de artırır.
+- **Düzeyini artıranlar:** kinidin, **verapamil, amiodaron**, makrolidler, siklosporin (P-glikoprotein inhibisyonu); böbrek yetersizliği.
+- **Düzeyini azaltanlar:** kolestiramin, antiasitler (emilimi azaltır), rifampisin; anahtara göre albuterol.
+- **Tedavi:** ilacı kesme, potasyum düzeltme, lidokain; ağır olguda **digoksine özgü antikor (Fab) parçaları**.
+
+## 3. ACE inhibitörleri
+### Mekanizma
+Anjiyotensin dönüştürücü enzim (ACE, kininaz II) iki iş yapar: anjiyotensin I'i **anjiyotensin II'ye çevirir** ve **bradikinini yıkar**. İnhibe edilince:
+- **Anjiyotensin II azalır:** arteriyoller genişler (afterload ↓), aldosteron azalır (tuz-su tutulumu ve preload ↓, potasyum tutulur), sempatik etkinlik azalır, **remodeling önlenir**.
+- **Bradikinin birikir:** ek vazodilatasyon sağlar, ama **kuru öksürük** ve **anjiyoödemin** de nedenidir.
+- **Böbrekte:** Anjiyotensin II normalde efferent arteriyolü daraltır ve glomerül basıncını korur. ACE inhibitörü efferenti gevşetir; glomerül içi basınç düşer. Diyabetik nefropatide bu yararlıdır (proteinüri azalır); ama **iki taraflı renal arter darlığında** süzme basıncı tümüyle bu mekanizmaya bağlı olduğundan **akut böbrek yetersizliği** gelişir.
+### Yan etki ve kontrendikasyonlar
+- **Kuru öksürük** (%5-20; bradikinin). Çözüm: **ARB**'ye geçmek (losartan, valsartan; bradikinini etkilemez).
+- **Anjiyoödem** (nadir ama ölümcül olabilir).
+- **Hiperkalemi** (aldosteron azalır); potasyum tutucu diüretik ve NSAİİ ile artar.
+- **İlk doz hipotansiyonu** (özellikle diüretik alan, hacmi azalmış hastada).
+- GFR'de düşme, kreatinin yükselmesi.
+- **Kontrendikasyon:** **gebelik** (fetal böbrek hasarı, oligohidramniyoz), **bilateral renal arter stenozu**, anjiyoödem öyküsü, ağır hiperkalemi.
+?? Yan etkiler “**CAPTOPRIL**”: **C**ough (öksürük), **A**njiyoödem, **P**otasyum ↑, **T**at bozukluğu, **O**rtostatik hipotansiyon, **P**regnancy (gebelikte yasak), **R**enal arter stenozunda böbrek yetersizliği, **I**ndometazin etkisini azaltır, **L**ökopeni (nötropeni).
+### Tek tek ilaçlar (S27'nin boşluk doldurma sorusu)
+| İlaç | Ayırt edici özellik |
+| **Kaptopril** | **Sülfhidril grubu** içeren tek ilaç; **etkisi hızlı başlar ve kısa sürer**, hipertansif krizde ağızdan verilebilir; daha çok **deri döküntüsü, tat bozukluğu**, nötropeni, proteinüri. **Aktif ilaçtır** (önilaç değil) |
+| **Lisinopril** | **Aktif ilaçtır**; karaciğerde değişmez, böbrekle atılır |
+| Enalapril, **ramipril**, perindopril, benazepril, trandolapril, kuinapril | **Önilaçtır**; karaciğerde aktif “-prilat” biçimine dönüşür |
+| **Fosinopril** | Önilaç; **hem böbrek hem karaciğer (safra)** yoluyla atılır; böbrek yetersizliğinde doz ayarı gerekmez |
+|= ACE inhibitörleri. S27'nin cevabı: kaptopril – ramipril – fosinopril.
+### Beş öncüllü soru (2023-24, 2024-25, 2025-26)
+- **Doğru:** “Kuru öksürük bradikininin yıkılmamasına bağlıdır.” “Hafif ve orta kalp yetersizliğinde diüretiklerle birlikte kullanılırlar.”
+- **Yanlış:** “Bilateral renal arter stenozlu hastalarda ilk tercihtir” (kontrendikedir). “Remodelingi **artırarak** mortaliteyi azaltırlar” (önleyerek). “Kaptopril ve lisinopril önilaçtır” (ikisi de aktif ilaçtır).
+- **Dikkat:** “Fosinopril dışında çoğunlukla böbreklerden itrah edilirler” cümlesi gerçekte doğrudur; 2025-26 anahtarı bu öncülü yanlış saymıştır.
+
+## 4. Diüretikler: nefronun neresinde ne yaparlar?
+| Grup | Etki yeri ve hedef | Örnek | Belirgin yan etki |
+| **Karbonik anhidraz inhibitörü** | Proksimal tübül; bikarbonat ve sodyum geri emilimi ↓ | **Asetazolamid** | **Metabolik asidoz**, hipokalemi, **böbrek taşı** (idrar alkalileşir, kalsiyum fosfat çöker) |
+| **Kıvrım (loop) diüretikleri** | Henle çıkan kalın kolu; **Na-K-2Cl** taşıyıcısı | **Furosemid**, torasemid, bumetanid | Hipokalemi, metabolik alkaloz, **hipokalsemi**, hipomagnezemi, ototoksisite, hiperürisemi |
+| **Tiyazidler** | Distal kıvrımlı tübül; **Na-Cl** taşıyıcısı | Hidroklorotiyazid, klortalidon, indapamid | Hipokalemi, alkaloz, **hiperkalsemi**, hiperglisemi, hiperlipidemi, hiperürisemi, hiponatremi |
+| **Potasyum tutucular** | Toplayıcı kanal; aldosteron reseptörü ya da ENaC | Spironolakton, eplerenon; amilorid, triamteren | **Hiperkalemi**, asidoz; spironolaktonda jinekomasti |
+| Ozmotik | Proksimal tübül ve Henle | Mannitol | Kalp yetersizliğinde kontrendike (hacmi artırır) |
+|= Diüretiklerin etki yerleri.
+- **Asetazolamid (S35):** Karbonik anhidrazı baskılar; hafif diüretiktir. İdrarla bikarbonat attırdığı için **metabolik asidoz** yapar; bu özelliği, kıvrım diüretiklerinin yol açtığı **metabolik alkalozu** düzeltmek için kalp yetersizliğinde yardımcı ilaç olarak kullanılır. Glokom, akut dağ hastalığı ve idrarın alkalileştirilmesinde de kullanılır.
+- **Furosemid:** En güçlü diüretik; akut akciğer ödeminde intravenöz verilir (ayrıca venleri genişletip preloadu hemen düşürür).
+?? Kalsiyum: “**L**oop **L**oses calcium (kaybettirir), **T**iyazid **T**utar.” Asit-baz: asetazolamid ve potasyum tutucular **asidoz**; kıvrım ve tiyazid **alkaloz**.
+
+## Çıkmış sorular
+@EKLE sorular/s4.txt

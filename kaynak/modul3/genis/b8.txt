@@ -1,0 +1,70 @@
+# Antidiyabetik İlaçlar ve İnsülin | Bu yıl 4 soru (S25, S28, S36, S39); geçen yıl hiç sorulmamıştı, Modül 3 sınavı için yeni bir konu. Sorular ilaç–grup eşleştirmesi ve insülin preparatlarının süreleri üzerinden geldi.
+
+## 1. Önce fizyoloji: β hücresi insülini nasıl salgılar?
+Sülfonilürelerin ve inkretin ilaçlarının mekanizması bu zincirin iki halkasıdır.
+1. Kan şekeri yükselir; glukoz **GLUT2** ile β hücresine girer.
+2. Glukokinaz glukozu fosforiller; glikoliz ve mitokondride oksidasyonla **ATP artar**.
+3. ATP, hücre zarındaki **ATP'ye duyarlı potasyum (K<sub>ATP</sub>) kanallarını kapatır**. Potasyum dışarı çıkamaz; hücre **depolarize** olur.
+4. Voltaja bağımlı **kalsiyum kanalları açılır**; kalsiyum içeri girer.
+5. Kalsiyum, **önceden sentezlenmiş** insülin granüllerinin ekzositozunu başlatır.
+6. **İnkretin etkisi:** Yemekle bağırsaktan salınan **GLP-1** ve **GIP**, β hücresinde cAMP'yi artırarak bu salgıyı güçlendirir; ama **yalnız glukoz yüksekken** (glukoza bağımlı). GLP-1 ayrıca glukagonu baskılar, mide boşalmasını yavaşlatır, tokluk verir. İnkretinler **DPP-4** enzimiyle dakikalar içinde yıkılır.
+- **Sülfonilüreler ve glinidler** 3. basamakta K<sub>ATP</sub> kanalını **glukozdan bağımsız** kapatır → hipoglisemi yapabilir.
+- **GLP-1 agonistleri ve DPP-4 inhibitörleri** 6. basamağı güçlendirir → tek başına hipoglisemi yapmaz.
+### Tanı eşikleri
+| | Normal | Prediyabet | Diyabet |
+| Açlık plazma glukozu (mg/dL) | < 100 | 100-125 | **≥ 126** |
+| OGTT 2. saat (mg/dL) | < 140 | 140-199 | **≥ 200** |
+| **HbA1c (%)** | **< 5,7** | 5,7-6,4 | **≥ 6,5** |
+|= Diyabet tanı ölçütleri. HbA1c %5,6 **normaldir**; “diyabete işaret eder” ifadesi yanlıştır (S39).
+
+## 2. Ağızdan ve enjeksiyonla kullanılan antidiyabetikler
+| Grup | İlaçlar | Mekanizma | Hipoglisemi | Kilo | Önemli not |
+| **Biguanid** | **Metformin** | AMPK aktivasyonu → **karaciğerde glukoz üretimi ↓**, insülin duyarlılığı ↑ | Yok | ↓ ya da nötr | İlk seçenek. Bulantı-ishal, **B12 eksikliği**, **laktik asidoz** (böbrek yetersizliği, kontrast madde) |
+| **Sülfonilüre** | **Gliklazid**, glimepirid, glibenklamid, glipizid | β hücresinde **K<sub>ATP</sub> kanalını kapatır** → önceden sentezlenmiş insülin salınır | **Var** | ↑ | Etkisi için işlev gören β hücresi gerekir |
+| **Glinid** | Repaglinid, nateglinid | Aynı kanal, farklı bağlanma yeri; **kısa etkili** | Var (az) | ↑ | Yemekten hemen önce |
+| **Tiyazolidindion** | **Pioglitazon** | **PPAR-γ** aktivasyonu (yağ dokusu) → insülin duyarlılığı ↑, hepatik glukoz üretimi ↓ | Yok | ↑ | **Ödem, kalp yetersizliği**, kırık, mesane kanseri kuşkusu |
+| **α-glukozidaz inhibitörü** | **Akarboz, miglitol**, vogliboz | Bağırsak fırçamsı kenarında disakkaritlerin parçalanmasını yavaşlatır → yemek sonrası glukoz ↓ | Yok | Nötr | Gaz, şişkinlik, ishal; hipoglisemi olursa **glukoz** verilir (sukroz işe yaramaz) |
+| **DPP-4 inhibitörü** (“-gliptin”) | Sitagliptin, linagliptin, vildagliptin | GLP-1 ve GIP'in yıkımını önler | Yok | Nötr | Linagliptin böbrekte doz ayarı gerektirmez |
+| **GLP-1 reseptör agonisti** (“-glutid, -natid”) | Liraglutid, **semaglutid**, dulaglutid, eksenatid | Glukoza bağımlı insülin ↑, glukagon ↓, mide boşalması ↓, tokluk ↑ | Yok | **↓↓** | Deri altı (semaglutidin ağızdan biçimi var). Bulantı, pankreatit; **medüller tiroid kanseri ve MEN2'de kontrendike**. Kardiyovasküler yarar |
+| **GLP-1 + GIP agonisti** | **Tirzepatid** | İki inkretin reseptörünü birden uyarır | Yok | **↓↓↓** | Haftada bir deri altı |
+| **SGLT-2 inhibitörü** (“-gliflozin”) | **Kanagliflozin**, empagliflozin, dapagliflozin, ertugliflozin | Proksimal tübülde glukoz geri emilimini engeller → **glukozüri** | Yok | ↓ | Genital mantar ve idrar yolu enfeksiyonu, **öglisemik ketoasidoz**, hacim azalması. **Kalp yetersizliği ve böbrek hastalığında yararlı** |
+|= Antidiyabetik ilaçlar.
+?? Son eklerden grubu okuyun: **-formin** biguanid; **-gli-…-id/-mid** (gliklazid, glimepirid) sülfonilüre; **-glinid** glinid; **-glitazon** PPAR-γ; **-gliptin** DPP-4; **-glutid** GLP-1; **-gliflozin** SGLT-2; **akarboz, miglitol** α-glukozidaz. S25'in cevabı bu kuralla çıkar: **miglitol** (α-glukozidaz) – **kanagliflozin** (SGLT-2) – **tirzepatid** (GLP-1 + GIP).
+### Ayrıntıda sorulanlar
+- **Gliklazid (S36):** β hücresinde ATP'ye duyarlı potasyum kanallarını kapatarak önceden sentezlenmiş insülinin salınımını artırır; **ek olarak trombosit agregasyonunu azaltır ve fibrinolitik aktiviteyi artırır.** Bu ek özellik onu diğer sülfonilürelerden ayırır.
+- **Metformin neden ilk ilaçtır?** Hipoglisemi yapmaz, kilo aldırmaz, ucuzdur. Laktik asidoz nadirdir ama ölümcüldür: laktatın karaciğerde glukoza çevrilmesini (glukoneogenez) baskıladığı için böbrek yetersizliğinde (eGFR < 30), ağır karaciğer hastalığında, alkolizmde ve doku hipoksisinde verilmez; iyotlu kontrast öncesi geçici kesilir.
+- **Pioglitazon (S39):** PPAR-γ'yı etkinleştirerek insülin duyarlılığını artırır ve hepatik glukoz üretiminin azalmasına katkıda bulunur; böbrekte sodyum tutulumu yaptığı için kalp yetersizliğinde kontrendikedir.
+- **SGLT-2 inhibitörleri:** Etkileri insülinden bağımsızdır. Glukozla birlikte sodyum da atıldığı için kan basıncı ve preload düşer; diyabeti olmayan kalp yetersizliği ve kronik böbrek hastalığında da kullanılır (Bölüm 4).
+- **Hangi ilaç kilo verdirir?** GLP-1 agonistleri, tirzepatid, SGLT-2 inhibitörleri; metformin hafif. **Kilo aldıranlar:** insülin, sülfonilüre, glinid, pioglitazon.
+
+## 3. İnsülin preparatları
+İnsan insülini deri altında altılı kümeler (hekzamer) oluşturur ve yavaş emilir. Analoglarda birkaç aminoasit değiştirilerek ya hekzamer oluşumu engellenmiş (**hızlı** analoglar) ya da emilim daha da yavaşlatılmıştır (**uzun** analoglar).
+| Tür | Örnek | Başlangıç | Tepe | Süre | Not |
+| **Hızlı etkili analog** | **Aspart, lispro, glulisin** | 10-20 dakika | 1-2 saat | 3-5 saat | Yemekle birlikte; **insülin pompalarında bunlar** kullanılır |
+| **Kısa etkili** | **Regüler (kristalize)** | 30-60 dakika | 2-4 saat | 5-8 saat | **Damardan verilebilen** insülin (ketoasidoz); **gebelikte güvenli** |
+| **Orta etkili** | **NPH (izofan)** | 1-2 saat | **4-8 saat** | 12-16 saat | Protaminle yavaşlatılmış; **tepe yapar**, gece hipoglisemisi riski |
+| **Uzun etkili analog** | **Glarjin, detemir, degludek** | 1-2 saat | **Tepe yok** | 24 saat (degludek 42 saate kadar) | Bazal insülin |
+| **Haftalık** | **İnsülin icodec** | Günler içinde kararlı düzey | Tepe yok | **Yarı ömrü yaklaşık 7 gün** | Albümine güçlü bağlanır; haftada bir |
+| Karışım | 30/70 vb. | | | | Hızlı ya da kısa + orta etkili |
+|= İnsülin preparatları.
+@SVG insulin_profil.svg
+@SEKIL Şekil 8.A. İnsülin preparatlarının etki profilleri (şematik). Hızlı analog erken ve kısa bir tepe yapar; NPH'nin 4-8. saatte tepesi vardır; uzun etkili analoglar tepe yapmadan düz seyreder.
+### Bu yılın iki öncüllü sorusu
+**S28 (doğru: II ve IV):**
+- I. “NPH uzun süreli ve tepe oluşturmayan etki sağlar” ✗ (orta etkilidir ve **tepe yapar**).
+- II. “Regüler insülin gebelerde kullanılabilir” ✓.
+- III. “İnsülin icodec'in etkisi 1-2 saatte başlayıp 40-42 saat sürer” ✗ (bu tanım **degludeke** benzer; icodec haftalıktır).
+- IV. “İnsülin aspartın etki süresi izofan insüline göre kısadır ve tepe etkisine daha erken ulaşır” ✓.
+**S39 (doğru: yalnız IV):**
+- I. “Pompalarda en çok detemir ve glarjin tercih edilir” ✗ (**hızlı etkili analoglar** kullanılır; pompa bazal gereksinimi de sürekli küçük dozlarla onlarla karşılar).
+- II. “KOAH'lı tip 1 diyabetlide inhale insülin tercih edilmelidir” ✗ (inhale insülin **astım ve KOAH'ta kontrendikedir**; bronkospazm yapar).
+- III. “HbA1c %5,6 diyabete işaret eder” ✗ (normal).
+- IV. “Pioglitazon PPAR-γ'yı etkinleştirir…” ✓.
+### İnsülin tedavisinin sorunları
+- **Hipoglisemi** (en sık ve en önemli): terleme, titreme, çarpıntı, açlık; ağırlaşınca bilinç bulanıklığı, nöbet. Bilinci açık hastaya ağızdan glukoz; kapalıysa intravenöz dekstroz ya da kas içi **glukagon**. Beta blokerler adrenerjik uyarı belirtilerini maskeler (terleme hariç).
+- **Kilo artışı**, enjeksiyon yerinde **lipohipertrofi** (yer değiştirilerek önlenir), nadiren lipoatrofi ve alerji.
+- **Hipokalemi:** İnsülin potasyumu hücre içine sokar; ketoasidoz tedavisinde potasyum izlenir ve yerine konur.
+- **Tip 1 diyabette** tek tedavi insülindir (bazal + bolus). **Tip 2'de** ağızdan ilaçlar yetmediğinde, gebelikte, ağır enfeksiyon ve ameliyatta, ketoasidoz ve hiperozmolar durumda insülin kullanılır.
+
+## Çıkmış sorular
+@EKLE sorular/s8.txt

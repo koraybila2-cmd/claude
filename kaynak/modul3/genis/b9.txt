@@ -1,0 +1,104 @@
+# Antitrombotik, Antikoagülan ve Fibrinolitik İlaçlar | Bu yıl 4 soru (S33, S34, S37, S38), geçen yıl 4 soru; her yıl dört soru. Öncüllü sorular ilaçların hedefini, geri dönüşümlülüğünü, veriliş yolunu ve gebelikte kullanımını soruyor.
+
+## 1. Pıhtı üç basamakta oluşur; ilaçlar üç gruba ayrılır
+Hemostazın ayrıntısı Bölüm 10'dadır. İlaçları yerleştirmek için şu kadarı yeterlidir:
+1. **Trombosit tıkacı** (arter tarafında, yüksek akımda belirleyici): trombositler yapışır, etkinleşir, birbirine bağlanır. → **Antiagreganlar** (antitrombositik).
+2. **Fibrin ağı** (ven tarafında ve kalp boşluklarında, staz varlığında belirleyici): pıhtılaşma faktörleri trombin üretir, trombin fibrinojeni fibrine çevirir. → **Antikoagülanlar**.
+3. **Pıhtının eritilmesi:** plazmin fibrini parçalar. → **Fibrinolitikler** (trombolitik); var olan pıhtıyı eriten tek grup.
+Buradan klinik kural çıkar: **arter trombozunda** (MI, stent, iskemik inme) önce **antiagregan**; **ven trombozunda ve AF'de** (derin ven trombozu, akciğer embolisi, sol atriyum trombüsü) **antikoagülan**.
+@SVG pihtilasma_ilac.svg
+@SEKIL Şekil 9.A. Pıhtılaşma kaskadının sadeleştirilmiş şeması ve antikoagülanların hedefleri. Faktör Xa ve trombin (IIa) ortak yolun iki kilit enzimidir; ilaçların çoğu bu ikisinden birini ya da ikisini birden hedefler.
+
+## 2. Antiagregan ilaçlar
+Trombosit etkinleşince üç haberci kendini güçlendirir: **tromboksan A2** (TXA2), **ADP** ve **trombin**; hepsinin son ortak yolu **GP IIb/IIIa** reseptörünün açılıp fibrinojenle trombositleri birbirine bağlamasıdır. Her ilaç bu yollardan birini keser.
+| Grup | İlaç | Mekanizma | Not |
+| **COX inhibitörü** | **Aspirin** | COX-1'i **geri dönüşümsüz asetiller**; TXA2 yapılamaz | Trombositin çekirdeği olmadığı için enzimi yeniden yapamaz; etki trombositin ömrü boyunca (7-10 gün) sürer. Düşük doz (75-100 mg) yeterlidir |
+| **P2Y12 (ADP reseptörü) inhibitörleri** | **Klopidogrel, prasugrel** | **Önilaç**; aktif metabolit reseptöre **geri dönüşümsüz** bağlanır | Klopidogrel **CYP2C19** ile etkinleşir (yavaş metabolize edenlerde ve omeprazolle etkisi azalır); prasugrel daha güçlü, etkileşimi az, inme öyküsünde kontrendike |
+| | **Tikagrelor** | **Aktif ilaç**; **geri dönüşümlü** bağlanır | Nefes darlığı yapabilir; günde iki kez |
+| | Kangrelor | İntravenöz, geri dönüşümlü, çok kısa etkili | Perkütan girişim sırasında |
+| **GP IIb/IIIa antagonistleri** | **Absiksimab** (monoklonal antikor Fab parçası), **tirofiban, eptifibatid** | Fibrinojenin trombosite bağlanmasını, yani agregasyonun **son ortak yolunu** engeller | Yalnız intravenöz; perkütan girişimde; trombositopeni |
+| **Fosfodiesteraz inhibitörleri** | Dipiridamol, **silostazol** (PDE3) | cAMP ↑ → trombosit işlevi ↓, damar genişler | Silostazol periferik arter hastalığında; kalp yetersizliğinde kontrendike |
+| **PAR-1 antagonisti** | **Vorapaksar** | Trombinin trombositteki reseptörünü bloke eder | |
+| 5-HT2 antagonisti | Sarpogrelat | Serotonin aracılı agregasyonu azaltır | |
+|= Antiagregan ilaçlar.
+- **Tikagrelor geri dönüşümlüdür;** “geri dönüşümsüz ADP reseptör antagonistidir” ifadesi yanlıştır (S34). Geri dönüşümsüz olanlar klopidogrel ve prasugreldir.
+- **Stent sonrası** standart tedavi **aspirin + P2Y12 inhibitörü** (ikili antiagregan tedavi; klopidogrelle genellikle 6-12 ay), ardından ömür boyu aspirindir.
+- Aspirin düşük dozda trombosit TXA2'sini kalıcı keser; endotel hücresi çekirdekli olduğu için prostasiklin (PGI2) yapımını yeniler. Yan etkiler: mide kanaması, aspirine duyarlı astım, çocukta viral enfeksiyonda Reye sendromu.
+- Antiagreganlar tam kanla yapılan pıhtılaşma testlerini (PT, aPTT) bozmaz.
+
+## 3. Heparinler
+### Mekanizma: antitrombini hızlandırmak
+Heparin kendi başına antikoagülan değildir. Karaciğerin yaptığı doğal fren **antitrombin III**'e özgül bir **pentasakkarit** dizisiyle bağlanır ve onun etkisini yaklaşık 1000 kat **hızlandırır** (antitrombini inhibe etmez, **etkinleştirir**).
+- **Faktör Xa**'yı baskılamak için pentasakkaritin antitrombine bağlanması yeterlidir.
+- **Trombini (IIa)** baskılamak için heparin zincirinin hem antitrombine hem trombine aynı anda tutunacak kadar **uzun** olması (en az 18 şeker birimi) gerekir.
+Bu fark üç ilacı açıklar:
+| | Fraksiyone olmamış heparin | Düşük molekül ağırlıklı heparin (enoksaparin, nadroparin, tinzaparin, dalteparin) | Fondaparinuks |
+| Zincir | Uzun, karışık | Kısa | Yalnız sentetik pentasakkarit |
+| Hedef (antitrombin aracılığıyla) | **Xa = IIa** | **Xa > IIa** | **Yalnız Xa** (VIIa değil) |
+| Veriliş | İntravenöz ya da deri altı | Deri altı | Deri altı |
+| Deri altı biyoyararlanım | Düşük ve değişken | **Yüksek (~%90)** | %100 |
+| Etki süresi | Kısa | Daha uzun (günde 1-2 kez) | Uzun (günde 1) |
+| İzlem | **aPTT** | Rutin izlem gerekmez; gerekirse **anti-Xa** | Gerekmez |
+| Protaminle nötralizasyon | **Tam** | **Kısmi** | Yok |
+| HIT riski | Daha yüksek | Düşük | Çok düşük |
+| Atılım | Retiküloendotelyal sistem | **Böbrek** (yetersizlikte birikir) | Böbrek |
+|= Heparin türlerinin karşılaştırması.
+- **Gebelik:** Heparin ve düşük molekül ağırlıklı heparinler plasentayı **geçmez**; ikisi de gebelikte **kullanılabilir**. “Enoksaparin gebelerde kullanılırken heparin kontrendikedir” ifadesi yanlıştır (S38). Gebelikte kontrendike olan **varfarindir**.
+- **Heparine bağlı trombositopeni (HIT):** Heparin-trombosit faktör 4 kompleksine karşı IgG oluşur (5-10. gün); antikor trombositleri **etkinleştirir**. Trombosit sayısı düşer ama hasta kanamaz, **tromboz** yapar. Heparin kesilir; **argatroban** ya da bivalirudin verilir.
+- Uzun süreli kullanımda **osteoporoz**; hiperkalemi (aldosteronu baskılar).
+- **Antidotu protamin sülfattır** (pozitif yüklü protein, negatif yüklü heparini bağlar).
+- **Heparin ünitesi** belirli bir uluslararası standartla karşılaştırılarak tanımlanır; “100 mL insan kanını pıhtılaştırmayan miktar” gibi tanımlar yanlıştır.
+- **Nadroparin** bir düşük molekül ağırlıklı heparindir: antitrombin III'ü **etkinleştirerek** dolaylı Xa inhibisyonu yapar; “antitrombin III'ü inhibe ederek” ifadesi yanlıştır (S34).
+
+## 4. Ağızdan antikoagülanlar
+### Varfarin
+1. Karaciğerde faktör **II, VII, IX, X** ile protein C ve S'nin işlev kazanması için glutamik asit kalıntılarının K vitaminiyle **γ-karboksillenmesi** gerekir.
+2. Bu sırada K vitamini okside olur; **K vitamini epoksit redüktaz (VKORC1)** onu yeniden kullanılır hâle getirir.
+3. Varfarin bu enzimi baskılar; işlevsiz faktörler yapılır.
+- **Etki geç başlar (3-5 gün):** Dolaşımdaki hazır faktörlerin tükenmesi gerekir (faktör VII'nin yarı ömrü 6 saat, protrombinin 60 saat). Bu yüzden başlangıçta **heparinle köprüleme** yapılır.
+- **Başlangıçta geçici pıhtılaşma eğilimi:** Protein C'nin yarı ömrü kısadır ve önce o düşer → **varfarine bağlı deri nekrozu** (özellikle protein C eksikliğinde).
+- **İzlem PT/INR** ile (hedef çoğunlukla 2-3; mekanik kapakta 2,5-3,5).
+- **Teratojendir** (burun hipoplazisi, noktalı epifizler; fetal kanama): gebelikte kullanılmaz.
+- **Etkileşimler:** CYP2C9 ile yıkılır. **Etkisini artıranlar** (kanama): amiodaron, azoller, metronidazol, trimetoprim-sülfametoksazol, makrolidler, simetidin; geniş spektrumlu antibiyotikler (bağırsak florasının K vitamini yapımını azaltır). **Etkisini azaltanlar:** enzim indükleyiciler (**karbamazepin**, rifampisin, fenitoin, barbitürat), kolestiramin, K vitamininden zengin yeşil sebzeler.
+- **Antidot:** K vitamini (saatler içinde); acil durumda protrombin kompleks konsantresi ya da taze donmuş plazma.
+### Doğrudan etkili ağızdan antikoagülanlar
+| | **Dabigatran** | **Rivaroksaban, apiksaban, edoksaban** |
+| Hedef | **Trombin (IIa)**, doğrudan | **Faktör Xa**, doğrudan (antitrombin gerekmez) |
+| Ad ipucu | | “-**ksa**-ban”: **Xa**'yı **ban**'lar |
+| Atılım | **%80 böbrek**; böbrek yetersizliğinde kaçınılır | Kısmen böbrek, kısmen karaciğer (apiksaban en az böbrek) |
+| Etkileşim | **P-glikoprotein substratı**; ketokonazol kontrendike | P-gp ve CYP3A4 |
+| Antidot | **İdarusizumab** | Andeksanet alfa |
+|= Doğrudan etkili ağızdan antikoagülanlar.
+- **Dabigatran (S33):** Önilaç (dabigatran eteksilat) olarak alınır. **Hem serbest hem fibrine (pıhtıya) bağlı trombini** baskılar; “bağlı trombine etkisi yoktur” ifadesi yanlıştır (heparin-antitrombin kompleksi pıhtıya bağlı trombine ulaşamaz; doğrudan inhibitörlerin üstünlüğü budur). Ana atılım yolu böbrektir; **ketokonazolle** birlikte kullanımı kontrendikedir; **ameliyat sonrası venöz tromboembolinin önlenmesinde**, AF'de inmeden korunmada ve ven trombozu tedavisinde kullanılır.
+- Varfarine üstünlükleri: hızlı başlar, sabit doz, rutin izlem gerekmez, besin etkileşimi az, kafa içi kanama daha az. **Mekanik kalp kapağında ve orta-ağır mitral darlıkta kullanılmazlar** (varfarin verilir).
+### Parenteral doğrudan trombin inhibitörleri
+- **Bivalirudin:** hirudin türevi; trombine geri dönüşümlü bağlanır, trombosit etkinleşmesini de azaltabilir; perkütan girişimde.
+- **Argatroban:** kısa yarı ömürlü, trombine geri dönüşümlü bağlanır, karaciğerde yıkılır; **HIT** tedavisinde.
+?? Veriliş yolu (S37): **parenteral** → heparin, enoksaparin, **fondaparinuks**, **bivalirudin**, argatroban. **Ağızdan** → varfarin, **dabigatran**, rivaroksaban, apiksaban, **edoksaban**. Kural: sonu “-parin, -parinuks, -rudin, -troban” ise iğne; “-ksaban, -gatran” ve varfarin ağızdan.
+
+## 5. Fibrinolitik (trombolitik) ilaçlar
+Hepsi **plazminojeni plazmine** çevirir; plazmin fibrini (ve fibrinojeni) parçalar.
+| İlaç | Fibrine seçicilik | Not |
+| **Streptokinaz** | Yok (dolaşımdaki plazminojeni de etkinleştirir) | Streptokok ürünü: **antijenik**, alerji ve hipotansiyon; ikinci kez verilmez |
+| Ürokinaz | Yok | İnsan böbrek hücresi ürünü |
+| **Alteplaz (rt-PA)** | Var (fibrine bağlı plazminojeni yeğler) | Yarı ömrü kısa (~5 dk), infüzyonla; iskemik inmede de kullanılır |
+| **Retaplaz, tenekteplaz** | Var (tenekteplaz en seçici) | Yarı ömür daha uzun: **bolus** olarak verilir |
+|= Fibrinolitik ilaçlar. Alteplazın yarı ömrü streptokinazdan kısadır.
+- **Endikasyon:** STEMI (perkütan girişim 120 dakika içinde yapılamayacaksa; ilk 12 saat), **akut iskemik inme** (ilk 4,5 saat), masif akciğer embolisi. **NSTEMI'de verilmez** (Bölüm 1).
+- **Ortak yan etki kanamadır;** en korkulanı kafa içi kanama. Kontrendikasyonlar: geçirilmiş hemorajik inme, son 3 ayda iskemik inme, etkin iç kanama, aort diseksiyonu kuşkusu, yakın zamanda büyük ameliyat ya da kafa travması.
+- **Antidot:** traneksamik asit, aminokaproik asit (plazminojenin fibrine bağlanmasını engeller).
+- Drotrekogin alfa (aktive protein C; faktör Va ve VIIIa'yı baskılar) sepsiste kullanılmış, piyasadan çekilmiştir.
+
+## 6. İzlem ve antidotlar: tek tablo
+| İlaç | İzlem testi | Antidot |
+| Heparin | **aPTT** | **Protamin** |
+| Düşük molekül ağırlıklı heparin | Gerekirse anti-Xa | Protamin (kısmi) |
+| **Varfarin** | **PT/INR** | **K vitamini**, protrombin kompleksi, taze donmuş plazma |
+| Dabigatran | Rutin yok | İdarusizumab |
+| Rivaroksaban, apiksaban | Rutin yok | Andeksanet alfa |
+| Fibrinolitikler | Fibrinojen | Traneksamik asit |
+|= Antitrombotik ilaçlarda izlem ve antidotlar.
+?? “**H**eparin – a**P**TT – **P**rotamin” (HPP); “**W**arfarin – **P**T – vitamin **K**” (WPK). Heparin iç yolu (aPTT), varfarin dış yolu (PT; en kısa ömürlü faktör VII) uzatır.
+
+## Çıkmış sorular
+@EKLE sorular/s9.txt
