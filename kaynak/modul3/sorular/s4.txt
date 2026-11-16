@@ -1,0 +1,116 @@
+@QB BU YILIN SORULARI
+@Q MODÜL 3 2026-27 · SORU 10 | BU YIL | YENİ VAKA KURGUSU
+@K 77 yaşında kadın hasta, bilinen koroner arter hastalığı, paroksismal atriyal fibrilasyon öyküsü. Sağ kalp kateterizasyonu: mPAP 42 mmHg, PVR 13.8 WU, Kardiyak İndeks 1.9 L/dk/m2, SVI 25.3 mL/m2, MvO2 %60. EKO: EF %35, E/A 0.48, PASP 115 mmHg, TAPSE/PASP 0.13 mm/mmHg, RV bazal çap 48 mm, D-şekilli septum + paradoks hareketi, perikardiyal efüzyon 22 mm, NT-proBNP 7611 ng/L. Bu hastada kardiyak indeksin 1.9 L/dk/m2 ve MvO2 %60 düzeylerine gerilemesinden sorumlu patofizyolojik mekanizma aşağıdakilerden hangisiyle en doğru açıklanır?
+A) Pulmoner arteriyel basınç artışı LV afterload'unu artırır; LV yetmezliği gelişir ve kardiyak indeks düşer. D-şekilli septum LV'nin aşırı yüklendiğini gösterir; TAPSE/PASP oranı LV pompa rezervini ölçer
+B) Artmış PVR RV afterload'unu yükseltir; RV bu yüke adapte olamaz (TAPSE/PASP 0.13 → RV-PA uyumsuzluğu). Aşırı yüklenen RV'nin interventriküler septum üzerindeki baskısı LV geometrisini ve dolumunu bozar (D-şekilli septum); azalan LV çıkım hacmi MvO2 düşüklüğü ve düşük kardiyak indeks olarak yansır ✓
+C) NT-proBNP 7611 ng/L düzeyi miyokard enfarktüsünü gösterir; akut koroner sendromda RV enfarktüsü gelişmiş, bu nedenle RV pompa fonksiyonu bozulmuştur. D-şekilli septum RV enfarktüsünün tipik bulgusudur
+D) PVR artışı pulmoner venlerde basınç birikimine yol açar; yükselen pulmoner ven basıncı LA'ya iletilir, LA genişler ve mitral yetersizliği gelişir. Mitral yetersizliği LV'yi geri dönüşsüz biçimde zayıflatarak kardiyak debinin düşmesine neden olur
+E) Perikardiyal efüzyonun kalbi dışardan sıkıştırması (tamponad) tüm kardiyak odacıkların doluş basınçlarını eşitler; bu durum TAPSE'yi düşürür ve kardiyak indeksi azaltır. Tamponad bu tablonun tek ve başlıca mekanizmasıdır
+B doğru. Pulmoner vasküler direncin 13,8 Wood birimine çıkması sağ ventrikülün art yükünü yükseltir. TAPSE/PASP oranının 0,13 olması sağ ventrikülün pulmoner arter basıncına uyum sağlayamadığını (RV-PA uyumsuzluğu) gösterir. Genişleyen sağ ventrikül septumu sola iter (D biçimi, paradoks hareket), sol ventrikül dolumu bozulur ve debi düşer; kalp indeksi 1,9 L/dk/m² ve miksed venöz oksijen satürasyonu %60'a iner. A'da D biçimli septum sol ventrikül aşırı yüklenmesini göstermez; sağ ventrikülün aşırı yüklendiğini gösterir. C'de NT-proBNP yüksekliği enfarktüse özgü değildir. D'de pulmoner ven basıncı yükselmesi sol kalp hastalığında olur, burada direnç yüksekliği prekapiller. E'de perikardiyal efüzyon (22 mm) sonuç olarak vardır, tek ve başlıca neden değildir.
+@@
+@Q MODÜL 3 2026-27 · SORU 27 | BU YIL | BSD 2024-25 S48 İLE AYNI BİLGİ; MSD-3 2025-26 S31
+@K "....I.... etkisi hızlı başladığı ve kısa etkili olduğu için hipertansif krizlerde oral yolla tercih edilebilir. Ancak sülfidril grubu içerdiğinden daha fazla deri döküntüsü ve tat bozukluğu yapar. ....II.... bir ön ilaçtır (prodrug). Aktif forma dönüşmesi için karaciğerde metabolizasyona uğraması gerekir. ....III.... ise ana atılım yolu safra olduğu için böbrek yetmezliği olan hastalarda avantaj sağlar." ifadesinde boşluklara gelmesi gerekenler hangi şıkta doğru sıra ile (I-II-III) verilmiştir?
+A) Kaptopril - Ramipril - Fosinopril ✓
+B) Perindopril - Lisinopril - Ramipril
+C) Trandolapril - Moeksipril - Perindopril
+D) Enalapril - Perindopril - Kaptopril
+E) Benazepril - Enalapril - Trandolapril
+@O Önceki yıllar: 2025-26 MSD'de (S31) boşluklar “kaptopril - fosinopril” idi; BSD 2024-25 S48 aynı bilgiyi sordu. BSD 2022-23'te “kaptopril ve lisinopril önilaç olarak kullanılır” yanlış şıktı.
+A doğru (kaptopril, ramipril, fosinopril). Kaptopril etkisi hızlı başlayan, kısa etkili ve sülfhidril grubu içeren ilaçtır; deri döküntüsü ve tat bozukluğu yapar, hipertansif krizde oral kullanılabilir. Ramipril önilaçtır, karaciğerde ramiprilata dönüşür. Fosinopril safrayla da atıldığı için böbrek yetersizliğinde avantajlıdır. Diğer şıklarda lisinopril aktif ilaçtır (B), perindopril ve trandolapril önilaçtır ama kaptoprilin yerini tutamaz (C-E).
+@@
+@Q MODÜL 3 2026-27 · SORU 30 | BU YIL | MSD-3 2025-26 S24 VE BSD 2023-24 S40 İLE AYNI BİLGİ
+@K "Troponin C'ye bağlanarak kalsiyumdan bağımsız olarak miyokardı kalsiyum iyonuna karşı duyarlılaştırır. ATP tüketimini anlamlı oranda arttırmadan kontraktiliteyi arttırır. Akut ve ileri evre kalp yetersizliğinde kısa süreyle iv olarak kullanılır. Supraventriküler aritmiler sık görülen ciddi bir yan etkisidir." Şeklinde tanımlanan ilaç aşağıdakilerden hangisidir?
+A) Bosentan
+B) Conivaptan
+C) Levosimendan ✓
+D) Sodyum nitroprussid
+E) Rotigaptid
+@O Önceki yıllar: 2025-26 MSD'de “nesiritid - troponin C analoğu” yanlış eşleşme olarak soruldu; nesiritid BNP analoğudur.
+C doğru (levosimendan). Troponin C'ye bağlanarak kalsiyumdan bağımsız duyarlılaştırma yapan, akut ve ileri kalp yetersizliğinde kısa süreli i.v. kullanılan ve supraventriküler aritmiye yol açabilen ilaçtır. Bosentan endotelin antagonistidir (A), konivaptan vazopressin antagonistidir (B), sodyum nitroprussid damar düz kasını gevşetir (D), rotigaptid gap junction modülatörüdür (E).
+@@
+@Q MODÜL 3 2026-27 · SORU 35 | BU YIL | YENİ
+@K "Karbonik anhidraz enzimini inhibe ederek diüretik etki gösterir. Kalp yetersizliği tedavisinde metabolik alkaloz varlığında yardımcı ilaç olarak fayda sağlayabilir. Böbrek taşları ve metabolik asidoz riskinde artış önemli yan etkileri arasındadır." şeklinde tanımlanan ilaç aşağıdakilerden hangisidir?
+A) Eplerenon
+B) Metolazon
+C) Torasemid
+D) Asetazolamid ✓
+E) Desmopressin
+D doğru (asetazolamid). Karbonik anhidrazı baskılayarak diüretik etki yapar; metabolik alkalozu olan kalp yetersizliği hastasında yardımcı olur; böbrek taşı ve metabolik asidoz önemli yan etkileridir. Eplerenon aldosteron antagonisti (A), metolazon tiyazid benzeri (B), torasemid kıvrım diüretiği (C), desmopressin vazopressin analoğudur (E).
+@@
+@QB GEÇEN YILIN MSD-3 SORULARI (2025-26)
+@Q MODÜL 3 2025-26 · SORU 14 | GEÇEN YIL | 
+@K (Görseldeki 58 yaşındaki hasta ile ilgili, EKG ve anjiyografi sonucu verilmiş): 58 yaş kadın hasta diyabetik hipertansif olduğunu belirtiyor. Nefes darlığı ve karın şişliği şikayetleri ile başvuruyor. Dış merkezde yapılan koroner anjiyografisinde kritik darlıklar saptanmadığını ifade ediyor (EKG görülmektedir). Ön tanınızı doğrulamak için hangi tetkiki istersiniz?
+A) Efor testi
+B) Holter – EKG
+C) Holter – Tansiyon
+D) Ekokardiyografi ✓
+E) Elektrofizyolojik çalışma
+D doğru (ekokardiyografi). Koroner anjiyografisi normal olan, diyabetik hipertansif hastada nefes darlığı ve karın şişliği kalp yetersizliğini düşündürür; tanı ekokardiyografiyle doğrulanır.
+@@
+@Q MODÜL 3 2025-26 · SORU 15 | GEÇEN YIL | 
+@K (Görselde yalnızca EKG verilmiştir.) 58 yaşında diyabetik, hipertansif kadın hasta nefes darlığı ve karın şişliğiyle başvuruyor. Dış merkezde yapılan koroner anjiyografide kritik darlık saptanmadığı belirtiliyor. Ön tanınızı doğrulamak için hangisini istersiniz? 58 yaş kadın hasta diyabetik hipertansif olduğu belirtiliyor.Nefes darlığı ve karın şikayetleriyle başvuruyor.Dış merkezde yapılan koronor anjiyografisinde kritik saptanmadığı ifade ediliyor.(Ekg görülmektedir) Ön tanınızı doğrulamak için hangisini istersiniz?
+A) Efor testi
+B) Holter-EKG
+C) Holter-tansiyon
+D) Ekokardiyografi ✓
+E) Elektrofizyolojik çalışma
+D doğru. 14. soruyla aynı vaka: yalnızca EKG görseli verilmiştir.
+@@
+@Q MODÜL 3 2025-26 · SORU 16 | GEÇEN YIL | 
+@K (Görseldeki 60 yaşındaki erkek hasta ile ilgili, EKG ve lab. sonuçları verilmiş): 60 yaşında erkek hasta nefes darlığı yakınması ile başvuruyor. Klinik kötüleşme ile merkez koroner yoğun bakıma yatırılıyor. Kreatinin 1.2 mg/dL, NT-proBNP 4013 ng/L, troponin 41 ng/L olarak saptanıyor. Bu hasta hangi evrededir?
+A) Evre A: Risk altında
+B) Evre B: Yapısal kalp hastalığı
+C) Evre C: Semptomatik kalp hastalığı ✓
+D) Evre D: İleri (sağ kalp baskın)
+E) Evre E: Kalp transplantasyonu adayı
+C doğru (evre C). Yapısal kalp hastalığı üzerine nefes darlığı, yüksek NT-proBNP ve klinik kötüleşme semptomatik kalp hastalığıdır (evre C).
+@@
+@Q MODÜL 3 2025-26 · SORU 24 | GEÇEN YIL | 
+@K Aşağıda verilen kalp yetersizliği tedavisinde kullanılan ilaç - temel etki şekli/mekanizması eşleştirmelerinden hangisi yanlıştır?
+A) Conivaptan – Vazopressin antagonisti
+B) Bosentan – Endotelin antagonisti
+C) Digoksin – Sodyum - Potasyum ATPaz inhibisyonu
+D) Nesiritid – Troponin C analoğu ✓
+E) Spironolakton – Aldosteron antagonisti
+D yanlıştır. Nesiritid troponin C analoğu değil, BNP analoğudur. Konivaptan vazopressin antagonisti, bosentan endotelin antagonisti, digoksin Na-K ATPaz inhibitörü, spironolakton aldosteron antagonistidir.
+@@
+@Q MODÜL 3 2025-26 · SORU 29 | GEÇEN YIL | 
+@K Kalp yetersizliğinde kullanılan ADE inhibitörü ilaçlarla ilgili olarak aşağıda verilen bilgilerden hangisi/hangileri doğrudur?
+@K I. Digoksini tolere edemeyen bilateral renal arter stenozlu hastalarda ilk tercih edilirler.
+@K II. Fosinopril dışında çoğunlukla böbreklerden itrah edilirler.
+@K III. Hafif ve orta derecede yetmezliklerde diüretiklerle kombine olarak kullanılırlar.
+@K IV. Önemli yan etkilerinden olan kuru öksürük, ilaç etkisi ile bradikininin inaktivasyonunun edilmemesine bağlı olarak meydana gelir.
+@K V. Kalp ve damarlarda remodellingi arttırarak mortalite ve morbiditeyi azaltırlar.
+A) I-II doğru, diğerleri yanlıştır.
+B) II-III doğru, diğerleri yanlıştır.
+C) III-IV doğru, diğerleri yanlıştır. ✓
+D) IV-V doğru, diğerleri yanlıştır.
+E) I-II-III-IV doğru, V yanlıştır.
+C doğru (III ve IV; anahtara göre). ACE inhibitörleri hafif-orta kalp yetersizliğinde diüretikle birlikte kullanılır (III); kuru öksürük bradikininin yıkılmamasına bağlıdır (IV). I yanlış: bilateral renal arter stenozunda kontrendikedir. V yanlış: remodelling'i artırmaz, önler. Kaynak notu: II. öncül (“fosinopril dışında çoğunlukla böbreklerden itrah edilirler”) gerçekte doğrudur, ama anahtar bu öncülü yanlış saymıştır. Soru metni aktarılırken değişmiş olabilir.
+@@
+@Q MODÜL 3 2025-26 · SORU 31 | GEÇEN YIL | 
+@K "Sülfidril grubu içeren bir ilaç olan .....I....., bazı hastalarda nötropeni ve proteinüriye yol açabilir. Böbrekler yoluyla da itrah edilebilen .....II..... ise bu özelliğinden dolayı böbrek yetmezliği olan hastalarda diğer ACE inhibitörlerine kıyasla daha çok tercih edilir." (I-II) hangi şıkta sırası ile yer almaktadır?
+A) Ramipril – Kaptopril
+B) Silazapril – Lisinopril
+C) Enalapril – Perindopril
+D) Ramipril – Fosinopril
+E) Kaptopril – Fosinopril ✓
+E doğru. Kaptopril sülfhidril grubu içerir (nötropeni, proteinüri); fosinopril böbrek yetersizliğinde tercih edilir.
+@@
+@QB GEÇEN YILIN BLOK SINAVI (2025-26)
+@Q BSD-1 2025-26 · SORU 43 | BLOK SINAVI | 
+@K Aşağıdaki ilaçlardan hangisinin digoksin ile birlikte kullanımı serum digoksin düzeyini azaltabilir?
+A) Albuterol ✓
+B) Nifedipin
+C) Kinidin
+D) Diltiazem
+E) Siklosporin
+A doğru (albuterol). Serum digoksin düzeyini kinidin (C), diltiazem (D) ve siklosporin (E) artırır. Nifedipin düzeyi etkilemez (B). Anahtara göre digoksin düzeyini azaltan albuteroldür.
+@@
+@QB DAHA ESKİ SORULAR
+@E BSD 2024-25 S78: Anterior MI sonrası kalp yetersizliğinin temel mekanizması → pompa yetersizliği (2022-23 S75 ve 2023-24 S76'da aynı vaka).
+@E BSD 2023-24 S40: BNP analoğu, i.v. kullanılan, sGMP'yi uyaran → nesiritid.
+@E BSD 2022-23 S42: Kalp yetersizliğini kötüleştiren özellik olmayan → AMPK ekspresyonunda artış. S51: ACE inhibitörleri için yanlış → kaptopril ve lisinopril önilaç olarak kullanılır.
+@E BSD 2021-22 S33, S54: Kalpte mineralokortikoid aracılı etkiler; GLP-1 agonisti pozitif inotroplar (insüline dayalı miyokard glukoz alımında artış). BSD 2019-20 S45: Dijital yapılı pozitif inotroplar için doğru → terapötik düzeyde otomatikliği azaltır.
+@E MSD-3 2023-24 S4-S6, S10, S29-S31: ACE inhibitörü öncülleri, digoksin etkileşimi (düzeyi azaltan), selektif beta blokör (metoprolol), kalp yetersizliği ilaç-mekanizma eşleştirmesi (yanlış: nesiritid troponin C analoğu), 86, 66 ve 70 yaşındaki hastalarda kalp yetersizliği vakaları. 202425 S3, S5, S9, S11, S33, S34: vazopressin antagonisti (konivaptan), selektif beta blokör, ACE inhibitörü öncülleri, eşleştirme, 91 ve 55 yaşındaki hastalar.
+@E MSD 3-4 2019-20 S47; 2020-21 S21, S29, S54, S67-S68; 2021-22 S45, S21, S23, S27: Nöroendokrin sistemler, evre D ve evre B vakaları, korunmuş EF, digitalisler, pozitif inotroplar (vesnarinon), digitoksinin digoksinden farkı (yarı ömrü uzun), liraglutid.

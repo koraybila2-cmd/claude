@@ -1,0 +1,83 @@
+# Angina Pektoris ve Akut Koroner Sendrom | Bu yıl 6 soru (S1-S6), geçen yıl 7 soru. Anginanın tanımı ve özellikleri hemen her yıl soruluyor. Önce konu, sonra çıkmış sorular.
+
+## 1. Temel fikir: arz-talep dengesi
+Kalp kası neredeyse yalnızca oksijenli solunumla çalışır ve dinlenirken bile koroner kandaki oksijenin yaklaşık %70'ini çeker. Daha fazla oksijen gerektiğinde kandan daha çok çekemez; tek çaresi **koroner akımı artırmaktır**. Koroner akım da büyük ölçüde **diyastolde** olur, çünkü sistolde kasılan miyokard kendi damarlarını sıkıştırır. Bu iki bilgi bütün konunun anahtarıdır:
+- **Talep** üç şeyle artar: kalp hızı, kasılma gücü ve duvar gerilimi (preload ve afterload).
+- **Arz** iki şeyle azalır: damar çapının daralması (plak, spazm, trombüs) ve diyastol süresinin kısalması (taşikardi).
+- Taşikardi hem talebi artırır hem diyastolü kısaltıp arzı azaltır; bu yüzden **beta blokerler** anginanın temel ilacıdır.
+Aterosklerotik plak damar çapını yaklaşık %70 daralttığında dinlenmede akım yeter, ama eforda yetmez: **eforla gelen, dinlenmeyle geçen ağrı** ortaya çıkar. Daralma %90'ı geçince ya da plak yırtılıp üzerine pıhtı oturunca ağrı dinlenmede de gelir.
+
+## 2. Anginal ağrı nasıl tanınır?
+Miyokard iskemisinde biriken adenozin, laktat ve bradikinin ağrı liflerini uyarır. Kalbin ağrı lifleri omuriliğe kol, boyun ve çenenin duyu lifleriyle aynı düzeyden girdiği için ağrı bu bölgelere **yansır**; hasta yerini parmakla gösteremez, yumruğunu göğsüne koyar.
+| | Anginal ağrı | Anginal olmayan ağrı |
+| Niteliği | **Baskı, sıkışma, ağırlık, yanma** | **Bıçak saplanır, iğne batar**, keskin |
+| Yeri | Retrosternal, yaygın; sol kola, çeneye, boyuna, sırta, epigastriuma yayılır | Parmak ucuyla gösterilen nokta |
+| Süresi | Birkaç dakika (2-10 dk) | **Saniyeler** ya da saatler-günler |
+| Başlatan | Efor, duygusal stres, soğuk, ağır yemek | Derin nefes, öksürük, pozisyon değişikliği, bastırmak |
+| Geçiren | **Dinlenme ya da dil altı nitrat** (1-5 dakikada) | Öne eğilmek (perikardit), antiasit |
+|= Anginal ağrının ayırt edilmesi. Sınavın en sık sorduğu tablo.
+- **Tipik angina** üç ölçütün üçünü taşır: (1) retrosternal baskı tarzında ağrı, (2) eforla ya da stresle başlama, (3) dinlenme ya da nitratla dakikalar içinde geçme. İkisi varsa atipik angina, biri ya da hiçbiri yoksa anginal olmayan göğüs ağrısıdır.
+- **Angina eşdeğerleri:** Kadın, yaşlı ve diyabetik hastada ağrı olmayabilir; yerine **eforla gelen** nefes darlığı, yorgunluk, çarpıntı, bulantı, terleme, epigastrik rahatsızlık görülür. Diyabette otonom nöropati ağrı liflerini bozar (“sessiz iskemi”). İstirahatte nefes darlığı ve ortopne angina eşdeğeri değil, kalp yetersizliği belirtisidir.
+- **Anginal sayılmayanlar (çıkmış şıklar):** öne eğilmekle artan (perikardit), nefesle artan (plevra), saniyeler süren bıçak saplanır ağrı (kas-iskelet).
+!! Değişmeyen soru kalıbı: “Angina pektoris nedir?” → **eforla artan, dinlenmekle azalan, göğüste baskı ya da yanma hissi**. “Yanlış olan” → **bıçak sokulur, iğne batar tarzda ağrı**.
+
+## 3. Angina tipleri
+| Tip | Mekanizma | Klinik | Not |
+| **Stabil (kararlı) angina** | Sabit aterosklerotik darlık; talep artınca iskemi | Aylardır **aynı eforla** gelir, dinlenme ya da nitratla geçer; sıklığı ve şiddeti değişmez | En sık biçim. EKG'de atak sırasında ST çökmesi |
+| **Kararsız (unstabil) angina** | Plak yırtılması ve **tıkamayan trombüs** | **Yeni başlayan** (son 2 ay), **kreşendo** (sıklığı, süresi, şiddeti artan ya da eşiği düşen) ya da **istirahatte** gelen ağrı | Akut koroner sendromdur. **Troponin yükselmez**; yükselirse tanı NSTEMI olur |
+| **Varyant (Prinzmetal) angina** | Koroner **spazm** | İstirahatte, çoğu gece ve sabaha karşı; atakta geçici **ST yükselmesi**; genç, sigara içen hasta | Kalsiyum kanal blokeri ve nitrat verilir. **Seçici olmayan beta bloker spazmı artırabilir** |
+|= Angina tipleri.
+- “1 aydır giderek artan, 100 metre yürümekle oluşan ağrı” **stabil değildir**, kararsız anginadır (üç kez soruldu).
+- Kararsız angina vakası (68 yaşında diyabetik hipertansif erkek; 6 aydır iki kat merdivenle gelen ağrı son haftada daha az eforla geliyor) üç yıl soruldu: eşik düştüğü için cevap **kararsız angina**.
+- Kanada sınıflaması (CCS) stabil anginanın şiddetini derecelendirir: I ağır eforla, II hızlı yürüme ve merdivenle, III düz yolda 100-200 metrede, IV her etkinlikte ya da istirahatte.
+
+## 4. Akut koroner sendrom: plak yırtılınca ne olur?
+1. **Kırılgan plak:** İnce fibröz başlıklı, büyük yağ çekirdekli, iltihap hücresinden zengin plak. Darlığın derecesi küçük olabilir; enfarktüslerin çoğu %50'den az daraltan plaklardan çıkar.
+2. **Yırtılma ya da erozyon:** Kan, plağın içindeki doku faktörü ve kollajenle karşılaşır.
+3. **Trombosit tıkacı:** Trombositler yapışır, etkinleşir, tromboksan A2 ve ADP salgılar, GP IIb/IIIa reseptörleri fibrinojenle birbirine bağlanır (**beyaz trombüs**).
+4. **Pıhtılaşma:** Doku faktörü trombin oluşturur, fibrin ağı örülür; eritrositler takılır (**kırmızı trombüs**).
+5. Trombüsün damarı ne kadar ve ne süreyle tıkadığı tabloyu belirler:
+| | Kararsız angina | NSTEMI | STEMI |
+| Tıkanma | Kısmi, geçici | Kısmi ya da kısa süreli tam | **Tam ve sürekli** |
+| Nekroz | Yok | Subendokardiyal | Transmural |
+| Troponin | **Normal** | **Yüksek** | **Yüksek** |
+| EKG | ST çökmesi, T negatifliği ya da normal | ST çökmesi, T negatifliği | **ST yükselmesi** ya da yeni sol dal bloğu; sonra patolojik Q |
+| Trombüs | Trombositten zengin (beyaz) | Beyaz | Fibrinden zengin (kırmızı) |
+| Reperfüzyon | Riske göre erken anjiyografi | Riske göre erken anjiyografi; **trombolitik verilmez** | **Hemen:** primer perkütan girişim ya da **trombolitik** |
+|= Akut koroner sendromun üç tablosu.
+?? Ayrımı iki soruyla yapın: “**ST yükselmiş mi?**” (evet → STEMI) ve “**troponin yükselmiş mi?**” (evet → NSTEMI, hayır → kararsız angina).
+### NSTEMI'de neden trombolitik verilmez?
+Trombolitikler fibrini eritir. STEMI'deki tam tıkayan pıhtı fibrinden zengindir ve erir. NSTEMI'deki pıhtı trombositten zengindir, damar zaten kısmen açıktır; trombolitik yarar sağlamaz, tersine açığa çıkan trombin trombositleri daha da uyarır ve beyin kanaması riski eklenir. Bu yılın S5'inde yanlış ifade buydu.
+
+## 5. Miyokard enfarktüsünde tanı
+- **Üç dayanak:** iskemik belirtiler, **EKG değişiklikleri** (ST-T, yeni Q dalgası) ve **kalp enzimlerinin** (troponin, CK-MB) yükselip düşmesi. Ekokardiyografide yeni **duvar hareket bozukluğu** görülür; “EKO'da sol ventrikül çalışması normaldir” ifadesi yanlıştır.
+- **Efor testi akut MI'da ve kararsız anginada yapılmaz** (iskemik miyokardı zorlar, aritmi ve rüptür riski). Stabil angina tanısında yapılır.
+- **Koroner anjiyografi** kesin tanıyı ve tıkalı damarı gösterir; anginalı hastaların çoğuna yapılır.
+- **Nitrat** anginayı ve MI ağrısının bir kısmını hafifletir, ama ağrının nitratla geçmesi MI'yı dışlatmaz.
+- **STEMI'de lokalizasyon:** ST yükselmesinin görüldüğü derivasyonlar tıkalı damarı gösterir. NSTEMI'de bu yapılamaz.
+| Derivasyonlar | Duvar | Damar |
+| V1-V4 | Ön (anterior) ve septum | Sol ön inen arter (**LAD**) |
+| I, aVL, V5-V6 | Yan (lateral) | Sirkumfleks arter (**LCx**) |
+| II, III, aVF | Alt (inferior) | Sağ koroner arter (**RCA**; çoğu kişide) |
+| V1-V3'te ST çökmesi ve yüksek R | Arka (posterior) | RCA ya da LCx |
+|= EKG'den enfarktüs lokalizasyonu.
+- **Üç ana koroner damar:** LAD, LCx ve RCA. Sol ana koroner LAD ile LCx'e ayrılır.
+- **MI tipleri (evrensel tanım):** tip 1 plak yırtılmasıyla spontan; tip 2 arz-talep dengesizliği (anemi, taşikardi, hipotansiyon, spazm); **tip 3 ani kardiyak ölüm** (ventriküler taşikardi ardından ventriküler fibrilasyon); tip 4 perkütan girişimle, tip 5 baypas cerrahisiyle ilişkili. MI “tek çeşit” değildir.
+- MI'ya bağlı kalp yetersizliğinin temel mekanizması **pompa yetersizliğidir** (üç blok sınavında soruldu).
+
+## 6. Tedavi: hangi ilaç ne için?
+| İlaç | Ne yapar? | Yaşamı uzatır mı? |
+| **Aspirin** | COX-1'i geri dönüşsüz baskılar, tromboksan A2 yapılamaz | **Evet** |
+| **Klopidogrel**, prasugrel, tikagrelor | Trombositte P2Y12 (ADP) reseptörünü bloke eder | **Evet** (AKS ve stent sonrası aspirinle birlikte) |
+| **Beta bloker** | Kalp hızı ve kasılmayı azaltır: talep düşer, diyastol uzar | **Evet** (MI sonrası) |
+| **Statin** | LDL'yi düşürür, plağı kararlı kılar | **Evet** |
+| **ACE inhibitörü** | MI sonrası yeniden şekillenmeyi (remodeling) önler | **Evet** |
+| **Nitrat** | Venleri genişletir, preload düşer; koroner spazmı çözer | Hayır (belirti giderir) |
+| Kalsiyum kanal blokeri | Afterload ve kalp hızını azaltır; spazmı çözer | Hayır |
+| Heparin (AKS'de) | Trombini ve faktör Xa'yı baskılar | Olay azaltır |
+| Trombolitik (yalnız STEMI) | Fibrini eritir | Evet (erken verilirse) |
+|= Angina ve AKS tedavisinde ilaçlar. Antianjinal ilaçların ayrıntısı Bölüm 5'te.
+!! **Anahtara dikkat edilmesi gereken iki soru.** (1) Bu yıl S3: “angina tedavisinde kullanılan ilaçlardan yanlış olan” sorusunda anahtar **dihidropiridin kalsiyum kanal blokeri** dedi; oysa standart bilgide uzun etkili dihidropiridinler (amlodipin) anginada kullanılır, yalnız kısa etkili nifedipin refleks taşikardi yaptığı için önerilmez. Geçen yılın blok sınavında aynı listede cevap “hepsi kullanılır” idi. (2) S6: “STEMI için yanlış olan” sorusunda anahtar **GP IIb/IIIa antagonistleri** dedi; standart bilgide bu ilaçlar perkütan girişim sırasında seçilmiş hastada kullanılır. Sınavda aynı sorular gelirse anahtarın istediği şıkkı işaretleyin.
+
+## Çıkmış sorular
+@EKLE sorular/s1.txt

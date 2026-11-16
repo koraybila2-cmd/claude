@@ -1,0 +1,95 @@
+@QB BU YILIN SORULARI
+@Q MODÜL 3 2026-27 · SORU 17 | BU YIL | MSD-3 2023-24 S13-S16 VE BSD 2023-24 S55 İLE AYNI KONU
+@K Anjina tedavisi sırasında hem preload hem de afterload üzerinde etkili bir ilaç grubu tercih edilmek istenmektedir. Aşağıdakilerden hangisi bu özelliği en iyi karşılar?
+A) Beta blokörler
+B) Organik nitratlar ✓
+C) Ranolazin
+D) İvabradin
+E) Trimetazidin
+@O Önceki yıllar: 2023-24 BSD S55: antianjinal hedefler: ven ve venüllerde vazodilatasyon, kalp hızını yavaşlatma doğrudur; arteriyel vazokonstriksiyon yanlıştır.
+B doğru (organik nitratlar). Venlerde genişleme preload'u, yüksek dozda arterlerde genişleme art yükü azaltır; hem preload hem art yük üzerinde etkili olan antianjinal grup nitratlardır. Beta blokörler kalp hızı ve kontraktiliteyi azaltır (A). Ranolazin geç sodyum akımını (C), ivabradin If akımını (D), trimetazidin yağ asidi oksidasyonunu (E) etkiler; ikisi de preload ve art yükü belirgin değiştirmez.
+@@
+@Q MODÜL 3 2026-27 · SORU 18 | BU YIL | BSD 2022-23 S52 İLE AYNI KONU
+@K Verapamil ile ilgili aşağıdaki özelliklerden hangisi dihidropiridinlerden daha belirgindir?
+A) Periferik arteriyoler vazodilatasyon
+B) Refleks taşikardi oluşturma
+C) Atriyoventriküler iletiyi azaltma ✓
+D) Koroner vazodilatasyon oluşturma
+E) Arteriyel basıncı azaltma
+@O Önceki yıllar: 2022-23 BSD S52: verapamil için yanlış öncüller “beta blokörlerle kombine edilebilir” (II) ve “günde 2 kez 240-360 mg” (V) idi; doğru öncüller kardiyoselektif olması, kardiyojenik şokta kontrendike olması ve günde 3 doz kullanılması idi.
+C doğru. Verapamil dihidropiridinlerden daha fazla AV iletiyi azaltır; kalp seçici bir kalsiyum kanal blokörüdür. Periferik arteriyoler vazodilatasyon, refleks taşikardi, koroner vazodilatasyon ve arteriyel basıncı düşürme dihidropiridinlerde daha belirgindir (A, B, D, E).
+@@
+@Q MODÜL 3 2026-27 · SORU 19 | BU YIL | MSD-3 2023-24 S1, 2024-25 S7, 2025-26 S28 VE BSD 2021-22 S50, 2024-25 S55 İLE AYNI
+@K İvabradinin antianjinal etkisi aşağıdaki mekanizmalardan hangisiyle en iyi açıklanır?
+A) Sinüs düğümündeki If akımının inhibisyonu ✓
+B) β1 adrenerjik reseptörlerin bloke edilmesi
+C) KATP kanallarının açılması
+D) L-tipi kalsiyum kanallarının inhibe edilmesi
+E) Geç sodyum akımının inhibisyonu
+@O Önceki yıllar: Her yıl soruldu: 2023-24 MSD (HCN kanal blokajı), 2024-25 MSD (aynı), 2025-26 MSD (“HCN kapılı kanal blokajıyla yavaş sodyum akımlarını seçici baskılayan antiaritmik”: ivabradin). BSD 2021-22 ve 2024-25'te de soruldu.
+A doğru. İvabradin sinüs düğümündeki HCN kanalının If akımını (içe yönelik sodyumpotasyum akımı) bloke ederek kalp hızını düşürür. Beta bloker β1'i (B), nikorandil K-ATP kanalını (C), kalsiyum kanal blokörü L-tipi Ca²⁺ kanalını (D), ranolazin geç sodyum akımını (E) etkiler.
+@@
+@Q MODÜL 3 2026-27 · SORU 22 | BU YIL | BSD 2023-24 S56 İLE AYNI BİLGİ
+@K Aşağıdaki hastalardan hangisinde beta blokör kullanımı sakıncalı olup, kalsiyum kanal blokörü düşünülmesi daha uygundur?
+A) Eforla ortaya çıkan stabil anjinası olan hasta
+B) Taşikardisi bulunan stabil anjina hastası
+C) Önceden geçirilmiş MI sonrası hasta
+D) Vazospastik anjinası bulunan hasta ✓
+E) Yüksek sempatik aktivitesi bulunan hasta
+@O Önceki yıllar: BSD 2023-24 S56: “varyant anjinada spazmı artırabilirler” beta blokörün istenmeyen etkisi olarak doğru şıktı.
+D doğru. Vazospastik (varyant) anjinada beta bloker α etkisinin açığa çıkmasıyla spazmı artırabilir; kalsiyum kanal blokörü tercih edilir. Eforla çıkan stabil angina (A), taşikardi (B), MI sonrası (C) ve yüksek sempatik aktivite (E) beta blokör endikasyonlarıdır.
+@@
+@QB GEÇEN YILIN MSD-3 SORULARI (2025-26)
+@Q MODÜL 3 2025-26 · SORU 34 | GEÇEN YIL | 
+@K Aşağıdaki seçeneklerden hangisinde tüm ilaçlar kalsiyum kanal blokörüdür ve kardiyoselektiften vazoselektife doğru sıralanmıştır?
+A) Verapamil, ivabradin, nikardipin
+B) Nifedipin, diltiazem, verapamil
+C) Diltiazem, verapamil, isradipin
+D) Verapamil, diltiazem, amlodipin ✓
+E) Diltiazem, trimetazidin, nikardipin
+D doğru. Kardiyoselektiften vazoselektife: verapamil, diltiazem, amlodipin.
+@@
+@Q MODÜL 3 2025-26 · SORU 35 | GEÇEN YIL | 
+@K Aşağıdakilerden hangisi antianjinal tedavide prognoz iyileştirici olarak kullanılır?
+A) Nitratlar
+B) Kalsiyum kanal blokerleri
+C) Ranolazin
+D) İvabradin
+E) Aspirin ✓
+E doğru. Antianjinal tedavide prognozu düzelten aspirindir; nitrat, kalsiyum kanal blokörü, ranolazin ve ivabradin belirti giderir.
+@@
+@Q MODÜL 3 2025-26 · SORU 36 | GEÇEN YIL | 
+@K Organik nitratlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?
+A) Yarı ömürleri uzun olduğundan etkileri günlerce devam eder.
+B) Oral biyoyararlanımları yüksektir.
+C) Dilaltı formlar ilk geçiş etkisine uğramaz. ✓
+D) Koroner dilatasyon sağlamakla birlikte ön yük ve art yükü artırır.
+E) Etkisini siklik AMP (cAMP) miktarını artırarak gösterir.
+C doğru. Dil altı nitrat ilk geçiş etkisine uğramaz. Nitratların etkisi kısa sürer (A), oral biyoyararlanımı düşüktür (B), preload'u ve art yükü azaltır (D), cGMP artırır (E).
+@@
+@Q MODÜL 3 2025-26 · SORU 39 | GEÇEN YIL | 
+@K Nikorandil'in etki mekanizmasıyla ilgili doğru ifade hangisidir?
+A) Asıl etkisini beta adrenerjik reseptörleri bloke ederek sağlar.
+B) Hem potasyum kanal açıcı hem de nitrat benzeri etki gösterir. ✓
+C) Yağ asidi oksidasyonunu engelleyip enerji üretimi için glikoz kullanır.
+D) PDE5 inhibitörü olduğu için nitratlarla birlikte kullanılmamalıdır.
+E) Anjina krizinin acil tedavisinde ilk tercih edilen ilaçtır.
+B doğru. Nikorandil hem K-ATP kanal açıcı hem nitrat benzeri etkilidir. Beta bloker değildir (A), yağ asidi oksidasyonunu baskılayan trimetazidindir (C); sildenafille değil nitratlarla etkileşir (D); anjina krizinin ilk tercihi dil altı nitrattır (E).
+@@
+@QB GEÇEN YILIN BLOK SINAVI (2025-26)
+@Q BSD-1 2025-26 · SORU 55 | BLOK SINAVI | 
+@K Antianjinal ilaçlarla ilgili aşağıdakilerden hangisi doğrudur?
+A) Beta blokörler genellikle verapamil ile kombine kullanılır
+B) Nifedipin verapamil'e göre daha kardiyoselektiftir
+C) Diltiazem kalsiyum kanal blokajının yanında belirgin beta blokör etki de barındırır
+D) Beta blokörler koroner dilatasyon sağlayarak kalbe oksijen teminini artırır
+E) Endojen tiyol (-SH) gruplarının tükenmesi nitrat toleransına neden olur ✓
+E doğru. Endojen tiyol gruplarının tükenmesi nitrat toleransının mekanizmalarından biridir. Beta bloker ve verapamil birlikte AV blok riski yüzünden dikkat ister (A); verapamil nifedipinden daha kardiyoseleksiyoneldir (B); belirgin beta blokör etkisi diltiazemde yoktur (C); beta blokör koroner dilatasyon yapmaz, diyastolü uzatarak perfüzyonu iyileştirir (D).
+@@
+@QB DAHA ESKİ SORULAR
+@E BSD 2024-25 S53: Nitratlar sildenafil gibi PDE5 inhibitörüyle birlikte kullanılmaz. S55: İvabradin (If akımı).
+@E BSD 2023-24 S55-S56: Antianjinal hedefler; beta blokörün varyant anjinada istenmeyen etkisi.
+@E BSD 2022-23 S41, S46, S52: Nitrogliserinin ana mekanizması → preload azalması; koroner tonusu artıran → endotelin; verapamil öncülleri.
+@E BSD 2021-22 S50-S53: İvabradin; nitratlar endotel zedelenmesinde de etkilidir; nikorandil Rho kinazı baskılar ve mikrovasküler vazodilatasyon yapar; antianjinal etki eşleştirmesi (nikorandil, ranolazin, isradipin, perheksilin). BSD 2019-20 S47-S48: Perheksilin karnitin palmitoil transferazı baskılar; eritritol tetranitrat nitrogliserinden daha yavaş metabolize olur.
+@E MSD-3 2023-24 S13-S16, S20, 2024-25 S13, S14, S16, S20: KKB ve beta bloker özellikleri, tiyol grubu isteyen antianjinal (nitrat), PDE5 inhibitörü ile birlikte kullanılamayan antianjinal (nitrat), antianjinal ilacın paradoksal anjina yapması.
+@E MSD 3-4 2019-20, 2020-21 ve 2021-22: Nitrat toleransının mekanizması (fosfodiesteraz artışı), izosorbid mononitratın CYP ile aktivasyonu (anahtara göre), en uzun etkili nitrat (transdermal nitrogliserin).

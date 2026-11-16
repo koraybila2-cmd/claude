@@ -1,0 +1,123 @@
+@QB BU YILIN SORULARI
+@Q MODÜL 3 2026-27 · SORU 26 | BU YIL | YENİ
+@K Aşağıdaki ilaç kombinasyonlarından hangisi uygulandığında QT aralığının kısalması ve potansiyel aritmi riskinin artması beklenir?
+A) Amiodaron - Amitriptilin
+B) Levofloksasin - Sotalol
+C) Lidokain - Aminofilin ✓
+D) Ondansetron - Disopiramid
+E) Flukonazol - Ibutilid
+C doğru. Lidokain sınıf Ib antiaritmiktir ve QT'yi kısaltır; aminofilin aritmojeniktir. Amiodaron + amitriptilin (A), levofloksasin + sotalol (B), ondansetron + disopiramid (D) ve flukonazol + ibutilid (E) kombinasyonlarının hepsi QT'yi uzatır ve torsades riskini artırır.
+@@
+@Q MODÜL 3 2026-27 · SORU 29 | BU YIL | MSD-3 2024-25 VE BSD 2025-26 S45 İLE AYNI SINIF; İLK KEZ ÖZELLİKLERİYLE
+@K "Atriyal miyokardda frekans ve voltaja bağımlı olarak başta potasyum kanalları olmak üzere çeşitli iyon kanallarını bloke eder. Hemodinamik olarak stabil olan erişkin hastalarda çok yakın geçmişteki (≤ 7 gün) semptomatik atriyal fibrilasyonun farmakolojik kardiyoversiyonu için yalnız iv. yolla kullanılır. Hipotansiyon ve uzamış QT intervali gibi durumlarda kontraendikedir. Başlıca CYP2D6 ve CYP3A4 ile metabolize edildiğinden bu enzimlerin indükleyici ve inhibitörleri ile birlikte kullanılmamalıdır." İfadesinde özellikleri belirtilen ilaç aşağıdakilerden hangisidir?
+A) Amiodaron
+B) Sotalol
+C) Vernakalant ✓
+D) Ranolazin
+E) Propafenon
+@O Önceki yıllar: BSD 2025-26 S45: dofetilid, amiodaron ve vernakalant → voltaj bağımlı potasyum kanalı blokörleri.
+C doğru (vernakalant). Atriyal miyokardda frekans ve voltaja bağımlı çeşitli iyon kanallarını bloke eder, ≤7 gün süren semptomatik AF'nin farmakolojik kardiyoversiyonu için yalnız i.v. verilir; hipotansiyon ve uzamış QT'de kontrendikedir; CYP2D6 ve CYP3A4 ile metabolize olur. Amiodaron çok kanallı ve hem oral hem i.v.'dir (A); sotalol β blokör ve K kanal blokörüdür (B); ranolazin antianjinaldir (D); propafenon oral kullanılan sınıf Ic ilaçtır (E).
+@@
+@Q MODÜL 3 2026-27 · SORU 31 | BU YIL | MSD-3 2025-26 S31 İLE BAĞLANTILI; İLK KEZ DÖRT ÖNCÜLLE
+@K Aşağıda verilen bilgilerden yola çıkarak doğru şıkkı işaretleyiniz.
+@K I. Diltiazemin oral biyoyararlanımı verapamile göre daha fazladır.
+@K II. Verapamil diltiazeme göre plazma proteinlerine daha yüksek oranda bağlanır.
+@K III. Klaritromisin CYP3A4 indüksiyonu ile Grup IV antiaritmik ilaçların plazma düzeylerinin azalmasına sebep olur.
+@K IV. Diltiazem, kardiyojenik şok ve ileri AV blok tedavisinde endikedir.
+A) I-II doğru diğerleri yanlıştır. ✓
+B) II-III doğru diğerleri yanlıştır.
+C) III-IV doğru diğerleri yanlıştır.
+D) I-II-III doğru, diğeri yanlıştır.
+E) II-III-IV doğru, diğeri yanlıştır.
+A doğru (I-II). I doğru: diltiazemin oral biyoyararlanımı verapamilden fazladır. II doğru: verapamil diltiazemden daha yüksek oranda proteine bağlanır. III yanlış: klaritromisin CYP3A4'ü indüklemez, inhibe eder; kalsiyum kanal blokörlerinin düzeyi artar. IV yanlış: diltiazem kardiyojenik şokta ve ileri AV blokta kontrendikedir.
+@@
+@Q MODÜL 3 2026-27 · SORU 32 | BU YIL | YENİ
+@K "....I.... Sodyum kanal blokajı yoluyla aksiyon potansiyeli süresini uzatıp, iletimi yavaşlatarak etki eden, ....II.... HCN kanal inhibisyonu yaparak ....III.... ise gap junction modülasyonu yoluyla etki eden antiaritmik ilaçlardır." ifadesinde boşluklara gelmesi gereken ilaçlar hangi şıkta doğru sıra (I-II-III) ile verilmiştir?
+A) Prokainamid - Ranolazin - Adenozin
+B) Propafenon - Dofetilid - Flekainid
+C) Lidokain - Ivabradin - Valsartan
+D) Meksiletin - Amiodaron - Ranolazin
+E) Disopiramid - Ivabradin - Rotigaptid ✓
+E doğru (disopiramid, ivabradin, rotigaptid). I: Na kanalı blokajıyla AP süresini uzatıp iletiyi yavaşlatan sınıf Ia ilaç disopiramiddir. II: HCN kanalını inhibe eden ivabradindir. III: gap junction modülatörü rotigaptiddir. A'da prokainamid de sınıf Ia'dır, ama ranolazin HCN kanalını baskılamaz ve adenozin gap junction modülatörü değildir. B'de dofetilid HCN blokörü değil, K kanal blokörüdür. C'de lidokain AP süresini kısaltır ve valsartan gap junction'a etki etmez. D'de meksiletin AP süresini kısaltır, amiodaron HCN blokörü değildir.
+@@
+@QB GEÇEN YILIN MSD-3 SORULARI (2025-26)
+@Q MODÜL 3 2025-26 · SORU 9 | GEÇEN YIL | 
+@K Ventriküldeki kalp kası hücrelerinin aksiyon potansiyellerinin faz 3 repolarizasyonu bloke ederek repolarizasyon süresini uzatan ve bu nedenle kendileri de aritmojen olan anti-aritmik ilaçlar hangi iyon akışını bloke ederler?
+A) Sodyum
+B) Demir
+C) Kalsiyum
+D) Magnezyum
+E) Potasyum ✓
+E doğru (potasyum). Faz 3 repolarizasyonu bloke edip AP süresini uzatan, aritmojenik sınıf III ilaçlar potasyum kanalını bloke eder.
+@@
+@Q MODÜL 3 2025-26 · SORU 23 | GEÇEN YIL | 
+@K İ.v. verildiğinde hipotansiyona yol açabilen, kalp üzerinde kinidin benzeri elektro fizyolojik özellikler sergileyen, antikolinerjik etkilere ve sistemik lupus eritematozusu tetikleme potansiyeline sahip olan antiaritmik ilaç aşağıdakilerden hangisidir?
+A) Tamsulosin
+B) Ranolazin
+C) Prokainaimid ✓
+D) Bepridil
+E) Karbenoksolon
+C doğru (prokainamid). Kinidin benzeri etki, i.v. hipotansiyon, antikolinerjik etki ve SLE tetikleme potansiyeli prokainamide aittir.
+@@
+@Q MODÜL 3 2025-26 · SORU 27 | GEÇEN YIL | 
+@K Voltaj bağımlı sodyum kanallarını ve intraselüler kalsiyum kanallarını bloke eden antiaritmik ajan aşağıdakilerden hangisidir?
+A) Tedisamil
+B) Ranolazin
+C) Nikorandil
+D) Anisodamin
+E) Flekainid ✓
+E doğru (flekainid). Hem voltaj bağımlı Na kanallarını hem hücre içi Ca kanallarını bloke eder.
+@@
+@Q MODÜL 3 2025-26 · SORU 28 | GEÇEN YIL | 
+@K Hiperpolarizasyonla aktive edilen siklik nükleotid (HCN) kapılı kanal blokajı ile yavaş sodyum akımlarını selektif olarak inhibe eden antiaritmik ilaç aşağıdakilerden hangisidir?
+A) Hidralazin
+B) Metakolin
+C) Meksiletin
+D) İvabradin ✓
+E) Etosüksimid
+D doğru (ivabradin). HCN kanal blokajıyla If akımını baskılar.
+@@
+@Q MODÜL 3 2025-26 · SORU 21 | GEÇEN YIL | 
+@K AV blok tedavisinde kullanılabilen non-selektif beta agonist ilaç aşağıdakilerden hangisidir?
+A) İzoproterenol ✓
+B) Vernakalant
+C) Nikorandil
+D) Diltiazem
+E) Dofetilid
+A doğru. İzoproterenol non-selektif β agonisttir, AV blokta kullanılır. Vernakalant atriyal seçici K kanal blokörü, nikorandil K-ATP açıcı, diltiazem kalsiyum kanal blokörü, dofetilid K kanal blokörüdür.
+@@
+@Q MODÜL 3 2025-26 · SORU 32 | GEÇEN YIL | 
+@K Antiaritmik ilaçlar hakkında aşağıda verilen bilgilerden hangisi doğrudur?
+A) Sotalol QT uzamasına neden olmaksızın kalp yetmezliği olanlarda tabloyu çok iyi tedavişinde fayda sağlar.
+B) Meksiletin, aksiyon potansiyelinin süresinin uzamasına neden olduğu için kullanılır.
+C) Ajmalin, hücreye sodyum girişini yavaşlatarak Faz 0'ın maksimum hızını ve düzeyini düşürüp aksiyon potansiyeli amplitüdünü azaltarak antiaritmik etki gösterir. ✓
+D) Ranolazin ve disopramid kombinasyonu beta-blokör-digoksin kombinasyonunun etmediği anjina pektorisli hastalarda tabloyu iyileştirir.
+E) İvabradin kardiyojenik şok sonrasında ve sinoatriyal blokta endike bir ilaçtır.
+C doğru. Ajmalin Na girişini yavaşlatıp faz 0 hızını ve amplitüdü azaltır. Sotalol QT'yi uzatır (A); meksiletin AP süresini kısaltır (B); ranolazin ve disopiramid kombinasyonunda böyle bir yarar kanıtı yoktur (D); ivabradin kardiyojenik şokta ve sinoatriyal blokta kontrendikedir (E).
+@@
+@QB GEÇEN YILIN BLOK SINAVI (2025-26)
+@Q BSD-1 2025-26 · SORU 45 | BLOK SINAVI | 
+@K Dofetilid, amiodaron ve vernakalant gibi antiaritmik ilaçların dahil olduğu sınıf aşağıdakilerden hangisidir?
+A) HCN kanal blokörü
+B) Voltaj bağımlı potasyum iyon kanalı blokörü ✓
+C) Adenozin A1 reseptör aktivatörleri
+D) Voltaj kapılı sodyum iyon kanalı blokörü
+E) İntraselüler kalsiyum iyon kanalı blokörleri
+B doğru. Dofetilid, amiodaron ve vernakalant voltaj bağımlı potasyum kanalı blokörlerdir (sınıf III).
+@@
+@Q BSD-1 2025-26 · SORU 46 | BLOK SINAVI | 
+@K Aşağıdaki özellikleri tanımlanan antiaritmik ilaç hangi şıkta yer almaktadır? * Acil durumlarda ventriküler fibrilasyon ve ventriküler taşikardi tipi aritmilerin tedavisinde kullanılır. * Bazı etkileri nükleer tiroid reseptörü aracılığı ile olur. * Oral ve IV verilebilir. Eliminasyon yarı ömrü 40-63 gün arasındadır. * Fototoksisite, Tiroid fonksiyon bozukluğu, ciltte gri-mavimsi hiperpigmentasyon önemli yan etkileri arasındadır.
+A) Kandesartan
+B) Verapamil
+C) Amiodaron ✓
+D) Ranolazin
+E) İvabradin
+C doğru (amiodaron). Yarı ömrü 40-63 gün, iyotlu, nükleer tiroid reseptörü üzerinden etki, fototoksisite ve ventriküler fibrilasyon/taşikardi tedavisinde kullanım amiodaronun özellikleridir.
+@@
+@QB DAHA ESKİ SORULAR
+@E BSD 2024-25 S40-S41: Ajmalin → faz 0 maksimum hızını düşürür; flekainid → Na ve intraselüler Ca kanallarını bloke eder.
+@E BSD 2023-24 S36, S42: Prokainamid (SLE tetikleyici); izoproterenol → AV blok ve torsades.
+@E BSD 2022-23 S47, S50: Amiodaron AP süresini uzatır; flekainid en güçlü Na kanal blokeri.
+@E BSD 2021-22 S48: Kalsiyum kanal blokerlerinin antiaritmik etkisi için doğru olmayan → amlodipinin etkisi iyon kanalı aktivasyon sıklığına dayanır. BSD 2019-20 S49, S53: Taşikardi sınıf I ilaçların Na kanal bloke edici etkisini artırır; dronedaron antiadrenerjik etki taşır.
+@E MSD-3 2023-24 S1, S7-S9, 2024-25 S1, S7, S8, S12: HCN blokörü, beş öncüllü antiaritmik sorusu (kinidin, ibutilid, ranolazin, esmolol, prokainamid), sınıf IV ilaç (verapamil), amiodaron (i.v. ve oral, yarı ömür 40-63 gün), prokainamid.
+@E MSD 3-4 2019-24: En güçlü Na kanal blokeri (flekainid), adenozin, amiodaron (pulmoner fibrozis), ibutilid, β blokörlerin faz 4 eşiği, digoksin.

@@ -1,0 +1,66 @@
+@QB BU YILIN SORULARI
+@Q MODÜL 3 2026-27 · SORU 42 | BU YIL | MSD-3 2023-24 S46, 2024-25 S44 VE 2025-26 S41 İLE AYNI
+@K Akut miyokard enfarktüsü ile ilgili aşağıdakilerden hangisi yanlıştır?
+A) Koroner arter trombozu en sık sebeptir.
+B) Proksimal tıkanıklık daha büyük enfarkt yapar.
+C) Koroner arter tıkanmasının ilk 20-30. dakikasında nekroz başlar.
+D) 3-6 saatte nekroz en gelişmiş boyutuna ulaşır.
+E) İskemi subepikardiyal alandan başlar. ✓
+@O Önceki yıllar: 2023-24 MSD'de yanlış şık “koroner arter tıkanmasının ilk dakikalarından itibaren nekroz görülmeye başlar” ve “iskemi subendokardiyal alandan başlar” (doğru) idi; 2025-26 MSD'de aynı soru birebir soruldu.
+E yanlıştır. İskemi subendokardiyal alandan başlar; subepikardiyal başlangıç yanlıştır. Koroner arter trombozu en sık nedendir (A), proksimal tıkanıklık daha büyük enfarkt yapar (B), nekroz ilk 20-30. dakikada başlar (C), 3-6 saatte nekroz en gelişmiş boyutuna ulaşır (D).
+@@
+@Q MODÜL 3 2026-27 · SORU 46 | BU YIL | YENİ VAKA KURGUSU
+@K 64 yaşında erkek hasta akut miyokard enfarktüsü geçirdikten bir süre sonra göğsünün sol tarafında keskin bir ağrı şikayeti ile acile başvuruyor. Fizik muayenede soğuk terleme, kaygılı görünüm mevcut olup, kan basıncı 75/35 mmHg, nabız 105/dk saptanıyor. Hasta dakikalar sonra ölüyor. Bu komplikasyon ile ilgili aşağıdaki bilgilerden doğru olanlar hangi şıkta yer almaktadır?
+@K I. Kardiyak rüptür sonrası tamponad gelişmiş olabilir.
+@K II. Miyokard enfarktüsü yüksek olasılıkla bu olaydan 3-7 gün önce gerçekleşmiştir.
+@K III. Otopside dens skar izlenir.
+A) Yalnız I
+B) Yalnız II
+C) Yalnız III
+D) I ve II ✓
+E) II ve III
+D doğru (I ve II). Akut MI sonrası bir süre geçince ani göğüs ağrısı, hipotansiyon (75/35 mmHg), taşikardi ve dakikalar içinde ölüm kardiyak rüptürü ve tamponadı gösterir (I doğru). Rüptür en sık MI'dan 3-7 gün sonra olur (II doğru). III yanlıştır: otopside yoğun skar değil, yumuşamış sarı kanamalı miyokard bulunur.
+@@
+@Q MODÜL 3 2026-27 · SORU 50 | BU YIL | MSD-3 2025-26 S48, 2024-25 S40, 2023-24 S39 VE BSD 2024-25 S84 İLE AYNI
+@K Miyokard enfarktüsü sonrası 11. günde aşağıdakilerden hangisi gözlenmez?
+A) Makrofajlar
+B) Nötrofil-lökositler ✓
+C) Neovasküler damarlar
+D) Granülasyon dokusu
+E) Fibroblastlar
+@O Önceki yıllar: Aynı soru 2025-26'da “10. gün”, 2024-25'te “13. gün”, 2023-24'te “10. günden sonra” diye soruldu; cevap her seferinde nötrofillerdi. BSD 2024-25'te “10. günden sonra görülmesi olası olmayan” → nötrofiller.
+B doğru (nötrofil lökositler). 11. günde makrofajlar, neovasküler damarlar, granülasyon dokusu ve fibroblastlar bulunur; nötrofiller ilk 1-3 günde belirgindir ve 10. günden sonra görülmez.
+@@
+@QB GEÇEN YILIN MSD-3 SORULARI (2025-26)
+@Q MODÜL 3 2025-26 · SORU 41 | GEÇEN YIL | 
+@K Miyokard enfarktüsü ile ilgili aşağıdakilerden hangisi yanlıştır?
+A) Koroner arter trombozu en sık sebeptir
+B) Proksimal tıkanıklık daha büyük enfarkt yapar
+C) Koroner arter tıkanmasının ilk 20-30. dakikasında nekroz başlar
+D) 3-6 saatte nekroz en gelişmiş boyutuna ulaşır
+E) İskemi subepikardiyal alandan başlar ✓
+E yanlıştır. İskemi subepikardiyal değil, subendokardiyal alandan başlar. Bu yılın 42. sorusuyla aynıdır.
+@@
+@Q MODÜL 3 2025-26 · SORU 48 | GEÇEN YIL | 
+@K Myokard enfarktüsü sonrası 10. günde aşağıdakilerden hangisi gözlenmez?
+A) Makrofajlar
+B) Nötrofil lökositler ✓
+C) Neovasküler damarlar
+D) Granülasyon dokusu
+E) Fibroblastlar
+B doğru (nötrofil). 10. günde nötrofil lökositler gözlenmez.
+@@
+@Q MODÜL 3 2025-26 · SORU 49 | GEÇEN YIL | 
+@K Myokard enfarktüsünde makroskopik bulguların görülmeye başladığı süre aşağıdakilerden hangisidir?
+A) 30. dk
+B) 4. saat ✓
+C) 1. gün
+D) 7. gün
+E) 10. gün
+B doğru (4. saat). Anahtara göre MI'da makroskopik bulguların görülmeye başladığı süre 4. saattir.
+@@
+@QB DAHA ESKİ SORULAR
+@E BSD 2024-25 S84, S86: MI'dan 10 gün sonra olası olmayan → nötrofiller; nötrofil infiltrasyonunun en belirgin olduğu zaman → 3. gün (2023-24 S87 ve 2022-23 S86'da da aynı).
+@E BSD 2023-24 S86, 2022-23 S85: Akut koroner sendromun üç tablosu → kararsız angina, miyokard infarktüsü, ani kardiyak ölüm. BSD 2019-20 S83: Ani kardiyak ölüm; koroner arterlerin en az %75 darlığına eşlik eden akut plak rüptürü, tromboz ve vazospazm sonucu gelişen fatal ventriküler aritmidir.
+@E MSD 3-4 2019-20 S57; 2020-21 S59; 2022-23 S62, S63: MI için doğru → nekroz 3-6 saatte en büyük boyuta ulaşır, ventrikül duvarının en zayıf beslenen yeri subendokardiyal alandır, nekroz koroner tıkanmanın ilk 20-30 dakikasında başlar (50 dakika değil); morfoloji → 1-3. günde koagülasyon nekrozu, 3-7. günde makrofajlarla fagositoz, 7-10. günde granülasyon dokusu, 2. haftada skar başlar, tamamlanması aylar sürer.
+@E MSD-3 2023-24 S39, S44, S46; 2024-25 S40, S44: MI sonrası 10. gün ve 13. günde olası olmayan hücre, makroskopik ve mikroskopik bulguların başlama süresi, iskemi subendokardiyalden başlar.

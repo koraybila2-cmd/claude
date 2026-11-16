@@ -1,0 +1,161 @@
+@QB BU YILIN SORULARI
+@Q MODÜL 3 2026-27 · SORU 40 | BU YIL | YENİ
+@K Aşağıdakilerden hangisi ödem sebebi değildir?
+A) Enflamasyon
+B) Plazma albümininin azalması
+C) ATP bağımlı kalsiyum kanalının fonksiyonunun bozulması ✓
+D) Lenfatiklerde tıkanma
+E) Hidrostatik basınç artışı
+C ödem sebebi değildir. Ödem inflamasyonla (A), plazma albümininin azalmasıyla (B), lenfatik tıkanıklıkla (D) ve hidrostatik basınç artışıyla (E) olur. ATP bağımlı kalsiyum kanalı işlevinin bozulması ödem mekanizması değildir.
+@@
+@Q MODÜL 3 2026-27 · SORU 41 | BU YIL | MSD-3 2025-26 S46 İLE AYNI VAKA
+@K 75 yaşında kadın hasta 2 gündür sağ bacağında şişlik şikayeti ile doktora başvuruyor. Muayenede belirgin ağrı saptanmıyor ancak hasta ayağını hareket ettirmekte zorlanıyor. Yapılan venogramda derin baldır venlerinde tromboz gözleniyor. Bu hastada izlenen patolojinin en olası sebebi aşağıdakilerden hangisidir?
+A) Hipertansiyon
+B) Immobilizasyon ✓
+C) Türbülan kan akımı
+D) Aspirin kullanımı
+E) Aşırı NO üretimi
+@O Önceki yıllar: 2025-26 MSD'de (S46) aynı vaka 67 yaşında kadın hastayla ve aynı şıklarla soruldu.
+B doğru (immobilizasyon). 75 yaşında kadında bacakta şişlik ve derin baldır venlerinde tromboz DVT'dir; venöz trombozun en olası nedeni hareketsizlik ve stazdır. Hipertansiyon (A), türbülan akım (C), aspirin kullanımı (D) ve aşırı NO üretimi (E) venöz trombozun nedeni değildir. Türbülans arteriyel trombozun nedenidir; aspirin ve NO trombozu azaltır.
+@@
+@Q MODÜL 3 2026-27 · SORU 43 | BU YIL | YENİ
+@K Aşağıdakilerden hangisi "venöz trombüs" ile ilgili doğru bir bilgidir?
+A) Gri beyaz renktedir
+B) Sıklıkla endotel hasarı ile ilgilidir
+C) Tromboemboli riski yüksek değildir
+D) Kan akımı ile aynı yönde büyür ✓
+E) Serebral ve femoral damarlarda görülür
+D doğru. Venöz trombüs kan akımıyla aynı yönde, kalbe doğru büyür. Gri-beyaz renk arteriyel trombüsün özelliğidir (A), venöz trombüs stazla ilişkilidir, endotel hasarı arteriyel ve kardiyak trombozun esas nedenidir (B), venöz trombüsün tromboemboli riski yüksektir (C), serebral ve femoral damarlarda arteriyel trombüsler daha sık görülür (E).
+@@
+@Q MODÜL 3 2026-27 · SORU 44 | BU YIL | MSD-3 2025-26 S45 İLE AYNI
+@K Trombüsün içerisinde neovaskülarizasyon sonrası yeniden kan akımı oluşmasına ne ad verilir?
+A) Organizasyon
+B) Propagasyon
+C) Rekanalizasyon ✓
+D) Dissolüsyon
+E) Embolizasyon
+C doğru (rekanalizasyon). Trombüs içinde yeni damarların gelişmesiyle kan akımının kısmen yeniden kurulmasıdır. Organizasyon trombüsün bağ dokusuna dönüşmesi (A), propagasyon büyümesi (B), dissolüsyon erimesi (D), embolizasyon kopup yer değiştirmesidir (E).
+@@
+@Q MODÜL 3 2026-27 · SORU 45 | BU YIL | MSD-3 2020-21 S49, 2022-23 S64, 2024-25 S45, 2025-26 S50 İLE AYNI KALIP
+@K Aşağıdaki ödem sebeplerinden hangisi "yüksek kan hidrostatik basınç" nedenleri arasında olup, "bozulmuş venöz dönüşe" bağlı değildir?
+A) Nörohumoral disregülasyon ✓
+B) Dıştan bası
+C) Konstrüktif perikardit
+D) Kalp yetmezliği
+E) Tromboz
+@O Önceki yıllar: Geçen yıl aynı kalıp “farklı mekanizmayla ödem yapan” olarak soruldu (siroz: onkotik basınç düşüklüğü).
+A doğru. Nörohümoral disregülasyon, hidrostatik basınç artışına neden olur ama venöz dönüş bozukluğuyla ilgili değildir; sodyum ve su tutulumu sonucudur. Dıştan bası (B), konstriktif perikardit (C), kalp yetmezliği (D) ve tromboz (E) venöz dönüşü bozar.
+@@
+@Q MODÜL 3 2026-27 · SORU 47 | BU YIL | MSD-3 2023-24 S37 VE 2025-26 S43-S44 İLE AYNI KONU
+@K 20 yaşındaki kadın hasta sık burun kanaması ve yoğun menstrüel kanama şikayetleri ile başvuruyor. Muayenede alt ekstremitede peteşi ve purpuralar dikkati çekiyor. Hastanın protrombin ve parsiyel tromboplastin zamanı ile trombosit sayısı normal bulunuyor ancak von Willebrand faktör aktivitesinin azaldığı saptanıyor. Bu hastada hemostaz aşamalarından hangisinin etkilenmesi beklenir?
+A) Vazokonstrüksiyon
+B) Protrombin üretimi
+C) Fibrin polimerizasyonu
+D) Trombosit agregasyonu
+E) Trombosit adezyonu ✓
+@O Önceki yıllar: 2024-25 MSD'de aynı konu: von Willebrand eksikliğinde hangi basamak bozulur → trombosit adezyonu.
+E doğru (trombosit adezyonu). vWF eksikliğinde trombosit-subendotelyal kollajen yapışması bozulur. Vazokonstriksiyon (A), protrombin üretimi (B), fibrin polimerizasyonu (C) ve trombosit agregasyonu (D) etkilenmez; PT, aPTT ve trombosit sayısı normaldir.
+@@
+@Q MODÜL 3 2026-27 · SORU 48 | BU YIL | MSD-3 2023-24 S40 VE MSD 3-4 2020-21 S51 İLE AYNI KONU
+@K Aşağıdakilerden hangisi damar endotelinin hemostaza etkilerinden biri değildir?
+A) Trombotik etki
+B) Anti-trombotik etki
+C) Antikoagülan etki
+D) Fibrinolitik etki
+E) Trombosit kontraksiyonu ✓
+@O Önceki yıllar: 2023-24 MSD'de “endotelin hemostaza etkilerinden biri olmayan” → trombosit kontraksiyonu. 2020-21 ve 2022-23'te endotelin protrombotik özelliği soruldu (PAI-1 salgılaması).
+E doğru. Trombosit kontraksiyonu endotelin işlevi değildir. Endotel hem trombotik hem antitrombotik, antikoagülan ve fibrinolitik etki gösterir.
+@@
+@Q MODÜL 3 2026-27 · SORU 49 | BU YIL | MSD-3 2023-24 S43 VE 2024-25 S42 İLE AYNI KALIP
+@K Aşağıda verilen trombüs oluşum sürecine ait basamakların sıralaması aşağıdakilerden hangisidir?
+@K I. Agregasyon
+@K II. Sekresyon
+@K III. Adhezyon
+A) I-II-III
+B) I-III-II
+C) II-I-III
+D) III-I-II
+E) III-II-I ✓
+@O Önceki yıllar: 2023-24 ve 2024-25 MSD'de hemostaz sırası soruldu: refleks vazokonstriksiyon, adezyon, agregasyon, pıhtılaşma sisteminin etkinleşmesi (cevap 1-2-3-4).
+E doğru (III-II-I). Önce adezyon (III), ardından sekresyon (II), sonra agregasyon (I): trombosit önce kollajene yapışır, yapışan trombosit ADP ve tromboksan A2 salgılar, bu maddeler başka trombositleri çağırıp birleştirir.
+@@
+@QB GEÇEN YILIN MSD-3 SORULARI (2025-26)
+@Q MODÜL 3 2025-26 · SORU 42 | GEÇEN YIL | 
+@K 62 yaşında bir kadın hasta sağ meme derisinde kızarıklık, portakal kabuğu görünümü şikayeti ile doktora başvuruyor. Yapılan tetkikler ve biyopsi sonrası meme kanseri tanısı konan hastada, meme derisinde gözlenen bu değişikliklerin en önemli sebebi nedir?
+A) Kronik enflamasyon
+B) Arteriolar dilatasyon
+C) Lenfatik obstrüksiyon ✓
+D) Nörohümoral disregülasyon
+E) Nekroz
+C doğru (lenfatik obstrüksiyon). Meme kanserinde derinin portakal kabuğu görünümü deri lenfatiklerinin tümör hücreleriyle tıkanmasına bağlıdır.
+@@
+@Q MODÜL 3 2025-26 · SORU 43 | GEÇEN YIL | 
+@K Aşağıdakilerden hangisi primer hemostazda gözlenmez?
+A) Subendotelyal kollajen ve vWF ile trombosit etkileşimi
+B) Trombositlerin aktivasyonu
+C) Trombositlerin şekil değiştirmesi
+D) Trombositlerin agregasyon oluşturması
+E) Trombositlerin üzerine fibrin çökmesi ✓
+E doğru. Fibrin çökmesi sekonder hemostazın işidir; primer hemostazda gözlenmez.
+@@
+@Q MODÜL 3 2025-26 · SORU 44 | GEÇEN YIL | 
+@K İskemik serebrovasküler hasar sebebi ile 4 haftadır nörolojik yoğun bakımda yatmakta olan bir hastada göğüs ağrısı ve solunum yetmezliği gelişiyor ve hasta ölüyor. Yapılan otopside akciğer hilusunda eyer şeklinde emboli gözleniyor. Bu hastada bu tablonun gelişimine neden olabilecek en olası patoloji nedir?
+A) Faktör 5 Leiden mutasyonu
+B) Pulmoner ateroskleroz
+C) Myokard enfarktüsü
+D) Heparinin indüklediği trombotik trombositopeni
+E) Derin ven trombozu ✓
+E doğru (derin ven trombozu). 4 haftadır nörolojik yoğun bakımda yatan hastada akciğer hilusunda eyer şeklinde emboli, derin ven trombozundan kopan trombüsü gösterir.
+@@
+@Q MODÜL 3 2025-26 · SORU 45 | GEÇEN YIL | 
+@K Trombüs içerisinde neovaskülarizasyon nedeniyle yeniden kan akımı oluşmasına ne ad verilir?
+A) Organizasyon
+B) Propagasyon
+C) Rekanalizasyon ✓
+D) Dissolüsyon
+E) Embolizasyon
+C doğru (rekanalizasyon).
+@@
+@Q MODÜL 3 2025-26 · SORU 46 | GEÇEN YIL | 
+@K 67 yaşında kadın hasta 2 gündür sağ bacağında şişlik şikayeti ile doktora başvuruyor. Muayenede belirgin ağrı saptanmıyor ancak hasta ayağını hareket ettirmekte zorlanıyor. Yapılan venogramda derin baldır venlerinde tromboz gözleniyor. Bu hastada izlenen patolojinin en olası sebebi aşağıdakilerden hangisidir?
+A) Hipertansiyon
+B) İmmobilizasyon ✓
+C) Türbülan kan akımı
+D) Aspirin kullanımı
+E) Aşırı NO üretimi
+B doğru. Bu yılın 41. sorusuyla aynıdır: immobilizasyon.
+@@
+@Q MODÜL 3 2025-26 · SORU 47 | GEÇEN YIL | 
+@K Akut inflamasyonda arteryal dilatasyon nedeniyle dokunun kızarık görünmesine yol açan patoloji aşağıdakilerden hangisidir?
+A) Staz
+B) Hiperemi ✓
+C) Enfarkt
+D) Hematom
+E) Konjesyon
+B doğru (hiperemi). Arteriyel dilatasyonla dokunun kızarık görünmesi hiperemidir; venöz drenaj engeli konjesyondur (E).
+@@
+@Q MODÜL 3 2025-26 · SORU 50 | GEÇEN YIL | 
+@K Aşağıdaki durumlardan hangisinde ödem oluşum mekanizması diğerlerine göre farklıdır?
+A) Nörohümoral disregülasyon
+B) Siroz ✓
+C) Konjestif kalp yetmezliği
+D) Venöz tromboz sonrası obstrüksiyon
+E) Konstriktif perikardit
+B doğru (siroz). Siroz onkotik basınç düşüklüğüyle ödem yapar; diğerleri hidrostatik basınç artışı ve venöz dönüş bozukluğuyla ilişkilidir.
+@@
+@QB GEÇEN YILIN BLOK SINAVI (2025-26)
+@Q BSD-1 2025-26 · SORU 77 | BLOK SINAVI | 
+@K Aşağıdakilerden hangisi primer hemostazda gözlenmez?
+A) Subendotelyal kollajen ve vWF ile trombosit etkileşimi
+B) Trombositlerin aktivasyonu
+C) Trombositlerin şekil değiştirmesi
+D) Trombositlerin agregasyon oluşturması
+E) Trombositlerin üzerine fibrin çökmesi ✓
+E doğru. Trombositlerin üzerine fibrin çökmesi sekonder hemostazdadır.
+@@
+@QB DAHA ESKİ SORULAR
+@E BSD 2024-25 S87, S90, S91: Farklı mekanizmayla ödem yapan → konjestif kalp yetmezliği; arteriyel ve kardiyak trombozda esas faktör → endotel hasarı; hemostaz sırası (1-2-3-4).
+@E BSD 2023-24 S84-S85, S88, S90: Tromboza bağlı konjesyonun akut bulgusu olmayan → hemosiderin yüklü makrofajlar ve fibrozis; tromboz gelişiminde rolü olmayan → von Willebrand faktör eksikliği; hemostazda yanlış → hasar anında ilk olarak vazodilatasyon olur; yanlış → transüdanın özgül ağırlığı 1012'den büyüktür. BSD 2022-23 S83-S89: aynı sorular.
+@E BSD 2019-20 S85, S87-S89: Beyaz infarkt (kalpte kollateral az); lokal beyin ödemi nedeni (abse); akciğer ödemi alt loblarda; primer hemostaz tanımı (trombositlerin subendotelyal matrikse yapışması).
+@E MSD-3 2023-24 S37-S38, S40-S43, S45, 2024-25 S38-S39, S41, S42, S45, S46: Kardiyak ve arteriyel trombüste esas faktör, meme portakal kabuğu (lenfatik tıkanma), endotelin etkileri, venöz drenaj engeli (konjesyon), hiperemi, hemostaz sırası, primer hemostaz, tromboz gelişimine yol açmayan durum, vWF eksikliği, ödem mekanizması, akciğerde hemosiderin yüklü makrofajlar (kalp yetersizliği).
+@E MSD 3-4 2019-24: Pıhtılaşmaya eğilimi artıran primer neden (faktör V Leiden), protein C ve trombomodulin, lenfödem nedenleri (meme kanseri lenf nodu diseksiyonu), Bernard-Soulier sendromu (GPIb eksikliği), parçalı kemik kırığı sonrası yağ embolisi, kırmızı infarkt (akciğer, bağırsak).

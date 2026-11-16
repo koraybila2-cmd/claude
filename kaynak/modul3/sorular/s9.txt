@@ -1,0 +1,108 @@
+@QB BU YILIN SORULARI
+@Q MODÜL 3 2026-27 · SORU 33 | BU YIL | MSD-3 2023-24 S2, S12 VE 2025-26 S25-S26 İLE AYNI KALIP
+@K Dabigatran kullanımı ile ilgili olarak aşağıdaki bilgilerden yola çıkarak doğru şıkkı işaretleyiniz?
+@K I. Ana atılım yolu böbrekler olduğu için KBY hastalarında tercih edilmemelidir.
+@K II. Ketokonazol ile eş zamanlı olarak kullanımı kontrendikedir.
+@K III. Serbest trombini doğrudan inhibe ederken bağlı haldeki trombine etkisi bulunmaz.
+@K IV. Post-op venöz tromboembolik olayların önlenmesinde kullanılabilir.
+A) I-II-III doğru, diğeri yanlıştır.
+B) I-II-IV doğru, diğeri yanlıştır. ✓
+C) II-III-IV doğru, diğer yanlıştır.
+D) I-III-IV doğru, diğeri yanlıştır.
+E) I-II-III-IV doğrudur.
+B doğru (I-II-IV). I doğru: dabigatranın ana atılım yolu böbreklerdir, böbrek yetersizliğinde tercih edilmez. II doğru: ketokonazol P-gp'yi baskılar ve dabigatran düzeyini artırır; birlikte kontrendikedir. III yanlış: dabigatran serbest trombini de fibrine bağlı trombini de baskılar. IV doğru: ameliyat sonrası venöz tromboemboli profilaksisinde kullanılır.
+@@
+@Q MODÜL 3 2026-27 · SORU 34 | BU YIL | YENİ DÖRT ÖNCÜL
+@K Antitrombotik ilaçlar hakkında aşağıda verilen bilgileri değerlendirerek doğru şıkkı işaretleyiniz.
+@K I. Rivaroksaban doğrudan Faktör Xa'nın inhibisyonunu gerçekleştirerek etki eder.
+@K II. Fondaparinuks antitrombin III aracılığı ile Faktör Xa'nın inhibisyonunu gerçekleştirerek etki eder.
+@K III. Nadroparin antitrombin III'ü inhibe ederek dolaylı Faktör Xa'nın inhibisyonu yoluyla etki eder.
+@K IV. Tikagrelor irreversibl (geri dönüşümsüz) bir ADP reseptör antagonistidir.
+A) I-II doğru, diğerleri yanlıştır ✓
+B) I-III doğru, diğerleri yanlıştır
+C) II-III doğru, diğerleri yanlıştır
+D) II-IV doğru, diğerleri yanlıştır
+E) III-IV doğru, diğerleri yanlıştır
+A doğru (I-II). I doğru: rivaroksaban faktör Xa'yı doğrudan baskılar. II doğru: fondaparinuks antitrombin III aracılığıyla faktör Xa'yı baskılar. III yanlış: nadroparin düşük molekül ağırlıklı heparindir; antitrombin III'ü baskılamaz, etkinleştirir. IV yanlış: tikagrelor geri dönüşümlü bir P2Y12 antagonistidir.
+@@
+@Q MODÜL 3 2026-27 · SORU 37 | BU YIL | YENİ
+@K Aşağıda isimleri belirtilen ilaçların uygulama yolları hangi şıkta doğru sıra ile (III-III-IV) verilmiştir? *(I. Fondaparinuks, II. Edoksaban, III. Bivalirudin, IV. Dabigatran)*
+A) Oral - Parenteral - Parenteral - Parenteral
+B) Parenteral - Parenteral - Parenteral - Oral
+C) Parenteral - Oral - Oral - Parenteral
+D) Oral - Parenteral - Oral - Parenteral
+E) Parenteral - Oral - Parenteral - Oral ✓
+E doğru. Fondaparinuks parenteral, edoksaban oral, bivalirudin parenteral, dabigatran oral kullanılır.
+@@
+@Q MODÜL 3 2026-27 · SORU 38 | BU YIL | MSD-3 2023-24 S3 VE 2025-26 S26 İLE AYNI KONU
+@K Heparin ve enoksaparin kullanımı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?
+A) Heparin kullanımında aPTT izlemi gerekirken enoksaparin için böyle bir gereklilik genelde yoktur.
+B) Subkutan kullanımda enoksaparin biyoyararlanımı heparine göre daha fazladır.
+C) Mutad dozlarda heparinin etki süresi enoksaparine kıyasla daha kısadır.
+D) Enoksaparin gebelerde kullanılabilirken heparin kontraendikedir. ✓
+E) Aşırı doza bağlı kanamayı durdurmak için kullanılan protamine karşı heparin kullanımında enoksaparine kıyasla daha güçlü yanıt alınır.
+@O Önceki yıllar: 2023-24 MSD'de heparinle ilgili boşluk doldurma sorusu soruldu (aPTT, antitrombin III, osteoporoz).
+D yanlıştır. Enoksaparin gebelerde kullanılabilir, heparin de kullanılabilir; ikisi de plasentayı geçmez. Heparin kullanımında aPTT izlemi gerekir, enoksaparinde genelde gerekmez (A); subkutan biyoyararlanım enoksaparinde daha yüksektir (B); heparinin etki süresi kısadır (C); protamin heparini daha güçlü nötralize eder (E).
+@@
+@QB GEÇEN YILIN MSD-3 SORULARI (2025-26)
+@Q MODÜL 3 2025-26 · SORU 22 | GEÇEN YIL | 
+@K Antitrombotik ilaçlarla ilgili olarak aşağıda verilen bilgilerden hangisi yanlıştır?
+A) Tenekteplaz fibrine selektif bir ilaçtır.
+B) Ürokinaz fibrin spesifik olmayan bir fibrinolitik ajandır.
+C) Alteplaz, dokularda plazminojenin plazmine dönüşümünü inhibe eder. ✓
+D) Retaplaz, fizyolojik hemostatik tıkaç ile istenmeyen trombusta bulunan fibrini birbirinden ayırt edememektedir.
+E) Alteplazın yarılanma ömrü streptokinaza göre daha kısadır.
+C yanlıştır. Alteplaz plazminojenin plazmine dönüşümünü baskılamaz, hızlandırır. Tenekteplaz fibrine selektiftir (A), ürokinaz fibrin spesifik değildir (B), retaplaz (anahtara göre) fibrini ayırt edemez (D), alteplazın yarı ömrü streptokinazdan kısadır (E).
+@@
+@Q MODÜL 3 2025-26 · SORU 25 | GEÇEN YIL | 
+@K Antikoagülan/antitrombotik ilaçlarla ilgili olarak aşağıda verilen bilgilerden hangisi yanlıştır?
+A) Fondaparinux, Selektif bir Faktör VIIa inhibitörüdür. ✓
+B) Danaparoid, Antitrombin III'ü aktive ederek faktör Xa inhibisyonu yapar.
+C) Tinzaparin faktör IXa ve XIa'nın inhibe edilmesi süreçlerinde etki göstermez.
+D) Enoksaparin, faktör Xa'nın inhibe edilmesini potansiyelize eder.
+E) Bivalurudin, platelet aktivasyonunu inhibe edebilmektedir.
+A yanlıştır. Fondaparinuks selektif faktör Xa inhibitörüdür; VIIa'yı değil. Danaparoid antitrombin III'ü etkinleştirir ve Xa'yı baskılar (B), enoksaparin Xa inhibisyonunu güçlendirir (D), bivalirudin trombosit aktivasyonunu engelleyebilir (E).
+@@
+@Q MODÜL 3 2025-26 · SORU 26 | GEÇEN YIL | 
+@K Antikoagülan ilaçlarla ilgili olarak aşağıda verilen bilgilerden hangisi yanlıştır?
+A) Heparin, venöz tromboz ve pulmoner embolinin başlangıç tedavisinde kullanılabilmektedir.
+B) 1 Heparin ünitesi 24 C^{circ}'de 100 ml insan kanının 1 saat süre ile pıhtılaşmasını engelleyen heparin miktarıdır. ✓
+C) Düşük molekül ağırlıklı heparinlerin fraksiyonlanmamış heparine göre daha kolay dozlama yapma ve hastane dışında da uygulanabilme gibi avantajları vardır.
+D) Heparin, Düşük molekül ağırlıklı heparinkilere göre damar endotelinden daha az lipoprotein lipaz salınımına neden olur.
+E) Anti-Xa ünitesi düşük molekül ağırlıklı heparinlerin etkinliğini belirlemekte kullanılır.
+B yanlıştır. Heparin ünitesinin tanımı bu şekilde yazılamaz (“100 ml insan kanı”). Heparin venöz tromboz ve pulmoner embolinin başlangıç tedavisinde kullanılır (A), düşük molekül ağırlıklı heparinlerin dozlaması kolaydır (C), anti-Xa düzeyi onların etkinliğini ölçer (E).
+@@
+@Q MODÜL 3 2025-26 · SORU 30 | GEÇEN YIL | 
+@K Antikoagülan ilaçlarla ilgili olarak aşağıdaki cümlelerdeki boşluklara gelmesi gereken ifadeler sırası ile (I-II) hangi şıkta doğru olarak verilmiştir? Tromboplastin zamanı (aPTZ) .....I..... dozunun ayarlanmasında kullanılır. Varfarin .....II..... yolla kullanılan bir antikoagülan ilaçtır.
+A) Heparin / subkutan
+B) Varfarin / intratekal
+C) Heparin / oral
+D) Varfarin / oral ✓
+E) Heparin / intravenöz
+D doğru (anahtara göre). Kaynak notu: soru metninde “aPTZ” yazılı; aPTT heparin izlemidir ve heparin intravenöz ya da subkutan verilir. Anahtar “Varfarin / oral”dır; varfarin PT/INR ile izlenir. Metnin “protrombin zamanı” olarak aktarılması gerekmiş olabilir.
+@@
+@QB GEÇEN YILIN BLOK SINAVI (2025-26)
+@Q BSD-1 2025-26 · SORU 39 | BLOK SINAVI | 
+@K Antikoagülan/antitrombotik ilaçlarla ilgili olarak aşağıda verilen bilgilerden hangisi doğrudur?
+A) Argatroban, uzun yarı ömürlü ve trombine irreversibl olarak bağlanan bir ilaçtır.
+B) Karbamazepin, varfarinle birlikte verildiğinde onun etkinliğini arttırır.
+C) Fondaparinux, ADP reseptörlerine fibrin ve diğer ligandların bağlanmasını reversibl olarak inhibe eder.
+D) Drotrekogin alfa, hem faktör Va ve hem de faktör VIIIa'yı inhibe eder. ✓
+E) Kan varfarin düzeyi takibinde aktive edilmiş parsiyel tromboplastin zamanı kullanılır.
+D doğru. Drotrekogin alfa hem faktör Va'yı hem faktör VIIIa'yı inhibe eder. Argatroban kısa yarı ömürlüdür ve trombine geri dönüşlü bağlanır (A); karbamazepin varfarinin etkisini azaltır (B); fondaparinuks faktör Xa inhibitörüdür, ADP reseptör antagonisti değildir (C); varfarin PT/INR ile izlenir, aPTT ile değil (E).
+@@
+@Q BSD-1 2025-26 · SORU 44 | BLOK SINAVI | 
+@K Akut koroner sendrom hastalarında uygulanacak perkütan koroner girişimlerde ve yüksek riskli perkütan koroner girişim uygulanan hastalarda i.v. olarak kullanılan, Glikoprotein IIb/IIIa reseptörünü geri dönüşümsüz olarak inhibe ederek etki gösteren ilaç aşağıdakilerden hangisidir?
+A) Prasugrel
+B) Silostazol
+C) Absiksimab ✓
+D) Tenekteplaz
+E) Kangrelor
+C doğru (absiksimab). Perkütan girişimde i.v. kullanılan, glikoprotein IIb/IIIa reseptörünü geri dönüşümsüz inhibe eden monoklonal antikordur. Prasugrel P2Y12 inhibitörü (A), silostazol PDE3 inhibitörü (B), tenekteplaz fibrinolitik (D), kangrelor i.v. P2Y12 inhibitörüdür (E).
+@@
+@QB DAHA ESKİ SORULAR
+@E BSD 2024-25 S42, S45: Antitrombositikler tam kan testlerini bozmaz; düşük molekül ağırlıklı heparinler trombosit yüzeyindeki faktör Xa'yı da baskılar.
+@E BSD 2023-24 S33, S38: Alteplazın yarı ömrü en uzun değildir; absiksimab. BSD 2022-23 S44, S49: Klopidogrel ADP yolağını baskılar; sarpogrelat 5-HT2 antagonisti.
+@E BSD 2021-22 S37, S45: Klopidogrel ve prasugrelin hedefi P2Y12; ön ilaç olan prasugrel. BSD 2019-20 S29, S40: Silostazol; koroner stentte aspirine klopidogrel.
+@E MSD-3 2023-24 S2, S3, S12, S32, 2024-25 S2, S4, S6, S10: Enoksaparin ve heparin bilgileri, argatroban, antikoagülan doğru-yanlış, fibrinolitikler (ürokinaz, alteplaz), perkütan girişimde i.v. glikoprotein IIb/IIIa antagonisti.
+@E MSD 3-4 2019-24: Klopidogrel ve prasugrel karşılaştırması (prasugrelde etkileşim daha azdır), kangrelor, silostazol, vorapaksar, sarpogrelat, 112 çağrılan hastada ST depresyonu ve melena (anemik hastada antitrombotik seçimi).

@@ -1,0 +1,163 @@
+@QB BU YILIN SORULARI
+@Q MODÜL 3 2026-27 · SORU 1 | BU YIL | İLK KEZ BU BİÇİMDE; BSD 2023-24 S77 İLE AYNI MANTIK
+@K Aşağıdakilerden hangisi angina pektoris ile ilgili yanlıştır?
+A) Eforla artan dinlenince geçen ağrı
+B) Bıçak sokulur iğne batar ağrı ✓
+C) Angina pektoris tarif eden hastalar genelde anjiyografi olur
+D) Tedavide antianjinaller kullanılır.
+E) Betablokör kullanılır.
+@O Önceki yıllar: BSD 2023-24 S77: “anginal ağrıyı tariflemede kullanılmayan” → iğneleme tarzında batar ağrı. BSD 2022-23 S77 ve 2019-20 S75: saniyeler içinde düzelen, bıçak saplanır tarzda ağrı anginal özellik değildir.
+B yanlıştır. Anginal ağrı bıçak sokulur ya da iğne batar tarzda değildir; baskı, sıkışma ya da yanma tarzındadır ve eforla artıp dinlenmekle azalır (A). Anginalı hastalara genellikle koroner anjiyografi yapılır (C). Tedavide antianjinal ilaçlar (D) ve beta bloker (E) kullanılır.
+@@
+@Q MODÜL 3 2026-27 · SORU 2 | BU YIL | BSD 2022-23 S73, 2024-25 S75 VE 2025-26 S26 İLE AYNI
+@K Angina pektoris nedir?
+A) Eforla artan dinlenmekle azalan göğüste baskı yanma hissi ✓
+B) Bıçak sokulur ağrı
+C) İğne batar ağrı
+D) Derin nefes almakla artan ağrı
+E) Hiçbiri
+@O Önceki yıllar: Aynı soru 2022-23, 2024-25 ve 2025-26 blok sınavlarında soruldu. 2024-25'te cevap şıkkı “efor ya da istirahatte göğüs bölgesinde yanma veya baskı tarzı ağrı” olarak yazılmıştı.
+A doğru. Angina pektoris eforla artan, dinlenmekle azalan, göğüste baskı ya da yanma hissi veren ağrıdır. Bıçak sokulur (B) ve iğne batar (C) tarzında olmaz; derin nefesle artan ağrı plevra ya da perikard kökenlidir (D).
+@@
+@Q MODÜL 3 2026-27 · SORU 3 | BU YIL | KAYNAK NOTU: ANAHTAR E; BSD 2025-26 S28 İLE ÇELİŞİYOR
+@K Angina pektoris tedavisinde kullanılan ilaçlardan hangisi yanlıştır?
+A) Klopidogrel
+B) ASA
+C) Betablokör
+D) Nitrat
+E) Dihidropiridin grubu kalsiyum kanal blokerleri ✓
+@O Önceki yıllar: BSD 2025-26 S28: “Aşağıdakilerden hangisi angina pektoris tedavisinde kullanılmaz? A) Aspirin B) Klopidogrel C) Beta bloker D) Nitrat E) Hepsi kullanılır” → E.
+E yanlıştır (anahtara göre). Aspirin, klopidogrel, beta bloker ve nitrat angina tedavisinde kullanılır: aspirin ve klopidogrel pıhtıyı önler (A, B), beta bloker kalp hızını düşürür ve prognozu düzeltir (C), nitrat preload'u azaltır (D). Sınav anahtarı dihidropiridin kalsiyum kanal blokerini (E) “yanlış” saymıştır. Kaynak notu: standart bilgiye göre amlodipin gibi uzun etkili dihidropiridinler stabil ve vazospastik anginada kullanılır; yalnızca kısa etkili nifedipin refleks taşikardi yaptığı için önerilmez. 2025-26 blok sınavında aynı kök “angina tedavisinde kullanılmaz” biçiminde sorulmuş ve cevap “hepsi kullanılır” olmuştu. Sınavda bu soru çıkarsa anahtarın istediği cevap E'dir.
+@@
+@Q MODÜL 3 2026-27 · SORU 4 | BU YIL | BSD 2025-26 S27 İLE AYNI
+@K Aşağıdakilerden hangisi yanlıştır?
+A) Miyokard infarktüsünde kalp enzimleri yükselir.
+B) EKG'de ST, T değişiklikleri olur.
+C) Koroner arterlerin bir veya birkaçında trombüs ile tam veya yarı tıkanma vardır.
+D) Nitrat tedavisi ile ağrıda hafifleme olur.
+E) Hepsi doğru. ✓
+@O Önceki yıllar: BSD 2025-26 S27 ve 2024-25 S76 aynı kalıptı; ikisinde de cevap “hepsi doğru”.
+E doğru (“hepsi doğru”). Soru yanlış ifadeyi sorar, ama dört ifadenin hepsi doğrudur: MI'da kalp enzimleri yükselir (A), EKG'de ST-T değişiklikleri olur (B), koroner arterlerin bir ya da birkaçında trombüsle tam ya da yarı tıkanma vardır (C), nitrat ağrıyı hafifletir (D). Bu yüzden yanlış ifade yoktur ve cevap “hepsi doğru” şıkkıdır.
+@@
+@Q MODÜL 3 2026-27 · SORU 5 | BU YIL | İLK KEZ SORULDU; 2025-26 S4 İLE AYNI MANTIK
+@K ST elevasyonu olmayan MI'da hangisi yanlıştır?
+A) Trombolitik tedavi kullanılabilir. ✓
+B) ASA kullanılabilir.
+C) Betablokör kullanılabilir.
+D) Nitrat kullanılabilir.
+E) Klopidogrel kullanılabilir.
+A yanlıştır. Trombolitik tedavi STEMI'de kullanılır; NSTEMI'de kullanılmaz, çünkü tıkanma kısmi olduğundan yarar göstermemiştir ve kanama riski artar. Aspirin (B), beta bloker (C), nitrat (D) ve klopidogrel (E) NSTEMI'de kullanılabilir.
+@@
+@Q MODÜL 3 2026-27 · SORU 6 | BU YIL | KAYNAK NOTU: ANAHTAR D
+@K ST elevasyonlu MI ile ilgili hangisi yanlıştır?
+A) Lokalizasyon belirtilebilir.
+B) Klopidogrel kullanılabilir.
+C) Trombolitik kullanılabilir.
+D) G2B3A Antagonistleri kullanılabilir. ✓
+E) ASA kullanılabilir.
+D yanlıştır (anahtara göre). STEMI'de hangi damarın tıkalı olduğu EKG'den anlaşıldığı için lokalizasyon belirtilebilir (A). Klopidogrel (B), trombolitik (C) ve aspirin (E) STEMI'de kullanılır. Sınav anahtarı glikoprotein IIb/IIIa antagonistlerini (D, soruda “G2B3A” diye yazılmış) yanlış saymıştır. Kaynak notu: standart bilgiye göre bu ilaçlar (abciksimab, tirofiban, eptifibatid) primer perkütan girişim sırasında seçilmiş yüksek riskli hastada ek olarak verilir. Ders notlarındaki STEMI tedavi listesinde yer almamaları anahtarın dayanağı olabilir.
+@@
+@QB GEÇEN YILIN MSD-3 SORULARI (2025-26)
+@Q MODÜL 3 2025-26 · SORU 1 | GEÇEN YIL | 
+@K Aşağıdakilerden hangisi angina pektoris ile ilgili doğrudur?
+A) Göğüste baskı yanma tarzında eforla artış gösteren ağrıdır. ✓
+B) Bıçak şeklinde batar tarzda ağrıdır.
+C) Efor testi yapılmaz.
+D) EKO'da parlak perikardit görülebilir.
+E) Hiçbiri.
+A doğru. Angina eforla artan, baskı ya da yanma tarzında ağrıdır. Bıçak saplanır ağrı (B) anginal değildir. Angina tanısında efor testi yapılır (C), ekokardiyografide parlak perikard bulgusu perikardite aittir (D).
+@@
+@Q MODÜL 3 2025-26 · SORU 2 | GEÇEN YIL | 
+@K Aşağıdakilerden hangileri angina pektoris tedavisinde kullanılabilir?
+@K I- Asa
+@K II- Klopidogrel
+@K III- Nitrat
+@K IV- Betabloker
+A) Sadece I
+B) Sadece II
+C) Sadece III-IV
+D) Sadece II-III-IV
+E) Hepsi ✓
+E doğru (hepsi). Aspirin, klopidogrel, nitrat ve beta bloker angina tedavisinde kullanılabilir.
+@@
+@Q MODÜL 3 2025-26 · SORU 3 | GEÇEN YIL | 
+@K ST elevasyonlu MI ile ilgili hangisi doğrudur?
+A) EKG ile infarktüsün tanısı hangi damarın sorumlu olduğu tanınabilir. ✓
+B) Kardiyak enzimler normaldir.
+C) Efor testi mutlaka yapılır.
+D) Ekokardiyografi de hiçbir şey gözükmez.
+E) Hiçbiri.
+A doğru. STEMI'de EKG'deki ST yükselmesi hangi damarın tıkalı olduğunu gösterir. Kardiyak enzimler yüksektir (B), efor testi yapılmaz (C), ekokardiyografide duvar hareket bozukluğu görülür (D).
+@@
+@Q MODÜL 3 2025-26 · SORU 4 | GEÇEN YIL | 
+@K Myokard infarktüsü ile ilgili belirtilen hangisi yanlıştır?
+A) Kalp enzimleri normaldir. ✓
+B) Kalp enzimleri yüksektir.
+C) EKG ile tanı konulabilir.
+D) EKG ile hangi damarın tıkandığı öngörülebilir.
+E) Hiçbiri.
+A yanlıştır. MI'da kalp enzimleri yüksektir; “normaldir” ifadesi yanlıştır. EKG ile tanı konur ve hangi damarın tıkalı olduğu öngörülür.
+@@
+@Q MODÜL 3 2025-26 · SORU 5 | GEÇEN YIL | 
+@K Hangisi angina pektorisin tanımıdır?
+A) Eforla artış gösteren dinlenince azalan göğüste baskı yanma tarzı ağrıdır. ✓
+B) Bıçak sokulur ağrıdır.
+C) İğne batar ağrıdır.
+D) Nefes almakla artar.
+E) Öne eğilmekle azalır.
+A doğru. Bu yılın 2. sorusuyla aynıdır.
+@@
+@Q MODÜL 3 2025-26 · SORU 6 | GEÇEN YIL | 
+@K Aşağıdakilerden hangisi angina pektoris için doğrudur?
+A) EKG'de ST anormalliği izlenebilir. ✓
+B) EKG'de P dalgası yoktur.
+C) Kesin tanı için koroner anjiyografi gerekmez.
+D) EKO'da hiçbir anormallik yoktur.
+E) Hiçbiri.
+A doğru. Anginada EKG'de ST anormalliği izlenebilir. P dalgasının olmaması atriyal fibrilasyondur (B). Kesin tanı için koroner anjiyografi gerekir (C), ekokardiyografide anormallik olabilir (D).
+@@
+@Q MODÜL 3 2025-26 · SORU 7 | GEÇEN YIL | 
+@K Aşağıdakilerden hangisi doğrudur?
+A) Kalbi besleyen 3 ana koroner damar vardır. ✓
+B) Myokard infarktüsü sadece bir çeşittir.
+C) Myokard infarktüsü iğne batar tarzda ağrıdır.
+D) Myokard infarktüsü bıçak sokulur tarzda ağrıdır.
+E) Hiçbiri.
+A doğru. Kalbi üç ana koroner damar besler: LAD, LCx ve RCA. MI tek çeşit değildir (B), ağrısı iğne ya da bıçak tarzında değildir (C, D).
+@@
+@QB GEÇEN YILIN BLOK SINAVI (2025-26)
+@Q BSD-1 2025-26 · SORU 26 | BLOK SINAVI | 
+@K Angina pektoris nedir?
+A) Eforla artan dinlenmekle azalan göğüste baskı yanma hissi ✓
+B) Bıçak sokulur ağrı
+C) İğne batar ağrı
+D) Derin nefes almakla artan ağrı
+E) Hiçbiri
+A doğru. Bu yılın 2. sorusuyla aynıdır.
+@@
+@Q BSD-1 2025-26 · SORU 27 | BLOK SINAVI | 
+@K Aşağıdakilerden hangisi yanlıştır?
+A) Miyokard infarktüsünde kalp enzimleri yükselir.
+B) EKG'de ST, T değişiklikleri olur.
+C) Koroner arterlerin bir veya birkaçında trombüs ile tam veya yarı tıkanıklık olur.
+D) Nitrat tedavisi ile ağrıda hafifleme olur.
+E) Hepsi doğru. ✓
+E doğru. Bu yılın 4. sorusuyla aynıdır: “hepsi doğru”.
+@@
+@Q BSD-1 2025-26 · SORU 28 | BLOK SINAVI | 
+@K Aşağıdakilerden hangisi angina pektoris tedavisinde kullanılmaz?
+A) Aspirin
+B) Klopidogrel
+C) Betabloker
+D) Nitrat
+E) Hepsi kullanılır ✓
+E doğru. Aspirin, klopidogrel, beta bloker ve nitrat angina tedavisinde kullanılır; kullanılmayan yoktur. Bu yılın 3. sorusunun kökü “yanlış” olanı sormuştu ve anahtar dihidropiridini işaret etmişti.
+@@
+@QB DAHA ESKİ SORULAR
+@E BSD 2024-25 S74: Angina eşdeğeri → göğüste baskı. S76: Miyokard infarktüsü için yanlış → hepsi doğru.
+@E BSD 2023-24 S74: MI için yanlış → EKO'da sol ventrikül çalışması normaldir. S77: Anginal ağrı tarifinde kullanılmayan → iğneleme tarzında batar ağrı.
+@E BSD 2022-23 S76: Kararsız anginası olma olasılığı düşük olan → 3 gün önce başlayan, hareketle oluşan, dinlenmekle geçen, interskapüler bölgede 15 saniye süren iğne batar ağrı. S77: Tipik anginanın özelliği olmayan → saniyeler içinde düzelmesi.
+@E BSD 2021-22 S74: Kararsız angina için yanlış → takiplerde troponin değerleri yükselebilir (troponin yükselirse NSTEMI olur). S75: Ani kardiyak ölümle karakterize MI → tip 3.
+@E BSD 2019-20 S74: MI sonrası 2. haftada yeniden şekillenmeyi önleyip sağ kalımı artıran → ACE inhibitörü. S75: Angina eşdeğeri sayılmayanlar → öne eğilmekle artan, nefesle artan ve saniyeler süren bıçak saplanır ağrılar (II-III-IV). S76: Stabil angina olmayan → 1 aydır progresif artan, 100 metre yürümekle oluşan ağrı. S77: VT arkasından VF'ye giden ani kardiyak ölüm → tip 3. S90: Kreşendo angina → ağrı istirahatte bile gelir ve sıklığı artar.
+@E MSD 3-4 2019-20 S49, S51, S52; 2020-21 S22, S48, S55, S58; 2021-22 S49-S53; 2022-23 S51-S53 ve S67; MSD-3 2023-24 S33-S35; 2024-25 S43: Angina eşdeğeri sayılmayanlar, stabil angina olmayan tablolar, ağrının yayılım bölgeleri. Her yıl en az bir soru geldi. Kararsız angina vakası (68 yaşında diyabetik hipertansif erkek, 6 aydır iki kat merdivenle gelen ağrı son haftada daha az eforla artıyor) 2019-20, 2020-21 ve 2022-23'te soruldu: cevap kararsız angina.
+@E MSD-3 2023-24 S21-S24, 2024-25 S21 ve S23: STEMI ve MI için yanlış ifadeler. Kalıp: “hangi damarın tıkalı olduğu tahmin edilebilir” doğru; “EKG ST yükselmesine göre sorumlu damar bulunamaz” ve “efor testi yapılır” yanlış.

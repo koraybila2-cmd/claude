@@ -1,0 +1,103 @@
+@QB BU YILIN SORULARI
+@Q MODÜL 3 2026-27 · SORU 7 | BU YIL | MSD-3 2023-24 S27 VE 2020-21 S18 İLE AYNI KALIP
+@K Aşağıdaki aritmilerden hangisi re-entry mekanizmasıyla oluşmaz?
+A) Sinüs taşikardisi ✓
+B) AVNRT
+C) AVRT
+D) Ventriküler taşikardi
+E) Atriyal flutter
+@O Önceki yıllar: 2023-24 MSD'de aynı soru, aynı şıklarla soruldu (cevap sinüs taşikardisi). 2020-21 MSD 34'te ventriküler fibrilasyonun mekanizması soruldu (re-entry).
+A doğru (re-entry ile oluşmaz). Sinüs taşikardisi artmış otomatisiteyle olur. AVNRT, AVRT, atriyal flutter ve skar bağlantılı ventriküler taşikardi re-entry devreleriyle oluşur.
+@@
+@Q MODÜL 3 2026-27 · SORU 8 | BU YIL | MSD-3 2023-24 S26 VE 2024-25 S29 İLE AYNI MANTIK
+@K Kalp kası hücrelerindeki iyon kanallarının genetik bozukluğu sonucu repolarizasyon süresinin uzadığı durumlarda aşağıdaki aritmilerden hangisi gelişebilir?
+A) Sinüs taşikardisi
+B) AVNRT
+C) AVRT
+D) Torsades de pointes ✓
+E) Atriyal fibrilasyon
+@O Önceki yıllar: 2024-25 MSD'de “genetik uzun QT sendromundaki aritmi mekanizması” soruldu (tetiklenmiş aktivite). 2023-24'te potasyum kanalını bloke eden sınıf III antiaritmiklerin aritmi mekanizması soruldu (tetiklenmiş aktivite).
+D doğru. Genetik iyon kanalı bozukluğuyla repolarizasyon süresi uzar (uzun QT sendromu); erken afterdepolarizasyon torsades de pointes'e yol açar. Sinüs taşikardisi otomatisite artışıdır (A), AVNRT, AVRT ve atriyal fibrilasyon re-entry kaynaklıdır (B, C, E).
+@@
+@Q MODÜL 3 2026-27 · SORU 9 | BU YIL | MSD 3-4 2021-22 S42 VE BSD 2022-23 S74 İLE AYNI BİLGİ
+@K Atriyum ile ventriküller arasında AV nod dışında fazladan bir elektriksel bağlantı bulunması neticesinde ortaya çıkan supraventriküler taşikardi aşağıdakilerden hangisidir?
+A) AVRT ✓
+B) AVNRT
+C) Sinüs taşikardisi
+D) VT
+E) AF
+@O Önceki yıllar: 2025-26 MSD'de AV düğüm içindeki ek yol sorulmuştu (AVNRT). 2021-22 MSD 3-4'te ve 2022-23 blok sınavında “AV düğüm dışında iletim yolu olan aritmi” soruldu (WPW).
+A doğru. Atriyum ile ventrikül arasında AV düğüm dışında ek bir elektriksel bağlantıdan kaynaklanan supraventriküler taşikardi AVRT'dir (WPW sendromunda görülür). AVNRT'de ek yol düğümün içindedir (B).
+@@
+@Q MODÜL 3 2026-27 · SORU 11 | BU YIL | YENİ; 2022-23 S50 VE 2025-26 S13 İLE BAĞLANTILI
+@K 58 yaşında erkek hasta, nefes darlığı ve yorgunluk şikayetiyle başvuruyor. EKG'de P dalgası izlenmiyor, RR aralıkları düzensiz - atriyal fibrilasyon (AF) saptanıyor. Ekokardiyografide EF %25 ölçülüyor, LV dilate. Hastanın ne kadar süredir AF'de olduğu bilinmiyor. AF'nin bu hastada EF düşüklüğüne katkıda bulunduğu patofizyolojik mekanizmalar aşağıdakilerden hangisinde en doğru ve eksiksiz biçimde açıklanmıştır?
+A) AF'de düzensiz RR aralıkları LV'nin her atımda farklı preload ile çalışmasına neden olur; bu değişkenlik miyosit membranında iyon kanalı disfonksiyonuna yol açar ve EF kronik olarak düşer ritim restorasyonuyla düzelme beklenmez
+B) AF'de atriyal kontraksiyonun kaybı preloadu azaltır ve bu tek başına EF %25'i açıklar; nörohormonal aktivasyon ve taşikardik KMP AF'de görülmez, bunlar ayrı hastalık mekanizmalarıdır
+C) AF'de RAAS aktivasyonu aldosteron salgısını artırır; aldosteron doğrudan miyokardiyal kalsiyum kanallarını bloke eder ve bu etki EF düşüşünün tek sorumlu mekanizmasıdır diğer mekanizmalar ikincil önemdedir
+D) AF, üç birbirine bağlı mekanizmayla EF'yi düşürür: sürekli taşikardi miyokardiyal enerji tükenmesiyle taşikardik KMP oluşturur; atriyal kontraksiyonun kaybı FrankStarling eğrisinde preload'u azaltır; düşen debi sempatik sistem ve RAAS'ı aktive ederek afterload artışı ve fibrozisle remodelinge yol açar ✓
+E) AF'de P dalgasının kaybolması sinoatriyal düğümden gelen sempatik uyarıyı ortadan kaldırır; sempatik tonus düşer, kalp hızı azalır ve kardiyak debi düşerek nörohormonal aktivasyon başlar
+D doğru. AF'nin ejeksiyon fraksiyonunu düşürmesinde üç mekanizma birlikte çalışır: sürekli taşikardiyle taşikardik kardiyomiyopati, atriyal kasılma kaybıyla preload azalması ve nörohormonal (sempatik ve RAAS) etkinleşmeyle yeniden şekillenme. Düzensiz RR'nin kalıcı hasar yaptığını ve ritim kontrolünün işe yaramadığını söyleyen A yanlıştır; B'de nörohormonal etkinleşmeyi ve taşikardik kardiyomiyopatiyi AF'den bağımsız sayan ifade yanlıştır. C'deki “aldosteron kalsiyum kanalını doğrudan bloke eder” gerçek dışıdır. E'de sempatik tonus AF'de düşmez, artar.
+@@
+@Q MODÜL 3 2026-27 · SORU 12 | BU YIL | YENİ VAKA KURGUSU
+@K 74 yaşında erkek hasta, koroner baypas (KABG) ve iskemik serebrovasküler hastalık öyküsü mevcut. 48 saatlik Holter monitörizasyonunda paroksismal AF atağı saptanmış. EKO'da EF normal, biatriyal dilatasyon mevcut. NT-proBNP: 390 ng/L. Bu hastada AF'nin gelişmesinden, sürdürülmesinden ve daha önce geçirdiği iskemik SVH ile ilişkisinden ortak patofizyolojik mekanizma aşağıdakilerden hangisiyle en doğru açıklanır?
+A) AF'de hızlı ventriküler yanıt sol ventrikülü aşırı çalıştırır; sol ventrikül genişler ve diyastolik basınç artar. Artan LV basıncı sol atriyuma iletilir, sol atriyum genişler ve böylece biatriyal dilatasyon gelişir
+B) Kronik atriyal basınç/volüm yükü atriyal fibrozis ve heterojen iletim (elektriksel remodeling) oluşturur; re-entry devreleri AF'yi başlatır. AF başladığında refraktif periyodun kısalması AF'yi sürdürür; sol atriyal appendikste staz trombüs ve sistemik emboli riskini doğurur - bu hastanın SVH öyküsünü açıklar ✓
+C) NT-proBNP 390 ng/L düzeyi akut miyokard hasarını gösterir; iskemik hasar SA düğümü besleyen arterleri etkiler ve sinüsal arrest gelişir. Kısa süreli sinusal arrest sırasında ektopik atriyal odaklar AF'ı tetikler
+D) KABG sonrası gelişen perikard inflamasyonu sinoatrial düğüme hasar verir; SA düğümü uyarı üretemez hale gelince ektopik atriyal odaklar devreye girer ve AF oluşur. Biatriyal dilatasyon bu düğüm hasarının anatomik sonucudur
+E) Koroner baypas greftlerinde zamana bağlı tıkanma pulmoner venlerde retrograd basınç artışına yol açar; yükselen pulmoner basınç sol atriyum duvarını gerer ve fibrotik doku oluşumunu tetikler → AF gelişir
+B doğru. Biatriyal dilatasyon ve kronik atriyal basınç-hacim yükü atriyumda fibrozis ve heterojen iletim oluşturur; re-entry devreleri AF'yi başlatır, refrakter dönemin kısalması AF'yi sürdürür ve sol atriyal apendiksteki staz trombüs ve inme riskini doğurur (hastanın iskemik SVH öyküsü). A'da dilatasyonun nedeni ters sıralanmıştır. C'de NT-proBNP 390 ng/L düşük bir değerdir ve miyokard hasarını göstermez. D ve E'de SA düğüm hasarı ve pulmoner ven basıncı mekanizmaları AF'nin başlıca nedenleri değildir.
+@@
+@QB GEÇEN YILIN MSD-3 SORULARI (2025-26)
+@Q MODÜL 3 2025-26 · SORU 10 | GEÇEN YIL | 
+@K Aşağıdaki aritmi mekanizmalarından hangisi Wolf-Parkinson-White sendromunda gelişen supraventriküler taşikardinin patofizyolojisinde rol oynar?
+A) Artmış otomatiksite
+B) Tetiklenmiş aktivite
+C) Azalmış otomatiksite
+D) Re-entry mekanizması ✓
+E) Azalmış AV nod geçirgenliği
+D doğru. WPW'de supraventriküler taşikardi re-entry ile oluşur.
+@@
+@Q MODÜL 3 2025-26 · SORU 11 | GEÇEN YIL | 
+@K Aşağıdakilerden hangisi sinüs taşikardisi nedenlerinden biri değildir?
+A) Kafein tüketimi
+B) Anksiyete
+C) Derin uyku ✓
+D) Panik atak
+E) Egzersiz
+C doğru. Derin uyku sinüs hızını düşürür; kafein, anksiyete, panik atak ve egzersiz sinüs taşikardisine yol açar.
+@@
+@Q MODÜL 3 2025-26 · SORU 12 | GEÇEN YIL | 
+@K Atriyoventriküler nod içerisinde fazladan bir ileti özelliği olan yolun varlığı ile ortaya çıkan supraventriküler taşikardi aşağıdakilerden hangisidir?
+A) AVNRT ✓
+B) AVRT
+C) WPW
+D) VT
+E) AF
+A doğru. AV düğüm içinde ek yol bulunması AVNRT'dir; ek yolun düğüm dışında olması AVRT/WPW'dir (bu yılın 9. sorusu).
+@@
+@Q MODÜL 3 2025-26 · SORU 13 | GEÇEN YIL | 
+@K (Görseldeki 72 yaşındaki erkek hasta ile ilgili): 72 yaş erkek hasta, 10 yıl önce koroner bypas olmuş, EKG: hızlı ventrikül yanıtlı atrial fibrilasyon, ejeksiyon fraksiyonu (EF) %30; NT PRO-BNP (Pro-Brain Natriuretic Peptide) 7912 ng/L, 2 kat çıkınca olması ve ayak bileklerinde şişlik nedeni ile başvuruyor. Hastadaki semptomların temel nedeni hangi patofizyolojik mekanizmadır?
+A) Aort darlığı
+B) Pulmoner emboli
+C) Düşük kardiyak debi
+D) Aritmi
+E) Düşük kardiyak debi ve aritmi birlikteliği ✓
+E doğru. Bypass öyküsü, hızlı ventrikül yanıtlı AF, EF %30, yüksek NT-proBNP ve ayak bileği ödemi hem düşük kalp debisi (kalp yetersizliği) hem aritmi birlikteliğini gösterir.
+@@
+@QB GEÇEN YILIN BLOK SINAVI (2025-26)
+@Q BSD-1 2025-26 · SORU 29 | BLOK SINAVI | 
+@K Aşağıdaki durumların hangisinde acil elektriksel kardiyoversiyon gereklidir?
+A) Sinus taşikardisi
+B) AV blok
+C) AVNRT
+D) Atrial fibrilasyon
+E) Ventriküler fibrilasyon ✓
+E doğru. Ventriküler fibrilasyonda kalp etkili pompalamaz; acil defibrilasyon (elektriksel şok) hayat kurtarır. Sinüs taşikardisi (A) ve AVNRT (C) önce vagal manevra ve adenozinle tedavi edilir. AV blok pil ister (B). Hemodinamisi stabil atriyal fibrilasyonda (D) hız ya da ritim kontrolü yapılır; instabilse elektriksel kardiyoversiyon uygulanır.
+@@
+@QB DAHA ESKİ SORULAR
+@E BSD 2024-25 S77: Sinüs taşikardisi nedeni olmayan → beta bloker kullanımı. BSD 2022-23 S74: AV düğüm dışında iletim → WPW.
+@E BSD 2023-24 S75: 4 yıl önce bypass geçirmiş, kalp yetersizliği olan 75 yaşında hastanın çarpıntı mekanizması → tetiklenmiş aktivite.
+@E BSD 2021-22 S72-S73: Atriyal fibrilasyon için söylenemeyen → kalpteki ekstra iletim yollarından kaynaklanır. 85 yaşındaki nefes darlığı olan hastada kalp kökenli olduğunu düşündüren aritmi → AF.
+@E BSD 2019-20 S73: AF için yanlış → yaşla sıklığı artmaz.
+@E MSD 3-4 2019-20 S42-S44: WPW (PR kısalır, delta dalgası), VT (geniş QRS), AVRT (ortodromik: uyarı AV düğümden ventriküle iner). 2021-22 S43-S44: VT için yanlış → dar QRS'li taşikardidir; vaka: tekrarlayan çarpıntı, mekanizma re-entry. 2020-21 S52: AF için doğru → atriyal kasılma kaybolmuştur.
+@E MSD-3 2023-24 S25-S28: Aksiyon potansiyeli fazlarından hangisi diyastolle ilişkilidir (faz 4), K kanal inhibisyonunda aritmi mekanizması, re-entry ile oluşmayan ritim, primer pacemaker (sinüs düğümü). 2024-25 S29-S32: Uzun QT mekanizması, faz 0'dan sorumlu iyon (sodyum), vuru iletim bozukluğu mekanizması.

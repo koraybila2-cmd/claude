@@ -1,0 +1,48 @@
+@QB BU YILIN SORULARI
+@Q MODÜL 3 2026-27 · SORU 25 | BU YIL | YENİ
+@K "....I.... bir alfa glikozidaz inhibitörü, ....II.... bir SGLT-2 inhibitörü, ....III.... ise GLP1+GIP reseptör agonisti antidiyabetik ilaçlardır." ifadesinde boşluklara gelmesi gereken ilaçlar hangi şıkta sırası ile (I-II-III) verilmiştir?
+A) Vogliboz - Empagliflozin - Semaglutid
+B) Miglitol - Canagliflozin - Tirzepatid ✓
+C) Metformin - Linagliptin - Semaglutid
+D) Akarboz - Semaglutid - Tirzepatid
+E) Sitagliptin - Empagliflozin - Semaglutid
+B doğru (miglitol, kanagliflozin, tirzepatid). Miglitol α-glukozidaz inhibitörü, kanagliflozin SGLT-2 inhibitörü, tirzepatid GLP-1 ve GIP reseptör agonistidir. A'da semaglutid yalnız GLP-1 agonistidir. C'de metformin α-glukozidaz inhibitörü değildir, linagliptin DPP-4 inhibitörüdür. D'de semaglutid SGLT-2 inhibitörü değildir. E'de sitagliptin α-glukozidaz inhibitörü değildir.
+@@
+@Q MODÜL 3 2026-27 · SORU 28 | BU YIL | YENİ
+@K İnsülin preparatları hakkında aşağıda verilen bilgilerden yola çıkarak doğru şıkkı işaretleyiniz.
+@K I. NPH insülin uzun süreli ve pik oluşturmayan bir insülin etkisi sağlar.
+@K II. Regüler (Kristalize) insülin gebe vakalarda kullanılabilir.
+@K III. İnsülin icodec'in etkisi 1-2 saat içinde başlayıp 40-42 saate kadar sürebilmektedir.
+@K IV. İnsülin aspartın etki süresi izofan insüline göre daha kısadır ve pik etkisine daha erken ulaşır.
+A) I-II doğru, diğerleri yanlıştır.
+B) I-IV doğru, diğerleri yanlıştır.
+C) II-III doğru, diğerleri yanlıştır.
+D) II-IV doğru, diğerleri yanlıştır. ✓
+E) III-IV doğru, diğerleri yanlıştır.
+D doğru (II-IV). I yanlış: NPH insülin orta etkilidir ve pik yapar. II doğru: regüler insülin gebelikte kullanılabilir. III yanlış: icodec haftalık bir insülindir, yarı ömrü yaklaşık 7 gündür. IV doğru: insülin aspartın etki süresi izofan insüline göre kısadır ve piki daha erkendir.
+@@
+@Q MODÜL 3 2026-27 · SORU 36 | BU YIL | YENİ
+@K Pankreatik β-hücrelerinde ATP-duyarlı K+ kanallarını kapatarak önceden sentezlenmiş insülinin salınımını artıran ve ayrıca trombosit agregasyonunu azaltıcı ve fibrinolitik aktiviteyi artırıcı özellikleri bulunan oral antidiyabetik ajan aşağıdakilerden hangisidir?
+A) Repaglinid
+B) Gliklazid ✓
+C) Linagliptin
+D) Miglitol
+E) Ertugliflozin
+B doğru (gliklazid). Pankreas β hücrelerinde ATP duyarlı K⁺ kanallarını kapatarak insülin salınımını artıran sülfonilüre gliklazidin ek olarak trombosit agregasyonunu azaltıcı ve fibrinolitik aktiviteyi artırıcı etkisi vardır. Repaglinid de aynı kanalı kapatır ama bu ek özellikleri yoktur (A). Linagliptin DPP-4 inhibitörüdür (C), miglitol α-glukozidaz inhibitörüdür (D), ertugliflozin SGLT-2 inhibitörüdür (E).
+@@
+@Q MODÜL 3 2026-27 · SORU 39 | BU YIL | YENİ
+@K Aşağıda verilen bilgilerden yola çıkarak doğru şıkkı işaretleyiniz.
+@K I. Sürekli cilt altı insülin infüzyonu yapan pompalarda en çok detemir ve glarjin insülinler tercih edilir.
+@K II. KOAH'lı Tip I diyabet hastalarında inhale insülin preparatları kullanımı tercih edilmelidir.
+@K III. Yetişkin bir erkekte HbA1c değerinin % 5.6 olması diyabet hastalığı varlığına işaret eder.
+@K IV. Pioglitazon, PPARγ reseptörlerini aktive ederek insülin duyarlılığını artırır ve hepatik glukoz üretiminin azalmasına katkıda bulunur.
+A) Yalnız I doğru, diğerleri yanlıştır.
+B) Yalnız II doğru, diğerleri yanlıştır.
+C) Yalnız III doğru, diğerleri yanlıştır.
+D) Yalnız IV doğru, diğerleri yanlıştır. ✓
+E) I-II doğru, diğerleri yanlıştır.
+D doğru (yalnız IV). I yanlış: pompalarda hızlı etkili analoglar (aspart, lispro) kullanılır. II yanlış: KOAH'lı hastada inhale insülin kullanılmaz. III yanlış: HbA1c %5,6 normaldir, diyabet ≥ %6,5'tir. IV doğru: pioglitazon PPAR-γ'yı uyarıp insülin duyarlılığını artırır ve hepatik glukoz üretimini azaltır.
+@@
+@QB DAHA ESKİ SORULAR
+@E BSD 2021-22 S54: GLP-1 agonisti pozitif inotroplar için doğru → insüline dayalı miyokard glukoz alımında artış (kalp yetersizliği bölümünde soruldu).
+@E MSD 3-4 2021-22 S23: GLP-1'i etkinleştiren, sol ventrikül basıncını düzelten pozitif inotropik ilaç → liraglutid. Antidiyabetik ilaçlar ve insülin Modül 3 sınavında önceki yıllarda başlı başına konu olarak sorulmadı; bu yıl iki ayrı bölüm hâlinde (oral ilaçlar ve insülinler) dört soru geldi.

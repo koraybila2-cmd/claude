@@ -1,0 +1,90 @@
+@QB BU YILIN SORULARI
+@Q MODÜL 3 2026-27 · SORU 20 | BU YIL | YENİ
+@K Bir hastada hipolipidemik tedavi sırasında hiperürisemi ve gut açısından özellikle dikkat edilmesi gereken, glisemik kontrolü ve ürik asit düzeyini olumsuz etkileyebilen ilaç aşağıdakilerden hangisidir?
+A) Ezetimib
+B) Niasin ✓
+C) Alirokumab
+D) Kolestiramin
+E) Evolokumab
+B doğru (niasin). Niasin hormon duyarlı lipaz üzerinden etkir; hiperürisemi yapar, gut atağı tetikler ve glisemik kontrolü bozar. Ezetimib (A), alirokumab (C), kolestiramin (D) ve evolokumab (E) için bu uyarılar geçerli değildir.
+@@
+@Q MODÜL 3 2026-27 · SORU 21 | BU YIL | BSD 2024-25 S54 İLE AYNI
+@K Aşağıdaki hipolipidemik ilaç - etki mekanizması eşleştirmelerinden hangisi doğrudur?
+A) Fenofibrat; PPARα (α tipi peroksizom proliferatör aktive reseptör) aktivasyonu ✓
+B) Niasin; safra asitlerini bağlayıp enterohepatik geri dönüşünü engelleme
+C) Kolestipol; PCSK9 (Proprotein konvertaz subtilisin/keksin tip 9) inhibisyonu
+D) Alirokumab; NPC1L1 (Niemann-Pick C1-like) protein ekspresyonunu inhibe etme
+E) Rosuvastatin; hormon duyarlı lipazı baskılama
+@O Önceki yıllar: BSD 2024-25 S54: “ezetimib; NPC1L1 protein ekspresyonunu ve kolesterol emilimini inhibe etme”. BSD 2025-26 S59: fibratlarda anahtar reseptör PPAR-α.
+A doğru. Fenofibrat PPAR-α (α tipi peroksizom proliferatör aktive reseptör) aktivasyonu yapar. Niasin safra asidi bağlamaz (B), kolestipol PCSK9 inhibitörü değildir (C), alirokumab NPC1L1'i baskılamaz, PCSK9'a bağlanır (D), rosuvastatin HMG-CoA redüktazı baskılar, hormon duyarlı lipazı değil (E).
+@@
+@Q MODÜL 3 2026-27 · SORU 23 | BU YIL | MSD-3 2025-26 S37 İLE AYNI
+@K Hipolipidemik ilaçlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?
+A) Ezetimib kullanımında sık görülen riskli etki rabdomiyolizdir.
+B) Safra asidi bağlayan reçineler karaciğerde LDL-R düzeyinin artmasına neden olur. ✓
+C) PCSK9 protein ekspresyonunun artması hipolipidemik etki oluşturur, ancak bu etkiyi sağlayan ilaçlar pahalıdır.
+D) Niasin'in istenmeyen etkileri minimal düzeydedir, ancak efikasite düşüklüğü nedeniyle çok tercih edilmez.
+E) Statinler temel olarak eksojen lipoprotein yolağını etkileyerek hipolipidemik etki oluştururlar.
+@O Önceki yıllar: 2025-26 MSD'de (S37) doğru şık “safra asidi bağlayan reçineler trigliserit düzeyini artırabilir” idi.
+B doğru. Safra asidi bağlayan reçineler safra asidi kaybını artırır; karaciğer yeni safra asidi için kolesterol harcar ve LDL reseptör düzeyini artırır. Ezetimibin sık yan etkisi rabdomiyoliz değildir (A). PCSK9'un baskılanması etkili olan şeydir; artması değil (C). Niasinin yan etkileri belirgindir (D). Statinler endojen yolu hedefler (E).
+@@
+@Q MODÜL 3 2026-27 · SORU 24 | BU YIL | BSD 2024-25 S54 İLE AYNI KONU
+@K Aşağıdaki ilaç hedef eşleştirmelerinden hangisi doğrudur?
+A) Ezetimib - HMG-CoA redüktaz
+B) Gemfibrozil - NPC1L1
+C) Kolestiramin - PCSK9
+D) Evolokumab - ATP-sitrat liyaz
+E) İnklisiran - PCSK9 mRNA'sı ✓
+E doğru. İnklisiran PCSK9 mRNA'sını hedefleyen bir küçük interferans RNA'dır. Ezetimib NPC1L1'i hedefler (A); gemfibrozil PPAR-α agonistidir (B); kolestiramin safra asidi bağlayıcıdır (C); evolokumab PCSK9'a bağlanan antikordur, ATP sitrat liyazı hedefleyen bempedoik asittir (D).
+@@
+@QB GEÇEN YILIN MSD-3 SORULARI (2025-26)
+@Q MODÜL 3 2025-26 · SORU 33 | GEÇEN YIL | 
+@K Monoklonal antikor yapısında olan ve derialtı uygulanan hipolipidemik bir ilaç hangi mekanizma ile etki eder?
+A) NPC1L1 (Niemann Pick C1-like) inhibisyonu
+B) HMG-CoA redüktaz inhibisyonu
+C) LDL reseptör yıkımını engelleme ✓
+D) PPAR-alfa (alfa tipi peroksizom proliferatör aktive reseptör) aktivasyonu
+E) MTTP (mikrozomal trigliserit transfer protein)
+C doğru. Deri altı verilen monoklonal antikor (evolokumab, alirokumab) PCSK9'u bağlayarak LDL reseptör yıkımını engeller.
+@@
+@Q MODÜL 3 2025-26 · SORU 37 | GEÇEN YIL | 
+@K Hipolipidemik ilaçlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?
+A) Safra asidi bağlayan reçineler trigliserit düzeyini artırabilir. ✓
+B) Rabdomiyoliz riskini azaltmak için statin tedavisine fibratlar eklenmelidir.
+C) Niasin NPC1L1 protein ekspresyonunu inhibe ederek kolesterol emilimini artırır.
+D) Kolesevelam PCSK9 inhibitörüdür.
+E) Gebelerde hiperlipidemi tedavisinde statinler tercih edilir.
+A doğru. Safra asidi bağlayan reçineler trigliserit düzeyini artırabilir. Statine fibrat eklemek rabdomiyoliz riskini artırır (B), niasin NPC1L1'i baskılamaz (C), kolesevelam safra asidi bağlar, PCSK9'u değil (D), gebelikte statin kullanılmaz (E).
+@@
+@Q MODÜL 3 2025-26 · SORU 38 | GEÇEN YIL | 
+@K Aşağıdakilerden hangisi Apo-B100'ün rolünü doğru açıklar?
+A) HDL sentezini artırır
+B) VLDL salımını baskılar
+C) LDL'nin hücreye alınmasını sağlar ✓
+D) Şilomikron kalıntılarının yıkımını hızlandırır
+E) Lipoprotein lipaz aktivitesini inhibe eder
+C doğru. Apo B100 LDL'nin LDL reseptörüne bağlanıp hücreye alınmasını sağlar.
+@@
+@Q MODÜL 3 2025-26 · SORU 40 | GEÇEN YIL | 
+@K Aşağıdaki ilaçlardan hangisi, bağırsakta kolesterolün emilimini bloke ederek etki gösterir?
+A) Kolestiramin
+B) Fenofibrat
+C) Niasin
+D) Ezetimib ✓
+E) Alirocumab
+D doğru (ezetimib). Bağırsakta kolesterol emilimini bloke eder.
+@@
+@QB GEÇEN YILIN BLOK SINAVI (2025-26)
+@Q BSD-1 2025-26 · SORU 59 | BLOK SINAVI | 
+@K Fibratların etki mekanizmasında anahtar rol oynayan ve gen ekspresyonu değişikliklerine neden olarak hipolipidemik etki oluşturan reseptör aşağıdakilerden hangisidir?
+A) HMG-KoA (3-hidroksi-3-metilglutaril-koenzimA) redüktaz
+B) MTTP (mikrozomal trigliserit transfer protein)
+C) PPAR-α (α tipi peroksizom proliferatör aktive reseptör) ✓
+D) LDL reseptörü
+E) PCSK9 (proprotein konvertaz subtilisin/keksin tip 9)
+C doğru (PPAR-α). Fibratlar PPAR-α'yı etkinleştirir ve gen ekspresyonu değişiklikleriyle trigliseriti düşürür.
+@@
+@QB DAHA ESKİ SORULAR
+@E BSD 2023-24 S54: Rabdomiyoliz → statinler. BSD 2022-23 S45: Hipolipidemik eşleştirmede yanlış → apo B inhibitörü - apo A1 Milano. BSD 2021-22 S39: Statinde beklenmeyen → bilişsel fonksiyonlarda azalma. BSD 2019-20 S39: ANGPTL3 karşıtı antikor → evinakumab.
+@E MSD-3 2023-24 S15, S17-S19: HMG-CoA redüktaz inhibitörü, ters kolesterol taşınması (HDL), safra asidi bağlayıcı, şilomikron (eksojen yolun ilk elemanı). 2024-25 S15, S18, S19: Safra asidi bağlayıcı, LPL ekspresyonunu değiştiren (fibrat), NPC1L1'i baskılayan (ezetimib).
+@E MSD 3-4 2019-20 S1, S6, S8; 2020-21 S26, S43, S70; 2021-22 S3, S9, S13: Angiopoietin benzeri protein 3 antikoru, ATP sitrat liyaz inhibitörü, NPC1L1, skualen sentaz inhibitörü (zaragozik asit), statinle yetinmeyen durumlarda evolokumab ya da evinakumab, serum digoksin, vankomisin ve tiyazid düzeylerini azaltan kolestiramin.

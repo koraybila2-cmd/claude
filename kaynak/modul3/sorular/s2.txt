@@ -1,0 +1,100 @@
+@QB BU YILIN SORULARI
+@Q MODÜL 3 2026-27 · SORU 13 | BU YIL | MSD 2022-23 S69, 2023-24 S50, 2024-25 S47 VE 2025-26 S18 İLE AYNI
+@K Aşağıdakilerden hangisi miyoglobin için yanlıştır?
+A) İnfarktüsün başlamasından sonra en erken (birkaç saat içinde) artış göstermektedir.
+B) Yükselme zamanının çok kısa olması ve iskelet kasının çok ufak hasarlarında da artması miyoglobinin AMI'deki seri tayinlerinin klinik önemini azaltır.
+C) Miyoglobinin serumda artışı, infarkt alanının yeniden kanlanmasından sonra yavaşlar. ✓
+D) Miyoglobin, miyokard hasarı sonucu hücrelerden salınır ve kana karışır.
+E) Pik seviyesine CK'den daha erken ulaşır.
+@O Önceki yıllar: Aynı soru beş sınavdır soruluyor. 2025-26 MSD'de yanlış şık “yeniden kanlanmasından sonra başlar” idi, 2022-23'te “yavaşlar”.
+C yanlıştır. Reperfüzyondan sonra miyoglobin yavaşlamaz, tersine hızla artar (yıkanma). Miyoglobin infarktüsten birkaç saat içinde en erken yükselen belirteçtir (A), yükselme süresinin kısalığı ve iskelet kası hasarında da artması seri tayinlerin önemini azaltır (B), hasarlı hücrelerden kana karışır (D) ve pik düzeyine CK'den önce ulaşır (E).
+@@
+@Q MODÜL 3 2026-27 · SORU 14 | BU YIL | MSD 2023-24 S47, 2024-25 S48, 2025-26 S17 VE BSD 2025-26 S33 İLE AYNI
+@K Aşağıdakilerden hangi ifade, kardiyak yağ asidi bağlayıcı protein için yanlıştır?
+A) H-FABP hasarlanan miyokarddan salınır.
+B) Enfarktüsün büyüklüğü, H-FABP düzeyinin ölçümü ile AMI'in erken döneminde belirlenebilir.
+C) Düşük molekül ağırlıklı sitozolik proteinlerdir.
+D) H-FABP semptomların başlangıcından itibaren 2 saat içinde plazmaya salınmakta, 4-6 saat içinde pik yapmakta, yaklaşık 20 saat içinde normal bazal değerlerine dönmektedir.
+E) H-FABP, hücreler içinde yağ asidi transportunu sağlar, yağ asidi gen ekspresyonunun düzenlenmesine eşlik eder ve kısa zincirli yağ asitlerinin istenmeyen etkilerine karşı miyositleri korur. ✓
+@O Önceki yıllar: Aynı ifade 2025-26 blok sınavında ve 2025-26 MSD'de yanlış şık olarak geçti.
+E yanlıştır. H-FABP uzun zincirli yağ asitlerini hücre içinde taşır ve miyositleri onların zararlı etkisinden korur; “kısa zincirli” ifadesi yanlıştır. Diğer şıklar doğrudur: hasarlı miyokarddan salınır (A), enfarkt büyüklüğü erken dönemde ölçülebilir (B), düşük molekül ağırlıklı sitozolik proteindir (C), 2 saatte salınır, 4-6 saatte pik yapar, yaklaşık 20 saatte normale döner (D).
+@@
+@Q MODÜL 3 2026-27 · SORU 15 | BU YIL | MSD 2020-21 S7, 2023-24 S49, 2024-25 S50, 2025-26 S20 VE BSD 202223, 2023-24 İLE AYNI
+@K İMA (iskemi modifiye albumin) hakkında doğru olan ifade hangisidir?
+A) AMI'de, EKG ve troponinle birlikte değerlendirildiğinde, %95'lik bir spesifisiteye sahiptir.
+B) Akut koroner sendromlu hastaların tanısında duyarlılığı %42 olarak belirlenmiştir.
+C) Normal insan serum albuminin serbest radikallerin, daha çok hidroksil radikalinin etkisiyle, C-terminal bölgesinde yapısal değişiklik meydana gelerek oluşur.
+D) İMA; akut koroner sendromda, miyokardiyal iskemi belirteci olarak, acil servislerde kullanılabileceği yönünde FDA lisansı almıştır. ✓
+E) İMA, göğüs ağrısı başladıktan 2 saat sonra, serumda tespit edilebilir.
+@O Önceki yıllar: Aynı doğru şık 2022-23, 2023-24 blok sınavlarında ve 2023-24, 2024-25, 2025-26 MSD'de soruldu.
+D doğru. İMA akut koroner sendromda miyokardiyal iskemi belirteci olarak acil servislerde kullanılabileceği yönünde FDA lisansı almıştır. Yanlış şıklar: İMA'nın %95 olan değeri duyarlılıktır, özgüllük değil (A); duyarlılık %42 değil, EKG ve troponinle birlikte yaklaşık %95'tir (B); değişiklik C-terminal değil N-terminal bölgede olur (C); göğüs ağrısından dakikalar sonra, 2 saat beklemeden saptanır (E).
+@@
+@Q MODÜL 3 2026-27 · SORU 16 | BU YIL | KAYNAK NOTU: 2025-26 S19'DAKİ ANAHTARLA ÇELİŞİYOR
+@K Aşağıdakilerden hangisi AMI tanısında, ideal bir belirleyicinin kriterleri içinde yer almaz?
+A) Serum konsantrasyonu, miyokard içi konsantrasyonunun birkaç katı olmalıdır. ✓
+B) İnfarktüse ya da en azından miyokarda spesifik olmalıdır.
+C) Acil laboratuvarına elverişli bir metodu bulunmalıdır.
+D) Hem erken hem geç getirilen hastalar için yeterli tanı koydurucu zaman aralığına sahip olmalıdır.
+E) Sensitivitesi enzim konsantrasyonlarındaki çok düşük değişiklikleri tespit etmeye izin vermelidir.
+A ideal belirteç kriterlerinde yer almaz. İdeal belirteçte miyokard içi konsantrasyon serum konsantrasyonunun birkaç katı olmalıdır; şıktaki ifade ters yazılmıştır. Özgüllük (B), acil laboratuvara uygun yöntem (C), hem erken hem geç gelenlerde tanı koydurucu zaman aralığı (D) ve düşük değişimleri saptayacak duyarlılık (E) ideal belirteç kriterleridir. Kaynak notu: 2025-26 MSD'de aynı ters ifade “yer alması gereken özellik” sorusunun doğru şıkkı olarak kayıtlıdır (S19); o soruda anahtar, soru köküyle çelişiyor görünüyor. 2023-24 ve 2024-25'te kök “kriterlerinden olmayan” idi.
+@@
+@QB GEÇEN YILIN MSD-3 SORULARI (2025-26)
+@Q MODÜL 3 2025-26 · SORU 8 | GEÇEN YIL | 
+@K Aşağıdakilerden hangisi miyokard infarktüsü sırasında yükselen enzimlerdendir?
+A) CK-MB
+B) Troponin I
+C) Troponin T
+D) Miyoglobin
+E) Üre ✓
+E doğru. MI'da CK-MB, troponin I, troponin T ve miyoglobin yükselir; üre yükselmez.
+@@
+@Q MODÜL 3 2025-26 · SORU 17 | GEÇEN YIL | 
+@K Kardiyak yağ asidi bağlayıcı proteini (H-FABP) ile ilgili yazılan aşağıdaki ifadelerden hangisi yanlıştır?
+A) H-FABP hasarlanan miyokarddan salınır.
+B) Düşük molekül ağırlıklı sitozolik proteinlerdir.
+C) Enfarktüsün büyüklüğü, H-FABP düzeyinin ölçümü ile AMI'ın erken dönemi belirlenebilir.
+D) H-FABP semptomların başlangıcından itibaren 2 saat içinde plazmaya salınır. 6 saat içinde pik yapmakta, yaklaşık 20 saat içinde normal bazal değerlerine dönmektedir.
+E) H-FABP, hücreler içinde yağ asidi transportunu sağlar, yağ asidi gen ekspresyonlarını düzenlenmesine eşlik eder ve kısa zincirli yağ asitlerinin istenmeyen etkilerine karşı miyositleri korur. ✓
+E yanlıştır. Bu yılın 14. sorusuyla aynıdır (kısa zincirli yağ asitleri).
+@@
+@Q MODÜL 3 2025-26 · SORU 18 | GEÇEN YIL | 
+@K Miyoglobin hakkında yanlış olan hangisidir?
+A) Miyoglobinin serumda artışı, infarkt alanının yeniden kanlanmasından sonra başlar. ✓
+B) Yükselme zamanının çok kısa olması ve iskelet kasının çok ufak hasarlarında bile artması miyoglobinin AMI'deki seri tayinlerinin klinik önemini azaltır.
+C) İnfarktüsün başlamasından sonra en erken (birkaç saat içinde) artış gösterir.
+D) Miyoglobin, myokard hasarı sonucu hücrelerden salınır ve kana karışır.
+E) Pik seviyesine CK'den daha erken ulaşır.
+A yanlıştır. Bu yılın 13. sorusuyla aynı bilgi: miyoglobin reperfüzyondan sonra yükselmeye başlamaz; infarktüsten birkaç saat içinde artar.
+@@
+@Q MODÜL 3 2025-26 · SORU 19 | GEÇEN YIL | 
+@K Akut miyokard infarktüsü tanısında, ideal belirleyicinin kriterleri içinde yer alması gereken özelliklerden biri aşağıdakilerden hangisidir?
+A) Sensitivitesi enzim konsantrasyonlarındaki çok düşük değişiklikleri tespit etmeye elverişli olmalıdır.
+B) İnfarktüse ya da en azından myokardda spesifik olmalıdır.
+C) Acil laboratuvarına elverişli bir metodu bulunmalıdır.
+D) Serum konsantrasyonu, miyokard içi konsantrasyonunun birkaç katı olmalıdır. ✓
+E) Hem erken hem geç getirilen hastalar için yeterli tanı koydurucu zaman aralığı olmalıdır.
+D doğru (anahtara göre). Soru kökü ideal belirteçte yer alması gereken özelliği sorar, ama anahtardaki şık (serum konsantrasyonunun miyokard içi konsantrasyonun birkaç katı olması) ideal ilkenin tersini yazar. Bu yılın 16. sorusunda aynı şık “yer almaz” olarak doğru kabul edildi.
+@@
+@Q MODÜL 3 2025-26 · SORU 20 | GEÇEN YIL | 
+@K IMA (İskemi Modifiye Albumin) hakkında, aşağıdakilerden hangisi doğrudur?
+A) AMI'de, EKG ve troponinle birlikte değerlendirildiğinde, % 95'lik bir spesifiteye sahiptir.
+B) IMA; akut koroner sendromda, miyokardiyal iskemiyi belirteci olarak, acil servislerde kullanılabileceği yönünde FDA lisansı almıştır. ✓
+C) Normal insan serum albumininin serbest radikallerin, daha çok hidroksil radikallerin etkisiyle, C-terminal bölgesinde yapısal değişikliklerin meydana gelerek oluşur.
+D) Akut koroner sendromlu hastaların tanısında duyarlılığı %42 olarak belirlenmiştir.
+E) IMA, göğüs ağrısı başladıktan 2 saat sonra, serumda tespit edilebilir.
+B doğru. İMA için FDA lisansı vardır. Bu yılın 15. sorusuyla aynıdır.
+@@
+@QB GEÇEN YILIN BLOK SINAVI (2025-26)
+@Q BSD-1 2025-26 · SORU 33 | BLOK SINAVI | 
+@K Kardiyak yağ asidi bağlayıcı protein (H-FABP) ile ilgili yanlış olan hangisidir?
+A) H-FABP hasarlanan miyokarddan salınır.
+B) H-FABP, hücreler içinde yağ asidi transportunu sağlar, yağ asidi gen ekspresyonunun düzenlenmesine eşlik eder ve kısa zincirli yağ asitlerinin istenmeyen etkilerine karşı miyositleri korur. ✓
+C) Düşük molekül ağırlıklı sitozolik proteinlerdir.
+D) H-FABP semptomların başlangıcından itibaren 2 saat içinde plazmaya salınmakta, 4-6 saat içinde pik yapmakta, yaklaşık 20 saat içinde normal bazal değerlerine dönmektedir.
+E) Enfarktüsün büyüklüğü, H-FABP düzeyinin ölçümü ile AMI'nin erken döneminde belirlenebilir.
+B yanlıştır. H-FABP uzun zincirli yağ asitlerini taşır; “kısa zincirli” ifadesi yanlıştır. Bu yılın 14. sorusuyla aynıdır.
+@@
+@QB DAHA ESKİ SORULAR
+@E BSD 2019-20 S97: “AMI'den 4-8 saat sonra yükselmeye başlar, 14-36. saatte pik yapar, yüksek değerler 2 hafta sürer” → cTnI. BSD 2022-23 S96, 2023-24 S97: İMA için doğru → FDA lisansı.
+@E MSD 3-4 2022-23 S70: Göğüs ağrısı başladıktan sonra dakikalar içinde serumda saptanan parametre → İMA. MSD 3-4 2020-21 S46: Pik 14-36. saatte, yüksek değerler 2 hafta → cTnI.
+@E MSD-3 2023-24 S47-S50, 2024-25 S47-S50: Miyoglobin, H-FABP, ideal belirteç ve İMA; her iki yılda dört soru, hep aynı sırayla.
