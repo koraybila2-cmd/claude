@@ -1,4 +1,4 @@
-# Angina Pektoris ve Akut Koroner Sendrom | Bu yıl 6 soru (S1-S6), geçen yıl 7 soru. Anginanın tanımı ve özellikleri hemen her yıl soruluyor. Önce konu, sonra çıkmış sorular.
+# Angina Pektoris ve Akut Koroner Sendrom | Bu yıl 6 soru (S1-S6), geçen yıl 7 soru. Anginanın tanımı ve özellikleri hemen her yıl soruluyor. Önce konu, sonra çıkmış sorular. || Modül 3 · Bölüm 1
 
 ## 1. Temel fikir: arz-talep dengesi
 Kalp kası neredeyse yalnızca oksijenli solunumla çalışır ve dinlenirken bile koroner kandaki oksijenin yaklaşık %70'ini çeker. Daha fazla oksijen gerektiğinde kandan daha çok çekemez; tek çaresi **koroner akımı artırmaktır**. Koroner akım da büyük ölçüde **diyastolde** olur, çünkü sistolde kasılan miyokard kendi damarlarını sıkıştırır. Bu iki bilgi bütün konunun anahtarıdır:

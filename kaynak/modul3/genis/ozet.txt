@@ -1,0 +1,105 @@
+# Ezber Özeti: Sınavdan Önce Son Bakış | Bölümlerin en çok sorulan bilgileri tek satırlık maddeler hâlinde. Sınavdan önceki gün yalnızca bu sayfaları okuyun; takıldığınız maddede ilgili bölüme dönün. || Modül 3 · Ezber özeti
+
+## 1. Angina ve akut koroner sendrom
+- **Angina:** eforla artan, dinlenmekle ya da nitratla dakikalar içinde geçen, göğüste **baskı-yanma** tarzı ağrı. **Bıçak saplanır, iğne batar, saniyeler süren, nefesle ya da öne eğilmekle değişen** ağrı anginal değildir.
+- **Angina eşdeğeri:** eforla nefes darlığı, yorgunluk, terleme (diyabetik, yaşlı, kadın).
+- **Stabil:** aynı eforla, değişmeyen. **Kararsız:** yeni başlayan, kreşendo, istirahatte; **troponin normal**. **Prinzmetal:** spazm, gece, ST yükselmesi; kalsiyum kanal blokeri verilir, beta bloker verilmez.
+- **NSTEMI:** troponin yüksek, ST yükselmesi yok; **trombolitik verilmez**. **STEMI:** ST yükselmesi; lokalizasyon yapılır; primer girişim ya da trombolitik.
+- V1-V4 **LAD** (ön), II-III-aVF **RCA** (alt), I-aVL-V5-V6 **LCx** (yan). Üç ana koroner damar vardır.
+- Akut MI'da **efor testi yapılmaz**; EKO'da duvar hareket bozukluğu vardır; enzimler yükselir; nitrat ağrıyı hafifletir.
+- MI tip 3 = **ani kardiyak ölüm**. MI'da kalp yetersizliğinin mekanizması = pompa yetersizliği.
+- Yaşamı uzatanlar: **aspirin, beta bloker, statin, ACE inhibitörü**. Nitrat yalnız belirtiyi giderir.
+- **Anahtar notu:** bu yıl “anginada yanlış ilaç” = dihidropiridin; “STEMI'de yanlış” = GP IIb/IIIa antagonisti.
+
+## 2. Kardiyak biyobelirteçler
+- Sıra: **İMA** (dakikalar; iskemi) → **miyoglobin** (1-3 saat; en erken, özgül değil) → **H-FABP** (2 saat) → **CK-MB** (4-6 saat; 2-3 günde normal; **reinfarkt**) → **troponin** (4-8 saat; tepe 14-36 saat; **2 hafta**; en özgül).
+- **Miyoglobin:** tepeye CK'den önce ulaşır; seri ölçümü önemini yitirmiştir; reperfüzyonda **daha hızlı yükselir** (“yavaşlar” ve “başlar” yanlış).
+- **H-FABP:** düşük molekül ağırlıklı sitozolik; **uzun zincirli** yağ asitlerini taşır; enfarkt büyüklüğünü erken gösterir.
+- **İMA:** albüminin N-ucu kobalt bağlayamaz; FDA onaylı; EKG + troponinle duyarlılık ~%95; özgüllüğü düşük.
+- **İdeal belirteç:** özgül, **miyokardda serumdan birkaç kat yoğun**, erken ve geç tanı aralığı, acil laboratuvara uygun, duyarlı. Ters cümle (“serumda miyokarddan birkaç kat”) ölçüt değildir.
+- Üre ve kreatinin MI enzimi değildir.
+
+## 3. Aritmi mekanizmaları
+- Ventrikül AP: **faz 0 Na⁺**, faz 2 Ca²⁺ (plato), **faz 3 K⁺**. Düğümlerde **faz 0 Ca²⁺**, faz 4 kendiliğinden depolarizasyon (I<sub>f</sub>).
+- **Otomatisite:** sinüs taşikardisi. **Tetiklenmiş aktivite:** EAD → uzun QT, torsades; DAD → digoksin. **Re-entry:** AVNRT, AVRT, flutter, AF, skar VT'si, VF.
+- “Re-entry ile oluşmayan” = **sinüs taşikardisi**.
+- Genetik kanal bozukluğu + uzun repolarizasyon = **torsades de pointes**; tedavi **magnezyum**.
+- AV düğüm dışında ek yol = **AVRT** (WPW: kısa PR, delta dalgası). WPW + AF'de digoksin ve verapamil verilmez.
+- **AF:** düzensiz RR, P yok; atriyal fibroz ve heterojen iletim → re-entry; refrakter dönem kısalır (“AF AF'yi doğurur”); **sol atriyal apendikste** trombüs → inme.
+- AF'nin EF'yi düşürmesi: taşikardik kardiyomiyopati + atriyal tekme kaybı + nörohormonal etkinleşme; ritim düzelince EF düzelir.
+- Pulmoner hipertansiyon: sağ ventrikül afterload ↑ → RV-PA uyumsuzluğu → septum sola itilir (D biçimi) → sol ventrikül dolumu ↓.
+
+## 4. Kalp yetersizliği, ACE inhibitörleri, diüretikler
+- EF < %40 sistolik; korunmuş EF diyastolik. Evre A risk, B yapısal, C belirtili, D dirençli.
+- Sol: ortopne, ral. Sağ: juguler dolgunluk, ödem, asit.
+- Yaşamı uzatan: **ACE inhibitörü/ARB/ARNI, beta bloker (metoprolol, bisoprolol, karvedilol), aldosteron antagonisti, SGLT2 inhibitörü**. Diüretik ve digoksin uzatmaz.
+- **Digoksin:** Na-K ATPaz inhibisyonu → hücre içi Ca²⁺ ↑. Hipokalemi toksisiteyi artırır; kinidin, verapamil, amiodaron düzeyini artırır.
+- **Levosimendan:** troponin C'ye bağlanır, kalsiyuma duyarlılaştırır, ATP tüketimini artırmaz. **Nesiritid:** BNP analoğu. Milrinon: PDE3. Dobutamin: β1.
+- **ACE inhibitörü:** anjiyotensin II ↓, **bradikinin ↑** (kuru öksürük, anjiyoödem); hiperkalemi; **gebelik ve bilateral renal arter stenozunda kontrendike**; remodelingi **önler**.
+- **Kaptopril:** sülfhidril, hızlı ve kısa etkili, döküntü ve tat bozukluğu, aktif ilaç. **Lisinopril:** aktif ilaç. **Ramipril, enalapril:** önilaç. **Fosinopril:** böbrek + karaciğerle atılır.
+- **Asetazolamid:** karbonik anhidraz inhibitörü; metabolik asidoz, böbrek taşı; alkalozlu kalp yetersizliğinde yardımcı.
+- Kıvrım diüretiği: Na-K-2Cl, hipokalsemi. Tiyazid: Na-Cl, hiperkalsemi. Spironolakton: hiperkalemi, jinekomasti.
+
+## 5. Antianjinal ilaçlar
+- **Nitrat:** NO → guanilat siklaz → **cGMP** ↑; venler baskın (**preload ↓**), yüksek dozda afterload ↓ → **ikisine birden etkili tek grup**. Tiyol gerekir; tolerans için 8-12 saat nitratsız aralık; sildenafille verilmez; dil altı ilk geçişe uğramaz.
+- **Beta bloker:** hız ve kontraktilite ↓, diyastol uzar; **vazospastik anginada sakıncalı**.
+- **Kalsiyum kanal blokerleri:** kalpten damara **verapamil → diltiazem → dihidropiridin**. Verapamilin farkı: **AV iletiyi azaltır**; kabızlık. Dihidropiridin: refleks taşikardi, ayak bileği ödemi.
+- **İvabradin:** sinüs düğümünde **I<sub>f</sub> (HCN)** inhibisyonu; yalnız hızı düşürür. **Ranolazin:** geç sodyum akımı; QT uzatır. **Nikorandil:** K<sub>ATP</sub> açıcı + nitrat. **Trimetazidin:** yağ asidi oksidasyonu ↓.
+- Verapamil + beta bloker = AV blok riski.
+
+## 6. Antiaritmik ilaçlar
+- **Ia** kinidin, prokainamid, disopiramid (QT ↑). **Ib** lidokain, meksiletin (QT ↓; ventriküler, iskemi). **Ic** flekainid, propafenon (MI sonrası verilmez). **II** beta bloker. **III** amiodaron, sotalol, dofetilid, ibutilid, dronedaron, vernakalant (QT ↑). **IV** verapamil, diltiazem.
+- **Amiodaron:** iyotlu, tiroksine benzer, yarı ömür 40-60 gün; akciğer fibrozu, hipo/hipertiroidi, kornea depoziti, gri-mavi deri, ışığa duyarlılık, karaciğer; varfarin ve digoksini artırır.
+- **Vernakalant:** atriyum seçici, K⁺ kanalı; yeni başlamış AF'de yalnız intravenöz; hipotansiyon, aort darlığı, uzun QT'de kontrendike.
+- **Adenozin:** A1 reseptörü, AV düğümü durdurur; SVT'de ilk ilaç; yarı ömür saniyeler; metilksantinler etkisini keser; bronkospazm.
+- **QT uzatan:** sınıf Ia, III, makrolid, florokinolon, azol, trisiklik, antipsikotik, ondansetron. **QT kısaltan:** sınıf Ib, digoksin. Kısaltan çift: **lidokain + aminofilin**.
+- Diltiazemin biyoyararlanımı verapamilden fazla; verapamilin proteine bağlanması diltiazemden fazla; klaritromisin CYP3A4'ü **inhibe eder**; ikisi de kardiyojenik şok ve ileri AV blokta kontrendike.
+- Disopiramid (Na⁺ kanalı, AP süresi ↑) – ivabradin (HCN) – rotigaptid (gap junction).
+- Prokainamid: ilaca bağlı lupus. Torsades: magnezyum, izoproterenol.
+
+## 7. Hipolipidemik ilaçlar
+- **Statin:** HMG-CoA redüktaz (endojen sentez) → LDL reseptörü ↑; **rabdomiyoliz** (gemfibrozille artar); gebelikte yasak.
+- **Ezetimib:** bağırsakta **NPC1L1**.
+- **Reçineler** (kolestiramin, kolestipol, kolesevelam): safra asidini bağlar → **LDL reseptörü artar**; trigliserit ↑; ilaç emilimini azaltır.
+- **Fibratlar** (fenofibrat, gemfibrozil): **PPAR-α** → LPL ↑; trigliseriti en çok düşürür; LPL eksikliğinde etkisiz.
+- **Niasin:** hormona duyarlı lipaz ↓; HDL'yi en çok artırır; **flushing, hiperürisemi-gut, hiperglisemi**.
+- **Evolokumab, alirokumab:** PCSK9 antikoru. **İnklisiran:** PCSK9 mRNA'sına siRNA.
+- Bempedoik asit: ATP sitrat liyaz. Lomitapid: MTTP. Mipomersen: apo B antisens. Evinakumab: ANGPTL3.
+
+## 8. Antidiyabetikler ve insülin
+- **Metformin:** hepatik glukoz üretimi ↓; hipoglisemi yok; laktik asidoz, B12 eksikliği.
+- **Sülfonilüre:** K<sub>ATP</sub> kanalını kapatır; hipoglisemi, kilo. **Gliklazid:** ek olarak antiagregan ve fibrinolitik etki.
+- **Pioglitazon:** PPAR-γ; ödem, kalp yetersizliği. **Akarboz, miglitol:** α-glukozidaz. **-gliptin:** DPP-4. **-glutid:** GLP-1. **Tirzepatid:** GLP-1 + GIP. **-gliflozin:** SGLT-2 (kalp yetersizliği ve böbrekte yararlı; genital enfeksiyon, ketoasidoz).
+- **İnsülinler:** hızlı (aspart, lispro, glulisin; pompa) < regüler (damardan, gebelikte) < **NPH (tepe yapar)** < uzun (glarjin, detemir, degludek; tepe yok) < **icodec (haftalık)**.
+- İnhale insülin astım ve KOAH'ta kontrendike. **HbA1c ≥ %6,5 diyabet**, %5,7-6,4 prediyabet, %5,6 normal.
+
+## 9. Antitrombotik ilaçlar
+- **Aspirin:** COX-1, geri dönüşümsüz. **Klopidogrel, prasugrel:** önilaç, P2Y12, geri dönüşümsüz. **Tikagrelor:** aktif, **geri dönüşümlü**. **Absiksimab, tirofiban, eptifibatid:** GP IIb/IIIa.
+- **Heparin:** antitrombin III'ü **etkinleştirir**; Xa = IIa; aPTT; protamin; HIT; gebelikte kullanılır.
+- **DMAH** (enoksaparin, nadroparin): Xa > IIa; deri altı biyoyararlanım ~%90; izlem gerekmez; gebelikte kullanılır; protamin kısmi.
+- **Fondaparinuks:** antitrombin aracılığıyla yalnız Xa.
+- **Rivaroksaban, apiksaban, edoksaban:** doğrudan Xa, ağızdan.
+- **Dabigatran:** doğrudan trombin (serbest + bağlı), ağızdan; %80 böbrek; ketokonazolle kontrendike; ameliyat sonrası venöz tromboz profilaksisi. **Bivalirudin, argatroban:** parenteral trombin inhibitörü.
+- **Varfarin:** II, VII, IX, X; PT/INR; teratojen; karbamazepin ve rifampisin etkisini azaltır; antidot K vitamini.
+- **Fibrinolitikler:** plazminojen → plazmin; streptokinaz fibrine seçici değil ve antijenik; alteplazın yarı ömrü kısa; yan etki kanama.
+- Stent sonrası: aspirin + klopidogrel.
+
+## 10. Hemostaz, tromboz, emboli, ödem
+- Sıra: **vazokonstriksiyon → adezyon (vWF–GP Ib) → sekresyon (ADP, TXA2) → agregasyon (fibrinojen–GP IIb/IIIa) → pıhtılaşma (fibrin)**.
+- Endotel antitrombotik: PGI2, NO, ADPaz, heparan sülfat, trombomodulin, t-PA. Protrombotik: vWF, doku faktörü, PAI-1. **Trombosit kontraksiyonu endotel işi değildir.**
+- vWF eksikliği: **adezyon** bozuk; burun ve adet kanaması, peteşi; trombosit sayısı normal.
+- **Virchow:** endotel hasarı (arter), staz (ven), hiperkoagülabilite (en sık kalıtsal: faktör V Leiden).
+- **Arteriyel trombüs:** gri-beyaz, akıma ters büyür, enfarkt. **Venöz trombüs:** kırmızı, **akımla aynı yönde** büyür, akciğer embolisi. DVT'de en önemli risk: **immobilizasyon**.
+- Akıbet: propagasyon, embolizasyon, dissolüsyon, organizasyon ve **rekanalizasyon** (yeni damarlarla akımın yeniden kurulması).
+- Emboli: en sık tromboemboli; yağ (uzun kemik kırığı), hava, amniyon sıvısı, paradoksal.
+- **Beyaz enfarkt:** kalp, dalak, böbrek. **Kırmızı enfarkt:** akciğer, bağırsak, ven tıkanması.
+- **Ödem:** hidrostatik basınç ↑ (venöz dönüş bozukluğu: kalp yetersizliği, ven trombozu; venöz dönüşten bağımsız: **nörohümoral disregülasyon**), onkotik basınç ↓ (siroz, nefrotik sendrom), lenfatik tıkanma (portakal kabuğu, filaryaz), geçirgenlik ↑ (iltihap). ATP bağımlı kalsiyum kanalı ödem nedeni değildir.
+- **Transüda** özgül ağırlık < 1012, protein az; **eksüda** > 1020, protein çok. Hiperemi aktif ve kırmızı; konjesyon pasif ve mavimsi.
+
+## 11. Miyokard enfarktüsünün patolojisi
+- En sık neden koroner tromboz. İskemi **subendokarddan** başlar, subepikarda ilerler. Proksimal tıkanma daha büyük enfarkt yapar.
+- İlk 20-30 dakika geri dönüşümlü; nekroz 3-6 saatte en geniş hâline ulaşır; bulgular 4. saatten sonra görülmeye başlar.
+- **12-24 saat** nötrofil başlar → **1-3 gün** yoğun nötrofil → **3-7 gün** makrofaj (duvar en yumuşak) → **7-10 gün** granülasyon dokusu → **2 hafta-2 ay** skar.
+- **11. günde nötrofil görülmez**; makrofaj, yeni damar, granülasyon dokusu, fibroblast görülür.
+- **Kardiyak rüptür 3-7. gün:** hemoperikard ve tamponad; otopside **dens skar yoktur**. Septum rüptürü VSD, papiller kas rüptürü akut mitral yetersizliği yapar.
+- İlk saatlerde ölüm nedeni aritmi (VF); perikardit 1-3 gün; Dressler haftalar sonra; anevrizma haftalar-aylar; mural trombüs emboli atar.

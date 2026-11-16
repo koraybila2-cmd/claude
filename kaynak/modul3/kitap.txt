@@ -1,0 +1,35 @@
+= Modül 3 Tek Kitap
+~ Kardiyovasküler sistem · Ayrıntılı anlatım, çıkmış sorular ve ezber özeti · 2026-27
+# Bu kitap nasıl kullanılır? | Her bölümde önce konu tek bir yerde, ayrıntılı ve adım adım anlatılır; ardından o konunun çıkmış soruları çözümleriyle gelir. Kitabın sonunda yalnızca ezber için hazırlanmış kısa bir özet bulunur. || Modül 3 · 2026-27
+## Düzen
+1. **Konu anlatımı:** Mekanizmalar adım adım, “neden öyle?” sorusunun cevabıyla anlatılır. Kısa tekrar ile ayrıntılı anlatım ayrı değildir; hepsi tek metindedir.
+2. **Çıkmış sorular:** Bölümün sonunda sırasıyla bu yılın MSD soruları (2026-27), geçen yılın MSD soruları, geçen yılın blok sınavı ve daha eski soruların özeti yer alır. Her kartta doğru şık işaretlidir, altında önceki yıllarla karşılaştırma ve çözüm vardır.
+3. **Ezber özeti:** Kitabın son bölümü; her bölümün sınavda en çok sorulan bilgileri tek satırlık maddelerle.
+!! “Sınav notu” kutuları çıkmış sorularda doğrudan kullanılan bilgiyi, en sık çeldiricileri ve cevap anahtarının standart bilgiyle çeliştiği yerleri gösterir.
+?? “Ezber ipucu” kutuları kısaltma, benzetme ve kodlamalarla akılda tutmayı kolaylaştırır.
+## Bu yılın 50 sorusunun bölümlere dağılımı
+| Bölüm | Konu | Bu yıl | Sorular |
+| 1 | Angina pektoris ve akut koroner sendrom | 6 | S1-S6 |
+| 2 | Kardiyak biyobelirteçler | 4 | S13-S16 |
+| 3 | Aritmi mekanizmaları ve klinik aritmiler | 5 | S7, S8, S9, S11, S12 |
+| 4 | Kalp yetersizliği, ACE inhibitörleri ve diüretikler | 4 | S10, S27, S30, S35 |
+| 5 | Antianjinal ilaçlar | 4 | S17, S18, S19, S22 |
+| 6 | Antiaritmik ilaçlar | 4 | S26, S29, S31, S32 |
+| 7 | Hipolipidemik ilaçlar | 4 | S20, S21, S23, S24 |
+| 8 | Antidiyabetik ilaçlar ve insülin | 4 | S25, S28, S36, S39 |
+| 9 | Antitrombotik, antikoagülan ve fibrinolitik ilaçlar | 4 | S33, S34, S37, S38 |
+| 10 | Hemostaz, tromboz, emboli ve ödem | 8 | S40, S41, S43, S44, S45, S47, S48, S49 |
+| 11 | Miyokard enfarktüsünün patolojisi | 3 | S42, S46, S50 |
+|= Farmakoloji 24 soruyla sınavın yarısına yakınını oluşturuyor; patoloji 11, klinik ve biyokimya 15 soru.
+@EKLE genis/b1.txt
+@EKLE genis/b2.txt
+@EKLE genis/b3.txt
+@EKLE genis/b4.txt
+@EKLE genis/b5.txt
+@EKLE genis/b6.txt
+@EKLE genis/b7.txt
+@EKLE genis/b8.txt
+@EKLE genis/b9.txt
+@EKLE genis/b10.txt
+@EKLE genis/b11.txt
+@EKLE genis/ozet.txt

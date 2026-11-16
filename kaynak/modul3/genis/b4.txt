@@ -1,4 +1,4 @@
-# Kalp Yetersizliği, ACE İnhibitörleri ve Diüretikler | Bu yıl 4 soru (S10, S27, S30, S35), geçen yıl 7 soru. Beş öncüllü ACE inhibitörü sorusu üç yıl aralıksız geldi; ilaç tanıma soruları (levosimendan, asetazolamid, kaptopril) tırnak içinde tanım verip ilacı soruyor.
+# Kalp Yetersizliği, ACE İnhibitörleri ve Diüretikler | Bu yıl 4 soru (S10, S27, S30, S35), geçen yıl 7 soru. Beş öncüllü ACE inhibitörü sorusu üç yıl aralıksız geldi; ilaç tanıma soruları (levosimendan, asetazolamid, kaptopril) tırnak içinde tanım verip ilacı soruyor. || Modül 3 · Bölüm 4
 
 ## 1. Kalp yetersizliği nedir?
 Kalbin, dokuların gereksinimini karşılayacak kanı pompalayamaması ya da bunu ancak yüksek dolum basınçlarıyla yapabilmesidir. Kalp debisi = atım hacmi × kalp hızı; atım hacmini üç şey belirler: **preload** (diyastol sonu doluş), **afterload** (ventrikülün karşısındaki direnç) ve **kontraktilite**.

@@ -1,4 +1,4 @@
-# Antiaritmik İlaçlar | Bu yıl 4 soru (S26, S29, S31, S32), geçen yıl 6 soru; her yıl 4-6 soru. Sınıflama, QT'yi uzatan-kısaltan ilaçlar, amiodaron, vernakalant ve adenozin sabit konular. Aksiyon potansiyeli fazları için Bölüm 3'e bakın.
+# Antiaritmik İlaçlar | Bu yıl 4 soru (S26, S29, S31, S32), geçen yıl 6 soru; her yıl 4-6 soru. Sınıflama, QT'yi uzatan-kısaltan ilaçlar, amiodaron, vernakalant ve adenozin sabit konular. Aksiyon potansiyeli fazları için Bölüm 3'e bakın. || Modül 3 · Bölüm 6
 
 ## 1. Vaughan Williams sınıflaması: hangi faz, hangi kanal?
 Sınıflamayı ezberlemenin yolu, her sınıfı aksiyon potansiyelinin bir fazına bağlamaktır (Şekil 3.A): **sınıf I faz 0** (sodyum), **sınıf II faz 4** (düğümlerde sempatik etki), **sınıf III faz 3** (potasyum), **sınıf IV düğümlerde faz 0** (kalsiyum).

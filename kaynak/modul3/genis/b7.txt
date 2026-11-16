@@ -1,4 +1,4 @@
-# Hipolipidemik İlaçlar | Bu yıl 4 soru (S20, S21, S23, S24), geçen yıl 4 soru; hep dört soru. Soruların tamamı “ilaç – mekanizma – yan etki” eşleştirmesidir; yanlış şıklar ilaçların mekanizmalarını birbirine karıştırır.
+# Hipolipidemik İlaçlar | Bu yıl 4 soru (S20, S21, S23, S24), geçen yıl 4 soru; hep dört soru. Soruların tamamı “ilaç – mekanizma – yan etki” eşleştirmesidir; yanlış şıklar ilaçların mekanizmalarını birbirine karıştırır. || Modül 3 · Bölüm 7
 
 ## 1. Lipoproteinler: yağın kandaki taşıtları
 Yağ suda çözünmez; kanda **lipoprotein** paketleri içinde taşınır. Paketin çekirdeğinde trigliserit ve kolesterol esteri, kabuğunda fosfolipit ve **apoprotein** bulunur. Üç yolu bilmek, ilaçların nerede etki ettiğini anlamak için yeterlidir.

@@ -1,0 +1,35 @@
+<svg viewBox="0 0 720 250" width="100%" style="display:block;font-family:Source Serif 4,Georgia,serif" role="img" aria-label="Ventrikul ve sinus dugumu aksiyon potansiyelleri ve antiaritmik siniflar">
+<defs><marker id="ok" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a3533"/></marker></defs>
+<text x="200" y="22" text-anchor="middle" font-size="12" font-weight="700" fill="#3a3533">Ventrikül hücresi (hızlı yanıt)</text>
+<polyline points="50.0,210.0 90.0,210.0 96.0,70.0 108.0,88.0 200.0,102.0 255.0,210.0 340.0,210.0" fill="none" stroke="#3a3533" stroke-width="2.4" stroke-linejoin="round"/>
+<line x1="50" y1="210" x2="350" y2="210" stroke="#d9d4cf" stroke-dasharray="3 3"/>
+<text x="44" y="214" text-anchor="end" font-size="9.5" font-weight="400" fill="#3a3533">−90 mV</text>
+<text x="44" y="74" text-anchor="end" font-size="9.5" font-weight="400" fill="#3a3533">+20</text>
+<text x="80" y="145" text-anchor="end" font-size="10.5" font-weight="700" fill="#3a3533">Faz 0</text>
+<text x="80" y="157" text-anchor="end" font-size="9.5" font-weight="400" fill="#3a3533">Na⁺ girişi</text>
+<text x="122" y="66" text-anchor="start" font-size="10.5" font-weight="700" fill="#3a3533">Faz 1</text>
+<text x="122" y="78" text-anchor="start" font-size="9.5" font-weight="400" fill="#3a3533"></text>
+<text x="168" y="84" text-anchor="start" font-size="10.5" font-weight="700" fill="#3a3533">Faz 2 (plato)</text>
+<text x="168" y="96" text-anchor="start" font-size="9.5" font-weight="400" fill="#3a3533">Ca²⁺ girişi = K⁺ çıkışı</text>
+<text x="278" y="150" text-anchor="start" font-size="10.5" font-weight="700" fill="#3a3533">Faz 3</text>
+<text x="278" y="162" text-anchor="start" font-size="9.5" font-weight="400" fill="#3a3533">K⁺ çıkışı</text>
+<text x="312" y="200" text-anchor="start" font-size="10.5" font-weight="700" fill="#3a3533">Faz 4</text>
+<text x="312" y="212" text-anchor="start" font-size="9.5" font-weight="400" fill="#3a3533"></text>
+<text x="78" y="180" text-anchor="end" font-size="10.5" font-weight="700" fill="#8a1c3c">Sınıf I</text>
+<text x="78" y="192" text-anchor="end" font-size="9.5" font-weight="400" fill="#8a1c3c">(Na⁺ blokeri)</text>
+<text x="282" y="118" text-anchor="start" font-size="10.5" font-weight="700" fill="#8a1c3c">Sınıf III</text>
+<text x="282" y="130" text-anchor="start" font-size="9.5" font-weight="400" fill="#8a1c3c">(K⁺ blokeri; QT uzar)</text>
+<text x="540" y="22" text-anchor="middle" font-size="12" font-weight="700" fill="#3a3533">Sinüs düğümü hücresi (yavaş yanıt)</text>
+<polyline points="420.0,190.0 475.0,158.0 495.0,80.0 540.0,190.0 595.0,158.0 615.0,80.0 660.0,190.0" fill="none" stroke="#3a3533" stroke-width="2.4" stroke-linejoin="round"/>
+<polyline points="420.0,190.0 515.0,158.0" fill="none" stroke="#0b6e99" stroke-width="1.6" stroke-linejoin="round" stroke-dasharray="4 3"/>
+<text x="416" y="194" text-anchor="end" font-size="9.5" font-weight="400" fill="#3a3533">−60</text>
+<text x="450" y="202" text-anchor="middle" font-size="10" font-weight="700" fill="#3a3533">Faz 4: kendiliğinden</text>
+<text x="450" y="214" text-anchor="middle" font-size="9.5" font-weight="400" fill="#3a3533">depolarizasyon (I<tspan baseline-shift="sub" font-size="7">f</tspan>)</text>
+<text x="480" y="112" text-anchor="end" font-size="10" font-weight="700" fill="#3a3533">Faz 0:</text>
+<text x="480" y="124" text-anchor="end" font-size="9.5" font-weight="400" fill="#3a3533">Ca²⁺ girişi</text>
+<text x="524" y="110" text-anchor="start" font-size="10" font-weight="700" fill="#3a3533">Faz 3: K⁺</text>
+<text x="530" y="226" text-anchor="middle" font-size="10" font-weight="700" fill="#8a1c3c">Sınıf II (β bloker), ivabradin: eğimi yatırır, hız ↓</text>
+<text x="530" y="240" text-anchor="middle" font-size="10" font-weight="700" fill="#8a1c3c">Sınıf IV (verapamil, diltiazem), adenozin: AV iletim ↓</text>
+<text x="480" y="178" text-anchor="start" font-size="9" font-weight="400" fill="#0b6e99" font-style="italic">eğim yatarsa</text>
+<text x="480" y="188" text-anchor="start" font-size="9" font-weight="400" fill="#0b6e99" font-style="italic">hız düşer</text>
+</svg>

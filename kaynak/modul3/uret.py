@@ -17,6 +17,7 @@ def ic(t):
     t = html.escape(t, quote=False)
     for a in ("sub", "sup"): t = t.replace(f"&lt;{a}&gt;", f"<{a}>").replace(f"&lt;/{a}&gt;", f"</{a}>")
     t = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", t)
+    t = re.sub(r"(?<!\*)\*([^*\s][^*]*?)\*(?!\*)", r"<em>\1</em>", t)
     return re.sub(r"(?<![\w*])_(.+?)_(?![\w])", r"<em>\1</em>", t)
 
 def oku(p):
@@ -58,9 +59,9 @@ while i < len(L):
     if s.startswith("= "): title = s[2:]; continue
     if s.startswith("~ "): byline = s[2:]; continue
     if s.startswith("# "):
-        kapat(); t, _, lead = s[2:].partition(" | "); n_ch += 1; n_sec = 0
+        kapat(); t, _, lead = s[2:].partition(" | "); lead, _, kck = lead.partition(" || "); n_ch += 1; n_sec = 0
         if n_ch > 1: out.append("</section>")
-        out.append(f'<section class="chapter"><p class="chapter-kicker">{ic(kicker)}</p><h2 class="chapter-title">{ic(t)}</h2>'
+        out.append(f'<section class="chapter"><p class="chapter-kicker">{ic(kck or kicker)}</p><h2 class="chapter-title">{ic(t)}</h2>'
                    + (f'<p class="chapter-lead">{ic(lead)}</p>' if lead else "")); continue
     if s.startswith("### "): kapat(); out.append(f'<h4 class="book-h4">{ic(s[4:])}</h4>'); continue
     if s.startswith("## "): kapat(); n_sec += 1; out.append(f'<h3 class="book-h3">{ic(s[3:])}</h3>'); continue

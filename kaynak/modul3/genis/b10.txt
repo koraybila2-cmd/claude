@@ -1,4 +1,4 @@
-# Hemostaz, Tromboz, Emboli ve Ödem | Bu yıl 8 soru (S40, S41, S43, S44, S45, S47, S48, S49), geçen yıl 7 soru. Modülün en kalabalık patoloji bölümü: hemostazın sırası, endotelin görevleri, arteriyel-venöz trombüs farkı, trombüsün akıbeti ve ödem mekanizmaları.
+# Hemostaz, Tromboz, Emboli ve Ödem | Bu yıl 8 soru (S40, S41, S43, S44, S45, S47, S48, S49), geçen yıl 7 soru. Modülün en kalabalık patoloji bölümü: hemostazın sırası, endotelin görevleri, arteriyel-venöz trombüs farkı, trombüsün akıbeti ve ödem mekanizmaları. || Modül 3 · Bölüm 10
 
 ## 1. Hemostaz: kanamanın dört basamakta durdurulması
 Normal hemostaz, damar zedelendiğinde kanı **yalnızca zedelenme yerinde** ve hızla pıhtılaştıran, sonra pıhtıyı sınırlayıp eriten sıkı denetimli bir süreçtir. Sıra sınavda doğrudan sorulur.
@@ -122,10 +122,10 @@ Kılcal damarda sıvıyı **dışarı iten** güç **hidrostatik basınç**, **i
 | | **Transüda** | **Eksüda** |
 | Neden | Hidrostatik ya da onkotik basınç bozukluğu; damar duvarı sağlam | **İltihap**: geçirgenlik artışı |
 | Protein | Az (< 3 g/dL) | Çok |
-| **Özgül ağırlık** | **< 1,012** | **> 1,020** |
+| **Özgül ağırlık** | **< 1012** (1,012) | **> 1020** (1,020) |
 | Hücre | Az | Çok (lökosit) |
 | Görünüm | Berrak | Bulanık |
-|= Transüda ve eksüda. “Transüdanın özgül ağırlığı 1,012'den büyüktür” ifadesi yanlıştır.
+|= Transüda ve eksüda. “Transüdanın özgül ağırlığı 1012'den büyüktür” ifadesi yanlıştır.
 
 ## Çıkmış sorular
 @EKLE sorular/s10.txt

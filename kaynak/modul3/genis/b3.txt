@@ -1,4 +1,4 @@
-# Aritmi Mekanizmaları ve Klinik Aritmiler | Bu yıl 5 soru (S7, S8, S9, S11, S12), geçen yıl 3 soru. Re-entry, uzun QT ve atriyal fibrilasyonun mekanizması üzerinden soruluyor.
+# Aritmi Mekanizmaları ve Klinik Aritmiler | Bu yıl 5 soru (S7, S8, S9, S11, S12), geçen yıl 3 soru. Re-entry, uzun QT ve atriyal fibrilasyonun mekanizması üzerinden soruluyor. || Modül 3 · Bölüm 3
 
 ## 1. Aksiyon potansiyeli: iki farklı hücre, iki farklı eğri
 Aritmileri ve antiaritmik ilaçları (Bölüm 6) anlamanın ön koşulu, kalpte **iki tip** aksiyon potansiyeli olduğunu bilmektir.

@@ -1,4 +1,4 @@
-# Kardiyak Biyobelirteçler | Bu yıl 4 soru (S13-S16). Miyoglobin, H-FABP, İMA ve “ideal belirteç” soruları her yıl neredeyse aynı cümlelerle geliyor.
+# Kardiyak Biyobelirteçler | Bu yıl 4 soru (S13-S16). Miyoglobin, H-FABP, İMA ve “ideal belirteç” soruları her yıl neredeyse aynı cümlelerle geliyor. || Modül 3 · Bölüm 2
 
 ## 1. Mantık: ölen hücre içini kana döker
 Miyokard hücresi iskemiyle ölünce hücre zarı bütünlüğünü yitirir ve içindeki proteinler kana geçer. Hangi proteinin **ne zaman** kanda görüleceğini iki şey belirler:
