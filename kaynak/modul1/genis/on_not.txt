@@ -1,0 +1,16 @@
+# Bu baskı hakkında | Kısaltılmış tek kitabın farmakoloji bölümleri genişletilmiş hâli. || Modül 1 · 2026-27
+## Ne değişti?
+Hukuk, periton anatomisi, ağrının anatomisi, akut karın ve mikrobiyoloji bölümleri (1, 2, 3, 4 ve 9) **olduğu gibi duruyor**: önce sorular, sonra kısa konu tekrarı.
+Farmakoloji bölümleri (5, 6, 7 ve 8) baştan ve ayrıntılı olarak yazıldı. Bu dört bölümde düzen farklıdır:
+1. **Konu anlatımı:** Kısa tekrar ile ayrıntılı anlatım tek metinde birleşti. Mekanizmalar adım adım ve nedenleriyle anlatılıyor; karşılaştırma tabloları ve dört yeni şema var.
+2. **Kolay ezber:** Anlatımın sonunda “görünce düşün” tablosu (soruda geçen klasik ipucu → cevap) ve kısaltma-kodlamalar.
+3. **Çıkmış sorular:** Bölümün en sonunda; bu yılın MSD-1 soruları, geçen yılın blok sınavı ve daha eski blok sınavı sorularının özeti. Kartlar ve çözümler önceki baskıyla aynıdır.
+Kitabın sonuna yalnızca farmakoloji için bir **ezber özeti** eklendi.
+| Bölüm | Konu | Bu yıl | Blok sınavında yılda |
+| 5 | Farmakokinetik | 7 soru | 2-3 soru (genel farmakoloji birlikte) |
+| 6 | Farmakodinami | 4 soru | |
+| 7 | Genel anestezikler | 3 soru | 1-2 soru |
+| 8 | Ağrı farmakolojisi: mediyatörler, opioidler, NSAİİ | 10 soru | 3-4 soru |
+|= Farmakoloji bölümleri: bu yılın 50 sorusunun 24'ü farmakolojiden.
+!! Blok sınavında Modül 1 farmakolojisinden her yıl yaklaşık 9 soru geliyor: opioidler ve NSAİİ yaklaşık 4, genel farmakoloji 3, anestezikler 2. Opioidler altı yılın hepsinde soruldu.
+?? Çalışma önerisi: önce Bölüm 7 (kısa ilaç listesi, her yıl 2 soru), sonra Bölüm 8, en son 5 ve 6. Her bölümde önce “Kolay ezber” tablosuna bakıp sonra anlatımı okumak, neyin önemli olduğunu baştan gösterir.

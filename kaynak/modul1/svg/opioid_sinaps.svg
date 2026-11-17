@@ -1,0 +1,30 @@
+<svg viewBox="0 0 700 360" width="100%" style="display:block;font-family:Source Serif 4,Georgia,serif" role="img" aria-label="Opioidlerin arka boynuzdaki presinaptik ve postsinaptik etkisi">
+<defs><marker id="ok" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a3533"/></marker></defs>
+<path d="M40,30 h220 v120 q-110,50 -220,0 z" fill="#eef6f9" stroke="#0088b0"/>
+<text x="150" y="52" text-anchor="middle" font-size="11.5" font-weight="700" fill="#3a3533">1. nöron (C lifi) presinaptik uç</text>
+<circle cx="110" cy="100" r="13" fill="#fff" stroke="#57534e"/><circle cx="145" cy="112" r="13" fill="#fff" stroke="#57534e"/><circle cx="180" cy="98" r="13" fill="#fff" stroke="#57534e"/>
+<text x="145" y="136" text-anchor="middle" font-size="10" font-weight="400" fill="#3a3533" font-style="italic">glutamat, P maddesi</text>
+<rect x="250" y="80" width="26" height="40" rx="4" fill="#fff" stroke="#8a1c3c" stroke-width="2"/>
+<text x="263" y="105" text-anchor="middle" font-size="10" font-weight="700" fill="#3a3533">Ca</text>
+<text x="290" y="90" text-anchor="start" font-size="10.5" font-weight="700" fill="#3a3533">Voltaj kapılı Ca²⁺ kanalı</text>
+<text x="290" y="104" text-anchor="start" font-size="10.5" font-weight="700" fill="#8a1c3c">KAPANIR → verici salınamaz</text>
+<path d="M40,230 h220 v120 h-220 z" fill="#f7f4f2" stroke="#57534e"/>
+<text x="150" y="330" text-anchor="middle" font-size="11.5" font-weight="700" fill="#3a3533">2. nöron (arka boynuz)</text>
+<rect x="250" y="250" width="26" height="40" rx="4" fill="#fff" stroke="#2e7d4f" stroke-width="2"/>
+<text x="263" y="275" text-anchor="middle" font-size="10" font-weight="700" fill="#3a3533">K</text>
+<text x="290" y="262" text-anchor="start" font-size="10.5" font-weight="700" fill="#3a3533">K⁺ kanalı (GIRK)</text>
+<text x="290" y="276" text-anchor="start" font-size="10.5" font-weight="700" fill="#2e7d4f">AÇILIR → hiperpolarizasyon</text>
+<line x1="150" y1="172" x2="150" y2="226" stroke="#3a3533" stroke-width="1.3" marker-end="url(#ok)" stroke-dasharray="4 3"/>
+<text x="160" y="202" text-anchor="start" font-size="10" font-weight="400" fill="#3a3533" font-style="italic">ağrı iletisi</text>
+<rect x="70" y="150" width="70" height="22" rx="4" fill="#fdecec" stroke="#8a1c3c"/><text x="105.0" y="165.0" text-anchor="middle" font-size="10" font-weight="400" fill="#3a3533">μ reseptörü</text>
+<rect x="70" y="232" width="70" height="22" rx="4" fill="#fdecec" stroke="#8a1c3c"/><text x="105.0" y="247.0" text-anchor="middle" font-size="10" font-weight="400" fill="#3a3533">μ reseptörü</text>
+<rect x="470" y="150" width="210" height="72" rx="4" fill="#fff" stroke="#3a3533"/>
+<text x="575" y="172" text-anchor="middle" font-size="11.5" font-weight="700" fill="#3a3533">Opioid → G<tspan baseline-shift="sub" font-size="8">i/o</tspan></text>
+<text x="575" y="192" text-anchor="middle" font-size="10.5" font-weight="400" fill="#3a3533">adenilat siklaz ↓, cAMP ↓</text>
+<text x="575" y="208" text-anchor="middle" font-size="10.5" font-weight="400" fill="#3a3533">Ca²⁺ kanalı kapanır, K⁺ kanalı açılır</text>
+<rect x="470" y="250" width="210" height="82" rx="4" fill="#fff7e0" stroke="#b4541a"/>
+<text x="575" y="272" text-anchor="middle" font-size="11" font-weight="700" fill="#3a3533">Beyin sapında (PAG)</text>
+<text x="575" y="292" text-anchor="middle" font-size="10.5" font-weight="400" fill="#3a3533">GABA ara nöronları susturulur</text>
+<text x="575" y="308" text-anchor="middle" font-size="10.5" font-weight="400" fill="#3a3533">→ inici serotonerjik ve noradrenerjik</text>
+<text x="575" y="322" text-anchor="middle" font-size="10.5" font-weight="400" fill="#3a3533">yol serbest kalır, ağrıyı keser</text>
+</svg>

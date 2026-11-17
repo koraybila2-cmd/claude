@@ -1,0 +1,57 @@
+# Farmakoloji Ezber Özeti | Dört farmakoloji bölümünün sınavda en çok sorulan bilgileri tek satırlık maddeler hâlinde. Sınavdan önceki gün yalnızca bu sayfaları okuyun; takıldığınız maddede ilgili bölüme dönün. || Modül 1 · Ezber özeti
+## Farmakokinetik (Bölüm 5)
+- **Farmakokinetik** = vücut ilaca ne yapar (emilim, dağılım, metabolizma, atılım); **farmakodinami** = ilaç vücuda ne yapar. Etki yerindeki derişimi değiştiren her etkileşim farmakokinetiktir.
+- Farmakokinetik örnekler: antiasit + tetrasiklin (emilim), antibiyotik + oral kontraseptif (enterohepatik döngü), probenesid + penisilin (tübüler sekresyon), levodopa presistemik eliminasyonu, nitratın ağızdan dozunun dil altından yüksek olması, enzim indüksiyonu.
+- Pasif difüzyonu artıran: **yüksüz (non-iyonize) kısım**, lipitte çözünürlük, küçük molekül, geniş yüzey.
+- **İlaç kendine benzeyen ortamda yüksüzdür:** asit ilaç asitte, baz ilaç bazda. Her 1 pH birimi = 10 kat.
+- **İyon tuzağı:** bazik ilaç asidik bölmede (mide, anne sütü), asit ilaç bazik bölmede (alkali idrar) birikir. Damardan verilen bazik ilaç midede birikebilir. Aspirin zehirlenmesinde idrar bikarbonatla alkalileştirilir.
+- **Şelasyon:** tetrasiklin ve kinolonlar + Ca, Mg, Al, Fe → emilim azalır.
+- **Biyoyararlanım:** etkin maddenin emilip sistemik dolaşıma ulaşma **hızı ve derecesi**; damardan %100. Jenerik için **biyoeşdeğerlik** gerekir, farmasötik eşdeğerlik yetmez.
+- **İlk geçiş** bağırsak lümeni, bağırsak duvarı (CYP3A4, P-gp) ve karaciğerde olur. En yüksek: **propranolol**, lidokain, nitrogliserin, morfin, levodopa. Dil altı, damar, transdermal, inhalasyon atlar; rektal kısmen.
+- **Enterohepatik döngü:** glukuronid → safra → bakteri β-glukuronidazı → geri emilim. Geniş spektrumlu antibiyotik döngüyü kırar, ilacın etkisi azalır.
+- **V<sub>d</sub> = miktar / plazma derişimi**; C<sub>0</sub> = doz / V<sub>d</sub> (4 mg/kg lidokain, V<sub>d</sub> 1 L/kg → 4 mg/L). Yükleme dozu = V<sub>d</sub> × hedef derişim.
+- Yüksek proteine bağlanma → **V<sub>d</sub> küçük**, yarı ömür uzun. Asit ilaç albümine, baz ilaç α1-asit glikoproteine. Yenidoğanda sülfonamid → kernikterus.
+- **Tiyopentalin** kısa etkisi = **redistribüsyon**.
+- Faz I: CYP450 (oksidasyon). Faz II: konjugasyon (glukuronidasyon; yenidoğanda yetersiz → gri bebek). Parasetamol aşırı dozu → NAPQI → N-asetilsistein.
+- **NAT2 yavaş asetilleyici:** izoniazid (nöropati), hidralazin ve prokainamid (lupus).
+- **İndükleyiciler** (rifampisin, karbamazepin, fenitoin, fenobarbital) aktif ilacın etkisini azaltır, **önilacın etkisini artırır**. **İnhibitörler** (ketokonazol, makrolidler, simetidin, greyfurt, amiodaron) tersini yapar.
+- Önilaçlar: levodopa, enalapril, kodein, klopidogrel, prednizon, azatioprin, siklofosfamid.
+- Böbrek: filtrasyon (yalnız serbest ilaç), tübüler sekresyon (yarışma: probenesid-penisilin), pasif geri emilim (yüksüz ilaç).
+- t<sub>1/2</sub> = 0,693 × V<sub>d</sub> / CL. Kararlı durum ve temizlenme **4-5 yarı ömür**. Sıfırıncı derece: fenitoin, etanol, aspirin (yüksek doz).
+- Supozituvar hem lokal hem sistemik etkili. İnterferonlar biyoteknolojik. Reseptör afinitesi veriliş yolunu belirlemez.
+## Farmakodinami (Bölüm 6)
+- **Afinite** bağlanma, **intrensek aktivite** etkinleştirme. Tam agonist 1, parsiyel 0-1, antagonist 0, ters agonist negatif.
+- **Parsiyel agonist** (buprenorfin): tek başına agonist, tam agonistle birlikte onun etkisini azaltır.
+- **Ters agonist:** bazal (konstitütif) aktiviteyi baskılar. “Agonist yokken agonist, varken antagonist” tanımı parsiyel agonistindir.
+- **Potens** = gereken doz (EC<sub>50</sub>, eğrinin sola kayması); **efikasi** = en yüksek etki (E<sub>max</sub>). “Maksimum etki” efikasidir.
+- **Kuvantal** yanıt hep ya da hiçtir (kusma önlendi mi, uyudu mu); ED<sub>50</sub>, TD<sub>50</sub>; **terapötik indeks = TD<sub>50</sub>/ED<sub>50</sub>**.
+- **Yarışmalı antagonist:** sağa kaydırır, E<sub>max</sub> aynı, aşılabilir (nalokson-morfin). **Yarışmasız (kovalent ya da allosterik):** E<sub>max</sub> düşer, aşılamaz (fenoksibenzamin).
+- **Fizyolojik antagonizma:** farklı reseptörde zıt etki (adrenalin-histamin, adrenalin-asetilkolin). **Kimyasal:** protamin-heparin. **Farmakokinetik:** probenesid-penisilin (allosterik değil).
+- Reseptör aileleri: iyon kanalı (ms; nikotinik, GABA-A) → G proteini (s) → kinaz (dk; insülin) → nükleer (saat; steroid).
+- **G<sub>s</sub>:** AC ↑ cAMP ↑ (β1, β2, D1, H2, V2). **G<sub>i</sub>:** AC ↓ cAMP ↓, K⁺ açık, Ca²⁺ kapalı (α2, M2, D2, opioid, GABA-B). **G<sub>q</sub>:** PLC → IP3 + DAG, Ca²⁺ ↑ (α1, M1, M3, H1, V1). cGMP guanilat siklazla (NO, ANP), G proteini değil.
+- Homolog desensitizasyon: GRK + β-arrestin. **Heterolog: protein kinaz A ve C.** Antagonist uzun kullanımı → up-regülasyon (beta bloker birden kesilmez).
+- **Yan etki** tedavi dozunda; toksik etki aşırı dozda; idiyosinkrazi genetik; alerji dozdan bağımsız.
+## Genel anestezikler (Bölüm 7)
+- **GABA-A** (Cl⁻ kanalının açık kalma süresi uzar): propofol, tiyopental, etomidat, benzodiazepin, uçucu gazlar. **NMDA antagonisti:** ketamin, azot protoksit, ksenon. GABA-A aktivasyonu yapmayan: **ketamin**. Glisin aktivitesini artıran: **propofol**.
+- **MAK küçük → potens yüksek** (yağda çözünürlük). **Kan/gaz katsayısı küçük → indüksiyon ve uyanma hızlı.** Hız: desfluran > azot protoksit > sevofluran > izofluran > halotan > metoksifluran.
+- **Sevofluran:** hoş kokulu, irritan değil, maskeyle indüksiyon, astımlıda tercih (bu yılın anahtarı: en güçlü bronkodilatör). **Desfluran:** en hızlı uyanma, irritan. **İzofluran:** irritan, refleks taşikardi. **Halotan:** bronkodilatör, katekolaminlerle aritmi, hepatit. **Metoksifluran:** en potent, en yavaş, florürle nefrotoksik; günübirlik cerrahiye uygun değil.
+- **Azot protoksit:** MAK > %100 (tek başına yetmez), analjezik, hızlı başlar ve biter, kapalı boşlukları genişletir (pnömotoraks), B12'yi bozar (kemik iliği baskılanması), canlı rüyalar, difüzyon hipoksisi.
+- **Propofol:** en sık indüksiyon, hızlı uyanma, antiemetik, hipotansiyon. **Tiyopental:** redistribüsyon, porfiride yasak. **Etomidat:** kardiyovasküler stabil, böbreküstü baskılanması. **Ketamin:** dissosiyatif, güçlü analjezi, sempatik uyarı (şokta), bronkodilatör (astımda), kafa içi basıncı ↑, halüsinasyon.
+- Fentanil μ agonisti; göğüs duvarı rijiditesi (nalokson). Malign hipertermi: RYR1, uçucu gaz + süksinilkolin, **dantrolen**. Uyanma odasında titreme: **meperidin** (κ, noradrenerjik ve serotonerjik).
+## Ağrı farmakolojisi (Bölüm 8)
+- **Bradikinin** en güçlü doğrudan uyarıcı; **prostaglandin** eşiği düşürür (duyarlılaştırır); **P maddesi** hem periferde nörojenik iltihap yapar hem 1. nörondan 2. nörona iletir; **GABA, enkefalin** antinosiseptif.
+- **Kapsaisin:** TRPV1'i açar (yanma), sonra duyarsızlaştırır ve P maddesini tüketir (ağrı azalır).
+- α2 agonist salınımı azaltır (depo tüketmez); NSAİİ periferde COX'u keser (inici yolu değil); nöropatik ağrıda NSAİİ ve steroid etkisiz, gabapentin-pregabalin, trisiklik, duloksetin etkili.
+- Opioid reseptörleri **G<sub>i/o</sub>**: **K⁺ kanalı açılır, Ca²⁺ kanalı kapanır**, cAMP ↓; beyin sapında inici yolu etkinleştirir.
+- **μ:** analjezi, öfori, solunum depresyonu, miyozis, kabızlık, bağımlılık. **κ:** disfori. **δ:** enkefalin, VTA'da da var. **NOP:** spinal yolda analjezi.
+- Morfin: solunum depresyonu (CO<sub>2</sub> duyarlılığı ↓), miyozis, kabızlık, idrar retansiyonu, histamin, kafa içi basıncı ↑, bulantı. **Miyozis ve kabızlığa tolerans gelişmez.** Akut akciğer ödeminde nefes darlığı hissini azaltır.
+- Morfin FK: ağızdan biyoyararlanım ~%25 (ilk geçiş), deri altı ve rektal verilebilir, proteine bağlanma düşük, yarı ömür 2-3 saat, **M3G inaktif**, M6G aktif.
+- Zehirlenme: koma + miyozis + solunum depresyonu → **nalokson** (kısa etkili, tekrar gerekir). Yoksunluk: midriyazis, ishal, esneme, piloereksiyon.
+- Haşhaş: **morfin** (analjezik), **kodein** (öksürük), **papaverin** (analjezik değil, düz kas gevşetici), tebain, noskapin.
+- **Oksikodon:** yarı sentetik seçici μ agonisti, kodeinden fazla bağımlılık, ağızdan. **Kodein:** CYP2D6 ile morfine. **Meperidin:** doğumda tercih (uterusu etkilemez), antikolinerjik, normeperidin nöbet, MAOI ile tehlikeli, titreme. **Metadon:** uzun etkili, ağızdan, bağımlılık idamesi. **Fentanil:** transdermal, gövde rijiditesi. **Remifentanil:** esterazla yıkılır, en kısa. **Tramadol:** zayıf μ + SNRI. **Buprenorfin:** μ parsiyel, κ antagonist. **Loperamid, difenoksilat:** ishal. **Nalokson** damardan kısa; **naltrekson** ağızdan uzun.
+- Etkileşimler: opioid + **MAOI (fenelzin)** → serotonin sendromu, hipertansif kriz; opioid + **CYP3A4 indükleyici (karbamazepin)** → etki azalır, yoksunluk; + benzodiazepin, alkol → solunum depresyonu.
+- Ameliyat sonrası ilk saatlerde en etkili grup: opioidler. DSÖ merdiveni: NSAİİ → zayıf opioid → güçlü opioid; ağızdan, saatli.
+- **NSAİİ:** COX'u keser; analjezik, antipiretik, antiinflamatuvar, antiagregan. Antiinflamatuvar etkisi opioidlerden fazla, glukokortikoidlerden az; tolerans yok; parasetamolün antiinflamatuvar etkisi yok.
+- **COX-1 yapısal:** baskılanınca ülser, kanama (TXA2 ↓). **COX-2 indüklenebilir:** baskılanınca analjezi; koksiblerde prostasiklin ↓ → MI, inme.
+- Aspirin: COX'u geri dönüşsüz asetiller; düşük doz antiagregan; Reye sendromu; aspirine duyarlı astım; zehirlenmede önce solunumsal alkaloz sonra metabolik asidoz.
+- NSAİİ yan etkileri: ülser, ABH ve hiperkalemi (ACEİ + diüretik + NSAİİ en riskli), HT, kanama, 3. trimesterde duktus kapanması. Metamizol agranülositoz. Varfarin + NSAİİ → **INR yükselir**.
