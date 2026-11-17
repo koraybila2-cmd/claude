@@ -1,0 +1,77 @@
+# Sindirim Sistemi Anatomisi ve Histolojisi | Bu yıl 5 soru (S3, S4, S5, S25, S26); geçen yıl 5 soru. 1 soru daha önceki sınavlarda aynı ya da benzer biçimde geldi, 4 soru ilk kez soruldu. Bu yılın kartlarından sonra konu eki, ardından önceki baskının bu bölümü (2025-26 ve 2024-25 soruları ve konu tekrarı) gelir. || Modül 5-6 · Bölüm 4 · 2026-27 soruları
+@QB BU YILIN SORULARI
+@Q MSD 5-6 2026-27 · SORU 3 | BU YIL | İLK KEZ BU BİÇİMDE SORULDU
+@K Truncus coeliacus - a. mesenterica superior veya a. mesenterica superior - a. mesenterica inferior arasında ikili anastomoz bulunan bağırsak bölümleri hangileridir?
+@K I- Pars superior duodeni
+@K II- Pars descendens duodeni
+@K III- Colon transversum
+@K IV- Caecum
+A) Sadece I-II
+B) Sadece I-III-IV
+C) Sadece III-IV
+D) Sadece II-III ✓
+E) I-II-III-IV
+@O Önceki yıllar: 2025-26 S3'te portal-sistemik anastomozlar, S4'te pars descendens duodeni'nin lenf drenajı soruldu (iki arter havzası arasında kalan bölge mantığı aynı).
+D doğru (II ve III). **Pars descendens duodeni**, truncus coeliacus'un dalı olan a. pancreaticoduodenalis superior (a. gastroduodenalis'ten) ile AMS'nin dalı olan a. pancreaticoduodenalis inferior arasındaki anastomozla beslenir; ön bağırsak ile orta bağırsağın sınırı papilla duodeni major hizasındadır. **Colon transversum**'un sağ üçte ikisi AMS'nin dalı a. colica media, sol üçte biri AMİ'nin dalı a. colica sinistra ile beslenir; ikisi arcus marginalis (Drummond) ve Riolan arkıyla birleşir (orta bağırsak-arka bağırsak sınırı).
+Pars superior duodeni (I) yalnız truncus coeliacus dallarıyla (a. gastroduodenalis, a. supraduodenalis) beslenir. Caecum (IV) yalnız AMS'nin dalı a. ileocolica ile beslenir.
+@@
+@Q MSD 5-6 2026-27 · SORU 4 | BU YIL | İLK KEZ SORULDU
+@K Aşağıdaki bağırsak yapılardan hangisi n. pudendus tarafından innerve edilir?
+A) M. sphincter ani internus
+B) Rectum mukozası
+C) Taenia coli
+D) Rectum kas tabakası
+E) Anüs mukozası ✓
+@O Önceki yıllar: Arşivde aynı soru yok. Linea pectinata'nın üstü ve altının farkı 2025-26 S3'te (rectum ve anal kanalın venöz drenajı) soruldu.
+E doğru. Anal kanalın **linea pectinata altındaki** kısmı ektodermden gelir; deri benzeri mukozası ve **m. sphincter ani externus** somatik olarak **n. pudendus**'un dalı n. rectalis inferior ile innerve edilir. Bu yüzden bu bölge ağrıya duyarlıdır (dış hemoroid, anal fissür ağrılıdır).
+Rectum mukozası ve kas tabakası (B, D), m. sphincter ani internus (A) ve taenia coli (C) otonom (visseral) sinirlerle innerve edilir: parasempatik nn. splanchnici pelvici (S2-S4), sempatik plexus hypogastricus. Linea pectinata üstü ağrıya duyarsızdır (iç hemoroid ağrısızdır).
+@@
+@Q MSD 5-6 2026-27 · SORU 5 | BU YIL | İLK KEZ SORULDU
+@K Bir hastada caecum'da yerleşmiş bir tümör saptanır. Yapılacak cerrahi işlem sırasında cerrah hangi lenf düğümü gruplarını öncelikle kontrol etmelidir?
+@K I- a. mesenterica superior çevresindeki
+@K II- a. mesenterica inferior çevresindeki
+@K III- a. iliaca interna çevresindeki
+@K IV- a. iliaca externa çevresindeki
+A) Yalnız I-II
+B) Yalnız I-II-III
+C) Yalnız III-IV
+D) Yalnız I ✓
+E) I-II-III-IV
+@O Önceki yıllar: Arşivde aynı soru yok. 2025-26 S4'te duodenumun lenf drenajı aynı mantıkla soruldu.
+D doğru (yalnız I). Bağırsak lenfi, organı besleyen arterin yanında seyreden düğümlere drene olur. **Caecum** AMS'nin dalı **a. ileocolica** ile beslenir; lenfi ileokolik düğümlerden **a. mesenterica superior çevresindeki** düğümlere gider. Bu yüzden sağ hemikolektomide AMS dalları boyunca lenf diseksiyonu yapılır.
+AMİ çevresindeki düğümler (II) inen ve sigmoid kolon ile üst rektumu, a. iliaca interna çevresi (III) alt rektum ve pelvis organlarını, a. iliaca externa çevresi (IV) alt ekstremite ve karın ön duvarının alt kısmını drene eder.
+@@
+@Q MSD 5-6 2026-27 · SORU 25 | BU YIL | İLK KEZ SORULDU
+@K İnce bağırsak kriptlerinde bulunan Paneth hücrelerinin sayısının belirgin biçimde azaldığı bir dokuda aşağıdaki değişikliklerden hangisinin görülmesi beklenir?
+A) Bağırsak mukusunun tamamen ortadan kalkması
+B) Brunner bezlerinin aşırı salgı yapması
+C) Bağırsak kas tabakalarının birbirinden ayrılması
+D) Emilim yüzeyinin doğrudan ortadan kalkması
+E) Antimikrobiyal savunmanın zayıflaması ve bağırsak mikrobiyal dengesinin etkilenmesi ✓
+@O Önceki yıllar: Paneth hücresinin yeri (kript tabanı; villus ucunda değil) blok sınavı 2025-26 S24'te, kalın bağırsak bezlerinde bulunmadığı blok sınavı 2021-22 S70'te, hücre-görev eşleştirmesi MSD 2025-26 S21'de soruldu.
+E doğru. **Paneth hücreleri** ince bağırsak kriptlerinin tabanında bulunur; asidofilik granüllerinde **lizozim, α-defensinler (kriptidinler) ve fosfolipaz A2** vardır. Bu maddeler kript lümenini mikroplara karşı korur ve **bağırsak mikrobiyotasının dengesini** düzenler; ayrıca kript tabanındaki kök hücrelere destek olur. Sayıları azalırsa antimikrobiyal savunma zayıflar (Crohn hastalığıyla ilişkili).
+Mukusu goblet hücreleri yapar (A). Brunner bezleri duodenumun submukozasındadır ve Paneth hücreleriyle ilgisi yoktur (B). Kas tabakaları (C) ve emilim yüzeyi (D; enterositler, villus, mikrovillus) Paneth hücresine bağlı değildir.
+@@
+@Q MSD 5-6 2026-27 · SORU 26 | BU YIL | BENZER BİLGİ
+@K Duodenumdan başlayarak ince bağırsak boyunca ilerleyen bir besin içeriğinin karşılaştığı histolojik değişiklikler incelenmektedir. Duodenumda asidik kimusun nötralizasyonu, jejunumda yoğun emilim ve ileumda immünolojik savunma ön plana çıkmaktadır. Bu fonksiyonel farklılıkların histolojik karşılıklarıyla ilgili aşağıdakilerden hangisi doğrudur?
+A) Duodenumda Peyer plakları, jejunumda Brunner bezleri, ileumda ise yoğun plika sirkülarisler bulunur.
+B) Duodenumda villuslar bulunmaz, jejunumda Peyer plakları yoğunlaşır, ileumda Brunner bezleri gelişir.
+C) Duodenumda submukozal Brunner bezleri, jejunumda belirgin plika sirkülarisler, ileumda ise yoğun Peyer plakları bulunur. ✓
+D) Duodenumda tenya koli, jejunumda haustralar, ileumda ise Brunner bezleri bulunur.
+E) Her üç bölgede de aynı histolojik organizasyon bulunur; fonksiyonel farklılıklar yalnızca kas tabakalarının kalınlığına bağlıdır.
+@O Önceki yıllar: “Duodenuma özgü yapı → Brunner bezleri” MSD 2025-26 S20'de; ince bağırsak özellikleri 2024-25 S57 ve blok sınavı 2019-20 S4, 2021-22 S3, 2022-23 S3'te soruldu.
+C doğru. **Duodenumun** submukozasındaki **Brunner bezleri** bikarbonattan zengin alkali mukus salgılayarak mideden gelen asidik kimusu nötralize eder. **Jejunumda** plika sirkülarisler en yüksek ve sık, villuslar uzundur: emilim yüzeyi en geniştir. **İleumda** lamina propria ve submukozada büyük lenf follikülü kümeleri, yani **Peyer plakları** bulunur.
+Diğer eşleştirmeler (A, B) yer değiştirmiştir. Tenya koli ve haustra (D) kalın bağırsağa aittir. Üç bölümün histolojisi aynı değildir (E).
+@@
+
+## Konu eki: bağırsakların damar, lenf ve sinir haritası
+| Bölüm | Embriyolojik köken | Arter | Lenf | Parasempatik |
+| Mide, duodenumun papillaya kadar kısmı | Ön bağırsak | **Truncus coeliacus** | Çölyak düğümler | N. vagus |
+| Papilladan colon transversum'un sağ üçte ikisine (jejunum, ileum, **caecum**, apendiks, çıkan kolon) | Orta bağırsak | **A. mesenterica superior** | Mezenterik superior düğümler | N. vagus |
+| Colon transversum'un sol üçte biri → rectum üst kısmı | Arka bağırsak | **A. mesenterica inferior** | Mezenterik inferior düğümler | Nn. splanchnici pelvici (S2-S4) |
+| Anal kanal, linea pectinata altı | Ektoderm (proktodeum) | A. rectalis inferior (a. pudenda interna) | **Yüzeyel inguinal** düğümler | Somatik: **n. pudendus** |
+|= Bağırsak bölümlerinin damar, lenf ve sinirleri.
+- **İkili beslenme (sınır bölgeleri):** pars descendens duodeni (truncus coeliacus + AMS; pankreatikoduodenal arkadlar) ve colon transversum / fleksura coli sinistra (AMS + AMİ; arcus marginalis ve Riolan arkı). Fleksura coli sinistra (Griffiths noktası) iskemiye en açık bölgedir.
+- **Linea pectinata:** üstü visseral sinir (ağrısız), portal drenaj (iç hemoroid), iç iliak düğümler; altı somatik sinir (ağrılı), sistemik drenaj, yüzeyel inguinal düğümler.
+- **Histoloji:** duodenum Brunner bezleri; jejunum en belirgin plika sirkülarisler ve uzun villuslar; ileum Peyer plakları; kolonda villus ve Paneth hücresi yok, goblet hücresi bol; kript tabanında Paneth hücresi (lizozim, defensin; antimikrobiyal).
+

@@ -1,0 +1,105 @@
+# Sıvı-Elektrolit Dengesi ve Tübül Fizyolojisi | Bu yıl 8 soru (S11, S12, S13, S14, S15, S16, S39, S40); geçen yıl 12 soru. 5 soru daha önceki sınavlarda aynı ya da benzer biçimde geldi, 3 soru ilk kez soruldu. Bu yılın kartlarından sonra konu eki, ardından önceki baskının bu bölümü (2025-26 ve 2024-25 soruları ve konu tekrarı) gelir. || Modül 5-6 · Bölüm 6 · 2026-27 soruları
+@QB BU YILIN SORULARI
+@Q MSD 5-6 2026-27 · SORU 11 | BU YIL | AYNI KONU
+@K Hipovolemi gelişen bir bireyde aşağıdaki klinik bulgulardan hangisinin görülmesi beklenir?
+A) Bradikardi
+B) Arteriyel kan basıncında artış
+C) Ortostatik hipotansiyon ✓
+D) İdrar miktarında artış
+E) Periferik damar direncinde azalma
+@O Önceki yıllar: Hipovoleminin en tipik özelliği (hücre dışı sıvının azalması) MSD 2025-26 S11'de; hipovolemide renin artışı 2025-26 S9 ve blok sınavı 2025-26 S12-S13'te soruldu.
+C doğru. Hipovolemide dolaşan kan hacmi azalır; ayağa kalkınca kan bacaklarda göllenir ve kalbe dönüş daha da azalır: **ortostatik hipotansiyon** (ayakta sistolik basınçta ≥ 20 mmHg düşme ya da nabızda ≥ 30/dk artış), baş dönmesi.
+Baroreseptör yanıtıyla **taşikardi** olur (A yanlış). Arter basıncı düşer ya da sempatik yanıtla korunur, artmaz (B). Böbrek tuz ve suyu tuttuğu için idrar **azalır** (D). Sempatik etkinleşme periferik damar direncini **artırır** (E).
+@@
+@Q MSD 5-6 2026-27 · SORU 12 | BU YIL | AYNI KONUNUN TERS HÂLİ
+@K Hipervolemi gelişen bir hastada aşağıdaki klinik bulgulardan hangisinin görülmesi daha olasıdır?
+A) Ortostatik hipotansiyon
+B) Juguler venöz dolgunluk ✓
+C) Kuru ağız mukozası
+D) Azalmış deri turgoru
+E) Çökük göz küreleri
+@O Önceki yıllar: “Hipervolemi ile en az ilişkili bulgu → deri turgorunun azalması” MSD 2025-26 S61'de; hipervolemi nedenleri blok sınavı 2024-25 S59'da soruldu.
+B doğru. Hipervolemide hücre dışı sıvı ve venöz basınç artar: **juguler venöz dolgunluk**, hepatojuguler reflü, periferik **ödem**, akciğerde ral, hızlı kilo artışı ve hipertansiyon görülür.
+Diğer şıkların hepsi (A, C, D, E) **hipovolemi** bulgularıdır.
+@@
+@Q MSD 5-6 2026-27 · SORU 13 | BU YIL | İLK KEZ BU BİÇİMDE SORULDU
+@K Kronik böbrek hastalığı bulunan 65 yaşındaki bir hasta, son birkaç gündür bacaklarında şişlik ve vücut ağırlığında artış şikayetleriyle başvuruyor. Fizik muayenede bilateral pretibial ödem ve kan basıncında yükselme saptanıyor. Bu hastada hipervolemi gelişmesinin en olası nedeni aşağıdakilerden hangisidir?
+A) Renal sodyum ve su atılımının azalması ✓
+B) Gastrointestinal sıvı kaybının artması
+C) Terleme ile sıvı kaybının artması
+D) Plazma hacminin azalması
+E) Böbreklerden su geri emiliminin azalması
+@O Önceki yıllar: Hipervolemiye kompansatuvar yanıt (ANP artışı) MSD 2025-26 S7'de soruldu.
+A doğru. Kronik böbrek hastalığında işlev gören nefron sayısı azaldığı için böbrek alınan **sodyumu ve suyu atamaz**; hücre dışı sıvı artar: ödem, kilo artışı, hipertansiyon. Tedavi tuz kısıtlaması ve diüretiktir (ileri evrede kıvrım diüretikleri).
+Gastrointestinal kayıp (B), terleme (C) ve plazma hacminin azalması (D) **hipovolemi** nedenleridir. Böbrekten su geri emiliminin azalması (E) suyun atılımını artırır, hipervolemi yapmaz.
+@@
+@Q MSD 5-6 2026-27 · SORU 14 | BU YIL | BLOK SINAVI 2021-22 S58'İN TERS HÂLİ
+@K Glomerüler filtrasyon hızının (GFR) azalmasına bağlı olarak idrar oluşumunu azaltabilecek değişiklik aşağıdakilerden hangisidir?
+A) Aferent arteriyolün dilatasyonu
+B) Glomerüler kapiller hidrostatik basıncın artması
+C) Aferent arteriyolün konstriksiyonu ✓
+D) Plazma onkotik basıncının azalması
+E) Bowman kapsülü hidrostatik basıncının azalması
+@O Önceki yıllar: Blok sınavı 2021-22 S58: “GFR'yi azaltmayan → Bowman kapsülü basıncında azalma.”
+C doğru. GFR, glomerül kılcalındaki hidrostatik basınç ile Bowman kapsülündeki hidrostatik basınç ve plazma onkotik basıncı arasındaki farka bağlıdır. **Afferent arteriyol daralırsa** glomerüle gelen kan ve kılcal basınç düşer → GFR ve idrar azalır (NSAİİ, sempatik uyarı, kalsinörin inhibitörleri).
+Afferent genişleme (A) ve kılcal hidrostatik basınç artışı (B) GFR'yi artırır. Plazma onkotik basıncının azalması (D) ve Bowman basıncının azalması (E) süzülmeye karşı koyan kuvvetleri azaltır, GFR'yi artırır.
+@@
+@Q MSD 5-6 2026-27 · SORU 15 | BU YIL | AYNI BİLGİ
+@K Hipovolemi gelişen bir hastada böbreklerin sıvı kaybını sınırlandırmak amacıyla oluşturduğu kompansatuvar yanıtlardan hangisi beklenir?
+A) Renin salınımının azalması
+B) Aldosteron salınımının azalması
+C) Glomerüler filtrasyon hızının her durumda artması
+D) Sodyumun idrarla atılımının artması
+E) Renin-anjiyotensin-aldosteron sisteminin aktivasyonunun artması ✓
+@O Önceki yıllar: Hipovolemide renin artışı MSD 2025-26 S9 ve blok sınavı 2025-26 S13'te; renin salınımını artıranlar blok sınavı 2023-24 S60'ta soruldu.
+E doğru. Hipovolemide afferent arteriyoldeki basınç ve maküla densaya gelen sodyum klorür azalır, sempatik uyarı artar: **renin** salınır → anjiyotensin II (efferent daralmayla GFR'yi korur, proksimal sodyum geri emilimini artırır, susama ve ADH salgısı) → **aldosteron** (distal sodyum geri emilimi). Sonuçta idrarla sodyum ve su atılımı azalır.
+Renin ve aldosteron azalmaz, artar (A, B). GFR her durumda artmaz; korunmaya çalışılır ama çoğu kez düşer (C). Sodyum atılımı azalır (D).
+@@
+@Q MSD 5-6 2026-27 · SORU 16 | BU YIL | 2025-26 S8'İN TERS HÂLİ
+@K Uzun süre sıcak ortamda fiziksel aktivite yapan ve yeterli sıvı tüketmeyen bir öğrencide idrar hacminin azaldığı, idrar osmolalitesinin ise arttığı belirleniyor. Bu değişikliklerden en doğrudan sorumlu hormonal yanıt aşağıdakilerden hangisidir?
+A) Atriyal natriüretik peptit (ANP) salınımının artması
+B) ADH salınımının azalması
+C) Aldosteron salınımının baskılanması
+D) ADH salınımının artması ✓
+E) Renin salınımının azalması
+@O Önceki yıllar: MSD 2025-26 S8: “İdrar çıkışını azaltmayan, artıran → ADH salınımının azalması.”
+D doğru. Terleme ve yetersiz sıvı alımı plazma ozmolalitesini yükseltir. Hipotalamustaki ozmoreseptörler bunu algılar ve arka hipofizden **ADH (vazopressin)** salınır. ADH toplayıcı kanal hücrelerinde V2 reseptörü üzerinden **akuaporin-2** kanallarını zara yerleştirir; su geri emilir, **idrar hacmi azalır, ozmolalitesi artar**.
+ANP (A) ve aldosteronun baskılanması (C) sodyum ve su atılımını artırır. ADH azalması (B) seyreltik ve bol idrar yapar. Renin azalması (E) hipovolemide beklenmez.
+@@
+@Q MSD 5-6 2026-27 · SORU 39 | BU YIL | İLK KEZ SORULDU
+@K Proksimal tübülde fosfat geri emilimini azaltarak fosfatüriye neden olabilen hangisidir?
+A) Fibroblast büyüme faktörü-23 ✓
+B) Eritropoetin
+C) Vitamin D
+D) Antidiyüretik hormon (ADH)
+E) İnsülin
+@O Önceki yıllar: Arşivde aynı soru yok. Proksimal tübülde geri emilen maddeler blok sınavı 2019-20 S11'de soruldu.
+A doğru. **FGF-23** kemik osteositlerinden salınır; Klotho eşliğinde proksimal tübülde sodyum-fosfat ko-transporterlerini (NaPi-2a, 2c) azaltarak **fosfatüri** yapar ve 1α-hidroksilazı baskılayarak kalsitriolü düşürür. KBH'de fosfat atılamadığı için FGF-23 çok erken yükselir (sekonder hiperparatiroididen önce). PTH da aynı yoldan fosfatüri yapar.
+Eritropoetin (B) eritrosit yapımını uyarır. Kalsitriol (C) bağırsaktan ve böbrekten fosfat emilimini artırır. ADH (D) suyun, insülin (E) glukozun ve fosfatın hücreye girişini etkiler; fosfatüri yapmaz.
+@@
+@Q MSD 5-6 2026-27 · SORU 40 | BU YIL | İLK KEZ SORULDU
+@K Jukstaglomerüler aparatın (JGA) temel bileşenlerinden biri olan macula densa hücreleri nefronun hangi anatomik segmentinde yer alır?
+A) Henle kulpu inen ince kol
+B) Henle kulpu çıkan ince kol
+C) Distal tübül başlangıç kısmı ✓
+D) Kortikal toplayıcı kanal
+E) Proksimal tübül son kısmı
+@O Önceki yıllar: Arşivde aynı soru yok. Nefron segmentleri MSD 2024-25 S21 (sodyumun en çok geri emildiği segmentler) ve 2025-26 S74'te (ADH ile su geçirgenliği) soruldu.
+C doğru. **Maküla densa**, Henle kulpunun çıkan kalın kolunun son kısmı ile **distal tübülün başlangıcında**, nefronun kendi glomerülünün afferent ve efferent arteriyolleri arasına değdiği yerde bulunan yoğun, sık dizili epitel hücreleridir. Tübül sıvısındaki **NaCl'yi** NKCC2 taşıyıcısıyla algılar:
+- NaCl **artarsa** adenozin salınır → afferent arteriyol daralır → GFR düşer (**tübüloglomerüler geri bildirim**).
+- NaCl **azalırsa** prostaglandin ve NO aracılığıyla afferent genişler ve jukstaglomerüler hücrelerden **renin** salınır.
+Jukstaglomerüler aparatın üç bileşeni: maküla densa, afferent arteriyol duvarındaki **jukstaglomerüler (granüler) hücreler** (renin) ve **ekstraglomerüler mezangiyal hücreler** (Lacis hücreleri).
+@@
+
+## Konu eki: hacim bozuklukları ve böbreğin düzenleyici sistemleri
+| | Hipovolemi | Hipervolemi |
+| Nedenler | Kusma, ishal, kanama, terleme, diüretik, yanık | Kalp yetersizliği, KBH (Na-su atılımı ↓), siroz, nefrotik sendrom |
+| Bulgular | Taşikardi, **ortostatik hipotansiyon**, kuru mukoza, turgor ↓, çökük göz, oligüri | **Juguler venöz dolgunluk**, ödem, ral, kilo artışı, hipertansiyon |
+| Hormon yanıtı | **Renin-anjiyotensin-aldosteron ↑**, ADH ↑, sempatik ↑ | **ANP, BNP ↑**, RAAS ↓ |
+| İdrar | Az, konsantre, sodyumu düşük | |
+|= Hipovolemi ve hipervolemi.
+- **GFR'yi düşürenler:** afferent daralma (NSAİİ, sempatik, kalsinörin inhibitörleri), efferent genişleme (ACEİ, ARB), Bowman basıncı ↑ (obstrüksiyon), plazma onkotik basıncı ↑.
+- **Jukstaglomerüler aparat:** maküla densa (çıkan kalın kolun sonu, distal tübül başı; NaCl'yi algılar), jukstaglomerüler hücreler (afferent arteriyol; renin), ekstraglomerüler mezangiyal hücreler. NaCl ↑ → adenozin → afferent daralır (tübüloglomerüler geri bildirim); NaCl ↓ → renin.
+- **Fosfat:** PTH ve FGF-23 proksimal tübülde NaPi taşıyıcılarını azaltarak fosfatüri yapar; kalsitriol fosfat emilimini artırır.
+- **ADH:** plazma ozmolalitesi ↑ ya da hacim ↓ → V2 → akuaporin-2 → az, konsantre idrar.
+

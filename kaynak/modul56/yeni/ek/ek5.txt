@@ -1,0 +1,10 @@
+## Konu eki: açlıkta yakıt sırası ve amino grubunun yolu
+| Açlık süresi | Kan şekerinin kaynağı | Kasın yakıtı | Beynin yakıtı |
+| 0-4 saat (tokluk) | Besin | Glukoz | Glukoz |
+| 4-24 saat | **Karaciğer glikojeni**, başlayan glukoneogenez | **Yağ asitleri** (12. saatte esas yakıt) | Glukoz |
+| 1-3 gün | Glukoneogenez (amino asit, laktat, gliserol) | Yağ asitleri, keton | Glukoz, artan keton |
+| > 3 gün | Glukoneogenez (azalır, protein korunur) | Yağ asitleri | **Keton cisimleri** (yaklaşık üçte ikisi) |
+|= Açlıkta yakıt kullanımı.
+- **Hormon duyarlı lipaz:** glukagon, adrenalin, ACTH, büyüme hormonu, kortizol etkinleştirir; **insülin baskılar**.
+- **Amino grubunun yolu:** transaminasyon (aminotransferaz, B6; amino grubu α-ketoglutarata → glutamat) → **oksidatif deaminasyon (glutamat dehidrojenaz)** → NH<sub>3</sub> → üre döngüsü (CPS-I'in aktivatörü N-asetilglutamat; ilk iki basamak mitokondride: CPS-I ve ornitin transkarbamoilaz).
+- **Tiyamin (TPP):** piruvat dehidrogenaz, α-ketoglutarat dehidrogenaz, transketolaz koenzimi; eksiklikte **laktik asidoz**, Wernicke-Korsakoff, beriberi.

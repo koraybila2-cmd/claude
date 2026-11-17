@@ -1,0 +1,20 @@
+## Konu eki: akut böbrek hasarında idrar sedimenti ve acil diyaliz
+| Sediment bulgusu | Düşündürdüğü tablo |
+| Hiyalen silendir, sediment temiz | **Prerenal** azotemi |
+| **Kahverengi granüler (çamurlu) silendir**, tübül epitel hücreleri | **Akut tübüler nekroz** |
+| **Eritrosit silendiri**, dismorfik eritrosit | **Glomerülonefrit** (hızlı ilerleyen GN) |
+| **Lökosit silendiri**, eozinofilüri | **Akut interstisyel nefrit**, piyelonefrit |
+| **Oval yağ cisimciği**, yağlı silendir (Malta haçı) | **Nefrotik sendrom** (ABH değil) |
+| Kristaller | Ürat (tümör lizisi), oksalat (etilen glikol), ilaç kristalleri |
+|= İdrar sedimentinin yorumu.
+| | Prerenal | Akut tübüler nekroz |
+| FeNa | < %1 | > %2 |
+| İdrar osmolalitesi | > 500 mOsm/kg | < 350 |
+| İdrar sodyumu | < 20 mEq/L | > 40 |
+| BUN/kreatinin | > 20 | < 15 |
+| İdrar dansitesi | > 1,020 | ~1,010 |
+|= Prerenal ve renal ABH ayrımı.
+?? **Acil diyaliz “AEIOU”:** **A**sidoz (dirençli), **E**lektrolit (dirençli hiperkalemi), **I**ntoksikasyon (lityum, metanol, etilen glikol, salisilat), **O**verload (dirençli sıvı yüklenmesi, akciğer ödemi), **U**remi (perikardit, ensefalopati, kanama). Tek başına kreatinin değeri, oligüri ve hiperfosfatemi acil endikasyon değildir.
+- **KDIGO ABH:** 48 saatte kreatinin ≥ 0,3 mg/dL artış ya da 7 günde ≥ 1,5 kat ya da 6 saat idrar < 0,5 mL/kg/saat.
+- **Nefrotoksisite:** aminoglikozit (megalin, lizozom, 5-7. gün), NSAİİ (afferent daralma), ACEİ/ARB (efferent genişleme), kalsinörin inhibitörü (afferent daralma), kontrast (vazokonstriksiyon + doğrudan tübül toksisitesi; korunma: izotonik sıvı), “üçlü darbe” ACEİ + diüretik + NSAİİ.
+- **Hemodiyaliz:** küçük moleküller difüzyonla, su ultrafiltrasyonla, orta moleküller konveksiyonla.

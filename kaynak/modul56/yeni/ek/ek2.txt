@@ -1,0 +1,10 @@
+## Konu eki: raşitizm, yeniden beslenme ve ödemli malnütrisyon
+| | Ca | P | ALP | PTH | 25-OH D | 1,25-(OH)<sub>2</sub> D |
+| **D vitamini eksikliği raşitizmi** | N ya da ↓ | **↓** | **↑** | **↑** | **↓** | N, ↓ ya da ↑ |
+| Hipofosfatemik raşitizm (FGF-23 ↑) | N | ↓↓ | ↑ | N | N | ↓ ya da uygunsuz normal |
+| Kalsiyum eksikliği raşitizmi | ↓ | ↓ | ↑ | ↑ | N | ↑ |
+|= Raşitizm tiplerinin biyokimyası.
+- **D vitamini yolu:** deri (UVB) ya da besin → karaciğer 25-OH D (ölçülen form) → böbrek 1α-hidroksilaz → 1,25-(OH)<sub>2</sub> D (aktif). Profilaksi: **400 ünite/gün, ilk haftadan itibaren** (1 yaşına kadar).
+- **Klinik:** kraniotabes, ön fontanelin geç kapanması, raşitik rozari, el ve ayak bileklerinde genişleme, Harrison oluğu, bacaklarda eğrilik, diş çıkarmada gecikme, hipokalsemik nöbet.
+- **Yeniden beslenme sendromu:** insülin ↑ → fosfat, potasyum, magnezyum hücre içine → **hipofosfatemi** (en tipik), hipokalemi, hipomagnezemi, tiamin eksikliği, ödem. Düşük kaloriyle başla, elektrolit ve tiamin ver.
+- **Kwashiorkor:** protein eksikliği → apolipoprotein yapılamaz → **karaciğer yağlanması**; hipoalbuminemi → **ödem** (ağırlığı olduğundan iyi gösterir); deri ve saç değişiklikleri, apati. **Marasmus:** “bir deri bir kemik”, ödem yok, yağ ve kas kaybı.

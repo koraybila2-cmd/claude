@@ -1,0 +1,69 @@
+# Malnütrisyon ve Raşitizm | Bu yıl 5 soru (S8, S10, S18, S22, S54); geçen yıl 4 soru. 3 soru daha önceki sınavlarda aynı ya da benzer biçimde geldi, 2 soru ilk kez soruldu. Bu yılın kartlarından sonra konu eki, ardından önceki baskının bu bölümü (2025-26 ve 2024-25 soruları ve konu tekrarı) gelir. || Modül 5-6 · Bölüm 2 · 2026-27 soruları
+@QB BU YILIN SORULARI
+@Q MSD 5-6 2026-27 · SORU 8 | BU YIL | İLK KEZ SORULDU
+@K İki yaşında bir erkek çocuk, uzun süredir yetersiz beslenme ve halsizlik nedeniyle değerlendiriliyor. Muayenede her iki ayakta gode bırakan ödem, kas kitlesinde azalma ve deri altı yağ dokusunda kayıp saptanıyor. Son iki haftadaki ölçümlerinde vücut ağırlığının değişmediği görülüyor. Bu hastanın beslenme durumuna ilişkin en doğru yorum hangisidir?
+A) Vücut ağırlığının değişmemesi malnütrisyonu dışlar.
+B) Ödem varlığında antropometrik değerlendirmeye gerek yoktur.
+C) Bu hastada malnütrisyon tanısı yalnızca serum albümin düzeyiyle konulabilir.
+D) Ödem, doku kaybını maskeleyerek vücut ağırlığının olduğundan daha iyi görünmesine neden olabilir. ✓
+E) Ödem, beslenme tedavisine yeterli yanıt alındığını gösterir.
+@O Önceki yıllar: Arşivde aynı soru yok. Kwashiorkorda ödem blok sınavı 2025-26 S81'de soruldu.
+D doğru. Ödemli malnütrisyonda (**kwashiorkor**) dokularda biriken sıvı, kaybedilen kas ve yağın ağırlığını karşılar; çocuğun ağırlığı değişmiyor ya da normal görünür. Bu yüzden ödemli çocukta ağırlık ve ağırlığa dayalı göstergeler malnütrisyonun derecesini **olduğundan hafif** gösterir; üst orta kol çevresi ve klinik bulgular birlikte değerlendirilir. Ödem varlığı tek başına **ağır akut malnütrisyon** ölçütüdür.
+Ağırlığın değişmemesi malnütrisyonu dışlamaz (A). Antropometri yine yapılır, ama dikkatle yorumlanır (B). Tanı tek bir laboratuvar değeriyle konmaz (C). Tedaviyle ödemin çözülmesi sırasında ağırlık önce **düşer**; ödem tedaviye yanıtın göstergesi değildir (E).
+@@
+@Q MSD 5-6 2026-27 · SORU 10 | BU YIL | 7. KEZ SORULDU; BU KEZ MEKANİZMA
+@K On dört yaşında Anoreksiya Nervoza tanılı bir kız hasta, belirgin kilo kaybı ve son 10 gündür çok az besin tüketmesi nedeniyle yatırılıyor. Beslenme desteğine başlanmasından 48 saat sonra kas güçsüzlüğü, taşikardi ve ödem gelişiyor. Laboratuvar incelemesinde başlangıçta normal olan serum fosforunun belirgin azaldığı, hipokalemi ve hipomagnezemi geliştiği saptanıyor. Bu tablonun gelişiminden sorumlu temel mekanizma hangisidir?
+A) İnsülin salınımının artmasıyla fosfat, potasyum ve magnezyumun hücre içine geçmesi ✓
+B) Glukagon salınımının artmasıyla hücre içi elektrolitlerin kana geçmesi
+C) Parathormon baskılanması sonucunda serum fosforunun yükselmesi
+D) Yağ yıkımının artmasıyla keton cisimlerinin birikmesi
+E) Bağırsaktan fosfat emiliminin artmasıyla hiperkalsemi gelişmesi
+@O Önceki yıllar: Yeniden beslenme sendromu MSD 2025-26 S49, 2024-25 S72, 2023-24 S74, 2022-23 S72 ve blok sınavı 2025-26 S83, 2023-24 S98, 2022-23 S97'de soruldu (çoğunda “magnezyum yükselir” yanlış şıktı).
+A doğru. Uzun açlıkta vücudun fosfat, potasyum ve magnezyum depoları boşalmıştır ama serum düzeyleri normal görünebilir. Beslenme (özellikle karbonhidrat) başlayınca **insülin salınımı** artar; insülin glukozla birlikte **fosfat, potasyum ve magnezyumu hücre içine** sokar ve glikoliz-ATP yapımı için fosfat tüketilir. Sonuç: **hipofosfatemi** (en tipik), hipokalemi, hipomagnezemi, tiamin eksikliği ve sodyum-su tutulumuna bağlı ödem; kas güçsüzlüğü, aritmi, kalp yetersizliği. Önlem: düşük kaloriyle başlayıp yavaş artırmak, elektrolitleri ve tiamini önceden ve beslenme süresince yerine koymak.
+Glukagon (B) açlık hormonudur. Parathormon (C) ve keton cisimleri (D) bu tablonun mekanizması değildir. Bağırsaktan fosfat emilimi artmaz (E).
+@@
+@Q MSD 5-6 2026-27 · SORU 18 | BU YIL | İLK KEZ BU BİÇİMDE SORULDU
+@K D vitamini metabolizması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?
+A) D vitamini suda çözünen bir vitamindir.
+B) D vitamininin aktif formu karaciğerde oluşan 25-hidroksi D vitaminidir.
+C) D vitamininin böbrekte 1-alfa hidroksilasyonu sonucunda aktif formu olan 1,25-dihidroksi D vitamini oluşur. ✓
+D) D vitamini bağırsaklardan kalsiyum emilimini azaltır.
+E) D vitamini sentezi yalnızca besinlerle alınan ergokalsiferolden gerçekleşir.
+@O Önceki yıllar: Raşitizm her yıl soruluyor: profilaksi dozu (MSD 2025-26 S12, 2024-25 S50), klinik (2025-26 S13), biyokimya (2024-25 S54, blok sınavı 2025-26 S22). Metabolizma ilk kez bu biçimde geldi.
+C doğru. D vitamini yağda çözünür. Deride 7-dehidrokolesterolden UVB ile **kolekalsiferol (D3)** yapılır ya da besinle D2/D3 alınır. Karaciğerde 25-hidroksilasyonla **25-OH D** (dolaşımdaki ve depolanan form; vitamin D düzeyi bununla ölçülür) oluşur. Böbrek proksimal tübülünde **1α-hidroksilaz** ile aktif **1,25-dihidroksi D (kalsitriol)** yapılır; PTH ve düşük fosfat bu enzimi uyarır, FGF-23 baskılar.
+D vitamini suda değil yağda çözünür (A). 25-OH D aktif form değildir (B). Kalsitriol bağırsaktan kalsiyum ve fosfat emilimini **artırır** (D). Esas kaynak deride güneş ışığıyla sentezdir (E).
+@@
+@Q MSD 5-6 2026-27 · SORU 22 | BU YIL | 8. KEZ SORULDU
+@K Dört aylık, yalnızca anne sütü ile beslenen ve doğumdan itibaren D vitamini desteği almayan bir bebekte kraniotabes, el bileklerinde genişleme ve raşitik rozari saptanıyor. Bu hastada aşağıdaki biyokimyasal bulgulardan hangisinin görülmesi en olasıdır?
+A) Düşük PTH, yüksek fosfor, düşük alkalen fosfataz
+B) Yüksek PTH, düşük fosfor, yüksek alkalen fosfataz ✓
+C) Düşük PTH, yüksek kalsiyum, düşük alkalen fosfataz
+D) Normal PTH, yüksek fosfor, normal alkalen fosfataz
+E) Yüksek PTH, yüksek kalsiyum, düşük alkalen fosfataz
+@O Önceki yıllar: Ters hâli (“biyokimyasal bulgusu olmayan → düşük PTH”) MSD 2024-25 S54, 2023-24 S53, 2022-23 S49, 2021-22 S52, 2018-19 S49 ve blok sınavı 2025-26 S22, 2019-20 S70'te soruldu.
+B doğru. D vitamini eksikliğinde bağırsaktan kalsiyum emilimi azalır; kalsiyumu korumak için **PTH yükselir** (sekonder hiperparatiroidi). PTH kemikten kalsiyum çeker ve böbrekten **fosfatı attırır**: **fosfor düşer**. Mineralize olamayan kemikte osteoblast etkinliği arttığı için **alkalen fosfataz yükselir**. Serum kalsiyumu çoğunlukla normal ya da hafif düşüktür.
+Bebekte kraniotabes (kafatası kemiklerinde yumuşaklık), el bileklerinde genişleme ve raşitik rozari (kosta-kondral bileşkelerde şişlik) klasik bulgulardır. Diğer şıklardaki düşük PTH, yüksek fosfor ve düşük ALP raşitizmle uyumsuzdur.
+@@
+@Q MSD 5-6 2026-27 · SORU 54 | BU YIL | AYNI KONU
+@K Aşağıdaki klinik tablolardan hangisinde karaciğer yağlanması görülebilir?
+A) Marasmus
+B) Kwashiorkor ✓
+C) Starvasyon
+D) Kısa süreli açlık
+E) Akut viral hepatit
+@O Önceki yıllar: Kwashiorkor ve marasmus ayrımı blok sınavı 2025-26 S81 (“bir deri bir kemik” marasmustur), 2024-25 S100 ve MSD 2023-24 S72, 2022-23 S76'da soruldu.
+B doğru. Kwashiorkorda enerji görece yeterli (karbonhidrattan zengin) ama **protein yetersizdir**. Karaciğer, yaptığı trigliseridi kana VLDL olarak vermek için **apolipoprotein B** gerektirir; protein eksikliğinde apolipoprotein yapılamaz, trigliserit hepatositte birikir: **yağlı karaciğer ve hepatomegali**. Ayrıca hipoalbuminemiye bağlı **ödem**, deri lezyonları (pul pul dökülen “boya kalkması”), saçta renk açılması, apati görülür.
+Marasmusta (A) ve uzun açlıkta (C) yağ depoları tükenmiştir, karaciğer yağlanması tipik değildir. Kısa süreli açlık (D) yağlanma yapmaz. Akut viral hepatit (E) hepatosit hasarı ve iltihapla seyreder (yağlanma alkol, ilaç ve metabolik nedenlerde görülür).
+@@
+
+## Konu eki: raşitizm, yeniden beslenme ve ödemli malnütrisyon
+| | Ca | P | ALP | PTH | 25-OH D | 1,25-(OH)<sub>2</sub> D |
+| **D vitamini eksikliği raşitizmi** | N ya da ↓ | **↓** | **↑** | **↑** | **↓** | N, ↓ ya da ↑ |
+| Hipofosfatemik raşitizm (FGF-23 ↑) | N | ↓↓ | ↑ | N | N | ↓ ya da uygunsuz normal |
+| Kalsiyum eksikliği raşitizmi | ↓ | ↓ | ↑ | ↑ | N | ↑ |
+|= Raşitizm tiplerinin biyokimyası.
+- **D vitamini yolu:** deri (UVB) ya da besin → karaciğer 25-OH D (ölçülen form) → böbrek 1α-hidroksilaz → 1,25-(OH)<sub>2</sub> D (aktif). Profilaksi: **400 ünite/gün, ilk haftadan itibaren** (1 yaşına kadar).
+- **Klinik:** kraniotabes, ön fontanelin geç kapanması, raşitik rozari, el ve ayak bileklerinde genişleme, Harrison oluğu, bacaklarda eğrilik, diş çıkarmada gecikme, hipokalsemik nöbet.
+- **Yeniden beslenme sendromu:** insülin ↑ → fosfat, potasyum, magnezyum hücre içine → **hipofosfatemi** (en tipik), hipokalemi, hipomagnezemi, tiamin eksikliği, ödem. Düşük kaloriyle başla, elektrolit ve tiamin ver.
+- **Kwashiorkor:** protein eksikliği → apolipoprotein yapılamaz → **karaciğer yağlanması**; hipoalbuminemi → **ödem** (ağırlığı olduğundan iyi gösterir); deri ve saç değişiklikleri, apati. **Marasmus:** “bir deri bir kemik”, ödem yok, yağ ve kas kaybı.
+

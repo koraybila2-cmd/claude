@@ -1,0 +1,10 @@
+## Konu eki: bağırsakların damar, lenf ve sinir haritası
+| Bölüm | Embriyolojik köken | Arter | Lenf | Parasempatik |
+| Mide, duodenumun papillaya kadar kısmı | Ön bağırsak | **Truncus coeliacus** | Çölyak düğümler | N. vagus |
+| Papilladan colon transversum'un sağ üçte ikisine (jejunum, ileum, **caecum**, apendiks, çıkan kolon) | Orta bağırsak | **A. mesenterica superior** | Mezenterik superior düğümler | N. vagus |
+| Colon transversum'un sol üçte biri → rectum üst kısmı | Arka bağırsak | **A. mesenterica inferior** | Mezenterik inferior düğümler | Nn. splanchnici pelvici (S2-S4) |
+| Anal kanal, linea pectinata altı | Ektoderm (proktodeum) | A. rectalis inferior (a. pudenda interna) | **Yüzeyel inguinal** düğümler | Somatik: **n. pudendus** |
+|= Bağırsak bölümlerinin damar, lenf ve sinirleri.
+- **İkili beslenme (sınır bölgeleri):** pars descendens duodeni (truncus coeliacus + AMS; pankreatikoduodenal arkadlar) ve colon transversum / fleksura coli sinistra (AMS + AMİ; arcus marginalis ve Riolan arkı). Fleksura coli sinistra (Griffiths noktası) iskemiye en açık bölgedir.
+- **Linea pectinata:** üstü visseral sinir (ağrısız), portal drenaj (iç hemoroid), iç iliak düğümler; altı somatik sinir (ağrılı), sistemik drenaj, yüzeyel inguinal düğümler.
+- **Histoloji:** duodenum Brunner bezleri; jejunum en belirgin plika sirkülarisler ve uzun villuslar; ileum Peyer plakları; kolonda villus ve Paneth hücresi yok, goblet hücresi bol; kript tabanında Paneth hücresi (lizozim, defensin; antimikrobiyal).

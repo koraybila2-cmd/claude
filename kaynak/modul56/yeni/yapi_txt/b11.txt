@@ -1,0 +1,79 @@
+# Dermatofitler ve Diğer Mantarlar | Bu yıl 6 soru (S69, S70, S71, S72, S73, S74); geçen yıl 6 soru. 2 soru daha önceki sınavlarda aynı ya da benzer biçimde geldi, 4 soru ilk kez soruldu. Bu yılın kartlarından sonra konu eki, ardından önceki baskının bu bölümü (2025-26 ve 2024-25 soruları ve konu tekrarı) gelir. || Modül 5-6 · Bölüm 11 · 2026-27 soruları
+@QB BU YILIN SORULARI
+@Q MSD 5-6 2026-27 · SORU 69 | BU YIL | BENZER BİLGİ
+@K Aşağıdaki fırsatçı patojen küf cinslerinden hangisi anjiyoinvaziv yayılım gösterir?
+A) *Aspergillus*
+B) *Rhizopus* ✓
+C) *Candida*
+D) *Cryptococcus*
+E) *Lodderomyces*
+@O Önceki yıllar: Rhizopus gibi zigomiçetlerin anjioinvazyonu ve rinoorbital yerleşimi MSD 2024-25 S60, 2023-24 S61 ve blok sınavı 2024-25 S83, 2021-22 S80'de soruldu.
+B doğru (anahtara göre). **Rhizopus** (Mucorales takımı, eski adıyla zigomiçetler) damar duvarını invaze eder (**anjioinvazyon**): tromboz, doku enfarktı ve siyah nekrotik eskar. Diyabetik ketoasidozda, nötropenide, deferoksamin tedavisinde ve organ naklinde **rinoorbitoserebral** mukormikoz yapar. Bölmesiz, geniş, dik açıyla dallanan hifleri vardır. Tedavi amfoterisin B ve cerrahi debridmandır.
+*Aspergillus* (A) da anjioinvaziv bir küftür (nötropenide invaziv pulmoner aspergilloz); anahtar, soruda tipik anjioinvaziv mantar olarak Mucorales'i istemiştir. *Candida*, *Cryptococcus* ve *Lodderomyces* (C, D, E) küf değil mayadır.
+@@
+@Q MSD 5-6 2026-27 · SORU 70 | BU YIL | İLK KEZ SORULDU
+@K Derin dermis ve alt dokulara yayılarak Majocchi granülomu etkeni olan en sık dermatofit hangisidir?
+A) *Trichophyton indotineae*
+B) *Epidermophyton floccosum*
+C) *Trichophyton rubrum* ✓
+D) *Microsporum canis*
+E) *Nannizzia (Microsporum) gypsea*
+@O Önceki yıllar: Arşivde aynı soru yok. Dermatofit türleri ve kaynakları (antropofilik, zoofilik, geofilik) MSD 2024-25 S62-S64 ve 2025-26 S39'da soruldu.
+C doğru. **Majocchi granülomu**, dermatofitin kıl folikülünden derin dermise ve deri altına inerek oluşturduğu folikülit ve granülomatöz iltihaptır. En sık etken **Trichophyton rubrum**'dur (dünyada en sık dermatofit). Kadınlarda bacak tıraşı ve tinea'nın yanlışlıkla **topikal kortikosteroidle** tedavisi riski artırır; bağışıklığı baskılanmış hastada yaygınlaşabilir. Tedavi sistemik antifungaldir (terbinafin, itrakonazol).
+T. indotineae (A) terbinafine dirençli yaygın tinea, E. floccosum (B) kasık ve ayak tineası, M. canis (D) zoofilik tinea kapitis, N. gypsea (E) geofilik dermatofitozun etkenidir.
+@@
+@Q MSD 5-6 2026-27 · SORU 71 | BU YIL | İLK KEZ SORULDU
+@K Aşağıdaki mayalardan hangisinde germ tüp pozitiftir?
+A) *Candida albicans* ✓
+B) *Candida parapsilosis*
+C) *Candida tropicalis*
+D) *Candida (Meyerozyma) guilliermondii*
+E) *Candida glabrata*
+@O Önceki yıllar: Arşivde aynı soru yok.
+A doğru. Germ tüp testinde maya insan ya da hayvan serumunda 37 °C'de 2-3 saat bekletilir. ***Candida albicans*** maya hücresinden çıkan, başlangıcında daralma olmayan ince bir uzantı (**germ tüp**, gerçek hif başlangıcı) oluşturur. Bu, *C. albicans*'ı diğer türlerden ayıran hızlı ve ucuz testtir; *C. dubliniensis* de pozitiftir.
+*C. parapsilosis*, *C. tropicalis* (yalancı hif yapar, başında daralma vardır), *C. guilliermondii* ve *C. glabrata* (hif ya da yalancı hif yapmaz, flukonazole az duyarlı) germ tüp negatiftir.
+@@
+@Q MSD 5-6 2026-27 · SORU 72 | BU YIL | İLK KEZ SORULDU
+@K Yüksek terbinafin direnci bulunduran inatçı dermatofitoz etkeni hangisidir?
+A) *Nannizzia (Microsporum) gypsea*
+B) *Trichophyton tonsurans*
+C) *Microsporum canis*
+D) *Epidermophyton floccosum*
+E) *Trichophyton indotineae* ✓
+@O Önceki yıllar: Arşivde aynı soru yok.
+E doğru. ***Trichophyton indotineae*** (eskiden T. mentagrophytes genotip VIII), son on yılda Hindistan'dan dünyaya yayılan, **terbinafine yüksek dirençli** bir dermatofittir. Direnç, terbinafinin hedefi olan **skualen epoksidaz** genindeki nokta mutasyonlarından kaynaklanır. Yaygın, kaşıntılı, tekrarlayan tinea korporis, kruris ve fasiyeyi yapar; insandan insana kolay bulaşır ve çoğu kez topikal steroid-antifungal karışımlarının yanlış kullanımıyla ağırlaşır. Tedavide itrakonazol tercih edilir.
+Diğer şıklardaki dermatofitlerde yüksek terbinafin direnci tipik değildir.
+@@
+@Q MSD 5-6 2026-27 · SORU 73 | BU YIL | İLK KEZ SORULDU
+@K Hücre duvarında melanin içeren mayalardaki en sık melanin formu hangisidir?
+A) Nöromelanin
+B) Piyomelanin
+C) Ömelanin ✓
+D) Piyosiyanin
+E) Katekolamelanin
+@O Önceki yıllar: Arşivde aynı soru yok. Melanin içeren (koyu pigmentli) mantarların yol açtığı feohifomikoz MSD 2025-26 S42'de soruldu.
+C doğru (anahtara göre). *Cryptococcus neoformans* gibi hücre duvarında melanin bulunan mayalar, konakçıdan aldıkları **L-DOPA** gibi katekolaminleri **lakkaz** enzimiyle oksitleyerek **ömelanin (eumelanin)** yapar. Beyinde katekolaminlerin bol olması kriptokokun beyni sevmesiyle ilişkilendirilir; melanin mantarı oksidatif strese, fagositoza ve bazı antifungallere karşı korur. Laboratuvarda kuş yemi (Guizotia) agarında kahverengi koloni bu özelliğe dayanır.
+Koyu pigmentli (dematiyase) küflerde ise **DHN-melanin** (1,8-dihidroksinaftalen) yolu baskındır. Piyomelanin (B) tirozin yıkımından oluşur (Aspergillus, Pseudomonas). Piyosiyanin (D) Pseudomonas'ın mavi-yeşil pigmentidir. Nöromelanin (A) insan beyninde (substantia nigra) bulunur.
+@@
+@Q MSD 5-6 2026-27 · SORU 74 | BU YIL | AYNI BİLGİ
+@K Aşağıdaki dermatofitlerden hangisi zoofiliktir?
+A) *Nannizzia (Microsporum) gypsea*
+B) *Trichophyton tonsurans*
+C) *Microsporum canis* ✓
+D) *Epidermophyton floccosum*
+E) *Trichophyton indotineae*
+@O Önceki yıllar: “Toplumda kedi ve köpekten en sık bulaşan dermatofit → Microsporum canis” MSD 2024-25 S63'te; geofilik N. gypsea 2024-25 S64 ve blok sınavı 2019-20 S81'de soruldu.
+C doğru. ***Microsporum canis*** **zoofilik** bir dermatofittir; kedi ve köpeklerden çocuklara bulaşarak tinea kapitis ve tinea korporis yapar. Wood lambasında yeşil floresans verir. Zoofilik etkenler insanda daha **iltihaplı** lezyon (kerion) yapar.
+*Nannizzia gypsea* (A) **geofiliktir** (toprak; çiftçi, bahçıvan, arkeolog). *T. tonsurans* (B; dünyada tinea kapitisin en sık antropofilik etkeni), *E. floccosum* (D) ve *T. indotineae* (E) **antropofiliktir** (insandan insana).
+@@
+
+## Konu eki: mantarları ayırmanın ipuçları
+| Kaynak | Dermatofitler | Özellik |
+| **Antropofilik** (insandan insana) | *T. rubrum* (en sık; **Majocchi granülomu**), *T. tonsurans* (tinea kapitisin en sık antropofilik etkeni), *E. floccosum*, *T. indotineae* (**terbinafine dirençli**), *T. schoenleinii* (favus, kalıcı alopesi) | Kronik, az iltihaplı |
+| **Zoofilik** (hayvandan) | ***Microsporum canis*** (kedi, köpek), *T. verrucosum* (sığır) | İltihaplı (kerion); M. canis Wood lambasında yeşil |
+| **Geofilik** (topraktan) | ***Nannizzia (Microsporum) gypsea*** | Çiftçi, bahçıvan, seramikçi, arkeolog |
+|= Dermatofitlerin ekolojik sınıflaması.
+- **Mayalar:** germ tüp (+) → *Candida albicans* (ve *C. dubliniensis*); *C. glabrata* flukonazole az duyarlı. *Cryptococcus* kapsüllü, hücre duvarında **ömelanin** (lakkaz ile DOPA'dan).
+- **Küfler:** anjioinvaziv → **Mucorales** (*Rhizopus*, *Mucor*; diyabetik ketoasidozda rinoserebral, bölmesiz geniş hif) ve *Aspergillus* (nötropenide, bölmeli dar açılı hif). Dematiyase (koyu pigmentli) küfler DHN-melanin taşır, feohifomikoz yapar.
+- **Laboratuvar:** saç ve deri örneği %10 KOH ile incelenir; kültürde sikloheksimid kontaminant küfleri baskılar; Sabouraud agardaki küf laktofenol pamuk mavisiyle boyanır.
+

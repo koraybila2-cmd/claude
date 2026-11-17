@@ -1,0 +1,8 @@
+## Konu eki: KBH, diyabetik böbrek hastalığı ve hipertansiyon
+- **KBH tanımı:** > 3 ay süren eGFR < 60 ya da böbrek hasarı belirteci (albümin/kreatinin ≥ 30 mg/g, sediment, görüntüleme, biyopsi). Evreleme: G1-G5 (eGFR) + A1-A3 (albüminüri: < 30, 30-300, > 300 mg/g).
+- **Kreatinin kas kütlesine bağlıdır:** yaşlı, kadın, zayıf hastada normal kreatinin düşük GFR'yi gizler. ABH ile KBH ayrımında en değerli bilgi önceki kreatinin değerleridir.
+- **Türkiye:** KBH prevalansı %15,7 (CREDIT); evre 5 KBH'nin en sık nedeni **diyabet**, sonra hipertansiyon.
+- **KBH komplikasyonları:** normokrom normositer anemi (eritropoetin ↓), hiperfosfatemi ve FGF-23 ↑, sekonder hiperparatiroidi, metabolik asidoz, hiperkalemi, hipervolemi, **hipoglisemi** (insülin klirensi ve renal glukoneogenez ↓).
+- **Diyabetik böbrek hastalığı:** en erken yapısal değişiklik bazal membran kalınlaşması (elektron mikroskobu); sonra mezangiyal genişleme, Kimmelstiel-Wilson nodülleri, arteriyolar hiyalinoz. **Kırmızı bayraklar** (biyopsi düşün): tip 1'de < 5 yıl, retinopati yok, aktif sediment, ani nefrotik sendrom, hızlı GFR kaybı, RAS blokajıyla eGFR'de > %30 düşüş.
+- **Tedavi:** tek RAS blokeri (ACEİ ya da ARB; ikisi birlikte değil), SGLT2 inhibitörü, tuz < 5 g, hedef sistolik < 120-130.
+- **Hipertansiyon:** birinci basamak dört grup ACEİ, ARB, tiyazid (benzeri), KKB; beta bloker birinci basamak değil. Akıllı saat ve manşonsuz ölçüm tanı-takipte kullanılmaz. Uzun dönem kan basıncını böbreğin tuz-su atma kapasitesi belirler (Guyton). Beyaz önlük: muayenehanede yüksek, evde normal; maskeli: tersi.

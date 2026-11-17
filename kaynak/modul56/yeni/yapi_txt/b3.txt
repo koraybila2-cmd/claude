@@ -1,0 +1,93 @@
+# İshal, Malabsorbsiyon ve Çölyak | Bu yıl 6 soru (S7, S9, S19, S21, S75, S76); geçen yıl 6 soru. 5 soru daha önceki sınavlarda aynı ya da benzer biçimde geldi, 1 soru ilk kez soruldu. Bu yılın kartlarından sonra konu eki, ardından önceki baskının bu bölümü (2025-26 ve 2024-25 soruları ve konu tekrarı) gelir. || Modül 5-6 · Bölüm 3 · 2026-27 soruları
+@QB BU YILIN SORULARI
+@Q MSD 5-6 2026-27 · SORU 7 | BU YIL | AYNI KONUNUN TERS HÂLİ
+@K Egzokrin pankreas yetmezliği tanısında kullanılmayan test aşağıdakilerden hangisidir?
+A) Serum tripsinojen düzeyi
+B) Fekal elastaz-1 tayini
+C) Ter testi
+D) Sekretin uyarısı sonrası fekal enzim düzeyi
+E) Gaita pH ✓
+@O Önceki yıllar: 2025-26 S51 ve 2024-25 S73'te (2023-24 S73, 2022-23 S73) doğru cevap “dışkıda fekal elastaz-1”. Dışkı pH'ının düşüklüğü karbonhidrat malabsorbsiyonunun bulgusu olarak 2025-26 S48'de soruldu.
+E doğru (kullanılmaz). **Dışkı pH'ı** karbonhidrat malabsorbsiyonunu gösterir: emilmeyen karbonhidratı kolon bakterileri fermente eder, kısa zincirli yağ asitleri oluşur ve dışkı pH'ı 5,5-6'nın altına düşer. Pankreas yetmezliğinin testi değildir.
+Ekzokrin pankreas yetmezliğinde: **fekal elastaz-1** düşüktür (en sık kullanılan dışkı testi; B); **serum (immünreaktif) tripsinojen** düşer (A); sekretin uyarısı sonrası pankreas sıvısı ve enzim çıkışı ölçülür (D); çocuklarda en sık nedeni kistik fibroz olduğu için **ter testi** yapılır (C).
+@@
+@Q MSD 5-6 2026-27 · SORU 9 | BU YIL | AYNI KONU
+@K Üç yaşında erkek çocuk sık sık sulu dışkılama yakınması ile getiriliyor. Aile çocuğun fazla miktarda gaz çıkardığından yakınıyor. Öyküsünden bebekken de fazla gazı olduğu, dışkısının sulu olduğu ve bebekken sürekli pişik olduğu öğreniliyor. Bu bebekte en olası tanı aşağıdakilerden hangisidir?
+A) Karbonhidrat malabsorbsiyonu ✓
+B) Protein malabsorbsiyonu
+C) Yağ malabsorbsiyonu
+D) Konjenital klor diyaresi
+E) Enterokinaz eksikliği
+@O Önceki yıllar: Karbonhidrat malabsorbsiyonunun bulguları MSD 2025-26 S48, 2023-24 S76 ve blok sınavı 2025-26 S82'de soruldu.
+A doğru. Emilmeyen karbonhidrat (laktoz, sukroz, fruktoz) ince bağırsakta **ozmotik olarak su çeker** (sulu ishal); kolonda bakterilerce fermente edilip **gaz** (H<sub>2</sub>, CO<sub>2</sub>; şişkinlik, gaz çıkarma) ve **organik asitler** oluşturur. Dışkı asidik olur (pH < 6) ve perianal deriyi tahriş eder: **pişik**. Dışkıda indirgen madde pozitiftir; nefeste hidrojen testi tanı koydurur.
+Yağ malabsorbsiyonu (C) yağlı, kötü kokulu, hacimli, soluk dışkı (steatore) yapar. Protein malabsorbsiyonu (B) ödem ve hipoalbuminemiyle seyreder. Konjenital klor diyaresi (D) doğumdan itibaren ağır sulu ishal ve hipokloremik alkalozla, enterokinaz eksikliği (E) ağır protein malabsorbsiyonu ve ödemle gider.
+@@
+@Q MSD 5-6 2026-27 · SORU 19 | BU YIL | İLK KEZ SORULDU
+@K Dört aylık bir bebekte doğumdan kısa süre sonra başlayan, sürekli devam eden ishal ve kilo alamama şikayetleri bulunuyor. Anamnezde ishalin doğumdan hemen sonra başladığı öğreniliyor. Bu bulgu aşağıdaki durumlardan hangisini öncelikle düşündürmelidir?
+A) Oyun çocuğu ishali
+B) Antibiyotik kullanımına bağlı ishal
+C) Akut viral gastroenterit
+D) Konjenital bir bağırsak veya sindirim sistemi bozukluğu ✓
+E) Besin zehirlenmesi
+@O Önceki yıllar: Arşivde aynı soru yok. İshal tanımları (akut ishal 2025-26 S17; persistan ishal 2024-25 S53 ve dört sınav daha) soruldu.
+D doğru. Doğumdan hemen sonra başlayan ve süren ishal, **doğuştan** bir sindirim-emilim ya da epitel bozukluğunu düşündürür: **konjenital klor ishali**, **konjenital sodyum ishali**, **glukoz-galaktoz malabsorbsiyonu**, konjenital laktaz eksikliği, **mikrovillus inklüzyon hastalığı**, tufting enteropatisi. Bu bebekler büyüme geriliği ve ağır sıvı-elektrolit bozukluklarıyla gelir.
+Oyun çocuğu ishali (A) 1-5 yaş arasında, büyümesi normal çocukta görülür. Antibiyotiğe bağlı ishal (B), viral gastroenterit (C) ve besin zehirlenmesi (E) akut ve geçici tablolardır.
+@@
+@Q MSD 5-6 2026-27 · SORU 21 | BU YIL | AYNI KONU, BU KEZ ORTA DERECE
+@K Akut ishal nedeniyle getirilen 1 yaşında 10 kg ağırlığı olan bir bebekte ağız mukozası kuru, göz küreleri hafif çökük, kapiller dolum zamanı uzamış ve deri turgoru hafif azalmış olarak değerlendiriliyor. Bilinç durumu normal, çocuk huzursuz, kan basıncı normal ve 700 gr tartı kaybı bulunuyor. Bu çocukta dehidratasyon derecesi aşağıdakilerden hangisidir?
+A) Dehidratasyon yoktur.
+B) Hafif dehidratasyon (%3-5)
+C) Orta derecede dehidratasyon (%6-9) ✓
+D) Ağır dehidratasyon (%10 ve üzeri)
+E) Septik şok
+@O Önceki yıllar: Dehidratasyon derecelendirmesi MSD 2025-26 S15, 2024-25 S52 ve 2023-24 S51'de soruldu; hepsinde cevap ağır dehidratasyondu.
+C doğru. Ağırlık kaybı 700 g / 10 kg = **%7**; bulgular da (kuru mukoza, hafif çökük gözler, uzamış kapiller dolum, hafif azalmış turgor, huzursuz ama bilinci açık, kan basıncı normal) **orta dehidratasyonla (%6-9)** uyumludur. Tedavi ağızdan rehidratasyon sıvısıyla (ORS) 4 saatte yaklaşık 50-100 mL/kg.
+Hafif dehidratasyonda (B) bulgular belirgin değildir; ağır dehidratasyonda (D) bilinç bulanıklığı, letarji, zayıf nabız, hipotansiyon ve şok görülür. Septik şok (E) için kanıt yoktur.
+@@
+@Q MSD 5-6 2026-27 · SORU 75 | BU YIL | AYNI SORU
+@K Çölyak hastalığının patogenezinde aşağıdakilerden hangisi temel rol oynar?
+A) Glutenin bağırsak epitelinde doğrudan toksik hasar oluşturması
+B) Bağırsak florasındaki bakterilerin villusları doğrudan hasarlaması
+C) Bağırsak mukozasında IgE aracılı alerjik reaksiyon gelişmesi
+D) Pankreatik sindirim enzimlerinin yetersizliğine bağlı malabsorpsiyon
+E) Gluten peptitlerine karşı gelişen T hücre aracılı immün yanıt ✓
+@O Önceki yıllar: Aynı soru MSD 2025-26 S46'da (“gluten alımı sonrası gelişen T hücre aracılı immün yanıt”) soruldu.
+E doğru. Çölyak hastalığı genetik yatkınlığı olan bireyde (**HLA-DQ2, DQ8**) glutenin gliadin peptitlerine karşı gelişen **T hücre aracılı** bir immün hastalıktır:
+1. Sindirime dirençli gliadin peptitleri epitelden lamina propriaya geçer.
+2. **Doku transglutaminazı** (tTG) peptitleri deamide eder; negatif yüklenen peptitler HLA-DQ2/DQ8'e daha sıkı bağlanır.
+3. Antijen sunan hücreler bunları **CD4 T hücrelerine** sunar; T hücreleri IFN-γ salgılar ve iltihabı başlatır.
+4. Epitel hücreleri IL-15 salgılar; **intraepitelyal CD8 lenfositler** etkinleşip enterositleri öldürür.
+5. B hücreleri anti-tTG (IgA) ve anti-endomisyum antikorları yapar (tanıda kullanılır).
+Gluten doğrudan toksik değildir (A). Hastalık bakteri (B), IgE aracılı alerji (C) ya da pankreas yetmezliği (D) ile açıklanmaz.
+@@
+@Q MSD 5-6 2026-27 · SORU 76 | BU YIL | AYNI BİLGİ
+@K Çölyak hastalığında ince bağırsak biyopsisinde izlenen karakteristik histopatolojik değişiklikler aşağıdakilerden hangisinde birlikte verilmiştir?
+A) Villus uzaması, kript atrofisi ve intraepitelyal lenfosit azalması
+B) Villus atrofisi, kript atrofisi ve granülom oluşumu
+C) Villus atrofisi, kript hiperplazisi ve intraepitelyal lenfosit artışı ✓
+D) Villus uzaması, kript hiperplazisi ve goblet hücresi artışı
+E) Villus atrofisi, kript kaybı ve submukozal fibrozis
+@O Önceki yıllar: “Çölyak için en tipik bulgu → villöz kısalma ve kript hiperplazisi” MSD 2025-26 S45'te; gluten enteropatisinin mikroskobik bulguları (intraepitelyal lenfosit artışı, villus atrofisi) 2024-25 S65'te; kript hiperplazisi blok sınavı 2019-20 S93'te soruldu.
+C doğru. Çölyak hastalığında **villuslar kısalır ve düzleşir (atrofi)**, yıkılan epiteli yerine koymak için **kriptler uzar ve hücreleri çoğalır (kript hiperplazisi)**, epitelde **intraepitelyal lenfositler artar** (> 25/100 enterosit); lamina propriada lenfosit ve plazma hücreleri artar. Bu bulgular **Marsh sınıflamasıyla** derecelendirilir ve glutensiz diyetle düzelir.
+Villus uzaması (A, D) ve kript atrofisi (B, E) çölyakta görülmez. Granülom (B) Crohn hastalığını, submukozal fibroz (E) kollajenöz sprue gibi başka tabloları düşündürür.
+@@
+
+## Konu eki: ishal ve malabsorbsiyonun ayırıcı ipuçları
+| Tablo | İpucu | Test |
+| **Karbonhidrat malabsorbsiyonu** | Sulu, köpüklü, ekşi kokulu ishal; gaz, şişkinlik; pişik | Dışkı pH < 6, indirgen madde (+), nefeste hidrojen testi |
+| **Yağ malabsorbsiyonu** (pankreas, safra, mukoza) | Yağlı, soluk, hacimli, kötü kokulu dışkı (steatore); yağda çözünen vitamin eksikliği | Dışkıda Sudan III boyası, 72 saatlik dışkı yağı |
+| **Ekzokrin pankreas yetmezliği** | Steatore, büyüme geriliği; çocukta en sık kistik fibroz | **Fekal elastaz-1** ↓, serum tripsinojen ↓, sekretin testi, **ter testi** |
+| **Protein kaybettiren enteropati** | Ödem, hipoalbuminemi | Dışkı α1-antitripsin klirensi |
+| **Konjenital ishaller** | Doğumdan itibaren sürekli ishal, kilo alamama | Konjenital klor ishali (hipokloremik alkaloz), glukoz-galaktoz malabsorbsiyonu, mikrovillus inklüzyon hastalığı |
+| **Çölyak** | Glutenle başlayan ishal, büyüme geriliği, demir eksikliği anemisi | Anti-tTG IgA (+ total IgA), biyopsi: villus atrofisi, kript hiperplazisi, intraepitelyal lenfosit ↑ |
+|= Malabsorbsiyonun ayırıcı tanısı.
+### Dehidratasyonun derecelendirilmesi
+| | Hafif (< %5) | Orta (%6-9) | Ağır (≥ %10) |
+| Genel durum | İyi, uyanık | **Huzursuz, irritabl** | Letarjik, bilinç bulanık |
+| Göz, mukoza | Normal | **Çökük göz, kuru mukoza** | Çok çökük, çok kuru |
+| Deri turgoru | Normal | **Hafif azalmış** | Belirgin azalmış (> 2 sn) |
+| Kapiller dolum | Normal | **Uzamış** | Çok uzamış |
+| Nabız, kan basıncı | Normal | Taşikardi, kan basıncı normal | Zayıf nabız, **hipotansiyon**, şok |
+| Tedavi | ORS | ORS 50-100 mL/kg, 4 saatte | Damardan izotonik sıvı (20 mL/kg bolus) |
+|= Dehidratasyon derecesi. Kilo kaybı / önceki ağırlık = dehidratasyon yüzdesi.
+

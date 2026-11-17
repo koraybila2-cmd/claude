@@ -1,0 +1,11 @@
+## Konu eki: böbrek ve hipertansiyon farmakolojisi
+| Grup | Etki yeri ve hedef | Örnek | Potasyum | Not |
+| Karbonik anhidraz inhibitörü | Proksimal tübül | Asetazolamid, metazolamid | ↓ | Zayıf; metabolik asidoz, glokom, dağ hastalığı |
+| Ozmotik | Proksimal tübül, Henle inen kol | Mannitol | | Beyin ödemi; kalp yetersizliğinde kontrendike |
+| **Kıvrım** | Henle çıkan kalın kol, **NKCC2** | **Furosemid**, torsemid, bumetanid | ↓ | En güçlü; akciğer ödemi; kalsiyum atılımı ↑ |
+| **Tiyazid** ve tiyazid benzeri | Distal tübül, **NCC** | Hidroklorotiyazid, **indapamid**, klortalidon, **metolazon** | ↓ | Kalsiyum atılımı ↓; metolazon ileri böbrek yetersizliğinde de etkili |
+| **Potasyum tutucu** | Toplayıcı kanal | **Amilorid, triamteren** (ENaC); spironolakton, **eplerenon** (aldosteron reseptörü) | **↑** | Hiperkalemi, asidoz |
+| Vaptanlar | Toplayıcı kanal, **V2** reseptörü | Tolvaptan, konivaptan, **liksivaptan** | | Hiponatremi (SIADH) |
+|= Diüretikler.
+- **ACE inhibitörü:** anjiyotensin II ↓, aldosteron ↓ (Na-su tutulumu ↓, K ↑), bradikinin ↑ (öksürük, **anjiyoödem**), renin ↑; gebelikte kontrendike. **ARB:** AT1 blokajı, **renin ve anjiyotensin II ↑**, bradikinin etkisi yok.
+- **Kalsiyum kanal blokerleri:** düz kasta Ca²⁺ girişi ↓ → kalmodulin ve **miyozin hafif zincir kinazı** ↓ → gevşeme. **Verapamil, diltiazem:** kalp ve AV düğüm (hem HT hem SVT). **Dihidropiridinler** (-dipin): damar seçici; **kısa etkili nifedipin en çok refleks taşikardi** yapar; amlodipin uzun etkili; silnidipin (L + N tipi) refleks taşikardi yapmaz.

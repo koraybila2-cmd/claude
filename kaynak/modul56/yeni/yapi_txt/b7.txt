@@ -1,0 +1,126 @@
+# Akut Böbrek Hasarı, Diyaliz ve Nefrotoksisite | Bu yıl 9 soru (S41, S42, S44, S46, S50, S51, S57, S58, S59); geçen yıl 8 soru. 5 soru daha önceki sınavlarda aynı ya da benzer biçimde geldi, 4 soru ilk kez soruldu. Bu yılın kartlarından sonra konu eki, ardından önceki baskının bu bölümü (2025-26 ve 2024-25 soruları ve konu tekrarı) gelir. || Modül 5-6 · Bölüm 7 · 2026-27 soruları
+@QB BU YILIN SORULARI
+@Q MSD 5-6 2026-27 · SORU 41 | BU YIL | AYNI BİLGİ
+@K Akut böbrek yetmezliğinin en sık nedeni hangisidir?
+A) Akut glomerülonefrit
+B) Akut interstisyel nefrit
+C) Akut tübüler nekroz
+D) Prerenal azotemi ✓
+E) Postrenal obstrüksiyon
+@O Önceki yıllar: Blok sınavı 2025-26 S90: FeNa < %1, idrar osmolaritesi > 500, hiyalen silendir → prerenal azotemi. Prerenal bulgular MSD 2025-26 S72'de soruldu.
+D doğru. Akut böbrek yetmezliğinin en sık nedeni **prerenal azotemidir** (olguların yaklaşık %55-60'ı): hipovolemi (kusma, ishal, kanama, diüretik), kalp yetersizliği, siroz, sepsis, NSAİİ ve ACEİ/ARB gibi ilaçlarla böbrek perfüzyonunun azalması. Tübüller sağlam olduğu için perfüzyon düzelince hızla geri döner; uzarsa akut tübüler nekroza ilerler.
+Renal nedenler içinde en sık olan **akut tübüler nekrozdur** (C; iskemik ya da toksik). Akut glomerülonefrit (A), interstisyel nefrit (B) ve postrenal obstrüksiyon (E; yaklaşık %5-10) daha seyrektir.
+@@
+@Q MSD 5-6 2026-27 · SORU 42 | BU YIL | İLK KEZ BU BİÇİMDE SORULDU
+@K Aşağıdaki hastalardan hangisinde akut böbrek hasarı gelişme riski en azdır?
+A) Koroner anjiyografi yapılan genç yaş hasta ✓
+B) Kronik böbrek hastalığı olan sepsis nedeniyle hipotansif hasta
+C) Diabetes mellitusu olan ileri yaş hasta
+D) Nefrotik sendromlu hipovolemik genç yaş hasta
+E) Kalp yetmezliği olan ileri yaş hasta
+@O Önceki yıllar: Kontrast madde nefropatisinde risk ve korunma MSD 2025-26 S75 ve blok sınavı 2025-26 S38'de soruldu.
+A doğru (risk en az). Kontrastla ilişkili akut böbrek hasarı riski, böbrek işlevi normal ve ek hastalığı olmayan **genç** hastada çok düşüktür.
+Diğer hastaların her birinde birden çok risk etkeni vardır: KBH + sepsis + hipotansiyon (B), diyabet + ileri yaş (C), nefrotik sendrom + hipovolemi (D), kalp yetersizliği + ileri yaş (E; azalmış böbrek perfüzyonu).
+@@
+@Q MSD 5-6 2026-27 · SORU 44 | BU YIL | İLK KEZ SORULDU
+@K Hemodiyaliz sırasında üre ve kreatinin gibi küçük moleküllerin kandan uzaklaştırılmasında temel mekanizma aşağıdakilerden hangisidir?
+A) Ultrafiltrasyon
+B) Konveksiyon
+C) Osmoz
+D) Aktif transport
+E) Difüzyon ✓
+@O Önceki yıllar: Arşivde aynı soru yok. Diyaliz endikasyonları MSD 2025-26 S69, S76, 2024-25 S24 ve blok sınavlarında dört yıl soruldu.
+E doğru. Hemodiyalizde kan ile diyalizat yarı geçirgen bir zarın iki yanında **ters yönde** akar. Üre, kreatinin ve potasyum gibi küçük moleküller derişimin yüksek olduğu kandan düşük olduğu diyalizata **difüzyonla** geçer; ters akım derişim farkını zar boyunca yüksek tutar. Bikarbonat ters yönde, diyalizattan kana geçer.
+**Ultrafiltrasyon** (A) hidrostatik basınç farkıyla **suyun** uzaklaştırılmasıdır. **Konveksiyon** (B) suyla birlikte sürüklenen çözünenlerin taşınmasıdır; orta büyüklükteki moleküller (β2-mikroglobulin) için önemlidir (hemofiltrasyon). Ozmoz (C) periton diyalizinde glukozlu solüsyonla su çekilmesinde rol alır. Aktif transport (D) diyalizde yoktur.
+@@
+@Q MSD 5-6 2026-27 · SORU 46 | BU YIL | AYNI KONU (KAYNAK NOTU)
+@K Akut böbrek yetmezliğinde aşağıdakilerden hangisi acil diyaliz endikasyonudur?
+A) Kreatinin >5 mg/dL olması
+B) Masif proteinüri
+C) Oligüri
+D) Tedaviye dirençli hiperfosfatemi
+E) Tedaviye dirençli üremik kaşıntı ✓
+@O Önceki yıllar: Acil diyaliz endikasyonları MSD 2025-26 S76 (“kreatinin > 5 endikasyon değildir”), 2024-25 S24 (“K > 6 ve aritmi” endikasyondur) ve blok sınavı 2025-26 S91 (“dirençli hiperfosfatemi” endikasyon değildir), 2024-25, 2021-22, 2019-20'de soruldu.
+E doğru (anahtara göre). Akut böbrek yetmezliğinde diyaliz için tek bir kreatinin eşiği (A) yoktur; masif proteinüri (B), tek başına oligüri (C) ve dirençli hiperfosfatemi (D; blok sınavı 2025-26'da “endikasyon değildir” olarak soruldu) acil endikasyon değildir. Anahtar, şıklar arasında üremik belirtiye karşılık gelen **tedaviye dirençli üremik kaşıntıyı** doğru saymıştır.
+Kaynak notu: Klasik acil endikasyonlar “AEIOU” ile özetlenir: dirençli metabolik **asidoz**, dirençli **hiperkalemi** (K > 6,5 ya da EKG değişikliği), diyalizle atılan ilaçla **zehirlenme** (lityum, metanol, etilen glikol, salisilat), diüretiğe dirençli **sıvı yüklenmesi** (akciğer ödemi) ve **üremik komplikasyonlar** (perikardit, ensefalopati, kanama). Kaşıntı üremik bir belirtidir ama tek başına çoğu kaynakta “acil” değil, diyalize başlama kararını destekleyen bir bulgudur.
+@@
+@Q MSD 5-6 2026-27 · SORU 50 | BU YIL | AYNI BİLGİ
+@K Akut böbrek hasarı tanısında KDIGO kriterlerine göre hangisi tanı koydurucudur?
+A) Serum kreatinin >4 mg/dL üzerinde olması
+B) 48 saat içinde serum kreatinin düzeyinde ≥ 0,3 mg/dL artış olması ✓
+C) Son 1 ayda serum kreatinin düzeyinde ≥ 1,5 kat artış olması
+D) 6 saat boyunca idrar çıkışının <1 mL/kg/saat altında olması
+E) Proteinüri >300 mg/gün üzerinde olması
+@O Önceki yıllar: KDIGO ölçütleri blok sınavı 2025-26 S89'da öncüllü soruldu (doğru: 48 saatte ≥ 0,3 mg/dL ve 7 günde ≥ 1,5 kat). ABH blok sınavında altı yılın hepsinde geldi.
+B doğru. KDIGO'ya göre şu üç ölçütten **biri** ABH tanısı koydurur:
+1. **48 saat içinde** serum kreatininde **≥ 0,3 mg/dL** artış,
+2. Son **7 gün içinde** bilinen ya da tahmin edilen bazal değere göre **≥ 1,5 kat** artış,
+3. **6 saat** boyunca idrar çıkışının **< 0,5 mL/kg/saat** olması.
+Mutlak bir kreatinin eşiği yoktur (A; 4 mg/dL evre 3'ün ölçütlerinden biridir). Süre 1 ay değil 7 gündür (C). İdrar eşiği 1 değil 0,5 mL/kg/saattir (D). Proteinüri (E) ABH ölçütü değildir.
+@@
+@Q MSD 5-6 2026-27 · SORU 51 | BU YIL | İLK KEZ SORULDU
+@K Akut böbrek yetmezliği ile başvuran bir hastanın idrar sedimentinde hangisinin görülmesi en az olasıdır?
+A) Dismorfik eritrositler
+B) Eritrosit silendirleri
+C) Lökosit silendirleri
+D) Kahverengi granüler silendirler
+E) Oval yağ cisimcikleri ✓
+@O Önceki yıllar: İdrar sedimenti blok sınavı 2025-26 S90 (hiyalen silendir → prerenal) ve 2022-23, 2023-24'te (ATN'de kahverengi granüler silendir) soruldu.
+E doğru (en az olası). **Oval yağ cisimcikleri** (yağ yüklü tübül hücreleri, polarize ışıkta Malta haçı) ve yağlı silendirler **nefrotik sendromun** bulgusudur; akut böbrek yetmezliğinde beklenmez.
+Akut böbrek yetmezliğinde sediment nedeni gösterir: dismorfik eritrositler ve **eritrosit silendirleri** (A, B) glomerülonefrit (hızlı ilerleyen GN), **lökosit silendirleri** (C) akut interstisyel nefrit ya da piyelonefrit, **kahverengi granüler (çamurlu) silendirler** (D) akut tübüler nekroz için tipiktir.
+@@
+@Q MSD 5-6 2026-27 · SORU 57 | BU YIL | BENZER BİLGİ
+@K Aminoglikozitlere bağlı nefrotoksisite ile ilgili aşağıdakilerden hangisi doğrudur?
+A) Katyonik yapıdaki ilaç proksimal tübül fırça kenarında megalin aracılığıyla endositozla hücre içine alınır; lizozomda birikerek fosfolipidoz ve mitokondriyal hasara yol açar. ✓
+B) Hasar başlıca glomerüler bazal membranda immün kompleks birikimine bağlıdır.
+C) Tipik tablo tedavinin ilk 24 saatinde ortaya çıkan oligürik akut böbrek hasarıdır.
+D) Renal korteksteki ilaç konsantrasyonu serum düzeyinin altında kaldığından toksisite yalnızca aşırı dozda görülür.
+E) Tübüler alım doyurulabilir olmadığından günde tek doz uygulama nefrotoksisite riskini değiştirmez.
+@O Önceki yıllar: “Gentamisin alan hastada 6. günde ABH → proksimal tübül lizozomlarında ilaç birikimi” blok sınavı 2025-26 S37'de soruldu. Aminoglikozit nefrotoksisitesi blok sınavında sık.
+A doğru. Aminoglikozitler **katyonik** yapıdadır; proksimal tübül fırçamsı kenarındaki negatif yüklü fosfolipitlere bağlanır ve **megalin-kubilin** reseptörüyle endositozla hücreye alınır. **Lizozomlarda birikip** fosfolipazları baskılar (**fosfolipidoz**, miyeloid cisimcikler), lizozom yırtılınca mitokondri hasarı ve hücre ölümü gelişir.
+Hasar immün kompleksle değil doğrudan tübül toksisitesiyle olur (B). Tipik olarak tedavinin **5-7. gününde**, çoğunlukla **oligürik olmayan** ABH gelişir (C). Renal kortekste ilaç serum düzeyinin çok üstünde birikir; tedavi dozunda da toksisite olur (D). Tübüler alım **doyurulabilir** olduğu için günlük dozu **tek seferde** vermek böbrekte daha az birikime yol açar (E).
+@@
+@Q MSD 5-6 2026-27 · SORU 58 | BU YIL | AYNI BİLGİ
+@K Böbrekte afferent ve efferent arteriyol tonusunun ilaçlarla değişmesi ve bunun glomerüler filtrasyon hızına (GFR) etkisi ile ilgili aşağıdakilerden hangisi doğrudur?
+A) Nonsteroid antiinflamatuar ilaçlar prostaglandin sentezini azaltarak afferent arteriyolde vazokonstriksiyona yol açar, glomerül içi basınç ve GFR düşer. ✓
+B) ACE inhibitörleri efferent arteriyolü daraltarak glomerül içi basıncı yükseltir.
+C) Fizyolojik koşullarda afferent arteriyol anjiyotensin II etkisiyle dar, efferent arteriyol prostaglandinler etkisiyle geniştir.
+D) Kalsinörin inhibitörleri efferent arteriyolü genişleterek GFR'yi düşürür.
+E) ARB'lerin böbrek hemodinamiği üzerindeki etkisi hipovolemi ve bilateral renal arter stenozunda azalır.
+@O Önceki yıllar: NSAİİ nefrotoksisitesinin mekanizması (afferent arteriyolde prostaglandin sentezinin baskılanması) MSD 2025-26 S28'de, ACE inhibitörünün efferent dilatasyonu 2025-26 S27'de soruldu.
+A doğru. Fizyolojik koşullarda **afferent arteriyol prostaglandinlerle geniş**, **efferent arteriyol anjiyotensin II ile dar** tutulur; ikisi birlikte glomerül içi basıncı korur. NSAİİ prostaglandin sentezini azaltınca afferent arteriyol daralır, glomerül içi basınç ve GFR düşer (özellikle hipovolemi, kalp yetersizliği, siroz ve yaşlılıkta).
+ACE inhibitörleri efferent arteriyolü **genişletir**, glomerül içi basıncı düşürür (B). Fizyolojik ton yer değiştirmiştir (C). Kalsinörin inhibitörleri **afferent** arteriyolü daraltır (D). ARB'lerin GFR'yi düşürücü etkisi hipovolemi ve bilateral renal arter stenozunda **artar** (E).
+@@
+@Q MSD 5-6 2026-27 · SORU 59 | BU YIL | İLK KEZ VAKA OLARAK SORULDU
+@K Yetmiş dört yaşında, tip 2 diyabet ve hipertansiyon tanılı kadın hasta, üç gündür süren ishal ve kusma yakınmasıyla başvuruyor. Muayenede kan basıncı 90/60 mmHg. Laboratuvarda kreatinin değerinin 0,9 mg/dL'den 2,6 mg/dL'ye yükseldiği, potasyumun 6,1 mmol/L olduğu görülüyor. Hastanın son dönemde diz ağrısı nedeniyle tedavisine bir ilaç daha eklendiği öğreniliyor. Bu tabloyu açıklayabilecek en olası ilaç kombinasyonu aşağıdakilerden hangisidir?
+A) Valsartan + amlodipin + parasetamol
+B) Metoprolol + nifedipin + kolşisin
+C) Doksazosin + hidroklorotiyazid + parasetamol
+D) Amlodipin + metoprolol + parasetamol
+E) Ramipril + hidroklorotiyazid + naproksen ✓
+@O Önceki yıllar: NSAİİ ve ACE inhibitörü nefrotoksisitesi ayrı ayrı MSD 2025-26 S27, S28'de soruldu.
+E doğru. **Ramipril (ACEİ) + hidroklorotiyazid (diüretik) + naproksen (NSAİİ)**: “üçlü darbe”. Diüretik ve ishal-kusma hacmi azaltır; NSAİİ afferent arteriyolü daraltır; ACE inhibitörü efferent arteriyolün telafi edici daralmasını engeller. Glomerül içi basınç çöker: **prerenal akut böbrek hasarı** (kreatinin 0,9 → 2,6). ACE inhibitörü (aldosteron ↓) ve NSAİİ (renin ↓, aldosteron ↓) birlikte **hiperkalemi** yapar (K 6,1). Tedavi: üç ilacı kesmek ve sıvı vermek.
+Diğer birleşimlerde ya NSAİİ yoktur (parasetamol, kolşisin) ya da RAS blokeri yoktur.
+@@
+
+## Konu eki: akut böbrek hasarında idrar sedimenti ve acil diyaliz
+| Sediment bulgusu | Düşündürdüğü tablo |
+| Hiyalen silendir, sediment temiz | **Prerenal** azotemi |
+| **Kahverengi granüler (çamurlu) silendir**, tübül epitel hücreleri | **Akut tübüler nekroz** |
+| **Eritrosit silendiri**, dismorfik eritrosit | **Glomerülonefrit** (hızlı ilerleyen GN) |
+| **Lökosit silendiri**, eozinofilüri | **Akut interstisyel nefrit**, piyelonefrit |
+| **Oval yağ cisimciği**, yağlı silendir (Malta haçı) | **Nefrotik sendrom** (ABH değil) |
+| Kristaller | Ürat (tümör lizisi), oksalat (etilen glikol), ilaç kristalleri |
+|= İdrar sedimentinin yorumu.
+| | Prerenal | Akut tübüler nekroz |
+| FeNa | < %1 | > %2 |
+| İdrar osmolalitesi | > 500 mOsm/kg | < 350 |
+| İdrar sodyumu | < 20 mEq/L | > 40 |
+| BUN/kreatinin | > 20 | < 15 |
+| İdrar dansitesi | > 1,020 | ~1,010 |
+|= Prerenal ve renal ABH ayrımı.
+?? **Acil diyaliz “AEIOU”:** **A**sidoz (dirençli), **E**lektrolit (dirençli hiperkalemi), **I**ntoksikasyon (lityum, metanol, etilen glikol, salisilat), **O**verload (dirençli sıvı yüklenmesi, akciğer ödemi), **U**remi (perikardit, ensefalopati, kanama). Tek başına kreatinin değeri, oligüri ve hiperfosfatemi acil endikasyon değildir.
+- **KDIGO ABH:** 48 saatte kreatinin ≥ 0,3 mg/dL artış ya da 7 günde ≥ 1,5 kat ya da 6 saat idrar < 0,5 mL/kg/saat.
+- **Nefrotoksisite:** aminoglikozit (megalin, lizozom, 5-7. gün), NSAİİ (afferent daralma), ACEİ/ARB (efferent genişleme), kalsinörin inhibitörü (afferent daralma), kontrast (vazokonstriksiyon + doğrudan tübül toksisitesi; korunma: izotonik sıvı), “üçlü darbe” ACEİ + diüretik + NSAİİ.
+- **Hemodiyaliz:** küçük moleküller difüzyonla, su ultrafiltrasyonla, orta moleküller konveksiyonla.
+

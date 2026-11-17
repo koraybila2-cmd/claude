@@ -1,0 +1,88 @@
+# 2026-27 Sorularından Ezber Listesi | Bu yılın 76 sorusunun her birinden akılda kalması gereken bilgi, bölüm sırasıyla tek satırda. Sınavdan önceki gün bu listeyi okuyun. || Modül 5-6 · Ezber listesi
+## 1. Beslenme ve Büyüme İzlemi
+- **S1:** 1 yaşından küçük bebeğe bal verilmez (bebek botulizmi).
+- **S2:** Tamamlayıcı beslenmeye geçişte karar, çocuğun gelişim düzeyine (oturma, baş kontrolü, ilgi) göre verilir.
+- **S6:** Yaşı bilinmeden ya da kayıt yokken mevcut zayıflık (akut malnütrisyon) → boya göre ağırlık.
+- **S17:** Beslenme yetersizliğinde sıra: önce kilo → sonra boy → en son baş çevresi.
+- **S20:** Boya göre ağırlık (Waterlow, %) → akut malnütrisyon; yaşa göre boy → kronik malnütrisyon.
+- **S23:** Kronik malnütrisyon (bodurluk) → yaşa göre boy z-skoru.
+- **S24:** z-skoru = (ölçülen − referans ortalama) / standart sapma.
+## 2. Malnütrisyon ve Raşitizm
+- **S8:** Ödemli malnütrisyonda (kwashiorkor) ödem kas ve yağ kaybını gizler; ağırlık olduğundan iyi görünür.
+- **S10:** Yeniden beslenme sendromu: karbonhidrat → insülin ↑ → fosfat, potasyum, magnezyum hücre içine → hipofosfatemi (en tipik).
+- **S18:** D vitamini: deri (UVB) ya da besin → karaciğerde 25-OH D (depo, ölçülen) → böbrekte 1α-hidroksilaz ile 1,25-(OH)<sub>2</sub> D (aktif).
+- **S22:** D vitamini eksikliği raşitizmi: Ca normal ya da düşük, P düşük, ALP yüksek, PTH yüksek, 25-OH D düşük.
+- **S54:** Kwashiorkor: protein yetersizliği → apolipoprotein yapılamaz → VLDL çıkamaz → karaciğer yağlanması (hepatomegali) + ödem + deri ve saç değişiklikleri.
+## 3. İshal, Malabsorbsiyon ve Çölyak
+- **S7:** Pankreas yetmezliği → fekal elastaz-1, serum tripsinojeni, sekretin testi, ter testi (kistik fibroz). Dışkı pH'ı karbonhidrat malabsorbsiyonu testidir.
+- **S9:** Sulu, köpüklü, ekşi kokulu ishal + gaz + şişkinlik + pişik (asidik dışkı) → karbonhidrat malabsorbsiyonu.
+- **S19:** Doğumdan hemen sonra başlayan, sürekli ishal + kilo alamama → konjenital ishal (konjenital klor ishali, glukoz-galaktoz malabsorbsiyonu, mikrovillus inklüzyon hastalığı).
+- **S21:** Kilo kaybı / ağırlık: < %3-5 hafif, %6-9 orta (kuru mukoza, çökük göz, uzamış kapiller dolum, huzursuz), ≥ %10 ağır (letarji, hipotansiyon, şok).
+- **S75:** Çölyak: gliadin → doku transglutaminazı deamide eder → HLA-DQ2/DQ8 ile sunulur → CD4 T hücresi (IFN-γ) + intraepitelyal CD8 lenfositler (IL-15) → villus hasarı.
+- **S76:** Çölyak biyopsisi: villus atrofisi + kript hiperplazisi + intraepitelyal lenfosit artışı (Marsh sınıflaması). Tedaviyle düzelir.
+## 4. Sindirim Sistemi Anatomisi ve Histolojisi
+- **S3:** İkili arteriyel beslenme: pars descendens duodeni (truncus coeliacus + AMS), colon transversum (AMS + AMİ).
+- **S4:** Linea pectinata altı (anüs mukozası, dış sfinkter) somatik: n. pudendus (n. rectalis inferior) → ağrıya duyarlı.
+- **S5:** Lenf, organı besleyen arteri izler: caecum → a. ileocolica → AMS çevresindeki (mezenterik superior) düğümler.
+- **S25:** Paneth hücresi: ince bağırsak kript tabanında; lizozim, defensin → antimikrobiyal savunma ve kök hücre nişi.
+- **S26:** Duodenum: submukozada Brunner bezleri. Jejunum: en belirgin plika sirkülarisler, uzun villuslar. İleum: Peyer plakları. Kolon: tenya koli, haustra, villus ve Paneth yok.
+## 5. Açlık Biyokimyası ve Üre Döngüsü
+- **S52:** Amino grubunun yolu: transaminasyon (aminotransferaz, B6; α-ketoglutarat → glutamat) → oksidatif deaminasyon (glutamat dehidrojenaz; NAD⁺/NADP⁺, NH<sub>3</sub> açığa çıkar) → üre döngüsü.
+- **S53:** Tiyamin (B1, TPP): piruvat dehidrogenaz, α-ketoglutarat dehidrogenaz, transketolaz koenzimi → eksiklikte piruvat laktata döner → laktik asidoz; beriberi, Wernicke-Korsakoff.
+- **S55:** Hormon duyarlı lipaz: glukagon, adrenalin, ACTH, büyüme hormonu, kortizol etkinleştirir (cAMP, PKA ile fosforilasyon); insülin baskılar.
+- **S56:** Açlıkta yakıt sırası: ilk saatler karaciğer glikojeni; 12-24 saat kas ve diğer dokular yağ asidi yakar, beyin glukoz kullanır; 2-3 gün sonra beyin keton cisimlerine geçer, protein korunur.
+## 6. Sıvı-Elektrolit Dengesi ve Tübül Fizyolojisi
+- **S11:** Hipovolemi: taşikardi, ortostatik hipotansiyon, oligüri, periferik direnç ↑, kuru mukoza, turgor ↓.
+- **S12:** Hipervolemi: juguler venöz dolgunluk, ödem, ral, kilo artışı, hipertansiyon. Ortostatik hipotansiyon, kuru mukoza, turgor ↓, çökük göz hipovolemidir.
+- **S13:** KBH'de hipervolemi = böbreğin sodyum ve su atma kapasitesinin azalması.
+- **S14:** GFR'yi düşürenler: afferent daralma, efferent genişleme, Bowman basıncı ↑ (obstrüksiyon), onkotik basınç ↑.
+- **S15:** Hipovolemide böbreğin yanıtı: renin-anjiyotensin-aldosteron ↑, ADH ↑, sodyum atılımı ↓.
+- **S16:** Susuzluk → plazma ozmolalitesi ↑ → ADH ↑ → toplayıcı kanalda akuaporin-2 → az ve konsantre idrar.
+- **S39:** Fosfatüri yapan iki hormon: PTH ve FGF-23 (proksimal tübülde NaPi-2a ve 2c taşıyıcılarını azaltır; FGF-23 ayrıca 1α-hidroksilazı baskılar).
+- **S40:** Maküla densa: Henle çıkan kalın kolunun sonu ile distal tübülün başlangıcında, kendi glomerülünün vasküler kutbuna değen hücreler; NaCl'yi algılar (tübüloglomerüler geri bildirim, renin).
+## 7. Akut Böbrek Hasarı, Diyaliz ve Nefrotoksisite
+- **S41:** Akut böbrek yetmezliğinin en sık nedeni prerenal azotemi (toplumda); hastanede en sık renal neden akut tübüler nekroz.
+- **S42:** ABH risk etkenleri: ileri yaş, diyabet, KBH, kalp yetersizliği, hipovolemi, sepsis, hipotansiyon, nefrotoksik ilaçlar. Riski olmayan genç hastada kontrastın riski düşüktür.
+- **S44:** Hemodiyalizde küçük moleküller (üre, kreatinin, potasyum) difüzyonla, sıvı ultrafiltrasyonla, orta moleküller konveksiyonla (hemodiyafiltrasyon) uzaklaştırılır.
+- **S46:** Acil diyaliz “AEIOU”: dirençli Asidoz, Elektrolit (dirençli hiperkalemi), Intoksikasyon (diyalizle atılan), Overload (dirençli sıvı yüklenmesi, akciğer ödemi), Üremi (perikardit, ensefalopati, kanama).
+- **S50:** KDIGO ABH: 48 saatte kreatinin ≥ 0,3 mg/dL artış YA DA 7 günde ≥ 1,5 kat artış YA DA 6 saat idrar < 0,5 mL/kg/saat.
+- **S51:** Sediment ve neden: hiyalen silendir → prerenal; kahverengi granüler (çamurlu) → ATN; eritrosit silendiri + dismorfik eritrosit → glomerülonefrit; lökosit silendiri → interstisyel nefrit, piyelonefrit; oval yağ cisimciği → nefrotik sendrom.
+- **S57:** Aminoglikozit: katyonik → proksimal tübülde megalin ile endositoz → lizozomda birikim (fosfolipidoz) → 5-7. günde oligürik olmayan ABH; hipokalemi, hipomagnezemi; tek doz günde bir kez daha az toksik.
+- **S58:** Afferent arteriyolü prostaglandin açık tutar (NSAİİ kapatır); efferent arteriyolü anjiyotensin II dar tutar (ACEİ/ARB açar). İkisi birden → GFR çöker.
+- **S59:** “Üçlü darbe” (triple whammy): ACEİ/ARB + diüretik + NSAİİ (+ hipovolemi) → prerenal ABH ve hiperkalemi.
+## 8. Glomerül Hastalıkları
+- **S45:** Erişkinde nefrotik sendrom + anti-PLA2R pozitif → primer membranöz nefropati (subepitelyal depozit, “dikenler”).
+- **S47:** Genç-orta yaş, obez, hipertansif, kreatinin hafif yüksek, hematürisiz nefrotik sendrom, kompleman normal → FSGS (obeziteye, HIV'e, eroine ikincil olabilir).
+- **S48:** Üst solunum yolu enfeksiyonundan 1-2 gün sonra (eşzamanlı) makroskopik hematüri, genç erkek → IgA nefropatisi: mezangiyal proliferasyon + mezangiyal IgA. Poststreptokokal GN 1-3 hafta sonra.
+- **S49:** Yoğun depozit hastalığı (C3 glomerülopati): alternatif kompleman yolunun kontrolsüz etkinleşmesi; C3 nefritik faktör (C3 konvertazı stabilize eden otoantikor), düşük C3, yalnız C3 boyanması.
+## 9. Kronik Böbrek Hastalığı, Diyabetik Nefropati ve Hipertansiyon
+- **S27:** Kreatinin kas kütlesine bağlıdır: yaşlı, kadın, kaşektik hastada normal görünen kreatinin düşük GFR'yi gizler → eGFR formülleri yaş ve cinsiyeti hesaba katar.
+- **S28:** KBH anemisi: normokrom normositer, en önemli neden eritropoetin yapımının azalması. Tedavi: demir + eritropoez uyarıcı ajan.
+- **S29:** Diyabetli hastada biyopsi düşündüren “kırmızı bayraklar”: tip 1'de < 5 yıl, retinopati yokluğu, aktif idrar sedimenti, hızla artan proteinüri, ani nefrotik sendrom, RAS blokajıyla eGFR'de > %30 düşüş, hızlı GFR kaybı.
+- **S30:** Türkiye'de evre 5 KBH (diyaliz ve nakil) en sık nedenleri: 1. diyabet, 2. hipertansiyon, 3. glomerülonefrit.
+- **S31:** Diyabetik nefropatide elektron mikroskobunda en erken değişiklik: glomerüler bazal membran kalınlaşması. Işık mikroskobunda tipik: Kimmelstiel-Wilson nodülleri.
+- **S32:** Proteinürik KBH + HT: tek bir RAS blokeri (ACEİ ya da ARB), en yüksek tolere edilen doz; ACEİ + ARB birlikte verilmez; tuz < 5 g; hedef sistolik < 120-130.
+- **S33:** Akıllı saat ve manşonsuz cihazlar doğrulanmamıştır: tanı ve tedavi kararında kullanılmaz. Ev ölçümü doğrulanmış manşonlu cihazla yapılır.
+- **S34:** Guyton: uzun dönem kan basıncını böbreğin tuz-su atma kapasitesi (basınç natriürezi) belirler; baroreseptörler kısa dönem düzenler.
+- **S35:** İleri KBH'de hipoglisemi: insülin klirensi ↓ (insülinin üçte biri böbrekte yıkılır) + renal glukoneogenez ↓ + bazı ilaçların (sülfonilüre) birikmesi.
+- **S36:** ABH mi KBH mi? En değerli bilgi: önceki kreatinin değerleri. Diğer ipuçları: küçük böbrekler (US), anemi, hiperfosfatemi, renal osteodistrofi KBH'yi düşündürür.
+- **S37:** Komplikasyonsuz hipertansiyonda birinci basamak dört grup: ACEİ, ARB, tiyazid (tiyazid benzeri), kalsiyum kanal blokeri. Beta bloker birinci basamak değildir.
+- **S38:** KBH = > 3 ay süren böbrek hasarı belirteci (albüminüri ≥ 30 mg/g, sediment, görüntüleme, biyopsi) ya da eGFR < 60.
+## 10. Diüretikler, ACE İnhibitörleri, ARB ve Kalsiyum Kanal Blokerleri
+- **S43:** Amilorid, triamteren: toplayıcı kanalda ENaC blokajı → hiperkalemi, metabolik asidoz. Spironolakton, eplerenon: aldosteron reseptörü blokajı.
+- **S60:** ACEİ: anjiyotensin II ↓ (vazodilatasyon, aldosteron ↓ → Na-su tutulumu ↓, K ↑), bradikinin ↑, renin ↑ (geri bildirim kalkar), remodelingi önler.
+- **S61:** ACEİ: kuru öksürük ve anjiyoödem → bradikinin birikimi (ACE = kininaz II). ARB'de bradikinin artmaz.
+- **S62:** Hem HT hem SVT: verapamil (ve diltiazem) — AV düğümü yavaşlatan dihidropiridin olmayan KKB. Dihidropiridinler (-dipin) yalnız damar.
+- **S63:** Düz kas kasılması: Ca²⁺ girer → kalmodulin → miyozin hafif zincir kinazı (MLCK) → miyozin fosforilasyonu → kasılma. Amlodipin Ca girişini keser → MLCK etkinliği ↓ → gevşeme.
+- **S64:** Refleks taşikardi: kısa etkili, hızlı başlayan dihidropiridin (nifedipin) en çok; amlodipin yavaş ve uzun etkili olduğu için az; verapamil ve diltiazem kalbi yavaşlatır.
+- **S65:** ACEİ anjiyotensin II'yi düşürür; ARB reseptörü bloke ettiği için geri bildirim kalkar, renin ve anjiyotensin II artar. Bradikinin etkisi yalnız ACEİ'de.
+- **S66:** Metolazon: tiyazid benzeri; GFR < 30'da da etkili, kıvrım diüretiğiyle birlikte dirençli ödemde (sıralı nefron blokajı).
+- **S67:** İndapamid, klortalidon, metolazon: tiyazid benzeri → distal tübülde Na⁺/Cl⁻ kotransporteri (NCC).
+- **S68:** Akut akciğer ödemi → damardan furosemid (NKCC2 blokajı + hemen venodilatasyon ile preload ↓).
+## 11. Dermatofitler ve Diğer Mantarlar
+- **S69:** Anjioinvaziv küfler: Mucorales (Rhizopus, Mucor) ve Aspergillus; mukormikoz diyabetik ketoasidozda rinoserebral, tıkayıcı tromboz ve nekroz (kara eskar).
+- **S70:** Majocchi granülomu: kıl folikülünü yırtıp dermise inen dermatofit (en sık T. rubrum); sıklıkla topikal steroid sonrası, bacakta.
+- **S71:** Germ tüp testi (insan serumunda 37 °C, 2-3 saat): pozitif → Candida albicans (ve C. dubliniensis). Diğer Candida türleri negatif.
+- **S72:** Trichophyton indotineae: Hindistan kökenli, terbinafine dirençli (skualen epoksidaz mutasyonu), yaygın, inatçı, bulaşıcı tinea korporis-kruris; itrakonazol.
+- **S73:** Mantar melaninleri: mayalarda (Cryptococcus) DOPA'dan lakkaz ile ömelanin (eumelanin); küflerde (dematiyase) DHN-melanin. Melanin virülans etkenidir (oksidatif strese ve antifungale direnç).
+- **S74:** Zoofilik: Microsporum canis (kedi, köpek), T. verrucosum (sığır). Geofilik: Nannizzia gypsea (toprak). Antropofilik: T. rubrum, T. tonsurans, E. floccosum, T. indotineae.

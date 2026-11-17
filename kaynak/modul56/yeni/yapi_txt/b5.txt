@@ -1,0 +1,58 @@
+# Açlık Biyokimyası ve Üre Döngüsü | Bu yıl 4 soru (S52, S53, S55, S56); geçen yıl 5 soru. 2 soru daha önceki sınavlarda aynı ya da benzer biçimde geldi, 2 soru ilk kez soruldu. Bu yılın kartlarından sonra konu eki, ardından önceki baskının bu bölümü (2025-26 ve 2024-25 soruları ve konu tekrarı) gelir. || Modül 5-6 · Bölüm 5 · 2026-27 soruları
+@QB BU YILIN SORULARI
+@Q MSD 5-6 2026-27 · SORU 52 | BU YIL | İLK KEZ SORULDU
+@K Oksidatif deaminasyon tepkimesini gerçekleştiren enzim hangisidir?
+A) Serin dehidrataz
+B) Glutamat dehidrojenaz ✓
+C) Glutamin sentaz
+D) Glutamin liyaz
+E) Glutaminaz
+@O Önceki yıllar: Arşivde aynı soru yok. Üre döngüsü (N-asetilglutamat, CPS-I) blok sınavı 2025-26 S31, 2024-25 S95 ve MSD 2025-26 S22, 2024-25 S67'de soruldu.
+B doğru. **Glutamat dehidrojenaz**, mitokondride glutamatın amino grubunu **amonyak** olarak ayırır ve α-ketoglutaratı yeniden oluşturur (NAD⁺ ya da NADP⁺ kullanır); bu tepkimeye **oksidatif deaminasyon** denir. Transaminasyonla glutamatta toplanan amino grupları böylece amonyağa dönüşür ve üre döngüsüne girer. GTP ve ATP enzimi baskılar, ADP ve GDP etkinleştirir.
+Serin dehidrataz (A) serini **oksidatif olmayan** deaminasyonla piruvata çevirir. Glutamin sentaz (C) amonyağı glutamata bağlayarak glutamin yapar (amonyağın taşınması). Glutaminaz (E) glutaminden amonyak ayırır (hidrolitik deaminasyon; böbrekte amonyum atılımı).
+@@
+@Q MSD 5-6 2026-27 · SORU 53 | BU YIL | BENZER BİLGİ
+@K Aşağıdaki mikrobesin eksikliklerinden hangisi karbonhidrat metabolizmasında bozulma ve ağır eksiklikte laktik asidoza yol açar?
+A) Demir
+B) Kobalamin
+C) Folik asit
+D) Alfa tokoferol
+E) Tiyamin ✓
+@O Önceki yıllar: Wernicke ensefalopatisi → tiyamin pirofosfat MSD 2025-26 S26'da; uzun açlık ve alkolizmde eksik olan, Korsakoff yapan vitamin blok sınavı 2019-20 S96'da soruldu.
+E doğru. **Tiyamin pirofosfat**, glukozun oksidatif yıkımındaki kilit enzimlerin koenzimidir: **piruvat dehidrogenaz** (piruvat → asetil-KoA), α-ketoglutarat dehidrogenaz (sitrik asit döngüsü) ve transketolaz (pentoz fosfat yolu). Eksiklikte piruvat mitokondriye giremez, **laktata** döner: **laktik asidoz**. Ayrıca enerji yapımı bozulur; en çok glukoza bağımlı beyin ve kalp etkilenir: Wernicke ensefalopatisi, Korsakoff sendromu, kuru (nöropati) ve yaş (kalp yetersizliği) beriberi. Alkolizm, yeniden beslenme ve uzun parenteral beslenmede görülür; glukoz verilmeden önce tiyamin verilir.
+Demir (A), B12 (B), folat (C) eksikliği anemi yapar; α-tokoferol (D; E vitamini) eksikliği nöropati ve hemolizle seyreder.
+@@
+@Q MSD 5-6 2026-27 · SORU 55 | BU YIL | İLK KEZ SORULDU
+@K Aşağıdaki hormonlardan hangisi hormon duyarlı lipazı aktive etmez?
+A) Glukagon
+B) Adrenalin
+C) ACTH
+D) İnsülin ✓
+E) Büyüme hormonu
+@O Önceki yıllar: Açlıkta enzim düzenlemesi (asetil-KoA karboksilaz inaktif) MSD 2025-26 S23 ve 2022-23 S71'de soruldu.
+D doğru (etkinleştirmez). **Hormon duyarlı lipaz** yağ dokusunda trigliseritleri yıkar (lipoliz). **Glukagon, adrenalin ve noradrenalin, ACTH** cAMP'yi artırıp protein kinaz A ile enzimi fosforile ederek etkinleştirir; **büyüme hormonu** ve **kortizol** enzim yapımını artırarak lipolizi destekler. **İnsülin** fosfodiesterazı etkinleştirip cAMP'yi düşürür ve enzimi defosforile eder: **lipolizi baskılar**, yağ depolanmasını artırır. Bu yüzden açlıkta insülin düşünce lipoliz başlar.
+Niasin de (Modül 3) hormon duyarlı lipazı baskılayarak VLDL yapımını azaltır.
+@@
+@Q MSD 5-6 2026-27 · SORU 56 | BU YIL | BENZER BİLGİ
+@K 12 saatlik açlıkta kasların kullandığı temel enerji kaynağı aşağıdakilerden hangisidir?
+A) Glukoz
+B) Laktat
+C) Keton cisimcikleri
+D) Yağ asitleri ✓
+E) Amino asitler
+@O Önceki yıllar: “Açlıkta ilk başvurulan enerji kaynağı → glikojen” blok sınavı 2024-25 S96'da; ketogenez MSD 2025-26 S24'te soruldu.
+D doğru. Gece boyu (12 saat) süren açlıkta insülin düşer, glukagon artar; yağ dokusunda lipoliz başlar. **Kaslar ve kalp, enerjilerinin çoğunu yağ asitlerinin β-oksidasyonundan** sağlar; glukozu beyne ve eritrositlere bırakırlar (glukoz koruma). Kan şekerini karaciğer glikojenolizi (ve başlayan glukoneogenez) korur.
+Glukoz (A) tokluk döneminin, keton cisimleri (C) uzamış açlığın (2-3. günden sonra; kas ilk günlerde ketonları da kullanır), amino asitler (E) glukoneogenezin kaynağıdır. Laktat (B) kas ve eritrositlerden karaciğere taşınıp glukoza çevrilir (Cori döngüsü).
+@@
+
+## Konu eki: açlıkta yakıt sırası ve amino grubunun yolu
+| Açlık süresi | Kan şekerinin kaynağı | Kasın yakıtı | Beynin yakıtı |
+| 0-4 saat (tokluk) | Besin | Glukoz | Glukoz |
+| 4-24 saat | **Karaciğer glikojeni**, başlayan glukoneogenez | **Yağ asitleri** (12. saatte esas yakıt) | Glukoz |
+| 1-3 gün | Glukoneogenez (amino asit, laktat, gliserol) | Yağ asitleri, keton | Glukoz, artan keton |
+| > 3 gün | Glukoneogenez (azalır, protein korunur) | Yağ asitleri | **Keton cisimleri** (yaklaşık üçte ikisi) |
+|= Açlıkta yakıt kullanımı.
+- **Hormon duyarlı lipaz:** glukagon, adrenalin, ACTH, büyüme hormonu, kortizol etkinleştirir; **insülin baskılar**.
+- **Amino grubunun yolu:** transaminasyon (aminotransferaz, B6; amino grubu α-ketoglutarata → glutamat) → **oksidatif deaminasyon (glutamat dehidrojenaz)** → NH<sub>3</sub> → üre döngüsü (CPS-I'in aktivatörü N-asetilglutamat; ilk iki basamak mitokondride: CPS-I ve ornitin transkarbamoilaz).
+- **Tiyamin (TPP):** piruvat dehidrogenaz, α-ketoglutarat dehidrogenaz, transketolaz koenzimi; eksiklikte **laktik asidoz**, Wernicke-Korsakoff, beriberi.
+

@@ -1,0 +1,109 @@
+# Modül 5-6 · 2026-27 sorularıyla güncel baskı | Kısaltılmış tek kitabın 2026-27 MSD 5-6 sorularıyla güncellenmiş hâli. || Modül 5-6 · 2026-27
+## Bu baskıda ne değişti?
+Önceki baskı 2025-26 sorularıyla hazırlanmıştı ve 2026-27 sınavı henüz yoktu. Bu baskıda **2026-27 MSD 5-6'nın 76 sorusunun tamamı** çözümleriyle eklendi. Her bölümün başına yeni bir “2026-27 soruları” kısmı geldi:
+1. **Bu yılın kartları:** doğru şık, çeldiricilerin neden yanlış olduğu ve aynı bilginin daha önce hangi MSD ya da blok sınavında sorulduğu.
+2. **Konu eki:** bu yılın sorularının gerektirdiği, önceki konu tekrarında kısa geçen bilgiler tablolar hâlinde.
+3. Ardından önceki baskının aynı bölümü değişmeden gelir: 2025-26 MSD, 2025-26 blok sınavı ve 2024-25 MSD soruları ile konu tekrarı.
+Kitabın sonuna 76 sorunun her birinden tek satırlık **ezber listesi** eklendi. Önceki baskının giriş sayfaları (konu analizi, kalıp tablosu, 2025-26 soru dizini) bu bölümden sonra olduğu gibi duruyor.
+## Bu yılın sınavı geçmişle nasıl örtüşüyor?
+76 sorunun **37'i** daha önceki MSD 5-6 ya da blok sınavlarında aynı, ters çevrilmiş ya da aynı bilgiyi soran biçimde çıkmıştı; **39 soru** arşivde ilk kez görülüyor. Önceki yıllarda olduğu gibi Modül 5-6'nın soru havuzu geniştir, ama bazı kalıplar her yıl döner:
+- **z-skoru hesabı** 7. kez (S24), **kronik malnütrisyonda yaşa göre boy** 5. kez (S23), **boya göre ağırlık = akut malnütrisyon** (S6, S20).
+- **Raşitizmin biyokimyası** 8. kez (S22; bu kez doğru şık olarak), **yeniden beslenme sendromu** 7. kez (S10; bu kez mekanizma).
+- **Diüretik ilaç-mekanizma eşleştirmesi** 5. kez (S67), **ARB'nin anjiyotensin II'yi artırması** (S65), **çölyakta T hücre yanıtı** (S75) ve **çölyak biyopsisi** (S76) geçen yılın neredeyse aynısı.
+- **Acil diyaliz endikasyonları**, **KDIGO ölçütleri**, **prerenal azotemi**, **NSAİİ'nin afferent arteriyole etkisi** ve **Microsporum canis** blok sınavı ya da geçen yıl MSD'siyle aynı bilgi.
+- **Yeni gelenler:** bebekte bal, tamamlayıcı beslenme, bağırsakların ikili arteriyel beslenmesi, n. pudendus, caecum lenf drenajı, ödemin ağırlığı maskelemesi, konjenital ishal, Paneth hücresi, eGFR ve kas kütlesi, KBH anemisi, diyabette kırmızı bayraklar, Türkiye'de evre 5 KBH nedeni, Guyton modeli, akıllı saatle kan basıncı ölçümü, FGF-23, maküla densa, hemodiyalizde difüzyon, anti-PLA2R, FSGS ve IgA nefropatisi vakaları, C3 nefritik faktör, glutamat dehidrojenaz, Majocchi granülomu, germ tüp, *T. indotineae* ve mantar melanini.
+!! İki soruda anahtar standart bilgiyle tam örtüşmüyor: **S46** (acil diyaliz endikasyonu olarak “dirençli üremik kaşıntı”) ve **S69** (anjioinvaziv küf olarak yalnız *Rhizopus*; *Aspergillus* da anjioinvazivdir). Kartlarda kaynak notu var; sınavda anahtarın istediği şıkkı işaretleyin.
+## Bölümlere dağılım
+| Bölüm | Konu | 2026-27 | 2025-26 |
+| 1 | Beslenme ve Büyüme İzlemi | 7 | 7 |
+| 2 | Malnütrisyon ve Raşitizm | 5 | 4 |
+| 3 | İshal, Malabsorbsiyon ve Çölyak | 6 | 6 |
+| 4 | Sindirim Sistemi Anatomisi ve Histolojisi | 5 | 5 |
+| 5 | Açlık Biyokimyası ve Üre Döngüsü | 4 | 5 |
+| 6 | Sıvı-Elektrolit Dengesi ve Tübül Fizyolojisi | 8 | 12 |
+| 7 | Akut Böbrek Hasarı, Diyaliz ve Nefrotoksisite | 9 | 8 |
+| 8 | Glomerül Hastalıkları | 4 | 3 |
+| 9 | Kronik Böbrek Hastalığı, Diyabetik Nefropati ve Hipertansiyon | 12 | 10 |
+| 10 | Diüretikler, ACE İnhibitörleri, ARB ve Kalsiyum Kanal Blokerleri | 10 | 9 |
+| 11 | Dermatofitler ve Diğer Mantarlar | 6 | 6 |
+| | **Toplam** | **76** | **75** |
+|= Bu yıl böbrek, sıvı-elektrolit ve böbrek farmakolojisi (bölüm 6-10) 43 soru, yani sınavın yarısından fazlası.
+## 2026-27 sorularının dizini
+| No | Bölüm | Cevap | Geçmişle ilişkisi |
+| 1 | 1. Beslenme ve Büyüme İzlemi | C | İlk kez soruldu |
+| 2 | 1. Beslenme ve Büyüme İzlemi | B | İlk kez soruldu |
+| 3 | 4. Sindirim Sistemi Anatomisi ve Histolojisi | D | İlk kez bu biçimde soruldu |
+| 4 | 4. Sindirim Sistemi Anatomisi ve Histolojisi | E | İlk kez soruldu |
+| 5 | 4. Sindirim Sistemi Anatomisi ve Histolojisi | D | İlk kez soruldu |
+| 6 | 1. Beslenme ve Büyüme İzlemi | B | Benzer kalıp; ters hâli her yıl |
+| 7 | 3. İshal | E | Aynı konunun ters hâli |
+| 8 | 2. Malnütrisyon ve Raşitizm | D | İlk kez soruldu |
+| 9 | 3. İshal | A | Aynı konu |
+| 10 | 2. Malnütrisyon ve Raşitizm | A | 7. kez soruldu; bu kez mekanizma |
+| 11 | 6. Sıvı-Elektrolit Dengesi ve Tübül Fizyolojisi | C | Aynı konu |
+| 12 | 6. Sıvı-Elektrolit Dengesi ve Tübül Fizyolojisi | B | Aynı konunun ters hâli |
+| 13 | 6. Sıvı-Elektrolit Dengesi ve Tübül Fizyolojisi | A | İlk kez bu biçimde soruldu |
+| 14 | 6. Sıvı-Elektrolit Dengesi ve Tübül Fizyolojisi | C | Blok sınavı 2021-22 S58'in ters hâli |
+| 15 | 6. Sıvı-Elektrolit Dengesi ve Tübül Fizyolojisi | E | Aynı bilgi |
+| 16 | 6. Sıvı-Elektrolit Dengesi ve Tübül Fizyolojisi | D | 2025-26 S8'in ters hâli |
+| 17 | 1. Beslenme ve Büyüme İzlemi | C | İlk kez soruldu |
+| 18 | 2. Malnütrisyon ve Raşitizm | C | İlk kez bu biçimde soruldu |
+| 19 | 3. İshal | D | İlk kez soruldu |
+| 20 | 1. Beslenme ve Büyüme İzlemi | C | Aynı bilgi |
+| 21 | 3. İshal | C | Aynı konu, bu kez orta derece |
+| 22 | 2. Malnütrisyon ve Raşitizm | B | 8. kez soruldu |
+| 23 | 1. Beslenme ve Büyüme İzlemi | C | Aynı soru (5. kez) |
+| 24 | 1. Beslenme ve Büyüme İzlemi | D | Aynı kalıp (7. kez) |
+| 25 | 4. Sindirim Sistemi Anatomisi ve Histolojisi | E | İlk kez soruldu |
+| 26 | 4. Sindirim Sistemi Anatomisi ve Histolojisi | C | Benzer bilgi |
+| 27 | 9. Kronik Böbrek Hastalığı | C | İlk kez soruldu |
+| 28 | 9. Kronik Böbrek Hastalığı | A | İlk kez bu biçimde soruldu |
+| 29 | 9. Kronik Böbrek Hastalığı | E | İlk kez soruldu |
+| 30 | 9. Kronik Böbrek Hastalığı | C | İlk kez soruldu |
+| 31 | 9. Kronik Böbrek Hastalığı | B | İlk kez soruldu |
+| 32 | 9. Kronik Böbrek Hastalığı | A | İlk kez bu biçimde soruldu |
+| 33 | 9. Kronik Böbrek Hastalığı | E | İlk kez soruldu |
+| 34 | 9. Kronik Böbrek Hastalığı | B | İlk kez soruldu |
+| 35 | 9. Kronik Böbrek Hastalığı | A | İlk kez soruldu |
+| 36 | 9. Kronik Böbrek Hastalığı | E | İlk kez soruldu |
+| 37 | 9. Kronik Böbrek Hastalığı | D | Aynı bilgi |
+| 38 | 9. Kronik Böbrek Hastalığı | D | Aynı konu (kbh tanımı her yıl) |
+| 39 | 6. Sıvı-Elektrolit Dengesi ve Tübül Fizyolojisi | A | İlk kez soruldu |
+| 40 | 6. Sıvı-Elektrolit Dengesi ve Tübül Fizyolojisi | C | İlk kez soruldu |
+| 41 | 7. Akut Böbrek Hasarı | D | Aynı bilgi |
+| 42 | 7. Akut Böbrek Hasarı | A | İlk kez bu biçimde soruldu |
+| 43 | 10. Diüretikler | B | Benzer bilgi |
+| 44 | 7. Akut Böbrek Hasarı | E | İlk kez soruldu |
+| 45 | 8. Glomerül Hastalıkları | A | İlk kez anti-PLA2R ile soruldu |
+| 46 | 7. Akut Böbrek Hasarı | E | Aynı konu (kaynak notu) |
+| 47 | 8. Glomerül Hastalıkları | C | İlk kez soruldu |
+| 48 | 8. Glomerül Hastalıkları | B | İlk kez vaka olarak soruldu |
+| 49 | 8. Glomerül Hastalıkları | D | İlk kez soruldu |
+| 50 | 7. Akut Böbrek Hasarı | B | Aynı bilgi |
+| 51 | 7. Akut Böbrek Hasarı | E | İlk kez soruldu |
+| 52 | 5. Açlık Biyokimyası ve Üre Döngüsü | B | İlk kez soruldu |
+| 53 | 5. Açlık Biyokimyası ve Üre Döngüsü | E | Benzer bilgi |
+| 54 | 2. Malnütrisyon ve Raşitizm | B | Aynı konu |
+| 55 | 5. Açlık Biyokimyası ve Üre Döngüsü | D | İlk kez soruldu |
+| 56 | 5. Açlık Biyokimyası ve Üre Döngüsü | D | Benzer bilgi |
+| 57 | 7. Akut Böbrek Hasarı | A | Benzer bilgi |
+| 58 | 7. Akut Böbrek Hasarı | A | Aynı bilgi |
+| 59 | 7. Akut Böbrek Hasarı | E | İlk kez vaka olarak soruldu |
+| 60 | 10. Diüretikler | A | İlk kez bu biçimde soruldu |
+| 61 | 10. Diüretikler | C | Benzer bilgi |
+| 62 | 10. Diüretikler | D | Benzer bilgi |
+| 63 | 10. Diüretikler | A | İlk kez soruldu |
+| 64 | 10. Diüretikler | C | Benzer bilgi |
+| 65 | 10. Diüretikler | D | Aynı bilgi |
+| 66 | 10. Diüretikler | D | Benzer kalıp |
+| 67 | 10. Diüretikler | C | Aynı kalıp (5. kez) |
+| 68 | 10. Diüretikler | D | Benzer bilgi |
+| 69 | 11. Dermatofitler ve Diğer Mantarlar | B | Benzer bilgi |
+| 70 | 11. Dermatofitler ve Diğer Mantarlar | C | İlk kez soruldu |
+| 71 | 11. Dermatofitler ve Diğer Mantarlar | A | İlk kez soruldu |
+| 72 | 11. Dermatofitler ve Diğer Mantarlar | E | İlk kez soruldu |
+| 73 | 11. Dermatofitler ve Diğer Mantarlar | C | İlk kez soruldu |
+| 74 | 11. Dermatofitler ve Diğer Mantarlar | C | Aynı bilgi |
+| 75 | 3. İshal | E | Aynı soru |
+| 76 | 3. İshal | C | Aynı bilgi |
+|= Soru dizini. Ayrıntılı geçmiş bilgisi her kartın “Önceki yıllar” satırındadır.

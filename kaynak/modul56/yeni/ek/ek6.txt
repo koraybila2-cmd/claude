@@ -1,0 +1,11 @@
+## Konu eki: hacim bozuklukları ve böbreğin düzenleyici sistemleri
+| | Hipovolemi | Hipervolemi |
+| Nedenler | Kusma, ishal, kanama, terleme, diüretik, yanık | Kalp yetersizliği, KBH (Na-su atılımı ↓), siroz, nefrotik sendrom |
+| Bulgular | Taşikardi, **ortostatik hipotansiyon**, kuru mukoza, turgor ↓, çökük göz, oligüri | **Juguler venöz dolgunluk**, ödem, ral, kilo artışı, hipertansiyon |
+| Hormon yanıtı | **Renin-anjiyotensin-aldosteron ↑**, ADH ↑, sempatik ↑ | **ANP, BNP ↑**, RAAS ↓ |
+| İdrar | Az, konsantre, sodyumu düşük | |
+|= Hipovolemi ve hipervolemi.
+- **GFR'yi düşürenler:** afferent daralma (NSAİİ, sempatik, kalsinörin inhibitörleri), efferent genişleme (ACEİ, ARB), Bowman basıncı ↑ (obstrüksiyon), plazma onkotik basıncı ↑.
+- **Jukstaglomerüler aparat:** maküla densa (çıkan kalın kolun sonu, distal tübül başı; NaCl'yi algılar), jukstaglomerüler hücreler (afferent arteriyol; renin), ekstraglomerüler mezangiyal hücreler. NaCl ↑ → adenozin → afferent daralır (tübüloglomerüler geri bildirim); NaCl ↓ → renin.
+- **Fosfat:** PTH ve FGF-23 proksimal tübülde NaPi taşıyıcılarını azaltarak fosfatüri yapar; kalsitriol fosfat emilimini artırır.
+- **ADH:** plazma ozmolalitesi ↑ ya da hacim ↓ → V2 → akuaporin-2 → az, konsantre idrar.

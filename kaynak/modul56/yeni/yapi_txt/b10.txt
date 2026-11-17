@@ -1,0 +1,125 @@
+# Diüretikler, ACE İnhibitörleri, ARB ve Kalsiyum Kanal Blokerleri | Bu yıl 10 soru (S43, S60, S61, S62, S63, S64, S65, S66, S67, S68); geçen yıl 9 soru. 8 soru daha önceki sınavlarda aynı ya da benzer biçimde geldi, 2 soru ilk kez soruldu. Bu yılın kartlarından sonra konu eki, ardından önceki baskının bu bölümü (2025-26 ve 2024-25 soruları ve konu tekrarı) gelir. || Modül 5-6 · Bölüm 10 · 2026-27 soruları
+@QB BU YILIN SORULARI
+@Q MSD 5-6 2026-27 · SORU 43 | BU YIL | BENZER BİLGİ
+@K Amilorid kullanan bir hastada hangi değişiklik beklenir?
+A) Distal tübülde sodyum-klorür kotransporteri (NCC) aktivasyonuna bağlı hipokalemi
+B) Toplayıcı tübülde epitelyal sodyum kanalı (ENaC) inhibisyonuna bağlı hiperkalemi ✓
+C) ADH inhibisyonuna bağlı hipernatremi
+D) Toplayıcı tübül alfa-interkale hücrelerde H⁺ sekresyonunun inhibisyonuna bağlı metabolik asidoz
+E) Henle çıkan kalın kolunda sodyum-potasyum-klorür kotransporteri 2 (NKCC2) inhibisyonuna bağlı hipokalemi
+@O Önceki yıllar: Amilorid diüretik eşleştirmelerinde (MSD 2025-26 S31, 2024-25 S31) çeldirici olarak geçti; potasyum tutucu diüretikler her yıl blok sınavı diüretik sorularında yer alıyor.
+B doğru. Amilorid ve triamteren toplayıcı tübülün esas (principal) hücrelerinde **epitelyal sodyum kanalını (ENaC)** bloke eder. Sodyum geri emilmeyince lümen daha az negatif olur; potasyum (ROMK ile) ve H⁺ salgılanması azalır: **hiperkalemi** ve hafif metabolik asidoz. Potasyum tutucu diüretik olarak tiyazid ve kıvrım diüretiklerinin yol açtığı hipokalemiyi önlemek için birlikte verilir; lityuma bağlı nefrojenik diabetes insipidusta da kullanılır.
+NCC inhibisyonu (A) tiyazidlerin, NKCC2 inhibisyonu (E) kıvrım diüretiklerinin mekanizmasıdır; ikisi hipokalemi yapar. ADH antagonizmi (C) vaptanlara aittir. Amiloridin asidozu H⁺ pompasının doğrudan inhibisyonuyla değil, lümen elektriksel gradyanının azalmasıyla olur (D).
+@@
+@Q MSD 5-6 2026-27 · SORU 60 | BU YIL | İLK KEZ BU BİÇİMDE SORULDU
+@K Enalapril kullanımına bağlı olarak aşağıdaki etkilerden hangisinin gözlenmesi beklenir?
+A) Sodyum ve su tutulmasının azalması ✓
+B) Hipofizden ADH salınımının artması
+C) Kardiyak ve vasküler hipertrofinin uyarılması
+D) Jukstaglomerüler hücrelerden renin salımının baskılanması
+E) Anjiyotensinojen sentezinin engellenmesi
+@O Önceki yıllar: ACE inhibitörleri blok sınavı 2025-26 S58'de (yanlış olan) ve MSD 2025-26 S27, S33, S34'te soruldu.
+A doğru. Enalapril (önilaç → enalaprilat) ACE'yi baskılar; anjiyotensin II azalır. Anjiyotensin II'nin aldosteron salgılatıcı ve doğrudan proksimal tübülde sodyum tutucu etkileri azaldığı için **sodyum ve su tutulumu azalır**; kan basıncı düşer.
+Anjiyotensin II susamayı ve **ADH** salınımını uyarır; ACEİ ile ADH artmaz, azalır (B). Anjiyotensin II'nin kalp ve damar **hipertrofisini** uyarıcı etkisi azalır, remodeling önlenir (C). Anjiyotensin II'nin renin üzerindeki negatif geri bildirimi kalktığı için **renin artar** (D). Anjiyotensinojen sentezi karaciğerde sürer (E).
+@@
+@Q MSD 5-6 2026-27 · SORU 61 | BU YIL | BENZER BİLGİ
+@K ACE inhibitörü kullanan bir hastada gelişen anjiyoödemin temel mekanizması aşağıdakilerden hangisidir?
+A) AT2 reseptörünün aşırı uyarılması
+B) Aldosteron sentezinin artması
+C) Bradikinin düzeyinin artması ✓
+D) Renin salımının bloke edilmesi
+E) Sodyum atılımının artması
+@O Önceki yıllar: ACE inhibitörlerinin yan etkileri blok sınavı 2025-26 S58'de; kuru öksürüğün bradikinine bağlı olması Modül 3 MSD'sinde üç yıl soruldu.
+C doğru. ACE (kininaz II) bradikinini de yıkar. ACE inhibitörüyle **bradikinin** (ve P maddesi) birikir; damar geçirgenliği artar ve dudak, dil, gırtlakta **anjiyoödem** gelişebilir (siyah ırkta ve ilk haftalarda daha sık; aylar sonra da olabilir). Aynı mekanizma **kuru öksürüğün** de nedenidir. Anjiyoödem gelişen hastada ACEİ bir daha verilmez; ARB'ye geçişte de dikkatli olunur.
+AT2 uyarımı (A), aldosteron artışı (B), renin blokajı (D) ve sodyum atılımı (E) anjiyoödemin mekanizması değildir.
+@@
+@Q MSD 5-6 2026-27 · SORU 62 | BU YIL | BENZER BİLGİ
+@K Aşağıdaki kalsiyum kanal blokörlerinden hangisi hem hipertansiyon hem de supraventriküler taşiaritmilerin tedavisinde kullanılabilir?
+A) Nimodipin
+B) Felodipin
+C) Amlodipin
+D) Verapamil ✓
+E) Lerkanidipin
+@O Önceki yıllar: Verapamil ve diltiazemin özellikleri MSD 2024-25 S38'de soruldu; kalp seçici KKB Modül 3'te her yıl geliyor.
+D doğru. **Verapamil** (ve diltiazem) kalpte L tipi kalsiyum kanallarını bloke eder; sinüs ve AV düğümde faz 0'ı yavaşlatarak **AV iletimini azaltır**. Bu yüzden hem **hipertansiyonda** hem **supraventriküler taşiaritmilerde** (paroksismal SVT'nin sonlandırılması, AF'de hız kontrolü) kullanılır.
+Nimodipin (A; subaraknoid kanamada beyin damar spazmı), felodipin (B), amlodipin (C) ve lerkanidipin (E) **dihidropiridindir**: damar seçicidir, AV düğümü etkilemez; antiaritmik değildir.
+@@
+@Q MSD 5-6 2026-27 · SORU 63 | BU YIL | İLK KEZ SORULDU
+@K Amlodipin kullanımına bağlı olarak aşağıdaki hücresel mekanizmalardan hangisinin gerçekleşmesi beklenir?
+A) Miyozin hafif zincir kinaz aktivitesinin azalması ✓
+B) Hücre dışından kalsiyum akışının artması
+C) Miyokard hücrelerinde Faz 3 hızlı repolarizasyonunun gecikmesi
+D) Tropomiyozinin aktin üzerindeki inhibitör etkisinin azalması
+E) Kalsiyumun kalmodulin kompleksi oluşumunun artması
+@O Önceki yıllar: Kalsiyum kanal blokerlerinin etkilediği fazlar (nodal hücrede faz 0, miyositte faz 2) MSD 2025-26 S35'te soruldu.
+A doğru. Damar düz kasında hücre dışından L tipi kanallarla giren **kalsiyum kalmoduline** bağlanır; kalsiyum-kalmodulin kompleksi **miyozin hafif zincir kinazını** etkinleştirir, miyozin fosforillenir ve aktinle çapraz köprü kurar: kasılma. **Amlodipin** kalsiyum girişini azaltınca bu zincir tersine işler: kalsiyum-kalmodulin oluşumu ve **MLCK etkinliği azalır**, damar gevşer.
+Kalsiyum girişi azalır, artmaz (B, E). Faz 3 repolarizasyonunun gecikmesi (C) potasyum kanal blokerlerinin (sınıf III) etkisidir. Tropomiyozin-troponin sistemi (D) iskelet ve kalp kasında çalışır; düz kasta kasılmayı başlatan mekanizma MLCK'dir.
+@@
+@Q MSD 5-6 2026-27 · SORU 64 | BU YIL | BENZER BİLGİ
+@K Aşağıdaki kalsiyum kanal blokörlerinden hangisinin refleks taşikardi oluşturma olasılığı daha yüksektir?
+A) Verapamil
+B) Diltiazem
+C) Nifedipin ✓
+D) Amlodipin
+E) Silnidipin
+@O Önceki yıllar: “En kısa etkili vazoselektif KKB” blok sınavı 2023-24 S46'da, amlodipinin uzun yarı ömrü MSD 2024-25 S41'de soruldu.
+C doğru. **Kısa etkili nifedipin** hızla ve güçlü biçimde arteriyolleri genişletir; kan basıncındaki ani düşme baroreseptör refleksiyle sempatik sistemi uyarır: **refleks taşikardi**, çarpıntı, yüzde kızarma. Bu yüzden kısa etkili nifedipin anginada ve AKS'de kullanılmaz; uzatılmış salınımlı biçimleri tercih edilir.
+Verapamil (A) ve diltiazem (B) kalbe de etki ederek hızı **düşürür**. Amlodipin (D) yavaş başlayan ve çok uzun etkili olduğu için refleks taşikardi azdır. Silnidipin (E) L ve N tipi kanalları birlikte bloke eder; N tipi blokaj sempatik sinir uçlarından noradrenalin salınımını azalttığı için refleks taşikardi yapmaz (2024-25 S39).
+@@
+@Q MSD 5-6 2026-27 · SORU 65 | BU YIL | AYNI BİLGİ
+@K Renin-anjiyotensin-aldosteron sistemine etki eden ilaçlarla ilgili aşağıdakilerden hangisi doğrudur?
+A) ARB'lerin bradikinin kaynaklı hipotansif etkisi ACE inhibitörlerinden daha belirgindir.
+B) ACE inhibitörleri kronik kullanımda hipokalemi gelişmesine neden olur.
+C) ACE inhibitörleri NSAİİ ile eşzamanlı kullanım açısından riskli iken ARB'lerde bu risk bulunmaz.
+D) ACE inhibitörü kullanımı anjiyotensin II seviyesini düşürücü, ARB ise artırıcı etki oluşturur. ✓
+E) ACE inhibitörlerinin gebelikte kullanımı güvenlidir.
+@O Önceki yıllar: “ARB için doğru olan ama ACEİ için geçerli olmayan → anjiyotensin II düzeyini artırma” MSD 2025-26 S38'de; ACEİ'nin gebelikte kontrendike olduğu 2025-26 S34'te soruldu.
+D doğru. ACE inhibitörü anjiyotensin II yapımını azaltır. **ARB** ise AT1 reseptörünü bloke eder; anjiyotensin II'nin renin üzerindeki negatif geri bildirimi kalktığı için renin ve **anjiyotensin II düzeyi artar** (artan anjiyotensin II boştaki AT2 reseptörlerini uyarır).
+Bradikinin aracılı etki ACEİ'ye özgüdür; ARB'de belirgin değildir (A). ACEİ **hiperkalemi** yapar (B). NSAİİ ile birlikte kullanım ACEİ'de de ARB'de de risklidir (C). ACEİ ve ARB **gebelikte kontrendikedir** (E; fetal böbrek hasarı, oligohidramniyoz).
+@@
+@Q MSD 5-6 2026-27 · SORU 66 | BU YIL | BENZER KALIP
+@K Aşağıda verilen bilgilerden hangisi diüretik ilaçlar için doğrudur?
+A) Asetazolamid toplayıcı kanallarda etki gösterir ve en güçlü diüretik ilaçtır.
+B) Ozmotik diüretikler distal tübülde etki gösterir ve beyin ödeminde kullanımları kontrendikedir.
+C) Kıvrım diüretikleri kalsiyum geri emilimini artırır ve GFR'yi azaltır.
+D) Metolazon tiazid grubu bir diüretik ilaçtır ve ilerlemiş böbrek yetmezliğinde kullanılabilir. ✓
+E) Eplerenon hipokalemi etkisi nedeniyle hiperkalemiyi tedavi etmek için kullanılır.
+@O Önceki yıllar: Diüretikler için doğru-yanlış soruları blok sınavında her yıl (2025-26 S48, 2024-25 S22, 2023-24 S25) ve MSD 2025-26 S32, 2024-25 S32'de soruldu.
+D doğru. **Metolazon** tiyazid benzeri bir diüretiktir; klasik tiyazidlerin aksine **ileri böbrek yetersizliğinde de (GFR < 30) etkilidir**. Kıvrım diüretiğine direnç gelişen ödemli hastada furosemide eklenir (**sıralı nefron blokajı**); hipokalemi ve hiponatremi riski yüksektir.
+Asetazolamid proksimal tübülde etki eder ve zayıf bir diüretiktir; en güçlüleri kıvrım diüretikleridir (A). Ozmotik diüretikler (mannitol) proksimal tübül ve Henle'nin inen kolunda etki eder ve **beyin ödeminde kullanılır** (B). Kıvrım diüretikleri kalsiyum **atılımını artırır** (C; hiperkalsemi tedavisinde kullanılır). Eplerenon **hiperkalemi** yapar (E).
+@@
+@Q MSD 5-6 2026-27 · SORU 67 | BU YIL | AYNI KALIP (5. KEZ)
+@K Diüretik ilaçlar için aşağıda verilen ilaç-etki mekanizması eşleşmesinden hangisi doğrudur?
+A) Mannitol - Karbonik anhidraz inhibisyonu
+B) Bumetanid - Adenozin reseptör inhibisyonu
+C) İndapamid - Na⁺/Cl⁻ kotransport inhibisyonu ✓
+D) Triamteren - Bikarbonat atılım inhibisyonu
+E) Lixivaptan - Aldosteron reseptör blokörü
+@O Önceki yıllar: Aynı kalıp MSD 2025-26 S31 (doğru: tolvaptan – V2 reseptör blokeri), 2022-23 S33 ve blok sınavı 2025-26 S52, 2022-23 S26'da soruldu.
+C doğru. **İndapamid** tiyazid benzeri bir diüretiktir; distal kıvrımlı tübülde **Na⁺/Cl⁻ kotransporterini (NCC)** baskılar. Hipertansiyonda birinci basamak ilaçlardandır.
+Diğer eşleştirmeler yanlıştır: mannitol ozmotik diüretiktir (A; karbonik anhidrazı baskılayan asetazolamiddir); bumetanid kıvrım diüretiğidir, NKCC2'yi baskılar (B); triamteren ENaC'yi bloke eder (D); liksivaptan vazopressin V2 reseptör antagonistidir (E; aldosteron reseptör blokerleri spironolakton ve eplerenondur).
+@@
+@Q MSD 5-6 2026-27 · SORU 68 | BU YIL | BENZER BİLGİ
+@K Akut kardiyojenik akciğer ödemi gelişen bir hastaya, Henle kıvrımının kalın çıkan kolundaki Na⁺/K⁺/2Cl⁻ kotransporterini inhibe ederek hızlı diürez sağlayan bir ilaç intravenöz uygulanıyor. Bu ilaç hangisidir?
+A) Metazolamid
+B) Mannitol
+C) Hidroklorotiyazid
+D) Furosemid ✓
+E) Amilorid
+@O Önceki yıllar: “Sülfonamid yapıda, NKCC2'yi baskılayan güçlü diüretik → torsemid” MSD 2025-26 S30 ve 2021-22 S33'te soruldu. Kıvrım diüretikleri blok sınavında her yıl geliyor.
+D doğru. **Furosemid** Henle'nin çıkan kalın kolunda **Na⁺/K⁺/2Cl⁻ kotransporterini (NKCC2)** baskılar; filtre edilen sodyumun %25'ine kadarını attırabilen en güçlü diüretik grubudur. Akut kardiyojenik akciğer ödeminde damardan verilir: diürezden önce bile venleri genişletip preloadu düşürür.
+Metazolamid (A) karbonik anhidraz inhibitörüdür. Mannitol (B) ozmotik diüretiktir ve kalp yetersizliğinde hacmi artırdığı için kontrendikedir. Hidroklorotiyazid (C) NCC'yi, amilorid (E) ENaC'yi baskılar.
+@@
+
+## Konu eki: böbrek ve hipertansiyon farmakolojisi
+| Grup | Etki yeri ve hedef | Örnek | Potasyum | Not |
+| Karbonik anhidraz inhibitörü | Proksimal tübül | Asetazolamid, metazolamid | ↓ | Zayıf; metabolik asidoz, glokom, dağ hastalığı |
+| Ozmotik | Proksimal tübül, Henle inen kol | Mannitol | | Beyin ödemi; kalp yetersizliğinde kontrendike |
+| **Kıvrım** | Henle çıkan kalın kol, **NKCC2** | **Furosemid**, torsemid, bumetanid | ↓ | En güçlü; akciğer ödemi; kalsiyum atılımı ↑ |
+| **Tiyazid** ve tiyazid benzeri | Distal tübül, **NCC** | Hidroklorotiyazid, **indapamid**, klortalidon, **metolazon** | ↓ | Kalsiyum atılımı ↓; metolazon ileri böbrek yetersizliğinde de etkili |
+| **Potasyum tutucu** | Toplayıcı kanal | **Amilorid, triamteren** (ENaC); spironolakton, **eplerenon** (aldosteron reseptörü) | **↑** | Hiperkalemi, asidoz |
+| Vaptanlar | Toplayıcı kanal, **V2** reseptörü | Tolvaptan, konivaptan, **liksivaptan** | | Hiponatremi (SIADH) |
+|= Diüretikler.
+- **ACE inhibitörü:** anjiyotensin II ↓, aldosteron ↓ (Na-su tutulumu ↓, K ↑), bradikinin ↑ (öksürük, **anjiyoödem**), renin ↑; gebelikte kontrendike. **ARB:** AT1 blokajı, **renin ve anjiyotensin II ↑**, bradikinin etkisi yok.
+- **Kalsiyum kanal blokerleri:** düz kasta Ca²⁺ girişi ↓ → kalmodulin ve **miyozin hafif zincir kinazı** ↓ → gevşeme. **Verapamil, diltiazem:** kalp ve AV düğüm (hem HT hem SVT). **Dihidropiridinler** (-dipin): damar seçici; **kısa etkili nifedipin en çok refleks taşikardi** yapar; amlodipin uzun etkili; silnidipin (L + N tipi) refleks taşikardi yapmaz.
+

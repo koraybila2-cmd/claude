@@ -1,0 +1,97 @@
+# Beslenme ve Büyüme İzlemi | Bu yıl 7 soru (S1, S2, S6, S17, S20, S23, S24); geçen yıl 7 soru. 4 soru daha önceki sınavlarda aynı ya da benzer biçimde geldi, 3 soru ilk kez soruldu. Bu yılın kartlarından sonra konu eki, ardından önceki baskının bu bölümü (2025-26 ve 2024-25 soruları ve konu tekrarı) gelir. || Modül 5-6 · Bölüm 1 · 2026-27 soruları
+@QB BU YILIN SORULARI
+@Q MSD 5-6 2026-27 · SORU 1 | BU YIL | İLK KEZ SORULDU
+@K Aşağıdakilerden hangisi, sağlıklı çocukta beslenme ile ilgili yanlış bir ifadedir?
+A) 0-6 ay arasında sadece anne sütü yeterlidir.
+B) Tamamlayıcı beslenme dönemi, çocuğun besin eksikliğine duyarlı olduğu bir dönemdir.
+C) 9 aylık kilo alımı yetersiz çocukta, ek besinler bal ile tatlandırılabilir. ✓
+D) Allerjen besinlere ilk olarak küçük miktarlarla başlanmalıdır.
+E) Tamamlayıcı beslenme döneminde doktor beslenme danışmanlığı vermelidir.
+@O Önceki yıllar: Arşivde aynı soru yok. Sağlıklı çocuk beslenmesi blok sınavında her yıl ilk 2-3 soruda geliyor (ör. BSD 2024-25 S98, 2025-26 S3).
+C yanlıştır. Bir yaşından küçük bebeklere bal verilmez: balda bulunabilen *Clostridium botulinum* sporları bebeğin olgunlaşmamış bağırsağında çoğalıp toksin üretir ve **bebek botulizmi** (kabızlık, emmede zayıflık, hipotoni, solunum yetmezliği) yapar. Kilo alımı yetersiz bebekte enerji yoğunluğu yağ (tereyağı, zeytinyağı) ve besin çeşitliliğiyle artırılır, şekerle ya da balla değil.
+İlk 6 ay yalnız anne sütü yeterlidir (A). Tamamlayıcı beslenme dönemi (6-24 ay) demir, çinko ve A vitamini eksikliğine en duyarlı dönemdir (B). Alerjen besinlere (yumurta, fıstık, balık) küçük miktarla ve tek tek başlanır (D). Hekim bu dönemde beslenme danışmanlığı vermelidir (E).
+@@
+@Q MSD 5-6 2026-27 · SORU 2 | BU YIL | İLK KEZ SORULDU
+@K Aşağıdakilerden hangisi, tamamlayıcı beslenme döneminde verilecek ilk gıdaların özelliklerindendir?
+A) Besinleri seçerken mikrobesinler önemli değildir.
+B) Tamamlayıcı beslenme döneminde, çocuğun uygunluğuna gelişim düzeyine bakarak karar verilir. ✓
+C) Bebek emzirildikten sonra ek besinler verilir.
+D) Ek besin verilirken ülkelerin gelenekleri önemsizdir.
+E) Çocuk acı sebzeleri bir kere kabul etmediyse bir daha denenmez.
+@O Önceki yıllar: Arşivde aynı soru yok. Ek gıdaya başlama zamanı (6. ay) 2025-26 S1'de çeldirici olarak geçti.
+B doğru. Tamamlayıcı beslenmeye (yaklaşık 6. ay) geçişte belirleyici olan çocuğun **gelişimsel hazırlığıdır**: başını dik tutması, desteksiz ya da az destekle oturması, dil itme refleksinin kaybolması ve yiyeceğe ilgi göstermesi.
+İlk besinler seçilirken demir, çinko gibi **mikrobesinler çok önemlidir** (A); anne sütünün en çok yetersiz kaldığı ögeler bunlardır. İlk aylarda ek besin genellikle emzirmeden önce ya da aralarında verilir; “emzirildikten sonra verilir” kalıp bir kural değildir (C). Ülkenin geleneksel besinleri ve kültürü dikkate alınır (D). Çocuk bir besini reddettiyse 8-15 kez yeniden denenir; acı sebzeler bir kez reddedildi diye bırakılmaz (E).
+@@
+@Q MSD 5-6 2026-27 · SORU 6 | BU YIL | BENZER KALIP; TERS HÂLİ HER YIL
+@K Üç yaşında bir kız çocuğu, son iki aydır iştahsızlık ve kıyafetlerinin bollaşması nedeniyle getiriliyor. Muayenede deri altı yağ dokusunda azalma saptanıyor, ödem bulunmuyor. Önceki büyüme kayıtlarına ulaşılamıyor. Bu çocukta mevcut zayıflığı değerlendirmek için en uygun antropometrik gösterge hangisidir?
+A) Yaşa göre boy Z skoru
+B) Boya göre ağırlık Z skoru ✓
+C) Yaşa göre baş çevresi Z skoru
+D) Tek başına vücut ağırlığı
+E) Tek başına boy uzunluğu
+@O Önceki yıllar: Ters hâli (kronik malnütrisyonda en değerli gösterge → yaşa göre boy) MSD 2025-26 S19, 2024-25 S55, 2022-23 S56, 2021-22 S56'da; “boya göre ağırlık düşüklüğü akut malnütrisyonu gösterir” 2025-26 S47'de soruldu.
+B doğru. Son iki ayda gelişen zayıflık **akut** malnütrisyondur. Akut kayıpta önce kilo düşer, boy henüz etkilenmez; bu yüzden ağırlığı çocuğun kendi boyuna göre değerlendiren **boya göre ağırlık z-skoru** mevcut zayıflığı (wasting) en iyi gösterir. Yaştan bağımsız olduğu için önceki kayıtlara gerek duymaz.
+Yaşa göre boy (A) uzun süreli, kronik yetersizliği (bodurluk, stunting) gösterir. Baş çevresi (C) özellikle ilk 2 yılda beyin büyümesini izler. Tek başına ağırlık ya da boy (D, E) yaş ve cinsiyete göre referansla karşılaştırılmadan anlam taşımaz.
+@@
+@Q MSD 5-6 2026-27 · SORU 17 | BU YIL | İLK KEZ SORULDU
+@K Beslenme yetersizliği gelişen bir çocukta büyüme parametrelerindeki değişikliklerin beklenen sıralaması aşağıdakilerden hangisidir?
+A) Önce boy uzaması durur, ardından kilo alımı azalır.
+B) Önce baş çevresi artışı durur, ardından boy uzaması durur.
+C) Önce kilo alımı azalır ve durur, ardından boy uzaması yavaşlar veya durur. ✓
+D) Önce boy uzaması durur, ardından baş çevresi artışı durur.
+E) Kilo, boy ve baş çevresi artışı aynı anda durur.
+@O Önceki yıllar: Arşivde aynı soru yok. Akut malnütrisyonda boya göre ağırlık, kroniklikte yaşa göre boy (2025-26 S19, S47) aynı mantığa dayanır.
+C doğru. Beslenme yetersizliğinde vücut önce enerji depolarını harcar: **ağırlık alımı yavaşlar ve durur** (gerekirse kilo kaybı). Yetersizlik uzarsa **boy uzaması yavaşlar** (kronik malnütrisyon, bodurluk). Beyin en son etkilenir; **baş çevresi** en uzun süre korunur.
+Bu yüzden akut yetersizlik boya göre ağırlıkla, kronik yetersizlik yaşa göre boyla izlenir. Diğer sıralamalar (A, B, D, E) yanlıştır.
+@@
+@Q MSD 5-6 2026-27 · SORU 20 | BU YIL | AYNI BİLGİ
+@K Üç yaşındaki bir çocuğun ağırlığı, aynı boydaki sağlıklı çocukların 50. persantil ağırlığının %75'i olarak hesaplanmıştır. Bu değerlendirmede kullanılan antropometrik gösterge ve öncelikle yansıttığı beslenme sorunu aşağıdakilerden hangisidir?
+A) Yaşa göre ağırlık - Kronik malnütrisyon
+B) Yaşa göre boy - Akut malnütrisyon
+C) Boya göre ağırlık - Akut malnütrisyon ✓
+D) Yaşa göre boy - Kronik malnütrisyon
+E) Boya göre ağırlık - Kronik malnütrisyon
+@O Önceki yıllar: “Boya göre ağırlık düşüklüğü kronik malnütrisyonun göstergesidir” ifadesi MSD 2025-26 S47, 2024-25 S75 ve blok sınavı 2023-24 S99, 2022-23 S98'de yanlış ifade olarak soruldu.
+C doğru. Çocuğun ağırlığı **aynı boydaki** çocukların ortanca (50. persentil) ağırlığıyla karşılaştırılıyor: bu **boya göre ağırlık** yüzdesidir (Waterlow). Boya göre ağırlık mevcut zayıflığı, yani **akut malnütrisyonu** gösterir. Waterlow'a göre %90 üstü normal, %80-89 hafif, %70-79 **orta** (bu çocuk %75), %70 altı ağır.
+Yaşa göre ağırlık (A; Gomez) akut ve kronik ayrımı yapamaz. Yaşa göre boy (B, D) kronik malnütrisyonu gösterir. Boya göre ağırlık kronik değil akut malnütrisyonun göstergesidir (E).
+@@
+@Q MSD 5-6 2026-27 · SORU 23 | BU YIL | AYNI SORU (5. KEZ)
+@K Aşağıdaki antropometrik göstergelerden hangisi çocuklarda kronik beslenme yetersizliğinin takibinde daha değerlidir?
+A) Yaşa Göre Ağırlık z-skoru
+B) Boya Göre Ağırlık z-skoru
+C) Yaşa Göre Boy z-skoru ✓
+D) Yaşa Göre Baş Çevresi z-skoru
+E) Boya Göre Karın Çevresi z-skoru
+@O Önceki yıllar: Aynı soru MSD 2025-26 S19, 2024-25 S55, 2022-23 S56, 2021-22 S56'da soruldu.
+C doğru. Uzun süreli beslenme yetersizliği boy uzamasını yavaşlatır (bodurluk, stunting); bunu en iyi **yaşa göre boy z-skoru** gösterir. −2'nin altı bodurluk, −3'ün altı ağır bodurluktur.
+Boya göre ağırlık (B) akut malnütrisyonu (zayıflık, wasting), yaşa göre ağırlık (A) ikisinin karışımını gösterir. Baş çevresi (D) beyin büyümesini izler; karın çevresi (E) çocuk malnütrisyonunda kullanılmaz.
+@@
+@Q MSD 5-6 2026-27 · SORU 24 | BU YIL | AYNI KALIP (7. KEZ)
+@K Aşağıda gerekli özellikleri verilmiş olan çocuğun z-skorunu hesaplayınız.
+@K Yaş: 22 aylık
+@K Cinsiyet: Kız
+@K Boyu: 82 cm
+@K Referans grup boy ortalaması: 80 cm
+@K Referans grubun standart sapması: 2.00
+A) -2
+B) -1
+C) 0
+D) +1 ✓
+E) +2
+@O Önceki yıllar: Aynı hesap MSD 2025-26 S18 (cevap −2), 2023-24 S55, 2021-22 S55 ve blok sınavı 2024-25 S71, 2022-23 S70, 2019-20 S71'de soruldu.
+D doğru: +1. **z-skoru = (ölçülen değer − referans ortalaması) / referans standart sapması** = (82 − 80) / 2 = **+1**.
+Yorum: −2 ile +2 arası normaldir; −2'nin altı düşük (yaşa göre boyda bodurluk), −3'ün altı ağırdır. Bu çocuğun boyu yaşıtlarının ortalamasının bir standart sapma üstündedir, yani normaldir.
+@@
+
+## Konu eki: antropometrik göstergeler ve beslenme
+| Gösterge | Neyi gösterir? | Eşikler |
+| **Boya göre ağırlık** (Waterlow, % ya da z-skoru) | **Akut** malnütrisyon (zayıflık, wasting); yaşa gerek yok | Waterlow: > %90 normal, %80-89 hafif, %70-79 orta, < %70 ağır. z < −2 zayıf, < −3 ağır |
+| **Yaşa göre boy** (z-skoru) | **Kronik** malnütrisyon (bodurluk, stunting) | z < −2 bodur, < −3 ağır bodur |
+| **Yaşa göre ağırlık** (Gomez, %) | Akut ve kronik karışık; ayrım yapamaz | Gomez: %90-110 normal, %75-89 1. derece, **%60-74 2. derece**, < %60 3. derece |
+| Üst orta kol çevresi | 6-59 ayda ağır akut malnütrisyon taraması | < 11,5 cm ağır, 11,5-12,5 orta |
+| Baş çevresi | İlk 2 yılda beyin büyümesi | |
+|= Antropometrik göstergeler. z-skoru = (ölçülen − referans ortalaması) / standart sapma.
+- Beslenme yetersizliğinde **önce kilo**, sonra **boy**, en son **baş çevresi** etkilenir.
+- **Ödem** (kwashiorkor) ağırlığı olduğundan iyi gösterir; ödem tek başına ağır akut malnütrisyon ölçütüdür.
+- **Tamamlayıcı beslenme:** 6. ayda, çocuğun gelişimsel hazırlığına göre başlanır; demir ve çinkodan zengin besinler önceliklidir; reddedilen besin 8-15 kez yeniden denenir; alerjen besinler küçük miktarla başlanır; **1 yaşından önce bal ve inek sütü (içecek olarak) verilmez**; tuz ve şeker eklenmez.
+

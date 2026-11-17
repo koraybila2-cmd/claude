@@ -1,0 +1,9 @@
+## Konu eki: mantarları ayırmanın ipuçları
+| Kaynak | Dermatofitler | Özellik |
+| **Antropofilik** (insandan insana) | *T. rubrum* (en sık; **Majocchi granülomu**), *T. tonsurans* (tinea kapitisin en sık antropofilik etkeni), *E. floccosum*, *T. indotineae* (**terbinafine dirençli**), *T. schoenleinii* (favus, kalıcı alopesi) | Kronik, az iltihaplı |
+| **Zoofilik** (hayvandan) | ***Microsporum canis*** (kedi, köpek), *T. verrucosum* (sığır) | İltihaplı (kerion); M. canis Wood lambasında yeşil |
+| **Geofilik** (topraktan) | ***Nannizzia (Microsporum) gypsea*** | Çiftçi, bahçıvan, seramikçi, arkeolog |
+|= Dermatofitlerin ekolojik sınıflaması.
+- **Mayalar:** germ tüp (+) → *Candida albicans* (ve *C. dubliniensis*); *C. glabrata* flukonazole az duyarlı. *Cryptococcus* kapsüllü, hücre duvarında **ömelanin** (lakkaz ile DOPA'dan).
+- **Küfler:** anjioinvaziv → **Mucorales** (*Rhizopus*, *Mucor*; diyabetik ketoasidozda rinoserebral, bölmesiz geniş hif) ve *Aspergillus* (nötropenide, bölmeli dar açılı hif). Dematiyase (koyu pigmentli) küfler DHN-melanin taşır, feohifomikoz yapar.
+- **Laboratuvar:** saç ve deri örneği %10 KOH ile incelenir; kültürde sikloheksimid kontaminant küfleri baskılar; Sabouraud agardaki küf laktofenol pamuk mavisiyle boyanır.

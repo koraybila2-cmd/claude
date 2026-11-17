@@ -1,0 +1,144 @@
+# Kronik Böbrek Hastalığı, Diyabetik Nefropati ve Hipertansiyon | Bu yıl 12 soru (S27, S28, S29, S30, S31, S32, S33, S34, S35, S36, S37, S38); geçen yıl 10 soru. 2 soru daha önceki sınavlarda aynı ya da benzer biçimde geldi, 10 soru ilk kez soruldu. Bu yılın kartlarından sonra konu eki, ardından önceki baskının bu bölümü (2025-26 ve 2024-25 soruları ve konu tekrarı) gelir. || Modül 5-6 · Bölüm 9 · 2026-27 soruları
+@QB BU YILIN SORULARI
+@Q MSD 5-6 2026-27 · SORU 27 | BU YIL | İLK KEZ SORULDU
+@K Serum kreatinini 1.2 mg/dL olan 25 yaşındaki bir erkekte eGFR yaklaşık 86, aynı kreatinin değerine sahip 80 yaşındaki bir kadında ise yaklaşık 46 mL/dk/1.73 m^2 hesaplanmaktadır. Bu farkın temel nedeni aşağıdakilerden hangisidir?
+A) Yaşlı kadında tübüler kreatinin sekresyonunun artması
+B) Genç erkekte glomerüler hiperfiltrasyon bulunması
+C) Yaşlı kadında kas kütlesinin az olması ✓
+D) Kadınlarda kreatininin karaciğerde daha hızlı yıkılması
+E) Yaşlılarda kreatininin bağırsaktan geri emiliminin artması
+@O Önceki yıllar: Kreatininin geç bulgu olması (nefronların yarısı kaybedilmeden yükselmez) MSD 2025-26 S60 ve blok sınavı 2025-26 S85'te soruldu.
+C doğru. Kreatinin kas metabolizmasının ürünüdür; günlük yapımı **kas kütlesiyle** orantılıdır. Yaşlı kadında kas kütlesi azdır, kreatinin yapımı düşüktür; bu yüzden aynı serum kreatinini (1,2 mg/dL) daha düşük bir GFR'ye karşılık gelir. eGFR formülleri (CKD-EPI, MDRD) yaş ve cinsiyeti bu nedenle içerir. Yaşlı ve zayıf hastada “normal” kreatinin böbrek yetersizliğini gizleyebilir; ilaç dozları eGFR'ye göre ayarlanır.
+Tübüler kreatinin sekresyonu yaşlıda artmaz (A); genç erkekte hiperfiltrasyon yoktur (B). Kreatinin karaciğerde yıkılmaz (D) ve bağırsaktan geri emilmez (E).
+@@
+@Q MSD 5-6 2026-27 · SORU 28 | BU YIL | İLK KEZ BU BİÇİMDE SORULDU
+@K KBH'ye bağlı aneminin tipik morfolojisi ve en önemli nedeni hangisidir?
+A) Normokrom normositer - eritropoetin üretiminin azalması ✓
+B) Hipokrom mikrositer - talasemi major
+C) Makrositer - B12 vitamini eksikliği
+D) Normokrom normositer - hemoliz
+E) Hipokrom mikrositer - alüminyum birikimi
+@O Önceki yıllar: Eritropoetin direncinin nedenleri MSD 2024-25 S30, 2019-20 S9 ve blok sınavı 2022-23 S17'de soruldu.
+A doğru. Böbrek peritübüler interstisyel hücreleri **eritropoetin** yapar; KBH'de bu yapım azalır ve **normokrom normositer** anemi gelişir (GFR 30-45'in altında belirginleşir). Katkıda bulunanlar: demir eksikliği ve kullanımının bozulması (hepsidin artışı), eritrosit ömrünün kısalması, kan kaybı (diyaliz, gastrointestinal), folat ve B12 eksikliği, hiperparatiroidiye bağlı kemik iliği fibrozu. Tedavi: önce demir depolarının doldurulması, sonra eritropoez uyarıcı ajanlar (rekombinant eritropoetin, darbepoetin); hedef hemoglobin 10-11,5 g/dL.
+Talasemi (B), B12 eksikliği (C), hemoliz (D) ve alüminyum birikimi (E) KBH anemisinin temel nedeni değildir.
+@@
+@Q MSD 5-6 2026-27 · SORU 29 | BU YIL | İLK KEZ SORULDU
+@K Diyabetli bir hastada aşağıdakilerden hangisi diyabetik olmayan böbrek hastalığını düşündüren "kırmızı bayrak" değildir?
+A) Tip 1 DM'de diyabet süresinin 5 yıldan kısa olması
+B) İdrarda eritrosit silendiri ve dismorfik eritrosit
+C) RAS blokajı sonrası eGFR'de >%30 düşüş
+D) Hızla artan proteinüri veya ani başlayan nefrotik sendrom
+E) 15 yıllık DM öyküsü ile birlikte proliferatif olmayan retinopati varlığı ✓
+@O Önceki yıllar: Arşivde aynı soru yok. Diyabetik nefropatinin evreleri MSD 2024-25 S13'te, patogenezi 2025-26 S53, S63 ve blok sınavı 2023-24 S12, 2025-26 S86'da soruldu.
+E doğru (kırmızı bayrak değildir). Uzun süreli diyabet (15 yıl) ve **retinopati varlığı**, böbrek hastalığının **diyabete bağlı** olduğunu destekler; çünkü ikisi de mikrovasküler komplikasyondur ve genellikle birlikte ilerler.
+Diyabetik olmayan böbrek hastalığını (glomerülonefrit gibi) düşündüren ve biyopsiyi gerektiren durumlar: tip 1 diyabette sürenin 5 yıldan kısa olması (A), idrarda **eritrosit silendiri ve dismorfik eritrosit** (aktif nefritik sediment; B), RAS blokajından sonra eGFR'de > %30 düşüş (renal arter darlığı; C), hızla artan proteinüri ya da ani nefrotik sendrom (D), retinopatinin olmaması ve hızlı GFR kaybı.
+@@
+@Q MSD 5-6 2026-27 · SORU 30 | BU YIL | İLK KEZ SORULDU
+@K Türk Nefroloji Derneği verilerine göre Türkiye'de evre 5 KBH'nin en sık nedeni hangisidir?
+A) Hipertansiyon
+B) Glomerülonefrit
+C) Diabetes mellitus ✓
+D) Polikistik böbrek hastalığı
+E) Nefrolitiyazis
+@O Önceki yıllar: Arşivde aynı soru yok. Türkiye'de KBH prevalansı (%15,7, CREDIT çalışması) MSD 2025-26 S55'te soruldu.
+C doğru. Türk Nefroloji Derneği kayıt sistemine göre Türkiye'de yeni başlayan ve prevalan evre 5 KBH hastalarında en sık neden **diabetes mellitustur** (yaklaşık %35-40); ardından **hipertansiyon** (yaklaşık %25) ve glomerülonefritler gelir. Dünyada da sıralama aynıdır.
+Polikistik böbrek hastalığı (D) ve taş hastalığı (E) daha az sıktır.
+@@
+@Q MSD 5-6 2026-27 · SORU 31 | BU YIL | İLK KEZ SORULDU
+@K Diyabetik böbrek hastalığında elektron mikroskobuyla saptanabilen en erken yapısal değişiklik hangisidir?
+A) Fokal glomerüloskleroz
+B) Glomerüler bazal membran kalınlaşması ✓
+C) Global glomerüloskleroz
+D) İnterstisyel fibrozis
+E) Arterioskleroz
+@O Önceki yıllar: Diyabetik nefropati patogenezi (AGE, RAS) MSD 2025-26 S53, S63 ve blok sınavı 2023-24 S12'de soruldu.
+B doğru. Hiperglisemi glikasyonla tip IV kollajen ve matriks yapımını artırır; **glomerüler bazal membran kalınlaşması**, diyabetin başlangıcından birkaç yıl sonra, belirti ve albüminüri olmadan, ancak **elektron mikroskobuyla** saptanabilen en erken yapısal değişikliktir. Ardından **mezangiyal matriks genişlemesi**, diffüz glomeruloskleroz ve nodüler (**Kimmelstiel-Wilson**) skleroz, afferent ve efferent arteriyollerde hiyalinoz gelişir.
+Fokal ve global glomeruloskleroz (A, C), interstisyel fibroz (D) ve arterioskleroz (E) geç dönem değişiklikleridir.
+@@
+@Q MSD 5-6 2026-27 · SORU 32 | BU YIL | İLK KEZ BU BİÇİMDE SORULDU
+@K Proteinürisi olan kronik böbrek hastalıklı ve hipertansif bir hastada antihipertansif tedavi ile ilgili hangisi doğrudur?
+A) Tedavi RAS inhibitörü içermeli, tek RAS ajanı kullanılmalıdır. ✓
+B) ACE inhibitörü ve ARB birlikte kullanılmalıdır.
+C) RAS inhibitörleri KBH'de kontrendikedir.
+D) Tuz kısıtlaması önerilmez.
+E) Hedef kan basıncı <160/100 mmHg'dir.
+@O Önceki yıllar: KBH progresyonunu yavaşlatan tedaviler MSD 2024-25 S9, S15, 2023-24 S7, 2022-23 S6'da; diyabetik nefropatide ACE inhibitörü tercihinin nedeni 2025-26 S33 ve blok sınavı 2024-25 S57'de soruldu.
+A doğru. Proteinürisi olan KBH'de ACE inhibitörü ya da ARB, efferent arteriyolü gevşetip glomerül içi basıncı ve proteinüriyi azaltır, hastalığın ilerlemesini yavaşlatır. **Tek** bir RAS ajanı en yüksek tolere edilen dozda kullanılır.
+**ACE inhibitörü ve ARB'nin birlikte** kullanımı (B) hiperkalemi ve akut böbrek hasarını artırdığı, ek yarar sağlamadığı için önerilmez. RAS inhibitörleri KBH'de kontrendike değil, tam tersine tercih edilir (C). Tuz kısıtlaması (günde < 5 g tuz) önerilir (D). Hedef kan basıncı < 160/100 değil; sistolik < 120-130 mmHg'dir (E).
+@@
+@Q MSD 5-6 2026-27 · SORU 33 | BU YIL | İLK KEZ SORULDU
+@K AHA/ACC 2017 rehberine göre akıllı saatlerin / manşonsuz (cuffless) kan basıncı ölçümü ile ilgili hangisi doğrudur?
+A) Ev ölçümüne eşdeğer kabul edilir.
+B) Yalnızca gece ölçümünde kullanılabilir.
+C) Pratik ve kolay olduğundan ilacı içmeden önce bakmalı ve karar vermelidir.
+D) Ambulatuvar ölçümün yerini alabilir.
+E) Klinik tanı ve takip için kullanılmamalıdır. ✓
+@O Önceki yıllar: Arşivde aynı soru yok. Beyaz önlük hipertansiyonu MSD 2025-26 S62'de soruldu.
+E doğru. AHA/ACC 2017 rehberine göre ev ölçümü **doğrulanmış (valide), üst koldan manşonlu** cihazlarla yapılmalıdır. Akıllı saatler, bileklikler ve manşonsuz (cuffless) cihazların doğruluğu kanıtlanmamıştır; **klinik tanı ve takip için kullanılmamalıdır**.
+Ev ya da ambulatuvar ölçüme eşdeğer değildir (A, D). Yalnız gece kullanım (B) ya da ilaç içme kararının bu ölçüme göre verilmesi (C) önerilmez.
+@@
+@Q MSD 5-6 2026-27 · SORU 34 | BU YIL | İLK KEZ SORULDU
+@K Guyton modeline göre uzun dönem (günler-yıllar) kan basıncı düzeyini asıl belirleyen faktör hangisidir?
+A) Baroreseptör refleksi
+B) Böbreğin tuz ve su atma kapasitesi ✓
+C) Kalp hızı
+D) Kemoreseptör aktivitesi
+E) Atriyal natriüretik peptid düzeyi
+@O Önceki yıllar: Arşivde aynı soru yok.
+B doğru. Guyton'un modeline göre arter basıncı yükselince böbrek daha çok sodyum ve su atar (**basınç natriürezi**); hacim azalır ve basınç eski düzeyine döner. Bu mekanizmanın kazancı “sonsuz”dur: günler-yıllar boyunca kan basıncını, **böbreğin tuz ve su atma kapasitesinin** ayarlandığı nokta belirler. Hipertansiyonun hemen her biçiminde bu eğri sağa kaymıştır (böbrek aynı tuzu atmak için daha yüksek basınca gereksinim duyar).
+Baroreseptörler (A) ve kemoreseptörler (D) saniyeler-dakikalar içindeki kısa dönem düzenlemeyi yapar ve günler içinde yeni düzeye uyum sağlar (reset). Kalp hızı (C) ve ANP (E) tek başına uzun dönem düzeyi belirlemez.
+@@
+@Q MSD 5-6 2026-27 · SORU 35 | BU YIL | İLK KEZ SORULDU
+@K İleri evre KBH'li diyabetik hastada hipoglisemi riskinin artmasının nedeni hangisidir?
+A) İnsülin klirensinin ve böbrek glukoneogenezinin azalması ✓
+B) Glukagon düzeyinin artması
+C) HbA1c'nin yalancı yüksek çıkması
+D) Bağırsaktan glukoz emiliminin artması
+E) Kortizol düzeyinin artması
+@O Önceki yıllar: Arşivde aynı soru yok.
+A doğru. Böbrek dolaşımdaki **insülinin yaklaşık üçte birini** temizler; GFR düştükçe hem endojen hem dışarıdan verilen insülinin yarı ömrü uzar. Ayrıca böbrek, açlıkta glukoz yapımının önemli bir kaynağıdır (**renal glukoneogenez**); bu da azalır. Böbrekten atılan sülfonilürelerin (glibenklamid) birikmesi ve beslenme bozukluğu riski artırır. Bu yüzden ileri KBH'de insülin dozu azaltılır, sülfonilürelerden kaçınılır.
+Glukagon ve kortizol (B, E) kan şekerini yükseltir. HbA1c'nin yalancı değişmesi (C) hipoglisemiye yol açmaz (KBH'de anemi ve eritropoetin tedavisiyle HbA1c yalancı düşük çıkabilir). Bağırsaktan glukoz emilimi artmaz (D).
+@@
+@Q MSD 5-6 2026-27 · SORU 36 | BU YIL | İLK KEZ SORULDU
+@K Kreatinin yüksekliği saptanan bir hastada akut böbrek hasarı ile kronik böbrek hastalığını ayırmada en değerli bilgi hangisidir?
+A) Serum üre/kreatinin oranı
+B) Hastanın yaşı
+C) Kan basıncı düzeyi
+D) İdrar dansitesi
+E) Hastanın önceki kreatinin değerleri ✓
+@O Önceki yıllar: Arşivde aynı soru yok. Prerenal ABH bulguları MSD 2025-26 S72 ve blok sınavı 2025-26 S90'da soruldu.
+E doğru. Kreatinin yüksekliğinin ne zamandır var olduğunu en güvenilir biçimde **hastanın önceki kreatinin değerleri** gösterir: birkaç gün içinde yükselmişse akut böbrek hasarı, aylar-yıllardır yüksekse kronik böbrek hastalığıdır. Önceki değer yoksa ultrasonda **küçük, ince parankimli böbrekler**, normokrom normositer anemi, hiperfosfatemi ve kemik bulguları kronikliği destekler (diyabetik nefropati ve amiloidozda böbrekler küçülmeyebilir).
+Üre/kreatinin oranı (A) prerenal nedeni düşündürür ama süreyi göstermez. Yaş (B), kan basıncı (C) ve idrar dansitesi (D) ayırt edici değildir.
+@@
+@Q MSD 5-6 2026-27 · SORU 37 | BU YIL | AYNI BİLGİ
+@K Ek hastalığı olmayan hipertansif bireylerde birinci basamak tedavide önerilen dört ana ilaç grubundan biri değildir?
+A) ACE inhibitörleri
+B) Anjiyotensin reseptör blokörleri
+C) Tiyazid ve tiyazid benzeri diüretikler
+D) Beta blokörler ✓
+E) Kalsiyum kanal blokörleri
+@O Önceki yıllar: “Ek hastalığı olmayan hipertansif hastada beta blokerle başlanır” yanlış ifadesi MSD 2024-25 S17'de soruldu.
+D doğru (birinci basamak değildir). Güncel rehberlere göre ek hastalığı olmayan hipertansif hastada birinci basamak dört grup vardır: **ACE inhibitörleri, ARB'ler, tiyazid ve tiyazid benzeri diüretikler (klortalidon, indapamid) ve kalsiyum kanal blokerleri**. Çoğu hastada iki ilacın düşük dozlu tek tablet birleşimiyle başlanır (ör. ARB + KKB).
+**Beta blokerler** inme ve kardiyovasküler olayları önlemede bu gruplardan zayıf kaldığı için birinci basamak değildir; ancak koroner hastalık, kalp yetersizliği, atriyal fibrilasyon ya da gebelik gibi **zorlayıcı endikasyon** varsa seçilir.
+@@
+@Q MSD 5-6 2026-27 · SORU 38 | BU YIL | AYNI KONU (KBH TANIMI HER YIL)
+@K Aşağıdaki bulgulardan hangisi tek başına kronik böbrek hastalığı tanısı koydurur?
+A) 2 haftadır eGFR'nin 50 mL/dk/1,73 m^2 olması
+B) 10 yıldır hipertansiyon öyküsü bulunması
+C) Hemogramda anemi saptanması
+D) 4 aydır idrar albümin/kreatinin oranının 300 mg/g olması ✓
+E) Tek bir spot idrarda proteinin 1+ bulunması
+@O Önceki yıllar: KBH tanımı blok sınavında her yıl soruldu (ör. “KBH tanımına uymayan” BSD 2024-25 S12); KBH'de kreatininin geç bulgu olması 2025-26 S60'ta.
+D doğru. KBH tanımı (KDIGO): **3 aydan uzun süren** böbrek yapı ya da işlev bozukluğu, yani ya **eGFR < 60 mL/dk/1,73 m²** ya da bir **böbrek hasarı belirteci**: **albüminüri (idrar albümin/kreatinin oranı ≥ 30 mg/g)**, idrar sediment bozukluğu, tübüler bozukluk, histolojik ya da görüntüleme anomalisi, böbrek nakli öyküsü. 4 aydır ACR 300 mg/g (A3, ağır artmış albüminüri) tek başına KBH tanısı koydurur.
+eGFR 50'nin yalnız 2 hafta sürmesi (A) 3 ay ölçütünü karşılamaz; akut böbrek hasarı olabilir. Hipertansiyon öyküsü (B) ve anemi (C) tanı ölçütü değildir. Tek bir spot idrarda protein 1+ (E) tekrarlanmadan ve süresi bilinmeden tanı koydurmaz.
+@@
+
+## Konu eki: KBH, diyabetik böbrek hastalığı ve hipertansiyon
+- **KBH tanımı:** > 3 ay süren eGFR < 60 ya da böbrek hasarı belirteci (albümin/kreatinin ≥ 30 mg/g, sediment, görüntüleme, biyopsi). Evreleme: G1-G5 (eGFR) + A1-A3 (albüminüri: < 30, 30-300, > 300 mg/g).
+- **Kreatinin kas kütlesine bağlıdır:** yaşlı, kadın, zayıf hastada normal kreatinin düşük GFR'yi gizler. ABH ile KBH ayrımında en değerli bilgi önceki kreatinin değerleridir.
+- **Türkiye:** KBH prevalansı %15,7 (CREDIT); evre 5 KBH'nin en sık nedeni **diyabet**, sonra hipertansiyon.
+- **KBH komplikasyonları:** normokrom normositer anemi (eritropoetin ↓), hiperfosfatemi ve FGF-23 ↑, sekonder hiperparatiroidi, metabolik asidoz, hiperkalemi, hipervolemi, **hipoglisemi** (insülin klirensi ve renal glukoneogenez ↓).
+- **Diyabetik böbrek hastalığı:** en erken yapısal değişiklik bazal membran kalınlaşması (elektron mikroskobu); sonra mezangiyal genişleme, Kimmelstiel-Wilson nodülleri, arteriyolar hiyalinoz. **Kırmızı bayraklar** (biyopsi düşün): tip 1'de < 5 yıl, retinopati yok, aktif sediment, ani nefrotik sendrom, hızlı GFR kaybı, RAS blokajıyla eGFR'de > %30 düşüş.
+- **Tedavi:** tek RAS blokeri (ACEİ ya da ARB; ikisi birlikte değil), SGLT2 inhibitörü, tuz < 5 g, hedef sistolik < 120-130.
+- **Hipertansiyon:** birinci basamak dört grup ACEİ, ARB, tiyazid (benzeri), KKB; beta bloker birinci basamak değil. Akıllı saat ve manşonsuz ölçüm tanı-takipte kullanılmaz. Uzun dönem kan basıncını böbreğin tuz-su atma kapasitesi belirler (Guyton). Beyaz önlük: muayenehanede yüksek, evde normal; maskeli: tersi.
+

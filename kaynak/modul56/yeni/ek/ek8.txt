@@ -1,0 +1,10 @@
+## Konu eki: glomerül hastalıklarını vakadan tanıma
+| İpucu | Tanı | Biyopsi |
+| Çocuk, ani nefrotik sendrom, normotansif, böbrek işlevi normal | **Minimal değişiklik hastalığı** | Işık mikroskobu normal; podosit ayaksı çıkıntılarında silinme |
+| Genç-orta yaş, **obez**, HIV, eroin; nefrotik + **hipertansiyon** + kreatinin hafif ↑ | **FSGS** | Segmental skleroz |
+| Erişkin (40-60 yaş), nefrotik, **anti-PLA2R (+)**; renal ven trombozu | **Membranöz nefropati** | Bazal membran kalınlaşması, subepitelyal depozit, “dikenler” |
+| Üst solunum yolu enfeksiyonuyla **eşzamanlı (1-2 gün)** makroskopik hematüri, genç erkek, C3 normal | **IgA nefropatisi** | Mezangiyal proliferasyon, **mezangiyal IgA** |
+| Boğaz ya da deri enfeksiyonundan **1-3 hafta sonra** nefritik sendrom, C3 düşük | **Poststreptokokal GN** | Subepitelyal hörgüçler |
+| C3 düşük, **C3 nefritik faktör**, yalnız C3 boyanması | **C3 glomerülopati (yoğun depozit hastalığı)** | Bazal membran içinde yoğun depozit |
+| Haftalar içinde hızla yükselen kreatinin, nefritik sediment | **Hızlı ilerleyen GN** (anti-GBM, immün kompleks, ANCA) | Hilal (kresent) |
+|= Glomerül hastalıklarının klinik ipuçları.

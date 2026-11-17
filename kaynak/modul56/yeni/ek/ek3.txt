@@ -1,0 +1,18 @@
+## Konu eki: ishal ve malabsorbsiyonun ayırıcı ipuçları
+| Tablo | İpucu | Test |
+| **Karbonhidrat malabsorbsiyonu** | Sulu, köpüklü, ekşi kokulu ishal; gaz, şişkinlik; pişik | Dışkı pH < 6, indirgen madde (+), nefeste hidrojen testi |
+| **Yağ malabsorbsiyonu** (pankreas, safra, mukoza) | Yağlı, soluk, hacimli, kötü kokulu dışkı (steatore); yağda çözünen vitamin eksikliği | Dışkıda Sudan III boyası, 72 saatlik dışkı yağı |
+| **Ekzokrin pankreas yetmezliği** | Steatore, büyüme geriliği; çocukta en sık kistik fibroz | **Fekal elastaz-1** ↓, serum tripsinojen ↓, sekretin testi, **ter testi** |
+| **Protein kaybettiren enteropati** | Ödem, hipoalbuminemi | Dışkı α1-antitripsin klirensi |
+| **Konjenital ishaller** | Doğumdan itibaren sürekli ishal, kilo alamama | Konjenital klor ishali (hipokloremik alkaloz), glukoz-galaktoz malabsorbsiyonu, mikrovillus inklüzyon hastalığı |
+| **Çölyak** | Glutenle başlayan ishal, büyüme geriliği, demir eksikliği anemisi | Anti-tTG IgA (+ total IgA), biyopsi: villus atrofisi, kript hiperplazisi, intraepitelyal lenfosit ↑ |
+|= Malabsorbsiyonun ayırıcı tanısı.
+### Dehidratasyonun derecelendirilmesi
+| | Hafif (< %5) | Orta (%6-9) | Ağır (≥ %10) |
+| Genel durum | İyi, uyanık | **Huzursuz, irritabl** | Letarjik, bilinç bulanık |
+| Göz, mukoza | Normal | **Çökük göz, kuru mukoza** | Çok çökük, çok kuru |
+| Deri turgoru | Normal | **Hafif azalmış** | Belirgin azalmış (> 2 sn) |
+| Kapiller dolum | Normal | **Uzamış** | Çok uzamış |
+| Nabız, kan basıncı | Normal | Taşikardi, kan basıncı normal | Zayıf nabız, **hipotansiyon**, şok |
+| Tedavi | ORS | ORS 50-100 mL/kg, 4 saatte | Damardan izotonik sıvı (20 mL/kg bolus) |
+|= Dehidratasyon derecesi. Kilo kaybı / önceki ağırlık = dehidratasyon yüzdesi.

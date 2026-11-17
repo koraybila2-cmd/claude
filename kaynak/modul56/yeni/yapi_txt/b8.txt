@@ -1,0 +1,58 @@
+# Glomerül Hastalıkları | Bu yıl 4 soru (S45, S47, S48, S49); geçen yıl 3 soru. 0 soru daha önceki sınavlarda aynı ya da benzer biçimde geldi, 4 soru ilk kez soruldu. Bu yılın kartlarından sonra konu eki, ardından önceki baskının bu bölümü (2025-26 ve 2024-25 soruları ve konu tekrarı) gelir. || Modül 5-6 · Bölüm 8 · 2026-27 soruları
+@QB BU YILIN SORULARI
+@Q MSD 5-6 2026-27 · SORU 45 | BU YIL | İLK KEZ ANTİ-PLA2R İLE SORULDU
+@K 61 yaşında erkek hasta kilo alımı ve ayaklarda şişlik nedeniyle Nefroloji polikliniğine başvuruyor. Fizik muayenede alt ekstremitede bilateral +3/+3 pretibial ödem olan hastanın 24 saatlik idrarda da 8 gram/gün proteinüri saptanıyor. Ayrıca anti-fosfolipaz A2 reseptör antikoru (anti-PLA2R) düzeyleri de yüksek titrede pozitif saptanan bu hastada en olası tanınız hangisidir?
+A) Membranöz glomerülopati ✓
+B) Membranoproliferatif glomerülonefrit
+C) C3 glomerülopati
+D) Fokal segmental glomerüloskleroz
+E) IgA nefropatisi
+@O Önceki yıllar: Membranöz nefropati (bazal membran kalınlaşması, ikincil nedenler) MSD 2024-25 S22'de soruldu.
+A doğru. **Anti-fosfolipaz A2 reseptör antikoru**, podosit yüzeyindeki PLA2R'ye bağlanır ve subepitelyal immün kompleks oluşturur; **primer membranöz nefropatinin** (olguların ~%70-80'i) özgül belirtecidir. Erişkinde (özellikle 40-60 yaş) nefrotik sendromun en sık nedenlerindendir. Antikor titresi tanı, aktivite ve tedaviye yanıtın izlenmesinde kullanılır; yüksek titre biyopsiye gerek bırakmayabilir. İkincil nedenler (malignite, hepatit B, lupus, ilaçlar) dışlanmalıdır. Renal ven trombozu riski en yüksek glomerül hastalığıdır.
+MPGN (B), C3 glomerülopati (C) ve IgA nefropatisi (E) nefritik özellik taşır ve PLA2R ile ilişkili değildir. FSGS (D) anti-PLA2R negatiftir.
+@@
+@Q MSD 5-6 2026-27 · SORU 47 | BU YIL | İLK KEZ SORULDU
+@K Öncesinde sağlıklı obez 25 yaşında kadın hasta 1 aydır olan ayaklarda şişlik nedeniyle Nefroloji polikliniğine başvuruyor. Hastanın fizik muayenesinde kan basıncı 160/90 mmHg ve PTÖ +3/+3 saptanıyor. Laboratuvar tetkiklerinde kreatinin 1.4 mg/dL, albümin 22 g/L, C3 ve C4 normal, LDL kolesterol 250 mg/dL ve 24 saatlik idrarda 10 gr/gün proteinüri tespit ediliyor. Hematürisi olmayan bu hastada en olası tanınız aşağıdakilerden hangisidir?
+A) Minimal değişiklik hastalığı
+B) Membranöz nefropati
+C) Fokal segmental glomerüloskleroz ✓
+D) Lupus nefriti
+E) Post enfeksiyöz glomerülonefrit
+@O Önceki yıllar: Nefrotik sendrom vakaları blok sınavı 2024-25 S18 (genç erkek, minimal değişiklik) ve 2019-20 S19'da soruldu.
+C doğru. **Fokal segmental glomeruloskleroz**, erişkinde nefrotik sendromun en sık nedenlerindendir (özellikle siyah ırk). Minimal değişiklik hastalığından farkı: **hipertansiyon**, **böbrek işlevinde azalma** (kreatinin 1,4) ve steroide daha kötü yanıt; mikroskobik hematüri olabilir. **Obezite** hiperfiltrasyonla ikincil FSGS'nin önemli nedenidir; HIV, eroin, orak hücre, nefron kaybı (tek böbrek, reflü) ve genetik nedenler de vardır. Komplemanlar normaldir.
+Minimal değişiklik hastalığı (A) çocukta en sık, erişkinde genellikle normotansif ve böbrek işlevi normaldir. Membranöz nefropati (B) daha ileri yaşta, anti-PLA2R ile. Lupus nefriti (D) ve postenfeksiyöz GN (E) hematüri, düşük kompleman ve nefritik bulgularla gelir.
+@@
+@Q MSD 5-6 2026-27 · SORU 48 | BU YIL | İLK KEZ VAKA OLARAK SORULDU
+@K 24 yaşında erkek hasta, boğaz enfeksiyonundan 2 gün sonra idrarda kanama ve kan basıncı yüksekliği nedeniyle Nefroloji polikliniğine başvuruyor. Hastanın tetkiklerinde kreatinin 0.8 mg/dL, albümin 42 g/L, 24 saatlik idrarda 1200 mg/gün proteinüri ve idrar sedimentinde yaygın dismorfik eritrositler saptanması üzerine renal biyopsi yapılıyor. Bu hastanın renal biyopsisinde beklenen patolojik bulgu hangisidir?
+A) Podosit ayaksı çıkıntılarda yaygın silinme
+B) Mezangial proliferasyon ve mezangial IgA birikimi ✓
+C) Glomerüler bazal membranda diffüz kalınlaşma ve granüler IgG birikimi
+D) Glomerüler bazal membran boyunca lineer IgG ve C3 birikimi
+E) Glomerüller normal saptanır
+@O Önceki yıllar: Aynı şıklar (podosit silinmesi, bazal membran kalınlaşması) MSD 2024-25 S27'de minimal değişiklik hastalığı için soruldu. IgA nefritinde komplemanın normal olması blok sınavı 2022-23 S16'da soruldu.
+B doğru. Boğaz enfeksiyonuyla **eşzamanlı ya da 1-2 gün sonra** başlayan makroskopik hematüri (sinfaranjitik hematüri), genç erkek, normal kreatinin ve hafif proteinüri **IgA nefropatisinin** (dünyada en sık primer glomerülonefrit) tipik tablosudur. Biyopside **mezangiyal proliferasyon** ve immünfloresanda **mezangiyal IgA** (ve C3) birikimi görülür. Kompleman düzeyleri normaldir.
+Podosit ayaksı çıkıntılarında silinme (A) minimal değişiklik hastalığı, bazal membran kalınlaşması ve granüler IgG (C) membranöz nefropati, lineer IgG (D) anti-GBM hastalığıdır. Glomerüllerin normal olması (E) hematüri ve proteinüriyle uyumsuzdur. Poststreptokokal GN ise enfeksiyondan 1-3 hafta sonra ve düşük C3 ile gelir.
+@@
+@Q MSD 5-6 2026-27 · SORU 49 | BU YIL | İLK KEZ SORULDU
+@K Dense deposit hastalığı tanısı alan bir hastada aşağıdakilerden hangisinin pozitif bulunması beklenir?
+A) Anti-dsDNA
+B) ANCA
+C) Anti-GBM
+D) C3 nefritik faktör ✓
+E) Anti-PLA2R
+@O Önceki yıllar: Arşivde aynı soru yok. C3 glomerülopati Modül 2'nin glomerül patolojisi sorularında da geçiyor.
+D doğru. **Yoğun depozit hastalığı** (dense deposit disease), C3 glomerülopatinin bir alt tipidir. **C3 nefritik faktör**, alternatif yolun C3 konvertazını (C3bBb) stabilize eden bir otoantikordur; konvertaz yıkılamaz, C3 sürekli tüketilir: **serum C3 düşük**, immünfloresanda **yalnız C3** boyanır (immünoglobulin yok), elektron mikroskobunda bazal membranın içinde şerit gibi yoğun depozitler görülür. Faktör H eksikliği de aynı tabloyu yapar. Parsiyel lipodistrofi ve retinada drusen eşlik edebilir.
+Anti-dsDNA (A) lupus nefritinde, ANCA (B) pauci-immün GN'de, anti-GBM (C) Goodpasture hastalığında, anti-PLA2R (E) membranöz nefropatide pozitiftir.
+@@
+
+## Konu eki: glomerül hastalıklarını vakadan tanıma
+| İpucu | Tanı | Biyopsi |
+| Çocuk, ani nefrotik sendrom, normotansif, böbrek işlevi normal | **Minimal değişiklik hastalığı** | Işık mikroskobu normal; podosit ayaksı çıkıntılarında silinme |
+| Genç-orta yaş, **obez**, HIV, eroin; nefrotik + **hipertansiyon** + kreatinin hafif ↑ | **FSGS** | Segmental skleroz |
+| Erişkin (40-60 yaş), nefrotik, **anti-PLA2R (+)**; renal ven trombozu | **Membranöz nefropati** | Bazal membran kalınlaşması, subepitelyal depozit, “dikenler” |
+| Üst solunum yolu enfeksiyonuyla **eşzamanlı (1-2 gün)** makroskopik hematüri, genç erkek, C3 normal | **IgA nefropatisi** | Mezangiyal proliferasyon, **mezangiyal IgA** |
+| Boğaz ya da deri enfeksiyonundan **1-3 hafta sonra** nefritik sendrom, C3 düşük | **Poststreptokokal GN** | Subepitelyal hörgüçler |
+| C3 düşük, **C3 nefritik faktör**, yalnız C3 boyanması | **C3 glomerülopati (yoğun depozit hastalığı)** | Bazal membran içinde yoğun depozit |
+| Haftalar içinde hızla yükselen kreatinin, nefritik sediment | **Hızlı ilerleyen GN** (anti-GBM, immün kompleks, ANCA) | Hilal (kresent) |
+|= Glomerül hastalıklarının klinik ipuçları.
+

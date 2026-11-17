@@ -1,0 +1,11 @@
+## Konu eki: antropometrik göstergeler ve beslenme
+| Gösterge | Neyi gösterir? | Eşikler |
+| **Boya göre ağırlık** (Waterlow, % ya da z-skoru) | **Akut** malnütrisyon (zayıflık, wasting); yaşa gerek yok | Waterlow: > %90 normal, %80-89 hafif, %70-79 orta, < %70 ağır. z < −2 zayıf, < −3 ağır |
+| **Yaşa göre boy** (z-skoru) | **Kronik** malnütrisyon (bodurluk, stunting) | z < −2 bodur, < −3 ağır bodur |
+| **Yaşa göre ağırlık** (Gomez, %) | Akut ve kronik karışık; ayrım yapamaz | Gomez: %90-110 normal, %75-89 1. derece, **%60-74 2. derece**, < %60 3. derece |
+| Üst orta kol çevresi | 6-59 ayda ağır akut malnütrisyon taraması | < 11,5 cm ağır, 11,5-12,5 orta |
+| Baş çevresi | İlk 2 yılda beyin büyümesi | |
+|= Antropometrik göstergeler. z-skoru = (ölçülen − referans ortalaması) / standart sapma.
+- Beslenme yetersizliğinde **önce kilo**, sonra **boy**, en son **baş çevresi** etkilenir.
+- **Ödem** (kwashiorkor) ağırlığı olduğundan iyi gösterir; ödem tek başına ağır akut malnütrisyon ölçütüdür.
+- **Tamamlayıcı beslenme:** 6. ayda, çocuğun gelişimsel hazırlığına göre başlanır; demir ve çinkodan zengin besinler önceliklidir; reddedilen besin 8-15 kez yeniden denenir; alerjen besinler küçük miktarla başlanır; **1 yaşından önce bal ve inek sütü (içecek olarak) verilmez**; tuz ve şeker eklenmez.
