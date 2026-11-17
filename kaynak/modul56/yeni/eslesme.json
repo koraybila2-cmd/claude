@@ -1,0 +1,3436 @@
+{
+ "yeni": [
+  {
+   "no": 1,
+   "kok": "Aşağıdakilerden hangisi, sağlıklı çocukta beslenme ile ilgili yanlış bir ifadedir?",
+   "sik": [
+    [
+     "A",
+     "0-6 ay arasında sadece anne sütü yeterlidir."
+    ],
+    [
+     "B",
+     "Tamamlayıcı beslenme dönemi, çocuğun besin eksikliğine duyarlı olduğu bir dönemdir."
+    ],
+    [
+     "C",
+     "9 aylık kilo alımı yetersiz çocukta, ek besinler bal ile tatlandırılabilir."
+    ],
+    [
+     "D",
+     "Allerjen besinlere ilk olarak küçük miktarlarla başlanmalıdır."
+    ],
+    [
+     "E",
+     "Tamamlayıcı beslenme döneminde doktor beslenme danışmanlığı vermelidir."
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 2,
+   "kok": "Aşağıdakilerden hangisi, tamamlayıcı beslenme döneminde verilecek ilk gıdaların özelliklerindendir?",
+   "sik": [
+    [
+     "A",
+     "Besinleri seçerken mikrobesinler önemli değildir."
+    ],
+    [
+     "B",
+     "Tamamlayıcı beslenme döneminde, çocuğun uygunluğuna gelişim düzeyine bakarak karar verilir."
+    ],
+    [
+     "C",
+     "Bebek emzirildikten sonra ek besinler verilir."
+    ],
+    [
+     "D",
+     "Ek besin verilirken ülkelerin gelenekleri önemsizdir."
+    ],
+    [
+     "E",
+     "Çocuk acı sebzeleri bir kere kabul etmediyse bir daha denenmez."
+    ]
+   ],
+   "onc": [],
+   "cevap": "B"
+  },
+  {
+   "no": 3,
+   "kok": "Truncus coeliacus - a. mesenterica superior veya a. mesenterica superior - a. mesenterica inferior arasında ikili anastomoz bulunan bağırsak bölümleri hangileridir?",
+   "sik": [
+    [
+     "A",
+     "Sadece I-II"
+    ],
+    [
+     "B",
+     "Sadece I-III-IV"
+    ],
+    [
+     "C",
+     "Sadece III-IV"
+    ],
+    [
+     "D",
+     "Sadece II-III"
+    ],
+    [
+     "E",
+     "I-II-III-IV"
+    ]
+   ],
+   "onc": [
+    "I- Pars superior duodeni",
+    "II- Pars descendens duodeni",
+    "III- Colon transversum",
+    "IV- Caecum"
+   ],
+   "cevap": "D"
+  },
+  {
+   "no": 4,
+   "kok": "Aşağıdaki bağırsak yapılardan hangisi n. pudendus tarafından innerve edilir?",
+   "sik": [
+    [
+     "A",
+     "M. sphincter ani internus"
+    ],
+    [
+     "B",
+     "Rectum mukozası"
+    ],
+    [
+     "C",
+     "Taenia coli"
+    ],
+    [
+     "D",
+     "Rectum kas tabakası"
+    ],
+    [
+     "E",
+     "Anüs mukozası"
+    ]
+   ],
+   "onc": [],
+   "cevap": "E"
+  },
+  {
+   "no": 5,
+   "kok": "Bir hastada caecum'da yerleşmiş bir tümör saptanır. Yapılacak cerrahi işlem sırasında cerrah hangi lenf düğümü gruplarını öncelikle kontrol etmelidir?",
+   "sik": [
+    [
+     "A",
+     "Yalnız I-II"
+    ],
+    [
+     "B",
+     "Yalnız I-II-III"
+    ],
+    [
+     "C",
+     "Yalnız III-IV"
+    ],
+    [
+     "D",
+     "Yalnız I"
+    ],
+    [
+     "E",
+     "I-II-III-IV"
+    ]
+   ],
+   "onc": [
+    "I- a. mesenterica superior çevresindeki",
+    "II- a. mesenterica inferior çevresindeki",
+    "III- a. iliaca interna çevresindeki",
+    "IV- a. iliaca externa çevresindeki"
+   ],
+   "cevap": "D"
+  },
+  {
+   "no": 6,
+   "kok": "Üç yaşında bir kız çocuğu, son iki aydır iştahsızlık ve kıyafetlerinin bollaşması nedeniyle getiriliyor. Muayenede deri altı yağ dokusunda azalma saptanıyor, ödem bulunmuyor. Önceki büyüme kayıtlarına ulaşılamıyor. Bu çocukta mevcut zayıflığı değerlendirmek için en uygun antropometrik gösterge hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Yaşa göre boy Z skoru"
+    ],
+    [
+     "B",
+     "Boya göre ağırlık Z skoru"
+    ],
+    [
+     "C",
+     "Yaşa göre baş çevresi Z skoru"
+    ],
+    [
+     "D",
+     "Tek başına vücut ağırlığı"
+    ],
+    [
+     "E",
+     "Tek başına boy uzunluğu"
+    ]
+   ],
+   "onc": [],
+   "cevap": "B"
+  },
+  {
+   "no": 7,
+   "kok": "Egzokrin pankreas yetmezliği tanısında kullanılmayan test aşağıdakilerden hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Serum tripsinojen düzeyi"
+    ],
+    [
+     "B",
+     "Fekal elastaz-1 tayini"
+    ],
+    [
+     "C",
+     "Ter testi"
+    ],
+    [
+     "D",
+     "Sekretin uyarısı sonrası fekal enzim düzeyi"
+    ],
+    [
+     "E",
+     "Gaita pH"
+    ]
+   ],
+   "onc": [],
+   "cevap": "E"
+  },
+  {
+   "no": 8,
+   "kok": "İki yaşında bir erkek çocuk, uzun süredir yetersiz beslenme ve halsizlik nedeniyle değerlendiriliyor. Muayenede her iki ayakta gode bırakan ödem, kas kitlesinde azalma ve deri altı yağ dokusunda kayıp saptanıyor. Son iki haftadaki ölçümlerinde vücut ağırlığının değişmediği görülüyor. Bu hastanın beslenme durumuna ilişkin en doğru yorum hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Vücut ağırlığının değişmemesi malnütrisyonu dışlar."
+    ],
+    [
+     "B",
+     "Ödem varlığında antropometrik değerlendirmeye gerek yoktur."
+    ],
+    [
+     "C",
+     "Bu hastada malnütrisyon tanısı yalnızca serum albümin düzeyiyle konulabilir."
+    ],
+    [
+     "D",
+     "Ödem, doku kaybını maskeleyerek vücut ağırlığının olduğundan daha iyi görünmesine neden olabilir."
+    ],
+    [
+     "E",
+     "Ödem, beslenme tedavisine yeterli yanıt alındığını gösterir."
+    ]
+   ],
+   "onc": [],
+   "cevap": "D"
+  },
+  {
+   "no": 9,
+   "kok": "Üç yaşında erkek çocuk sık sık sulu dışkılama yakınması ile getiriliyor. Aile çocuğun fazla miktarda gaz çıkardığından yakınıyor. Öyküsünden bebekken de fazla gazı olduğu, dışkısının sulu olduğu ve bebekken sürekli pişik olduğu öğreniliyor. Bu bebekte en olası tanı aşağıdakilerden hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Karbonhidrat malabsorbsiyonu"
+    ],
+    [
+     "B",
+     "Protein malabsorbsiyonu"
+    ],
+    [
+     "C",
+     "Yağ malabsorbsiyonu"
+    ],
+    [
+     "D",
+     "Konjenital klor diyaresi"
+    ],
+    [
+     "E",
+     "Enterokinaz eksikliği"
+    ]
+   ],
+   "onc": [],
+   "cevap": "A"
+  },
+  {
+   "no": 10,
+   "kok": "On dört yaşında Anoreksiya Nervoza tanılı bir kız hasta, belirgin kilo kaybı ve son 10 gündür çok az besin tüketmesi nedeniyle yatırılıyor. Beslenme desteğine başlanmasından 48 saat sonra kas güçsüzlüğü, taşikardi ve ödem gelişiyor. Laboratuvar incelemesinde başlangıçta normal olan serum fosforunun belirgin azaldığı, hipokalemi ve hipomagnezemi geliştiği saptanıyor. Bu tablonun gelişiminden sorumlu temel mekanizma hangisidir?",
+   "sik": [
+    [
+     "A",
+     "İnsülin salınımının artmasıyla fosfat, potasyum ve magnezyumun hücre içine geçmesi"
+    ],
+    [
+     "B",
+     "Glukagon salınımının artmasıyla hücre içi elektrolitlerin kana geçmesi"
+    ],
+    [
+     "C",
+     "Parathormon baskılanması sonucunda serum fosforunun yükselmesi"
+    ],
+    [
+     "D",
+     "Yağ yıkımının artmasıyla keton cisimlerinin birikmesi"
+    ],
+    [
+     "E",
+     "Bağırsaktan fosfat emiliminin artmasıyla hiperkalsemi gelişmesi"
+    ]
+   ],
+   "onc": [],
+   "cevap": "A"
+  },
+  {
+   "no": 11,
+   "kok": "Hipovolemi gelişen bir bireyde aşağıdaki klinik bulgulardan hangisinin görülmesi beklenir?",
+   "sik": [
+    [
+     "A",
+     "Bradikardi"
+    ],
+    [
+     "B",
+     "Arteriyel kan basıncında artış"
+    ],
+    [
+     "C",
+     "Ortostatik hipotansiyon"
+    ],
+    [
+     "D",
+     "İdrar miktarında artış"
+    ],
+    [
+     "E",
+     "Periferik damar direncinde azalma"
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 12,
+   "kok": "Hipervolemi gelişen bir hastada aşağıdaki klinik bulgulardan hangisinin görülmesi daha olasıdır?",
+   "sik": [
+    [
+     "A",
+     "Ortostatik hipotansiyon"
+    ],
+    [
+     "B",
+     "Juguler venöz dolgunluk"
+    ],
+    [
+     "C",
+     "Kuru ağız mukozası"
+    ],
+    [
+     "D",
+     "Azalmış deri turgoru"
+    ],
+    [
+     "E",
+     "Çökük göz küreleri"
+    ]
+   ],
+   "onc": [],
+   "cevap": "B"
+  },
+  {
+   "no": 13,
+   "kok": "Kronik böbrek hastalığı bulunan 65 yaşındaki bir hasta, son birkaç gündür bacaklarında şişlik ve vücut ağırlığında artış şikayetleriyle başvuruyor. Fizik muayenede bilateral pretibial ödem ve kan basıncında yükselme saptanıyor. Bu hastada hipervolemi gelişmesinin en olası nedeni aşağıdakilerden hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Renal sodyum ve su atılımının azalması"
+    ],
+    [
+     "B",
+     "Gastrointestinal sıvı kaybının artması"
+    ],
+    [
+     "C",
+     "Terleme ile sıvı kaybının artması"
+    ],
+    [
+     "D",
+     "Plazma hacminin azalması"
+    ],
+    [
+     "E",
+     "Böbreklerden su geri emiliminin azalması"
+    ]
+   ],
+   "onc": [],
+   "cevap": "A"
+  },
+  {
+   "no": 14,
+   "kok": "Glomerüler filtrasyon hızının (GFR) azalmasına bağlı olarak idrar oluşumunu azaltabilecek değişiklik aşağıdakilerden hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Aferent arteriyolün dilatasyonu"
+    ],
+    [
+     "B",
+     "Glomerüler kapiller hidrostatik basıncın artması"
+    ],
+    [
+     "C",
+     "Aferent arteriyolün konstriksiyonu"
+    ],
+    [
+     "D",
+     "Plazma onkotik basıncının azalması"
+    ],
+    [
+     "E",
+     "Bowman kapsülü hidrostatik basıncının azalması"
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 15,
+   "kok": "Hipovolemi gelişen bir hastada böbreklerin sıvı kaybını sınırlandırmak amacıyla oluşturduğu kompansatuvar yanıtlardan hangisi beklenir?",
+   "sik": [
+    [
+     "A",
+     "Renin salınımının azalması"
+    ],
+    [
+     "B",
+     "Aldosteron salınımının azalması"
+    ],
+    [
+     "C",
+     "Glomerüler filtrasyon hızının her durumda artması"
+    ],
+    [
+     "D",
+     "Sodyumun idrarla atılımının artması"
+    ],
+    [
+     "E",
+     "Renin-anjiyotensin-aldosteron sisteminin aktivasyonunun artması"
+    ]
+   ],
+   "onc": [],
+   "cevap": "E"
+  },
+  {
+   "no": 16,
+   "kok": "Uzun süre sıcak ortamda fiziksel aktivite yapan ve yeterli sıvı tüketmeyen bir öğrencide idrar hacminin azaldığı, idrar osmolalitesinin ise arttığı belirleniyor. Bu değişikliklerden en doğrudan sorumlu hormonal yanıt aşağıdakilerden hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Atriyal natriüretik peptit (ANP) salınımının artması"
+    ],
+    [
+     "B",
+     "ADH salınımının azalması"
+    ],
+    [
+     "C",
+     "Aldosteron salınımının baskılanması"
+    ],
+    [
+     "D",
+     "ADH salınımının artması"
+    ],
+    [
+     "E",
+     "Renin salınımının azalması"
+    ]
+   ],
+   "onc": [],
+   "cevap": "D"
+  },
+  {
+   "no": 17,
+   "kok": "Beslenme yetersizliği gelişen bir çocukta büyüme parametrelerindeki değişikliklerin beklenen sıralaması aşağıdakilerden hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Önce boy uzaması durur, ardından kilo alımı azalır."
+    ],
+    [
+     "B",
+     "Önce baş çevresi artışı durur, ardından boy uzaması durur."
+    ],
+    [
+     "C",
+     "Önce kilo alımı azalır ve durur, ardından boy uzaması yavaşlar veya durur."
+    ],
+    [
+     "D",
+     "Önce boy uzaması durur, ardından baş çevresi artışı durur."
+    ],
+    [
+     "E",
+     "Kilo, boy ve baş çevresi artışı aynı anda durur."
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 18,
+   "kok": "D vitamini metabolizması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+   "sik": [
+    [
+     "A",
+     "D vitamini suda çözünen bir vitamindir."
+    ],
+    [
+     "B",
+     "D vitamininin aktif formu karaciğerde oluşan 25-hidroksi D vitaminidir."
+    ],
+    [
+     "C",
+     "D vitamininin böbrekte 1-alfa hidroksilasyonu sonucunda aktif formu olan 1,25-dihidroksi D vitamini oluşur."
+    ],
+    [
+     "D",
+     "D vitamini bağırsaklardan kalsiyum emilimini azaltır."
+    ],
+    [
+     "E",
+     "D vitamini sentezi yalnızca besinlerle alınan ergokalsiferolden gerçekleşir."
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 19,
+   "kok": "Dört aylık bir bebekte doğumdan kısa süre sonra başlayan, sürekli devam eden ishal ve kilo alamama şikayetleri bulunuyor. Anamnezde ishalin doğumdan hemen sonra başladığı öğreniliyor. Bu bulgu aşağıdaki durumlardan hangisini öncelikle düşündürmelidir?",
+   "sik": [
+    [
+     "A",
+     "Oyun çocuğu ishali"
+    ],
+    [
+     "B",
+     "Antibiyotik kullanımına bağlı ishal"
+    ],
+    [
+     "C",
+     "Akut viral gastroenterit"
+    ],
+    [
+     "D",
+     "Konjenital bir bağırsak veya sindirim sistemi bozukluğu"
+    ],
+    [
+     "E",
+     "Besin zehirlenmesi"
+    ]
+   ],
+   "onc": [],
+   "cevap": "D"
+  },
+  {
+   "no": 20,
+   "kok": "Üç yaşındaki bir çocuğun ağırlığı, aynı boydaki sağlıklı çocukların 50. persantil ağırlığının %75'i olarak hesaplanmıştır. Bu değerlendirmede kullanılan antropometrik gösterge ve öncelikle yansıttığı beslenme sorunu aşağıdakilerden hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Yaşa göre ağırlık - Kronik malnütrisyon"
+    ],
+    [
+     "B",
+     "Yaşa göre boy - Akut malnütrisyon"
+    ],
+    [
+     "C",
+     "Boya göre ağırlık - Akut malnütrisyon"
+    ],
+    [
+     "D",
+     "Yaşa göre boy - Kronik malnütrisyon"
+    ],
+    [
+     "E",
+     "Boya göre ağırlık - Kronik malnütrisyon"
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 21,
+   "kok": "Akut ishal nedeniyle getirilen 1 yaşında 10 kg ağırlığı olan bir bebekte ağız mukozası kuru, göz küreleri hafif çökük, kapiller dolum zamanı uzamış ve deri turgoru hafif azalmış olarak değerlendiriliyor. Bilinç durumu normal, çocuk huzursuz, kan basıncı normal ve 700 gr tartı kaybı bulunuyor. Bu çocukta dehidratasyon derecesi aşağıdakilerden hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Dehidratasyon yoktur."
+    ],
+    [
+     "B",
+     "Hafif dehidratasyon (%3-5)"
+    ],
+    [
+     "C",
+     "Orta derecede dehidratasyon (%6-9)"
+    ],
+    [
+     "D",
+     "Ağır dehidratasyon (%10 ve üzeri)"
+    ],
+    [
+     "E",
+     "Septik şok"
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 22,
+   "kok": "Dört aylık, yalnızca anne sütü ile beslenen ve doğumdan itibaren D vitamini desteği almayan bir bebekte kraniotabes, el bileklerinde genişleme ve raşitik rozari saptanıyor. Bu hastada aşağıdaki biyokimyasal bulgulardan hangisinin görülmesi en olasıdır?",
+   "sik": [
+    [
+     "A",
+     "Düşük PTH, yüksek fosfor, düşük alkalen fosfataz"
+    ],
+    [
+     "B",
+     "Yüksek PTH, düşük fosfor, yüksek alkalen fosfataz"
+    ],
+    [
+     "C",
+     "Düşük PTH, yüksek kalsiyum, düşük alkalen fosfataz"
+    ],
+    [
+     "D",
+     "Normal PTH, yüksek fosfor, normal alkalen fosfataz"
+    ],
+    [
+     "E",
+     "Yüksek PTH, yüksek kalsiyum, düşük alkalen fosfataz"
+    ]
+   ],
+   "onc": [],
+   "cevap": "B"
+  },
+  {
+   "no": 23,
+   "kok": "Aşağıdaki antropometrik göstergelerden hangisi çocuklarda kronik beslenme yetersizliğinin takibinde daha değerlidir?",
+   "sik": [
+    [
+     "A",
+     "Yaşa Göre Ağırlık z-skoru"
+    ],
+    [
+     "B",
+     "Boya Göre Ağırlık z-skoru"
+    ],
+    [
+     "C",
+     "Yaşa Göre Boy z-skoru"
+    ],
+    [
+     "D",
+     "Yaşa Göre Baş Çevresi z-skoru"
+    ],
+    [
+     "E",
+     "Boya Göre Karın Çevresi z-skoru"
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 24,
+   "kok": "Aşağıda gerekli özellikleri verilmiş olan çocuğun z-skorunu hesaplayınız.",
+   "sik": [
+    [
+     "A",
+     "$-2$"
+    ],
+    [
+     "B",
+     "$-1$"
+    ],
+    [
+     "C",
+     "$0$"
+    ],
+    [
+     "D",
+     "$+1$"
+    ],
+    [
+     "E",
+     "$+2$"
+    ]
+   ],
+   "onc": [],
+   "cevap": "D"
+  },
+  {
+   "no": 25,
+   "kok": "İnce bağırsak kriptlerinde bulunan Paneth hücrelerinin sayısının belirgin biçimde azaldığı bir dokuda aşağıdaki değişikliklerden hangisinin görülmesi beklenir?",
+   "sik": [
+    [
+     "A",
+     "Bağırsak mukusunun tamamen ortadan kalkması"
+    ],
+    [
+     "B",
+     "Brunner bezlerinin aşırı salgı yapması"
+    ],
+    [
+     "C",
+     "Bağırsak kas tabakalarının birbirinden ayrılması"
+    ],
+    [
+     "D",
+     "Emilim yüzeyinin doğrudan ortadan kalkması"
+    ],
+    [
+     "E",
+     "Antimikrobiyal savunmanın zayıflaması ve bağırsak mikrobiyal dengesinin etkilenmesi"
+    ]
+   ],
+   "onc": [],
+   "cevap": "E"
+  },
+  {
+   "no": 26,
+   "kok": "Duodenumdan başlayarak ince bağırsak boyunca ilerleyen bir besin içeriğinin karşılaştığı histolojik değişiklikler incelenmektedir. Duodenumda asidik kimusun nötralizasyonu, jejunumda yoğun emilim ve ileumda immünolojik savunma ön plana çıkmaktadır. Bu fonksiyonel farklılıkların histolojik karşılıklarıyla ilgili aşağıdakilerden hangisi doğrudur?",
+   "sik": [
+    [
+     "A",
+     "Duodenumda Peyer plakları, jejunumda Brunner bezleri, ileumda ise yoğun plika sirkülarisler bulunur."
+    ],
+    [
+     "B",
+     "Duodenumda villuslar bulunmaz, jejunumda Peyer plakları yoğunlaşır, ileumda Brunner bezleri gelişir."
+    ],
+    [
+     "C",
+     "Duodenumda submukozal Brunner bezleri, jejunumda belirgin plika sirkülarisler, ileumda ise yoğun Peyer plakları bulunur."
+    ],
+    [
+     "D",
+     "Duodenumda tenya koli, jejunumda haustralar, ileumda ise Brunner bezleri bulunur."
+    ],
+    [
+     "E",
+     "Her üç bölgede de aynı histolojik organizasyon bulunur; fonksiyonel farklılıklar yalnızca kas tabakalarının kalınlığına bağlıdır."
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 27,
+   "kok": "Serum kreatinini $1.2\\text{ mg/dL}$ olan 25 yaşındaki bir erkekte eGFR yaklaşık $86$, aynı kreatinin değerine sahip 80 yaşındaki bir kadında ise yaklaşık $46\\text{ mL/dk/1.73 m}^2$ hesaplanmaktadır. Bu farkın temel nedeni aşağıdakilerden hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Yaşlı kadında tübüler kreatinin sekresyonunun artması"
+    ],
+    [
+     "B",
+     "Genç erkekte glomerüler hiperfiltrasyon bulunması"
+    ],
+    [
+     "C",
+     "Yaşlı kadında kas kütlesinin az olması"
+    ],
+    [
+     "D",
+     "Kadınlarda kreatininin karaciğerde daha hızlı yıkılması"
+    ],
+    [
+     "E",
+     "Yaşlılarda kreatininin bağırsaktan geri emiliminin artması"
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 28,
+   "kok": "KBH'ye bağlı aneminin tipik morfolojisi ve en önemli nedeni hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Normokrom normositer - eritropoetin üretiminin azalması"
+    ],
+    [
+     "B",
+     "Hipokrom mikrositer - talasemi major"
+    ],
+    [
+     "C",
+     "Makrositer - B12 vitamini eksikliği"
+    ],
+    [
+     "D",
+     "Normokrom normositer - hemoliz"
+    ],
+    [
+     "E",
+     "Hipokrom mikrositer - alüminyum birikimi"
+    ]
+   ],
+   "onc": [],
+   "cevap": "A"
+  },
+  {
+   "no": 29,
+   "kok": "Diyabetli bir hastada aşağıdakilerden hangisi diyabetik olmayan böbrek hastalığını düşündüren \"kırmızı bayrak\" değildir?",
+   "sik": [
+    [
+     "A",
+     "Tip 1 DM'de diyabet süresinin 5 yıldan kısa olması"
+    ],
+    [
+     "B",
+     "İdrarda eritrosit silendiri ve dismorfik eritrosit"
+    ],
+    [
+     "C",
+     "RAS blokajı sonrası eGFR'de $>\\%30$ düşüş"
+    ],
+    [
+     "D",
+     "Hızla artan proteinüri veya ani başlayan nefrotik sendrom"
+    ],
+    [
+     "E",
+     "15 yıllık DM öyküsü ile birlikte proliferatif olmayan retinopati varlığı"
+    ]
+   ],
+   "onc": [],
+   "cevap": "E"
+  },
+  {
+   "no": 30,
+   "kok": "Türk Nefroloji Derneği verilerine göre Türkiye'de evre 5 KBH'nin en sık nedeni hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Hipertansiyon"
+    ],
+    [
+     "B",
+     "Glomerülonefrit"
+    ],
+    [
+     "C",
+     "Diabetes mellitus"
+    ],
+    [
+     "D",
+     "Polikistik böbrek hastalığı"
+    ],
+    [
+     "E",
+     "Nefrolitiyazis"
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 31,
+   "kok": "Diyabetik böbrek hastalığında elektron mikroskobuyla saptanabilen en erken yapısal değişiklik hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Fokal glomerüloskleroz"
+    ],
+    [
+     "B",
+     "Glomerüler bazal membran kalınlaşması"
+    ],
+    [
+     "C",
+     "Global glomerüloskleroz"
+    ],
+    [
+     "D",
+     "İnterstisyel fibrozis"
+    ],
+    [
+     "E",
+     "Arterioskleroz"
+    ]
+   ],
+   "onc": [],
+   "cevap": "B"
+  },
+  {
+   "no": 32,
+   "kok": "Proteinürisi olan kronik böbrek hastalıklı ve hipertansif bir hastada antihipertansif tedavi ile ilgili hangisi doğrudur?",
+   "sik": [
+    [
+     "A",
+     "Tedavi RAS inhibitörü içermeli, tek RAS ajanı kullanılmalıdır."
+    ],
+    [
+     "B",
+     "ACE inhibitörü ve ARB birlikte kullanılmalıdır."
+    ],
+    [
+     "C",
+     "RAS inhibitörleri KBH'de kontrendikedir."
+    ],
+    [
+     "D",
+     "Tuz kısıtlaması önerilmez."
+    ],
+    [
+     "E",
+     "Hedef kan basıncı $<160/100\\text{ mmHg}$'dir."
+    ]
+   ],
+   "onc": [],
+   "cevap": "A"
+  },
+  {
+   "no": 33,
+   "kok": "AHA/ACC 2017 rehberine göre akıllı saatlerin / manşonsuz (cuffless) kan basıncı ölçümü ile ilgili hangisi doğrudur?",
+   "sik": [
+    [
+     "A",
+     "Ev ölçümüne eşdeğer kabul edilir."
+    ],
+    [
+     "B",
+     "Yalnızca gece ölçümünde kullanılabilir."
+    ],
+    [
+     "C",
+     "Pratik ve kolay olduğundan ilacı içmeden önce bakmalı ve karar vermelidir."
+    ],
+    [
+     "D",
+     "Ambulatuvar ölçümün yerini alabilir."
+    ],
+    [
+     "E",
+     "Klinik tanı ve takip için kullanılmamalıdır."
+    ]
+   ],
+   "onc": [],
+   "cevap": "E"
+  },
+  {
+   "no": 34,
+   "kok": "Guyton modeline göre uzun dönem (günler-yıllar) kan basıncı düzeyini asıl belirleyen faktör hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Baroreseptör refleksi"
+    ],
+    [
+     "B",
+     "Böbreğin tuz ve su atma kapasitesi"
+    ],
+    [
+     "C",
+     "Kalp hızı"
+    ],
+    [
+     "D",
+     "Kemoreseptör aktivitesi"
+    ],
+    [
+     "E",
+     "Atriyal natriüretik peptid düzeyi"
+    ]
+   ],
+   "onc": [],
+   "cevap": "B"
+  },
+  {
+   "no": 35,
+   "kok": "İleri evre KBH'li diyabetik hastada hipoglisemi riskinin artmasının nedeni hangisidir?",
+   "sik": [
+    [
+     "A",
+     "İnsülin klirensinin ve böbrek glukoneogenezinin azalması"
+    ],
+    [
+     "B",
+     "Glukagon düzeyinin artması"
+    ],
+    [
+     "C",
+     "HbA1c'nin yalancı yüksek çıkması"
+    ],
+    [
+     "D",
+     "Bağırsaktan glukoz emiliminin artması"
+    ],
+    [
+     "E",
+     "Kortizol düzeyinin artması"
+    ]
+   ],
+   "onc": [],
+   "cevap": "A"
+  },
+  {
+   "no": 36,
+   "kok": "Kreatinin yüksekliği saptanan bir hastada akut böbrek hasarı ile kronik böbrek hastalığını ayırmada en değerli bilgi hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Serum üre/kreatinin oranı"
+    ],
+    [
+     "B",
+     "Hastanın yaşı"
+    ],
+    [
+     "C",
+     "Kan basıncı düzeyi"
+    ],
+    [
+     "D",
+     "İdrar dansitesi"
+    ],
+    [
+     "E",
+     "Hastanın önceki kreatinin değerleri"
+    ]
+   ],
+   "onc": [],
+   "cevap": "E"
+  },
+  {
+   "no": 37,
+   "kok": "Ek hastalığı olmayan hipertansif bireylerde birinci basamak tedavide önerilen dört ana ilaç grubundan biri değildir?",
+   "sik": [
+    [
+     "A",
+     "ACE inhibitörleri"
+    ],
+    [
+     "B",
+     "Anjiyotensin reseptör blokörleri"
+    ],
+    [
+     "C",
+     "Tiyazid ve tiyazid benzeri diüretikler"
+    ],
+    [
+     "D",
+     "Beta blokörler"
+    ],
+    [
+     "E",
+     "Kalsiyum kanal blokörleri"
+    ]
+   ],
+   "onc": [],
+   "cevap": "D"
+  },
+  {
+   "no": 38,
+   "kok": "Aşağıdaki bulgulardan hangisi tek başına kronik böbrek hastalığı tanısı koydurur?",
+   "sik": [
+    [
+     "A",
+     "2 haftadır eGFR'nin $50\\text{ mL/dk/1,73 m}^2$ olması"
+    ],
+    [
+     "B",
+     "10 yıldır hipertansiyon öyküsü bulunması"
+    ],
+    [
+     "C",
+     "Hemogramda anemi saptanması"
+    ],
+    [
+     "D",
+     "4 aydır idrar albümin/kreatinin oranının $300\\text{ mg/g}$ olması"
+    ],
+    [
+     "E",
+     "Tek bir spot idrarda proteinin 1+ bulunması"
+    ]
+   ],
+   "onc": [],
+   "cevap": "D"
+  },
+  {
+   "no": 39,
+   "kok": "Proksimal tübülde fosfat geri emilimini azaltarak fosfatüriye neden olabilen hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Fibroblast büyüme faktörü-23"
+    ],
+    [
+     "B",
+     "Eritropoetin"
+    ],
+    [
+     "C",
+     "Vitamin D"
+    ],
+    [
+     "D",
+     "Antidiyüretik hormon (ADH)"
+    ],
+    [
+     "E",
+     "İnsülin"
+    ]
+   ],
+   "onc": [],
+   "cevap": "A"
+  },
+  {
+   "no": 40,
+   "kok": "Jukstaglomerüler aparatın (JGA) temel bileşenlerinden biri olan macula densa hücreleri nefronun hangi anatomik segmentinde yer alır?",
+   "sik": [
+    [
+     "A",
+     "Henle kulpu inen ince kol"
+    ],
+    [
+     "B",
+     "Henle kulpu çıkan ince kol"
+    ],
+    [
+     "C",
+     "Distal tübül başlangıç kısmı"
+    ],
+    [
+     "D",
+     "Kortikal toplayıcı kanal"
+    ],
+    [
+     "E",
+     "Proksimal tübül son kısmı"
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 41,
+   "kok": "Akut böbrek yetmezliğinin en sık nedeni hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Akut glomerülonefrit"
+    ],
+    [
+     "B",
+     "Akut interstisyel nefrit"
+    ],
+    [
+     "C",
+     "Akut tübüler nekroz"
+    ],
+    [
+     "D",
+     "Prerenal azotemi"
+    ],
+    [
+     "E",
+     "Postrenal obstrüksiyon"
+    ]
+   ],
+   "onc": [],
+   "cevap": "D"
+  },
+  {
+   "no": 42,
+   "kok": "Aşağıdaki hastalardan hangisinde akut böbrek hasarı gelişme riski en azdır?",
+   "sik": [
+    [
+     "A",
+     "Koroner anjiyografi yapılan genç yaş hasta"
+    ],
+    [
+     "B",
+     "Kronik böbrek hastalığı olan sepsis nedeniyle hipotansif hasta"
+    ],
+    [
+     "C",
+     "Diabetes mellitusu olan ileri yaş hasta"
+    ],
+    [
+     "D",
+     "Nefrotik sendromlu hipovolemik genç yaş hasta"
+    ],
+    [
+     "E",
+     "Kalp yetmezliği olan ileri yaş hasta"
+    ]
+   ],
+   "onc": [],
+   "cevap": "A"
+  },
+  {
+   "no": 43,
+   "kok": "Amilorid kullanan bir hastada hangi değişiklik beklenir?",
+   "sik": [
+    [
+     "A",
+     "Distal tübülde sodyum-klorür kotransporteri (NCC) aktivasyonuna bağlı hipokalemi"
+    ],
+    [
+     "B",
+     "Toplayıcı tübülde epitelyal sodyum kanalı (ENaC) inhibisyonuna bağlı hiperkalemi"
+    ],
+    [
+     "C",
+     "ADH inhibisyonuna bağlı hipernatremi"
+    ],
+    [
+     "D",
+     "Toplayıcı tübül alfa-interkale hücrelerde $\\text{H}^+$ sekresyonunun inhibisyonuna bağlı metabolik asidoz"
+    ],
+    [
+     "E",
+     "Henle çıkan kalın kolunda sodyum-potasyum-klorür kotransporteri 2 (NKCC2) inhibisyonuna bağlı hipokalemi"
+    ]
+   ],
+   "onc": [],
+   "cevap": "B"
+  },
+  {
+   "no": 44,
+   "kok": "Hemodiyaliz sırasında üre ve kreatinin gibi küçük moleküllerin kandan uzaklaştırılmasında temel mekanizma aşağıdakilerden hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Ultrafiltrasyon"
+    ],
+    [
+     "B",
+     "Konveksiyon"
+    ],
+    [
+     "C",
+     "Osmoz"
+    ],
+    [
+     "D",
+     "Aktif transport"
+    ],
+    [
+     "E",
+     "Difüzyon"
+    ]
+   ],
+   "onc": [],
+   "cevap": "E"
+  },
+  {
+   "no": 45,
+   "kok": "61 yaşında erkek hasta kilo alımı ve ayaklarda şişlik nedeniyle Nefroloji polikliniğine başvuruyor. Fizik muayenede alt ekstremitede bilateral $+3/+3$ pretibial ödem olan hastanın 24 saatlik idrarda da $8\\text{ gram/gün}$ proteinüri saptanıyor. Ayrıca anti-fosfolipaz A2 reseptör antikoru (anti-PLA2R) düzeyleri de yüksek titrede pozitif saptanan bu hastada en olası tanınız hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Membranöz glomerülopati"
+    ],
+    [
+     "B",
+     "Membranoproliferatif glomerülonefrit"
+    ],
+    [
+     "C",
+     "C3 glomerülopati"
+    ],
+    [
+     "D",
+     "Fokal segmental glomerüloskleroz"
+    ],
+    [
+     "E",
+     "IgA nefropatisi"
+    ]
+   ],
+   "onc": [],
+   "cevap": "A"
+  },
+  {
+   "no": 46,
+   "kok": "Akut böbrek yetmezliğinde aşağıdakilerden hangisi acil diyaliz endikasyonudur?",
+   "sik": [
+    [
+     "A",
+     "Kreatinin $>5\\text{ mg/dL}$ olması"
+    ],
+    [
+     "B",
+     "Masif proteinüri"
+    ],
+    [
+     "C",
+     "Oligüri"
+    ],
+    [
+     "D",
+     "Tedaviye dirençli hiperfosfatemi"
+    ],
+    [
+     "E",
+     "Tedaviye dirençli üremik kaşıntı"
+    ]
+   ],
+   "onc": [],
+   "cevap": "E"
+  },
+  {
+   "no": 47,
+   "kok": "Öncesinde sağlıklı obez 25 yaşında kadın hasta 1 aydır olan ayaklarda şişlik nedeniyle Nefroloji polikliniğine başvuruyor. Hastanın fizik muayenesinde kan basıncı $160/90\\text{ mmHg}$ ve PTÖ $+3/+3$ saptanıyor. Laboratuvar tetkiklerinde kreatinin $1.4\\text{ mg/dL}$, albümin $22\\text{ g/L}$, C3 ve C4 normal, LDL kolesterol $250\\text{ mg/dL}$ ve 24 saatlik idrarda $10\\text{ gr/gün}$ proteinüri tespit ediliyor. Hematürisi olmayan bu hastada en olası tanınız aşağıdakilerden hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Minimal değişiklik hastalığı"
+    ],
+    [
+     "B",
+     "Membranöz nefropati"
+    ],
+    [
+     "C",
+     "Fokal segmental glomerüloskleroz"
+    ],
+    [
+     "D",
+     "Lupus nefriti"
+    ],
+    [
+     "E",
+     "Post enfeksiyöz glomerülonefrit"
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 48,
+   "kok": "24 yaşında erkek hasta, boğaz enfeksiyonundan 2 gün sonra idrarda kanama ve kan basıncı yüksekliği nedeniyle Nefroloji polikliniğine başvuruyor. Hastanın tetkiklerinde kreatinin $0.8\\text{ mg/dL}$, albümin $42\\text{ g/L}$, 24 saatlik idrarda $1200\\text{ mg/gün}$ proteinüri ve idrar sedimentinde yaygın dismorfik eritrositler saptanması üzerine renal biyopsi yapılıyor. Bu hastanın renal biyopsisinde beklenen patolojik bulgu hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Podosit ayaksı çıkıntılarda yaygın silinme"
+    ],
+    [
+     "B",
+     "Mezangial proliferasyon ve mezangial IgA birikimi"
+    ],
+    [
+     "C",
+     "Glomerüler bazal membranda diffüz kalınlaşma ve granüler IgG birikimi"
+    ],
+    [
+     "D",
+     "Glomerüler bazal membran boyunca lineer IgG ve C3 birikimi"
+    ],
+    [
+     "E",
+     "Glomerüller normal saptanır"
+    ]
+   ],
+   "onc": [],
+   "cevap": "B"
+  },
+  {
+   "no": 49,
+   "kok": "Dense deposit hastalığı tanısı alan bir hastada aşağıdakilerden hangisinin pozitif bulunması beklenir?",
+   "sik": [
+    [
+     "A",
+     "Anti-dsDNA"
+    ],
+    [
+     "B",
+     "ANCA"
+    ],
+    [
+     "C",
+     "Anti-GBM"
+    ],
+    [
+     "D",
+     "C3 nefritik faktör"
+    ],
+    [
+     "E",
+     "Anti-PLA2R"
+    ]
+   ],
+   "onc": [],
+   "cevap": "D"
+  },
+  {
+   "no": 50,
+   "kok": "Akut böbrek hasarı tanısında KDIGO kriterlerine göre hangisi tanı koydurucudur?",
+   "sik": [
+    [
+     "A",
+     "Serum kreatinin $>4\\text{ mg/dL}$ üzerinde olması"
+    ],
+    [
+     "B",
+     "48 saat içinde serum kreatinin düzeyinde $\\ge 0,3\\text{ mg/dL}$ artış olması"
+    ],
+    [
+     "C",
+     "Son 1 ayda serum kreatinin düzeyinde $\\ge 1,5$ kat artış olması"
+    ],
+    [
+     "D",
+     "6 saat boyunca idrar çıkışının $<1\\text{ mL/kg/saat}$ altında olması"
+    ],
+    [
+     "E",
+     "Proteinüri $>300\\text{ mg/gün}$ üzerinde olması"
+    ]
+   ],
+   "onc": [],
+   "cevap": "B"
+  },
+  {
+   "no": 51,
+   "kok": "Akut böbrek yetmezliği ile başvuran bir hastanın idrar sedimentinde hangisinin görülmesi en az olasıdır?",
+   "sik": [
+    [
+     "A",
+     "Dismorfik eritrositler"
+    ],
+    [
+     "B",
+     "Eritrosit silendirleri"
+    ],
+    [
+     "C",
+     "Lökosit silendirleri"
+    ],
+    [
+     "D",
+     "Kahverengi granüler silendirler"
+    ],
+    [
+     "E",
+     "Oval yağ cisimcikleri"
+    ]
+   ],
+   "onc": [],
+   "cevap": "E"
+  },
+  {
+   "no": 52,
+   "kok": "Oksidatif deaminasyon tepkimesini gerçekleştiren enzim hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Serin dehidrataz"
+    ],
+    [
+     "B",
+     "Glutamat dehidrojenaz"
+    ],
+    [
+     "C",
+     "Glutamin sentaz"
+    ],
+    [
+     "D",
+     "Glutamin liyaz"
+    ],
+    [
+     "E",
+     "Glutaminaz"
+    ]
+   ],
+   "onc": [],
+   "cevap": "B"
+  },
+  {
+   "no": 53,
+   "kok": "Aşağıdaki mikrobesin eksikliklerinden hangisi karbonhidrat metabolizmasında bozulma ve ağır eksiklikte laktik asidoza yol açar?",
+   "sik": [
+    [
+     "A",
+     "Demir"
+    ],
+    [
+     "B",
+     "Kobalamin"
+    ],
+    [
+     "C",
+     "Folik asit"
+    ],
+    [
+     "D",
+     "Alfa tokoferol"
+    ],
+    [
+     "E",
+     "Tiyamin"
+    ]
+   ],
+   "onc": [],
+   "cevap": "E"
+  },
+  {
+   "no": 54,
+   "kok": "Aşağıdaki klinik tablolardan hangisinde karaciğer yağlanması görülebilir?",
+   "sik": [
+    [
+     "A",
+     "Marasmus"
+    ],
+    [
+     "B",
+     "Kwashiorkor"
+    ],
+    [
+     "C",
+     "Starvasyon"
+    ],
+    [
+     "D",
+     "Kısa süreli açlık"
+    ],
+    [
+     "E",
+     "Akut viral hepatit"
+    ]
+   ],
+   "onc": [],
+   "cevap": "B"
+  },
+  {
+   "no": 55,
+   "kok": "Aşağıdaki hormonlardan hangisi hormon duyarlı lipazı aktive etmez?",
+   "sik": [
+    [
+     "A",
+     "Glukagon"
+    ],
+    [
+     "B",
+     "Adrenalin"
+    ],
+    [
+     "C",
+     "ACTH"
+    ],
+    [
+     "D",
+     "İnsülin"
+    ],
+    [
+     "E",
+     "Büyüme hormonu"
+    ]
+   ],
+   "onc": [],
+   "cevap": "D"
+  },
+  {
+   "no": 56,
+   "kok": "12 saatlik açlıkta kasların kullandığı temel enerji kaynağı aşağıdakilerden hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Glukoz"
+    ],
+    [
+     "B",
+     "Laktat"
+    ],
+    [
+     "C",
+     "Keton cisimcikleri"
+    ],
+    [
+     "D",
+     "Yağ asitleri"
+    ],
+    [
+     "E",
+     "Amino asitler"
+    ]
+   ],
+   "onc": [],
+   "cevap": "D"
+  },
+  {
+   "no": 57,
+   "kok": "Aminoglikozitlere bağlı nefrotoksisite ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "sik": [
+    [
+     "A",
+     "Katyonik yapıdaki ilaç proksimal tübül fırça kenarında megalin aracılığıyla endositozla hücre içine alınır; lizozomda birikerek fosfolipidoz ve mitokondriyal hasara yol açar."
+    ],
+    [
+     "B",
+     "Hasar başlıca glomerüler bazal membranda immün kompleks birikimine bağlıdır."
+    ],
+    [
+     "C",
+     "Tipik tablo tedavinin ilk 24 saatinde ortaya çıkan oligürik akut böbrek hasarıdır."
+    ],
+    [
+     "D",
+     "Renal korteksteki ilaç konsantrasyonu serum düzeyinin altında kaldığından toksisite yalnızca aşırı dozda görülür."
+    ],
+    [
+     "E",
+     "Tübüler alım doyurulabilir olmadığından günde tek doz uygulama nefrotoksisite riskini değiştirmez."
+    ]
+   ],
+   "onc": [],
+   "cevap": "A"
+  },
+  {
+   "no": 58,
+   "kok": "Böbrekte afferent ve efferent arteriyol tonusunun ilaçlarla değişmesi ve bunun glomerüler filtrasyon hızına (GFR) etkisi ile ilgili aşağıdakilerden hangisi doğrudur?",
+   "sik": [
+    [
+     "A",
+     "Nonsteroid antiinflamatuar ilaçlar prostaglandin sentezini azaltarak afferent arteriyolde vazokonstriksiyona yol açar, glomerül içi basınç ve GFR düşer."
+    ],
+    [
+     "B",
+     "ACE inhibitörleri efferent arteriyolü daraltarak glomerül içi basıncı yükseltir."
+    ],
+    [
+     "C",
+     "Fizyolojik koşullarda afferent arteriyol anjiyotensin II etkisiyle dar, efferent arteriyol prostaglandinler etkisiyle geniştir."
+    ],
+    [
+     "D",
+     "Kalsinörin inhibitörleri efferent arteriyolü genişleterek GFR'yi düşürür."
+    ],
+    [
+     "E",
+     "ARB'lerin böbrek hemodinamiği üzerindeki etkisi hipovolemi ve bilateral renal arter stenozunda azalır."
+    ]
+   ],
+   "onc": [],
+   "cevap": "A"
+  },
+  {
+   "no": 59,
+   "kok": "Yetmiş dört yaşında, tip 2 diyabet ve hipertansiyon tanılı kadın hasta, üç gündür süren ishal ve kusma yakınmasıyla başvuruyor. Muayenede kan basıncı $90/60\\text{ mmHg}$. Laboratuvarda kreatinin değerinin $0,9\\text{ mg/dL}$'den $2,6\\text{ mg/dL}$'ye yükseldiği, potasyumun $6,1\\text{ mmol/L}$ olduğu görülüyor. Hastanın son dönemde diz ağrısı nedeniyle tedavisine bir ilaç daha eklendiği öğreniliyor. Bu tabloyu açıklayabilecek en olası ilaç kombinasyonu aşağıdakilerden hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Valsartan + amlodipin + parasetamol"
+    ],
+    [
+     "B",
+     "Metoprolol + nifedipin + kolşisin"
+    ],
+    [
+     "C",
+     "Doksazosin + hidroklorotiyazid + parasetamol"
+    ],
+    [
+     "D",
+     "Amlodipin + metoprolol + parasetamol"
+    ],
+    [
+     "E",
+     "Ramipril + hidroklorotiyazid + naproksen"
+    ]
+   ],
+   "onc": [],
+   "cevap": "E"
+  },
+  {
+   "no": 60,
+   "kok": "Enalapril kullanımına bağlı olarak aşağıdaki etkilerden hangisinin gözlenmesi beklenir?",
+   "sik": [
+    [
+     "A",
+     "Sodyum ve su tutulmasının azalması"
+    ],
+    [
+     "B",
+     "Hipofizden ADH salınımının artması"
+    ],
+    [
+     "C",
+     "Kardiyak ve vasküler hipertrofinin uyarılması"
+    ],
+    [
+     "D",
+     "Jukstaglomerüler hücrelerden renin salımının baskılanması"
+    ],
+    [
+     "E",
+     "Anjiyotensinojen sentezinin engellenmesi"
+    ]
+   ],
+   "onc": [],
+   "cevap": "A"
+  },
+  {
+   "no": 61,
+   "kok": "ACE inhibitörü kullanan bir hastada gelişen anjiyoödemin temel mekanizması aşağıdakilerden hangisidir?",
+   "sik": [
+    [
+     "A",
+     "AT2 reseptörünün aşırı uyarılması"
+    ],
+    [
+     "B",
+     "Aldosteron sentezinin artması"
+    ],
+    [
+     "C",
+     "Bradikinin düzeyinin artması"
+    ],
+    [
+     "D",
+     "Renin salımının bloke edilmesi"
+    ],
+    [
+     "E",
+     "Sodyum atılımının artması"
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 62,
+   "kok": "Aşağıdaki kalsiyum kanal blokörlerinden hangisi hem hipertansiyon hem de supraventriküler taşiaritmilerin tedavisinde kullanılabilir?",
+   "sik": [
+    [
+     "A",
+     "Nimodipin"
+    ],
+    [
+     "B",
+     "Felodipin"
+    ],
+    [
+     "C",
+     "Amlodipin"
+    ],
+    [
+     "D",
+     "Verapamil"
+    ],
+    [
+     "E",
+     "Lerkanidipin"
+    ]
+   ],
+   "onc": [],
+   "cevap": "D"
+  },
+  {
+   "no": 63,
+   "kok": "Amlodipin kullanımına bağlı olarak aşağıdaki hücresel mekanizmalardan hangisinin gerçekleşmesi beklenir?",
+   "sik": [
+    [
+     "A",
+     "Miyozin hafif zincir kinaz aktivitesinin azalması"
+    ],
+    [
+     "B",
+     "Hücre dışından kalsiyum akışının artması"
+    ],
+    [
+     "C",
+     "Miyokard hücrelerinde Faz 3 hızlı repolarizasyonunun gecikmesi"
+    ],
+    [
+     "D",
+     "Tropomiyozinin aktin üzerindeki inhibitör etkisinin azalması"
+    ],
+    [
+     "E",
+     "Kalsiyumun kalmodulin kompleksi oluşumunun artması"
+    ]
+   ],
+   "onc": [],
+   "cevap": "A"
+  },
+  {
+   "no": 64,
+   "kok": "Aşağıdaki kalsiyum kanal blokörlerinden hangisinin refleks taşikardi oluşturma olasılığı daha yüksektir?",
+   "sik": [
+    [
+     "A",
+     "Verapamil"
+    ],
+    [
+     "B",
+     "Diltiazem"
+    ],
+    [
+     "C",
+     "Nifedipin"
+    ],
+    [
+     "D",
+     "Amlodipin"
+    ],
+    [
+     "E",
+     "Silnidipin"
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 65,
+   "kok": "Renin-anjiyotensin-aldosteron sistemine etki eden ilaçlarla ilgili aşağıdakilerden hangisi doğrudur?",
+   "sik": [
+    [
+     "A",
+     "ARB'lerin bradikinin kaynaklı hipotansif etkisi ACE inhibitörlerinden daha belirgindir."
+    ],
+    [
+     "B",
+     "ACE inhibitörleri kronik kullanımda hipokalemi gelişmesine neden olur."
+    ],
+    [
+     "C",
+     "ACE inhibitörleri NSAİİ ile eşzamanlı kullanım açısından riskli iken ARB'lerde bu risk bulunmaz."
+    ],
+    [
+     "D",
+     "ACE inhibitörü kullanımı anjiyotensin II seviyesini düşürücü, ARB ise artırıcı etki oluşturur."
+    ],
+    [
+     "E",
+     "ACE inhibitörlerinin gebelikte kullanımı güvenlidir."
+    ]
+   ],
+   "onc": [],
+   "cevap": "D"
+  },
+  {
+   "no": 66,
+   "kok": "Aşağıda verilen bilgilerden hangisi diüretik ilaçlar için doğrudur?",
+   "sik": [
+    [
+     "A",
+     "Asetazolamid toplayıcı kanallarda etki gösterir ve en güçlü diüretik ilaçtır."
+    ],
+    [
+     "B",
+     "Ozmotik diüretikler distal tübülde etki gösterir ve beyin ödeminde kullanımları kontrendikedir."
+    ],
+    [
+     "C",
+     "Kıvrım diüretikleri kalsiyum geri emilimini artırır ve GFR'yi azaltır."
+    ],
+    [
+     "D",
+     "Metolazon tiazid grubu bir diüretik ilaçtır ve ilerlemiş böbrek yetmezliğinde kullanılabilir."
+    ],
+    [
+     "E",
+     "Eplerenon hipokalemi etkisi nedeniyle hiperkalemiyi tedavi etmek için kullanılır."
+    ]
+   ],
+   "onc": [],
+   "cevap": "D"
+  },
+  {
+   "no": 67,
+   "kok": "Diüretik ilaçlar için aşağıda verilen ilaç-etki mekanizması eşleşmesinden hangisi doğrudur?",
+   "sik": [
+    [
+     "A",
+     "Mannitol - Karbonik anhidraz inhibisyonu"
+    ],
+    [
+     "B",
+     "Bumetanid - Adenozin reseptör inhibisyonu"
+    ],
+    [
+     "C",
+     "İndapamid - $\\text{Na}^+/\\text{Cl}^-$ kotransport inhibisyonu"
+    ],
+    [
+     "D",
+     "Triamteren - Bikarbonat atılım inhibisyonu"
+    ],
+    [
+     "E",
+     "Lixivaptan - Aldosteron reseptör blokörü"
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 68,
+   "kok": "Akut kardiyojenik akciğer ödemi gelişen bir hastaya, Henle kıvrımının kalın çıkan kolundaki $\\text{Na}^+/\\text{K}^+/2\\text{Cl}^-$ kotransporterini inhibe ederek hızlı diürez sağlayan bir ilaç intravenöz uygulanıyor. Bu ilaç hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Metazolamid"
+    ],
+    [
+     "B",
+     "Mannitol"
+    ],
+    [
+     "C",
+     "Hidroklorotiyazid"
+    ],
+    [
+     "D",
+     "Furosemid"
+    ],
+    [
+     "E",
+     "Amilorid"
+    ]
+   ],
+   "onc": [],
+   "cevap": "D"
+  },
+  {
+   "no": 69,
+   "kok": "Aşağıdaki fırsatçı patojen küf cinslerinden hangisi anjiyoinvaziv yayılım gösterir?",
+   "sik": [
+    [
+     "A",
+     "*Aspergillus*"
+    ],
+    [
+     "B",
+     "*Rhizopus*"
+    ],
+    [
+     "C",
+     "*Candida*"
+    ],
+    [
+     "D",
+     "*Cryptococcus*"
+    ],
+    [
+     "E",
+     "*Lodderomyces*"
+    ]
+   ],
+   "onc": [],
+   "cevap": "B"
+  },
+  {
+   "no": 70,
+   "kok": "Derin dermis ve alt dokulara yayılarak Majocchi granülomu etkeni olan en sık dermatofit hangisidir?",
+   "sik": [
+    [
+     "A",
+     "*Trichophyton indotineae*"
+    ],
+    [
+     "B",
+     "*Epidermophyton floccosum*"
+    ],
+    [
+     "C",
+     "*Trichophyton rubrum*"
+    ],
+    [
+     "D",
+     "*Microsporum canis*"
+    ],
+    [
+     "E",
+     "*Nannizzia (Microsporum) gypsea*"
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 71,
+   "kok": "Aşağıdaki mayalardan hangisinde germ tüp pozitiftir?",
+   "sik": [
+    [
+     "A",
+     "*Candida albicans*"
+    ],
+    [
+     "B",
+     "*Candida parapsilosis*"
+    ],
+    [
+     "C",
+     "*Candida tropicalis*"
+    ],
+    [
+     "D",
+     "*Candida (Meyerozyma) guilliermondii*"
+    ],
+    [
+     "E",
+     "*Candida glabrata*"
+    ]
+   ],
+   "onc": [],
+   "cevap": "A"
+  },
+  {
+   "no": 72,
+   "kok": "Yüksek terbinafin direnci bulunduran inatçı dermatofitoz etkeni hangisidir?",
+   "sik": [
+    [
+     "A",
+     "*Nannizzia (Microsporum) gypsea*"
+    ],
+    [
+     "B",
+     "*Trichophyton tonsurans*"
+    ],
+    [
+     "C",
+     "*Microsporum canis*"
+    ],
+    [
+     "D",
+     "*Epidermophyton floccosum*"
+    ],
+    [
+     "E",
+     "*Trichophyton indotineae*"
+    ]
+   ],
+   "onc": [],
+   "cevap": "E"
+  },
+  {
+   "no": 73,
+   "kok": "Hücre duvarında melanin içeren mayalardaki en sık melanin formu hangisidir?",
+   "sik": [
+    [
+     "A",
+     "Nöromelanin"
+    ],
+    [
+     "B",
+     "Piyomelanin"
+    ],
+    [
+     "C",
+     "Ömelanin"
+    ],
+    [
+     "D",
+     "Piyosiyanin"
+    ],
+    [
+     "E",
+     "Katekolamelanin"
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 74,
+   "kok": "Aşağıdaki dermatofitlerden hangisi zoofiliktir?",
+   "sik": [
+    [
+     "A",
+     "*Nannizzia (Microsporum) gypsea*"
+    ],
+    [
+     "B",
+     "*Trichophyton tonsurans*"
+    ],
+    [
+     "C",
+     "*Microsporum canis*"
+    ],
+    [
+     "D",
+     "*Epidermophyton floccosum*"
+    ],
+    [
+     "E",
+     "*Trichophyton indotineae*"
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  },
+  {
+   "no": 75,
+   "kok": "Çölyak hastalığının patogenezinde aşağıdakilerden hangisi temel rol oynar?",
+   "sik": [
+    [
+     "A",
+     "Glutenin bağırsak epitelinde doğrudan toksik hasar oluşturması"
+    ],
+    [
+     "B",
+     "Bağırsak florasındaki bakterilerin villusları doğrudan hasarlaması"
+    ],
+    [
+     "C",
+     "Bağırsak mukozasında IgE aracılı alerjik reaksiyon gelişmesi"
+    ],
+    [
+     "D",
+     "Pankreatik sindirim enzimlerinin yetersizliğine bağlı malabsorpsiyon"
+    ],
+    [
+     "E",
+     "Gluten peptitlerine karşı gelişen T hücre aracılı immün yanıt"
+    ]
+   ],
+   "onc": [],
+   "cevap": "E"
+  },
+  {
+   "no": 76,
+   "kok": "Çölyak hastalığında ince bağırsak biyopsisinde izlenen karakteristik histopatolojik değişiklikler aşağıdakilerden hangisinde birlikte verilmiştir?",
+   "sik": [
+    [
+     "A",
+     "Villus uzaması, kript atrofisi ve intraepitelyal lenfosit azalması"
+    ],
+    [
+     "B",
+     "Villus atrofisi, kript atrofisi ve granülom oluşumu"
+    ],
+    [
+     "C",
+     "Villus atrofisi, kript hiperplazisi ve intraepitelyal lenfosit artışı"
+    ],
+    [
+     "D",
+     "Villus uzaması, kript hiperplazisi ve goblet hücresi artışı"
+    ],
+    [
+     "E",
+     "Villus atrofisi, kript kaybı ve submukozal fibrozis"
+    ]
+   ],
+   "onc": [],
+   "cevap": "C"
+  }
+ ],
+ "eslesme": {
+  "1": [
+   [
+    "BSD 2024-2025 S98",
+    0.16,
+    ""
+   ],
+   [
+    "BSD 2023-2024 S98",
+    0.13,
+    ""
+   ],
+   [
+    "BSD 2022-2023 S97",
+    0.13,
+    ""
+   ]
+  ],
+  "2": [
+   [
+    "BSD 2024-2025 S98",
+    0.1,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 2",
+    0.09,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2019-2020 S2",
+    0.08,
+    ""
+   ]
+  ],
+  "3": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 4",
+    0.39,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 3",
+    0.27,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 65",
+    0.25,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "4": [
+   [
+    "BSD-1 2025-26 · SORU 24",
+    0.17,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 5",
+    0.12,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 3",
+    0.08,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "5": [
+   [
+    "MODÜL 5-6 2024-25 · SORU 38",
+    0.08,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 2",
+    0.07,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 4",
+    0.07,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "6": [
+   [
+    "MODÜL 5-6 2024-25 · SORU 55",
+    0.43,
+    "Aynı ya da çok benzer soru: MSD 5-6 2025-26 S19, 2022-23 S56, 2021-22 S56, 2020-21 SNone."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 19",
+    0.42,
+    "Aynı ya da çok benzer soru: MSD 5-6 2024-25 S55, 2022-23 S56, 2021-22 S56, 2020-21 SNone."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 47",
+    0.2,
+    "Aynı ya da çok benzer soru: MSD 5-6 2024-25 S75; Blok sınavı 2023-24 S99, 2022-23 S98."
+   ]
+  ],
+  "7": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 51",
+    0.28,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 73",
+    0.21,
+    "Aynı ya da çok benzer soru: MSD 5-6 2023-24 S73, 2022-23 S73, 2020-21 SNone."
+   ],
+   [
+    "BSD 2019-2020 S15",
+    0.09,
+    ""
+   ]
+  ],
+  "8": [
+   [
+    "MODÜL 5-6 2024-25 · SORU 12",
+    0.11,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 29",
+    0.09,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 75",
+    0.07,
+    "Aynı ya da çok benzer soru: MSD 5-6 2025-26 S47; Blok sınavı 2023-24 S99, 2022-23 S98."
+   ]
+  ],
+  "9": [
+   [
+    "BSD 2025-2026 S82",
+    0.15,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 17",
+    0.14,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD-1 2025-26 · SORU 82",
+    0.12,
+    "Aynı ya da çok benzer soru: MSD 5-6 2025-26 S48, 2023-24 S76, 2020-21 SNone."
+   ]
+  ],
+  "10": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 7",
+    0.13,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 11",
+    0.09,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 24",
+    0.08,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "11": [
+   [
+    "BSD 2025-2026 S12",
+    0.13,
+    ""
+   ],
+   [
+    "BSD-1 2025-26 · SORU 12",
+    0.13,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2025-2026 S11",
+    0.11,
+    ""
+   ]
+  ],
+  "12": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 15",
+    0.3,
+    "Aynı ya da çok benzer soru: MSD 5-6 2024-25 S52, 2023-24 S51."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 52",
+    0.25,
+    "Aynı ya da çok benzer soru: MSD 5-6 2025-26 S15, 2023-24 S51."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 61",
+    0.2,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "13": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 11",
+    0.18,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2019-2020 S19",
+    0.12,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 6",
+    0.11,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "14": [
+   [
+    "BSD 2021-2022 S58",
+    0.38,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 52",
+    0.2,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2025-2026 S87",
+    0.13,
+    ""
+   ]
+  ],
+  "15": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 7",
+    0.22,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD-1 2025-26 · SORU 13",
+    0.2,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2023-2024 S60",
+    0.18,
+    ""
+   ]
+  ],
+  "16": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 7",
+    0.23,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 8",
+    0.21,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD-1 2025-26 · SORU 13",
+    0.2,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "17": [
+   [
+    "MODÜL 5-6 2024-25 · SORU 55",
+    0.19,
+    "Aynı ya da çok benzer soru: MSD 5-6 2025-26 S19, 2022-23 S56, 2021-22 S56, 2020-21 SNone."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 19",
+    0.15,
+    "Aynı ya da çok benzer soru: MSD 5-6 2024-25 S55, 2022-23 S56, 2021-22 S56, 2020-21 SNone."
+   ],
+   [
+    "BSD 2024-2025 S98",
+    0.1,
+    ""
+   ]
+  ],
+  "18": [
+   [
+    "BSD 2021-2022 S3",
+    0.21,
+    ""
+   ],
+   [
+    "BSD 2019-2020 S18",
+    0.15,
+    ""
+   ],
+   [
+    "BSD 2023-2024 S72",
+    0.15,
+    ""
+   ]
+  ],
+  "19": [
+   [
+    "BSD 2024-2025 S98",
+    0.1,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 53",
+    0.08,
+    "Aynı ya da çok benzer soru: MSD 5-6 2023-24 S50, 2022-23 S50, 2021-22 S53, 2020-21 SNone, 2019-20 S54."
+   ],
+   [
+    "BSD 2019-2020 S36",
+    0.07,
+    ""
+   ]
+  ],
+  "20": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 47",
+    0.4,
+    "Aynı ya da çok benzer soru: MSD 5-6 2024-25 S75; Blok sınavı 2023-24 S99, 2022-23 S98."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 19",
+    0.35,
+    "Aynı ya da çok benzer soru: MSD 5-6 2024-25 S55, 2022-23 S56, 2021-22 S56, 2020-21 SNone."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 55",
+    0.34,
+    "Aynı ya da çok benzer soru: MSD 5-6 2025-26 S19, 2022-23 S56, 2021-22 S56, 2020-21 SNone."
+   ]
+  ],
+  "21": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 15",
+    0.25,
+    "Aynı ya da çok benzer soru: MSD 5-6 2024-25 S52, 2023-24 S51."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 52",
+    0.22,
+    "Aynı ya da çok benzer soru: MSD 5-6 2025-26 S15, 2023-24 S51."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 61",
+    0.08,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "22": [
+   [
+    "MODÜL 5-6 2024-25 · SORU 54",
+    0.24,
+    "Aynı ya da çok benzer soru: MSD 5-6 2023-24 S53, 2022-23 S49, 2021-22 S52, 2020-21 SNone, 2018-19 S49; Blok sınavı 2025-26 S22, 2019-20 S70."
+   ],
+   [
+    "BSD-1 2025-26 · SORU 22",
+    0.24,
+    "Aynı ya da çok benzer soru: MSD 5-6 2024-25 S54, 2023-24 S53, 2022-23 S49, 2021-22 S52, 2020-21 SNone, 2018-19 S49; Blok sınavı 2019-20 S70."
+   ],
+   [
+    "BSD 2025-2026 S22",
+    0.07,
+    ""
+   ]
+  ],
+  "23": [
+   [
+    "MODÜL 5-6 2024-25 · SORU 55",
+    0.83,
+    "Aynı ya da çok benzer soru: MSD 5-6 2025-26 S19, 2022-23 S56, 2021-22 S56, 2020-21 SNone."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 19",
+    0.82,
+    "Aynı ya da çok benzer soru: MSD 5-6 2024-25 S55, 2022-23 S56, 2021-22 S56, 2020-21 SNone."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 47",
+    0.33,
+    "Aynı ya da çok benzer soru: MSD 5-6 2024-25 S75; Blok sınavı 2023-24 S99, 2022-23 S98."
+   ]
+  ],
+  "24": [
+   [
+    "BSD 2019-2020 S71",
+    0.52,
+    ""
+   ],
+   [
+    "BSD 2024-2025 S71",
+    0.51,
+    ""
+   ],
+   [
+    "BSD 2022-2023 S70",
+    0.51,
+    ""
+   ]
+  ],
+  "25": [
+   [
+    "BSD-1 2025-26 · SORU 24",
+    0.19,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2023-2024 S72",
+    0.16,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 57",
+    0.15,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "26": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 20",
+    0.24,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2019-2020 S4",
+    0.23,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 57",
+    0.2,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "27": [
+   [
+    "BSD 2025-2026 S89",
+    0.11,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 7",
+    0.1,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 26",
+    0.09,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "28": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 26",
+    0.09,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2019-2020 S96",
+    0.07,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 12",
+    0.07,
+    "Aynı ya da çok benzer soru: MSD 5-6 2024-25 S50, 2023-24 S54, 2022-23 S53; Blok sınavı 2021-22 S68."
+   ]
+  ],
+  "29": [
+   [
+    "BSD 2021-2022 S12",
+    0.12,
+    ""
+   ],
+   [
+    "BSD 2022-2023 S13",
+    0.09,
+    ""
+   ],
+   [
+    "BSD 2025-2026 S86",
+    0.08,
+    ""
+   ]
+  ],
+  "30": [
+   [
+    "MODÜL 5-6 2024-25 · SORU 7",
+    0.16,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 55",
+    0.1,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2025-2026 S84",
+    0.09,
+    ""
+   ]
+  ],
+  "31": [
+   [
+    "MODÜL 5-6 2024-25 · SORU 27",
+    0.16,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD-1 2025-26 · SORU 37",
+    0.13,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2022-2023 S16",
+    0.12,
+    ""
+   ]
+  ],
+  "32": [
+   [
+    "BSD 2023-2024 S94",
+    0.15,
+    ""
+   ],
+   [
+    "BSD 2022-2023 S93",
+    0.15,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 34",
+    0.15,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "33": [
+   [
+    "BSD 2023-2024 S94",
+    0.15,
+    ""
+   ],
+   [
+    "BSD 2022-2023 S93",
+    0.15,
+    ""
+   ],
+   [
+    "BSD 2021-2022 S11",
+    0.15,
+    ""
+   ]
+  ],
+  "34": [
+   [
+    "MODÜL 5-6 2024-25 · SORU 10",
+    0.1,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 15",
+    0.07,
+    "Aynı ya da çok benzer soru: MSD 5-6 2024-25 S52, 2023-24 S51."
+   ],
+   [
+    "BSD 2019-2020 S61",
+    0.07,
+    ""
+   ]
+  ],
+  "35": [
+   [
+    "BSD 2019-2020 S15",
+    0.13,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 7",
+    0.12,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 53",
+    0.12,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "36": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 72",
+    0.16,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2023-2024 S16",
+    0.16,
+    ""
+   ],
+   [
+    "BSD 2024-2025 S12",
+    0.14,
+    ""
+   ]
+  ],
+  "37": [
+   [
+    "MODÜL 5-6 2024-25 · SORU 17",
+    0.29,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2023-2024 S46",
+    0.21,
+    ""
+   ],
+   [
+    "BSD 2024-2025 S23",
+    0.12,
+    ""
+   ]
+  ],
+  "38": [
+   [
+    "BSD 2022-2023 S17",
+    0.13,
+    ""
+   ],
+   [
+    "BSD 2024-2025 S12",
+    0.13,
+    ""
+   ],
+   [
+    "BSD 2023-2024 S14",
+    0.13,
+    ""
+   ]
+  ],
+  "39": [
+   [
+    "BSD 2019-2020 S11",
+    0.28,
+    ""
+   ],
+   [
+    "BSD-1 2025-26 · SORU 13",
+    0.15,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2021-2022 S52",
+    0.12,
+    ""
+   ]
+  ],
+  "40": [
+   [
+    "MODÜL 5-6 2024-25 · SORU 21",
+    0.34,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 74",
+    0.27,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 32",
+    0.09,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "41": [
+   [
+    "BSD-1 2025-26 · SORU 90",
+    0.46,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 72",
+    0.17,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 36",
+    0.17,
+    "Aynı ya da çok benzer soru: Blok sınavı 2023-24 S35."
+   ]
+  ],
+  "42": [
+   [
+    "BSD 2022-2023 S18",
+    0.15,
+    ""
+   ],
+   [
+    "BSD 2024-2025 S12",
+    0.15,
+    ""
+   ],
+   [
+    "BSD 2023-2024 S14",
+    0.15,
+    ""
+   ]
+  ],
+  "43": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 74",
+    0.17,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 21",
+    0.16,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 31",
+    0.15,
+    "Aynı ya da çok benzer soru: MSD 5-6 2022-23 S33; Blok sınavı 2025-26 S52, 2022-23 S26."
+   ]
+  ],
+  "44": [
+   [
+    "BSD 2024-2025 S17",
+    0.07,
+    ""
+   ],
+   [
+    "BSD 2024-2025 S15",
+    0.06,
+    ""
+   ],
+   [
+    "BSD 2022-2023 S12",
+    0.05,
+    ""
+   ]
+  ],
+  "45": [
+   [
+    "BSD 2024-2025 S18",
+    0.24,
+    ""
+   ],
+   [
+    "BSD 2019-2020 S19",
+    0.17,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 71",
+    0.16,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "46": [
+   [
+    "BSD-1 2025-26 · SORU 91",
+    0.5,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 76",
+    0.39,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2025-2026 S91",
+    0.39,
+    ""
+   ]
+  ],
+  "47": [
+   [
+    "BSD 2024-2025 S18",
+    0.29,
+    ""
+   ],
+   [
+    "BSD 2019-2020 S19",
+    0.21,
+    ""
+   ],
+   [
+    "BSD 2024-2025 S13",
+    0.2,
+    ""
+   ]
+  ],
+  "48": [
+   [
+    "MODÜL 5-6 2024-25 · SORU 27",
+    0.34,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 22",
+    0.23,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 71",
+    0.2,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "49": [
+   [
+    "BSD 2025-2026 S37",
+    0.13,
+    ""
+   ],
+   [
+    "BSD 2024-2025 S100",
+    0.1,
+    ""
+   ],
+   [
+    "BSD 2019-2020 S34",
+    0.1,
+    ""
+   ]
+  ],
+  "50": [
+   [
+    "BSD 2025-2026 S89",
+    0.41,
+    ""
+   ],
+   [
+    "BSD-1 2025-26 · SORU 89",
+    0.35,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 24",
+    0.24,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "51": [
+   [
+    "BSD 2025-2026 S90",
+    0.18,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 70",
+    0.15,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD-1 2025-26 · SORU 90",
+    0.14,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "52": [
+   [
+    "MODÜL 5-6 2024-25 · SORU 67",
+    0.18,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 22",
+    0.1,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2025-2026 S31",
+    0.07,
+    ""
+   ]
+  ],
+  "53": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 26",
+    0.1,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2025-2026 S82",
+    0.09,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 66",
+    0.09,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "54": [
+   [
+    "BSD 2019-2020 S96",
+    0.18,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 4",
+    0.09,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2024-2025 S100",
+    0.07,
+    ""
+   ]
+  ],
+  "55": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 23",
+    0.13,
+    "Aynı ya da çok benzer soru: MSD 5-6 2022-23 S71."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 54",
+    0.05,
+    "Aynı ya da çok benzer soru: MSD 5-6 2023-24 S53, 2022-23 S49, 2021-22 S52, 2020-21 SNone, 2018-19 S49; Blok sınavı 2025-26 S22, 2019-20 S70."
+   ],
+   [
+    "BSD-1 2025-26 · SORU 22",
+    0.05,
+    "Aynı ya da çok benzer soru: MSD 5-6 2024-25 S54, 2023-24 S53, 2022-23 S49, 2021-22 S52, 2020-21 SNone, 2018-19 S49; Blok sınavı 2019-20 S70."
+   ]
+  ],
+  "56": [
+   [
+    "BSD 2024-2025 S96",
+    0.24,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 24",
+    0.23,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 69",
+    0.17,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "57": [
+   [
+    "BSD-1 2025-26 · SORU 37",
+    0.19,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2023-2024 S39",
+    0.16,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 34",
+    0.14,
+    "Aynı ya da çok benzer soru: Blok sınavı 2023-24 S39."
+   ]
+  ],
+  "58": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 27",
+    0.21,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2019-2020 S60",
+    0.2,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 28",
+    0.18,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "59": [
+   [
+    "BSD 2023-2024 S19",
+    0.15,
+    ""
+   ],
+   [
+    "BSD 2019-2020 S17",
+    0.15,
+    ""
+   ],
+   [
+    "BSD 2022-2023 S14",
+    0.12,
+    ""
+   ]
+  ],
+  "60": [
+   [
+    "BSD-1 2025-26 · SORU 13",
+    0.15,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 8",
+    0.15,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 7",
+    0.14,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "61": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 27",
+    0.21,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 7",
+    0.15,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 33",
+    0.14,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "62": [
+   [
+    "BSD 2023-2024 S46",
+    0.22,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 39",
+    0.16,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 38",
+    0.15,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "63": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 35",
+    0.17,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2025-2026 S58",
+    0.09,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 53",
+    0.08,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "64": [
+   [
+    "BSD 2023-2024 S46",
+    0.22,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 41",
+    0.18,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2024-2025 S58",
+    0.15,
+    ""
+   ]
+  ],
+  "65": [
+   [
+    "BSD 2025-2026 S58",
+    0.24,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 38",
+    0.23,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 34",
+    0.21,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "66": [
+   [
+    "BSD 2023-2024 S25",
+    0.33,
+    ""
+   ],
+   [
+    "BSD 2025-2026 S48",
+    0.31,
+    ""
+   ],
+   [
+    "BSD 2024-2025 S22",
+    0.31,
+    ""
+   ]
+  ],
+  "67": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 31",
+    0.53,
+    "Aynı ya da çok benzer soru: MSD 5-6 2022-23 S33; Blok sınavı 2025-26 S52, 2022-23 S26."
+   ],
+   [
+    "BSD 2025-2026 S52",
+    0.35,
+    ""
+   ],
+   [
+    "BSD 2022-2023 S26",
+    0.35,
+    ""
+   ]
+  ],
+  "68": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 32",
+    0.13,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 30",
+    0.09,
+    "Aynı ya da çok benzer soru: MSD 5-6 2021-22 S33."
+   ],
+   [
+    "BSD 2021-2022 S19",
+    0.07,
+    ""
+   ]
+  ],
+  "69": [
+   [
+    "BSD 2021-2022 S80",
+    0.17,
+    ""
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 59",
+    0.15,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 42",
+    0.11,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "70": [
+   [
+    "MODÜL 5-6 2024-25 · SORU 63",
+    0.38,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 64",
+    0.24,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 62",
+    0.23,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "71": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 42",
+    0.21,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2023-2024 S83",
+    0.04,
+    ""
+   ],
+   [
+    "BSD 2022-2023 S82",
+    0.04,
+    ""
+   ]
+  ],
+  "72": [
+   [
+    "MODÜL 5-6 2024-25 · SORU 63",
+    0.29,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 64",
+    0.28,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 39",
+    0.23,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "73": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 42",
+    0.05,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 33",
+    0.05,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2023-2024 S83",
+    0.04,
+    ""
+   ]
+  ],
+  "74": [
+   [
+    "MODÜL 5-6 2024-25 · SORU 63",
+    0.39,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 64",
+    0.32,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2025-26 · SORU 39",
+    0.3,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ]
+  ],
+  "75": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 46",
+    0.39,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2023-2024 S94",
+    0.13,
+    ""
+   ],
+   [
+    "BSD 2022-2023 S93",
+    0.13,
+    ""
+   ]
+  ],
+  "76": [
+   [
+    "MODÜL 5-6 2025-26 · SORU 45",
+    0.23,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "MODÜL 5-6 2024-25 · SORU 65",
+    0.2,
+    "Arşivdeki sınavlarda aynı ya da çok benzer soru bulunmadı."
+   ],
+   [
+    "BSD 2019-2020 S93",
+    0.2,
+    ""
+   ]
+  ]
+ }
+}

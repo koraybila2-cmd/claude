@@ -1,0 +1,465 @@
+=== 1 | 1 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok. Sağlıklı çocuk beslenmesi blok sınavında her yıl ilk 2-3 soruda geliyor (ör. BSD 2024-25 S98, 2025-26 S3).
+E: 1 yaşından küçük bebeğe bal verilmez (bebek botulizmi).
+C yanlıştır. Bir yaşından küçük bebeklere bal verilmez: balda bulunabilen *Clostridium botulinum* sporları bebeğin olgunlaşmamış bağırsağında çoğalıp toksin üretir ve **bebek botulizmi** (kabızlık, emmede zayıflık, hipotoni, solunum yetmezliği) yapar. Kilo alımı yetersiz bebekte enerji yoğunluğu yağ (tereyağı, zeytinyağı) ve besin çeşitliliğiyle artırılır, şekerle ya da balla değil.
+İlk 6 ay yalnız anne sütü yeterlidir (A). Tamamlayıcı beslenme dönemi (6-24 ay) demir, çinko ve A vitamini eksikliğine en duyarlı dönemdir (B). Alerjen besinlere (yumurta, fıstık, balık) küçük miktarla ve tek tek başlanır (D). Hekim bu dönemde beslenme danışmanlığı vermelidir (E).
+
+=== 2 | 1 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok. Ek gıdaya başlama zamanı (6. ay) 2025-26 S1'de çeldirici olarak geçti.
+E: Tamamlayıcı beslenmeye geçişte karar, çocuğun gelişim düzeyine (oturma, baş kontrolü, ilgi) göre verilir.
+B doğru. Tamamlayıcı beslenmeye (yaklaşık 6. ay) geçişte belirleyici olan çocuğun **gelişimsel hazırlığıdır**: başını dik tutması, desteksiz ya da az destekle oturması, dil itme refleksinin kaybolması ve yiyeceğe ilgi göstermesi.
+İlk besinler seçilirken demir, çinko gibi **mikrobesinler çok önemlidir** (A); anne sütünün en çok yetersiz kaldığı ögeler bunlardır. İlk aylarda ek besin genellikle emzirmeden önce ya da aralarında verilir; “emzirildikten sonra verilir” kalıp bir kural değildir (C). Ülkenin geleneksel besinleri ve kültürü dikkate alınır (D). Çocuk bir besini reddettiyse 8-15 kez yeniden denenir; acı sebzeler bir kez reddedildi diye bırakılmaz (E).
+
+=== 3 | 4 | İLK KEZ BU BİÇİMDE SORULDU
+O: Önceki yıllar: 2025-26 S3'te portal-sistemik anastomozlar, S4'te pars descendens duodeni'nin lenf drenajı soruldu (iki arter havzası arasında kalan bölge mantığı aynı).
+E: İkili arteriyel beslenme: pars descendens duodeni (truncus coeliacus + AMS), colon transversum (AMS + AMİ).
+D doğru (II ve III). **Pars descendens duodeni**, truncus coeliacus'un dalı olan a. pancreaticoduodenalis superior (a. gastroduodenalis'ten) ile AMS'nin dalı olan a. pancreaticoduodenalis inferior arasındaki anastomozla beslenir; ön bağırsak ile orta bağırsağın sınırı papilla duodeni major hizasındadır. **Colon transversum**'un sağ üçte ikisi AMS'nin dalı a. colica media, sol üçte biri AMİ'nin dalı a. colica sinistra ile beslenir; ikisi arcus marginalis (Drummond) ve Riolan arkıyla birleşir (orta bağırsak-arka bağırsak sınırı).
+Pars superior duodeni (I) yalnız truncus coeliacus dallarıyla (a. gastroduodenalis, a. supraduodenalis) beslenir. Caecum (IV) yalnız AMS'nin dalı a. ileocolica ile beslenir.
+
+=== 4 | 4 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok. Linea pectinata'nın üstü ve altının farkı 2025-26 S3'te (rectum ve anal kanalın venöz drenajı) soruldu.
+E: Linea pectinata altı (anüs mukozası, dış sfinkter) somatik: n. pudendus (n. rectalis inferior) → ağrıya duyarlı.
+E doğru. Anal kanalın **linea pectinata altındaki** kısmı ektodermden gelir; deri benzeri mukozası ve **m. sphincter ani externus** somatik olarak **n. pudendus**'un dalı n. rectalis inferior ile innerve edilir. Bu yüzden bu bölge ağrıya duyarlıdır (dış hemoroid, anal fissür ağrılıdır).
+Rectum mukozası ve kas tabakası (B, D), m. sphincter ani internus (A) ve taenia coli (C) otonom (visseral) sinirlerle innerve edilir: parasempatik nn. splanchnici pelvici (S2-S4), sempatik plexus hypogastricus. Linea pectinata üstü ağrıya duyarsızdır (iç hemoroid ağrısızdır).
+
+=== 5 | 4 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok. 2025-26 S4'te duodenumun lenf drenajı aynı mantıkla soruldu.
+E: Lenf, organı besleyen arteri izler: caecum → a. ileocolica → AMS çevresindeki (mezenterik superior) düğümler.
+D doğru (yalnız I). Bağırsak lenfi, organı besleyen arterin yanında seyreden düğümlere drene olur. **Caecum** AMS'nin dalı **a. ileocolica** ile beslenir; lenfi ileokolik düğümlerden **a. mesenterica superior çevresindeki** düğümlere gider. Bu yüzden sağ hemikolektomide AMS dalları boyunca lenf diseksiyonu yapılır.
+AMİ çevresindeki düğümler (II) inen ve sigmoid kolon ile üst rektumu, a. iliaca interna çevresi (III) alt rektum ve pelvis organlarını, a. iliaca externa çevresi (IV) alt ekstremite ve karın ön duvarının alt kısmını drene eder.
+
+=== 6 | 1 | BENZER KALIP; TERS HÂLİ HER YIL
+O: Önceki yıllar: Ters hâli (kronik malnütrisyonda en değerli gösterge → yaşa göre boy) MSD 2025-26 S19, 2024-25 S55, 2022-23 S56, 2021-22 S56'da; “boya göre ağırlık düşüklüğü akut malnütrisyonu gösterir” 2025-26 S47'de soruldu.
+E: Yaşı bilinmeden ya da kayıt yokken mevcut zayıflık (akut malnütrisyon) → boya göre ağırlık.
+B doğru. Son iki ayda gelişen zayıflık **akut** malnütrisyondur. Akut kayıpta önce kilo düşer, boy henüz etkilenmez; bu yüzden ağırlığı çocuğun kendi boyuna göre değerlendiren **boya göre ağırlık z-skoru** mevcut zayıflığı (wasting) en iyi gösterir. Yaştan bağımsız olduğu için önceki kayıtlara gerek duymaz.
+Yaşa göre boy (A) uzun süreli, kronik yetersizliği (bodurluk, stunting) gösterir. Baş çevresi (C) özellikle ilk 2 yılda beyin büyümesini izler. Tek başına ağırlık ya da boy (D, E) yaş ve cinsiyete göre referansla karşılaştırılmadan anlam taşımaz.
+
+=== 7 | 3 | AYNI KONUNUN TERS HÂLİ
+O: Önceki yıllar: 2025-26 S51 ve 2024-25 S73'te (2023-24 S73, 2022-23 S73) doğru cevap “dışkıda fekal elastaz-1”. Dışkı pH'ının düşüklüğü karbonhidrat malabsorbsiyonunun bulgusu olarak 2025-26 S48'de soruldu.
+E: Pankreas yetmezliği → fekal elastaz-1, serum tripsinojeni, sekretin testi, ter testi (kistik fibroz). Dışkı pH'ı karbonhidrat malabsorbsiyonu testidir.
+E doğru (kullanılmaz). **Dışkı pH'ı** karbonhidrat malabsorbsiyonunu gösterir: emilmeyen karbonhidratı kolon bakterileri fermente eder, kısa zincirli yağ asitleri oluşur ve dışkı pH'ı 5,5-6'nın altına düşer. Pankreas yetmezliğinin testi değildir.
+Ekzokrin pankreas yetmezliğinde: **fekal elastaz-1** düşüktür (en sık kullanılan dışkı testi; B); **serum (immünreaktif) tripsinojen** düşer (A); sekretin uyarısı sonrası pankreas sıvısı ve enzim çıkışı ölçülür (D); çocuklarda en sık nedeni kistik fibroz olduğu için **ter testi** yapılır (C).
+
+=== 8 | 2 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok. Kwashiorkorda ödem blok sınavı 2025-26 S81'de soruldu.
+E: Ödemli malnütrisyonda (kwashiorkor) ödem kas ve yağ kaybını gizler; ağırlık olduğundan iyi görünür.
+D doğru. Ödemli malnütrisyonda (**kwashiorkor**) dokularda biriken sıvı, kaybedilen kas ve yağın ağırlığını karşılar; çocuğun ağırlığı değişmiyor ya da normal görünür. Bu yüzden ödemli çocukta ağırlık ve ağırlığa dayalı göstergeler malnütrisyonun derecesini **olduğundan hafif** gösterir; üst orta kol çevresi ve klinik bulgular birlikte değerlendirilir. Ödem varlığı tek başına **ağır akut malnütrisyon** ölçütüdür.
+Ağırlığın değişmemesi malnütrisyonu dışlamaz (A). Antropometri yine yapılır, ama dikkatle yorumlanır (B). Tanı tek bir laboratuvar değeriyle konmaz (C). Tedaviyle ödemin çözülmesi sırasında ağırlık önce **düşer**; ödem tedaviye yanıtın göstergesi değildir (E).
+
+=== 9 | 3 | AYNI KONU
+O: Önceki yıllar: Karbonhidrat malabsorbsiyonunun bulguları MSD 2025-26 S48, 2023-24 S76 ve blok sınavı 2025-26 S82'de soruldu.
+E: Sulu, köpüklü, ekşi kokulu ishal + gaz + şişkinlik + pişik (asidik dışkı) → karbonhidrat malabsorbsiyonu.
+A doğru. Emilmeyen karbonhidrat (laktoz, sukroz, fruktoz) ince bağırsakta **ozmotik olarak su çeker** (sulu ishal); kolonda bakterilerce fermente edilip **gaz** (H<sub>2</sub>, CO<sub>2</sub>; şişkinlik, gaz çıkarma) ve **organik asitler** oluşturur. Dışkı asidik olur (pH < 6) ve perianal deriyi tahriş eder: **pişik**. Dışkıda indirgen madde pozitiftir; nefeste hidrojen testi tanı koydurur.
+Yağ malabsorbsiyonu (C) yağlı, kötü kokulu, hacimli, soluk dışkı (steatore) yapar. Protein malabsorbsiyonu (B) ödem ve hipoalbuminemiyle seyreder. Konjenital klor diyaresi (D) doğumdan itibaren ağır sulu ishal ve hipokloremik alkalozla, enterokinaz eksikliği (E) ağır protein malabsorbsiyonu ve ödemle gider.
+
+=== 10 | 2 | 7. KEZ SORULDU; BU KEZ MEKANİZMA
+O: Önceki yıllar: Yeniden beslenme sendromu MSD 2025-26 S49, 2024-25 S72, 2023-24 S74, 2022-23 S72 ve blok sınavı 2025-26 S83, 2023-24 S98, 2022-23 S97'de soruldu (çoğunda “magnezyum yükselir” yanlış şıktı).
+E: Yeniden beslenme sendromu: karbonhidrat → insülin ↑ → fosfat, potasyum, magnezyum hücre içine → hipofosfatemi (en tipik).
+A doğru. Uzun açlıkta vücudun fosfat, potasyum ve magnezyum depoları boşalmıştır ama serum düzeyleri normal görünebilir. Beslenme (özellikle karbonhidrat) başlayınca **insülin salınımı** artar; insülin glukozla birlikte **fosfat, potasyum ve magnezyumu hücre içine** sokar ve glikoliz-ATP yapımı için fosfat tüketilir. Sonuç: **hipofosfatemi** (en tipik), hipokalemi, hipomagnezemi, tiamin eksikliği ve sodyum-su tutulumuna bağlı ödem; kas güçsüzlüğü, aritmi, kalp yetersizliği. Önlem: düşük kaloriyle başlayıp yavaş artırmak, elektrolitleri ve tiamini önceden ve beslenme süresince yerine koymak.
+Glukagon (B) açlık hormonudur. Parathormon (C) ve keton cisimleri (D) bu tablonun mekanizması değildir. Bağırsaktan fosfat emilimi artmaz (E).
+
+=== 11 | 6 | AYNI KONU
+O: Önceki yıllar: Hipovoleminin en tipik özelliği (hücre dışı sıvının azalması) MSD 2025-26 S11'de; hipovolemide renin artışı 2025-26 S9 ve blok sınavı 2025-26 S12-S13'te soruldu.
+E: Hipovolemi: taşikardi, ortostatik hipotansiyon, oligüri, periferik direnç ↑, kuru mukoza, turgor ↓.
+C doğru. Hipovolemide dolaşan kan hacmi azalır; ayağa kalkınca kan bacaklarda göllenir ve kalbe dönüş daha da azalır: **ortostatik hipotansiyon** (ayakta sistolik basınçta ≥ 20 mmHg düşme ya da nabızda ≥ 30/dk artış), baş dönmesi.
+Baroreseptör yanıtıyla **taşikardi** olur (A yanlış). Arter basıncı düşer ya da sempatik yanıtla korunur, artmaz (B). Böbrek tuz ve suyu tuttuğu için idrar **azalır** (D). Sempatik etkinleşme periferik damar direncini **artırır** (E).
+
+=== 12 | 6 | AYNI KONUNUN TERS HÂLİ
+O: Önceki yıllar: “Hipervolemi ile en az ilişkili bulgu → deri turgorunun azalması” MSD 2025-26 S61'de; hipervolemi nedenleri blok sınavı 2024-25 S59'da soruldu.
+E: Hipervolemi: juguler venöz dolgunluk, ödem, ral, kilo artışı, hipertansiyon. Ortostatik hipotansiyon, kuru mukoza, turgor ↓, çökük göz hipovolemidir.
+B doğru. Hipervolemide hücre dışı sıvı ve venöz basınç artar: **juguler venöz dolgunluk**, hepatojuguler reflü, periferik **ödem**, akciğerde ral, hızlı kilo artışı ve hipertansiyon görülür.
+Diğer şıkların hepsi (A, C, D, E) **hipovolemi** bulgularıdır.
+
+=== 13 | 6 | İLK KEZ BU BİÇİMDE SORULDU
+O: Önceki yıllar: Hipervolemiye kompansatuvar yanıt (ANP artışı) MSD 2025-26 S7'de soruldu.
+E: KBH'de hipervolemi = böbreğin sodyum ve su atma kapasitesinin azalması.
+A doğru. Kronik böbrek hastalığında işlev gören nefron sayısı azaldığı için böbrek alınan **sodyumu ve suyu atamaz**; hücre dışı sıvı artar: ödem, kilo artışı, hipertansiyon. Tedavi tuz kısıtlaması ve diüretiktir (ileri evrede kıvrım diüretikleri).
+Gastrointestinal kayıp (B), terleme (C) ve plazma hacminin azalması (D) **hipovolemi** nedenleridir. Böbrekten su geri emiliminin azalması (E) suyun atılımını artırır, hipervolemi yapmaz.
+
+=== 14 | 6 | BLOK SINAVI 2021-22 S58'İN TERS HÂLİ
+O: Önceki yıllar: Blok sınavı 2021-22 S58: “GFR'yi azaltmayan → Bowman kapsülü basıncında azalma.”
+E: GFR'yi düşürenler: afferent daralma, efferent genişleme, Bowman basıncı ↑ (obstrüksiyon), onkotik basınç ↑.
+C doğru. GFR, glomerül kılcalındaki hidrostatik basınç ile Bowman kapsülündeki hidrostatik basınç ve plazma onkotik basıncı arasındaki farka bağlıdır. **Afferent arteriyol daralırsa** glomerüle gelen kan ve kılcal basınç düşer → GFR ve idrar azalır (NSAİİ, sempatik uyarı, kalsinörin inhibitörleri).
+Afferent genişleme (A) ve kılcal hidrostatik basınç artışı (B) GFR'yi artırır. Plazma onkotik basıncının azalması (D) ve Bowman basıncının azalması (E) süzülmeye karşı koyan kuvvetleri azaltır, GFR'yi artırır.
+
+=== 15 | 6 | AYNI BİLGİ
+O: Önceki yıllar: Hipovolemide renin artışı MSD 2025-26 S9 ve blok sınavı 2025-26 S13'te; renin salınımını artıranlar blok sınavı 2023-24 S60'ta soruldu.
+E: Hipovolemide böbreğin yanıtı: renin-anjiyotensin-aldosteron ↑, ADH ↑, sodyum atılımı ↓.
+E doğru. Hipovolemide afferent arteriyoldeki basınç ve maküla densaya gelen sodyum klorür azalır, sempatik uyarı artar: **renin** salınır → anjiyotensin II (efferent daralmayla GFR'yi korur, proksimal sodyum geri emilimini artırır, susama ve ADH salgısı) → **aldosteron** (distal sodyum geri emilimi). Sonuçta idrarla sodyum ve su atılımı azalır.
+Renin ve aldosteron azalmaz, artar (A, B). GFR her durumda artmaz; korunmaya çalışılır ama çoğu kez düşer (C). Sodyum atılımı azalır (D).
+
+=== 16 | 6 | 2025-26 S8'İN TERS HÂLİ
+O: Önceki yıllar: MSD 2025-26 S8: “İdrar çıkışını azaltmayan, artıran → ADH salınımının azalması.”
+E: Susuzluk → plazma ozmolalitesi ↑ → ADH ↑ → toplayıcı kanalda akuaporin-2 → az ve konsantre idrar.
+D doğru. Terleme ve yetersiz sıvı alımı plazma ozmolalitesini yükseltir. Hipotalamustaki ozmoreseptörler bunu algılar ve arka hipofizden **ADH (vazopressin)** salınır. ADH toplayıcı kanal hücrelerinde V2 reseptörü üzerinden **akuaporin-2** kanallarını zara yerleştirir; su geri emilir, **idrar hacmi azalır, ozmolalitesi artar**.
+ANP (A) ve aldosteronun baskılanması (C) sodyum ve su atılımını artırır. ADH azalması (B) seyreltik ve bol idrar yapar. Renin azalması (E) hipovolemide beklenmez.
+
+=== 17 | 1 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok. Akut malnütrisyonda boya göre ağırlık, kroniklikte yaşa göre boy (2025-26 S19, S47) aynı mantığa dayanır.
+E: Beslenme yetersizliğinde sıra: önce kilo → sonra boy → en son baş çevresi.
+C doğru. Beslenme yetersizliğinde vücut önce enerji depolarını harcar: **ağırlık alımı yavaşlar ve durur** (gerekirse kilo kaybı). Yetersizlik uzarsa **boy uzaması yavaşlar** (kronik malnütrisyon, bodurluk). Beyin en son etkilenir; **baş çevresi** en uzun süre korunur.
+Bu yüzden akut yetersizlik boya göre ağırlıkla, kronik yetersizlik yaşa göre boyla izlenir. Diğer sıralamalar (A, B, D, E) yanlıştır.
+
+=== 18 | 2 | İLK KEZ BU BİÇİMDE SORULDU
+O: Önceki yıllar: Raşitizm her yıl soruluyor: profilaksi dozu (MSD 2025-26 S12, 2024-25 S50), klinik (2025-26 S13), biyokimya (2024-25 S54, blok sınavı 2025-26 S22). Metabolizma ilk kez bu biçimde geldi.
+E: D vitamini: deri (UVB) ya da besin → karaciğerde 25-OH D (depo, ölçülen) → böbrekte 1α-hidroksilaz ile 1,25-(OH)<sub>2</sub> D (aktif).
+C doğru. D vitamini yağda çözünür. Deride 7-dehidrokolesterolden UVB ile **kolekalsiferol (D3)** yapılır ya da besinle D2/D3 alınır. Karaciğerde 25-hidroksilasyonla **25-OH D** (dolaşımdaki ve depolanan form; vitamin D düzeyi bununla ölçülür) oluşur. Böbrek proksimal tübülünde **1α-hidroksilaz** ile aktif **1,25-dihidroksi D (kalsitriol)** yapılır; PTH ve düşük fosfat bu enzimi uyarır, FGF-23 baskılar.
+D vitamini suda değil yağda çözünür (A). 25-OH D aktif form değildir (B). Kalsitriol bağırsaktan kalsiyum ve fosfat emilimini **artırır** (D). Esas kaynak deride güneş ışığıyla sentezdir (E).
+
+=== 19 | 3 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok. İshal tanımları (akut ishal 2025-26 S17; persistan ishal 2024-25 S53 ve dört sınav daha) soruldu.
+E: Doğumdan hemen sonra başlayan, sürekli ishal + kilo alamama → konjenital ishal (konjenital klor ishali, glukoz-galaktoz malabsorbsiyonu, mikrovillus inklüzyon hastalığı).
+D doğru. Doğumdan hemen sonra başlayan ve süren ishal, **doğuştan** bir sindirim-emilim ya da epitel bozukluğunu düşündürür: **konjenital klor ishali**, **konjenital sodyum ishali**, **glukoz-galaktoz malabsorbsiyonu**, konjenital laktaz eksikliği, **mikrovillus inklüzyon hastalığı**, tufting enteropatisi. Bu bebekler büyüme geriliği ve ağır sıvı-elektrolit bozukluklarıyla gelir.
+Oyun çocuğu ishali (A) 1-5 yaş arasında, büyümesi normal çocukta görülür. Antibiyotiğe bağlı ishal (B), viral gastroenterit (C) ve besin zehirlenmesi (E) akut ve geçici tablolardır.
+
+=== 20 | 1 | AYNI BİLGİ
+O: Önceki yıllar: “Boya göre ağırlık düşüklüğü kronik malnütrisyonun göstergesidir” ifadesi MSD 2025-26 S47, 2024-25 S75 ve blok sınavı 2023-24 S99, 2022-23 S98'de yanlış ifade olarak soruldu.
+E: Boya göre ağırlık (Waterlow, %) → akut malnütrisyon; yaşa göre boy → kronik malnütrisyon.
+C doğru. Çocuğun ağırlığı **aynı boydaki** çocukların ortanca (50. persentil) ağırlığıyla karşılaştırılıyor: bu **boya göre ağırlık** yüzdesidir (Waterlow). Boya göre ağırlık mevcut zayıflığı, yani **akut malnütrisyonu** gösterir. Waterlow'a göre %90 üstü normal, %80-89 hafif, %70-79 **orta** (bu çocuk %75), %70 altı ağır.
+Yaşa göre ağırlık (A; Gomez) akut ve kronik ayrımı yapamaz. Yaşa göre boy (B, D) kronik malnütrisyonu gösterir. Boya göre ağırlık kronik değil akut malnütrisyonun göstergesidir (E).
+
+=== 21 | 3 | AYNI KONU, BU KEZ ORTA DERECE
+O: Önceki yıllar: Dehidratasyon derecelendirmesi MSD 2025-26 S15, 2024-25 S52 ve 2023-24 S51'de soruldu; hepsinde cevap ağır dehidratasyondu.
+E: Kilo kaybı / ağırlık: < %3-5 hafif, %6-9 orta (kuru mukoza, çökük göz, uzamış kapiller dolum, huzursuz), ≥ %10 ağır (letarji, hipotansiyon, şok).
+C doğru. Ağırlık kaybı 700 g / 10 kg = **%7**; bulgular da (kuru mukoza, hafif çökük gözler, uzamış kapiller dolum, hafif azalmış turgor, huzursuz ama bilinci açık, kan basıncı normal) **orta dehidratasyonla (%6-9)** uyumludur. Tedavi ağızdan rehidratasyon sıvısıyla (ORS) 4 saatte yaklaşık 50-100 mL/kg.
+Hafif dehidratasyonda (B) bulgular belirgin değildir; ağır dehidratasyonda (D) bilinç bulanıklığı, letarji, zayıf nabız, hipotansiyon ve şok görülür. Septik şok (E) için kanıt yoktur.
+
+=== 22 | 2 | 8. KEZ SORULDU
+O: Önceki yıllar: Ters hâli (“biyokimyasal bulgusu olmayan → düşük PTH”) MSD 2024-25 S54, 2023-24 S53, 2022-23 S49, 2021-22 S52, 2018-19 S49 ve blok sınavı 2025-26 S22, 2019-20 S70'te soruldu.
+E: D vitamini eksikliği raşitizmi: Ca normal ya da düşük, P düşük, ALP yüksek, PTH yüksek, 25-OH D düşük.
+B doğru. D vitamini eksikliğinde bağırsaktan kalsiyum emilimi azalır; kalsiyumu korumak için **PTH yükselir** (sekonder hiperparatiroidi). PTH kemikten kalsiyum çeker ve böbrekten **fosfatı attırır**: **fosfor düşer**. Mineralize olamayan kemikte osteoblast etkinliği arttığı için **alkalen fosfataz yükselir**. Serum kalsiyumu çoğunlukla normal ya da hafif düşüktür.
+Bebekte kraniotabes (kafatası kemiklerinde yumuşaklık), el bileklerinde genişleme ve raşitik rozari (kosta-kondral bileşkelerde şişlik) klasik bulgulardır. Diğer şıklardaki düşük PTH, yüksek fosfor ve düşük ALP raşitizmle uyumsuzdur.
+
+=== 23 | 1 | AYNI SORU (5. KEZ)
+O: Önceki yıllar: Aynı soru MSD 2025-26 S19, 2024-25 S55, 2022-23 S56, 2021-22 S56'da soruldu.
+E: Kronik malnütrisyon (bodurluk) → yaşa göre boy z-skoru.
+C doğru. Uzun süreli beslenme yetersizliği boy uzamasını yavaşlatır (bodurluk, stunting); bunu en iyi **yaşa göre boy z-skoru** gösterir. −2'nin altı bodurluk, −3'ün altı ağır bodurluktur.
+Boya göre ağırlık (B) akut malnütrisyonu (zayıflık, wasting), yaşa göre ağırlık (A) ikisinin karışımını gösterir. Baş çevresi (D) beyin büyümesini izler; karın çevresi (E) çocuk malnütrisyonunda kullanılmaz.
+
+=== 24 | 1 | AYNI KALIP (7. KEZ)
+O: Önceki yıllar: Aynı hesap MSD 2025-26 S18 (cevap −2), 2023-24 S55, 2021-22 S55 ve blok sınavı 2024-25 S71, 2022-23 S70, 2019-20 S71'de soruldu.
+E: z-skoru = (ölçülen − referans ortalama) / standart sapma.
+D doğru: +1. **z-skoru = (ölçülen değer − referans ortalaması) / referans standart sapması** = (82 − 80) / 2 = **+1**.
+Yorum: −2 ile +2 arası normaldir; −2'nin altı düşük (yaşa göre boyda bodurluk), −3'ün altı ağırdır. Bu çocuğun boyu yaşıtlarının ortalamasının bir standart sapma üstündedir, yani normaldir.
+
+=== 25 | 4 | İLK KEZ SORULDU
+O: Önceki yıllar: Paneth hücresinin yeri (kript tabanı; villus ucunda değil) blok sınavı 2025-26 S24'te, kalın bağırsak bezlerinde bulunmadığı blok sınavı 2021-22 S70'te, hücre-görev eşleştirmesi MSD 2025-26 S21'de soruldu.
+E: Paneth hücresi: ince bağırsak kript tabanında; lizozim, defensin → antimikrobiyal savunma ve kök hücre nişi.
+E doğru. **Paneth hücreleri** ince bağırsak kriptlerinin tabanında bulunur; asidofilik granüllerinde **lizozim, α-defensinler (kriptidinler) ve fosfolipaz A2** vardır. Bu maddeler kript lümenini mikroplara karşı korur ve **bağırsak mikrobiyotasının dengesini** düzenler; ayrıca kript tabanındaki kök hücrelere destek olur. Sayıları azalırsa antimikrobiyal savunma zayıflar (Crohn hastalığıyla ilişkili).
+Mukusu goblet hücreleri yapar (A). Brunner bezleri duodenumun submukozasındadır ve Paneth hücreleriyle ilgisi yoktur (B). Kas tabakaları (C) ve emilim yüzeyi (D; enterositler, villus, mikrovillus) Paneth hücresine bağlı değildir.
+
+=== 26 | 4 | BENZER BİLGİ
+O: Önceki yıllar: “Duodenuma özgü yapı → Brunner bezleri” MSD 2025-26 S20'de; ince bağırsak özellikleri 2024-25 S57 ve blok sınavı 2019-20 S4, 2021-22 S3, 2022-23 S3'te soruldu.
+E: Duodenum: submukozada Brunner bezleri. Jejunum: en belirgin plika sirkülarisler, uzun villuslar. İleum: Peyer plakları. Kolon: tenya koli, haustra, villus ve Paneth yok.
+C doğru. **Duodenumun** submukozasındaki **Brunner bezleri** bikarbonattan zengin alkali mukus salgılayarak mideden gelen asidik kimusu nötralize eder. **Jejunumda** plika sirkülarisler en yüksek ve sık, villuslar uzundur: emilim yüzeyi en geniştir. **İleumda** lamina propria ve submukozada büyük lenf follikülü kümeleri, yani **Peyer plakları** bulunur.
+Diğer eşleştirmeler (A, B) yer değiştirmiştir. Tenya koli ve haustra (D) kalın bağırsağa aittir. Üç bölümün histolojisi aynı değildir (E).
+
+=== 27 | 9 | İLK KEZ SORULDU
+O: Önceki yıllar: Kreatininin geç bulgu olması (nefronların yarısı kaybedilmeden yükselmez) MSD 2025-26 S60 ve blok sınavı 2025-26 S85'te soruldu.
+E: Kreatinin kas kütlesine bağlıdır: yaşlı, kadın, kaşektik hastada normal görünen kreatinin düşük GFR'yi gizler → eGFR formülleri yaş ve cinsiyeti hesaba katar.
+C doğru. Kreatinin kas metabolizmasının ürünüdür; günlük yapımı **kas kütlesiyle** orantılıdır. Yaşlı kadında kas kütlesi azdır, kreatinin yapımı düşüktür; bu yüzden aynı serum kreatinini (1,2 mg/dL) daha düşük bir GFR'ye karşılık gelir. eGFR formülleri (CKD-EPI, MDRD) yaş ve cinsiyeti bu nedenle içerir. Yaşlı ve zayıf hastada “normal” kreatinin böbrek yetersizliğini gizleyebilir; ilaç dozları eGFR'ye göre ayarlanır.
+Tübüler kreatinin sekresyonu yaşlıda artmaz (A); genç erkekte hiperfiltrasyon yoktur (B). Kreatinin karaciğerde yıkılmaz (D) ve bağırsaktan geri emilmez (E).
+
+=== 28 | 9 | İLK KEZ BU BİÇİMDE SORULDU
+O: Önceki yıllar: Eritropoetin direncinin nedenleri MSD 2024-25 S30, 2019-20 S9 ve blok sınavı 2022-23 S17'de soruldu.
+E: KBH anemisi: normokrom normositer, en önemli neden eritropoetin yapımının azalması. Tedavi: demir + eritropoez uyarıcı ajan.
+A doğru. Böbrek peritübüler interstisyel hücreleri **eritropoetin** yapar; KBH'de bu yapım azalır ve **normokrom normositer** anemi gelişir (GFR 30-45'in altında belirginleşir). Katkıda bulunanlar: demir eksikliği ve kullanımının bozulması (hepsidin artışı), eritrosit ömrünün kısalması, kan kaybı (diyaliz, gastrointestinal), folat ve B12 eksikliği, hiperparatiroidiye bağlı kemik iliği fibrozu. Tedavi: önce demir depolarının doldurulması, sonra eritropoez uyarıcı ajanlar (rekombinant eritropoetin, darbepoetin); hedef hemoglobin 10-11,5 g/dL.
+Talasemi (B), B12 eksikliği (C), hemoliz (D) ve alüminyum birikimi (E) KBH anemisinin temel nedeni değildir.
+
+=== 29 | 9 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok. Diyabetik nefropatinin evreleri MSD 2024-25 S13'te, patogenezi 2025-26 S53, S63 ve blok sınavı 2023-24 S12, 2025-26 S86'da soruldu.
+E: Diyabetli hastada biyopsi düşündüren “kırmızı bayraklar”: tip 1'de < 5 yıl, retinopati yokluğu, aktif idrar sedimenti, hızla artan proteinüri, ani nefrotik sendrom, RAS blokajıyla eGFR'de > %30 düşüş, hızlı GFR kaybı.
+E doğru (kırmızı bayrak değildir). Uzun süreli diyabet (15 yıl) ve **retinopati varlığı**, böbrek hastalığının **diyabete bağlı** olduğunu destekler; çünkü ikisi de mikrovasküler komplikasyondur ve genellikle birlikte ilerler.
+Diyabetik olmayan böbrek hastalığını (glomerülonefrit gibi) düşündüren ve biyopsiyi gerektiren durumlar: tip 1 diyabette sürenin 5 yıldan kısa olması (A), idrarda **eritrosit silendiri ve dismorfik eritrosit** (aktif nefritik sediment; B), RAS blokajından sonra eGFR'de > %30 düşüş (renal arter darlığı; C), hızla artan proteinüri ya da ani nefrotik sendrom (D), retinopatinin olmaması ve hızlı GFR kaybı.
+
+=== 30 | 9 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok. Türkiye'de KBH prevalansı (%15,7, CREDIT çalışması) MSD 2025-26 S55'te soruldu.
+E: Türkiye'de evre 5 KBH (diyaliz ve nakil) en sık nedenleri: 1. diyabet, 2. hipertansiyon, 3. glomerülonefrit.
+C doğru. Türk Nefroloji Derneği kayıt sistemine göre Türkiye'de yeni başlayan ve prevalan evre 5 KBH hastalarında en sık neden **diabetes mellitustur** (yaklaşık %35-40); ardından **hipertansiyon** (yaklaşık %25) ve glomerülonefritler gelir. Dünyada da sıralama aynıdır.
+Polikistik böbrek hastalığı (D) ve taş hastalığı (E) daha az sıktır.
+
+=== 31 | 9 | İLK KEZ SORULDU
+O: Önceki yıllar: Diyabetik nefropati patogenezi (AGE, RAS) MSD 2025-26 S53, S63 ve blok sınavı 2023-24 S12'de soruldu.
+E: Diyabetik nefropatide elektron mikroskobunda en erken değişiklik: glomerüler bazal membran kalınlaşması. Işık mikroskobunda tipik: Kimmelstiel-Wilson nodülleri.
+B doğru. Hiperglisemi glikasyonla tip IV kollajen ve matriks yapımını artırır; **glomerüler bazal membran kalınlaşması**, diyabetin başlangıcından birkaç yıl sonra, belirti ve albüminüri olmadan, ancak **elektron mikroskobuyla** saptanabilen en erken yapısal değişikliktir. Ardından **mezangiyal matriks genişlemesi**, diffüz glomeruloskleroz ve nodüler (**Kimmelstiel-Wilson**) skleroz, afferent ve efferent arteriyollerde hiyalinoz gelişir.
+Fokal ve global glomeruloskleroz (A, C), interstisyel fibroz (D) ve arterioskleroz (E) geç dönem değişiklikleridir.
+
+=== 32 | 9 | İLK KEZ BU BİÇİMDE SORULDU
+O: Önceki yıllar: KBH progresyonunu yavaşlatan tedaviler MSD 2024-25 S9, S15, 2023-24 S7, 2022-23 S6'da; diyabetik nefropatide ACE inhibitörü tercihinin nedeni 2025-26 S33 ve blok sınavı 2024-25 S57'de soruldu.
+E: Proteinürik KBH + HT: tek bir RAS blokeri (ACEİ ya da ARB), en yüksek tolere edilen doz; ACEİ + ARB birlikte verilmez; tuz < 5 g; hedef sistolik < 120-130.
+A doğru. Proteinürisi olan KBH'de ACE inhibitörü ya da ARB, efferent arteriyolü gevşetip glomerül içi basıncı ve proteinüriyi azaltır, hastalığın ilerlemesini yavaşlatır. **Tek** bir RAS ajanı en yüksek tolere edilen dozda kullanılır.
+**ACE inhibitörü ve ARB'nin birlikte** kullanımı (B) hiperkalemi ve akut böbrek hasarını artırdığı, ek yarar sağlamadığı için önerilmez. RAS inhibitörleri KBH'de kontrendike değil, tam tersine tercih edilir (C). Tuz kısıtlaması (günde < 5 g tuz) önerilir (D). Hedef kan basıncı < 160/100 değil; sistolik < 120-130 mmHg'dir (E).
+
+=== 33 | 9 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok. Beyaz önlük hipertansiyonu MSD 2025-26 S62'de soruldu.
+E: Akıllı saat ve manşonsuz cihazlar doğrulanmamıştır: tanı ve tedavi kararında kullanılmaz. Ev ölçümü doğrulanmış manşonlu cihazla yapılır.
+E doğru. AHA/ACC 2017 rehberine göre ev ölçümü **doğrulanmış (valide), üst koldan manşonlu** cihazlarla yapılmalıdır. Akıllı saatler, bileklikler ve manşonsuz (cuffless) cihazların doğruluğu kanıtlanmamıştır; **klinik tanı ve takip için kullanılmamalıdır**.
+Ev ya da ambulatuvar ölçüme eşdeğer değildir (A, D). Yalnız gece kullanım (B) ya da ilaç içme kararının bu ölçüme göre verilmesi (C) önerilmez.
+
+=== 34 | 9 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok.
+E: Guyton: uzun dönem kan basıncını böbreğin tuz-su atma kapasitesi (basınç natriürezi) belirler; baroreseptörler kısa dönem düzenler.
+B doğru. Guyton'un modeline göre arter basıncı yükselince böbrek daha çok sodyum ve su atar (**basınç natriürezi**); hacim azalır ve basınç eski düzeyine döner. Bu mekanizmanın kazancı “sonsuz”dur: günler-yıllar boyunca kan basıncını, **böbreğin tuz ve su atma kapasitesinin** ayarlandığı nokta belirler. Hipertansiyonun hemen her biçiminde bu eğri sağa kaymıştır (böbrek aynı tuzu atmak için daha yüksek basınca gereksinim duyar).
+Baroreseptörler (A) ve kemoreseptörler (D) saniyeler-dakikalar içindeki kısa dönem düzenlemeyi yapar ve günler içinde yeni düzeye uyum sağlar (reset). Kalp hızı (C) ve ANP (E) tek başına uzun dönem düzeyi belirlemez.
+
+=== 35 | 9 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok.
+E: İleri KBH'de hipoglisemi: insülin klirensi ↓ (insülinin üçte biri böbrekte yıkılır) + renal glukoneogenez ↓ + bazı ilaçların (sülfonilüre) birikmesi.
+A doğru. Böbrek dolaşımdaki **insülinin yaklaşık üçte birini** temizler; GFR düştükçe hem endojen hem dışarıdan verilen insülinin yarı ömrü uzar. Ayrıca böbrek, açlıkta glukoz yapımının önemli bir kaynağıdır (**renal glukoneogenez**); bu da azalır. Böbrekten atılan sülfonilürelerin (glibenklamid) birikmesi ve beslenme bozukluğu riski artırır. Bu yüzden ileri KBH'de insülin dozu azaltılır, sülfonilürelerden kaçınılır.
+Glukagon ve kortizol (B, E) kan şekerini yükseltir. HbA1c'nin yalancı değişmesi (C) hipoglisemiye yol açmaz (KBH'de anemi ve eritropoetin tedavisiyle HbA1c yalancı düşük çıkabilir). Bağırsaktan glukoz emilimi artmaz (D).
+
+=== 36 | 9 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok. Prerenal ABH bulguları MSD 2025-26 S72 ve blok sınavı 2025-26 S90'da soruldu.
+E: ABH mi KBH mi? En değerli bilgi: önceki kreatinin değerleri. Diğer ipuçları: küçük böbrekler (US), anemi, hiperfosfatemi, renal osteodistrofi KBH'yi düşündürür.
+E doğru. Kreatinin yüksekliğinin ne zamandır var olduğunu en güvenilir biçimde **hastanın önceki kreatinin değerleri** gösterir: birkaç gün içinde yükselmişse akut böbrek hasarı, aylar-yıllardır yüksekse kronik böbrek hastalığıdır. Önceki değer yoksa ultrasonda **küçük, ince parankimli böbrekler**, normokrom normositer anemi, hiperfosfatemi ve kemik bulguları kronikliği destekler (diyabetik nefropati ve amiloidozda böbrekler küçülmeyebilir).
+Üre/kreatinin oranı (A) prerenal nedeni düşündürür ama süreyi göstermez. Yaş (B), kan basıncı (C) ve idrar dansitesi (D) ayırt edici değildir.
+
+=== 37 | 9 | AYNI BİLGİ
+O: Önceki yıllar: “Ek hastalığı olmayan hipertansif hastada beta blokerle başlanır” yanlış ifadesi MSD 2024-25 S17'de soruldu.
+E: Komplikasyonsuz hipertansiyonda birinci basamak dört grup: ACEİ, ARB, tiyazid (tiyazid benzeri), kalsiyum kanal blokeri. Beta bloker birinci basamak değildir.
+D doğru (birinci basamak değildir). Güncel rehberlere göre ek hastalığı olmayan hipertansif hastada birinci basamak dört grup vardır: **ACE inhibitörleri, ARB'ler, tiyazid ve tiyazid benzeri diüretikler (klortalidon, indapamid) ve kalsiyum kanal blokerleri**. Çoğu hastada iki ilacın düşük dozlu tek tablet birleşimiyle başlanır (ör. ARB + KKB).
+**Beta blokerler** inme ve kardiyovasküler olayları önlemede bu gruplardan zayıf kaldığı için birinci basamak değildir; ancak koroner hastalık, kalp yetersizliği, atriyal fibrilasyon ya da gebelik gibi **zorlayıcı endikasyon** varsa seçilir.
+
+=== 38 | 9 | AYNI KONU (KBH TANIMI HER YIL)
+O: Önceki yıllar: KBH tanımı blok sınavında her yıl soruldu (ör. “KBH tanımına uymayan” BSD 2024-25 S12); KBH'de kreatininin geç bulgu olması 2025-26 S60'ta.
+E: KBH = > 3 ay süren böbrek hasarı belirteci (albüminüri ≥ 30 mg/g, sediment, görüntüleme, biyopsi) ya da eGFR < 60.
+D doğru. KBH tanımı (KDIGO): **3 aydan uzun süren** böbrek yapı ya da işlev bozukluğu, yani ya **eGFR < 60 mL/dk/1,73 m²** ya da bir **böbrek hasarı belirteci**: **albüminüri (idrar albümin/kreatinin oranı ≥ 30 mg/g)**, idrar sediment bozukluğu, tübüler bozukluk, histolojik ya da görüntüleme anomalisi, böbrek nakli öyküsü. 4 aydır ACR 300 mg/g (A3, ağır artmış albüminüri) tek başına KBH tanısı koydurur.
+eGFR 50'nin yalnız 2 hafta sürmesi (A) 3 ay ölçütünü karşılamaz; akut böbrek hasarı olabilir. Hipertansiyon öyküsü (B) ve anemi (C) tanı ölçütü değildir. Tek bir spot idrarda protein 1+ (E) tekrarlanmadan ve süresi bilinmeden tanı koydurmaz.
+
+=== 39 | 6 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok. Proksimal tübülde geri emilen maddeler blok sınavı 2019-20 S11'de soruldu.
+E: Fosfatüri yapan iki hormon: PTH ve FGF-23 (proksimal tübülde NaPi-2a ve 2c taşıyıcılarını azaltır; FGF-23 ayrıca 1α-hidroksilazı baskılar).
+A doğru. **FGF-23** kemik osteositlerinden salınır; Klotho eşliğinde proksimal tübülde sodyum-fosfat ko-transporterlerini (NaPi-2a, 2c) azaltarak **fosfatüri** yapar ve 1α-hidroksilazı baskılayarak kalsitriolü düşürür. KBH'de fosfat atılamadığı için FGF-23 çok erken yükselir (sekonder hiperparatiroididen önce). PTH da aynı yoldan fosfatüri yapar.
+Eritropoetin (B) eritrosit yapımını uyarır. Kalsitriol (C) bağırsaktan ve böbrekten fosfat emilimini artırır. ADH (D) suyun, insülin (E) glukozun ve fosfatın hücreye girişini etkiler; fosfatüri yapmaz.
+
+=== 40 | 6 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok. Nefron segmentleri MSD 2024-25 S21 (sodyumun en çok geri emildiği segmentler) ve 2025-26 S74'te (ADH ile su geçirgenliği) soruldu.
+E: Maküla densa: Henle çıkan kalın kolunun sonu ile distal tübülün başlangıcında, kendi glomerülünün vasküler kutbuna değen hücreler; NaCl'yi algılar (tübüloglomerüler geri bildirim, renin).
+C doğru. **Maküla densa**, Henle kulpunun çıkan kalın kolunun son kısmı ile **distal tübülün başlangıcında**, nefronun kendi glomerülünün afferent ve efferent arteriyolleri arasına değdiği yerde bulunan yoğun, sık dizili epitel hücreleridir. Tübül sıvısındaki **NaCl'yi** NKCC2 taşıyıcısıyla algılar:
+- NaCl **artarsa** adenozin salınır → afferent arteriyol daralır → GFR düşer (**tübüloglomerüler geri bildirim**).
+- NaCl **azalırsa** prostaglandin ve NO aracılığıyla afferent genişler ve jukstaglomerüler hücrelerden **renin** salınır.
+Jukstaglomerüler aparatın üç bileşeni: maküla densa, afferent arteriyol duvarındaki **jukstaglomerüler (granüler) hücreler** (renin) ve **ekstraglomerüler mezangiyal hücreler** (Lacis hücreleri).
+
+=== 41 | 7 | AYNI BİLGİ
+O: Önceki yıllar: Blok sınavı 2025-26 S90: FeNa < %1, idrar osmolaritesi > 500, hiyalen silendir → prerenal azotemi. Prerenal bulgular MSD 2025-26 S72'de soruldu.
+E: Akut böbrek yetmezliğinin en sık nedeni prerenal azotemi (toplumda); hastanede en sık renal neden akut tübüler nekroz.
+D doğru. Akut böbrek yetmezliğinin en sık nedeni **prerenal azotemidir** (olguların yaklaşık %55-60'ı): hipovolemi (kusma, ishal, kanama, diüretik), kalp yetersizliği, siroz, sepsis, NSAİİ ve ACEİ/ARB gibi ilaçlarla böbrek perfüzyonunun azalması. Tübüller sağlam olduğu için perfüzyon düzelince hızla geri döner; uzarsa akut tübüler nekroza ilerler.
+Renal nedenler içinde en sık olan **akut tübüler nekrozdur** (C; iskemik ya da toksik). Akut glomerülonefrit (A), interstisyel nefrit (B) ve postrenal obstrüksiyon (E; yaklaşık %5-10) daha seyrektir.
+
+=== 42 | 7 | İLK KEZ BU BİÇİMDE SORULDU
+O: Önceki yıllar: Kontrast madde nefropatisinde risk ve korunma MSD 2025-26 S75 ve blok sınavı 2025-26 S38'de soruldu.
+E: ABH risk etkenleri: ileri yaş, diyabet, KBH, kalp yetersizliği, hipovolemi, sepsis, hipotansiyon, nefrotoksik ilaçlar. Riski olmayan genç hastada kontrastın riski düşüktür.
+A doğru (risk en az). Kontrastla ilişkili akut böbrek hasarı riski, böbrek işlevi normal ve ek hastalığı olmayan **genç** hastada çok düşüktür.
+Diğer hastaların her birinde birden çok risk etkeni vardır: KBH + sepsis + hipotansiyon (B), diyabet + ileri yaş (C), nefrotik sendrom + hipovolemi (D), kalp yetersizliği + ileri yaş (E; azalmış böbrek perfüzyonu).
+
+=== 43 | 10 | BENZER BİLGİ
+O: Önceki yıllar: Amilorid diüretik eşleştirmelerinde (MSD 2025-26 S31, 2024-25 S31) çeldirici olarak geçti; potasyum tutucu diüretikler her yıl blok sınavı diüretik sorularında yer alıyor.
+E: Amilorid, triamteren: toplayıcı kanalda ENaC blokajı → hiperkalemi, metabolik asidoz. Spironolakton, eplerenon: aldosteron reseptörü blokajı.
+B doğru. Amilorid ve triamteren toplayıcı tübülün esas (principal) hücrelerinde **epitelyal sodyum kanalını (ENaC)** bloke eder. Sodyum geri emilmeyince lümen daha az negatif olur; potasyum (ROMK ile) ve H⁺ salgılanması azalır: **hiperkalemi** ve hafif metabolik asidoz. Potasyum tutucu diüretik olarak tiyazid ve kıvrım diüretiklerinin yol açtığı hipokalemiyi önlemek için birlikte verilir; lityuma bağlı nefrojenik diabetes insipidusta da kullanılır.
+NCC inhibisyonu (A) tiyazidlerin, NKCC2 inhibisyonu (E) kıvrım diüretiklerinin mekanizmasıdır; ikisi hipokalemi yapar. ADH antagonizmi (C) vaptanlara aittir. Amiloridin asidozu H⁺ pompasının doğrudan inhibisyonuyla değil, lümen elektriksel gradyanının azalmasıyla olur (D).
+
+=== 44 | 7 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok. Diyaliz endikasyonları MSD 2025-26 S69, S76, 2024-25 S24 ve blok sınavlarında dört yıl soruldu.
+E: Hemodiyalizde küçük moleküller (üre, kreatinin, potasyum) difüzyonla, sıvı ultrafiltrasyonla, orta moleküller konveksiyonla (hemodiyafiltrasyon) uzaklaştırılır.
+E doğru. Hemodiyalizde kan ile diyalizat yarı geçirgen bir zarın iki yanında **ters yönde** akar. Üre, kreatinin ve potasyum gibi küçük moleküller derişimin yüksek olduğu kandan düşük olduğu diyalizata **difüzyonla** geçer; ters akım derişim farkını zar boyunca yüksek tutar. Bikarbonat ters yönde, diyalizattan kana geçer.
+**Ultrafiltrasyon** (A) hidrostatik basınç farkıyla **suyun** uzaklaştırılmasıdır. **Konveksiyon** (B) suyla birlikte sürüklenen çözünenlerin taşınmasıdır; orta büyüklükteki moleküller (β2-mikroglobulin) için önemlidir (hemofiltrasyon). Ozmoz (C) periton diyalizinde glukozlu solüsyonla su çekilmesinde rol alır. Aktif transport (D) diyalizde yoktur.
+
+=== 45 | 8 | İLK KEZ ANTİ-PLA2R İLE SORULDU
+O: Önceki yıllar: Membranöz nefropati (bazal membran kalınlaşması, ikincil nedenler) MSD 2024-25 S22'de soruldu.
+E: Erişkinde nefrotik sendrom + anti-PLA2R pozitif → primer membranöz nefropati (subepitelyal depozit, “dikenler”).
+A doğru. **Anti-fosfolipaz A2 reseptör antikoru**, podosit yüzeyindeki PLA2R'ye bağlanır ve subepitelyal immün kompleks oluşturur; **primer membranöz nefropatinin** (olguların ~%70-80'i) özgül belirtecidir. Erişkinde (özellikle 40-60 yaş) nefrotik sendromun en sık nedenlerindendir. Antikor titresi tanı, aktivite ve tedaviye yanıtın izlenmesinde kullanılır; yüksek titre biyopsiye gerek bırakmayabilir. İkincil nedenler (malignite, hepatit B, lupus, ilaçlar) dışlanmalıdır. Renal ven trombozu riski en yüksek glomerül hastalığıdır.
+MPGN (B), C3 glomerülopati (C) ve IgA nefropatisi (E) nefritik özellik taşır ve PLA2R ile ilişkili değildir. FSGS (D) anti-PLA2R negatiftir.
+
+=== 46 | 7 | AYNI KONU (KAYNAK NOTU)
+O: Önceki yıllar: Acil diyaliz endikasyonları MSD 2025-26 S76 (“kreatinin > 5 endikasyon değildir”), 2024-25 S24 (“K > 6 ve aritmi” endikasyondur) ve blok sınavı 2025-26 S91 (“dirençli hiperfosfatemi” endikasyon değildir), 2024-25, 2021-22, 2019-20'de soruldu.
+E: Acil diyaliz “AEIOU”: dirençli Asidoz, Elektrolit (dirençli hiperkalemi), Intoksikasyon (diyalizle atılan), Overload (dirençli sıvı yüklenmesi, akciğer ödemi), Üremi (perikardit, ensefalopati, kanama).
+E doğru (anahtara göre). Akut böbrek yetmezliğinde diyaliz için tek bir kreatinin eşiği (A) yoktur; masif proteinüri (B), tek başına oligüri (C) ve dirençli hiperfosfatemi (D; blok sınavı 2025-26'da “endikasyon değildir” olarak soruldu) acil endikasyon değildir. Anahtar, şıklar arasında üremik belirtiye karşılık gelen **tedaviye dirençli üremik kaşıntıyı** doğru saymıştır.
+Kaynak notu: Klasik acil endikasyonlar “AEIOU” ile özetlenir: dirençli metabolik **asidoz**, dirençli **hiperkalemi** (K > 6,5 ya da EKG değişikliği), diyalizle atılan ilaçla **zehirlenme** (lityum, metanol, etilen glikol, salisilat), diüretiğe dirençli **sıvı yüklenmesi** (akciğer ödemi) ve **üremik komplikasyonlar** (perikardit, ensefalopati, kanama). Kaşıntı üremik bir belirtidir ama tek başına çoğu kaynakta “acil” değil, diyalize başlama kararını destekleyen bir bulgudur.
+
+=== 47 | 8 | İLK KEZ SORULDU
+O: Önceki yıllar: Nefrotik sendrom vakaları blok sınavı 2024-25 S18 (genç erkek, minimal değişiklik) ve 2019-20 S19'da soruldu.
+E: Genç-orta yaş, obez, hipertansif, kreatinin hafif yüksek, hematürisiz nefrotik sendrom, kompleman normal → FSGS (obeziteye, HIV'e, eroine ikincil olabilir).
+C doğru. **Fokal segmental glomeruloskleroz**, erişkinde nefrotik sendromun en sık nedenlerindendir (özellikle siyah ırk). Minimal değişiklik hastalığından farkı: **hipertansiyon**, **böbrek işlevinde azalma** (kreatinin 1,4) ve steroide daha kötü yanıt; mikroskobik hematüri olabilir. **Obezite** hiperfiltrasyonla ikincil FSGS'nin önemli nedenidir; HIV, eroin, orak hücre, nefron kaybı (tek böbrek, reflü) ve genetik nedenler de vardır. Komplemanlar normaldir.
+Minimal değişiklik hastalığı (A) çocukta en sık, erişkinde genellikle normotansif ve böbrek işlevi normaldir. Membranöz nefropati (B) daha ileri yaşta, anti-PLA2R ile. Lupus nefriti (D) ve postenfeksiyöz GN (E) hematüri, düşük kompleman ve nefritik bulgularla gelir.
+
+=== 48 | 8 | İLK KEZ VAKA OLARAK SORULDU
+O: Önceki yıllar: Aynı şıklar (podosit silinmesi, bazal membran kalınlaşması) MSD 2024-25 S27'de minimal değişiklik hastalığı için soruldu. IgA nefritinde komplemanın normal olması blok sınavı 2022-23 S16'da soruldu.
+E: Üst solunum yolu enfeksiyonundan 1-2 gün sonra (eşzamanlı) makroskopik hematüri, genç erkek → IgA nefropatisi: mezangiyal proliferasyon + mezangiyal IgA. Poststreptokokal GN 1-3 hafta sonra.
+B doğru. Boğaz enfeksiyonuyla **eşzamanlı ya da 1-2 gün sonra** başlayan makroskopik hematüri (sinfaranjitik hematüri), genç erkek, normal kreatinin ve hafif proteinüri **IgA nefropatisinin** (dünyada en sık primer glomerülonefrit) tipik tablosudur. Biyopside **mezangiyal proliferasyon** ve immünfloresanda **mezangiyal IgA** (ve C3) birikimi görülür. Kompleman düzeyleri normaldir.
+Podosit ayaksı çıkıntılarında silinme (A) minimal değişiklik hastalığı, bazal membran kalınlaşması ve granüler IgG (C) membranöz nefropati, lineer IgG (D) anti-GBM hastalığıdır. Glomerüllerin normal olması (E) hematüri ve proteinüriyle uyumsuzdur. Poststreptokokal GN ise enfeksiyondan 1-3 hafta sonra ve düşük C3 ile gelir.
+
+=== 49 | 8 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok. C3 glomerülopati Modül 2'nin glomerül patolojisi sorularında da geçiyor.
+E: Yoğun depozit hastalığı (C3 glomerülopati): alternatif kompleman yolunun kontrolsüz etkinleşmesi; C3 nefritik faktör (C3 konvertazı stabilize eden otoantikor), düşük C3, yalnız C3 boyanması.
+D doğru. **Yoğun depozit hastalığı** (dense deposit disease), C3 glomerülopatinin bir alt tipidir. **C3 nefritik faktör**, alternatif yolun C3 konvertazını (C3bBb) stabilize eden bir otoantikordur; konvertaz yıkılamaz, C3 sürekli tüketilir: **serum C3 düşük**, immünfloresanda **yalnız C3** boyanır (immünoglobulin yok), elektron mikroskobunda bazal membranın içinde şerit gibi yoğun depozitler görülür. Faktör H eksikliği de aynı tabloyu yapar. Parsiyel lipodistrofi ve retinada drusen eşlik edebilir.
+Anti-dsDNA (A) lupus nefritinde, ANCA (B) pauci-immün GN'de, anti-GBM (C) Goodpasture hastalığında, anti-PLA2R (E) membranöz nefropatide pozitiftir.
+
+=== 50 | 7 | AYNI BİLGİ
+O: Önceki yıllar: KDIGO ölçütleri blok sınavı 2025-26 S89'da öncüllü soruldu (doğru: 48 saatte ≥ 0,3 mg/dL ve 7 günde ≥ 1,5 kat). ABH blok sınavında altı yılın hepsinde geldi.
+E: KDIGO ABH: 48 saatte kreatinin ≥ 0,3 mg/dL artış YA DA 7 günde ≥ 1,5 kat artış YA DA 6 saat idrar < 0,5 mL/kg/saat.
+B doğru. KDIGO'ya göre şu üç ölçütten **biri** ABH tanısı koydurur:
+1. **48 saat içinde** serum kreatininde **≥ 0,3 mg/dL** artış,
+2. Son **7 gün içinde** bilinen ya da tahmin edilen bazal değere göre **≥ 1,5 kat** artış,
+3. **6 saat** boyunca idrar çıkışının **< 0,5 mL/kg/saat** olması.
+Mutlak bir kreatinin eşiği yoktur (A; 4 mg/dL evre 3'ün ölçütlerinden biridir). Süre 1 ay değil 7 gündür (C). İdrar eşiği 1 değil 0,5 mL/kg/saattir (D). Proteinüri (E) ABH ölçütü değildir.
+
+=== 51 | 7 | İLK KEZ SORULDU
+O: Önceki yıllar: İdrar sedimenti blok sınavı 2025-26 S90 (hiyalen silendir → prerenal) ve 2022-23, 2023-24'te (ATN'de kahverengi granüler silendir) soruldu.
+E: Sediment ve neden: hiyalen silendir → prerenal; kahverengi granüler (çamurlu) → ATN; eritrosit silendiri + dismorfik eritrosit → glomerülonefrit; lökosit silendiri → interstisyel nefrit, piyelonefrit; oval yağ cisimciği → nefrotik sendrom.
+E doğru (en az olası). **Oval yağ cisimcikleri** (yağ yüklü tübül hücreleri, polarize ışıkta Malta haçı) ve yağlı silendirler **nefrotik sendromun** bulgusudur; akut böbrek yetmezliğinde beklenmez.
+Akut böbrek yetmezliğinde sediment nedeni gösterir: dismorfik eritrositler ve **eritrosit silendirleri** (A, B) glomerülonefrit (hızlı ilerleyen GN), **lökosit silendirleri** (C) akut interstisyel nefrit ya da piyelonefrit, **kahverengi granüler (çamurlu) silendirler** (D) akut tübüler nekroz için tipiktir.
+
+=== 52 | 5 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok. Üre döngüsü (N-asetilglutamat, CPS-I) blok sınavı 2025-26 S31, 2024-25 S95 ve MSD 2025-26 S22, 2024-25 S67'de soruldu.
+E: Amino grubunun yolu: transaminasyon (aminotransferaz, B6; α-ketoglutarat → glutamat) → oksidatif deaminasyon (glutamat dehidrojenaz; NAD⁺/NADP⁺, NH<sub>3</sub> açığa çıkar) → üre döngüsü.
+B doğru. **Glutamat dehidrojenaz**, mitokondride glutamatın amino grubunu **amonyak** olarak ayırır ve α-ketoglutaratı yeniden oluşturur (NAD⁺ ya da NADP⁺ kullanır); bu tepkimeye **oksidatif deaminasyon** denir. Transaminasyonla glutamatta toplanan amino grupları böylece amonyağa dönüşür ve üre döngüsüne girer. GTP ve ATP enzimi baskılar, ADP ve GDP etkinleştirir.
+Serin dehidrataz (A) serini **oksidatif olmayan** deaminasyonla piruvata çevirir. Glutamin sentaz (C) amonyağı glutamata bağlayarak glutamin yapar (amonyağın taşınması). Glutaminaz (E) glutaminden amonyak ayırır (hidrolitik deaminasyon; böbrekte amonyum atılımı).
+
+=== 53 | 5 | BENZER BİLGİ
+O: Önceki yıllar: Wernicke ensefalopatisi → tiyamin pirofosfat MSD 2025-26 S26'da; uzun açlık ve alkolizmde eksik olan, Korsakoff yapan vitamin blok sınavı 2019-20 S96'da soruldu.
+E: Tiyamin (B1, TPP): piruvat dehidrogenaz, α-ketoglutarat dehidrogenaz, transketolaz koenzimi → eksiklikte piruvat laktata döner → laktik asidoz; beriberi, Wernicke-Korsakoff.
+E doğru. **Tiyamin pirofosfat**, glukozun oksidatif yıkımındaki kilit enzimlerin koenzimidir: **piruvat dehidrogenaz** (piruvat → asetil-KoA), α-ketoglutarat dehidrogenaz (sitrik asit döngüsü) ve transketolaz (pentoz fosfat yolu). Eksiklikte piruvat mitokondriye giremez, **laktata** döner: **laktik asidoz**. Ayrıca enerji yapımı bozulur; en çok glukoza bağımlı beyin ve kalp etkilenir: Wernicke ensefalopatisi, Korsakoff sendromu, kuru (nöropati) ve yaş (kalp yetersizliği) beriberi. Alkolizm, yeniden beslenme ve uzun parenteral beslenmede görülür; glukoz verilmeden önce tiyamin verilir.
+Demir (A), B12 (B), folat (C) eksikliği anemi yapar; α-tokoferol (D; E vitamini) eksikliği nöropati ve hemolizle seyreder.
+
+=== 54 | 2 | AYNI KONU
+O: Önceki yıllar: Kwashiorkor ve marasmus ayrımı blok sınavı 2025-26 S81 (“bir deri bir kemik” marasmustur), 2024-25 S100 ve MSD 2023-24 S72, 2022-23 S76'da soruldu.
+E: Kwashiorkor: protein yetersizliği → apolipoprotein yapılamaz → VLDL çıkamaz → karaciğer yağlanması (hepatomegali) + ödem + deri ve saç değişiklikleri.
+B doğru. Kwashiorkorda enerji görece yeterli (karbonhidrattan zengin) ama **protein yetersizdir**. Karaciğer, yaptığı trigliseridi kana VLDL olarak vermek için **apolipoprotein B** gerektirir; protein eksikliğinde apolipoprotein yapılamaz, trigliserit hepatositte birikir: **yağlı karaciğer ve hepatomegali**. Ayrıca hipoalbuminemiye bağlı **ödem**, deri lezyonları (pul pul dökülen “boya kalkması”), saçta renk açılması, apati görülür.
+Marasmusta (A) ve uzun açlıkta (C) yağ depoları tükenmiştir, karaciğer yağlanması tipik değildir. Kısa süreli açlık (D) yağlanma yapmaz. Akut viral hepatit (E) hepatosit hasarı ve iltihapla seyreder (yağlanma alkol, ilaç ve metabolik nedenlerde görülür).
+
+=== 55 | 5 | İLK KEZ SORULDU
+O: Önceki yıllar: Açlıkta enzim düzenlemesi (asetil-KoA karboksilaz inaktif) MSD 2025-26 S23 ve 2022-23 S71'de soruldu.
+E: Hormon duyarlı lipaz: glukagon, adrenalin, ACTH, büyüme hormonu, kortizol etkinleştirir (cAMP, PKA ile fosforilasyon); insülin baskılar.
+D doğru (etkinleştirmez). **Hormon duyarlı lipaz** yağ dokusunda trigliseritleri yıkar (lipoliz). **Glukagon, adrenalin ve noradrenalin, ACTH** cAMP'yi artırıp protein kinaz A ile enzimi fosforile ederek etkinleştirir; **büyüme hormonu** ve **kortizol** enzim yapımını artırarak lipolizi destekler. **İnsülin** fosfodiesterazı etkinleştirip cAMP'yi düşürür ve enzimi defosforile eder: **lipolizi baskılar**, yağ depolanmasını artırır. Bu yüzden açlıkta insülin düşünce lipoliz başlar.
+Niasin de (Modül 3) hormon duyarlı lipazı baskılayarak VLDL yapımını azaltır.
+
+=== 56 | 5 | BENZER BİLGİ
+O: Önceki yıllar: “Açlıkta ilk başvurulan enerji kaynağı → glikojen” blok sınavı 2024-25 S96'da; ketogenez MSD 2025-26 S24'te soruldu.
+E: Açlıkta yakıt sırası: ilk saatler karaciğer glikojeni; 12-24 saat kas ve diğer dokular yağ asidi yakar, beyin glukoz kullanır; 2-3 gün sonra beyin keton cisimlerine geçer, protein korunur.
+D doğru. Gece boyu (12 saat) süren açlıkta insülin düşer, glukagon artar; yağ dokusunda lipoliz başlar. **Kaslar ve kalp, enerjilerinin çoğunu yağ asitlerinin β-oksidasyonundan** sağlar; glukozu beyne ve eritrositlere bırakırlar (glukoz koruma). Kan şekerini karaciğer glikojenolizi (ve başlayan glukoneogenez) korur.
+Glukoz (A) tokluk döneminin, keton cisimleri (C) uzamış açlığın (2-3. günden sonra; kas ilk günlerde ketonları da kullanır), amino asitler (E) glukoneogenezin kaynağıdır. Laktat (B) kas ve eritrositlerden karaciğere taşınıp glukoza çevrilir (Cori döngüsü).
+
+=== 57 | 7 | BENZER BİLGİ
+O: Önceki yıllar: “Gentamisin alan hastada 6. günde ABH → proksimal tübül lizozomlarında ilaç birikimi” blok sınavı 2025-26 S37'de soruldu. Aminoglikozit nefrotoksisitesi blok sınavında sık.
+E: Aminoglikozit: katyonik → proksimal tübülde megalin ile endositoz → lizozomda birikim (fosfolipidoz) → 5-7. günde oligürik olmayan ABH; hipokalemi, hipomagnezemi; tek doz günde bir kez daha az toksik.
+A doğru. Aminoglikozitler **katyonik** yapıdadır; proksimal tübül fırçamsı kenarındaki negatif yüklü fosfolipitlere bağlanır ve **megalin-kubilin** reseptörüyle endositozla hücreye alınır. **Lizozomlarda birikip** fosfolipazları baskılar (**fosfolipidoz**, miyeloid cisimcikler), lizozom yırtılınca mitokondri hasarı ve hücre ölümü gelişir.
+Hasar immün kompleksle değil doğrudan tübül toksisitesiyle olur (B). Tipik olarak tedavinin **5-7. gününde**, çoğunlukla **oligürik olmayan** ABH gelişir (C). Renal kortekste ilaç serum düzeyinin çok üstünde birikir; tedavi dozunda da toksisite olur (D). Tübüler alım **doyurulabilir** olduğu için günlük dozu **tek seferde** vermek böbrekte daha az birikime yol açar (E).
+
+=== 58 | 7 | AYNI BİLGİ
+O: Önceki yıllar: NSAİİ nefrotoksisitesinin mekanizması (afferent arteriyolde prostaglandin sentezinin baskılanması) MSD 2025-26 S28'de, ACE inhibitörünün efferent dilatasyonu 2025-26 S27'de soruldu.
+E: Afferent arteriyolü prostaglandin açık tutar (NSAİİ kapatır); efferent arteriyolü anjiyotensin II dar tutar (ACEİ/ARB açar). İkisi birden → GFR çöker.
+A doğru. Fizyolojik koşullarda **afferent arteriyol prostaglandinlerle geniş**, **efferent arteriyol anjiyotensin II ile dar** tutulur; ikisi birlikte glomerül içi basıncı korur. NSAİİ prostaglandin sentezini azaltınca afferent arteriyol daralır, glomerül içi basınç ve GFR düşer (özellikle hipovolemi, kalp yetersizliği, siroz ve yaşlılıkta).
+ACE inhibitörleri efferent arteriyolü **genişletir**, glomerül içi basıncı düşürür (B). Fizyolojik ton yer değiştirmiştir (C). Kalsinörin inhibitörleri **afferent** arteriyolü daraltır (D). ARB'lerin GFR'yi düşürücü etkisi hipovolemi ve bilateral renal arter stenozunda **artar** (E).
+
+=== 59 | 7 | İLK KEZ VAKA OLARAK SORULDU
+O: Önceki yıllar: NSAİİ ve ACE inhibitörü nefrotoksisitesi ayrı ayrı MSD 2025-26 S27, S28'de soruldu.
+E: “Üçlü darbe” (triple whammy): ACEİ/ARB + diüretik + NSAİİ (+ hipovolemi) → prerenal ABH ve hiperkalemi.
+E doğru. **Ramipril (ACEİ) + hidroklorotiyazid (diüretik) + naproksen (NSAİİ)**: “üçlü darbe”. Diüretik ve ishal-kusma hacmi azaltır; NSAİİ afferent arteriyolü daraltır; ACE inhibitörü efferent arteriyolün telafi edici daralmasını engeller. Glomerül içi basınç çöker: **prerenal akut böbrek hasarı** (kreatinin 0,9 → 2,6). ACE inhibitörü (aldosteron ↓) ve NSAİİ (renin ↓, aldosteron ↓) birlikte **hiperkalemi** yapar (K 6,1). Tedavi: üç ilacı kesmek ve sıvı vermek.
+Diğer birleşimlerde ya NSAİİ yoktur (parasetamol, kolşisin) ya da RAS blokeri yoktur.
+
+=== 60 | 10 | İLK KEZ BU BİÇİMDE SORULDU
+O: Önceki yıllar: ACE inhibitörleri blok sınavı 2025-26 S58'de (yanlış olan) ve MSD 2025-26 S27, S33, S34'te soruldu.
+E: ACEİ: anjiyotensin II ↓ (vazodilatasyon, aldosteron ↓ → Na-su tutulumu ↓, K ↑), bradikinin ↑, renin ↑ (geri bildirim kalkar), remodelingi önler.
+A doğru. Enalapril (önilaç → enalaprilat) ACE'yi baskılar; anjiyotensin II azalır. Anjiyotensin II'nin aldosteron salgılatıcı ve doğrudan proksimal tübülde sodyum tutucu etkileri azaldığı için **sodyum ve su tutulumu azalır**; kan basıncı düşer.
+Anjiyotensin II susamayı ve **ADH** salınımını uyarır; ACEİ ile ADH artmaz, azalır (B). Anjiyotensin II'nin kalp ve damar **hipertrofisini** uyarıcı etkisi azalır, remodeling önlenir (C). Anjiyotensin II'nin renin üzerindeki negatif geri bildirimi kalktığı için **renin artar** (D). Anjiyotensinojen sentezi karaciğerde sürer (E).
+
+=== 61 | 10 | BENZER BİLGİ
+O: Önceki yıllar: ACE inhibitörlerinin yan etkileri blok sınavı 2025-26 S58'de; kuru öksürüğün bradikinine bağlı olması Modül 3 MSD'sinde üç yıl soruldu.
+E: ACEİ: kuru öksürük ve anjiyoödem → bradikinin birikimi (ACE = kininaz II). ARB'de bradikinin artmaz.
+C doğru. ACE (kininaz II) bradikinini de yıkar. ACE inhibitörüyle **bradikinin** (ve P maddesi) birikir; damar geçirgenliği artar ve dudak, dil, gırtlakta **anjiyoödem** gelişebilir (siyah ırkta ve ilk haftalarda daha sık; aylar sonra da olabilir). Aynı mekanizma **kuru öksürüğün** de nedenidir. Anjiyoödem gelişen hastada ACEİ bir daha verilmez; ARB'ye geçişte de dikkatli olunur.
+AT2 uyarımı (A), aldosteron artışı (B), renin blokajı (D) ve sodyum atılımı (E) anjiyoödemin mekanizması değildir.
+
+=== 62 | 10 | BENZER BİLGİ
+O: Önceki yıllar: Verapamil ve diltiazemin özellikleri MSD 2024-25 S38'de soruldu; kalp seçici KKB Modül 3'te her yıl geliyor.
+E: Hem HT hem SVT: verapamil (ve diltiazem) — AV düğümü yavaşlatan dihidropiridin olmayan KKB. Dihidropiridinler (-dipin) yalnız damar.
+D doğru. **Verapamil** (ve diltiazem) kalpte L tipi kalsiyum kanallarını bloke eder; sinüs ve AV düğümde faz 0'ı yavaşlatarak **AV iletimini azaltır**. Bu yüzden hem **hipertansiyonda** hem **supraventriküler taşiaritmilerde** (paroksismal SVT'nin sonlandırılması, AF'de hız kontrolü) kullanılır.
+Nimodipin (A; subaraknoid kanamada beyin damar spazmı), felodipin (B), amlodipin (C) ve lerkanidipin (E) **dihidropiridindir**: damar seçicidir, AV düğümü etkilemez; antiaritmik değildir.
+
+=== 63 | 10 | İLK KEZ SORULDU
+O: Önceki yıllar: Kalsiyum kanal blokerlerinin etkilediği fazlar (nodal hücrede faz 0, miyositte faz 2) MSD 2025-26 S35'te soruldu.
+E: Düz kas kasılması: Ca²⁺ girer → kalmodulin → miyozin hafif zincir kinazı (MLCK) → miyozin fosforilasyonu → kasılma. Amlodipin Ca girişini keser → MLCK etkinliği ↓ → gevşeme.
+A doğru. Damar düz kasında hücre dışından L tipi kanallarla giren **kalsiyum kalmoduline** bağlanır; kalsiyum-kalmodulin kompleksi **miyozin hafif zincir kinazını** etkinleştirir, miyozin fosforillenir ve aktinle çapraz köprü kurar: kasılma. **Amlodipin** kalsiyum girişini azaltınca bu zincir tersine işler: kalsiyum-kalmodulin oluşumu ve **MLCK etkinliği azalır**, damar gevşer.
+Kalsiyum girişi azalır, artmaz (B, E). Faz 3 repolarizasyonunun gecikmesi (C) potasyum kanal blokerlerinin (sınıf III) etkisidir. Tropomiyozin-troponin sistemi (D) iskelet ve kalp kasında çalışır; düz kasta kasılmayı başlatan mekanizma MLCK'dir.
+
+=== 64 | 10 | BENZER BİLGİ
+O: Önceki yıllar: “En kısa etkili vazoselektif KKB” blok sınavı 2023-24 S46'da, amlodipinin uzun yarı ömrü MSD 2024-25 S41'de soruldu.
+E: Refleks taşikardi: kısa etkili, hızlı başlayan dihidropiridin (nifedipin) en çok; amlodipin yavaş ve uzun etkili olduğu için az; verapamil ve diltiazem kalbi yavaşlatır.
+C doğru. **Kısa etkili nifedipin** hızla ve güçlü biçimde arteriyolleri genişletir; kan basıncındaki ani düşme baroreseptör refleksiyle sempatik sistemi uyarır: **refleks taşikardi**, çarpıntı, yüzde kızarma. Bu yüzden kısa etkili nifedipin anginada ve AKS'de kullanılmaz; uzatılmış salınımlı biçimleri tercih edilir.
+Verapamil (A) ve diltiazem (B) kalbe de etki ederek hızı **düşürür**. Amlodipin (D) yavaş başlayan ve çok uzun etkili olduğu için refleks taşikardi azdır. Silnidipin (E) L ve N tipi kanalları birlikte bloke eder; N tipi blokaj sempatik sinir uçlarından noradrenalin salınımını azalttığı için refleks taşikardi yapmaz (2024-25 S39).
+
+=== 65 | 10 | AYNI BİLGİ
+O: Önceki yıllar: “ARB için doğru olan ama ACEİ için geçerli olmayan → anjiyotensin II düzeyini artırma” MSD 2025-26 S38'de; ACEİ'nin gebelikte kontrendike olduğu 2025-26 S34'te soruldu.
+E: ACEİ anjiyotensin II'yi düşürür; ARB reseptörü bloke ettiği için geri bildirim kalkar, renin ve anjiyotensin II artar. Bradikinin etkisi yalnız ACEİ'de.
+D doğru. ACE inhibitörü anjiyotensin II yapımını azaltır. **ARB** ise AT1 reseptörünü bloke eder; anjiyotensin II'nin renin üzerindeki negatif geri bildirimi kalktığı için renin ve **anjiyotensin II düzeyi artar** (artan anjiyotensin II boştaki AT2 reseptörlerini uyarır).
+Bradikinin aracılı etki ACEİ'ye özgüdür; ARB'de belirgin değildir (A). ACEİ **hiperkalemi** yapar (B). NSAİİ ile birlikte kullanım ACEİ'de de ARB'de de risklidir (C). ACEİ ve ARB **gebelikte kontrendikedir** (E; fetal böbrek hasarı, oligohidramniyoz).
+
+=== 66 | 10 | BENZER KALIP
+O: Önceki yıllar: Diüretikler için doğru-yanlış soruları blok sınavında her yıl (2025-26 S48, 2024-25 S22, 2023-24 S25) ve MSD 2025-26 S32, 2024-25 S32'de soruldu.
+E: Metolazon: tiyazid benzeri; GFR < 30'da da etkili, kıvrım diüretiğiyle birlikte dirençli ödemde (sıralı nefron blokajı).
+D doğru. **Metolazon** tiyazid benzeri bir diüretiktir; klasik tiyazidlerin aksine **ileri böbrek yetersizliğinde de (GFR < 30) etkilidir**. Kıvrım diüretiğine direnç gelişen ödemli hastada furosemide eklenir (**sıralı nefron blokajı**); hipokalemi ve hiponatremi riski yüksektir.
+Asetazolamid proksimal tübülde etki eder ve zayıf bir diüretiktir; en güçlüleri kıvrım diüretikleridir (A). Ozmotik diüretikler (mannitol) proksimal tübül ve Henle'nin inen kolunda etki eder ve **beyin ödeminde kullanılır** (B). Kıvrım diüretikleri kalsiyum **atılımını artırır** (C; hiperkalsemi tedavisinde kullanılır). Eplerenon **hiperkalemi** yapar (E).
+
+=== 67 | 10 | AYNI KALIP (5. KEZ)
+O: Önceki yıllar: Aynı kalıp MSD 2025-26 S31 (doğru: tolvaptan – V2 reseptör blokeri), 2022-23 S33 ve blok sınavı 2025-26 S52, 2022-23 S26'da soruldu.
+E: İndapamid, klortalidon, metolazon: tiyazid benzeri → distal tübülde Na⁺/Cl⁻ kotransporteri (NCC).
+C doğru. **İndapamid** tiyazid benzeri bir diüretiktir; distal kıvrımlı tübülde **Na⁺/Cl⁻ kotransporterini (NCC)** baskılar. Hipertansiyonda birinci basamak ilaçlardandır.
+Diğer eşleştirmeler yanlıştır: mannitol ozmotik diüretiktir (A; karbonik anhidrazı baskılayan asetazolamiddir); bumetanid kıvrım diüretiğidir, NKCC2'yi baskılar (B); triamteren ENaC'yi bloke eder (D); liksivaptan vazopressin V2 reseptör antagonistidir (E; aldosteron reseptör blokerleri spironolakton ve eplerenondur).
+
+=== 68 | 10 | BENZER BİLGİ
+O: Önceki yıllar: “Sülfonamid yapıda, NKCC2'yi baskılayan güçlü diüretik → torsemid” MSD 2025-26 S30 ve 2021-22 S33'te soruldu. Kıvrım diüretikleri blok sınavında her yıl geliyor.
+E: Akut akciğer ödemi → damardan furosemid (NKCC2 blokajı + hemen venodilatasyon ile preload ↓).
+D doğru. **Furosemid** Henle'nin çıkan kalın kolunda **Na⁺/K⁺/2Cl⁻ kotransporterini (NKCC2)** baskılar; filtre edilen sodyumun %25'ine kadarını attırabilen en güçlü diüretik grubudur. Akut kardiyojenik akciğer ödeminde damardan verilir: diürezden önce bile venleri genişletip preloadu düşürür.
+Metazolamid (A) karbonik anhidraz inhibitörüdür. Mannitol (B) ozmotik diüretiktir ve kalp yetersizliğinde hacmi artırdığı için kontrendikedir. Hidroklorotiyazid (C) NCC'yi, amilorid (E) ENaC'yi baskılar.
+
+=== 69 | 11 | BENZER BİLGİ
+O: Önceki yıllar: Rhizopus gibi zigomiçetlerin anjioinvazyonu ve rinoorbital yerleşimi MSD 2024-25 S60, 2023-24 S61 ve blok sınavı 2024-25 S83, 2021-22 S80'de soruldu.
+E: Anjioinvaziv küfler: Mucorales (Rhizopus, Mucor) ve Aspergillus; mukormikoz diyabetik ketoasidozda rinoserebral, tıkayıcı tromboz ve nekroz (kara eskar).
+B doğru (anahtara göre). **Rhizopus** (Mucorales takımı, eski adıyla zigomiçetler) damar duvarını invaze eder (**anjioinvazyon**): tromboz, doku enfarktı ve siyah nekrotik eskar. Diyabetik ketoasidozda, nötropenide, deferoksamin tedavisinde ve organ naklinde **rinoorbitoserebral** mukormikoz yapar. Bölmesiz, geniş, dik açıyla dallanan hifleri vardır. Tedavi amfoterisin B ve cerrahi debridmandır.
+*Aspergillus* (A) da anjioinvaziv bir küftür (nötropenide invaziv pulmoner aspergilloz); anahtar, soruda tipik anjioinvaziv mantar olarak Mucorales'i istemiştir. *Candida*, *Cryptococcus* ve *Lodderomyces* (C, D, E) küf değil mayadır.
+
+=== 70 | 11 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok. Dermatofit türleri ve kaynakları (antropofilik, zoofilik, geofilik) MSD 2024-25 S62-S64 ve 2025-26 S39'da soruldu.
+E: Majocchi granülomu: kıl folikülünü yırtıp dermise inen dermatofit (en sık T. rubrum); sıklıkla topikal steroid sonrası, bacakta.
+C doğru. **Majocchi granülomu**, dermatofitin kıl folikülünden derin dermise ve deri altına inerek oluşturduğu folikülit ve granülomatöz iltihaptır. En sık etken **Trichophyton rubrum**'dur (dünyada en sık dermatofit). Kadınlarda bacak tıraşı ve tinea'nın yanlışlıkla **topikal kortikosteroidle** tedavisi riski artırır; bağışıklığı baskılanmış hastada yaygınlaşabilir. Tedavi sistemik antifungaldir (terbinafin, itrakonazol).
+T. indotineae (A) terbinafine dirençli yaygın tinea, E. floccosum (B) kasık ve ayak tineası, M. canis (D) zoofilik tinea kapitis, N. gypsea (E) geofilik dermatofitozun etkenidir.
+
+=== 71 | 11 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok.
+E: Germ tüp testi (insan serumunda 37 °C, 2-3 saat): pozitif → Candida albicans (ve C. dubliniensis). Diğer Candida türleri negatif.
+A doğru. Germ tüp testinde maya insan ya da hayvan serumunda 37 °C'de 2-3 saat bekletilir. ***Candida albicans*** maya hücresinden çıkan, başlangıcında daralma olmayan ince bir uzantı (**germ tüp**, gerçek hif başlangıcı) oluşturur. Bu, *C. albicans*'ı diğer türlerden ayıran hızlı ve ucuz testtir; *C. dubliniensis* de pozitiftir.
+*C. parapsilosis*, *C. tropicalis* (yalancı hif yapar, başında daralma vardır), *C. guilliermondii* ve *C. glabrata* (hif ya da yalancı hif yapmaz, flukonazole az duyarlı) germ tüp negatiftir.
+
+=== 72 | 11 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok.
+E: Trichophyton indotineae: Hindistan kökenli, terbinafine dirençli (skualen epoksidaz mutasyonu), yaygın, inatçı, bulaşıcı tinea korporis-kruris; itrakonazol.
+E doğru. ***Trichophyton indotineae*** (eskiden T. mentagrophytes genotip VIII), son on yılda Hindistan'dan dünyaya yayılan, **terbinafine yüksek dirençli** bir dermatofittir. Direnç, terbinafinin hedefi olan **skualen epoksidaz** genindeki nokta mutasyonlarından kaynaklanır. Yaygın, kaşıntılı, tekrarlayan tinea korporis, kruris ve fasiyeyi yapar; insandan insana kolay bulaşır ve çoğu kez topikal steroid-antifungal karışımlarının yanlış kullanımıyla ağırlaşır. Tedavide itrakonazol tercih edilir.
+Diğer şıklardaki dermatofitlerde yüksek terbinafin direnci tipik değildir.
+
+=== 73 | 11 | İLK KEZ SORULDU
+O: Önceki yıllar: Arşivde aynı soru yok. Melanin içeren (koyu pigmentli) mantarların yol açtığı feohifomikoz MSD 2025-26 S42'de soruldu.
+E: Mantar melaninleri: mayalarda (Cryptococcus) DOPA'dan lakkaz ile ömelanin (eumelanin); küflerde (dematiyase) DHN-melanin. Melanin virülans etkenidir (oksidatif strese ve antifungale direnç).
+C doğru (anahtara göre). *Cryptococcus neoformans* gibi hücre duvarında melanin bulunan mayalar, konakçıdan aldıkları **L-DOPA** gibi katekolaminleri **lakkaz** enzimiyle oksitleyerek **ömelanin (eumelanin)** yapar. Beyinde katekolaminlerin bol olması kriptokokun beyni sevmesiyle ilişkilendirilir; melanin mantarı oksidatif strese, fagositoza ve bazı antifungallere karşı korur. Laboratuvarda kuş yemi (Guizotia) agarında kahverengi koloni bu özelliğe dayanır.
+Koyu pigmentli (dematiyase) küflerde ise **DHN-melanin** (1,8-dihidroksinaftalen) yolu baskındır. Piyomelanin (B) tirozin yıkımından oluşur (Aspergillus, Pseudomonas). Piyosiyanin (D) Pseudomonas'ın mavi-yeşil pigmentidir. Nöromelanin (A) insan beyninde (substantia nigra) bulunur.
+
+=== 74 | 11 | AYNI BİLGİ
+O: Önceki yıllar: “Toplumda kedi ve köpekten en sık bulaşan dermatofit → Microsporum canis” MSD 2024-25 S63'te; geofilik N. gypsea 2024-25 S64 ve blok sınavı 2019-20 S81'de soruldu.
+E: Zoofilik: Microsporum canis (kedi, köpek), T. verrucosum (sığır). Geofilik: Nannizzia gypsea (toprak). Antropofilik: T. rubrum, T. tonsurans, E. floccosum, T. indotineae.
+C doğru. ***Microsporum canis*** **zoofilik** bir dermatofittir; kedi ve köpeklerden çocuklara bulaşarak tinea kapitis ve tinea korporis yapar. Wood lambasında yeşil floresans verir. Zoofilik etkenler insanda daha **iltihaplı** lezyon (kerion) yapar.
+*Nannizzia gypsea* (A) **geofiliktir** (toprak; çiftçi, bahçıvan, arkeolog). *T. tonsurans* (B; dünyada tinea kapitisin en sık antropofilik etkeni), *E. floccosum* (D) ve *T. indotineae* (E) **antropofiliktir** (insandan insana).
+
+=== 75 | 3 | AYNI SORU
+O: Önceki yıllar: Aynı soru MSD 2025-26 S46'da (“gluten alımı sonrası gelişen T hücre aracılı immün yanıt”) soruldu.
+E: Çölyak: gliadin → doku transglutaminazı deamide eder → HLA-DQ2/DQ8 ile sunulur → CD4 T hücresi (IFN-γ) + intraepitelyal CD8 lenfositler (IL-15) → villus hasarı.
+E doğru. Çölyak hastalığı genetik yatkınlığı olan bireyde (**HLA-DQ2, DQ8**) glutenin gliadin peptitlerine karşı gelişen **T hücre aracılı** bir immün hastalıktır:
+1. Sindirime dirençli gliadin peptitleri epitelden lamina propriaya geçer.
+2. **Doku transglutaminazı** (tTG) peptitleri deamide eder; negatif yüklenen peptitler HLA-DQ2/DQ8'e daha sıkı bağlanır.
+3. Antijen sunan hücreler bunları **CD4 T hücrelerine** sunar; T hücreleri IFN-γ salgılar ve iltihabı başlatır.
+4. Epitel hücreleri IL-15 salgılar; **intraepitelyal CD8 lenfositler** etkinleşip enterositleri öldürür.
+5. B hücreleri anti-tTG (IgA) ve anti-endomisyum antikorları yapar (tanıda kullanılır).
+Gluten doğrudan toksik değildir (A). Hastalık bakteri (B), IgE aracılı alerji (C) ya da pankreas yetmezliği (D) ile açıklanmaz.
+
+=== 76 | 3 | AYNI BİLGİ
+O: Önceki yıllar: “Çölyak için en tipik bulgu → villöz kısalma ve kript hiperplazisi” MSD 2025-26 S45'te; gluten enteropatisinin mikroskobik bulguları (intraepitelyal lenfosit artışı, villus atrofisi) 2024-25 S65'te; kript hiperplazisi blok sınavı 2019-20 S93'te soruldu.
+E: Çölyak biyopsisi: villus atrofisi + kript hiperplazisi + intraepitelyal lenfosit artışı (Marsh sınıflaması). Tedaviyle düzelir.
+C doğru. Çölyak hastalığında **villuslar kısalır ve düzleşir (atrofi)**, yıkılan epiteli yerine koymak için **kriptler uzar ve hücreleri çoğalır (kript hiperplazisi)**, epitelde **intraepitelyal lenfositler artar** (> 25/100 enterosit); lamina propriada lenfosit ve plazma hücreleri artar. Bu bulgular **Marsh sınıflamasıyla** derecelendirilir ve glutensiz diyetle düzelir.
+Villus uzaması (A, D) ve kript atrofisi (B, E) çölyakta görülmez. Granülom (B) Crohn hastalığını, submukozal fibroz (E) kollajenöz sprue gibi başka tabloları düşündürür.
