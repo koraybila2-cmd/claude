@@ -1,0 +1,43 @@
+@QB BU YILIN SORULARI
+@Q MODÜL 1 2026-27 · SORU 1 | BU YIL | BSD 2021-22 VE 2022-23 S1'İN TEKRARI
+@K Bir hekim alışveriş merkezinde tesadüfen karşılaştığı acil durumdaki bir hastaya müdahalesi ile ilgili olarak aşağıdakilerden hangisi mutlak bir yanlıştır?
+A) Hekimler çalıştıkları sağlık kurumu dışında da acil durumdaki hastalara yardım etmekle yükümlüdürler.
+B) Hekimin müdahalesi resmi acil sağlık hizmeti ulaşana ve sağlık hizmeti devamlılık arz edene kadar sürdürülmelidir.
+C) Resmi görevi olmadığı için hastaya müdahalede bulunması doğru değildir. ✓
+D) Müdahale yerleşik tıp kurallarına ve standartlara uygun olmalıdır.
+E) Müdahale esnasında delil ve bulguların kaybına neden olmak ayrı bir sorumluluk gerektirecektir.
+@O Önceki yıllar: 2021-22 ve 2022-23 blok sınavlarının 1. sorusu aynı soruydu; yalnızca “yolda” sözcüğü “alışveriş merkezinde” oldu ve yanlış şık “müdahale suç teşkil eder” yerine “müdahale doğru değildir” diye yazıldı.
+C yanlış. Hekimin acil durumdaki kişiye yardım etmesi için resmi görevli olması gerekmez. Tersine, yardım etmemek suçtur. Diğer şıklar yükümlülüğün içeriğini doğru anlatır: yükümlülük kurum dışında da geçerlidir (A), resmi acil ekibi gelene kadar sürer (B), tıp kurallarına uygun yapılmalıdır (D), delillerin kaybına yol açmak ayrı bir sorumluluk doğurur (E).
+@@
+@Q MODÜL 1 2026-27 · SORU 2 | BU YIL | BSD 2025-26 S2 İLE AYNI
+@K Aşağıdaki ifadelerden hangisi yanlıştır?
+A) Hekim hastasına verdiği zarar nedeniyle taksirle ölüme neden olmak suçundan yargılanabilir.
+B) Hekimin tedavi süreci ile ilgili olarak ceza ve tazminat sorumlulukları bulunmaktadır.
+C) Hastasına zarar verme suçundan yargılanan bir hekim ülkemizde halen mevcut olan "Tıbbi malpraktis kanunu" hükümlerine göre ceza alacaktır. ✓
+D) Bir tıbbi işlemin hukuka uygun olması için işlemi yapan kişinin bu iş için yetkili olması gerekir.
+E) Resmi görevli olmadığı esnada da hekimler acil durumdaki hastaya yardım etmekle yükümlüdürler.
+@O Önceki yıllar: 2025-26 blok sınavının 2. sorusu, şıklarının sırasına kadar aynıdır.
+C yanlış. Türkiye'de “Tıbbi malpraktis kanunu” adında yürürlükte bir kanun yoktur. Hekim, Türk Ceza Kanunu'nun taksirle yaralama ve taksirle öldürme hükümlerine göre yargılanır; tazminat davaları genel hükümlere göre görülür. Diğer şıklar doğrudur: hekim taksirle ölüme neden olmaktan yargılanabilir (A), hem ceza hem tazminat sorumluluğu vardır (B), müdahaleyi yapanın yetkili olması hukuka uygunluk şartıdır (D), görev dışında da acil yardım yükümlülüğü sürer (E).
+@@
+@QB GEÇEN YILIN BLOK SINAVI (2025-26)
+@Q BSD-1 2025-26 · SORU 1 | BLOK SINAVI | 
+@K Bir hekim, acil servise göğüs ağrısı ile başvuran bir hastada gerekli tetkikleri yapmadan "mide yanması" tanısıyla hastayı taburcu eder. Ertesi gün hastada akut miyokard enfarktüsü gelişir. Bu durumda aşağıdaki ifadelerden hangisi hekim açısından en doğru hukuki değerlendirmedir?
+A) Komplikasyon meydana gelmiştir, hekimin sorumluluğu yoktur.
+B) Hekim tıbbi özen yükümlülüğünü yerine getirmiştir.
+C) Hekimin eylemi tıbbi malpraktis kapsamında değerlendirilir. ✓
+D) Hekim, sadece hastanın rızası bulunduğu için sorumlu tutulamaz.
+E) Olay kasıtlı bir fiil olduğu için malpraktis olarak değerlendirilemez.
+C doğru. Göğüs ağrılı hastada EKG ve troponin gibi gerekli tetkikleri yapmamak özen yükümlülüğünün ihlalidir. Müdahale vardır, kusur vardır, zarar (miyokard enfarktüsü) vardır ve aralarında nedensellik bağı vardır: dört unsur tamamdır. Bu bir komplikasyon değildir, çünkü standart uygulama yapılmamıştır (A, B). Hastanın rızası kusurlu davranışı hukuka uygun hâle getirmez (D). Malpraktis zaten kasıtla değil taksirle işlenir; kasıt varsa olay malpraktis değil kasten işlenen bir suçtur, ama burada kasıt yoktur (E).
+@@
+@Q BSD-1 2025-26 · SORU 2 | BLOK SINAVI | 
+@K Aşağıdaki ifadelerden hangisi yanlıştır?
+A) Hekim hastasına verdiği zarar nedeniyle taksirle ölüme neden olmak suçundan yargılanabilir.
+B) Hekimin tedavi süreci ile ilgili olarak ceza ve tazminat sorumlulukları bulunmaktadır.
+C) Hastasına zarar verme suçundan yargılanan bir hekim ülkemizde halen mevcut olan "Tıbbi malpraktis kanunu" hükümlerine göre ceza alacaktır. ✓
+D) Bir tıbbi işlemin hukuka uygun olması için işlemi yapan kişinin bu iş için yetkili olması gerekir.
+E) Resmi görevli olmadığı esnada da hekimler acil durumdaki hastaya yardım etmekle yükümlüdürler. Bu yılın 2. sorusuyla aynıdır. C yanlış: ülkemizde ayrı bir tıbbi malpraktis kanunu yoktur.
+@@
+@QB DAHA ESKİ BLOK SINAVI SORULARI
+@E 2023-24 S1: Taksirle yaralama ya da öldürmeden yargılanıp hapis ya da para cezası almakla sonuçlanan sorumluluk → ceza sorumluluğu.
+@E 2023-24 S2: Malpraktis için mutlak şart olmayan → hastaya verilen iyileşme garantisinin gerçekleşmemesi (şart olanlar: müdahale, kusur, zarar, illiyet bağı).
+@E 2019-20 S1: Kurumun ödediği tazminatı hekimden tahsil etmek için açtığı dava → rücu davası.

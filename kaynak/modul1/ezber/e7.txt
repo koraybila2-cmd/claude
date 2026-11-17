@@ -1,0 +1,31 @@
+## Kolay ezber: klasik ipuçları ve kodlamalar
+| Soruda bunu görünce | Cevap |
+| GABA-A'da Cl⁻ kanalının açık kalma süresi uzar | Propofol, tiyopental, etomidat, benzodiazepin, uçucu gazlar |
+| NMDA antagonisti inhalasyon anesteziği | **Azot protoksit** (ksenon da) |
+| GABA-A aktivasyonu yapmayan intravenöz anestezik | **Ketamin** |
+| Gözler açık, çevreden kopuk, güçlü analjezi, halüsinasyon | **Ketamin** (dissosiyatif) |
+| Şoktaki hastaya indüksiyon | **Ketamin** (ya da etomidat) |
+| Kalp hastasına indüksiyon, hemodinami stabil | **Etomidat** |
+| İndüksiyon ilacı böbreküstü steroid sentezini baskılar | **Etomidat** |
+| Hızlı uyanma, antiemetik, en sık indüksiyon ilacı | **Propofol** |
+| Glisin aktivitesini artıran intravenöz anestezik | **Propofol** |
+| Kısa etki = redistribüsyon | **Tiyopental** |
+| Porfiride yasak | **Barbitüratlar** |
+| Hoş kokulu, maskeyle indüksiyon, astımlı hasta | **Sevofluran** |
+| Keskin kokulu, irritan, laringospazm | **Desfluran**, izofluran |
+| En hızlı uyanma | **Desfluran** |
+| En potent, en yavaş, florürle nefrotoksik | **Metoksifluran** |
+| Hepatit, katekolaminlerle aritmi | **Halotan** |
+| Pnömotoraksta yasak, B12'yi bozar, difüzyon hipoksisi, canlı rüyalar | **Azot protoksit** |
+| Malign hipertermi tedavisi | **Dantrolen** (riyanodin reseptörünü bloke eder) |
+| Uyanma odasında titreme | **Meperidin** |
+| Opioid anesteziğin göğüs duvarı rijiditesi | **Fentanil** (tedavi: nalokson ya da kas gevşetici) |
+|= Genel anesteziklerin “görünce düşün” tablosu.
+?? **MAK ↔ potens ters orantılı:** “**M**AK **M**inikse **M**üthiş güçlü.” **Kan/gaz ↔ hız ters orantılı:** “Kanda **az çözünen, çabuk uyutur, çabuk uyandırır**.”
+?? **Hız sırası (hızlıdan yavaşa) “De-Az-Sev-İz-Hal-Met”:** **De**sfluran, **Az**ot protoksit, **Sev**ofluran, **İz**ofluran, **Hal**otan, **Met**oksifluran. Potens sırası bunun tam tersi (azot protoksit hariç: en zayıfı odur).
+?? **Azot protoksitin altı özelliği “GAZ-B12”:** **G**ülme gazı (canlı rüyalar), **A**naljezik ama tek başına yetmez (MAK > %100), **Z**ararlı olduğu yer kapalı boşluk (pnömotoraks, ileus), **B**12'yi bozar (kemik iliği baskılanması), **1** çabuk başlar çabuk biter, **2** bitince difüzyon hipoksisi.
+?? **Ketamin “4 A”:** **A**naljezi güçlü, **A**rter basıncı artar, **A**stımda güvenli (bronkodilatör), **A**şırı rüya ve halüsinasyon. Yasak olduğu yer: **kafa içi basıncı yüksek** hasta.
+?? **Etomidat “E”leri:** **E**n stabil kalp, **E**ndokrin (böbreküstü) baskılanması, **E**ksitatör hareketler (miyoklonus), **E**metik (kusma).
+?? **Propofol “P”leri:** **P**opüler (en sık), **P**arlak uyanış, **P**uke (kusma) önler, **P**ressure (tansiyon) düşürür, **P**ain (enjeksiyon ağrısı).
+?? **Desfluran “Des-hızlı”, sevofluran “Sev-imli”:** desfluran en hızlı ama hava yolunu tahriş eder; sevofluran hoş kokulu, çocuklar ve astımlılar sever.
+?? **Malign hipertermi “RYR-DAN”:** **RYR**1 mutasyonu, tetikleyen uçucu gaz + süksinilkolin, tedavi **DAN**trolen.

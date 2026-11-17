@@ -1,0 +1,122 @@
+# Genel Anestezikler | Bu yıl 3 soru (S27, S28, S29). Blok sınavında her yıl 1-2 soru, toplam 11. Sorular kısa bir ilaç listesinden geliyor: GABA-A ile NMDA ayrımı, hangi hastaya hangi ajan ve azot protoksitin özellikleri. || Modül 1 · Bölüm 7
+
+## 1. Genel anestezi nedir?
+Genel anestezi, ilaçla oluşturulan, geri dönüşlü bir durumdur. Beş bileşeni vardır:
+1. **Bilinç kaybı (hipnoz)**
+2. **Amnezi** (olayın hatırlanmaması)
+3. **Analjezi** (ağrıya yanıtın kaybı)
+4. **Hareketsizlik** (cerrahi uyarıya hareket yanıtının olmaması; çoğunlukla omurilik düzeyinde)
+5. **Otonom reflekslerin baskılanması** (taşikardi, hipertansiyon yanıtının azalması)
+Hiçbir ilaç bu beşini tek başına iyi sağlamaz. Günümüzde **dengeli anestezi** uygulanır: intravenöz bir ilaçla uyutma (indüksiyon, ör. propofol), inhalasyon ajanıyla sürdürme (idame, ör. sevofluran), bir opioidle analjezi (fentanil) ve bir kas gevşeticiyle hareketsizlik (rokuronyum).
+### Klasik anestezi evreleri (Guedel; eter anestezisinde tanımlandı)
+1. **Analjezi evresi:** Ağrı azalır, bilinç yerinde, amnezi başlar.
+2. **Eksitasyon (deliryum) evresi:** Bilinç kaybolur ama kortekste inhibitör nöronlar önce baskılandığı için huzursuzluk, düzensiz solunum, kusma, laringospazm görülebilir. Hızlı indüksiyonla bu evre atlanmaya çalışılır.
+3. **Cerrahi anestezi evresi:** Düzenli solunum, kas gevşemesi; ameliyat bu evrede yapılır.
+4. **Medüller paralizi:** Solunum ve dolaşım merkezlerinin baskılanması; doz aşımıdır.
+
+## 2. Etki mekanizması: sinapsta fren artırılır, gaz azaltılır
+Genel anestezikler aksiyon potansiyelinin akson boyunca iletimini pek etkilemez; asıl etki yerleri **sinapslardır**. İnhibitör iletiyi güçlendirir, eksitatör iletiyi zayıflatırlar.
+### GABA-A reseptörü (en önemli hedef)
+1. GABA-A reseptörü bir **klorür kanalıdır**.
+2. GABA bağlanınca kanal açılır, Cl⁻ hücre içine girer ve nöron **hiperpolarize** olur (ateşlemesi zorlaşır).
+3. Propofol, etomidat, barbitüratlar (tiyopental), benzodiazepinler ve **uçucu inhalasyon anesteziklerinin çoğu** reseptöre GABA'dan farklı bölgelerden bağlanır ve GABA'nın etkisini güçlendirir: **klorür kanalının açık kalma süresi uzar** (S27'nin doğru şıkkı). Yüksek dozda barbitüratlar ve propofol kanalı GABA olmadan da açabilir.
+### NMDA reseptörü
+Glutamatın eksitatör iyon kanalı reseptörüdür. **Ketamin, azot protoksit (nitröz oksit) ve ksenon** bu reseptörü **bloke eder**; GABA-A üzerinden etki etmezler. Bu yüzden “GABA-A aktivasyonu yapmayan” sorusunun cevabı **ketamindir** (2022-23), “NMDA reseptörünü bloke eden inhalasyon anesteziği” sorusunun cevabı **azot protoksittir** (2023-24).
+### Diğer hedefler
+- **Glisin reseptörü:** Omurilik ve beyin sapında inhibitördür; inhalasyon anestezikleri ve **propofol** etkisini artırır (hareketsizliğe katkı; 2019-20'de soruldu).
+- **İki porlu (K2P) potasyum kanalları:** Uçucu anestezikler açar; nöron hiperpolarize olur.
+- **Nikotinik reseptörler** ve **presinaptik Ca²⁺ girişi baskılanır**: nörotransmitter salınımı **azalır** (“artırır” ifadesi yanlıştır; 2019-20).
+?? **“GABA-A'cılar” ile “NMDA'cılar”:** propofol, etomidat, tiyopental, benzodiazepin ve uçucu gazlar GABA-A'yı güçlendirir. Ketamin, azot protoksit ve ksenon NMDA'yı keser. Bu ikinci grubun ortak özelliği **güçlü analjezidir.**
+
+## 3. İnhalasyon anesteziklerinin iki sayısı
+### MAK: potensin ölçüsü
+**Minimum alveolar konsantrasyon (MAK)**, hastaların **yarısında** cerrahi kesiye hareket yanıtını önleyen alveol derişimidir (bir tür ED<sub>50</sub>).
+- **MAK ne kadar küçükse ilaç o kadar potenttir.**
+- Potens, ilacın **yağda çözünürlüğüyle** orantılıdır (Meyer-Overton kuralı): yağda çok çözünen ilacın küçük derişimi yeter.
+- **MAK'ı azaltan durumlar:** ileri yaş, hipotermi, gebelik, opioid ve sedatifler, akut alkol alımı, hiponatremi.
+- **MAK'ı artıran durumlar:** çocukluk (bebekler), hipertermi, kronik alkol kullanımı, hipernatremi.
+### Kan/gaz partisyon katsayısı: hızın ölçüsü
+İlacın **kanda ne kadar çözündüğünü** gösterir. Beynin uyuması için beyindeki **kısmi basıncın** yükselmesi gerekir; kısmi basınç da kanın doymasıyla yükselir.
+1. **Kanda az çözünen** ilaç (düşük katsayı) kanı hızla doyurur → kısmi basınç hızla yükselir → **indüksiyon ve uyanma hızlıdır**.
+2. **Kanda çok çözünen** ilaç kan tarafından “emilip saklanır” → kısmi basınç yavaş yükselir → **indüksiyon ve uyanma yavaştır**.
+| İlaç | Kan/gaz katsayısı | MAK (%) | Özet |
+| **Desfluran** | 0,42 | 6 | En hızlı uyanma; potensi düşük |
+| **Azot protoksit** | 0,47 | **104** | Çok hızlı ama tek başına yetersiz |
+| **Sevofluran** | 0,65 | 2 | Hızlı, hoş kokulu |
+| İzofluran | 1,4 | 1,2 | Orta hız |
+| Halotan | 2,3 | 0,75 | Yavaş, potent |
+| **Metoksifluran** | 12 | **0,16** | **En potent** ama en yavaş |
+|= İnhalasyon anesteziklerinin karşılaştırması (yaklaşık değerler).
+!! İki sayıyı karıştırmayın: **MAK potensi** (ne kadar güçlü), **kan/gaz katsayısı hızı** (ne kadar çabuk) gösterir. Metoksifluran en potent ama en yavaş; azot protoksit en hızlılardan ama en zayıf. 2022-23'te doğru ifade: “MAK ne kadar küçükse potens o kadar fazladır.”
+- İndüksiyonu hızlandıran diğer etkenler: solunan derişimin yüksek tutulması, alveoler ventilasyonun artması. Kalp debisinin artması indüksiyonu **yavaşlatır** (kan ilacı akciğerden daha hızlı taşıyıp götürür, alveol kısmi basıncı geç yükselir).
+- İnhalasyon anestezikleri vücuttan büyük ölçüde **akciğerle, değişmeden** atılır; metabolizma (halotan %20, metoksifluran %50, sevofluran %5, desfluran ve izofluran < %1) toksisitenin kaynağıdır.
+
+## 4. İnhalasyon anesteziklerinin organ etkileri ve tek tek özellikleri
+### Ortak etkiler
+- **Kardiyovasküler:** Hepsi kan basıncını düşürür. Halotan miyokardı baskılar; izofluran ve desfluran damar genişleterek düşürür ve **refleks taşikardi** yapabilir (2023-24'te kalp hızını artıran inhalasyon anesteziği olarak anahtar **izofluranı** verdi). **Halotan miyokardı katekolaminlere duyarlılaştırır**: adrenalinle ventriküler aritmi.
+- **Solunum:** Hepsi solunumu baskılar (CO<sub>2</sub>'ye yanıt azalır) ve **bronşları genişletir**. **Desfluran ve izofluran keskin kokulu ve irritandır** (öksürük, laringospazm); maskeyle indüksiyonda kullanılmaz.
+- **Beyin:** Beyin kan akımını ve kafa içi basıncını artırır, oksijen tüketimini azaltır.
+- **Kas:** Nondepolarizan kas gevşeticilerin etkisini güçlendirir; **malign hipertermiyi** tetikleyebilir.
+- **Uterus:** Gevşetir; doğum sonrası kanamayı artırabilir.
+| İlaç | Öne çıkan özellikleri |
+| **Halotan** | Bronkodilatör, solunum yollarını irrite etmez (astımlıda kullanılabilir). Miyokardı baskılar, **katekolaminlere duyarlılaştırır** (aritmi). Trifloroasetik asit metabolitiyle bağışıklık aracılı **halotan hepatiti** (tekrarlanan maruziyette). Günümüzde az kullanılır |
+| **İzofluran** | Keskin kokulu, irritan; damar genişletir, refleks taşikardi; koroner çalma tartışılmıştır |
+| **Desfluran** | Kanda en az çözünen: **en hızlı uyanma**, günübirlik cerrahi. **Çok irritan**: öksürük, laringospazm; indüksiyonda kullanılmaz. Derişim hızla artırılınca sempatik uyarılma |
+| **Sevofluran** | **Hoş kokulu, irritan değil**: çocuklarda ve yetişkinde **maskeyle indüksiyonun ilk tercihi**. Hızlı indüksiyon ve uyanma. Güçlü bronkodilatör; **astımlıda tercih edilir** (S28). Soda kirecinde “bileşik A” oluşur (hayvanda nefrotoksik); florür açığa çıkar |
+| **Metoksifluran** | **En potent**, ama indüksiyon ve uyanma **çok yavaş**. Metabolizmasıyla açığa çıkan **florür iyonu nefrotoksiktir** (poliürik böbrek yetersizliği). Günübirlik cerrahiye **uygun değildir** (2025-26). Bugün yalnız düşük dozda analjezik olarak (inhaler) kullanılır |
+| **Azot protoksit** | Aşağıda ayrıca |
+|= İnhalasyon anestezikleri.
+!! **S28 kaynak notu:** Bu yılın anahtarı “sevofluran inhalasyon anestezikleri arasında **en güçlü bronkodilatördür** ve astımlıda tercih edilir” şıkkını doğru saydı. Klasik kaynaklarda halotan da güçlü bronkodilatör olarak geçer ve 2025-26'da “halotan – astımı olan hasta” doğru eşleştirmeydi. Sınavda iki ifade de karşınıza çıkabilir: ikisi de astımlıya uygundur; yanlış olan, izofluran ve desfluranı astımda indüksiyon için önermek ve ketamini astımda kontrendike saymaktır.
+### Azot protoksit (nitröz oksit, “gülme gazı”)
+- **MAK'ı %104:** atmosfer basıncında tek başına yeterli anestezi sağlamaz; diğer ajanlara eklenir (onların dozunu azaltır).
+- **Güçlü analjezik**; NMDA antagonisti. Doğumda ve diş hekimliğinde %50 oksijenle karışım olarak.
+- Kanda çok az çözünür: etkisi **hızlı başlar ve hızlı sona erer** (“yavaş başlar, yavaş biter” yanlıştır; 2025-26).
+- Kanda azota göre 30 kat fazla çözündüğü için **kapalı hava boşluklarına** girip genişletir: **pnömotoraks**, bağırsak tıkanması, orta kulak cerrahisi, göz içi gaz enjeksiyonu ve hava embolisinde **kontrendikedir**.
+- **B12 vitaminini oksitleyip** metiyonin sentazı inaktive eder: uzun ya da tekrarlayan kullanımda **megaloblastik anemi, kemik iliği baskılanması**, nöropati (2025-26'da doğru öncül).
+- Uyanırken hasta **canlı ve bazen cinsel içerikli rüyalar** görebilir (2025-26'da doğru öncül).
+- Kesildiğinde kandan alveole hızla geçip oksijeni seyreltir: **difüzyon hipoksisi**. Anestezinin sonunda birkaç dakika %100 oksijen verilir.
+- Miyokardı ve solunumu az etkiler.
+
+## 5. İntravenöz anestezikler
+| İlaç | Mekanizma | Öne çıkan özellikleri |
+| **Propofol** | GABA-A | En sık kullanılan **indüksiyon** ilacı; ayrıca idame (total intravenöz anestezi). **Hızlı ve berrak uyanma**, **antiemetik**. Kan basıncını ve kafa içi basıncını düşürür; solunum depresyonu. Enjeksiyonda yanma ağrısı. Lipit emülsiyonu (enfeksiyon riski). Uzun yüksek dozda **propofol infüzyon sendromu** (asidoz, rabdomiyoliz) |
+| **Tiyopental** (barbitürat) | GABA-A | Çok hızlı etki; **etkisinin birkaç dakikada bitmesi metabolizmayla değil beyinden kas ve yağ dokusuna yeniden dağılımla (redistribüsyon) olur** (2024-25). Tekrarlanan dozda yağda birikir, uyanma gecikir. Beyin oksijen tüketimini ve kafa içi basıncını azaltır (beyin koruma). **Porfiride kontrendike** (δ-ALA sentaz indüksiyonu). Analjezik değildir |
+| **Etomidat** | GABA-A | **Kardiyovasküler olarak en stabil** indüksiyon ilacı (kalp hastası, hemodinamisi bozuk hasta). **11β-hidroksilazı baskılar**: tek dozda bile böbreküstü steroid sentezi azalır. Miyoklonus, bulantı-kusma |
+| **Ketamin** | **NMDA antagonisti** | **Dissosiyatif anestezi:** gözler açık, hasta çevreden kopuk; **güçlü analjezi**. **Sempatik sistemi uyarır**: kan basıncı ve kalp hızı artar → **hipovolemik ve şoktaki hastada uygun**. **Bronkodilatördür** → astımlıda kullanılabilir. Solunumu az baskılar, hava yolu refleksleri korunur. Kafa içi basıncını ve göz içi basıncını artırır. Uyanırken **canlı rüyalar, halüsinasyon** (benzodiazepinle azaltılır). Düşük dozda analjezik ve antidepresan (esketamin) |
+| **Midazolam** (benzodiazepin) | GABA-A | Sedasyon, anksiyoliz, **amnezi**; premedikasyon. Antidotu **flumazenil** |
+| **Deksmedetomidin** | **α2 agonisti** | Solunumu baskılamadan sedasyon; yoğun bakım. Bradikardi, hipotansiyon |
+| **Fentanil**, sufentanil, alfentanil, **remifentanil** | **μ opioid agonisti** | Analjezi bileşeni (2021-22). Gövde (göğüs duvarı) rijiditesi. Remifentanil plazma esterazlarıyla yıkılır, en kısa etkilidir |
+|= İntravenöz anestezikler.
+
+## 6. Hangi hastaya hangi anestezik?
+2025-26 blok sınavında doğrudan eşleştirme olarak soruldu.
+| Hasta | Tercih | Kaçınılacak |
+| **Astım, bronkospazm** | **Sevofluran**, halotan, **ketamin**, propofol | Desfluran, izofluran (irritan); tiyopental (laringospazm) |
+| **Hipovolemi, şok, travma** | **Ketamin**, **etomidat** | Propofol, tiyopental (hipotansiyon) |
+| **Kalp hastası, koroner hastalık** | **Etomidat** (stabil), opioid ağırlıklı anestezi | Ketamin (taşikardi, oksijen tüketimi ↑) |
+| **Kafa içi basıncı yüksek, kafa travması** | **Propofol, tiyopental** | **Ketamin**, yüksek doz uçucu ajan |
+| **Günübirlik (ayaktan) cerrahi** | **Propofol, desfluran, sevofluran**, remifentanil | **Metoksifluran** (çok yavaş uyanma) |
+| **Çocukta maskeyle indüksiyon** | **Sevofluran** | Desfluran, izofluran |
+| **Malign hipertermi öyküsü** | Propofol ile total intravenöz anestezi, nondepolarizan kas gevşetici | **Bütün uçucu ajanlar ve süksinilkolin** |
+| **Pnömotoraks, ileus, orta kulak cerrahisi** | | **Azot protoksit** |
+| **Akut intermittan porfiri** | Propofol | **Barbitüratlar** (tiyopental), etomidat |
+| **Karaciğer hastalığı** | Sevofluran, desfluran, izofluran | Halotan |
+| **Böbrek hastalığı** | Desfluran, izofluran | Metoksifluran (florür); sevofluran dikkatli |
+| **Bulantı-kusma eğilimi** | **Propofol** (antiemetik) | Azot protoksit, etomidat, opioidler |
+| **Sepsis, böbreküstü yetmezliği** | Ketamin | **Etomidat** (steroid sentezini baskılar) |
+|= Hasta ve anestezik eşleştirmesi.
+
+## 7. Anestezinin iki komplikasyonu
+### Malign hipertermi
+1. Kalıtsal olarak (çoğunlukla otozomal dominant) iskelet kasındaki **riyanodin reseptöründe (RYR1)** mutasyonu olan kişide,
+2. **uçucu inhalasyon anestezikleri** ya da **süksinilkolin** sarkoplazmik retikulumdan **kontrolsüz kalsiyum salınımına** yol açar.
+3. Kas sürekli kasılır ve ATP tüketir: **kas sertliği** (masseter spazmı), **ani yükselen soluk sonu CO<sub>2</sub>**, taşikardi, **yüksek ateş**, metabolik ve solunumsal asidoz, hiperkalemi, rabdomiyoliz.
+4. **Tedavi:** tetikleyici ajanın hemen kesilmesi, %100 oksijen ve **dantrolen** (riyanodin reseptörünü bloke ederek kalsiyum salınımını durdurur), soğutma, asidoz ve hiperkaleminin düzeltilmesi. (“Dantrolen riyanodin reseptörünü uyarır” ifadesi yanlıştır; 2022-23.)
+### Ameliyat sonrası titreme (shivering)
+- Anestezi hipotalamusun ısı düzenlemesini bozar ve damar genişlemesiyle ısı kaybı olur; uyanırken hasta titrer. Titreme **oksijen tüketimini artırır** (kalp hastasında tehlikeli).
+- Önlem: hastayı ısıtmak. İlaç tedavisinde en etkili ajan **meperidindir (petidin)**: **κ opioid reseptörleri** ile **noradrenerjik ve serotonerjik mekanizmalar** üzerinden (ayrıca α2 adrenerjik etki) titreme eşiğini düşürür (S29). Diğer seçenekler: klonidin, deksmedetomidin, tramadol.
+
+@EKLE ezber/e7.txt
+
+## Çıkmış sorular
+@EKLE sorular/s7.txt

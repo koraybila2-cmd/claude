@@ -1,0 +1,171 @@
+# Genel Farmakoloji: Farmakokinetik | Bu yıl 7 soru (S30, S38, S39, S40, S43, S45, S47); blok sınavında her yıl 2-3 genel farmakoloji sorusu. Önce konu, sonra kolay ezber sayfası, en sonda çıkmış sorular. || Modül 1 · Bölüm 5
+
+## 1. Farmakokinetik mi, farmakodinami mi?
+Farmakoloji iki soruya cevap arar. **Farmakokinetik** “vücut ilaca ne yapar?” sorusudur: ilacın **emilimi, dağılımı, metabolizması ve atılımı** (İngilizce baş harfleriyle ADME). **Farmakodinami** “ilaç vücuda ne yapar?” sorusudur: etki mekanizması, reseptör, doz-yanıt ilişkisi, antagonizma.
+Sınavın en sevdiği kalıp, bir olayı verip hangi alana ait olduğunu sormaktır. Tek bir soru sorun: **Olay, ilacın etki yerindeki derişimini mi değiştiriyor?** Evet ise farmakokinetik, hayır (aynı derişimde etki değişiyor) ise farmakodinamidir.
+| Olay | Alan | Neden? |
+| Antiasit kullanan hastada tetrasiklinin etkisizleşmesi | **Farmakokinetik** (emilim) | Şelat oluşur, ilaç emilemez |
+| Organik nitratın ağızdan dozunun dil altı dozundan yüksek olması | **Farmakokinetik** (ilk geçiş) | Ağızdan alınan nitrat karaciğerde yıkılır |
+| Levodopanın presistemik eliminasyonu | **Farmakokinetik** | Bağırsak ve karaciğerde dopa dekarboksilaz yıkar |
+| Geniş spektrumlu antibiyotik alan kadında oral kontraseptifin etkisizleşmesi | **Farmakokinetik** (enterohepatik döngü) | Bağırsak florası azalınca ilaç geri emilemez |
+| Probenesidin penisilinin etkisini uzatması | **Farmakokinetik** (atılım) | Tübüler sekresyonda aynı taşıyıcı için yarışırlar |
+| Rifampisinin varfarin etkisini azaltması | **Farmakokinetik** (metabolizma) | Enzim indüksiyonu |
+| Naloksonun morfin etkisini kaldırması | **Farmakodinami** | Aynı reseptörde yarışma |
+| Adrenalinin histaminin bronş daraltıcı etkisini gidermesi | **Farmakodinami** | Fizyolojik antagonizma |
+| Beta blokerin uzun kullanımında reseptör sayısının artması | **Farmakodinami** | Reseptör düzeyinde uyum |
+|= Farmakokinetik ve farmakodinami ayrımı: çıkmış sorulardaki örnekler.
+
+## 2. İlaçlar zarlardan nasıl geçer?
+Emilim, dağılım ve atılımın hepsi ilacın hücre zarlarından geçmesine bağlıdır. Dört yol vardır:
+1. **Pasif difüzyon (en sık):** İlaç derişimin yüksek olduğu yerden düşük olduğu yere, enerji harcamadan, zarın lipit tabakasında çözünerek geçer. Taşıyıcı gerekmez, doymaz. Hızı (Fick yasası) şunlarla **artar**: derişim farkı, zar yüzey alanı, **lipitte çözünürlük (lipit/su partisyon katsayısı)**, **küçük molekül ağırlığı** ve **iyonize olmayan (yüksüz) biçimin** oranı. Zar kalınlığı arttıkça hız azalır.
+2. **Sulu kanallardan filtrasyon:** Çok küçük, suda çözünen moleküller (lityum, etanol, üre) aradaki porlardan geçer. Glomerül kılcallarında büyük porlar vardır; serbest ilaçların çoğu süzülür.
+3. **Taşıyıcı aracılı geçiş:** Kolaylaştırılmış difüzyon (enerji harcamaz, derişim yönünde) ve aktif taşıma (ATP harcar, derişime karşı). Doyurulabilir ve yarışmaya açıktır (probenesid ile penisilinin aynı taşıyıcıda yarışması). **P-glikoprotein** ilacı hücreden dışarı pompalayan bir dışa atım pompasıdır; bağırsak epitelinde emilimi, kan-beyin bariyerinde beyne geçişi azaltır.
+4. **Endositoz:** Büyük moleküller (B12-intrensek faktör kompleksi, demir-transferrin).
+
+## 3. İyonizasyon: ilaç kendine benzeyen ortamda yüksüz kalır
+İlaçların çoğu **zayıf asit** ya da **zayıf bazdır**; vücut sıvılarında bir kısmı iyonize (yüklü), bir kısmı non-iyonize (yüksüz) bulunur. Zardan yalnız **yüksüz** biçim geçebilir; yüklü biçim suda çözünür ama lipit zarda çözünmez.
+### Henderson-Hasselbalch denklemi
+- **pKa**, molekülün tam yarısının iyonize olduğu pH'dır. İlacın kimyasal bir sabitidir; ortama göre değişmez.
+- **Zayıf asit (HA ⇌ H⁺ + A⁻):** pKa − pH = log ([HA] / [A⁻]) = log (yüksüz / yüklü).
+- **Zayıf baz (BH⁺ ⇌ B + H⁺):** pKa − pH = log ([BH⁺] / [B]) = log (yüklü / yüksüz).
+- Her **1 birimlik** pH farkı oranı **10 kat** değiştirir.
+### Kuralın mantığı
+Asidik ortamda bol H⁺ vardır. Zayıf asidin yükü H⁺ ile nötrlenir (HA): asit, asitte **yüksüz** kalır. Bazik bir molekül ise asitte H⁺ alıp yüklenir (BH⁺). Ters ortamda tersi olur.
+| | Asidik ortamda (mide, pH 1-3; asit idrar) | Bazik ortamda (plazma 7,4; ince bağırsak; alkali idrar) |
+| **Zayıf asit** (aspirin, fenobarbital, varfarin, NSAİİ, furosemid) | **Yüksüz** → zardan geçer, emilir, geri emilir | **Yüklü** → hapsolur, idrarla atılır |
+| **Zayıf baz** (morfin ve opioidler, amfetamin, lidokain, trisiklikler, kinin) | **Yüklü** → hapsolur, atılır | **Yüksüz** → zardan geçer, emilir |
+|= İyonizasyon ve zardan geçiş.
+### Hesaplı örnek: aspirin (pKa 3,5)
+- **Midede (pH 1,5):** pKa − pH = 2 → yüksüz/yüklü = **100/1**. Aspirin midede büyük ölçüde yüksüzdür ve mide hücrelerine geçebilir.
+- **Plazmada (pH 7,4):** pKa − pH = −3,9 → yüksüz/yüklü ≈ 1/8000. Plazmaya geçen aspirin hemen yüklenir ve **geri dönemez**.
+- Buna karşın aspirinin asıl emildiği yer **ince bağırsaktır**: yüzey alanı mideden yüzlerce kat büyüktür ve yüksüz kısmın oranı az da olsa sürekli yenilenir. Yani “asit ilaç yalnızca midede emilir” ifadesi yanlıştır; yüzey alanı iyonizasyondan daha belirleyicidir.
+### İyon tuzağı
+1. Yüksüz ilaç zardan geçip pH'ı farklı olan bir bölmeye girer.
+2. Orada iyonize olur ve zardan geri dönemez.
+3. Bölmeye girişi sürer, çıkışı durur: ilaç o bölmede **birikir**.
+Kural: **asidik ilaç bazik bölmede, bazik ilaç asidik bölmede birikir.**
+@SVG iyon_tuzagi.svg
+@SEKIL Şekil 5.A. Damardan verilen zayıf bazik bir ilacın (pKa 8) mide sıvısında birikmesi. Yüksüz B zarı geçer; asidik midede H⁺ alıp BH⁺ olur ve geri dönemez.
+- **Bu yılın S38'i:** damardan verilen bazik bir ilacın (ör. morfin) **mide sıvısında birikmesi mümkündür**. Bu nedenle morfin zehirlenmesinde mide yıkaması, ilaç damardan alınmış olsa bile ilaç kazandırabilir.
+- **Anne sütü** (pH 7,0-7,2) plazmadan hafif asidiktir: **bazik ilaçlar sütte birikir** (opioidler, trisiklikler, antihistaminikler).
+- **Zehirlenmede atılımı hızlandırmak:** asidik ilaç (aspirin, fenobarbital) zehirlenmesinde idrar **sodyum bikarbonatla alkalileştirilir**: tübülde ilaç yüklenir, geri emilemez, atılır. Bazik ilaçlarda (amfetamin) idrarın asitleştirilmesi kuramsal olarak aynı işi yapar (günümüzde pek uygulanmaz).
+- **S39:** Pasif difüzyonla emilen ilacın emilimini artıran en olası özellik **non-iyonize kısmının artmasıdır**.
+
+## 4. Emilim ve veriliş yolları
+| Yol | Emilim hızı | İlk geçiş | Ayırt edici özellik |
+| **İntravenöz** | Anında | Yok | Biyoyararlanım %100; doz ayarı kolay; geri alınamaz |
+| İntramüsküler | Hızlı (suda çözünenler), yavaş (depo yağlı) | Yok | Kas kan akımına bağlı; depo preparatlar |
+| Subkutan | Yavaş, düzenli | Yok | İnsülin, heparin; adrenalinle yavaşlatılabilir |
+| **Oral** | Değişken | **Var** | En güvenli, en ucuz, en sık; biyoyararlanım en yüksek **değildir** |
+| **Dil altı, bukkal** | Hızlı | **Yok** (portal dolaşımı atlar) | Nitrogliserin, buprenorfin |
+| **Rektal** | Değişken | **Kısmen** | Alt ve orta rektal venler sistemik, üst rektal ven portal dolaşıma döner. Kusan hasta, çocuk; hem lokal hem sistemik etki |
+| İnhalasyon | Çok hızlı | Yok | Akciğer yüzeyi geniş; anestezik gazlar, bronkodilatörler |
+| Transdermal | Çok yavaş, sürekli | Yok | Fentanil, nitrogliserin, nikotin bantları |
+| Topikal | Lokal | – | Deri, göz, burun mukozası |
+|= Veriliş yolları.
+- **Veriliş yolunu belirleyen etkenler:** ilacın fizikokimyasal özellikleri (çözünürlük, mide asidinde kararlılık), emilim ve ilk geçiş özellikleri, istenen etkinin hızı ve süresi, etkinin lokal mi sistemik mi istendiği, hastanın durumu (bilinç, kusma), uyum. **İlacın reseptör afinitesi** veriliş yolunu belirlemez (2023-24'te soruldu).
+- **Farmasötik şekiller:** ER (uzatılmış salınımlı) ve SR preparatlar ilacı yavaş salıp doz sıklığını azaltır; enterik kaplı tablet midede çözünmez (aspirin, mide asidinde bozulan ilaçlar). Supozituvar hem lokal hem sistemik etki için kullanılır.
+### Emilimi azaltan etkileşimler
+- **Şelasyon:** **Tetrasiklinler** ve **florokinolonlar**; antiasitlerdeki, süt ürünlerindeki ve demir preparatlarındaki iki ve üç değerlikli katyonlarla (Ca²⁺, Mg²⁺, Al³⁺, Fe²⁺) emilemeyen kompleks yapar. Bu yılın S43'ü: antiasit + tetrasiklin → **gastrointestinal absorpsiyon** değişikliği. Çözüm: aralarına 2-4 saat koymak.
+- **Mide pH'ının yükselmesi:** Ketokonazol, itrakonazol ve demir emilimi için asit gerekir; proton pompa inhibitörleri bu ilaçların emilimini azaltır.
+- **Mide boşalma hızı:** Metoklopramid hızlandırır (emilim hızlanır); opioidler ve antikolinerjikler yavaşlatır.
+- **Bağlayıcılar:** Kolestiramin digoksini, varfarini ve tiroksini bağlar.
+
+## 5. Biyoyararlanım ve ilk geçiş etkisi
+### Biyoyararlanım
+**Biyoyararlanım (F)**, farmasötik şekildeki etkin maddenin **emilip sistemik dolaşıma (etki yerine) ulaşma hızı ve derecesidir**. Damar yolunda %100'dür. Ağızdan verilen ilacın plazma derişim-zaman eğrisinin altındaki alanın (EAA, AUC) damardan verilenin alanına oranıdır: F = EAA<sub>oral</sub> / EAA<sub>iv</sub>.
+- **Farmasötik eşdeğerlik:** Aynı etkin maddenin aynı miktarda ve aynı farmasötik şekilde bulunması.
+- **Biyoeşdeğerlik:** Farmasötik eşdeğerliğe ek olarak biyoyararlanımın (hız ve derece; C<sub>max</sub>, t<sub>max</sub>, EAA) benzer olması. Jenerik ilacın ruhsatı için **biyoeşdeğerlik** aranır; farmasötik eşdeğerlik tek başına yetmez.
+### İlk geçiş (presistemik) eliminasyon
+Ağızdan alınan ilaç sistemik dolaşıma ulaşmadan önce dört engelden geçer:
+1. **Bağırsak lümeni:** mide asidi ve sindirim enzimleri (benzilpenisilin, insülin yıkılır).
+2. **Bağırsak duvarı:** epitel hücresindeki **CYP3A4** ve **P-glikoprotein** (siklosporin, verapamil, midazolam).
+3. **Portal dolaşım ve karaciğer:** ilaç önce karaciğerden geçer ve büyük kısmı burada yıkılabilir.
+4. Ancak geri kalanı sistemik dolaşıma ulaşır.
+Yani ilk geçiş **yalnız karaciğerde olmaz.** İlk geçişe çok uğrayan ilaçların ağızdan dozu damar ya da dil altı dozundan çok yüksektir ya da ağızdan hiç kullanılamazlar.
+| İlk geçişi yüksek ilaç | Sonuç |
+| **Nitrogliserin** | Ağızdan neredeyse etkisiz; dil altı, bant ya da damardan |
+| **Lidokain** | Ağızdan antiaritmik olarak kullanılamaz |
+| **Propranolol** | Ağızdan dozu damardan dozunun katlarıdır (presistemik eliminasyona en çok uğrayan; 2022-23) |
+| **Morfin** | Ağızdan biyoyararlanım yaklaşık %25 |
+| **Levodopa** | Periferde dopa dekarboksilazla yıkılır; karbidopa ile birlikte verilir |
+| Verapamil, imipramin, kortizon, östradiol, testosteron | Doz ayarı gerekir |
+|= İlk geçiş etkisi yüksek ilaçlar.
+### Enterohepatik döngü
+1. İlaç karaciğerde **glukuronik asitle konjuge** edilir ve safrayla bağırsağa atılır.
+2. Kalın bağırsaktaki **bakterilerin β-glukuronidaz enzimi** konjugatı parçalar.
+3. Serbest kalan ilaç yeniden emilir ve karaciğere döner.
+4. Döngü ilacın vücutta kalış süresini uzatır; plazma derişim eğrisinde ikinci bir tepe görülebilir.
+**Geniş spektrumlu antibiyotik** bağırsak florasını baskılayınca konjugat parçalanamaz, ilaç dışkıyla gider ve etkisi azalır. Antibiyotik kullanan kadında **oral kontraseptifin etkinliğinin azalması** (S30 ve S40) bu yolla açıklanır; farmakokinetik bir etkileşimdir. (Rifampisin ise aynı sonuca enzim indüksiyonuyla ulaşır.) Enterohepatik döngüdeki ilaçlar: östrojenler, morfin, digitoksin, mikofenolat, indometazin.
+
+## 6. Dağılım
+### Sanal dağılım hacmi
+**V<sub>d</sub> = vücuttaki ilaç miktarı / plazma derişimi.** Gerçek bir hacim değildir; ilacın plazmada mı kaldığını yoksa dokulara mı yayıldığını gösteren bir ölçüdür.
+| V<sub>d</sub> (70 kg erişkin) | Anlamı | Örnek |
+| ~3-5 L | Plazmada kalır (büyük molekül ya da yüksek proteine bağlanma) | Heparin, varfarin |
+| ~14 L | Hücre dışı sıvıya yayılır (suda çözünür, hücreye giremez) | Aminoglikozitler |
+| ~42 L | Tüm vücut suyuna yayılır | Etanol |
+| Yüzlerce litre | Dokularda (yağ, kas) birikir | Digoksin, amiodaron, klorokin, trisiklikler |
+|= Dağılım hacminin yorumu.
+- **Başlangıç derişimi:** C<sub>0</sub> = doz / V<sub>d</sub>. Örnek (2019-20): 50 kg hastaya 4 mg/kg lidokain (toplam 200 mg), V<sub>d</sub> 1 L/kg (50 L) → C<sub>0</sub> = 200/50 = **4 mg/L**.
+- **Yükleme dozu** = V<sub>d</sub> × hedef plazma derişimi. Dağılım hacmi büyük ilaçlarda (digoksin, amiodaron) hedef derişime hızlı ulaşmak için yükleme dozu verilir.
+- Hemodiyaliz dağılım hacmi büyük ilaçları vücuttan uzaklaştıramaz (ilaç plazmada değil dokudadır).
+### Plazma proteinlerine bağlanma
+- **Asidik ilaçlar albümine** (varfarin, fenitoin, NSAİİ, sülfonamidler), **bazik ilaçlar α1-asit glikoproteine** (lidokain, propranolol) bağlanır.
+- **Bağlı ilaç etkisizdir:** zarlardan geçemez, glomerülden süzülemez, metabolize edilemez; bir **depo** gibi davranır. Yalnız **serbest ilaç** etkilidir.
+- Yüksek oranda bağlanan ilaç damar içinde kalır; bu yüzden **dağılım hacmi küçük hesaplanır** (S47). Bağlanma yarı ömrü kısaltmaz, uzatır.
+- **Yerinden etme etkileşimi:** Aynı bölgeye bağlanan ikinci ilaç birinciyi serbestleştirir. Klinikte önemli olduğu durumlar: bağlanma oranı çok yüksek (> %90), terapötik aralığı dar, dağılım hacmi küçük ilaç; varfarin (NSAİİ, sülfonamid ile INR yükselir; ayrıca metabolizması da yavaşlar), fenitoin. **Yenidoğanda** sülfonamid bilirubini albüminden ayırır ve **kernikterus** yapar.
+- **Hipoalbuminemi** (siroz, nefrotik sendrom, yaşlılık, malnütrisyon) serbest ilacı artırır; fenitoin toksisitesi toplam düzey normalken görülebilir.
+### Özel bariyerler ve yeniden dağılım
+- **Kan-beyin bariyeri:** Endotel hücreleri sıkı bağlantılarla birleşmiştir ve P-glikoprotein taşır; yalnız lipofilik, yüksüz, küçük moleküller geçer. Menenjitte bariyer gevşer (penisilin geçebilir). Loperamid P-gp nedeniyle beyne geçmez, santral opioid etkisi yoktur.
+- **Plasenta:** Lipofilik ilaçların çoğu geçer; heparin (büyük, yüklü) ve insülin geçmez.
+- **Yeniden dağılım (redistribüsyon):** Lipofilik ilaç önce kan akımı yüksek beyne gider, sonra kas ve yağ dokusuna kayar. **Tiyopentalin** etkisinin birkaç dakikada bitmesi metabolizmayla değil bu yolla olur (Bölüm 7).
+
+## 7. Biyotransformasyon (metabolizma)
+Amaç ilacı **daha polar** (suda çözünür) hâle getirip böbrek ve safrayla atılabilir kılmaktır. Başlıca organ karaciğerdir; bağırsak, akciğer, böbrek ve plazma da katkıda bulunur.
+| | Faz I (işlevselleştirme) | Faz II (konjugasyon) |
+| Tepkime | Oksidasyon, redüksiyon, hidroliz | Glukuronidasyon (en sık), asetilasyon, sülfatasyon, metilasyon, glutatyon konjugasyonu |
+| Enzim | Çoğunlukla **sitokrom P450** (CYP) | UDP-glukuronil transferaz, N-asetiltransferaz (NAT), sülfotransferaz, glutatyon S-transferaz |
+| Sonuç | Polar grup eklenir; ürün aktif, inaktif ya da toksik olabilir | Ürün çoğunlukla inaktif ve suda iyi çözünür |
+|= Biyotransformasyonun iki fazı.
+- **CYP3A4** ilaçların yaklaşık yarısını metabolize eder. **CYP2D6:** kodein → morfin, tramadol, metoprolol. **CYP2C9:** varfarin, fenitoin. **CYP2C19:** klopidogrel, omeprazol. **CYP1A2:** teofilin, kafein (sigara indükler).
+- **Glukuronidasyon yenidoğanda yetersizdir:** kloramfenikol birikir → **gri bebek sendromu**.
+- **Parasetamol** normal dozda glukuronid ve sülfat olarak atılır; aşırı dozda bu yollar doyar, CYP2E1 ile toksik **NAPQI** oluşur ve glutatyon tükenince karaciğer nekrozu gelişir. Antidotu **N-asetilsistein** (glutatyon öncülü).
+### Asetilasyon polimorfizmi (NAT2)
+Toplumun yaklaşık yarısı **yavaş asetilleyicidir**. Bu kişilerde asetilasyonla yıkılan ilaçlar birikir:
+- **İzoniazid:** periferik nöropati (piridoksin ile korunur). 2023-24'te “NAT eksikliğinde biyotransformasyonu yavaşlayan ilaç” sorusunun cevabı.
+- **Hidralazin, prokainamid:** ilaca bağlı lupus.
+- **Dapson, sülfonamidler:** hemoliz, aşırı duyarlılık.
+### Önilaçlar
+İnaktif olarak verilip vücutta aktif hâle dönüşen ilaçlardır: **levodopa** (dopamin), **enalapril** ve kaptopril/lisinopril dışındaki “-pril”ler, **kodein** (morfin), **klopidogrel**, **prednizon** (prednizolon), **azatioprin** (6-merkaptopürin), **siklofosfamid**, valasiklovir, oseltamivir.
+### Enzim indüksiyonu ve inhibisyonu
+| | İndükleyiciler | İnhibitörler |
+| Örnekler | **Rifampisin, karbamazepin, fenitoin, fenobarbital**, St. John's wort (sarı kantaron), griseofulvin, kronik alkol, sigara (CYP1A2) | **Ketokonazol** ve azoller, **eritromisin, klaritromisin**, **simetidin**, **greyfurt suyu**, amiodaron, verapamil, diltiazem, ritonavir, izoniazid, valproat, akut alkol |
+| Mekanizma | Enzim **gen ekspresyonunu** artırır (yeni enzim yapılır) | Enzime bağlanıp onu bloke eder |
+| Başlama | **Yavaş** (günler-haftalar); kesilince etkisi de yavaş geçer | **Hızlı** (saatler-günler) |
+| **Aktif ilaca etkisi** | Yıkım hızlanır → düzey ve **etki azalır** (varfarin, oral kontraseptif, siklosporin etkisizleşir) | Yıkım yavaşlar → düzey ve **etki, toksisite artar** |
+| **Önilaca etkisi** | Aktif metabolite dönüşüm hızlanır → **etki artar** (S45) | Aktivasyon azalır → etki azalır (CYP2C19 inhibitörü omeprazol + klopidogrel) |
+|= Enzim indüksiyonu ve inhibisyonu.
+
+## 8. Atılım
+### Böbrekten atılımın üç basamağı
+1. **Glomerüler filtrasyon:** Yalnız **serbest** (proteine bağlı olmayan) ilaç süzülür. GFR'ye bağlıdır; böbrek yetersizliğinde ve yaşlılıkta azalır.
+2. **Aktif tübüler sekresyon:** Proksimal tübülde organik anyon (OAT; penisilin, probenesid, metotreksat, diüretikler) ve organik katyon (OCT; metformin, simetidin) taşıyıcılarıyla. Doyurulabilir ve yarışmalıdır: **probenesid penisilinin sekresyonunu yarışarak azaltır ve etkisini uzatır** (farmakokinetik etkileşim; 2024-25'te soruldu). Proteine bağlı ilaç da salgılanabilir.
+3. **Pasif tübüler geri emilim:** Distal tübülde yüksüz ve lipofilik ilaç kana geri döner. İdrar pH'ı burada belirleyicidir (iyon tuzağı).
+- **Diğer yollar:** safra ve dışkı (enterohepatik döngü), akciğer (inhalasyon anestezikleri, etanol), anne sütü, ter ve tükürük.
+### Klerens, yarı ömür, kararlı durum
+- **Klerens (CL):** Birim zamanda ilaçtan tamamen temizlenen plazma hacmi (mL/dk). Eliminasyon hızı = CL × plazma derişimi.
+- **Yarı ömür:** t<sub>1/2</sub> = 0,693 × V<sub>d</sub> / CL. Dağılım hacmi büyüdükçe uzar, klerens arttıkça kısalır.
+- **Birinci derece kinetik (ilaçların çoğu):** Birim zamanda ilacın **sabit bir oranı** atılır; yarı ömür sabittir.
+- **Sıfırıncı derece kinetik:** Enzim doyduğu için birim zamanda **sabit bir miktar** atılır; yarı ömür dozla uzar ve küçük doz artışı büyük düzey artışı yapar. Örnekler: **etanol, fenitoin (yüksek dozda), aspirin (yüksek dozda)**.
+- **Kararlı durum:** Düzenli dozlamada **4-5 yarı ömürde** ulaşılır; ilaç kesilince de 4-5 yarı ömürde vücuttan büyük ölçüde (%94-97) temizlenir.
+- **İdame dozu hızı** = CL × hedef derişim; **yükleme dozu** = V<sub>d</sub> × hedef derişim.
+
+## 9. Farmakolojiye giriş: kaynak ve terimler
+- **İlaçların kaynağı:** bitkisel (morfin, digoksin, atropin, kinin), hayvansal (eskiden insülin, heparin), mineral (lityum, demir), sentetik (çoğu modern ilaç) ve **biyoteknolojik** (rekombinant insülin, **interferonlar**, monoklonal antikorlar, eritropoetin). 2023-24'te “kaynağı bakımından farklı olan” sorusunda interferonlar biyoteknolojik olduğu için ayrıldı.
+- **Farmasötik şekil:** İlacın hastaya verildiği biçim (tablet, kapsül, şurup, supozituvar, enjektabl çözelti, krem, bant). **Supozituvar** hem lokal hem sistemik etki için kullanılabilen farmasötik şekildir.
+
+@EKLE ezber/e5.txt
+
+## Çıkmış sorular
+@EKLE sorular/s5.txt

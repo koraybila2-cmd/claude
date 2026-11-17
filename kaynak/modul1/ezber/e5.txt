@@ -1,0 +1,34 @@
+## Kolay ezber: klasik ipuçları ve kodlamalar
+| Soruda bunu görünce | Cevap |
+| “Emilim, dağılım, metabolizma, atılım”; ilacın etki yerindeki derişimi değişiyor | **Farmakokinetik** |
+| “Reseptör, etki mekanizması, doz-yanıt, antagonizma” | **Farmakodinami** |
+| Antiasit, süt ya da demirle birlikte tetrasiklin veya kinolon | **Şelasyon → emilim azalır** |
+| Antibiyotikle oral kontraseptif etkisizliği | **Enterohepatik döngü** (farmakokinetik) |
+| Probenesid + penisilin | **Tübüler sekresyonda yarışma** (farmakokinetik; allosterik değil) |
+| Nitratın ağızdan dozu dil altından yüksek; levodopa presistemik eliminasyon | **İlk geçiş** |
+| Presistemik eliminasyona en çok uğrayan | **Propranolol** (ayrıca lidokain, nitrogliserin, morfin) |
+| Damardan verilen bazik ilaç midede birikir | **İyon tuzağı** |
+| Aspirin zehirlenmesinde bikarbonat | İdrarı **alkalileştir** → asit ilaç yüklenir, atılır |
+| Yüksek proteine bağlanma | **V<sub>d</sub> küçük**, yarı ömür uzun |
+| Yavaş asetilleyicide nöropati | **İzoniazid** (NAT2) |
+| Yenidoğanda kloramfenikolle gri bebek | Glukuronidasyon yetersiz |
+| Enzim indüksiyonu + önilaç | **Etki artar** |
+| Tiyopentalin kısa etkisi | **Redistribüsyon** (metabolizma değil) |
+| Hem lokal hem sistemik etki | **Supozituvar** |
+| Kaynağı biyoteknolojik | **İnterferon**, rekombinant insülin, monoklonal antikor |
+| Veriliş yolunu belirlemeyen | **Reseptör afinitesi** |
+| Sabit miktar atılır (sıfırıncı derece) | **Fenitoin, etanol, aspirin** (yüksek doz) |
+|= Farmakokinetiğin “görünce düşün” tablosu.
+?? **ADME = “Ağız-Damar-Metabolizma-Eliminasyon”:** **A**bsorpsiyon, **D**ağılım, **M**etabolizma, **E**liminasyon. Bu dördünden birini değiştiren her etkileşim farmakokinetiktir.
+?? **“Benzer benzerde yüksüz kalır”:** asit ilaç asitte, baz ilaç bazda yüksüzdür, zardan geçer. **“Ters ortamda tuzağa düşer”:** asit ilaç bazik bölmede, baz ilaç asidik bölmede (mide, anne sütü) birikir.
+?? **pH ile pKa arasındaki her 1 birim = 10 kat.** 2 birim fark = 100 kat, 3 birim = 1000 kat.
+?? **Şelat yapan katyonlar “KAMD”:** **K**alsiyum, **A**lüminyum, **M**agnezyum, **D**emir. Etkilenen antibiyotikler: **T**etrasiklin ve **K**inolon (“**T**K: tetrasiklin-kinolon”).
+?? **İlk geçişi atlayan yollar “Dil-Damar-Deri-Duman”:** **dil** altı, **damar** içi, **deri**den (transdermal), **duman**/inhalasyon. Rektal yol yarı yarıya atlar.
+?? **İlk geçişi en yüksek ilaçlar “PLaNoM-L”:** **P**ropranolol, **L**idokain, **N**itrogliserin, **M**orfin, **L**evodopa.
+?? **CYP indükleyicileri “KaRiFeFe”:** **Ka**rbamazepin, **Ri**fampisin, **Fe**nitoin, **Fe**nobarbital (+ sarı kantaron, griseofulvin, kronik alkol, sigara).
+?? **CYP inhibitörleri “SAKMAG”:** **S**imetidin, **A**miodaron, **K**etokonazol (azoller), **M**akrolidler, **A**kut alkol, **G**reyfurt (+ ritonavir, verapamil, diltiazem, izoniazid, valproat).
+?? **İndüksiyon “yeni enzim yapar, yavaş gelir yavaş gider”; inhibisyon “enzimi tıkar, hemen başlar”.** Önilaçta sonuç tersine döner.
+?? **Yavaş asetilleyici ilaçları “SHİP-D”:** **S**ülfonamid, **H**idralazin, **İ**zoniazid, **P**rokainamid, **D**apson. Hidralazin ve prokainamid lupus yapar.
+?? **Sıfırıncı derece “FEA”:** **F**enitoin, **E**tanol, **A**spirin (yüksek dozda). Enzim doyduğu için her saat aynı miktar atılır; küçük doz artışı büyük düzey artışı yapar.
+?? **Kararlı duruma 4-5 yarı ömürde ulaşılır, ilaç 4-5 yarı ömürde temizlenir:** “**beşte biter, beşte yerleşir**”.
+?? **Albümin asidi, α1-asit glikoprotein bazı taşır:** adı “asit glikoprotein” olsa da **bazik** ilaçları bağlar (asit, bazı tutar).

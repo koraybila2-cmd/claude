@@ -1,0 +1,166 @@
+@QB BU YILIN SORULARI
+@Q MODÜL 1 2026-27 · SORU 31 | BU YIL | İLK KEZ SORULDU
+@K Opioid türevi bir ilaçla birlikte ...I... kullanımı katekolamin metabolizmasının bozulması sonucu serotonin sendromu ve hipertansif krize neden olabilirken, ....II.... gibi CYP3A4 indükleyicileri ise opioid metabolizmasının hızlanmasına neden olarak etkide azalma ve yoksunluk semptomlarına sebep olabilir." İfadesinde boşluklara gelmesi gerekenler hangi şıkta doğru sıra ile (I-II) şeklinde verilmiştir?
+A) Selejilin - Linezolid
+B) Fenotiyazin - Verapamil
+C) Baklofen - Diltiazem
+D) Tizanidin - Fenobarbital
+E) Fenelzin - Karbamazepin ✓
+E doğru. Fenelzin geri dönüşsüz bir MAO inhibitörüdür; opioidle (özellikle meperidin ve tramadolle) birlikte serotonin sendromu ve hipertansif kriz yapabilir. Karbamazepin güçlü bir CYP3A4 indükleyicisidir; opioidin yıkımını hızlandırır, etki azalır ve yoksunluk belirtileri çıkar. Selejilin ve linezolid de MAO'yu baskılar, ama linezolid enzim indükleyicisi değildir (A). Verapamil ve diltiazem CYP3A4'ü indüklemez, baskılar (B, C). Fenobarbital indükleyicidir, ama tizanidin MAO inhibitörü değildir (D).
+@@
+@Q MODÜL 1 2026-27 · SORU 32 | BU YIL | RESEPTÖRLERİN İŞLEVİ BSD'DE SIK; BU KURGU YENİ
+@K Opioid reseptörleri konusunda aşağıda verilen bilgilerden hangi şık doğrudur?
+@K I. Delta opioid reseptörleri beta-arrestin aracılı bir sinyal yolağına sahiptir.
+@K II. Ventral Tegmental alanda mü ve delta reseptörleri bulunabilir.
+@K III. Mü reseptörleri Gq/11 tipi bir sinyal yolağına sahiptir.
+@K IV. Nosiseptin opioid reseptörleri spinal yolla narkotik analjezik uygulandığında güçlü bir analjeziye neden olur.
+@K V. Kappa reseptörleri opioidlerin meydana getirdiği öforiden sorumludur.
+A) I-III doğru, diğerleri yanlıştır.
+B) II-III doğru, diğerleri yanlıştır.
+C) II-IV doğru, diğerleri yanlıştır. ✓
+D) II-V doğru, diğerleri yanlıştır.
+E) III-IV doğru, diğerleri yanlıştır.
+@O Önceki yıllar: 2023-24 blok sınavında ilaç-reseptör eşleştirmeleri soruldu (buprenorfin μ parsiyel agonisti ve κ antagonisti). 2024-25'te morfinin analjezik etkisinin hangi reseptör üzerinden olduğu soruldu (μ).
+C doğru (II ve IV). II: ödül yolağının başlangıcı olan ventral tegmental alanda μ ve δ reseptörleri bulunur. IV: nosiseptin (NOP) reseptörü spinal uygulamada güçlü analjezi sağlar. III yanlıştır: opioid reseptörleri Gq/11'e değil Gi/o'ya kenetlidir. V yanlıştır: κ reseptörü disfori yapar; öforiden μ reseptörü sorumludur. I anahtarda yanlış sayılmıştır; ders notunda βarrestin yolağı μ reseptörünün solunum depresyonu ve kabızlık gibi yan etkileriyle ilişkilendirilir.
+@@
+@Q MODÜL 1 2026-27 · SORU 33 | BU YIL | İLK KEZ SORULDU
+@K "Haşhaş (*Papaver somniferum*) bitkisinden elde edilen alkaloitlerden ....I.... oral ve parenteral yolla narkotik analjezik, ....II.... yalnız oral yolla antitussif olarak kullanılırken, analjezik etki göstermeyen ....III.... ise yalnızca parenteral olarak vasküler spazmlarda kullanılır." İfadesinde boşluklara gelmesi gereken ifadeler hangi şıkta doğru sıra ile (I-II-III) verilmiştir?
+A) Morfin - Kodein - Tebain
+B) Meperidin - Difenoksilat - Papaverin
+C) Papaverin - Metadon - Morfin
+D) Morfin - Kodein - Papaverin ✓
+E) Meperidin - Papaverin - Tebain
+D doğru. Morfin oral ve parenteral narkotik analjeziktir. Kodein ağızdan antitüssif olarak kullanılır. Papaverin analjezik değildir; düz kası gevşetir ve parenteral olarak damar spazmlarında kullanılır. Tebain analjezik olarak kullanılmaz, sentez başlangıç maddesidir (A, E). Meperidin, metadon ve difenoksilat haşhaş alkaloidi değil, sentetik opioidlerdir (B, C, E).
+@@
+@Q MODÜL 1 2026-27 · SORU 34 | BU YIL | İLK KEZ SORULDU
+@K "Yarı-sentetik yapıda ve selektif bir μ-agonistidir. Kodeine kıyasla bağımlılık yapma potansiyeli daha fazla olup zayıf antiemetik aktiviteye de sahiptir. Ülkemizde oral yolla post-operatif ağrıların ve kanser ağrılarının giderilmesinde faydalanılır." Şeklinde tanımlanan ilaç aşağıdakilerden hangisidir?
+A) Tramadol
+B) Oksikodon ✓
+C) Petidin
+D) Metadon
+E) Buprenorfin
+@O Önceki yıllar: 2022-23'te bağımlıların idame tedavisinde kullanılan uzun etkili opioid soruldu (metadon). 2024-25'te tramadol “yeşil reçeteyle verilen parsiyel μ agonisti” olarak doğru şıklarda geçti.
+B doğru. Oksikodon tebainden elde edilen yarı sentetik, seçici bir μ agonistidir. Bağımlılık potansiyeli kodeinden yüksektir. Ağızdan, ameliyat sonrası ve kanser ağrısında kullanılır. Tramadol (A), petidin (C) ve metadon (D) tam sentetiktir. Tramadol seçici μ agonisti de değildir. Buprenorfin yarı sentetiktir ama parsiyel agonisttir (E).
+@@
+@Q MODÜL 1 2026-27 · SORU 35 | BU YIL | COX AYRIMI İLK KEZ BU AYRINTIDA SORULDU
+@K Siklooksijenaz (COX) izoformları ve NSAİİ'lerin yan etkileri ile ilgili aşağıdakilerden hangisi doğrudur?
+A) COX-1 yalnızca inflamasyon alanında indüklenir; bu nedenle inhibisyonu antiinflamatuvar etkiden sorumludur.
+B) COX-1 yapısal olarak eksprese edilir; inhibisyonu mukozal prostaglandin ve tromboksan A2 sentezini azaltarak ülser ve kanama eğilimine yol açar. ✓
+C) COX-2 tüm dokularda yapısal olarak bulunur ve inhibisyonu gastrointestinal yan etkilerin başlıca nedenidir.
+D) Selektif COX-2 inhibitörleri trombosit tromboksan A2 sentezini baskıladıklarından kanama riskini artırır.
+E) COX-2 böbrekte eksprese edilmediğinden, selektif COX-2 inhibitörleri renal yan etki oluşturmaz.
+@O Önceki yıllar: 2025-26 blok sınavında “COX-2 seçici NSAİİ'lerin kardiyovasküler riskinin bulunması” bir şıkta geçti. Aynı sınavda prostaglandinlerin ağrıdaki etkisi soruldu (nosiseptörün uyarı eşiğini düşürme).
+B doğru. COX-1 yapısaldır. Baskılanınca midede koruyucu prostaglandinler ve trombositte tromboksan A2 azalır; ülser ve kanama eğilimi ortaya çıkar. İnflamasyon yerinde indüklenen COX-2'dir (A). COX-2 her dokuda yapısal değildir ve mide yan etkilerinin nedeni COX-1 inhibisyonudur (C). Selektif COX-2 inhibitörleri trombosit tromboksanını baskılamaz; kanama değil tromboz riskini artırır (D). COX-2 böbrekte yapısal olarak bulunur; bu ilaçlar da böbrek yan etkisi yapar (E).
+@@
+@Q MODÜL 1 2026-27 · SORU 36 | BU YIL | İLK KEZ SORULDU
+@K Non-steroidal antiinflamatuvar ilaçlar (NSAİİ) konusunda aşağıda şıklardan hangisi doğrudur?
+A) Antiinflamatuar etkinlikleri glukokortikoidlere göre daha fazladır.
+B) Tromboksan A2 sentezini doğrudan ya da dolaylı olarak engellemezler.
+C) Etkilerine karşı zamanla tolerans gelişmesi en büyük dezavantajlarından birisidir.
+D) Hepsinin analjezik etkinliklerinin yanında antiinflamatuar etkileri de mevcuttur.
+E) Antiinflamatuar etkinlikleri narkotik analjeziklere göre daha fazladır. ✓
+E doğru. Opioidlerin antiinflamatuvar etkisi yoktur; NSAİİ'lerin vardır. Glukokortikoidler NSAİİ'lerden daha güçlü antiinflamatuvardır (A). NSAİİ'ler COX'u baskılayarak tromboksan A2 sentezini engeller (B). NSAİİ'lere tolerans gelişmez; bu opioidlerin sorunudur (C). Parasetamol gibi bazı üyelerin antiinflamatuvar etkisi belirgin değildir (D).
+@@
+@Q MODÜL 1 2026-27 · SORU 37 | BU YIL | BSD 2021-22 S38 İLE AYNI BİLGİ
+@K Topikal kapsaisin uygulanan bir hastada başlangıçta yanma ve ağrı, daha sonra ağrı duyusunda azalma gelişmiştir. Bu durum aşağıdaki mekanizmalardan hangisiyle en iyi açıklanır?
+A) COX-2 inhibisyonu ve ardından prostaglandin sentezi
+B) μ reseptör aktivasyonu ve ardından Ca2+ kanal açılması
+C) α2 reseptör blokajı ve ardından norepinefrin salınması
+D) TRPV1 aktivasyonu ve ardından nosiseptör desensitizasyonu ✓
+E) Na+ kanal inhibisyonu ve ardından kanalın açık durumda kalması
+@O Önceki yıllar: 2021-22 blok sınavında TRPV1 için doğru olmayan şık “kapsaisine uzun süre maruz kalım reseptörün aktivitesini artırır” idi. 2019-20'de kapsaisin, antinosiseptif etkiye katkıda bulunmayanlar arasında çeldiriciydi (cevap GABA).
+D doğru. Kapsaisin nosiseptördeki TRPV1 kanalını açar; katyon girişi yanma ve ağrı yapar. Uygulama sürdükçe kanal duyarsızlaşır ve sinir ucundaki P maddesi tükenir; nosiseptör yanıt veremez ve ağrı azalır.
+@@
+@Q MODÜL 1 2026-27 · SORU 41 | BU YIL | BSD 2024-25 S49 İLE AYNI KALIP
+@K Ağrı mediatörleri ve analjezik etki ile ilgili aşağıdaki ifadelerden hangisi doğrudur?
+@K I- Alfa-2 agonistler presinaptik mediatör depolarını tüketerek analjezik etki oluşturur.
+@K II- Antiepileptik kullanımı organik nedeni tespit edilemeyen psikojenik ağrıya neden olur.
+@K III- NSAİİ'ler analjezik etkilerini temel olarak inici inhibitör sistemi şiddetlendirerek gösterir.
+A) I doğru, II ve III yanlıştır
+B) I ve II doğru, III yanlıştır
+C) I, II ve III yanlıştır ✓
+D) II doğru, I ve III yanlıştır
+E) II ve III doğru, I yanlıştır
+@O Önceki yıllar: 2024-25 blok sınavında aynı başlık ve aynı üç öncüllü kalıp vardı. Orada doğru öncül “lokal anestezikler Na⁺ kanal blokajıyla analjezik etki gösterir” idi; yanlış öncüller bradikininin vazokonstriktör olduğu ve opioidlerin fosfolipaz A2'yi baskıladığıydı.
+C doğru (üçü de yanlış). I: α2 agonistler presinaptik reseptörü uyararak ileticinin salınımını azaltır; depoları tüketmezler. II: antiepileptikler psikojenik ağrıya neden olmaz; nöropatik ağrının tedavisinde kullanılırlar. III: NSAİİ'ler periferde COX'u baskılayarak etki eder; inici inhibitör sistemi güçlendiren opioidlerdir.
+@@
+@Q MODÜL 1 2026-27 · SORU 46 | BU YIL | İLK KEZ DOĞRUDAN SORULDU
+@K Nositeptörlerin aktive edilmesiyle duyu siniri liflerinin periferik terminallerinden salınan ve ayrıca ağrının 1. sıra nörondan 2. sıra nörona iletilmesinde rol alan mediyatör aşağıdakilerden hangisidir?
+A) Serotonin
+B) P maddesi ✓
+C) Bradikinin
+D) Histamin
+E) İnterlökinler
+@O Önceki yıllar: 2023-24 blok sınavında yanlış şık “opioidler sinir uçlarından P maddesi salınımını indükler” idi. 2024-25'te P maddesi, morfinin etki ettiği yer sorusunda çeldiriciydi.
+B doğru. P maddesi C liflerinin iki ucundan da salınır. Periferik uçtan salındığında damarları genişletir ve mast hücrelerini uyarır (nörojenik inflamasyon). Merkezi uçtan salındığında arka boynuzda ikinci nörona ağrı iletisini aktarır. Bradikinin, histamin, serotonin ve interlökinler hasarlı dokudan ve iltihap hücrelerinden salınır, sinir ucundan değil (A, C, D, E).
+@@
+@Q MODÜL 1 2026-27 · SORU 49 | BU YIL | BSD 2023-24 S53 VE 2024-25 S51 İLE AYNI KONU
+@K Bir kanser hastasına şiddetli ağrı nedeniyle opioid tedavisi başlanmıştır. Analjezik etki aşağıdaki hücresel mekanizmalardan hangisiyle gerçekleşecektir?
+A) Ca2+ girişinin artması ve K+ çıkışının azalması
+B) Adenilat siklaz aktivitesinin artması ve cAMP yükselmesi
+C) K+ kanallarının açılması ve Ca2+ kanallarının kapanması ✓
+D) Na+ kanallarının sürekli açık halde tutulması
+E) Glutamat salımının artırılması ve postsinaptik uyarılmanın engellenmesi
+@O Önceki yıllar: 2023-24'te opioid analjezisinin mekanizması soruldu (reseptör etkileşimiyle inici inhibitör yolağın etkinleşmesi). 2024-25'te morfinin analjezik etkisinin aracısı soruldu (μ reseptörleri).
+C doğru. Opioid reseptörü Gi/o'ya kenetlidir. Postsinaptik zarda K⁺ kanalları açılır ve nöron hiperpolarize olur; presinaptik uçta Ca²⁺ kanalları kapanır ve ağrı ileticilerinin salınımı azalır. Adenilat siklaz baskılanır, cAMP düşer (B yanlış). A, mekanizmanın tam tersidir.
+@@
+@QB GEÇEN YILIN BLOK SINAVI (2025-26)
+@Q BSD-1 2025-26 · SORU 40 | BLOK SINAVI | 
+@K Narkotik analjezik ilaçlar hakkında aşağıda verilen şıklardan hangisi doğrudur?
+A) Sufentanil histamin salınımına yol açması ve intrakranial basıncı arttırması nedeniyle kalp-damar cerrahisinde tercih edilmez.
+B) Alfentanilin birim miktarı Remifentanilin birim miktarına göre daha potenttir.
+C) Levorfanol şiddetli diyarenin tedavisinde kullanılan yarı-sentetik bir narkotik analjezik analoğudur.
+D) Difenoksilat güçlü mü-agonist etkisi ve uzun etki süresinden dolayı opioid bağımlılığı tedavisinde kullanılır.
+E) Meperidinin doğum süresi ve uterus kontraksiyonları üzerinde klinik olarak anlamlı bir etkisi yoktur. ✓
+E doğru. Meperidinin uterus kasılmaları ve doğum süresi üzerinde klinik olarak anlamlı etkisi yoktur; obstetrik analjezide tercih edilmesinin nedeni budur. Sufentanil histamin salmaz ve kalp-damar cerrahisinde tercih edilen ilaçlardandır (A). Remifentanil alfentanilden daha potenttir (B). Levorfanol analjeziktir; ishal tedavisinde kullanılan difenoksilat ve loperamiddir (C). Bağımlılık tedavisinde kullanılan metadondur; difenoksilat ishal ilacıdır (D).
+@@
+@Q BSD-1 2025-26 · SORU 41 | BLOK SINAVI | 
+@K Morfin ile ilgili olarak aşağıda verilen bilgilerden hangi şık doğrudur?
+@K I. Oral biyoyararlanımı yüksektir (>%90).
+@K II. Subkutan ve rektal yolla da hastaya uygulanabilir.
+@K III. Plazma proteinlerine yüksek oranda bağlanır (>%85).
+@K IV. Eliminasyon yarı ömrü (t1/2) uzundur (>12 saat).
+@K V. Karaciğerde biyotransformasyon sonucu oluşan ana metabolit morfin 3-glukuronat inaktiftir.
+A) I-III doğru, diğerleri yanlıştır.
+B) I-IV doğru, diğerleri yanlıştır.
+C) II-V doğru, diğerleri yanlıştır. ✓
+D) II-III-V doğru, diğerleri yanlıştır.
+E) III-IV-V doğru, diğerleri yanlıştır.
+C doğru (II ve V). Morfin subkutan ve rektal yolla da verilebilir (II). Ana metaboliti morfin-3glukuronid inaktiftir (V). Oral biyoyararlanımı düşüktür, yaklaşık %25 (I). Plazma proteinlerine yaklaşık %35 bağlanır (III). Yarı ömrü 2-3 saattir (IV).
+@@
+@Q BSD-1 2025-26 · SORU 42 | BLOK SINAVI | 
+@K Varfarin kullanan bir hastaya, diş ağrısı için ibuprofen reçete edilmiştir. Bu reçete ve farmakolojik etkileri konusunda aşağıdakilerden hangisi doğrudur?
+A) Varfarin kullanan hastalarda ibuprofen etkisizdir.
+B) Sinerjistik etki sonucu artmış analjezik ve antikoagülan etki görülür.
+C) Her iki ilaç karaciğerde major olarak CYP1A2 tarafından metabolize edildiği için enzim indüksiyonu görülür.
+D) İbuprofen kullanımı varfarini etkisiz kılar.
+E) Birlikte kullanım sonucunda INR düzeyi yükselir. ✓
+E doğru. İbuprofen trombosit işlevini bozar, mide mukozasını zedeler ve varfarinin etkisini artırır; INR yükselir ve kanama riski artar. İki ilacın ana metabolizma yolu CYP1A2 değil CYP2C9'dur ve burada indüksiyon olmaz (C).
+@@
+@Q BSD-1 2025-26 · SORU 57 | BLOK SINAVI | 
+@K Prostaglandinlerin ağrı oluşumundaki temel etkisi aşağıdakilerden hangisidir?
+A) Mü reseptörlerini agonist olarak etkileme
+B) Nitrik oksit sentezini azaltma
+C) Alfa 2 adrenerjik reseptör antagonizması
+D) İnici yolak aktivasyonu
+E) Nosiseptörlerin uyarı eşiğini düşürme ✓
+E doğru. Prostaglandinler nosiseptörü doğrudan uyarmaktan çok uyarılma eşiğini düşürür; bradikinin ve histaminin etkisini güçlendirir. NSAİİ'lerin analjezik etkisi bu duyarlılaşmayı önlemelerine dayanır.
+@@
+@QB DAHA ESKİ BLOK SINAVI SORULARI
+@E 2024-25 S39: Yanlış olan (anahtara göre) → difenoksilat yalnızca antitüssif olarak kullanılır (ishal ilacıdır). Aynı sorudaki “nalokson naltreksona göre daha uzun etkilidir” ifadesi de yanlıştır; nalokson kısa etkilidir.
+@E 2024-25 S43: Doğru olan → meperidin obstetrik analjezide morfine göre çok daha fazla tercih edilir.
+@E 2024-25 S49: Doğru öncül → lokal anestezikler Na⁺ kanal blokajıyla analjezik etki gösterir.
+@E 2024-25 S51: Morfin analjezik etkisini ne üzerinden gösterir → μ reseptörleri.
+@E 2023-24 S34: Opioid ilaç-reseptör eşleştirmesi. Anahtar A'yı (buprenorfin: μ parsiyel agonisti, κ antagonisti) yanlış saymış; oysa bu bilgi doğrudur ve 2024-25 sorusunda doğru şık olarak yer alır. Soru hatalı aktarılmış olabilir.
+@E 2023-24 S41: Opioidler için yanlış → uterus kasında gevşemeye neden olurlar ifadesi anahtarda yanlış sayılmıştır. Doğru şıklar: idrar retansiyonu yaparlar; hipofiz hormonlarını azaltırlar; miyozis ve kabızlığa tolerans gelişmez; hipotermi yapabilirler.
+@E 2023-24 S53: Opioidlerin analjezik etkisi → reseptör etkileşimiyle inici inhibitör yolağın etkinleşmesi.
+@E 2022-23 S31: Bağımlıların idame tedavisinde kullanılan uzun etkili opioid → metadon.
+@E 2022-23 S32: Opioidler için yanlış (anahtara göre) → fentanil kafa içi basıncını artırır.
+@E 2022-23 S43, 2019-20 S32: Ameliyat sonrası ilk saatlerde ağrı kontrolünde en etkili grup → opioidler.
+@E 2022-23 S48: Diyabetik nöropatik ağrıda verilmesi anlamlı olmayan → kortikosteroid (trisiklik antidepresan, opioid, α2 agonist ve lokal anestezik kullanılabilir).
+@E 2021-22 S32: Akut akciğer ödeminde intravenöz morfinin etkisi → nefes darlığı hissini azaltmak.
+@E 2021-22 S38: TRPV1 için doğru olmayan → kapsaisine uzun süre maruz kalım reseptörün aktivitesini artırır.
+@E 2021-22 S46: Opioide bağlı gövde rijiditesini geri çeviren → nalokson ya da nalmefen.
+@E 2019-20 S28: Opioidleri ağızdan vermekten kaçınmanın en iyi nedeni → ilk geçiş etkisine bağlı zayıf biyoyararlanım.
+@E 2019-20 S31: Tramadolün mekanizmaları arasında olmayan → M3 muskarinik reseptör agonizmi (zayıf μ agonisti, serotonin ve noradrenalin geri alım inhibitörü).
+@E 2019-20 S35: Antinosiseptif etkiye katkıda bulunan → GABA (kapsaisin, CGRP ve bradikinin ağrı yapıcıdır).

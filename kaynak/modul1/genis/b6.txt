@@ -1,0 +1,100 @@
+# Genel Farmakoloji: Farmakodinami | Bu yıl 4 soru (S26, S42, S44, S48). Parsiyel agonist blok sınavında da soruldu. Sorular tanım düzeyinde ama öncüllerle karıştırılıyor; her kavramı bir örnekle birlikte öğrenin. || Modül 1 · Bölüm 6
+
+## 1. İlaç nereye etki eder?
+İlaçların çoğu bir **reseptöre** bağlanarak etki eder, ama tek yol bu değildir:
+| Hedef | Örnek |
+| **Reseptör** | Morfin (μ opioid), salbutamol (β2), atropin (muskarinik) |
+| **Enzim** | Aspirin (COX), statinler (HMG-CoA redüktaz), ACE inhibitörleri, neostigmin (asetilkolinesteraz) |
+| **İyon kanalı** | Lokal anestezikler (Na⁺ kanalı), kalsiyum kanal blokerleri, sülfonilüreler (K<sub>ATP</sub>) |
+| **Taşıyıcı** | Digoksin (Na⁺/K⁺-ATPaz), SSRI'lar (serotonin geri alım taşıyıcısı), furosemid (Na-K-2Cl), proton pompa inhibitörleri |
+| **Fizikokimyasal (reseptörsüz)** | Antiasitler (asidi nötrler), mannitol (ozmotik diürez), şelatörler (ağır metal bağlar), protamin (heparini bağlar) |
+|= İlaçların etki hedefleri.
+
+## 2. İlaç-reseptör etkileşimi: iki kavram
+- **Afinite:** İlacın reseptöre **bağlanma eğilimi**. K<sub>d</sub> (reseptörlerin yarısını işgal eden derişim) ne kadar küçükse afinite o kadar yüksektir.
+- **İntrensek aktivite (efikasi):** Bağlandıktan sonra reseptörü **etkinleştirme yeteneği**. Tam agonistte 1, antagonistte 0, parsiyel agonistte 0 ile 1 arasında, ters agonistte negatiftir.
+Bir ilaç yüksek afiniteli ama sıfır aktiviteli olabilir: bu bir antagonisttir. Afinite “kilide girmeyi”, intrensek aktivite “kilidi çevirmeyi” anlatır.
+### İki durumlu reseptör modeli
+Reseptör, ilaç yokken bile iki biçim arasında gidip gelir: **etkin olmayan (R)** ve **etkin (R*)**. Ortamda ilaç yokken küçük bir kısmı R* durumundadır; buna **bazal (konstitütif) aktivite** denir.
+| İlaç tipi | Neyi tercih eder? | Tek başına | Tam agonistle birlikte |
+| **Tam agonist** | R* | Maksimum yanıt | – |
+| **Parsiyel agonist** | R* (kısmen) | Agonist etki, ama doz ne kadar artırılsa da tam agonistin maksimumuna ulaşamaz | Reseptörleri işgal eder, tam agonisti uzaklaştırır; **onun etkisini azaltır** (antagonist gibi) |
+| **Nötr antagonist** | R ve R*'ye eşit | Hiçbir etki yapmaz; bazal aktiviteyi değiştirmez | Agonistin etkisini engeller |
+| **Ters (invers) agonist** | R | **Bazal aktiviteyi baskılar**; agonistin tersi yönde etki | Agonistin etkisini engeller |
+|= Reseptöre bağlanan ilaçların sınıflandırması.
+- **Parsiyel agonist örnekleri:** **buprenorfin** (μ opioid; S26), pindolol (β; intrensek sempatomimetik aktivite), aripiprazol (D2), vareniklin (nikotinik).
+- **S26:** Buprenorfin tek başına verildiğinde agonist etki gösterir; bir tam agonistin (morfin, eroin) varlığında ise onun etkisini **azaltır**. Bu yüzden morfin bağımlısına buprenorfin verilirse yoksunluk tetiklenebilir.
+- **S42, öncül I yanlıştır:** “Ortamda tam agonist yokken agonist gibi, agonist varlığında antagonist gibi davranan” ilaç **parsiyel agonisttir**; ters agonist tek başına bile bazal aktivitenin tersine etki yapar.
+@SVG doz_yanit.svg
+@SEKIL Şekil 6.A. Solda potens ve efikasi: A ile B aynı en yüksek etkiye ulaşır ama A daha düşük dozda (A daha potent); C bir parsiyel agonisttir (efikasisi düşük). Sağda antagonizma: yarışmalı antagonist eğriyi sağa kaydırır, en yüksek etki değişmez; yarışmasız antagonist en yüksek etkiyi düşürür.
+
+## 3. Doz-yanıt ilişkisi
+### Dereceli (kademeli) yanıt
+Tek bir bireyde ya da dokuda, doz arttıkça **sürekli** büyüyen yanıttır (kan basıncındaki düşme, kalp hızındaki artış). Log doz-yanıt eğrisi S biçimlidir.
+- **Potens:** Belirli bir etkiyi oluşturmak için gereken **doz miktarı**. EC<sub>50</sub> (en yüksek etkinin yarısını oluşturan derişim) ne kadar küçükse ilaç o kadar **potenttir**. Grafikte eğrinin **sola** doğru konumu.
+- **Efikasi:** İlacın oluşturabildiği **en yüksek etki** (E<sub>max</sub>). Grafikte eğrinin **yüksekliği**.
+- Klinikte önemli olan çoğunlukla **efikasidir**: daha potent ilaç daha küçük dozda verilir ama mutlaka daha etkili değildir. Örnek: furosemid hidroklorotiyazidden **daha az potent** ama **daha etkili** bir diüretiktir.
+- **S44, öncül I yanlıştır:** “Bir ilacın ideal koşullarda oluşturabileceği maksimum etkiyi tanımlayan” kavram **efikasidir**, potens değil.
+### Kuvantal (hep ya da hiç) yanıt
+Yanıtın **var ya da yok** olduğu ve bir **toplulukta** (hasta grubunda) incelendiği durumdur: hasta uyudu mu, kusması önlendi mi, nöbeti durdu mu, öldü mü. Grafik, belirli bir dozda yanıt veren bireylerin yüzdesini gösterir.
+- **ED<sub>50</sub>:** Bireylerin yarısında istenen etkiyi oluşturan doz. **TD<sub>50</sub>:** yarısında toksik etki oluşturan doz. **LD<sub>50</sub>:** hayvan deneylerinde yarısını öldüren doz.
+- **Terapötik indeks = TD<sub>50</sub> / ED<sub>50</sub>** (hayvanda LD<sub>50</sub> / ED<sub>50</sub>). Ne kadar büyükse ilaç o kadar güvenlidir.
+- **Terapötik aralığı dar ilaçlar:** digoksin, lityum, varfarin, teofilin, fenitoin, aminoglikozitler, siklosporin. Bunlarda kan düzeyi izlenir.
+- **S44, öncül III doğrudur:** Bir ilacın kusmayı engelleyip engellemediği **kuvantal** etki bağlamında incelenir.
+### Yedek reseptörler
+Bazı dokularda en yüksek yanıta, reseptörlerin yalnız küçük bir kısmı işgal edildiğinde ulaşılır; geri kalanlara **yedek reseptör** denir (kalp kasında β reseptörleri, iskelet kasında nikotinik reseptörler). Bu dokularda EC<sub>50</sub>, K<sub>d</sub>'den küçüktür ve az miktarda geri dönüşsüz antagonist en yüksek etkiyi hemen düşürmez.
+
+## 4. Antagonizma türleri
+| Tür | Mekanizma | Doz-yanıt eğrisine etkisi | Örnek |
+| **Yarışmalı (kompetitif), geri dönüşlü** | Antagonist agonistle **aynı bölgeye** geri dönüşlü bağlanır | Agonist dozu artırılınca **aşılır**; eğri **sağa kayar**, **E<sub>max</sub> değişmez** (potens azalır) | **Nalokson–morfin**, atropin–asetilkolin, propranolol–izoproterenol |
+| **Yarışmasız (nonkompetitif)** | Antagonist reseptöre **kovalent (geri dönüşsüz)** bağlanır ya da **başka (allosterik) bölgeye** bağlanıp reseptörün yanıtını bozar | Agonist artırılsa da **tam aşılamaz**; **E<sub>max</sub> düşer** | **Fenoksibenzamin**–α reseptör (kovalent); aspirin–COX (kovalent, enzim) |
+| **Fizyolojik (işlevsel)** | İki agonist **farklı reseptörler** üzerinden **zıt** etki yapar | – | **Adrenalin–histamin** (bronş; anafilakside adrenalin), **adrenalin–asetilkolin** (kalp hızı), glukagon–insülin |
+| **Kimyasal** | İki madde doğrudan birbirine bağlanıp etkisizleşir | – | **Protamin–heparin**, şelatörler–ağır metaller, digoksin antikoru–digoksin |
+| **Farmakokinetik** | Biri ötekinin emilimini, metabolizmasını ya da atılımını değiştirir | – | **Probenesid–penisilin**, enzim indükleyicileri, antiasit–tetrasiklin |
+|= Antagonizma türleri.
+- **S42, öncül II doğrudur:** Kovalent bağlanma yarışmasız antagonizmadır; agonist artırılarak tamamen aşılamaz.
+- **S42, öncül III doğrudur:** Adrenalin ve asetilkolinin farklı reseptörler üzerinden zıt kalp etkileri **fizyolojik antagonizmadır**.
+- **S44, öncül II yanlıştır:** Penisilin–probenesid ilişkisi **allosterik değil farmakokinetiktir** (atılımda yarışma).
+
+## 5. Reseptör aileleri
+Reseptörler sinyali hücre içine dört yoldan iletir; yanıtın hızı da buna göre değişir.
+| Aile | Yapı | Yanıt süresi | Örnek |
+| **İyon kanalı reseptörleri (ligand kapılı)** | Ligand bağlanınca kanal açılır | **Milisaniyeler** | Nikotinik asetilkolin, **GABA-A** (Cl⁻), NMDA (glutamat), 5-HT3, glisin |
+| **G proteinine kenetli reseptörler** | Yedi kez zarı geçen protein; G proteini aracılığıyla enzim ya da kanal etkilenir | Saniyeler | Adrenerjik, muskarinik, **opioid**, dopamin, histamin, GABA-B |
+| **Enzim bağlantılı (kinaz) reseptörler** | Hücre içi kısmı tirozin kinazdır ya da JAK'ı çağırır | Dakikalar-saatler | **İnsülin**, büyüme faktörleri, sitokinler (JAK-STAT) |
+| **Hücre içi (nükleer) reseptörler** | Sitoplazma ya da çekirdekte; gen yazılımını değiştirir | **Saatler-günler** | **Steroidler**, tiroid hormonu, D vitamini, retinoik asit |
+|= Reseptör aileleri.
+
+## 6. G proteinleri ve ikinci ulaklar
+G proteinine kenetli reseptör uyarılınca G proteininin α alt birimi GDP yerine GTP bağlar, ayrılır ve hedef enzimi ya da kanalı etkiler. Üç ana tip vardır:
+| G proteini | Efektör | İkinci ulak ve sonuç | Örnek reseptörler |
+| **G<sub>s</sub>** (uyarıcı) | Adenilat siklazı **uyarır** | **cAMP ↑** → protein kinaz A | **β1, β2**, D1, H2, V2, glukagon |
+| **G<sub>i/o</sub>** (baskılayıcı) | Adenilat siklazı **baskılar**; K⁺ kanallarını **açar**; voltaj kapılı Ca²⁺ kanallarını **kapatır** | **cAMP ↓**, hiperpolarizasyon, nörotransmitter salınımı ↓ | **α2, M2**, D2, **opioid (μ, κ, δ)**, GABA-B, 5-HT1 |
+| **G<sub>q</sub>** | **Fosfolipaz C**'yi uyarır | **IP3** (endoplazmik retikulumdan Ca²⁺ salınımı) ve **DAG** (protein kinaz C) ↑ | **α1, M1, M3**, H1, V1, 5-HT2, AT1 |
+|= G proteinleri ve ikinci ulaklar. S48'in cevabı: **G<sub>i</sub> → adenilat siklaz → cAMP azalması**.
+- **cGMP** G proteiniyle değil **guanilat siklazla** yapılır: çözünür guanilat siklaz **nitrik oksite** (nitratlar), zar guanilat siklazı **natriüretik peptitlere** yanıt verir. cGMP'yi PDE5 yıkar (sildenafil).
+- Bir ilacın hangi ikinci ulağı kullandığını bilmek, hangi ilaçların birbirinin etkisini artıracağını da gösterir (nitrat + sildenafil = cGMP birikimi → ağır hipotansiyon).
+
+## 7. Uzun süreli uyarıya yanıt: duyarsızlaşma ve tolerans
+- **Desensitizasyon (duyarsızlaşma):** Agonistin sürekli varlığında yanıtın azalmasıdır.
+- **Homolog desensitizasyon:** Yalnız uyarılan reseptör etkilenir. Reseptöre özgü kinaz (GRK) reseptörü fosforiller; **β-arrestin** bağlanır ve reseptörü G proteininden ayırıp hücre içine alır.
+- **Heterolog desensitizasyon:** Ortak sinyal yolu üzerinden başka reseptörler de etkilenir; **protein kinaz A ve protein kinaz C** rol alır (2021-22'de soruldu).
+- **Down-regülasyon:** Uzun vadede reseptörler yıkılır, **sayısı azalır** (β2 agonistlerinin sürekli kullanımı).
+- **Up-regülasyon:** Antagonistin uzun kullanımında reseptör sayısı **artar**. Beta bloker birden kesilince artmış reseptörler noradrenaline aşırı yanıt verir: taşikardi, angina, enfarktüs (**rebound**). Bu yüzden beta blokerler azaltarak kesilir.
+- **Taşifilaksi:** Dakikalar-saatler içinde gelişen hızlı tolerans; dolaylı etkili sempatomimetiklerde (efedrin, amfetamin) depoların boşalmasıyla, nitratlarda tiyol tükenmesiyle.
+- **Tolerans:** Aynı etki için giderek daha yüksek doz gerekmesi (günler-haftalar); opioidler, benzodiazepinler, alkol.
+
+## 8. İstenmeyen etki türleri
+| Terim | Tanım | Örnek |
+| **Yan etki** | **Tedavi dozunda** görülen, öngörülebilir, istenmeyen etki (2022-23'te soruldu) | Antihistaminiğin uyku yapması, opioidin kabızlık yapması |
+| **Toksik etki** | **Aşırı dozda** ya da birikimle oluşan zararlı etki | Parasetamolle karaciğer nekrozu, digoksinle aritmi |
+| **İdiyosinkrazi** | **Genetik** farklılığa bağlı beklenmedik yanıt | G6PD eksikliğinde primakinle hemoliz; psödokolinesteraz eksikliğinde süksinilkolinle uzamış apne; malign hipertermi |
+| **Alerji (aşırı duyarlılık)** | Bağışıklık aracılı, **dozdan bağımsız** | Penisilin anafilaksisi |
+| **Teratojenite** | Gebelikte fetüste yapısal bozukluk | Talidomid, izotretinoin, varfarin, valproat |
+| **Bağımlılık** | Psikolojik ve fiziksel; kesilince yoksunluk | Opioidler, benzodiazepinler |
+|= İstenmeyen etkilerin sınıflandırması.
+
+@EKLE ezber/e6.txt
+
+## Çıkmış sorular
+@EKLE sorular/s6.txt

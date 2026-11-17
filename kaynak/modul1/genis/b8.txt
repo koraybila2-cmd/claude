@@ -1,0 +1,202 @@
+# Ağrı Farmakolojisi: Ağrı Mediyatörleri, Opioidler ve NSAİİ | Bu yıl 10 soru (S31-S37, S41, S46, S49). Blok sınavında altı yılda 22 soru; her yıl 3-4 soru ile Modül 1 farmakolojisinin en büyük konusu. Opioidler altı yılın hepsinde soruldu. || Modül 1 · Bölüm 8
+
+## 1. Ağrı nasıl oluşur, ilaçlar nerede keser?
+Ağrının anatomisi Bölüm 3'te anlatıldı. Farmakoloji için ağrı yolunu dört istasyonlu bir hat olarak düşünmek yeterlidir; her analjezik grubu bir istasyonu hedefler.
+1. **Periferde nosiseptörün uyarılması (transdüksiyon):** Doku hasarında salınan mediyatörler serbest sinir uçlarını uyarır ya da duyarlılaştırır. → **NSAİİ**, topikal kapsaisin, lokal anestezikler.
+2. **Sinir boyunca iletim (transmisyon):** Aδ ve C lifleri aksiyon potansiyelini voltaj kapılı sodyum kanallarıyla taşır. → **Lokal anestezikler** (Na⁺ kanal blokajı; 2024-25'te doğru öncül), karbamazepin.
+3. **Omurilik arka boynuzunda aktarım:** Birinci nöron ikinci nörona **glutamat** ve **P maddesi** ile bilgi aktarır. → **Opioidler** (presinaptik ve postsinaptik), gabapentinoidler, α2 agonistler, ketamin (NMDA).
+4. **Beyinde algı ve inici kontrol (modülasyon):** Periakuaduktal gri madde ve rostral ventromedial bulbustan omuriliğe inen **serotonerjik ve noradrenerjik** lifler arka boynuzda ağrıyı baskılar. → **Opioidler** (inici yolu etkinleştirir), **trisiklik antidepresanlar ve SNRI'lar** (inici yoldaki serotonin ve noradrenalini artırır).
+### Ağrı mediyatörleri
+| Mediyatör | Kaynağı | Etkisi |
+| **Bradikinin** | Plazma kininojenlerinden (kallikrein) | **En güçlü ağrı yapıcılardan**; nosiseptörü **doğrudan uyarır**, damar genişletir, geçirgenliği artırır (vazokonstriktör değildir) |
+| **Prostaglandinler** (PGE2, PGI2) | Araşidonik asitten, COX ile | Nosiseptörü doğrudan pek uyarmaz; **uyarılma eşiğini düşürür**, bradikinin ve histamine duyarlılaştırır (**periferik sensitizasyon**; 2025-26'da soruldu). NSAİİ'ler bu basamağı keser |
+| Histamin, serotonin | Mast hücresi, trombosit | Nosiseptörü uyarır; kaşıntı ve ağrı |
+| H⁺, K⁺, ATP | Hasarlı hücre, iskemi, iltihap | Doğrudan uyarır (asit TRPV1 ve ASIC kanallarını açar) |
+| Sinir büyüme faktörü (NGF) | İltihaplı doku | Uzun süreli duyarlılaşma |
+| **P maddesi**, **CGRP** | **Nosiseptörün kendisi** | Hem periferik ucundan salınır (**nörojenik iltihap**: damar genişlemesi, ödem, mast hücresi uyarısı) hem de arka boynuzda birinci nörondan ikinci nörona iletide glutamatla birlikte görev alır (S46) |
+| **Glutamat** | Birinci nöronun merkezi ucu | Arka boynuzda ana uyarıcı ileti; NMDA reseptörünün tekrarlayan uyarısı **santral sensitizasyon** (wind-up) yapar |
+| **GABA, enkefalin**, glisin | Arka boynuz ara nöronları | **Antinosiseptif** (ağrıyı baskılar; 2019-20) |
+|= Ağrı mediyatörleri.
+### TRPV1 ve kapsaisin
+**TRPV1** nosiseptör zarındaki bir katyon kanalıdır; **43 °C'nin üstündeki ısı, asit ve acı biberin etken maddesi kapsaisinle** açılır.
+1. Kapsaisin kanalı açar: Na⁺ ve Ca²⁺ girer, sinir ucu depolarize olur → başlangıçta **yanma ve ağrı**.
+2. Sürekli uygulamada hücreye giren kalsiyum kanalı **duyarsızlaştırır** (desensitizasyon), sinir ucundaki **P maddesi tükenir** ve ince sinir uçları geri çekilir.
+3. Nosiseptör işlevini yitirir → **ağrı azalır** (S37).
+Topikal kapsaisin postherpetik nevralji, diyabetik nöropati ve osteoartritte kullanılır. “Uzun süreli maruziyet TRPV1 aktivitesini artırır” ifadesi yanlıştır (2021-22).
+### S41: üç yanlış öncül
+- **α2 agonistler** (klonidin, deksmedetomidin) presinaptik α2 reseptörünü uyararak noradrenalin ve ağrı ileticilerinin **salınımını azaltır**; mediyatör depolarını **tüketmezler** (depo tüketen rezerpindir).
+- **Antiepileptikler** (gabapentin, pregabalin, karbamazepin) nöropatik ağrının **tedavisinde** kullanılır; psikojenik ağrıya neden olmazlar.
+- **NSAİİ'ler** analjezik etkilerini temel olarak **periferde COX'u baskılayıp** prostaglandin sentezini azaltarak gösterir; inici inhibitör sistemi güçlendiren opioidler ve antidepresanlardır.
+### Nöropatik ağrı
+Sinirin kendisinin hasar gördüğü ağrıdır (diyabetik nöropati, postherpetik nevralji, trigeminal nevralji, fantom ağrı): yanıcı, elektrik çarpar tarzda, dokunmayla tetiklenen (allodini). Mekanizması iltihap değil, hasarlı sinirin anormal ateşlemesi olduğu için **NSAİİ ve kortikosteroidler etkisizdir** (2022-23).
+- **İlk seçenekler:** **gabapentin, pregabalin** (voltaj kapılı Ca²⁺ kanalının α2δ alt birimine bağlanıp salınımı azaltır), **trisiklik antidepresanlar** (amitriptilin), **SNRI** (duloksetin).
+- **Trigeminal nevraljide** karbamazepin.
+- Topikal lidokain ve kapsaisin; dirençli olguda opioidler (tramadol).
+
+## 2. Opioid reseptörleri
+| Reseptör | Doğal ligand | Başlıca etkiler |
+| **μ (mü)** | β-endorfin, endomorfin | Supraspinal ve spinal **analjezi**, **öfori** (ödül yolağında, ventral tegmental alan), **solunum depresyonu**, **miyozis**, **kabızlık**, sedasyon, **fiziksel bağımlılık** |
+| **κ (kappa)** | **Dinorfin** | Spinal analjezi, sedasyon, **disfori ve halüsinasyon**, diürez, miyozis |
+| **δ (delta)** | **Enkefalinler** | Spinal ve supraspinal analjezi; ventral tegmental alanda da bulunur; duygudurum |
+| **NOP** (nosiseptin/orfanin FQ reseptörü) | Nosiseptin | Klasik opioid ilaçlara yanıt vermez. **Spinal** uygulamada **analjezi**; supraspinal düzeyde opioid analjezisini azaltabilir |
+|= Opioid reseptörleri.
+**S32 (doğru: II ve IV):** ventral tegmental alanda μ ve δ reseptörleri bulunur (II ✓); NOP reseptörleri spinal yolda güçlü analjezi yapar (IV ✓). Yanlışlar: μ reseptörü **G<sub>q</sub>'ya değil G<sub>i/o</sub>'ya** kenetlidir (III); öforiden **κ değil μ** sorumludur, κ disfori yapar (V); I. öncül (δ'nın β-arrestin aracılı yolağı) anahtarda yanlış sayıldı.
+?? Reseptörler ve ligandlar: “**μ**-**M**orfin-**β**-endorfin”, “**κ**-**K**alp değil **K**afa karışıklığı (disfori)-dinorfin”, “**δ**-**D**elta-enkefalin”.
+
+## 3. Opioidler hücrede ne yapar?
+Üç klasik reseptörün hepsi **G<sub>i/o</sub> proteinine** kenetlidir (Bölüm 6). Uyarılınca:
+1. **Adenilat siklaz baskılanır**, cAMP azalır.
+2. **Presinaptik uçta voltaj kapılı Ca²⁺ kanalları kapanır** → birinci nöron glutamat ve P maddesini salamaz.
+3. **Postsinaptik zarda K⁺ kanalları açılır** (GIRK) → ikinci nöron **hiperpolarize** olur, ateşlemesi zorlaşır.
+Sonuç: ağrı bilgisi arka boynuzda iki taraftan birden kesilir (S49'un cevabı: **K⁺ kanallarının açılması ve Ca²⁺ kanallarının kapanması**).
+@SVG opioid_sinaps.svg
+@SEKIL Şekil 8.A. Opioidlerin arka boynuzdaki etkisi. Presinaptik uçta Ca²⁺ kanalının kapanmasıyla verici salınımı azalır; postsinaptik nöronda K⁺ kanalının açılmasıyla hiperpolarizasyon olur. Beyin sapında ise GABA ara nöronlarını susturarak inici inhibitör yolu serbest bırakır.
+### Üç düzeyde analjezi
+- **Spinal:** Arka boynuzda yukarıdaki presinaptik ve postsinaptik etki (epidural ve intratekal morfin bu yolla çalışır).
+- **Supraspinal:** Periakuaduktal gri madde ve bulbusta inici yolu normalde frenleyen **GABA ara nöronlarını baskılar** (disinhibisyon). Fren kalkınca inici serotonerjik ve noradrenerjik yol **etkinleşir** ve omurilikte ağrıyı keser (2023-24'ün doğru cevabı: “reseptör etkileşimiyle inici inhibitör yolağın etkinleşmesi”).
+- **Periferik:** İltihaplı dokudaki sinir uçlarında da opioid reseptörleri artar.
+Opioidler ayrıca ağrının **duygusal bileşenini** değiştirir: hasta ağrıyı hâlâ fark edebilir ama artık rahatsız olmaz.
+
+## 4. Morfin: etkiler ve nedenleri
+| Sistem | Etki | Neden ve not |
+| **Santral sinir sistemi** | **Analjezi**, öfori, sedasyon; yüksek dozda koma | μ reseptörü |
+| **Solunum** | **Doza bağlı solunum depresyonu** (zehirlenmede ölüm nedeni) | Beyin sapı solunum merkezinin **CO<sub>2</sub>'ye duyarlılığı azalır** |
+| Öksürük | Öksürük refleksi baskılanır | Kodein ve dekstrometorfan antitüssif olarak kullanılır |
+| Göz | **Miyozis** (toplu iğne başı pupilla) | Edinger-Westphal çekirdeğinin uyarılması (parasempatik) |
+| Bulantı-kusma | Özellikle başlangıçta | **Kemoreseptör tetik bölgenin** uyarılması |
+| **Gastrointestinal** | **Kabızlık**; safra yolunda basınç artışı | Bağırsak duvarındaki μ reseptörleri: peristaltizm azalır, sfinkterler kasılır; **Oddi sfinkteri spazmı** (safra koliğini kötüleştirebilir) |
+| Üriner | **İdrar retansiyonu** | Mesane sfinkteri kasılır, detrüsör gevşer |
+| Deri ve damar | Kaşıntı, yüzde kızarma, **hipotansiyon** | **Histamin salınımı** (morfin ve meperidinde belirgin; fentanil grubunda az); astımlıda bronkospazm riski |
+| Beyin damarları | **Kafa içi basıncı artar** | Solunum depresyonuyla CO<sub>2</sub> birikir, beyin damarları genişler |
+| Uterus | Doğum süresi uzayabilir | 2023-24 anahtarı “uterus kasında gevşemeye neden olurlar” ifadesini yanlış saydı |
+| Endokrin | Hipotalamus-hipofiz ekseni baskılanır (LH, FSH, ACTH ↓; prolaktin, ADH ↑) | “Hipofiz hormonlarını azaltırlar” doğru |
+| Isı | Hipotermi yapabilir | Hipotalamik ısı ayarı |
+| Kalp | Bradikardi (vagal); **akut akciğer ödeminde** yarar | Venleri genişletip preloadu düşürür ve **nefes darlığı hissini azaltır** (2021-22) |
+|= Morfinin etkileri.
+### Tolerans, bağımlılık ve yoksunluk
+- **Tolerans:** Analjezi, öfori, sedasyon, solunum depresyonu ve bulantıya günler-haftalar içinde tolerans gelişir. **Miyozis ve kabızlığa tolerans gelişmez** (uzun süreli opioid kullanan hastada kabızlık her zaman tedavi edilmelidir).
+- **Fiziksel bağımlılık:** İlaç birden kesilince ya da antagonist verilince **yoksunluk sendromu** gelişir. Belirtiler opioid etkilerinin tersidir: **midriyazis**, ishal, karın krampı, burun ve göz akıntısı, **esneme**, terleme, **piloereksiyon** (“tüyleri diken diken”), taşikardi, hipertansiyon, huzursuzluk, kas ağrısı. Ölümcül değildir ama çok rahatsız edicidir.
+- **Zehirlenme triadı:** **koma, toplu iğne başı pupilla, solunum depresyonu**. Tedavi: solunum desteği ve **nalokson** (damardan; etkisi morfinden kısa sürdüğü için tekrar dozlar ya da infüzyon gerekir).
+### Morfinin farmakokinetiği (2025-26'da beş öncülle soruldu)
+- **Ağızdan biyoyararlanımı düşüktür (~%25)**, çünkü **ilk geçiş etkisi** yüksektir. Opioidleri ağızdan vermekten kaçınmanın klasik nedeni budur (2019-20). Kanser ağrısında ağızdan yüksek dozlarla ve uzatılmış salınımlı preparatlarla kullanılabilir.
+- Ağızdan, deri altından, kas içinden, damardan, **rektal**, epidural ve intratekal verilebilir.
+- **Plazma proteinlerine bağlanması düşüktür** (~%35).
+- **Yarı ömrü kısadır** (2-3 saat).
+- Karaciğerde glukuronidlenir: ana metabolit **morfin-3-glukuronid analjezik olarak inaktiftir** (nöroeksitatör olabilir); **morfin-6-glukuronid aktiftir** ve morfinden güçlüdür. Böbrek yetersizliğinde M6G birikir, solunum depresyonu uzar.
+- 2025-26 S41'in doğru öncülleri: **II** (deri altı ve rektal verilebilir) ve **V** (morfin-3-glukuronid inaktiftir).
+
+## 5. Opioid ilaçlar
+### Kökenlerine göre
+| Grup | İlaçlar |
+| **Haşhaş (*Papaver somniferum*) alkaloitleri** | **Morfin** (ağızdan ve parenteral narkotik analjezik), **kodein** (ağızdan antitüssif ve zayıf analjezik), **papaverin** (opioid reseptörüne bağlanmaz, **analjezik değildir**; fosfodiesteraz inhibitörü **düz kas gevşetici**, damar spazmında parenteral), **tebain** (analjezik değil; yarı sentetiklerin hammaddesi), **noskapin** (antitüssif) |
+| **Yarı sentetik** | Eroin (diasetilmorfin), **oksikodon**, hidromorfon, hidrokodon, **buprenorfin**, nalokson, naltrekson |
+| **Sentetik** | **Meperidin (petidin)**, **metadon**, **fentanil** grubu (sufentanil, alfentanil, remifentanil), **tramadol**, tapentadol, levorfanol, pentazosin, **loperamid**, **difenoksilat**, dekstrometorfan |
+|= Opioidlerin kökene göre sınıflandırması. S33: morfin – kodein – papaverin.
+### Reseptördeki etkinliklerine göre
+- **Güçlü tam agonistler:** morfin, hidromorfon, oksikodon, fentanil grubu, metadon, meperidin, eroin.
+- **Zayıf-orta agonistler:** kodein, hidrokodon, tramadol.
+- **Parsiyel agonist:** **buprenorfin** (μ parsiyel agonisti, κ antagonisti).
+- **Agonist-antagonistler:** pentazosin, butorfanol, nalbufin (κ agonisti, μ antagonisti ya da zayıf parsiyel agonisti): solunum depresyonunda tavan etkisi vardır; morfin bağımlısında yoksunluk başlatabilir.
+- **Antagonistler:** nalokson, naltrekson, nalmefen; periferik etkili metilnaltrekson ve naloksegol (opioid kabızlığı).
+### Tek tek ilaçlar
+| İlaç | Ayırt edici özellikleri |
+| **Kodein** | Önilaç: karaciğerde **CYP2D6** ile morfine dönüşür. Zayıf analjezik, güçlü **antitüssif**. CYP2D6 yavaş metabolize edenlerde etkisiz, ultra hızlılarda (ve emzirilen bebekte) solunum depresyonu tehlikesi |
+| **Oksikodon** | Tebainden elde edilen **yarı sentetik, seçici μ agonisti**. Ağızdan biyoyararlanımı iyi; **kodeinden daha fazla bağımlılık** yapar; zayıf antiemetik etki. Ülkemizde ağızdan ameliyat sonrası ve kanser ağrısında (S34) |
+| **Meperidin (petidin)** | Sentetik. **Atropin benzeri (antikolinerjik)** etkisi var: miyozis yapmayabilir, taşikardi yapabilir. **Uterus kasılmaları ve doğum süresi üzerinde klinik olarak anlamlı etkisi olmadığı** için **obstetrik analjezide** morfine tercih edilir (2024-25 ve 2025-26). Metaboliti **normeperidin konvülziyon** yapar (böbrek yetersizliğinde birikir; uzun süre kullanılmaz). **MAO inhibitörleriyle** serotonin sendromu ve hipertansif kriz. Ameliyat sonrası **titremede** etkili (Bölüm 7) |
+| **Metadon** | Sentetik, **uzun etkili** (yarı ömür 24-36 saat), **ağızdan** biyoyararlanımı yüksek; ayrıca NMDA antagonisti. **Opioid bağımlılığının idame tedavisinde** ve kronik ağrıda. QT uzatır (2022-23) |
+| **Fentanil** | Morfinden ~100 kat güçlü, çok lipofilik, hızlı ve kısa etkili; anestezide damardan, kronik kanser ağrısında **transdermal bant**, ayrıca bukkal. Histamin salmaz. Hızlı damar içi verilişte **göğüs duvarı (gövde) rijiditesi**; tedavisi **nalokson** (ya da nalmefen) veya kas gevşetici (2021-22). CYP3A4 ile yıkılır |
+| Sufentanil, alfentanil, **remifentanil** | Anestezide. Sufentanil en potent (fentanilin 5-10 katı), histamin salmaz, kalp cerrahisinde tercih edilir. **Remifentanil plazma ve doku esterazlarıyla** yıkılır: en kısa etkili; böbrek ve karaciğerden bağımsız. Remifentanil alfentanilden **daha potenttir** |
+| **Tramadol** | Sentetik; **zayıf μ agonisti** + **serotonin ve noradrenalin geri alım inhibitörü** (muskarinik reseptör etkisi yoktur; 2019-20). Nöbet eşiğini düşürür, serotonin sendromu (SSRI, MAOI ile). Ülkemizde yeşil reçeteyle |
+| **Buprenorfin** | Yarı sentetik **μ parsiyel agonisti**, κ antagonisti. Reseptöre afinitesi çok yüksek ve ayrılması yavaş: uzun etkili; **solunum depresyonunda tavan etkisi** var, ama naloksonla güç geri çevrilir. Dil altı (bağımlılık idame tedavisi, nalokson kombinasyonu), transdermal. Tam agonistle birlikte verilince onun etkisini azaltır (Bölüm 6, S26) |
+| **Loperamid**, **difenoksilat** | Bağırsakta μ agonisti: **ishal tedavisi**. Loperamid P-glikoprotein nedeniyle beyne geçmez. Difenoksilat kötüye kullanımı azaltmak için atropinle birlikte satılır. Antitüssif ya da bağımlılık tedavisi ilacı değildir (2024-25, 2025-26) |
+| Dekstrometorfan | Opioid analoğu antitüssif; analjezik etkisi yok (NMDA antagonisti) |
+| **Nalokson** | Saf yarışmalı antagonist; **damardan, kısa etkili** (30-90 dakika). Opioid zehirlenmesinde. Naltreksondan **kısa** etkilidir |
+| **Naltrekson** | **Ağızdan, uzun etkili** antagonist; opioid ve **alkol bağımlılığının** idame tedavisinde (ödül etkisini keser) |
+|= Opioid ilaçlar.
+### Opioid etkileşimleri (S31)
+- **MAO inhibitörleri** (**fenelzin**, tranilsipromin, selejilin; ayrıca linezolid) + meperidin, tramadol, metadon, fentanil, dekstrometorfan → **serotonin sendromu ve hipertansif kriz** (hiperpireksi, ajitasyon, kas sertliği, koma).
+- **CYP3A4 indükleyicileri** (**karbamazepin**, rifampisin, fenitoin, fenobarbital) → fentanil, metadon ve oksikodonun yıkımı hızlanır; **analjezi azalır, yoksunluk belirtileri** çıkabilir. CYP3A4 inhibitörleri (makrolidler, azoller, ritonavir, verapamil) tersini yapar: **solunum depresyonu**.
+- **CYP2D6 inhibitörleri** (fluoksetin, paroksetin) kodein ve tramadolün aktivasyonunu azaltır: analjezi zayıflar.
+- **Benzodiazepin, alkol, barbitürat** + opioid → aditif santral ve **solunum depresyonu** (ölümlerin önemli nedeni).
+### Kullanım ve dikkat edilecek durumlar
+- **Endikasyonlar:** şiddetli akut ağrı (travma, böbrek koliği), **ameliyat sonrası ilk saatlerde en etkili grup** (2022-23, 2019-20), kanser ağrısı, miyokard enfarktüsü ağrısı, akut akciğer ödemi (morfin), anestezi, öksürük (kodein), ishal (loperamid), bağımlılık idamesi (metadon, buprenorfin).
+- **Dikkat:** kafa travması ve kafa içi basınç artışı (CO<sub>2</sub> birikimi, pupilla ve bilinç değerlendirmesi bozulur), astım ve KOAH (solunum depresyonu, histamin), hipotansiyon ve hipovolemi, karaciğer ve böbrek yetersizliği, hipotiroidi ve Addison hastalığı, doğum (yenidoğanda solunum depresyonu), safra ve pankreatit koliği (Oddi spazmı; meperidin görece tercih edilirdi), yaşlılar.
+### DSÖ analjezik merdiveni (kanser ağrısı)
+1. **Hafif ağrı:** NSAİİ ya da parasetamol ± yardımcı ilaç (antidepresan, antiepileptik, steroid).
+2. **Orta ağrı:** zayıf opioid (kodein, tramadol) + NSAİİ ± yardımcı ilaç.
+3. **Şiddetli ağrı:** güçlü opioid (morfin, oksikodon, fentanil, hidromorfon) + NSAİİ ± yardımcı ilaç.
+İlkeler: **ağızdan**, **saatli** (ağrı beklenmeden düzenli aralıklarla), **merdivene göre**, **kişiye göre** doz ve yan etkilerin (kabızlık) önlenmesi.
+
+## 6. NSAİİ'ler
+### Araşidonik asit yolu
+1. Hücre zarının fosfolipitlerinden **fosfolipaz A2** araşidonik asidi ayırır. → **Glukokortikoidler** burayı keser (anneksin A1 aracılığıyla).
+2. **Siklooksijenaz (COX-1 ve COX-2)** araşidonik asidi PGH2'ye çevirir. → **NSAİİ'ler** burayı keser.
+3. PGH2 dokuya göre farklı ürünlere döner: **PGE2** (ağrı eşiğini düşürür, ateş, mide koruması, böbrek kan akımı), **PGI2 / prostasiklin** (endotelde; trombosit agregasyonunu önler, damar genişletir), **TXA2 / tromboksan** (trombositte; agregasyon ve damar daralması).
+4. **5-lipoksijenaz** yolu aynı araşidonik asitten **lökotrienleri** yapar (bronş daralması, kemotaksi). NSAİİ bu yolu kesmez; COX kapanınca araşidonik asit lökotrien yoluna kayabilir (**aspirine duyarlı astım**).
+@SVG arasidonik.svg
+@SEKIL Şekil 8.B. Araşidonik asit yolu ve ilaçların etki noktaları.
+### Dört etki
+- **Analjezik:** Periferde prostaglandin yapımını azaltarak **nosiseptör duyarlılaşmasını** önler (iltihaplı ağrıda etkili; nöropatik ağrıda etkisiz). Ayrıca omurilikte COX-2 aracılı santral duyarlılaşmayı azaltır.
+- **Antipiretik:** Pirojenler (IL-1) hipotalamusta PGE2 yapımını artırarak ısı ayar noktasını yükseltir; NSAİİ'ler ayar noktasını normale indirir. Normal vücut ısısını düşürmezler.
+- **Antiinflamatuvar:** Prostaglandin aracılı damar genişlemesi ve ödemi azaltırlar; gücü **glukokortikoidlerden düşüktür**, ama **opioidlerde antiinflamatuvar etki yoktur** (S36).
+- **Antitrombotik:** Trombositte TXA2 yapımını azaltır; aspirinde geri dönüşsüz (Modül 3).
+### NSAİİ ile opioid karşılaştırması
+| | NSAİİ | Opioid |
+| Etki yeri | Periferde (ve omurilikte) COX | Santral ve spinal opioid reseptörleri |
+| Analjezik güç | Hafif-orta ağrı; **tavan etkisi** var | Şiddetli ağrı; tavan etkisi yok (tam agonistler) |
+| Antiinflamatuvar etki | **Var** (parasetamol hariç) | **Yok** |
+| Antipiretik etki | Var | Yok |
+| Tolerans ve bağımlılık | **Yok** | Var |
+| Solunum depresyonu | Yok | Var |
+| Başlıca yan etki | Mide, böbrek, kanama, kalp-damar | Kabızlık, bulantı, solunum depresyonu, bağımlılık |
+|= NSAİİ ve opioidlerin karşılaştırması.
+### COX-1 ve COX-2
+| | COX-1 | COX-2 |
+| Ekspresyon | **Yapısal**: hemen her dokuda sürekli bulunur | **İltihapta indüklenir** (sitokinler); böbrek, beyin, endotel ve uterusta yapısal olarak da bulunur |
+| Ürünlerin görevi | Mide mukozasını koruyan prostaglandinler (mukus, bikarbonat, kan akımı), **trombositte TXA2** (agregasyon), böbrek kan akımı | Ağrı, ateş, iltihap; **endotelde prostasiklin** (antiagregan, vazodilatör); böbrekte kan akımı ve tuz atılımı |
+| Baskılanmasının sonucu | **Peptik ülser, mide kanaması, kanama eğilimi** | **Antiinflamatuvar ve analjezik etki**; böbrek yan etkileri; protrombotik eğilim |
+|= COX izoformları. S35'in doğru şıkkı: COX-1 yapısaldır, inhibisyonu mukozal prostaglandin ve TXA2 sentezini azaltarak ülser ve kanama eğilimine yol açar.
+### NSAİİ grupları
+| Grup | Örnekler | Not |
+| Salisilatlar | **Aspirin** (asetilsalisilik asit) | COX'u **geri dönüşsüz asetiller** |
+| Propiyonik asit türevleri | **İbuprofen**, naproksen, ketoprofen, deksketoprofen | En sık kullanılanlar; görece güvenli mide profili (ibuprofen) |
+| Asetik asit türevleri | **Diklofenak**, **indometazin**, **ketorolak**, etodolak | İndometazin: gut atağı, prematüre bebekte PDA kapatma; ketorolak: damardan, güçlü analjezik, en fazla 5 gün |
+| Oksikamlar | Piroksikam, meloksikam, tenoksikam | Uzun yarı ömür, günde tek doz; meloksikam görece COX-2 seçici |
+| Fenamatlar | Mefenamik asit | Dismenore |
+| Pirazolonlar | **Metamizol** (dipiron) | Güçlü analjezik-antipiretik, zayıf antiinflamatuvar; **agranülositoz** |
+| **Seçici COX-2 inhibitörleri (koksibler)** | **Selekoksib**, etorikoksib | Mide yan etkisi az, trombositi etkilemez; **miyokard enfarktüsü ve inme riski artar** |
+| Anilin türevi | **Parasetamol** (asetaminofen) | Analjezik ve antipiretik; periferde **antiinflamatuvar etkisi yok** denecek kadar az (santral etkili); mide ve trombosit dostu; **aşırı dozda karaciğer nekrozu** (NAPQI; antidot N-asetilsistein) |
+|= NSAİİ grupları. Parasetamolün antiinflamatuvar etkisi olmadığı için “hepsinin antiinflamatuvar etkisi vardır” ifadesi yanlıştır (S36).
+### Koksiblerin kalp-damar riski neden artar?
+1. Trombositte yalnız COX-1 vardır; koksib **trombositteki TXA2'yi azaltmaz**.
+2. Endoteldeki COX-2 baskılanınca **prostasiklin (PGI2) azalır**.
+3. Agregasyonu artıran TXA2 sürerken onu dengeleyen PGI2 azalır: **denge pıhtılaşma yönüne kayar** → miyokard enfarktüsü ve inme (rofekoksib bu yüzden piyasadan çekildi).
+4. Böbrekte COX-2 yapısal olduğu için tuz-su tutulumu, hipertansiyon ve böbrek hasarı koksiblerde de sürer.
+### Aspirin
+- **Doza bağlı etkiler:** düşük doz (75-100 mg/gün) **antiagregan**; orta doz (300-600 mg) analjezik-antipiretik; yüksek doz (3-4 g/gün) antiinflamatuvar.
+- **Salisilizm:** kulak çınlaması, işitme kaybı, baş dönmesi.
+- **Reye sendromu:** Çocuk ve gençte viral enfeksiyonda (influenza, suçiçeği) aspirin → karaciğer yağlanması ve ensefalopati. Bu yaşta ateş için parasetamol ya da ibuprofen verilir.
+- **Aspirine duyarlı astım** (Samter triadı: astım, nazal polip, aspirin duyarlılığı): araşidonik asit lökotrien yoluna kayar.
+- **Zehirlenme:** önce solunum merkezinin uyarılmasıyla **solunumsal alkaloz**, sonra **metabolik asidoz**; hipertermi. Yüksek dozda **sıfırıncı derece kinetik**. Tedavide idrar **bikarbonatla alkalileştirilir** (Bölüm 5, iyon tuzağı), ağır olguda hemodiyaliz.
+- Düşük doz ürik asit atılımını azaltır (gutta kaçınılır).
+- Aynı anda alınan **ibuprofen**, aspirinin COX-1'e erişimini engelleyerek antiagregan etkisini azaltabilir.
+### NSAİİ'lerin yan etkileri
+| Sistem | Yan etki | Mekanizma |
+| **Mide-bağırsak** | Dispepsi, **peptik ülser, kanama**, delinme | Koruyucu prostaglandinler azalır (+ doğrudan asit hasarı). Riskli hastada **proton pompa inhibitörü** ya da misoprostol (PGE1 analoğu) eklenir |
+| **Böbrek** | **Akut böbrek hasarı**, **tuz-su tutulumu**, ödem, **hipertansiyon**, **hiperkalemi**, interstisyel nefrit, papiller nekroz (uzun kullanım) | Prostaglandinler hipovolemi, kalp yetersizliği, siroz ve yaşlılıkta afferent arteriyolü açık tutar; NSAİİ bu desteği kaldırır. **ACE inhibitörü + diüretik + NSAİİ** (“üçlü darbe”) en riskli birleşimdir |
+| **Kalp-damar** | Miyokard enfarktüsü, inme (koksibler ve yüksek doz diklofenak), kalp yetersizliğinde kötüleşme | Prostasiklin azalması, tuz-su tutulumu |
+| **Kan** | Kanama eğilimi | Trombosit TXA2'si azalır |
+| Aşırı duyarlılık | Bronkospazm, ürtiker, anjiyoödem | Lökotrien yoluna kayma |
+| **Gebelik** | Üçüncü trimesterde **duktus arteriyozusun erken kapanması**, doğumun gecikmesi, oligohidramniyoz | Prostaglandinler duktusu açık tutar ve doğumu başlatır |
+| Karaciğer | Enzim yükselmesi (diklofenak); parasetamol aşırı dozu | |
+|= NSAİİ'lerin yan etkileri.
+### NSAİİ etkileşimleri
+- **Varfarin + NSAİİ:** **INR yükselir** ve kanama riski artar (2025-26). Üç nedenle: NSAİİ varfarini **albüminden ayırır**, bazıları **metabolizmasını yavaşlatır** (CYP2C9), ayrıca **trombosit işlevini bozar** ve **mide mukozasını zedeler**. Ağrı için parasetamol tercih edilir.
+- **ACE inhibitörü, ARB, diüretik, beta bloker:** antihipertansif etki azalır, böbrek hasarı riski artar.
+- **Lityum** ve **metotreksat:** böbrekten atılımları azalır, toksisite.
+- **SSRI, kortikosteroid, antikoagülan:** mide kanaması riski artar.
+
+@EKLE ezber/e8.txt
+
+## Çıkmış sorular
+@EKLE sorular/s8.txt

@@ -1,0 +1,137 @@
+@QB BU YILIN SORULARI
+@Q MODÜL 1 2026-27 · SORU 17 | BU YIL | MUAYENE SIRASI İLK KEZ SORULDU
+@K Akut karın ağrısı olan bir hastada abdominal fizik muayenenin doğru sıralaması aşağıdakilerden hangisidir?
+A) Palpasyon → Perküsyon → Oskültasyon → İnspeksiyon
+B) İnspeksiyon → Palpasyon → Perküsyon → Oskültasyon
+C) İnspeksiyon → Oskültasyon → Perküsyon → Palpasyon ✓
+D) Oskültasyon → İnspeksiyon → Palpasyon → Perküsyon
+E) Perküsyon → Palpasyon → İnspeksiyon → Oskültasyon
+C doğru. Karın muayenesinde sıra inspeksiyon, oskültasyon, perküsyon ve palpasyondur. Perküsyon ve palpasyon bağırsak hareketlerini uyarabileceği ya da baskılayabileceği için bağırsak sesleri bunlardan önce dinlenir. Ağrıyı artıran palpasyon en sona bırakılır. B, göğüs muayenesinin sırasıdır.
+@@
+@Q MODÜL 1 2026-27 · SORU 18 | BU YIL | BULGUNUN ANLAMI İLK KEZ DOĞRUDAN SORULDU
+@K Akut karın ağrısı olan bir hastada rebound hassasiyetinin (Blumberg bulgusu) pozitif olması en çok aşağıdakilerden hangisini düşündürür?
+A) Gastroözofageal reflü
+B) Parietal periton irritasyonu ✓
+C) İzole visseral distansiyon
+D) Karın duvarı fıtığı
+E) Gastrik hiperasidite
+@O Önceki yıllar: Apandisit bulguları (McBurney, Rovsing, psoas, obturator) 2022-23 ve 2023-24'te soruldu; ikisinde de apandisiti desteklemeyen bulgu Murphy idi.
+B doğru. Rebound hassasiyetinde el birden çekildiğinde gerilen parietal periton yerine döner ve iltihaplıysa keskin bir ağrı duyulur. Bulgu parietal periton irritasyonunu, yani peritoniti gösterir. Yalnızca visseral distansiyonda parietal periton etkilenmediği için rebound olmaz (C).
+@@
+@Q MODÜL 1 2026-27 · SORU 19 | BU YIL | BSD 2019-20 S64'ÜN MEKANİZMA HÂLİ
+@K Akut apandisitin erken döneminde görülen periumblikal, künt ve iyi lokalize edilemeyen ağrının temel mekanizması aşağıdakilerden hangisidir?
+A) Parietal periton irritasyonu
+B) Visseral afferent sinirlerin uyarılması ✓
+C) Frenik sinir irritasyonu
+D) Somatik sinir hasarı
+E) Diyafragma irritasyonu
+@O Önceki yıllar: 2019-20 blok sınavında aynı tablo tanı olarak soruldu: göbek çevresinde başlayıp 6-8 saat sonra sağ alt kadrana yerleşen ağrı → akut apandisit.
+B doğru. Erken dönemde yalnızca appendix'in duvarı gerilmiş ve iltihaplanmıştır. Uyarılan visseral afferentlerdir; bunlar T10 segmentine çift taraflı girdiği için ağrı göbek çevresinde, künt ve kötü lokalize duyulur. Parietal periton irritasyonu (A) saatler sonra gelişir ve ağrıyı sağ alt kadrana taşır.
+@@
+@Q MODÜL 1 2026-27 · SORU 20 | BU YIL | İLK KEZ SORULDU
+@K İçi boş bir organın obstrüksiyonuna bağlı gelişen visseral ağrı için aşağıdakilerden hangisi en tipiktir?
+A) Keskin ve sürekli ağrı
+B) İyi lokalize ağrı
+C) Kolik tarzda ağrı ✓
+D) Yalnızca hareketle ortaya çıkan ağrı
+E) Ciltte hiperestezi ile başlayan ağrı
+@O Önceki yıllar: 2025-26 blok sınavında karındaki en şiddetli ağrı soruldu (iskemik ağrı); kolik ağrı çeldiriciydi.
+C doğru. İçi boş organ tıkanınca düz kas tıkanıklığı aşmak için aralıklı kasılır. Her kasılmada ağrı gelir, şiddetlenir, sonra gevşemeyle geçer: kolik ağrı. Keskin ve sürekli (A), iyi lokalize (B) ve hareketle ortaya çıkan (D) ağrı parietal ağrının özellikleridir.
+@@
+@Q MODÜL 1 2026-27 · SORU 21 | BU YIL | İLK KEZ SORULDU
+@K Yaygın peritonitli bir hastada gelişen abdominal distansiyon ve barsak seslerinde azalmanın en uygun fizyopatolojik açıklaması aşağıdakilerden hangisidir?
+A) Safra akımının hızlanması
+B) İnce barsak mukozasında villus hipertrofisi gelişmesi
+C) Kolonik su emiliminin artması
+D) Mide asit sekresyonunun artması
+E) İnflamasyona bağlı paralitik ileus gelişmesi ✓
+E doğru. İltihaplı periton bağırsak düz kasının hareketini refleks olarak durdurur. Hareketsiz bağırsakta gaz ve sıvı birikir, karın gerilir ve bağırsak sesleri azalır: paralitik ileus. Diğer şıkların peritonitle ilgisi yoktur.
+@@
+@Q MODÜL 1 2026-27 · SORU 22 | BU YIL | BÖLÜM 2 VE 3'TEKİ İNNERVASYON BİLGİSİNİN KLİNİK HÂLİ
+@K Akut peritonitte inflamasyonun parietal peritona yayılmasıyla ağrının daha iyi lokalize hale gelmesinin temel nedeni aşağıdakilerden hangisidir?
+A) Parietal peritonun somatik sinirlerle innerve olması ✓
+B) Visseral peritonun yalnızca somatik sinirlerle innerve olması
+C) Peritoneal sıvının inflamasyon bölgesinden uzaklaşması
+D) Inflamasyonla intestinal peristaltizmin artması
+E) Portal ven basıncının azalması
+@O Önceki yıllar: “Parietal ağrıların lokalize edilebilmesinin nedeni” 2019-20 blok sınavının şıklarında aynı gerekçeyle yazılıydı.
+A doğru. Parietal periton somatik spinal sinirlerle innerve olur. Somatik lifler tek taraflıdır ve bir-iki segmente girer, bu yüzden ağrının yeri kesin olarak belirlenir. Visseral periton otonom afferentlerle innerve olur, somatik sinirlerle değil (B).
+@@
+@Q MODÜL 1 2026-27 · SORU 23 | BU YIL | BSD 2019-20 S63 (KEHR BELİRTİSİ) İLE AYNI MEKANİZMA
+@K Subfrenik apse bulunan bir hastada omuza yansıyan ağrı ve hıçkırık gelişmesinin en olası mekanizması aşağıdakilerden hangisidir?
+A) Portal ven trombozu gelişmesi
+B) Splanknik sinirlerin blokajı
+C) Vagus sinirinin motor liflerinin etkilenmesi
+D) Diyafram irritasyonu ve frenik sinir afferentlerinin uyarılması ✓
+E) Alt interkostal sinirlerde demiyelinizasyon oluşması
+@O Önceki yıllar: 2019-20 blok sınavında sol subdiafragmatik apsede sol omuza vuran ağrının adı soruldu: Kehr belirtisi.
+D doğru. Subfrenik apse diafragmanın alt yüzünü irrite eder. Diafragmanın orta kısmının duyusunu n. phrenicus (C3-C5) taşır; aynı segmentler omuz derisini innerve ettiği için ağrı omuza yansır. Diafragmanın refleks, istemsiz kasılması hıçkırığa yol açar.
+@@
+@Q MODÜL 1 2026-27 · SORU 24 | BU YIL | İLK KEZ SORULDU
+@K Yaygın peritonitte intravasküler volüm azalmasına katkıda bulunan başlıca mekanizmalardan biri aşağıdakilerden hangisidir?
+A) Renal su atılımının belirgin azalması
+B) Kapiller geçirgenlik artışı ve sıvının periton/interstisyel alana sekestrasyonu ✓
+C) Eritrosit üretiminin akut olarak baskılanması
+D) Portal venöz dönüşün artması
+E) Lenfatik drenajın aşırı hızlanması
+B doğru. İltihap periton damarlarının geçirgenliğini artırır. Plazma periton boşluğuna, bağırsak duvarına ve lümenine sızar; bu sıvı dolaşıma katılmaz (üçüncü boşluk). Peritonun yüzeyi yaklaşık 1,8 m² olduğu için kayıp büyüktür. Böbrekten su atılımının azalması (A) hipovoleminin nedeni değil sonucudur.
+@@
+@Q MODÜL 1 2026-27 · SORU 25 | BU YIL | İLK KEZ SORULDU
+@K Hemodinamik olarak stabil bir hastada görüntüleme ile saptanmış, erişilebilir intraabdominal apsenin tedavisinde temel yaklaşım aşağıdakilerden hangisidir?
+A) Yalnızca analjezik tedavi
+B) Yalnızca intravenöz sıvı tedavisi
+C) Kaynak kontrolü (drenaj) ve uygun antibiyotik tedavisi ✓
+D) Oral alımın kesilmesi ve gözlem
+E) Antibiyotik vermeden seri ultrasonografi ile izlem
+C doğru. Apse içine antibiyotik iyi geçmez; tedavinin temeli kaynak kontrolüdür. Stabil hastada ulaşılabilen apse görüntüleme eşliğinde perkütan drenajla boşaltılır ve uygun antibiyotik verilir. Yalnızca analjezik, sıvı ya da gözlem (A, B, D) enfeksiyonu tedavi etmez; antibiyotiksiz izlem (E) sepsis riskini artırır.
+@@
+@QB GEÇEN YILIN BLOK SINAVI (2025-26)
+@Q BSD-1 2025-26 · SORU 14 | BLOK SINAVI | 
+@K Karındaki en şiddetli ağrı hangisidir?
+A) İnflamatuar ağrı
+B) Kolik ağrı
+C) İskemik ağrı ✓
+D) Yansıyan ağrı
+E) Viseral ağrı
+C doğru. İskemik ağrı karındaki en şiddetli ağrıdır; ani başlar, süreklidir ve analjeziklerle geçmez. Strangüle bağırsak ve mezenter damar tıkanıklığında görülür.
+@@
+@Q BSD-1 2025-26 · SORU 15 | BLOK SINAVI | 
+@K Akut abdomen düşünülen bir hastada tanıya yönelik ilk istenecek en pratik radyolojik tetkik hangisidir?
+A) Baryumlu ösefagus mide duodenum grafisi
+B) Baryumlu kolon grafisi
+C) Batın MR
+D) Batın tomografisi
+E) Direk batın grafisi ✓
+E doğru. Akut karında ilk istenen, en pratik radyolojik tetkik ayakta direkt batın grafisidir: hızlıdır, her yerde yapılır ve serbest havayı, hava-sıvı seviyelerini gösterir. Tomografi daha duyarlıdır ama ilk ve en pratik tetkik değildir (D). Delinme şüphesinde baryumlu tetkik yapılmaz (A, B).
+@@
+@Q BSD-1 2025-26 · SORU 16 | BLOK SINAVI | 
+@K En sık cerrahi gerektiren akut karın nedeni aşağıdakilerden hangisidir?
+A) Peptik ülser perforasyonu
+B) Akut kolesistit
+C) Akut apandisit ✓
+D) Kolanjit
+E) Akut pankreatit
+C doğru. Cerrahi gerektiren en sık akut karın nedeni akut apandisittir.
+@@
+@Q BSD-1 2025-26 · SORU 17 | BLOK SINAVI | 
+@K Aşağıdakilerden hangisi sekonder peritonitin gelişim mekanizmasını en doğru şekilde açıklar?
+A) Periton boşluğuna doğrudan mikroorganizma girişi olmaksızın seröz zarın kimyasal irritasyonu sonucu gelişir.
+B) Periton boşluğuna bakterilerin hematolojik yolla (kan yoluyla) ulaşması sonucu gelişir.
+C) Gastrointestinal sistemdeki bir perforasyon veya yaralanma sonucu, lümen içeriğinin periton boşluğuna sızmasıyla ortaya çıkar. ✓
+D) Genellikle diyaliz sıvısı aracılığıyla dış ortam mikroorganizmalarının girmesi sonucu gelişir.
+E) Steril periton sıvısında otoimmün reaksiyon sonucu gelişen aseptik inflamasyondur.
+C doğru. Sekonder peritonit, gastrointestinal kanalın delinmesi ya da yaralanmasıyla lümen içeriğinin periton boşluğuna sızması sonucu gelişir. Bakterinin kan yoluyla gelmesi primer peritonittir (B). Diyaliz sıvısıyla bulaş periton diyalizi peritonitidir (D). Mikroorganizma olmadan kimyasal irritasyon (A) ve aseptik inflamasyon (E) sekonder bakteriyel peritoniti tanımlamaz.
+@@
+@QB DAHA ESKİ BLOK SINAVI SORULARI
+@E 2024-25 S62: En sık cerrahi gerektiren akut karın nedeni → akut apandisit.
+@E 2024-25 S63: İlk istenecek en pratik radyolojik tetkik → direkt batın grafisi.
+@E 2024-25 S65: İçi boş organ perforasyonunu gösteren bulgu → ayakta direkt batın grafisinde diafragma altında serbest hava.
+@E 2023-24 S62, 2022-23 S63: Akut apandisiti desteklemeyen bulgu → Murphy bulgusu.
+@E 2023-24 S63: Karın içi enfeksiyonun şiddetini etkilemeyen → cinsiyet.
+@E 2023-24 S66, 2022-23 S64: İskemik nitelikte ağrı → strangüle bağırsak.
+@E 2022-23 S61: Peritonitte öncelikle istenmeyen tetkik → beyin omurilik sıvısı incelemesi.
+@E 2022-23 S65: Sekonder bakteriyel peritonite uymayan tablo → cerrahi öyküsü olmayan sirotik hastada asit sıvısında nötrofil 250/mm³ üzerinde (primer peritonit).
+@E 2021-22 S60: İkincil peritonit grubuna girmeyen → çocukluk çağı spontan peritoniti.
+@E 2021-22 S62, 2019-20 S65: Sol alt kadranda lokalize ağrı → akut divertikülit.
+@E 2019-20 S63: Sol subdiafragmatik apsede sol omuza vuran ağrı → Kehr belirtisi.
+@E 2019-20 S64: Göbek çevresinde başlayıp sağ alt kadrana yerleşen ağrı → akut apandisit.

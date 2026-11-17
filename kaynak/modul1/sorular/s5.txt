@@ -1,0 +1,96 @@
+@QB BU YILIN SORULARI
+@Q MODÜL 1 2026-27 · SORU 30 | BU YIL | İLK GEÇİŞ BSD 2022-23 S55 VE 2025-26 S36'DA SORULDU
+@K Oral yolla uygulanan ilaçlarda presistemik (ilk geçiş) eliminasyon ve enterohepatik döngü ile ilgili aşağıdakilerden hangisi doğrudur?
+A) Enterohepatik döngüye giren ilaçların vücutta kalış ve etki süresi kısalır.
+B) Geniş spektrumlu antibiyotik kullanımı bağırsak florasını baskılayarak enterohepatik döngüye giren ilaçların etkinliğini azaltabilir. ✓
+C) Presistemik eliminasyon yalnızca karaciğerde gerçekleşir; bağırsak epitelinin bu sürece katkısı yoktur.
+D) Sublingual uygulanan bir ilaç, oral yolla verildiğindekiyle aynı ölçüde presistemik eliminasyona uğrar.
+E) İntravenöz uygulanan ilaç da portal dolaşımdan geçtiği için ilk geçiş eliminasyonuna uğrar.
+@O Önceki yıllar: 2022-23'te ilk geçişe en çok uğrayan ilaç soruldu (propranolol). 2025-26'da “levodopanın presistemik eliminasyonu” farmakodinamikle ilgili olmayan şık olarak verildi.
+B doğru. Enterohepatik döngüde safrayla atılan konjugatı bağırsak bakterileri parçalar ve ilaç yeniden emilir. Geniş spektrumlu antibiyotik florayı baskılayınca bu adım durur; ilaç dışkıyla atılır, plazma düzeyi ve etkinliği düşer. Enterohepatik döngü ilacın vücutta kalış süresini uzatır, kısaltmaz (A). İlk geçiş eliminasyonu bağırsak lümeninde ve epitelinde de olur (C). Dilaltı (D) ve intravenöz (E) yollar portal dolaşımdan geçmez, bu yüzden ilk geçişe uğramaz.
+@@
+@Q MODÜL 1 2026-27 · SORU 38 | BU YIL | İLK KEZ SORULDU
+@K Henderson-Hasselbalch denklemi ile de açıklanabilen ilaçların iyonizasyonu olayı dikkate alındığında aşağıdaki bilgilerden hangisi doğrudur?
+A) Asidik karakterli ilaç asidik pH değerli sıvı kompartımanında konsantre olur.
+B) pKa değeri ilaç moleküllerinin tamamının iyonize olduğu pH değerini tanımlar.
+C) İdrarın asidik hale getirilmesi idrarla atılan asidik bir ilacın itrahını artırır.
+D) IV yolla alınan bazik yapılı bir ilacın mide sıvısında birikmesi mümkündür. ✓
+E) Asidik ilaç bazik ortamda non-iyonize formdadır, daha iyi absorbe edilir.
+D doğru. Bazik ilaç kanın pH'ında (7,4) kısmen non-iyonizedir ve mide mukozasından lümene geçebilir. Midenin asidik sıvısında (pH 1-2) hemen iyonize olur ve geri dönemez: iyon tuzağı. İntravenöz verilen morfinin mide sıvısında bulunması böyle açıklanır. Asidik ilaç asidik ortamda non-iyonizedir; orada birikmez, emilir. Asidik ilaç bazik kompartmanda birikir (A). pKa moleküllerin yarısının iyonize olduğu pH'dır (B). Asidik idrar asidik ilacı noniyonize yapar, geri emilim artar ve atılım azalır (C). Asidik ilaç bazik ortamda iyonizedir ve iyi emilmez (E).
+@@
+@Q MODÜL 1 2026-27 · SORU 39 | BU YIL | İLK KEZ SORULDU
+@K Pasif difüzyonla hücre membranından geçen bir ilacın emilim hızını artırması en olası özellik aşağıdakilerden hangisidir?
+A) Molekül ağırlığının artması
+B) İyonik yük kazanması
+C) Non-iyonize fraksiyonunun artması ✓
+D) Lipid/su partisyon katsayısının azalması
+E) Vazokonstriktör etkili olması
+C doğru. Zardan yalnızca yüksüz, lipitte çözünen molekül geçer. Non-iyonize bölüm arttıkça emilim hızlanır. Molekül ağırlığının artması (A), iyonik yük kazanma (B) ve lipit/su partisyon katsayısının azalması (D) geçişi yavaşlatır. Vazokonstriksiyon bölgenin kan akımını azaltarak emilimi yavaşlatır; lokal anesteziklere adrenalin eklenmesinin nedeni budur (E).
+@@
+@Q MODÜL 1 2026-27 · SORU 40 | BU YIL | BSD 2025-26 S56 İLE AYNI KÖK
+@K Aşağıdakilerden hangisi farmakodinami kapsamında değil farmakokinetik süreçler bağlamında incelenir?
+A) Statinlerin HMG-KoA redüktaz enzimini inhibe etmesi
+B) Nikotinik reseptörde iyon geçişinin agonist ile artırılması
+C) Morfinin aynı konsantrasyonda meperidinden daha yüksek analjezik etki oluşturması
+D) Bakteri hücre duvarı sentezinin penisilin tarafından engellenmesi
+E) Antibiyotik tedavisi alan hastalarda oral kontraseptif etkinliğinin azalması ✓
+@O Önceki yıllar: 2025-26 blok sınavında aynı kökün cevabı “organik nitratların oral dozunun dilaltı dozundan yüksek olması” idi (ilk geçiş). 2024-25'te cevap “probenesidin tübüler sekresyonda penisilinle yarışması” idi. Üç yılda üç farklı farmakokinetik örnek kullanıldı.
+E doğru. Antibiyotik bağırsak florasını baskılar, östrojenin enterohepatik döngüsü bozulur ve plazma düzeyi düşer. İlacın derişimi değiştiği için olay farmakokinetiktir. Diğer şıkların hepsi ilacın hedefiyle etkileşimini anlatır ve farmakodinamiktir: enzim inhibisyonu (A, D), iyon kanalı reseptörünün aktivasyonu (B), iki ilacın etki gücünün karşılaştırılması (C).
+@@
+@Q MODÜL 1 2026-27 · SORU 43 | BU YIL | İLK KEZ SORULDU
+@K Antiasit kullanan bir hastada oral tetrasiklin tedavisinin etkinliğinin azalması aşağıdaki süreçlerden hangisindeki değişiklikle en doğrudan açıklanabilir?
+A) Gastrointestinal absorpsiyon ✓
+B) Proteinlere bağlanma
+C) İlk geçiş etkisi
+D) Enterohepatik siklus
+E) Glomerüler filtrasyon
+A doğru. Antiasitlerdeki alüminyum, magnezyum ve kalsiyum tetrasiklinle şelat yapar. Şelat bağırsaktan emilemez. Etkileşim emilim basamağındadır.
+@@
+@Q MODÜL 1 2026-27 · SORU 45 | BU YIL | ÖNİLAÇ VE İNDÜKSİYON İLİŞKİSİ İLK KEZ SORULDU; BİYOYARARLANIM BSD 2024-25 S34
+@K Farmakokinetik kavramlarla ilgili aşağıdaki ifadelerden hangisi doğrudur?
+A) Uygulanan ilacın değişmeden vücuttan atılan kısmı biyoyararlanım olarak tanımlanır.
+B) Enzim indüksiyonu, önilaç kullanılan bir tedavide farmakolojik etkiyi artıracak bir değişikliktir. ✓
+C) Molekülün lipofobiklik derecesi büyüdükçe absorpsiyonu kolaylaşır.
+D) Genelleme yapılacak olursa, bir ilacın absorpsiyonu, derialtı uygulamada kas içi enjeksiyona göre daha hızlıdır.
+E) Presistemik eliminasyona uğrayan ilaçların parenteral dozu oral dozuna göre genellikle daha yüksektir.
+@O Önceki yıllar: 2024-25 blok sınavında biyoyararlanımın tanımı doğru şıktı: etkin maddenin emilip etki yerine ulaşma hızı ve derecesi.
+B doğru. Önilaç vücutta enzimle aktif metabolite çevrilir. Enzim indüksiyonu bu dönüşümü hızlandırır ve etkiyi artırır. Biyoyararlanım değişmeden atılan kısım değil, sistemik dolaşıma ulaşan kısımdır (A). Lipofobik (suda çözünen) molekül zardan zor geçer (C). Kas dokusu deri altı dokudan daha kanlıdır; kas içi emilim daha hızlıdır (D). İlk geçişe uğrayan ilacın oral dozu parenteral dozundan yüksektir, tersi değil (E).
+@@
+@Q MODÜL 1 2026-27 · SORU 47 | BU YIL | İLK KEZ SORULDU
+@K Bir ilacın plazma proteinlerine bağlanmasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?
+A) Yüksek oranda bağlanma sanal dağılım hacminin daha küçük hesaplanmasına neden olur. ✓
+B) Proteinlere bağlanan ilaç farmakolojik olarak daha aktiftir.
+C) Bağlı ilacın glomerüler filtrasyona uğrama oranı serbest ilaçtan daha yüksektir.
+D) İlaç molekülü proteinlere bağlanarak daha polar hale gelir ve membranlardan daha kolay geçer.
+E) Proteinlere yüksek oranda bağlanan ilaçların yarılanma ömrü daha kısadır.
+A doğru. Plazma proteinlerine yüksek oranda bağlanan ilaç damar içinde kalır; plazma derişimi yüksek ölçülür ve sanal dağılım hacmi küçük hesaplanır. Bağlı ilaç etkisizdir (B), glomerülden süzülmez (C), zarlardan geçemez (D). Bağlı ilaç eliminasyondan korunur; yarı ömür uzar (E).
+@@
+@QB GEÇEN YILIN BLOK SINAVI (2025-26)
+@Q BSD-1 2025-26 · SORU 36 | BLOK SINAVI | 
+@K Aşağıdakilerden hangisi farmakodinamik faz ile ilgili değildir?
+A) Varfarinin koagülasyonu inhibe etmesi
+B) Amiodoranun kalbi yavaşlatması
+C) Levodopanın presistemik eliminasyonu ✓
+D) Lityumun nöronlarda depolarizasyon ile blok oluşturması
+E) Rifampinin mikrozomal enzimleri indüklemesi
+C doğru. Levodopanın presistemik eliminasyonu ilacın sistemik dolaşıma ulaşan miktarını belirler; farmakokinetiktir. Varfarinin pıhtılaşmayı önlemesi (A), amiodaronun kalbi yavaşlatması (B), lityumun nöronlardaki etkisi (D) farmakodinamiktir. Rifampinin enzim indüksiyonu (E) de aslında bir farmakokinetik etkileşimdir; anahtar, en açık örnek olan C'yi doğru saymıştır.
+@@
+@Q BSD-1 2025-26 · SORU 56 | BLOK SINAVI | 
+@K Aşağıdakilerden hangisi farmakodinami kapsamında değil farmakokinetik süreçler bağlamında incelenir?
+A) Organik nitratların oral dozunun dilaltı dozuna göre daha yüksek olması ✓
+B) COX2 seçici NSAİİ'lerin kardiyovasküler risklerinin bulunması
+C) Penisillinin bakteriyel hücre duvarı sentezini inhibe etmesi
+D) Hücre dışı sinyalin reseptör tarafından hücre içine aktarılması
+E) Uzun süreli beta blokör kullanımında ilacın etkilerine karşı tolerans gelişmesi
+A doğru. Organik nitratlar ağızdan alındığında karaciğerde büyük oranda ilk geçiş eliminasyonuna uğrar; dilaltı yol portal dolaşımı atlar. Doz farkı bir farmakokinetik olaydır. COX-2 seçici ilaçların kardiyovasküler riski (B), penisilinin etki mekanizması (C), sinyal iletimi (D) ve tolerans (E) farmakodinamiktir.
+@@
+@QB DAHA ESKİ BLOK SINAVI SORULARI
+@E 2024-25 S34: Doğru tanım → biyoyararlanım, etkin maddenin emilip etki yerine ulaşma hızı ve derecesidir. Yanlışlar: biyoeşdeğerlik için farmasötik eşdeğerlik yeterlidir; oral yolun biyoyararlanımı en yüksektir.
+@E 2024-25 S52: Farmakokinetik kapsamında incelenen → probenesidin tübüler sekresyonda penisilinle yarışması.
+@E 2023-24 S43: N-asetiltransferaz eksikliğinde biyotransformasyonu yavaşlayan ilaç → izoniazid.
+@E 2023-24 S45: Kaynağı bakımından farklı olan → interferonlar (biyoteknolojik; diğerleri bitkisel).
+@E 2023-24 S51: İlacın veriliş yolunu belirlemeyen etken → ilacın reseptör afinitesi.
+@E 2022-23 S55: Presistemik eliminasyona en çok uğrayan → propranolol.
+@E 2022-23 S57: Hem sistemik hem lokal etkili farmasötik şekil → supozituvar.
+@E 2019-20 S54: Farmasötik şekil için doğru → ER, salınımı uzatılmış preparattır.
+@E 2019-20 S57: 50 kg hastaya 4 mg/kg lidokain bolus, Vd 1 L/kg → plazma derişimi 4 mg/L.

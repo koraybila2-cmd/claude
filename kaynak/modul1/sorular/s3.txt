@@ -1,0 +1,92 @@
+@QB BU YILIN SORULARI
+@Q MODÜL 1 2026-27 · SORU 11 | BU YIL | YOLUN İŞLEVİ İLK KEZ SORULDU; YOLUN ADI BSD 2022-23 S4'TE GEÇTİ
+@K Vücuda gelen ani bir ağrı veya dokunma uyarısına karşı kafayı ve gözleri otomatik olarak o yöne çevirmeyi sağlayan yol aşağıdakilerden hangisidir?
+A) Tractus spinothalamicus lateralis
+B) Tractus spinothalamicus anterior
+C) Tractus spinoreticularis
+D) Tractus spinotectalis ✓
+E) Tractus spinocerebellaris posterior
+@O Önceki yıllar: 2019-20 ve 2021-22'de ağrı ve ısıyı taşıyan yol soruldu (tractus spinothalamicus lateralis). 2022-23'te ağrı taşıyan yollar soruldu: spinothalamicus lateralis, spinotectalis, spinoreticularis.
+D doğru. Tractus spinotectalis mezensefalondaki colliculus superior'a gider. Ağrı ya da dokunma uyaranı geldiğinde başı ve gözleri uyaranın kaynağına çeviren refleksi sağlar. Tractus spinothalamicus lateralis ağrı ve ısının bilinçli algısını taşır (A). Tractus spinothalamicus anterior kaba dokunma ve basıncı taşır (B). Tractus spinoreticularis uyanıklık ve ağrının duygusal bileşeniyle ilgilidir (C). Tractus spinocerebellaris posterior bilinçsiz propriosepsiyonu serebelluma taşır (E).
+@@
+@Q MODÜL 1 2026-27 · SORU 12 | BU YIL | BSD 2019-20 S6 İLE AYNI KONU
+@K Aşağıdakilerden hangisi yansıyan ağrıya örnek değildir?
+A) Kardiak ağrısının epigastrik bölgede hissedilmesi
+B) Kardiak ağrısının sol kolun iç yüzünde hissedilmesi
+C) Diafragma irritasyonunun omuz üstünde hissedilmesi
+D) Üreterlerdeki distansiyon ağrısının testislerde hissedilmesi
+E) Mide ağrısının epigastrik bölgede hissedilmesi ✓
+@O Önceki yıllar: 2019-20 blok sınavında “diafragma irritasyonu sol kolun iç yüzüne yansır” yanlış şıktı; doğru şık “derin somatik ağrı vücudun başka bölümlerine yansıyabilir” idi.
+E yansıyan ağrı değildir. Mide ağrısının midenin bulunduğu epigastrik bölgede duyulması, organın kendi yerinde hissedilen visseral ağrıdır. Yansıyan ağrıda ağrı organdan uzak bir yerde duyulur: kalp ağrısı epigastriumda (A) ya da sol kolun iç yüzünde (B), diafragma irritasyonu omuzun üstünde (C), üreter ağrısı testiste (D).
+@@
+@Q MODÜL 1 2026-27 · SORU 13 | BU YIL | MEKANİZMA İLK KEZ DOĞRUDAN SORULDU
+@K Yansıyan (Vuran) ağrının sebebi hangi şıkta açıklanmıştır?
+A) Ağrı yollarının birinci nöronunun ganglion spinale olmasıdır.
+B) Visseral afferent liflerin cornu posterior'da sempatik nöronlar ile sinaps yapması
+C) Visseral afferent liflerin cornu posterior'da somatik ağrı yoluna da ait olan nöronlarla sinaps yapması ✓
+D) Visseral afferent liflerin medulla spinalis'e giderken otonom liflerle aynı yolu paylaşması
+E) Visseral afferent liflerin MSS'de sinaps yaptığı nöron sayısının çok olması
+@O Önceki yıllar: 2022-23 ve 2023-24 blok sınavlarında yansıyan ağrı “embriyolojik olarak ortak olan oluşumların afferent innervasyonlarının aynı olması” ile tanımlanmıştı.
+C doğru. Visseral afferent lifler arka boynuzda, derinin somatik ağrı yoluna ait olan nöronlarla sinaps yapar. Aynı nöron iki kaynaktan da uyarıldığı için beyin, organdan gelen ağrıyı o segmentin dermatomuna yorar. Birinci nöronun arka kök ganglionunda olması bütün duyular için geçerlidir, yansımayı açıklamaz (A). Sempatik nöronlarla sinaps refleks yanıtları (terleme, taşikardi) açıklar (B). Visseral liflerin otonom sinirlerle aynı yolu izlemesi ağrının hangi segmente girdiğini belirler, ama deride duyulmasının nedeni değildir (D).
+@@
+@Q MODÜL 1 2026-27 · SORU 14 | BU YIL | DERMATOM DÜZEYİ İLK KEZ SORULDU
+@K Bir klinik muayene sırasında, bir hastanın umbilikus seviyesinde dokunma ve ağrı duyusunun tamamen kaybolduğu tespit edilmiştir. Dermatom kuralları dikkate alındığında, bu duyu kaybı öncelikle hangi spinal sinir segmentinin veya segmentlerinin hasar gördüğünü gösterir?
+A) T4
+B) T7
+C) T10 ✓
+D) T12
+E) L1
+C doğru. Göbek T10 dermatomundadır. T4 meme başı (A), T7 processus xiphoideus (B), T12 suprapubik bölge (D), L1 kasık (E) düzeyidir. Apandisitin erken ağrısının göbek çevresinde duyulması da appendix'in visseral afferentlerinin T10 segmentine girmesindendir.
+@@
+@Q MODÜL 1 2026-27 · SORU 15 | BU YIL | YANSIYAN AĞRI BSD'DE 4 KEZ SORULDU
+@K Akut kolesistitli bir hastada sağ omuz bölgesinde hissedilen ağrı aşağıdaki ağrı tiplerinden hangisine örnektir?
+A) Visseral ağrı
+B) Parietal ağrı
+C) Yansıyan ağrı ✓
+D) Nöropatik ağrı
+E) Psikojenik ağrı
+C doğru. İltihaplı safra kesesi diafragmanın alt yüzünü irrite eder. Diafragmanın orta kısmının duyusunu n. phrenicus (C3-C5) taşır; aynı segmentler omuz derisini innerve eder. Ağrı bu yüzden sağ omuzda duyulur. Ağrı hasta organdan uzakta, onunla aynı segmentten innerve olan deride duyulduğu için yansıyan ağrıdır. Visseral ağrı orta hatta ve künt olurdu (A). Parietal ağrı irritasyonun olduğu yerde, sağ üst kadranda duyulurdu (B).
+@@
+@Q MODÜL 1 2026-27 · SORU 16 | BU YIL | BSD 2019-20, 2021-22 VE 2024-25'TE TERS YÖNDEN SORULDU
+@K Parietal peritonun irritasyonuna bağlı gelişen ağrının en karakteristik özelliği aşağıdakilerden hangisidir?
+A) Künt ve kötü lokalize olması
+B) Genellikle orta hatta hissedilmesi
+C) Keskin ve iyi lokalize olması ✓
+D) Her zaman sırta yayılması
+E) Hastanın hareket etmesiyle azalması
+@O Önceki yıllar: 2019-20 ve 2021-22'de parietal ağrının özelliği olmayan şık “az miyelinize ince C lifleriyle iletilir” idi (parietal ağrı hem C hem Aδ lifleriyle iletilir). 2024-25'te somatik ağrının özelliği olmayan şık “sınırları iyi lokalize edilemeyen künt ağrı” idi.
+C doğru. Parietal periton somatik sinirlerle innerve olur; ağrısı keskindir ve hasta yerini parmağıyla gösterebilir. Künt ve kötü lokalize olmak (A) ile orta hatta duyulmak (B) visseral ağrının özelliğidir. Parietal ağrı hareketle ve öksürükle artar, bu yüzden hasta kıpırdamadan yatar (E).
+@@
+@QB GEÇEN YILIN BLOK SINAVI (2025-26)
+@Q BSD-1 2025-26 · SORU 9 | BLOK SINAVI | 
+@K İç organların ağrı duyusunun taşınması ile ilgili olarak aşağıda verilen bilgilerden hangileri doğrudur?
+@K I- Myelinli afferent sinir lifleri, iç organlardan çıkarak sempatik ganglionlarda sinaps yapmadan ilerler.
+@K II- Spinal sinirlere, rami communicantes grisei yoluyla girerler.
+@K III- Bu lifler ilgili spinal sinirin arka kök ganglionundaki nöronların periferik uzantılarıdırlar.
+@K IV- Merkezi aksonlar ise daha sonra medulla spinalis'e girerek ya lokal refleks yayına katılırlar ya da beyindeki daha yüksek merkezlere ulaşırlar.
+A) Sadece I-III
+B) Sadece II-IV
+C) Sadece I-II
+D) Sadece I-III-IV ✓
+E) I-II-III-IV
+D doğru (I, III, IV). İç organlardan gelen ağrı lifleri miyelinli afferentlerdir; sempatik ganglionlardan sinaps yapmadan geçerler (I). Bu lifler arka kök ganglionundaki nöronların periferik uzantılarıdır (III). Merkezi uzantıları medulla spinalis'e girer; ya lokal refleks yayına katılır ya da üst merkezlere çıkar (IV). II yanlıştır: visseral afferentler spinal sinire miyelinli oldukları için ramus communicans albus yoluyla katılır; ramus communicans griseus miyelinsiz postganglioner sempatik lifleri taşır.
+@@
+@Q BSD-1 2025-26 · SORU 10 | BLOK SINAVI | 
+@K Karın içi bir organdan kaynaklanan ağrının genellikle orta hatta vurmasına rağmen daha önce karın cerrahisi geçirmiş olgularda ağrı sıklıkla daha önceki bir ameliyattan kalmış olan nedbe dokusuna yansır. Böyle olguları aşağıdakilerden hangisi açıklar?
+A) Projeksiyon yasası
+B) Deneyimin etkisi ✓
+C) Yansıyan ağrı
+D) Dermatom kuralı
+E) Phantom ekstremite
+B doğru. Karın içi ağrının eski ameliyat nedbesine yansıması “deneyimin etkisi” ile açıklanır: beyin ağrıyı daha önce ağrı deneyimi yaşadığı yere yorar. Projeksiyon yasası fantom ekstremite ağrısını açıklar (A, E).
+@@
+@QB DAHA ESKİ BLOK SINAVI SORULARI
+@E 2024-25 S64: Somatik ağrının özelliği olmayan → sınırları iyi lokalize edilemeyen künt ağrı.
+@E 2023-24 S5: Fantom ekstremite hangi mekanizmayla açıklanır → projeksiyon yasası.
+@E 2023-24 S6: Visseral ağrı için doğrular → organlardan kaynaklanır; karaciğer, böbrek, dalak kapsülünün gerilmesiyle olur; her zaman doku harabiyetiyle ilişkili değildir; içi boş organların aşırı gerilmesiyle duyulur. Yanlış: “her organdan kaynaklanır”.
+@E 2023-24 S57: Nosiseptörün görevi → mekanik, termal ve kimyasal uyaranı algılayıp elektrik sinyaline çevirmek.
+@E 2023-24 S65, 2022-23 S62: Yansıyan ağrıyla ilgili doğru cümleler arasında yanlış olan → karın ağrısıyla başvuran hastaya rektal tuşe yapılmamalıdır (yapılmalıdır).
+@E 2022-23 S4: Ağrıyı taşıyan yollar → tr. spinothalamicus lateralis, tr. spinotectalis, tr. spinoreticularis.
+@E 2021-22 S4, 2019-20 S5: Ağrı ve ısıyı taşıyan yol → tr. spinothalamicus lateralis.
+@E 2021-22 S63, 2019-20 S62: Parietal ağrının özelliği olmayan → esas olarak az miyelinize ince C lifleriyle iletilir.
+@E 2019-20 S6: Yansıyan ağrı için doğru → derin somatik ağrı vücudun başka bölümlerine yansıyabilir.

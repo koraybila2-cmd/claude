@@ -1,0 +1,153 @@
+@QB BU YILIN SORULARI
+@Q MODÜL 1 2026-27 · SORU 3 | BU YIL | BSD 2019-20 S8 VE 2023-24 S9'DA ÖNCÜL OLARAK GEÇTİ
+@K Recessus subphrenici'yi sağ ve sol olmak üzere ikiye ayıran anatomik yapı aşağıdakilerden hangisidir?
+A) Omentum minus
+B) Omentum majus
+C) Lig. falciforme hepatis ✓
+D) Mesocolon transversum
+E) Mesocolon sigmoideum
+@O Önceki yıllar: “Recessus subphrenici lig. falciforme hepatis ile sağ ve sol olarak ikiye ayrılır” cümlesi 201920 ve 2023-24 blok sınavlarında doğru öncül olarak verilmişti.
+C doğru. Recessus subphrenicus diafragma ile karaciğerin üst yüzü arasındadır. Karaciğeri karın ön duvarına ve diafragmaya bağlayan lig. falciforme hepatis bu aralığı sağ ve sol olarak ikiye böler. Omentum minus karaciğer ile mide arasındadır (A). Omentum majus mideden aşağı sarkar (B). Mesocolon transversum suprakolik ve infrakolik kompartmanları ayırır (D). Mesocolon sigmoideum pelvis girişindedir (E).
+@@
+@Q MODÜL 1 2026-27 · SORU 4 | BU YIL | KÖKEN SORUSU BSD'DE 5 KEZ; DAMAR SORUSU BSD 2025-26
+@K S7-8 Aşağıdakilerden hangisi dorsal mesenterden gelişmiş bir anatomik yapı içerisinde bulunur?
+A) V. portae hepatis
+B) A. hepatica propria
+C) A. gastrica dextra
+D) A. gastrica sinistra
+E) A. gastroomentalis dextra ✓
+@O Önceki yıllar: 2025-26 blok sınavı aynı mantıkla iki soru sordu: a. hepatica propria'nın içinde bulunduğu yapı (omentum minus) ve a. mesenterica inferior dallarının içinde ilerlediği mezenter (mesocolon sigmoideum). Ventral mezenterden gelişen yapılar 2019-20, 2023-24, 2024-25 ve 2025-26'da soruldu.
+E doğru. A. gastroomentalis dextra midenin curvatura major'u boyunca omentum majus'un içinde seyreder. Omentum majus dorsal mezenterden gelişir. V. portae hepatis ve a. hepatica propria lig. hepatoduodenale'nin içindedir (A, B). A. gastrica dextra ve sinistra curvatura minor boyunca omentum minus'un yaprakları arasındadır (C, D). Omentum minus ventral mezenterden gelişir.
+@@
+@Q MODÜL 1 2026-27 · SORU 5 | BU YIL | BSD 2021-22 S5 İLE AYNI BİLGİ
+@K Periton ile ilgili aşağıdaki ifadelerden hangisi doğrudur?
+A) Parietal periton göğüs duvarlarını sarar.
+B) Üreterler sekonder retroperitoneal organlardır.
+C) Mesocolon sigmoideum ventral mesenterden gelişir.
+D) Visceral periton ağrı, ısı ve basınca duyarlıdır.
+E) Parietal periton spinal sinirler tarafından innerve edilir. ✓
+@O Önceki yıllar: 2021-22 blok sınavında yanlış şık “peritoneum viscerale ısıya karşı duyarlıdır” idi.
+E doğru. Parietal periton, örttüğü karın duvarını innerve eden somatik spinal sinirlerden dal alır. Bu yüzden ağrıya, ısıya, dokunmaya ve basınca duyarlıdır. Parietal periton karın ve pelvis duvarlarını döşer; göğüs duvarını döşeyen zar plevradır (A). Üreterler primer retroperitoneal organlardır (B). Mesocolon sigmoideum dorsal mezenterden gelişir (C). Visseral periton ağrı, ısı ve dokunmaya duyarsızdır; yalnızca gerilme, iskemi ve kimyasal irritasyona yanıt verir (D).
+@@
+@Q MODÜL 1 2026-27 · SORU 6 | BU YIL | BU AYRINTI İLK KEZ SORULDU
+@K Düzenli olarak karın boşluğunda ameliyat yapan bir cerrah, üreter yaralamaktan çok korkmaktadır. Bu cerrah hangi recessus etrafında ameliyat yaparken normalden daha fazla dikkatli olmalıdır?
+A) Recessus subphrenici
+B) Recessus paraduodenalis
+C) Recessus retroduodenalis
+D) Recessus retrocaecalis
+E) Recessus intersigmoideus ✓
+E doğru. Recessus intersigmoideus, sigmoid mezokolonun ters V biçimindeki kökünün tepesinde, arka karın duvarında bulunan çıkmazdır. Arka duvarının hemen arkasında sol üreter, a. iliaca communis sinistra'nın çatallandığı yeri çaprazlar. Sigmoid kolon ameliyatlarında bu çıkmaz sol üreteri bulmak için kılavuzdur, aynı zamanda üreterin yaralanabileceği yerdir. Recessus paraduodenalis'in komşusu v. mesenterica inferior'dur (B). Recessus retrocaecalis çekumun arkasındadır ve arkaya dönük apendiksin yeridir (D).
+@@
+@Q MODÜL 1 2026-27 · SORU 7 | BU YIL | BSD 2021-22 S8 VE 2025-26 S6 İLE AYNI KALIP
+@K 43 yaşında bir kadın hasta, ileum perforasyonu sebebiyle ameliyata alınıyor. Ameliyat sırasında cerrah, ileum'u arka karın duvarına asan anatomik yapının da bir kısmını kesiyor. Bu yapı ve yapının geliştiği embriyolojik köken aşağıdaki şıklardan hangisinde doğru verilmiştir?
+A) Mesostenium, ventral mesenter
+B) Mesostenium, dorsal mesenter ✓
+C) Omentum majus, ventral mesenter
+D) Mesocolon transversum, ventral mesenter
+E) Mesocolon transversum, dorsal mesenter
+@O Önceki yıllar: 2025-26 blok sınavı aynı kalıbı karaciğer için sordu: karaciğerden karın ön duvarına uzanan yapı ve kökeni (lig. falciforme hepatis, ventral mezenter). 2021-22'de jejunum ve ileumu asan yapı düz soruldu (mesenterium).
+B doğru. İleum ve jejunumu arka karın duvarına asan yapı mesenterium'dur; ince bağırsak mezenterinin öteki adı mesostenium'dur. Dorsal mezenterden gelişir. Ventral mezenterden yalnızca omentum minus ve karaciğerin bağları gelişir, bu yüzden A, C ve D yanlıştır. Mesocolon transversum colon transversum'u asar (E).
+@@
+@Q MODÜL 1 2026-27 · SORU 8 | BU YIL | BSD 2019-20 S10; PRİMER OLANI 2022-23 VE 2024-25'TE SORULDU
+@K Aşağıdakilerden hangisi sekonder retroperitoneal bir organdır?
+A) Mide
+B) Duodenum ✓
+C) Jejunum
+D) İleum
+E) Karaciğer
+@O Önceki yıllar: 2019-20 blok sınavında sekonder retroperitoneal organlar soruldu (pankreas ve colon descendens). 2022-23 ve 2024-25'te primer retroperitoneal organ soruldu; ikisinde de cevap böbrekti ve colon ascendens ile pankreas çeldiriciydi.
+B doğru. Duodenum, ilk kısmı dışında, sekonder retroperitonealdir: embriyoda mezosu vardır, sonra arka karın duvarına yapışır. Pankreas, colon ascendens ve colon descendens de bu gruptadır. Mide, jejunum, ileum ve karaciğer intraperitonealdir (A, C, D, E).
+@@
+@Q MODÜL 1 2026-27 · SORU 9 | BU YIL | BSD 2019-20 S9'UN ARKA DUVAR HÂLİ
+@K Aşağıdakilerden hangisi bursa omentalis'in arka sınırını oluşturan anatomik yapılardandır?
+A) Mide
+B) Duodenum
+C) Karaciğer
+D) Sol böbrek ✓
+E) Sağ böbrek
+@O Önceki yıllar: 2019-20 blok sınavı ön sınırı sormuştu: karaciğer, mide ve omentum minus.
+D doğru. Bursa omentalis'in arka duvarını pankreas, sol böbrek, sol böbreküstü bezi ve diafragma oluşturur. Mide ön duvardadır (A). Karaciğerin lobus caudatus'u üst ve ön duvara katılır (C). Duodenumun ilk kısmı foramen epiploicum'un alt sınırıdır (B). Sağ böbrek bursa omentalis'le değil, recessus hepatorenalis'le komşudur (E).
+@@
+@Q MODÜL 1 2026-27 · SORU 10 | BU YIL | BSD 2021-22, 2022-23 VE 2023-24'TE AYNI TÜR YOL SORUSU
+@K 35 yaşında erkek hastada recessus hepatorenalis'te bulunan bir sıvı koleksiyonun excavatio rectouterina'ya gidebilmesi için aşağıdaki anatomik yapılardan hangisinden geçmesi gerekir?
+A) Bursa omentalis
+B) Foramen magnum
+C) Foramen epiploicum
+D) Sulcus paracolicus dextra ✓
+E) Sulcus paracolicus sinistra Kaynak notu: Kökte hasta erkek olarak verilmiş, oysa excavatio rectouterina kadında bulunur; erkekteki karşılığı excavatio rectovesicalis'tir. Sorulan yol değişmez.
+@O Önceki yıllar: 2023-24'te tersi soruldu: excavatio rectouterina'daki sıvı sol subfrenik alana sulcus paracolicus sinister ile ulaşır. 2021-22'de Morison cebindeki sıvının sol yana yatınca bursa omentalis'e geçtiği, 2022-23'te bursa omentalis'teki sıvının foramen epiploicum'dan önce sağ recessus subhepaticus'a çıktığı soruldu.
+D doğru. Recessus hepatorenalis (Morison cebi) sağ üst kadrandadır. Buradaki sıvı colon ascendens'in dış yanındaki sulcus paracolicus dexter boyunca aşağı akar ve pelvise ulaşır. Sol parakolik oluk sol taraftadır (E). Bursa omentalis'e geçiş foramen epiploicum'dan olur, ama bu yol pelvise gitmez (A, C). Foramen magnum kafatasındadır (B).
+@@
+@QB GEÇEN YILIN BLOK SINAVI (2025-26)
+@Q BSD-1 2025-26 · SORU 4 | BLOK SINAVI | 
+@K Bağırsak yapılarından hangisinin enfeksiyonunda retroperitonal alana yayılma riski bulunmaz?
+A) Rectum
+B) Duodenum
+C) Appendix vermiformis ✓
+D) Colon ascendens
+E) Colon descendens
+C doğru. Appendix vermiformis intraperitonealdir ve kendi mezosu (mesoappendix) vardır; enfeksiyonu periton boşluğuna yayılır. Duodenum, colon ascendens ve colon descendens sekonder retroperitonealdir, rektumun alt kısmı peritonun altındadır; bunların enfeksiyonu retroperitoneal alana yayılabilir.
+@@
+@Q BSD-1 2025-26 · SORU 5 | BLOK SINAVI | 
+@K Kadınlarda pelvik bölgede iki adet çıkmaz bulunur. Bunlar hangi şıkta doğru olarak verilmiştir?
+A) Recessus intersigmoideus ve Excavatio rectouterina
+B) Excavatio rectouterina ve Excavatio rectovesicalis
+C) Excavatio vesicouterina ve Excavatio rectouterina ✓
+D) Recessus intersigmoideus ve Recessus retrocaecalis
+E) Recessus retrocaecalis ve Excavatio rectovesicalis
+C doğru. Kadında uterus, mesane ile rektumun arasına girdiği için iki çıkmaz oluşur: önde excavatio vesicouterina, arkada excavatio rectouterina (Douglas). Excavatio rectovesicalis erkekte bulunur (B, E). Recessus intersigmoideus ve retrocaecalis pelvis çıkmazı değildir (A, D).
+@@
+@Q BSD-1 2025-26 · SORU 6 | BLOK SINAVI | 
+@K 50 yaşında bir erkek hasta, karaciğerde kitle nedeniyle ameliyata alınıyor. Ameliyat sırasında cerrah, karaciğerinden karın ön duvarına doğru uzanan bir anatomik yapı görüyor. Bu yapı ve yapının geliştiği embriyolojik köken aşağıdaki şıklardan hangisinde doğru verilmiştir?
+A) Omentum minus, ventral mesenter
+B) Omentum minus, dorsal mesenter
+C) Omentum majus, dorsal mesenter
+D) Lig. falciforme hepatis, ventral mesenter ✓
+E) Lig. falciforme hepatis, dorsal mesenter
+D doğru. Karaciğerden karın ön duvarına uzanan yapı lig. falciforme hepatis'tir ve ventral mezenterden gelişir. Omentum minus karaciğeri mideye bağlar, karın ön duvarına değil (A, B). Omentum majus dorsal mezenter kökenlidir ve karaciğerle ilişkili değildir (C).
+@@
+@Q BSD-1 2025-26 · SORU 7 | BLOK SINAVI | 
+@K A. mesenterica inferior'dan çıkan dalların bazıları aşağıdaki mezenter yapılarından hangisinin içinde ilerleyerek hedef organına ulaşır?
+A) Omentum minus
+B) Omentum majus
+C) Radix mesenteri
+D) Mesocolon transversum
+E) Mesocolon sigmoideum ✓
+E doğru. A. mesenterica inferior'un sigmoid dalları (aa. sigmoideae) ve a. rectalis superior, mesocolon sigmoideum'un içinde ilerler. Radix mesenterii ve mesocolon transversum'un damarları a. mesenterica superior'dan gelir (C, D). Omentum minus ve majus'un damarları truncus coeliacus dallarıdır (A, B).
+@@
+@Q BSD-1 2025-26 · SORU 8 | BLOK SINAVI | 
+@K A. hepatica propria aşağıdaki periton yapılarından hangisinin içinde yer alır?
+A) Omentum minus ✓
+B) Omentum majus
+C) Radix mesenteri
+D) Mesocolon transversum
+E) Mesocolon sigmoideum
+A doğru. A. hepatica propria, v. portae ve ductus choledochus ile birlikte lig. hepatoduodenale'nin içindedir; bu bağ omentum minus'un sağ serbest kenarıdır.
+@@
+@Q BSD-1 2025-26 · SORU 18 | BLOK SINAVI | 
+@K Aşağıdakilerden hangisi peritonun yapısı ve fonksiyonları ile ilgili yanlış bir ifadedir?
+A) Karın içi organları desteklemek
+B) Periton içerisinde yaklaşık 50 ml altında seröz sıvı bulunur ve organların birbirine sürtünmesi periton tarafından engellenir
+C) Metabolik ve immün fonksiyonlara katkı sağlamak
+D) Karın içi basıncı düzenlemek
+E) Hormon sentezlemek ✓
+E yanlış. Periton hormon sentezlemez. Organları destekler (A), 50 ml'nin altındaki seröz sıvıyla sürtünmeyi önler (B), metabolik ve immün işlevlere katkıda bulunur (C), karın içi basıncın düzenlenmesine katılır (D).
+@@
+@QB DAHA ESKİ BLOK SINAVI SORULARI
+@E 2024-25 S5, 2023-24 S10: Ventral mezenterden gelişen yapılar → omentum minus ve lig. falciforme hepatis.
+@E 2024-25 S6: Karın boşluğunda bulunmayan çıkmaz → recessus costodiaphragmaticus (plevra çıkmazıdır).
+@E 2024-25 S7, 2022-23 S9: Primer retroperitoneal organ → böbrek.
+@E 2024-25 S8: Omentum majus için yanlış → curvatura minor'dan başlar (curvatura major'dan başlar).
+@E 2024-25 S66, 2021-22 S64: Foramen Winslow'un sınırı olmayan → altta Treitz bağı (alt sınır duodenumun proksimalidir).
+@E 2023-24 S7, 2021-22 S7: Lig. hepatoduodenale ve lig. hepatogastricum hangi yapıdadır → omentum minus.
+@E 2023-24 S8: Excavatio rectouterina'daki sıvı sol subfrenik alana hangi yolla gelir → sulcus paracolicus sinister.
+@E 2023-24 S9: Doğru öncüller → subfrenik aralık lig. falciforme ile ikiye ayrılır; recessus hepatorenalis Morison cebidir; infrakolik aralıkları mesenterium ayırır. Yanlış öncül: “recessus subhepaticus dexter bursa omentalis'tir” (bursa omentalis sol recessus subhepaticus'tur). 201920 S8'de öncül doğru yazılmıştı ve cevap “hepsi” idi.
+@E 2022-23 S6: Curvatura major'dan pelvise uzanan dört yapraklı yapı → omentum majus.
+@E 2022-23 S7: Periton kaynaklı olmayan bağ → lig. teres hepatis (v. umbilicalis artığı).
+@E 2022-23 S8: Sol recessus subhepaticus'taki sıvı foramen epiploicum'dan ilk nereye geçer → sağ recessus subhepaticus.
+@E 2021-22 S6: Mesocolon transversum arka duvarda nerede sonlanır → pankreasın ön kenarı.
+@E 2021-22 S9: Morison cebinde sıvısı olan hasta sol yanına yatınca sıvı nereye geçer → bursa omentalis.
+@E 2021-22 S61, 2019-20 S66: Periton için yanlış → tüm intraabdominal organlar peritonla çepeçevre sarılıdır.
+@E 2019-20 S7: Omentumlar için doğru → omentum majus dört yapraklıdır, curvatura major'dan başlar; omentum minus ventral mezenterden gelişir. Yanlış: “lig. gastrocolicum omentum minus'un üst kısmıdır”.
+@E 2019-20 S9: Bursa omentalis'in ön sınırı → karaciğer, mide, omentum minus.
+@E 2019-20 S10: Sekonder retroperitoneal organlar → pankreas ve colon descendens.

@@ -1,0 +1,50 @@
+@QB BU YILIN SORULARI
+@Q MODÜL 1 2026-27 · SORU 26 | BU YIL | BSD 2024-25 S37 İLE AYNI BİLGİ
+@K Buprenorfin, μ-opioid reseptörlerinde parsiyel agonist etkilidir. Buna göre aşağıdakilerden hangisi doğrudur?
+A) İntrensek aktivitesi sıfır olduğundan tek başına verildiğinde etki oluşturmaz.
+B) Ulaşabildiği maksimum etki (Emax), tam agonistlerinkine eşittir.
+C) Tek başına verildiğinde agonist etki gösterir; bir tam agonistin varlığında ise onun etkisini azaltır. ✓
+D) Tek başına verildiğinde reseptörün bazal (konstitütif) aktivitesini baskılar.
+E) Doz yeterince artırıldığında intrensek aktivitesi de artar ve tam agonist özelliği kazandırır.
+@O Önceki yıllar: 2024-25 blok sınavında doğru şık aynıydı: “parsiyel agonist, tam agonistle birlikte verildiğinde maksimum etkiyi azaltır, antagonist gibi davranır”. O sorunun yanlış şıklarından biri de bu yılki E şıkkının aynısıydı.
+C doğru. Parsiyel agonist tek başına reseptörü uyarır ve agonist etki gösterir. Tam agonistle birlikte verildiğinde reseptörleri işgal eder ama daha zayıf uyarır; toplam etki azalır. Morfin kullanan kişiye buprenorfin verilince yoksunluk belirtilerinin çıkması bu yüzdendir. İntrensek aktivitesi sıfır olan antagonisttir (A). Parsiyel agonistin Emax'ı tam agonistinkinden düşüktür (B) ve doz artırılarak tam agoniste eşitlenemez (E). Bazal aktiviteyi baskılayan ters agonisttir (D).
+@@
+@Q MODÜL 1 2026-27 · SORU 42 | BU YIL | İLK KEZ BU KURGUYLA SORULDU
+@K Aşağıdaki ifadelerden hangisi/hangileri doğrudur?
+@K I- İnvers agonist, ortamda tam agonist yokken agonist gibi, agonist varlığında ise antagonist gibi davranır.
+@K II- Bir ilacın reseptöre kovalent bağlarla bağlanması yarışmasız antagonizmaya örnektir, agonist konsantrasyonu artırılarak antagonizma tamamen aşılamaz.
+@K III- Adrenalin ve asetilkolinin farklı reseptör üzerinden zıt kardiyovasküler etkiler oluşturması fizyolojik antagonizma tanımına uyar.
+A) I doğru, II ve III yanlıştır
+B) I ve II doğru, III yanlıştır
+C) II doğru, I ve III yanlıştır
+D) II ve III doğru, I yanlıştır ✓
+E) III doğru, I ve II yanlıştır
+D doğru (II ve III). I yanlıştır: tarif edilen ilaç parsiyel agonisttir; ters agonist reseptörün bazal aktivitesini baskılar. II doğrudur: kovalent bağlanma geri dönüşsüzdür, agonist artırılsa da antagonizma tam aşılamaz. III doğrudur: adrenalin ve asetilkolin farklı reseptörler üzerinden zıt etki yapar; bu fizyolojik antagonizmadır.
+@@
+@Q MODÜL 1 2026-27 · SORU 44 | BU YIL | ÜÇ ÖNCÜLLÜ KALIP BSD 2024-25 S49'DA DA KULLANILDI
+@K Aşağıdaki ifadelerden hangisi/hangileri doğrudur?
+@K I- Potens; bir ilacın ideal/kontrollü koşullarda oluşturabileceği maksimum etkisini tanımlar.
+@K II- Penisilin ve probenesid arasındaki farmakolojik ilişki allosterik antagonizma şeklindedir.
+@K III- Bir ilacın kusmayı engelleyip engellemediği kuvantal etki bağlamında incelenir.
+A) I doğru, II ve III yanlıştır
+B) I ve II doğru, III yanlıştır
+C) II doğru, I ve III yanlıştır
+D) II ve III doğru, I yanlıştır
+E) III doğru, I ve II yanlıştır ✓
+E doğru (yalnız III). I yanlıştır: maksimum etkiyi tanımlayan efikasidir; potens etki için gereken dozla ilgilidir. II yanlıştır: probenesid penisilinin tübüler sekresyonunda taşıyıcı için yarışır; bu bir reseptör antagonizması değil, penisilinin etkisini uzatan farmakokinetik bir etkileşimdir. III doğrudur: kusmanın engellenip engellenmemesi var-yok tipinde, kuvantal bir yanıttır.
+@@
+@Q MODÜL 1 2026-27 · SORU 48 | BU YIL | İLK KEZ SORULDU
+@K Transmembranal G proteini kenetli reseptörler ve ikinci ulak sistemleri ile ilgili aşağıdakilerden hangisi doğru eşleştirilmiştir?
+A) Gs → Guanilat siklaz → cGMP artışı
+B) Gq → Adenilat siklaz → cAMP artışı
+C) Gq → Fosfolipaz C → IP3 + DAG azalması
+D) Gi → Fosfolipaz A2 → araşidonik asit artışı
+E) Gi → Adenilat siklaz → cAMP azalması ✓
+E doğru. Gi adenilat siklazı baskılar ve cAMP azalır. Gs adenilat siklazı uyarır ve cAMP'yi artırır; guanilat siklazla ilgisi yoktur (A). Gq fosfolipaz C'yi uyarır, adenilat siklazı değil (B). Gq uyarılınca IP3 ve DAG artar, azalmaz (C).
+@@
+@QB DAHA ESKİ BLOK SINAVI SORULARI
+@E 2024-25 S37: İlaç-reseptör etkileşimi için doğru → parsiyel agonist, tam agonistle birlikte verildiğinde maksimum etkiyi azaltır, antagonist gibi davranır.
+@E 2022-23 S53: Tedavi dozunda görülen olumsuzluk → yan etki.
+@E 2021-22 S49: Reseptör otokannibalizmi → geri alım için kolin bulunmadığında kolinerjik presinaptik uçta olabilir.
+@E 2021-22 S56: Heterolog desensitizasyonda yer alan → protein kinaz A ve protein kinaz C.
+@E 2019-20 S52: İlaç-etki ilişkisi için doğru → reseptör sayısının azalması (down-regülasyon) uzun vadeli desensitizasyonda önemlidir.

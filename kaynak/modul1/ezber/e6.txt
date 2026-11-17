@@ -1,0 +1,29 @@
+## Kolay ezber: klasik ipuçları ve kodlamalar
+| Soruda bunu görünce | Cevap |
+| Tek başına agonist, tam agonistle birlikte onun etkisini azaltır | **Parsiyel agonist** (buprenorfin) |
+| Reseptörün bazal aktivitesini baskılar, agonistin tersi etki | **Ters (invers) agonist** |
+| Agonist artırılınca aşılır, eğri sağa kayar, E<sub>max</sub> aynı | **Yarışmalı antagonist** (nalokson–morfin) |
+| Kovalent bağlanma, E<sub>max</sub> düşer, aşılamaz | **Yarışmasız antagonist** (fenoksibenzamin) |
+| Farklı reseptörler üzerinden zıt etki | **Fizyolojik antagonizma** (adrenalin–histamin, adrenalin–asetilkolin) |
+| İki ilaç birbirine bağlanır | **Kimyasal antagonizma** (protamin–heparin) |
+| Probenesid–penisilin | **Farmakokinetik** etkileşim |
+| “Maksimum etki” | **Efikasi** (potens değil) |
+| “Belirli etki için gereken doz”, EC<sub>50</sub> | **Potens** |
+| Kusma önlendi mi, hasta uyudu mu, öldü mü | **Kuvantal** yanıt |
+| TD<sub>50</sub> / ED<sub>50</sub> | **Terapötik indeks** |
+| Tedavi dozunda istenmeyen etki | **Yan etki** |
+| Genetik nedenle beklenmedik yanıt | **İdiyosinkrazi** |
+| β-arrestin, GRK | **Homolog** desensitizasyon |
+| Protein kinaz A ve C | **Heterolog** desensitizasyon |
+| Beta bloker birden kesilince taşikardi, angina | **Up-regülasyon ve rebound** |
+| G<sub>i</sub> | Adenilat siklaz ↓, **cAMP ↓**, K⁺ kanalı açık, Ca²⁺ kanalı kapalı |
+| G<sub>q</sub> | Fosfolipaz C → **IP3 + DAG**, Ca²⁺ ↑ |
+| cGMP | **Guanilat siklaz** (NO, natriüretik peptit); G proteini değil |
+|= Farmakodinaminin “görünce düşün” tablosu.
+?? **Afinite “kilide girmek”, intrensek aktivite “anahtarı çevirmek”.** Antagonist kilide girer ama çeviremez; parsiyel agonist yarım çevirir; ters agonist ters çevirir.
+?? **Potens “ne kadar az?”, efikasi “ne kadar çok?”.** Eğri sola kaydıysa potens arttı; eğri yükseldiyse efikasi arttı.
+?? **Yarışmalı “yer kapmaca”:** daha çok agonist gelirse kazanır (E<sub>max</sub> korunur). **Yarışmasız “kilit kırma”:** ne kadar agonist gelse de bozuk kilit açılmaz (E<sub>max</sub> düşer).
+?? **Reseptör aileleri ve süre “Kanal-G-Kinaz-Çekirdek = milisaniye-saniye-dakika-saat”.** Ne kadar içerideyse o kadar yavaş.
+?? **G proteinleri “q-i-s-s / q-i-q / s-i / q-s / q-s”:** sırasıyla **α1-α2-β1-β2 / M1-M2-M3 / D1-D2 / H1-H2 / V1-V2**. Yani α1 q, α2 i, β1 s, β2 s; M1 q, M2 i, M3 q; D1 s, D2 i; H1 q, H2 s; V1 q, V2 s. Opioid ve GABA-B de **i**.
+?? **G<sub>i</sub> = “inhibe”:** cAMP'yi düşürür, hücreyi susturur (K⁺ çıkar, Ca²⁺ giremez). **G<sub>s</sub> = “stimüle”:** cAMP'yi artırır. **G<sub>q</sub> = “kalsiyum”:** IP3 ile Ca²⁺, DAG ile PKC.
+?? **Terapötik aralığı dar ilaçlar “DiLiVaTeFeA”:** **Di**goksin, **Li**tyum, **Va**rfarin, **Te**ofilin, **Fe**nitoin, **A**minoglikozit.

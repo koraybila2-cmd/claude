@@ -1,0 +1,48 @@
+## Kolay ezber: klasik ipuçları ve kodlamalar
+| Soruda bunu görünce | Cevap |
+| Nosiseptörün eşiğini düşürür, bradikinine duyarlılaştırır | **Prostaglandin** (PGE2) |
+| Nosiseptörü en güçlü doğrudan uyaran | **Bradikinin** |
+| Hem periferden salınır (nörojenik iltihap) hem 1. nörondan 2. nörona iletir | **P maddesi** (ve CGRP) |
+| Önce yanma, sonra ağrı azalması | **Kapsaisin → TRPV1 aktivasyonu, sonra duyarsızlaşma** |
+| Antinosiseptif mediyatör | **GABA**, enkefalin |
+| Nöropatik ağrıda işe yaramayan | **NSAİİ, kortikosteroid** |
+| Opioidin hücresel mekanizması | **K⁺ kanalı açılır, Ca²⁺ kanalı kapanır** (G<sub>i/o</sub>, cAMP ↓) |
+| Öfori ve ödül | **μ** (ventral tegmental alan) |
+| Disfori, halüsinasyon | **κ** |
+| Spinal yoldan analjezi yapan, klasik opioidlere yanıtsız reseptör | **NOP** (nosiseptin) |
+| Toleransı gelişmeyen etkiler | **Miyozis ve kabızlık** |
+| Koma + toplu iğne başı pupilla + solunum depresyonu | **Opioid zehirlenmesi → nalokson** |
+| Midriyazis, ishal, esneme, piloereksiyon, burun akıntısı | **Opioid yoksunluğu** |
+| Ağızdan biyoyararlanımı ~%25, M3G inaktif, M6G aktif | **Morfin** |
+| Haşhaştan; analjezik değil, düz kas gevşetici | **Papaverin** |
+| Yarı sentetik seçici μ agonisti, kodeinden fazla bağımlılık, ağızdan | **Oksikodon** |
+| Doğumda tercih; normeperidinle nöbet; MAOI ile tehlikeli; titreme | **Meperidin** |
+| Bağımlılık idamesinde uzun etkili, ağızdan | **Metadon** |
+| Transdermal bant, göğüs duvarı rijiditesi | **Fentanil** |
+| Esterazla yıkılır, en kısa etkili | **Remifentanil** |
+| Zayıf μ agonisti + serotonin-noradrenalin geri alım inhibisyonu | **Tramadol** |
+| Parsiyel μ agonisti, κ antagonisti, solunum depresyonunda tavan | **Buprenorfin** |
+| İshal için opioid | **Loperamid, difenoksilat** |
+| Damardan kısa etkili antagonist / ağızdan uzun etkili antagonist | **Nalokson / naltrekson** |
+| Opioid + MAO inhibitörü (fenelzin) | **Serotonin sendromu, hipertansif kriz** |
+| Opioid + karbamazepin (CYP3A4 indükleyici) | **Analjezi azalır, yoksunluk** |
+| COX-1 baskılanması | **Ülser, kanama** |
+| Seçici COX-2 inhibitörü | **MI ve inme riski ↑** (prostasiklin ↓, TXA2 aynı) |
+| Antiinflamatuvar etkisi olmayan analjezik-antipiretik | **Parasetamol** |
+| Agranülositoz yapan analjezik | **Metamizol** |
+| Çocukta viral enfeksiyonda aspirin | **Reye sendromu** |
+| Varfarin + ibuprofen | **INR yükselir** |
+|= Ağrı farmakolojisinin “görünce düşün” tablosu.
+?? **Analjeziklerin istasyonları “Periferde NSAİİ, sinirde lokal anestezik, omurilikte ve beyinde opioid, inici yolda antidepresan.”**
+?? **Opioid hücresel mekanizması “Kalsiyum Kapanır, Potasyum Açılır” (KKPA):** presinaptik uçta Ca²⁺ kapanır (verici salınmaz), postsinaptik nöronda K⁺ açılır (hiperpolarizasyon). Reseptör **G<sub>i</sub>** (“inhibe eder”), G<sub>q</sub> değil.
+?? **Morfinin etkileri “MORPHINE”:** **M**iyozis, **O**ut of breath (solunum depresyonu), **R**etansiyon (idrar), **P**eristaltizm ↓ (kabızlık), **H**istamin (kaşıntı, hipotansiyon), **I**ntrakranial basınç ↑, **N**ausea (bulantı), **E**uforia (öfori) ve sedasyon.
+?? **Toleransı gelişmeyenler “Kabız ve Küçük gözlü kalır”:** **kabızlık** ve **miyozis**.
+?? **Yoksunluk = morfin etkilerinin tersi:** pupilla büyür, bağırsak çalışır (ishal), burun ve göz akar, tüyler diken diken, esneme.
+?? **Haşhaş alkaloitleri “Mor-Ko-Pa-Te-No”:** **Mor**fin (analjezik), **Ko**dein (öksürük), **Pa**paverin (analjezik değil, düz kas gevşetici), **Te**bain (hammadde), **No**skapin (öksürük).
+?? **Meperidin “4 M”:** **M**AOI ile ölümcül, **M**iyozis yapmayabilir (antikolinerjik), **M**ama (doğumda tercih), **M**etaboliti (normeperidin) nöbet yapar. Ayrıca titreme ilacı.
+?? **Antagonistler:** **N**alok**s**on “**S**ıradan acil” (damardan, kısa), **N**al**t**rekson “**T**ablet, **t**akip” (ağızdan, uzun, idame).
+?? **Tramadol “iki yüzlü”:** zayıf opioid + antidepresan benzeri (serotonin, noradrenalin). Bu yüzden nöbet ve serotonin sendromu yapar; muskarinik etkisi yoktur.
+?? **NSAİİ'nin dört etkisi “AAAA”:** **A**naljezik, **A**ntipiretik, **A**ntiinflamatuvar, **A**ntiagregan. Parasetamolde son ikisi yok.
+?? **COX-1 “Koruyucu”, COX-2 “Kızgın (iltihap)”:** COX-1 midede ve trombositte hep çalışır; baskılanırsa ülser ve kanama. COX-2 iltihapta artar; baskılanırsa ağrı ve iltihap azalır, ama endotelde prostasiklin de azalır (kalp riski).
+?? **NSAİİ yan etkileri “MBKKG”:** **M**ide (ülser), **B**öbrek (ABH, ödem, hiperkalemi), **K**alp (MI, HT), **K**anama, **G**ebelik (duktus erken kapanır). En riskli üçlü: **ACE inhibitörü + diüretik + NSAİİ**.
+?? **Aspirin zehirlenmesi “önce nefes, sonra asit”:** önce solunumsal alkaloz, sonra metabolik asidoz; tedavide idrarı bikarbonatla **alkalileştir**.
