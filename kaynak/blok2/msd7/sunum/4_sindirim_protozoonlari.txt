@@ -1,0 +1,804 @@
+GİS YERLEŞİMLİ PROTOZOONLAR
+       Mustafa Şengül
+PROTOZOONLARIN GENEL ÖZELLİKLERİ
+  Protozooloji tek hücreli parazitlerden bahseden bilim dalıdır.
+
+ • Protozoonlar Protista aleminde yer alan ökaryot tipte canlılardır. Örneğin; Sıtma, amipli dizanteri, kala-azar,
+ toksoplazmozis hastalığının etkeni birer protozoondur.
+
+ • Tek hücreli olduklarından, yaşam için gerekli olan işlevlerin hepsi bu tek hücrenin içinde oluşur.
+
+ • Hücre yapısı zarla çevrilmiş nukleus ve nukleusu saran zar ve sitoplazmadan meydana gelmiştir.
+
+ • Yer değiştirebilmek için değişik organelleri bulunur. Bunlar; kamçılar (flagellates), yalancı ayaklar (pseudopod) ve kirpikler
+ (ciliates)’dir.
+
+ • İkiye bölünerek çoğalırlar.
+
+ • Seksüel çoğalmaları ise konjugasyon şeklinde veya sporogoni ile olur.
+
+ • İnsana sindirim yoluyla bulaşır. Kontamine besin maddeleri, su, kontamine eşya ve kirli ellerle ağızdan bulaşır.
+
+ • Bazıları ise (arthropodlar; örneğin sıtma etkeni gibi), deriden temasla, kan nakli veya cinsel ilişki ile bulaşabilir.
+PROTOZOONLARIN GENEL ÖZELLİKLERİ
+Ökaryot tek hücre yapısına sahip protozoonlar, anaerop/aerop (oksidasyon/
+ fermantasyon basamağını kullanır) özellikte olup, hücre boyutu 2-80 µm.
+
+Nukleus; Hücre zarı ile çevrili tek veya çift çekirdekli olabilir.
+Bazıları bölünme evresinde dört çekirdeklidir.
+
+Hücresel farklılık tür ve cinslere göre değişiktir.
+Bazılarında gelişmiş hücre iskeleti, mitokondri, golgi ve lizozom bulunur.
+Genelde tek mitokondri bulunur. Bazılarında ise gerçek mitokondri
+  yoktur.(örn:Giardia, Trichomonas, Mikrosporidea)
+Bazı protozoonların kendine spesifik organelleri vardır; örn;apikomplex, flagell
+  yapısı, golgi aygıtı, kinetoplast, glikozom, hidrogenozom.
+Bir çok tür ikiye bölünerek çoğalır. Bazıları ardarda bölünerek(şizogonik), bazılarıda
+  eşeyli çoğalarak ürerler.
+• Protozoonlar bileşik(komplax) boyalarla daha iyi boyanır. Örn: Giemsa, Wright,
+  Tricrom, Kinyon Asit Fast, Hematoksilen-Eosin, PAS, Akridin-Orange, Floresein…,
+  Gram negatif boyanırlar
+• Protozoonlarda sitoplazmada klorofil bulunmaz.
+• Sıvı ortamda küre şeklinde görülür
+• Hareketlidir ve çeşitli hareket organellerine sahiptir (Bazıları hareketsizdir)
+Protozoonlarda sitoplazma endoplazma ve ektoplazma şeklinde ikiye ayrılır.
+• Endoplazmada; besin vakuolleri, ribozomlar, mitokondri/ler, golgi cisimleri, mikrozomlar,
+  endoplazmik retikulum ağı bulunur.
+• Protozoonlarda endoplazma sürekli hareket halindedir. Granüller devamlı yer değiştirir.
+• Ektoplazma ise: az granüllü ve daha homojendir.
+   • Protozoonun hareket, besin maddelerini alma, solunum, atık ve boşaltım, savunma işlevini üstlenmiştir.
+   • Ektoplazma sade yapılı ince bir zar halinde bulunabildiği gibi, zarın salğıladığı silisten oluşan sabit hücre çeperi
+     de yapabilir.
+   • Protozoon kist çeper yapılarıda ektoplazma tarafından yapılır
+• Endışta protozoonu sınırlayan plazma membranı bulunur.
+Hareket Organelleri ( Mikroskopik tanıda önemli özelliklerdir)
+• Protozoonlarda hareket organeli yalancı ayak, kamçı ve kirpiklerdir.
+• Yalancı ayak yapıları amiplerde görülür, amiböid hareket diye adlandırılır. (Entamoeba histolytica)
+• Kamçı; ortada akson(aksonem) ve etrafında kontraktil özellikli sitoplazmik kılıftan oluşur.
+    • Aksonem; blepharoplast denilen yapıdan başlar, hücre çapını boydan boya kat eder dış yüzeye ulaşır.
+    • İnce bir sitoplazmik yapıyla ve zar ile çevrelenerek dış ortama doğru uzanir.
+    • Aksonem fibrillerden yapılmıştır.
+    • Blepharoplast, yanında parabasal cisimcikle komşuluk eder. Bu yapı bazı protozooznlarda birleşir. Buna
+      Kinetoplast ismi verilir.
+    • Kinetoplast; protozoon hücrenin bölünmesinde, kamçı oluşumunda, hareket enerjisinin temininde rol alır.
+    • Protozoonların bazıları birden fazla kamçıda taşıyabilir(Giardia sp)
+• Dalgalanan zar; kamçıdan ayrı dalgalı zara sahip olan protozoonların haereketine destek
+  verir.
+• Kirpik(Cilium); yapısı kirpiklere benzer fakat daha kısa yapılı ve çok sayıda olur. Bütün
+  protozoon vücud yapısında yer alabilr. Sitostom(ağız) denilen yapı etrafındakiler daha büyük
+  olabilir.
+• Miyonem(Kasılıp-uzama) adıverilen ince fibril yapılar protozoonda bulunur.
+   • Bu fibriller protozoon hücresinin kısalıp uzamasını sağlar.
+   • Bu yapı bazı protozoonlarda harekete yardımcı olmaktadır.
+• Axostyle: blepharoplastdan başlayıp hücre içinden çap olarak yol alıp hücreden dışarıya bir
+  uzantı olarak çıkmıştır. Yapısal olarak sert bir oluşumdur.
+• Protozoonların beslenip çoğalabilen formlarına TROPHOZOİD(vejetatif şekil) denir.Protozoon
+  metabolik atıklarını hücrenin bütün yüzeyinden dışarı atar. Bazıları çıkartı vakuolu oluşturarak,
+  hücre zarından dışarı açılmasıyla atabilir. Bazılarında kontraktil vakuolleriyle birlikte atarlar.
+• Trofozoidlerin bazı formları çevresel şartlara daha dirençli hücre duvarı oluşturarak, morfolojik
+  ve fizyolojik değişime uğrayarak dış çevre şartlarına dayanabilen formlara dönüşürler. Buna
+  KİST denir.
+• Kistler; fonksiyonel özellikleri tam olan matur trofozoidlerden oluşur. Protozoonun parazitin
+  yeni konağa bulaşmasında görev alan formdur. Kist sahip olduğu çeper yapısından dolayı,
+  ayrıca fizyolojik yapısındaki farklılırdan dolayı çevresel şartlara daha dayanıklıdır.(Enfektif
+  form)
+   SARCODİNA:AMİPLER
+• Entamoeba histolytica
+• Entamoeba coli (en sık rastlanır)
+• Entamoeba hartmanni
+• Entamoeba polecki (domuz ve maymun)
+• Endolimax nana
+• Iodomoeba butschlii
+     PROTOZOON KİST
+VE TROFOZOİDLERİN AYRIMI?
+   AMİPLER
+• İkiye bölünerek çoğalırlar
+• Sularda
+• Islak topraklarda              • İnsan vücudunda
+• Yapraklarla örtülü nemli       Trofozoit
+  yerlerde serbest olarak yaşar
+                                 Prekist (trofozoitlerin bölünmesiyle
+• Hayvanların sindırım sisteminde oluşur)
+  asalak veya sığıntı olarak
+  yaşarlar                       Kist
+                                 Metakist (kisten çıkan amip)
+                                 Metakist trofozoitleri
+Entamoeba histolytica(trofozoit)
+
+• Büyüklükleri üredikleri ortamın koşullarına göre değişir.
+• Doku içinde gelişen şekil; dokuyu eriterek hastalık oluşturur vakollerinde alyuvar
+  bulunur.
+• Barsak boşluğundaki sığıntı şekli; doku şeklinden daha küçük vakollerinde
+  bakteriler vardır.
+• Başlıca konağı insandır ara konak yoktur.
+• İnsanlara fekal-oral yolla, olgun kistlerin kontamine yiyecekler ve sularla
+  alınmasıyla bulaşır.
+Entamoeba histolytica
+• Kalın bağırsağa yerleştiğinde sessiz tablodan dizanteriye kadar
+  değişen ağır bir tablo oluşturabilir
+
+• Karaciğer
+
+• Akciğer
+
+• Beyin gibi organlarda apse oluşturur
+  E. histolytica
+• Barsak amöbyazı
+
+Vakaların % 90 asemptomatik; kist şekil bulaştırıcı grup
+Akut amöbyaz; kanlı, mukuslu, fazla miktarda dışkılama ile karakterize, ani
+ gelişen bir klinik tablo oluşturur.
+Kronik Amöbyaz; Sinsi başlayan, zaman zaman karın ağrısı, günde birkaç defa
+ fazla kokulu, az veya çok kan ve mukuslu dışkılama
+Amöboma; Kronik olgularda, kalın barsak çeperinde görülen sert ve ağrılı
+ kitleler.
+ Patogenez
+
+• Trofozoitler kalın barsak mukoza epitel hücreleri arasına yalancı ayakları ile
+  girerek
+• Sitolitik enzimlerini salgılayarak
+• Lökositler üzerine toksik etki ile nekroz ve yüzeyel ülsere neden olurlar
+• Submukozaya inen geniş ülserasyon
+• Mukozada ağzı dar, şişeye benzer
+• Kalın barsakta içinde trofozoitleri ve nekrotik dokuyu içeren Granülamatöz
+  kitleler oluşur
+  E. histolytica
+Barsak dışı Amöbyaz
+Karaciğer; 40-60 yaş arası erkeklerde sık görülür
+Plöropulmoner; Karaciğer amöbyazlıların %10-
+  20’sinde gelişir
+Barsak dışı amibiyazis
+• Beyin
+• Perikard
+• Periton
+• Dalak
+• Ürogenital organlar
+• Deri
+Hastalığın artışı;
+    •   Kültürel alışkanlıklara
+    •   Yaş (okul çağındaki çocuklarda fazla)
+    •   Temizlik
+    •   Sosyoekonomik durum
+    •   Endemik bölgelere göç
+    •   Büyük topluluklar halinde yaşama alışkanlığı
+    •   Kanalizasyon sistemleri
+                                                       Karaciğerde amip apsesi
+   Entamoeba dispar
+• Non-invaziv (dokulara yayılmayan), patojen olmayan Entamoeba’dır
+• İnsanlarda hastalı yapıp yapmadığı bilinmiyor
+• Hayvanlarda yaygın intestinal lezyonlar oluştururlar
+                                          E. coli trofozoit (trikrom boyama)
+ Entamoeba coli
+Noninvaziv;
+  İnsan bağırsağında metabolik artıklara karşı oluşan reaksiyonlara bağlı birtakım
+  rahatsızlıklar oluşur
+• Klinik belirti olmayabilir
+• Basit ishalden şiddetli dizanteriye kadar klinik tablolar oluşabilir
+• Kolit
+• Peritonit / apandisite yol açabilir(Nadir)
+• Abdominal ağrı eşlik eder.
+   Amöbiyazın Tanısı
+Kesin tanı;
+• Dışkı
+• Apse
+• Biyopsi
+• Aspirasyon materyallerinin incelenmesiyle,
+
+Dışkının makroskobik görünümü( Bristol Skorl.);
+• Kıvamı
+• Kokusu
+• Kan
+• Mukus
+    Amöbiyazın Tanısı
+• Mukus;
+• Şeffaf mukusdan dolayı “ağaç çileği ezmesine” benzer görünümdedir.
+• Mukus parlak ve kanla karışıktır
+(basilli dizanteride kan bulanık ve mukusun ortasındadır)
+• Apse duvarından alınan örnekte etken daha fazla
+• Apse boşluğunda etken daha az bulunur
+• Apse içeriği 20-30 ml kadar boşaltıldıktan sonra duvardan alınan örnek
+  incelenir
+  Amöbiyazın Tanısı
+• Fizyolojik tuzlu su ile
+• İyot eriği ile
+• Lam-lamel arası hazırlanan preparatların mikroskopta incelenmesi ile konur.
+• Sulu ve taze dışkının mukuslu kısmından fizyolojik tuzlu su ile hazırlanan
+  preparatlar beklenmeden (yarım saat içinde) incelenir
+• Dışkıda eritrosit fazla olduğunda, birbirlerine yapışırlar, buna “Anderson”
+  olayı denir.
+    Amöbiyazın Tanısı
+• “Charcot-Layden” kristalleri
+• Azda olsa PNL görülür
+• Trofozoitlerin besin vakuollerinde eritrosit varsa E. histolytica
+• Trofozoitlerin besin vakuollerinde eritrosit yoksa E. dispar
+    Amöbiyazın Tanısı
+• Dışkı hemen incelenmeyecekse
+• Preparasyonlardaki trofozoitler ve kistler
+                                                               E. histolytica kist (trikrom boyama)
+  tanımlanamıyorsa;
+• Polivinil-alkol
+• Schaudin fiksatifi gibi tespit sıvısına alınır ve saklanır
+• Preparasyonlar boyanarak incelenir
+   • İyot eriği
+   • Heidenhain’in Demirli Hematoxylen
+   • Tompkins-Miller
+   • Trichrom
+   • Lawiess
+   • Giemsa boyalarıyla incelenir.
+Amöbiyaz şüpheli kişilerde; dışkının ilk incelenmesinde sonuç negatif ise; üç kez tekrarlanır.
+Amip Kültürü
+• Robinson Diamond’un aksenik besiyerinde
+• Balamuth’un yumurta besiyerinde
+• pH = 7, 37 ºC, 72 saatte üretilebilir                Amöbiyazın Tanısı
+Seroloji
+• ELİSA
+• Dışkıda antijen aranır
+• Bağırsak ve barsak dışı amebiyazda
+• Kanda antikor aranır
+• E. histolytica ve E. dispar ayırımında
+• IFA
+• IHA
+• Mikrojel difüzyon
+• WB (170 ve 30 kDal protein)
+Moleküler Yöntemler
+• PCR ile DNA bakılabilir
+   Amöbiyazın Tedavisi
+• 5-nitroimidazole türevleri
+   Metronidazole
+   Tinidazole
+   Ornidazole
+   Nimorazole
+KAMÇILI PROTOZOONLAR
+Giardia intestinalis (lamblia)
+KAMÇILILAR
+Giardia intestinalis
+• Oyun çocukluğu-İlkokul çağındaki çocuklarda
+  sık görülen bir enfeksiyondur
+• Dünyada                % 2 - 25
+• ABD                    % 2 - 20
+• Türkiye                % 7 - 40
+Trofozoit ;
+• Vücutları simetrili ortadan kesik armut şeklindedir
+• Çekirdek 2
+• Sırt yüzü konveks
+• Karın yüzeyinde iki adet emme diski vardır
+• Blefaroplast      4 çift
+• Kamçı             4 çift
+Giardia intestinalis (lamblia)
+Giardia intestinalis /(G.lamblia)
+                    Kist
+                    • Vücut simetrili
+                    • Çekirdek         2
+                    • Blefaroplast 4 çift
+                    • Kamçı            4 çift
+                    • Oval
+                    • Parazitin kaynağı dışkıları ile kist saçan insanlardır.
+                    • Bir günde milyonlarca kist çıkarılabilir
+                    • Kistler E. histolytica kistlerinden daha dirençlidir
+                    Kistler insanlara;
+                    • Kirli ellerle ve Besinlerle, Sularla ağızdan sindirim yoluyla bulaşır
+                    • Giardia,
+                    • Duodenum ile biliyer sisteme de yerleşir; Safra kesesi ve Safra
+                      yollarında hastalık oluşturur
+                    • Sindirim bozuklukları
+                    • İshal oluşturur
+   Giardia intestinalis patogenezi
+Parazitin virulansına
+• Parazit sayısına
+• Yaşa
+• Anti paraziter dirence göre değişir
+• Duodenum mukozasına yapıştığında intestinal absorbsiyonu engeller
+• Yağ ve A vitamini emilimini bozar
+• Kronik ishalde dışkı
+   Yağlı
+   Mukuslu açık renkli
+• Akut olgularda dışkı
+   Sulu
+Giardia intestinalis (Tanı)
+Mikroskobi
+• Dışkı
+• Duodenal sıvı
+• Duodenal biyopsi gibi örneklerinden lam-lamel arası hazırlanan preparatlarda parazitin kist ve trofozoitlerinin görülmesi
+  ile konur
+• Formol-Eter ile çöktürme
+• Çinko sülfat ile yüzdürme yapılarak
+• Giemza
+• Hematoksilen-Eozin
+• Trichrome boyanarak tanı konabilir
+• Kültür
+• Tanısal değeri yoktur
+• Seroloji
+• İmmundifüzyon
+• İFA
+• ELİSA
+• PCR
+ Giardia intestinalis
+         TEDAVİ
+         5-nitroimidazol türevleri
+• Metronidazole
+• Ornidazole
+• Albendozele
+      Semptomatik tedavi
+      Proteinden zengin diyet
+      Demir preparatları
+      B vit-kompleksi
+          Korunma
+• Çocuklara
+• Bakıcılara kişisel hijyenik kurallar öğretilmeli ve eğitilmelidir
+• Besinlerin
+• Hazırlanmasında
+• Satılmasında hijyenik koşullara uyulmalıdır
+• Hastalar
+• Taşıyıcılar tedavi edilmelidir
+  CHİLOMASTİX CİNSİ
+Chilomastix mesnili
+• Patojen değildir
+• Giardia ve Kamçılı protozoonlardan ayırt edilmesi
+  zor
+• Trofozoitleri
+• Gövde boyunca uzanan spiral yarık var
+• Ön ucunda hareketi sağlayan 3 kamçı
+• Ön kamçının çıkış yerine yakın bir nükleusu var
+• Kist
+• Oval
+• Ön ucunda bir çıkıntı
+• Bir nükleusu var
+• Tanıda
+• Dışkıda trofozoit ve kistlerinin görülmesi ile konur
+SPOROZOA (APICOMPLEXA) ŞUBESİ= SPORLU PROTOZOONLAR
+
+SPOROZOA (APICOMPLEXA) ŞUBESİ= SPORLU PROTOZOONLAR
+• Sporozoa şubesinde evrimlerinin bir döneminde spor oluşturan protozoonlar
+  yer alır.
+• Bunlar omurgalı veya omurgasız çeşitli hayvanlarda parazit olarak bulunurlar.
+• Bazılarının evrimlerinde bir konağa bağlı olmaksızın serbest yaşadıkları bir
+  dönem de bulunur ve bu türlerde sporlar dayanıklı bir zarla çevrilidir.
+• Sporozoaların evriminde ard arda gelen seksüel (sporogoni) ve aseksüel
+  (şizogoni) üreme fazları bulunabilir.
+• Bu fazlar aynı konakta / farklı konaklarda geçer.
+• Absorpsiyon ile beslenirler.
+    CRYPTOSPORİDİUM CİNSİ
+C. parvum
+• Hayvan infeksiyon etkeni olarak bilinir
+• AİDS olgularında saptanmasıyla, önem kazanmış
+• Moleküler çalışmalar ile
+• Genotip 1 insandan – insana
+• Genotip 2 hayvanlardan – insana bulaşı
+• Evrimlerini tek konakta tamamlarlar
+• Ookistler ağız yolu ile alınır
+• Sporozoitler epitel hücrsine tutunur ve intrasellüler ancak
+ekstrasitoplazmik yerleşir ve merozite dönüşürler,
+bazıları seksüel evrim sonucu zigot oluştur.
+Zigottan farklı iki tip ookist oluşur
+1- Kalın duvarlı olanlar dış ortama salınır
+2- İnce duvarlı olanlar yeni hücreleri infekte eder
+C. parvum
+Cryptosporidium parvum
+• Su kaynaklı epidemidilerin nedeni
+• Parazitin kaynak sularındaki prevalansının yüksekliği
+• Parazitin klora dirençli olması
+• Parazitin içme suyu filtrelerinden geçebilmesi
+• Çok az sayıda parazitin infeksiyon oluşturabilmesi
+Not:
+Su kaynaklı epidemiler oluşturur.
+• Örneğin;1993 yılında ABD’ de bir kaynak suyundan 400.000 kişinin infekte olduğu bildirilmiş
+• Çocukluk çağlarında sık görülür
+• Bulaşmada
+Evcil
+Besi hayvanlarının önemli rolü vardır
+Cryptosporidium parvum
+• Patogenez
+• Başta jejenum olmak üzere
+• Tüm sindirim sistemi etkilenir
+• Solunum ve safra yollarında da patolojik olaylar ortaya çıkar
+• Barsak epitel hücrelerinde absorbsiyon bozulur
+• Kişinin immünitesine göre farklı klinik tablolar oluşturur
+• İmmünitesi sağlamlarda; alınan parazit miktarı ve etkenin virülansına bağlı olarak hiçbir bulgu
+  görülmeyebilir veya kısa süreli bol ve sulu ishal görülebilir
+• İmmünitesi baskılanmış olanlarda
+1. Kısa dönemli ishal
+2. Kolera benzeri ishal
+3. Ölümle sonuçlanan klinik tablolar oluştururlar (özellikle AİDS’lilerde CD4 sayısı<180
+    hücre/mm3)
+Klinik tablodaki klasik bulgu, bol sulu ve yüksek hacimli diyaredir. Günde 15-20 litreye varan sıvı
+kayıplarına yol açabilir. Özellikle AIDS’lilerde uzamış diyareler sonucu ağır sıvı-elektrolit
+dengesizlikleri ve dehidratasyona bağlı ölümler görülebilmektedir.
+    Cryptosporidium parvum
+• Dışkıda ookistlerin
+• GİS mukoza biyopsi örneklerinde intraselüler evrelerin gösterilmesi ile konur
+Boyama;
+Modifiye kinyoun Ziehl-Neelsen
+Giemza
+Acridine-Orange
+Auramin-Safranin
+Moleküler tanı:
+• IFA (duyarlı ve özgüldür)
+• DFA ookistler
+• ELİSA
+• Doku kültürü yapılabilir
+Cryptosporidium parvum
+• Tedavide
+• Bilinen antibiyotikler ve antiprotozoonlar yararlı değil
+• İmmünitesi sağlamlarda; semptomatik ve destekleyici tedavi önemli
+• AİDS’lilerde anti-retroviral tedavinin semptomları kaldırdığı gözlenmiştir
+ Cystisospora cinsi
+• C. belli en yaygın tür olup sadece insanları infekte eder
+• C. nalalensis ender olarak görülür
+• İnce barsak epitel hücrelerine yerleşir
+• Burada aseksüel üreyerek barsak yüzeyinde harabiyete neden
+  olur
+• Aynı zamanda ookistlerin dışkı ile atıldığı seksüel evrimi de
+  vardır
+• Ookistlerin sindirim yolundan alınır
+• Sporozoit
+• Epitel hücrelerinde aseksüel üreme, bazı hücrelerde seksüel
+  üreme başlar
+• Erkek ve dişi gametler birleşir ve oluşan ookist
+  olgunlaşmadan barsak boşluğuna, sonra da dışkıyla dışarı atılır
+Cystisospora belli
+• Ookistler dış ortamda oksijen varlığında gelişerek (2-15 günde)
+  içinde sporozoitler gelişir (enfekte şekil)
+• Taze dışkıdaki sforoblast olgunlaşmamış ookistler ve olgunlaşmış
+  ookistler birlikte bulunur
+• Bağışıklık sistemi baskılanmış kişilerde fırsatçı infeksiyonlar
+  oluştururlar
+• İmmün sistemi sağlam kişilerde %0.26 oranında akut ishale
+  neden olur
+• AİDS %2-12 oranında şiddetli, uzayan ishallere neden olur
+Cystisospora belli
+
+
+
+• Aralıklı alınan dışkı örneklerinde ookistlerin görülmesi
+• Çinko-sülfat ve Sheaterin şekerli su flatasyon yöntemi başarılı bulunmuştur
+• Modifiye asit-fast
+• Auromine Rhodomine
+• Asit-fast boyada ookist içinde sforoblastlar koyu kırmızı boyanmakta, ookist
+  duvarı boyanmamaktadır
+• Tedavisinde, TMP-SMX ilk seçilecek ilaçtır
+CYCLOSPORA CİNSİ
+C. cyetanensis
+• ABD’de kontamine besinlerle salgınlara neden olan
+• Seksüel ve aseksüel evresi aynı konakta bulunan
+• Ara konağı yoktur
+• İnsanın dışkısındaki Ookistleri infektiftir
+• Kontamine su ve yiyeceklerle alınan ookistler
+• Barsakta genelikle jejenumda
+• Nadir olarakta duodenumda aseksüel harabiyete neden olur
+• Seksüel üremede mikrogamet ve makrogameti dölleyerek ookist oluşur
+C. cyetanensis
+• Dünyadaki prevalans hakkında bilgi yok
+• Gelişmekte olan ülkelerde yaşayan ve bu ülkelere seyahat
+  eden kişilerin dışkılarında görülür
+• Türkiyede ilk olgu, Kayseriden HIV pozitif bir olgudan izole
+  edilmiştir
+Klinik belirtileri
+• Kilo kaybı
+• İştahsızlık
+• Bulantı
+• Abdominal kramplarla seyreden diyare gelişir
+• İmmunitesi sağlam kişilerde sınırlı infeksiyon yaparken
+• İmmünitesi düşük kişilerde, uzun süreli, sık,
+  tekrarlayan ciddi diyareler neden olur
+C. cyetanensis
+ TANI;
+ • Dışkı
+ • Duodenal örnek
+ • Biyopsi örneklerinde ookistlerin görülmesi
+ • Asit-fast boyalarla
+ • İFA testi
+ • PCR
+ • Moleküler Tanı Yönt
+
+
+
+ Tedavide
+ • TMP-SMX
+ • Metronidazole
+ SARCOCYSTİS CİNSİ
+
+İnsan
+Sarcocystis hominis (konak)
+Sarcocystis suihominis (konak),
+Sarcocystis lindemanni için ise ara konaktır
+• Seksüel çoğalma, kesin konak olan etoburların barsak mukozasında gametogeni ile gerçekleşir
+  ve dışkı ile ookist (sporokistler) dışarı atılırlar. Sporokistler otoburlarlar tarafından alındığında
+• Çizgili kas veya kalp kası hücrelerinde SARCOCYST veya MİESCHER tüpleri adı verilen kistler
+  oluşur
+• Parazit ara konaklarda aseksüel evrim geçirmektedir
+SARCOCYSTİS sp
+Etken: S. hominis
+• Güneydoğu Asya’da %2
+• Malezya’da serolojik olarak %19.8 görülmüş…
+• İnsanın arakonak olduğu muskuler sarkodioz nadirdir
+• Kistler genelikle kol, bacak, larinks, kalp ve dil kaslarında görülür
+• İmmun baskılanmış insanlarda sporadik infeksiyon oluştururlar
+• Kisti
+• Trofozoitler intestinal mukozaya girer ve seksüel evrim geçirir ookistlerden
+  sporozoıit içeren sporokistleri oluşur
+• İnsan, rastlantısal olarak, ookistli dışkı ile kontamine yiyecek ve suların
+  alınmasıyla veya sarkokist içeren az pişmiş etlerin yenmesi ile infekte olur
+S. hominis
+İnsan arakonak ise ; Hafif intestinal belirtiler görülür
+Tanıda
+Çiğ veya az pişmiş et yenme öyküsü olan
+Dışkıda ookistler görülmesi
+• Kas biyopsisi veya otopsi örneğinde sarkokistlerin görülmesi
+• Serolojik Tanı
+i. IFAT
+ii. KBD deneyleri
+• Korunmada
+I. Etlerin iyice pişirilmeden yenmemesi
+II. Besin ve su hijyenine dikkat edilmesi gerekir
+Microspora
+• Enterocytozoon bieneusi
+• Encephalitozoon intestinalis
+• Encephalitozoon hellem
+• Encephalitozoon cuniculi
+• Nosema türleri
+• Vittaforma cornea
+• Pleistophora türleri
+• Trachipleistophora türleri
+• Brachiola
+• insanlarda hastalık oluştururlar
+      Microspora
+
+• Böcekler
+• Balıklar
+• Kemirgenler
+• Pek çok memelilerde hastalık oluştururlar.
+• Zorunlu hücre içi parazitleridir
+• Evrim şemasında, prokaryot-Eukaryot arasında yer alırlar
+        (özellikle 16 sRNA içermeleri ile prokaryotlara benzerler)
+• 5 µm altında olan elips veya ovoid şekilli sporları infektif olup
+• Nemli ve serin ortamlarda bir yıldan fazla yaşayabilirler
+• Sporlar: Solunum yada ağız yolu ile alındığında; konak eritrositlerine yapışarak, hücre
+  içinde değişik evreler
+Sporoplazmin --> merozit (sporogoni) ---sporant - sporablast (olgunlaşır)  spor -hücre patlar ve
+  yeni hücreler enfekte olur
+   Microspora
+- İmmün sistemi baskılanmış kişilerde hastalık oluştururlar.
+Microsporidium
+İnsanlara bulaşmasında
+  • Köpekler
+  • Kuşlar önemli rol oynar
+ Bulaşma
+  • Direk geçiş
+  • Ara konak Vektörler ile olur
+  • İmmün yetmezlikjli (AİDS) insanlarda ishalin önemli bir etkenidir.
+  • Enterik patojenlerin tespit edilemediği kronik diyarelerin %15-30’undan
+    sorumlu
+  • Sistemik olarak; Gözde infeksiyon oluştururlar
+ Microsporidium / Encephalitozoon intestinalis
+Microsporidium / Encephalitozoon intestinalis• Nosema türleri;
+• İnce barsak enterositleri                      • Göz dokuları
+• Safra sistemi epiteli                          • Nadiren başka dokularda yaygın olarak
+• Böbrek                                           Keratit oluşturur
+• Solunum sitemine yerleşerek                • Vittaforma cornea
+                                                 • Göz dokularında Keratit oluşturur
+• Parankim dışı karaciğer hücreleri
+                                             • Pleistophora
+• Pankreas kanalı epiteline yerleşerek
+                                             • Trachipleistophora
+1. Kronik diyare, kolit
+                                             • Brachiola türleri
+2. Kronik rinosinüzit, kolesistit, kolanjit      • Kas dokusuna yerleşerek Myozit’e neden
+3. Tubulointerstisyel nefrit’e neden olurlar       olurlar
+Microsporidium
+Tanı
+• Dışkı veya idrarda sporların görülmesiyle konlur.
+• İFA (Calcofluor)
+• Doku biopsis
+• Giemza veya calcofluor ile boyanabilir
+• Serolojik tanı
+• Moleküler tanı yöntemi uygulanır
+Tedavi
+• Albendazol
+• Korunmada temizlik ve kişisel hijyen önemlidir
+ CILIOPHORA ŞUBESİ = KİRPİKLİ PROTOZOONLAR
+ Balantidium coli
+
+CILIOPHORA ŞUBESİ = KİRPİKLİ PROTOZOONLAR
+• Ciliophora şubesinde evrimlerinin bir döneminde kirpikli olan protozoonlar bulunur.
+• Genellikle biri büyük ve kesif nükleus yapısında olan makronükleus, diğeri küçük ve
+  vesiküler nükleus yapısında olan mikronükleus olmak üzere iki nükleusları bulunur.
+• Makronükleus amitotik olarak bölünür, protozoonun metabolizmasında rol oynar.
+• Mikronükleus ise mitotik olarak bölünür ve genetik olaylarda rol sahibidir.
+• Kirpiklilerde ayrıca peristom, hücre ağzı, hücre yutağı, hücre anüsü, kontraktil vakuol
+  gibi oluşumlar bulunabilir ve çoğu kist oluşturur.
+• Bu şubede insanda rastlanan tek tür Balantidium cinsindeki Balantidium coli'dir.
+   Balantidium coli
+
+• Domuz
+• Keme
+• Maymun
+• Kedi
+• Kobay
+• İnsan (nadir)
+
+***Balantidium coli özellikle domuz kaynaklı kanlı mukuslu ishallere sebep olur.
+ Balantidium coli:
+ Özellik ve Tanı
+• İnsan barsağında yaşayan en büyük kirpikli protozoondur
+• Trofozoit
+• Kist
+   • Makronükleus
+   • Mikronükleüs
+  Balantidium coli
+• Klinik belirti olmayabilir***         1. Hyalüronidaz enzimi salgılar
+• Basit ishalden şiddetli dizanteriye
+                                        2. Sekonder infeksiyonlara zemin hazırlar
+  kadar klinik tablolar oluşturabilir
+• Kolit                                 3. İnflamatuar yanıta neden olur
+• Peritonite/apendisite yol
+  açabilir(Nadir)                       4. Ekstra intestinal yayılım gösterir (mezenterik
+                                           nodlara, karaciğer, plevra, akciğer, ürogenital
+• Abdominal ağrı eşlik edebilir            sistem)
+
+                         Tedavide:
+                        • Tetrasiklin, Metronidazole ve
+                          Oksitetrasiklin
+• İnsanların çekum ve ince bağırsağında yaşar        DİENTAMOEBA FRAGİLİS
+• Sadece trofozoit formu vardır                          TANI ve TEDAVİ
+• Çoğunlukla iki nükleuslu,
+• Bazen 1-4 nükleuslu trofozoitede rastlanır
+• İshal
+• Karın ağrısı
+• Kanlı-mukuslu dışkı
+• Bulantı
+• Kusma
+• Belli aralarla alınan dışkı örneklerinde
+• 4-6 granüllü
+• İki nükleuslu trofozoitlerin görülmesi ile konur
+• Tedavi
+ Tetrasiklin
+ Metranidazol
+ Paramomisin
+  Dientamoeba fragilis
+
+
+
+
+• Dientamoeba fragilis ismine rağmen bir ameba değil, trikomonadlarla en yakın akraba olan
+  bağırsak kamçılısıdır .
+• İnsan dışkı örneklerinde, D. fragilis hemen hemen her zaman yalnızca bir trofozoit olarak bulunur.
+• Bununla birlikte, klinik örneklerde nadir görülen kist ve öncül formların varlığı bildirilmiştir; iletim
+  potansiyelleri araştırılıyor.
+• D. fragilis'in bulaşmasının ve patojenliğinin diğer yönleri de tam olarak anlaşılmamıştır.
+              Stark, D., Barratt, J., Chan, D. ve Ellis, JT, 2016. Dientamoeba fragilis , insan bağırsağının ihmal
+              edilen trikomonadı. Klinik Mikrobiyoloji İncelemeleri , 29 (3), s.553–580.
+
+
+
+                                                                                        NUCLEUS                                             CYTOPLASM
+
+                                                                                      Peripheral           Karyosomal
+     Species          Size (Length)             Motility            Number                                                      Appearance           Inclusions
+                                                                                      Chromatin            Chromatin
+Entamoeba             10-60 µm. Usual       Progressive with            1             Fine granules.     Small, discrete.      Finely granular.     Red blood cells
+histolytica           range, 15-20 µm      hyaline, finger-like   Not visible in     Usually evenly      Usually centrally                           occasionally.
+                         commensal            pseudopods.           unstained        distributed and       located, but                              Noninvasive
+                           1
+                     form. Over 20 µm                             preparations.      uniform in size.     occasionally is                           organisms may
+                                      2
+                       invasive form.                                                                       eccentric.                             contain bacteria.
+
+
+Dientamoeba           5-15 µm. Usual        Pseudopods are               2               None.          Large cluster of 4-8   Finely, granular.      Bacteria:
+         3
+fragilis              range, 9-12 µm.     angular, serrated, or (In approximately                            granules.                             occasionally red
+                                           broad lobed, and 20% of organisms                                                                         blood cells.
+                                            hyaline, almost      only 1 nucleus is
+                                              transparent.       present.) Nuclei
+                                                                    invisible in
+                                                                     unstained
+                                                                   preparations.
+  Dientamoeba
+
+
+
+Taxonomic rank   Classification
+
+Kingdom          Excavata
+
+Subkingdom       Metamonada
+
+Phylum           Parabasalia
+
+Class            Tritrichomonadidae
+
+Order            Trichomonadida
+
+Family           Dientamoebidae
+
+Genus            Dientamoeba
+                 Dientamoeba fragilis (Jepps and
+Species          Dobell, 1918)
+     Blastocystis(Suptyp; 1-33)
+Alem: Chromista
+Aile: Bigyra
+Organizma(Etken?)Blastocystis(Suptyp; 1-33)
+
+
+
+
+             •https://doi.org/10.1016/j.ijppaw.2020.07.00
+Yaşam döngüsü ve bulaşma hakkındaki bilgiler hala
+araştırılmaktadır. Bu B. hominis için önerilen bir yaşam
+döngüsüdür .
+
+İnsan dışkısında bulunan klasik form, boyutu 6 ila 40 μm
+arasında muazzam şekilde değişen kisttir.
+
+Muhtemelen kirli su veya gıdanın yutulması yoluyla fekal-
+oral yolla dışarıya bulaşmadan sorumlu olduğuna
+inanılmaktadır.
+Kistler sindirim sisteminin epitel hücrelerini enfekte eder ve
+eşeysiz olarak çoğalır.
+Parazitin vakuollü formları, çok vakuollü ve ameboid
+formlara köken verir. Çok vakuollü , otoenfeksiyondan
+sorumlu olduğu düşünülünce ince duvarlı bir kist oluşturan
+bir ön kiste dönüşür.
+Ameboid form şizogoni ile kalın duvarlı kist oluşturan bir ön
+kiste dönüşür.
+Kalın duvarlı kist dışkıyla atılır
+TEŞEKKÜRLER…
+Tanı Yöntemleri
+
+• Sindirim sisteminde yerleşen protozoonlardan Entamoeba gingivalis dışındakiler dışkıda aranır.
+
+• Dışkı muayenesi makroskobik ve mikroskobik inceleme şeklinde yapılır.
+
+1. Makroskobik İnceleme
+
+• Dışkının kıvamına, rengine bakılır.
+
+• Kan ve mukus içerip içermediği incelenir.
+
+• Hem kistleri hem de trofozoit şekilleri bulunan protozoonların, trofozoitleri sulu dışkıda, kist şekillerini ise katı veya şekilli
+dışkıda daha fazla bulunur.
+
+• Örnek alırken trofozoitleri bulmak için dışkının özellikle kan ve mukus içeren kısımlarından inceleme yapılmalıdır.
+
+• Dışkı çıkarıldıktan sonra en geç 20-30 dakika içinde incelenmelidir.
+
+• Aksi halde trofozoitler hareketlerini ve karakteristik özelliklerini kaybederler.
+
+• Kistler ise bir süre bu özelliklerini korurlar.
+2. Mikroskobik İnceleme
+
+a. Basit yöntemler:
+
+      i. Tuzlu su preparatı: Dışkının cerahatlı, kanlı ve mukuslu kısmından öze ile alınan 1-2
+mL dışkı temiz bir lam üzerine konulmuş tuzlu suda (%0.9 NaCl) iyice ezilir. Kaba parçacıklar
+uzaklaştırıldıktan sonra üzerine lamel kapatılarak kuru objektifte incelenir.
+
+      ii. İyot çözeltisi veya %5’li eozin preparatı: Tuzlu su yerine dışkı iyot eriyiği ve eozin
+ile ezilir. Trofozoit ve kistler boyandığından daha belirgin hale gelir.
+
+b. Zenginleştirme (yoğunlaştırma):
+2. Mikroskobik İnceleme
+a. Basit yöntemler:
+
+b. Zenginleştirme (yoğunlaştırma):
+         i. Çöktürme yöntemi:
+
+        Basit çöktürme: 8-10 mL hacmindeki dışkı örneği 500 mL’lik cam silindirde tuzlu su ile iyice ezilir. Üzerine tuzlu su ilave edilerek 15-30
+dakika beklenir. Üst kısmı atılır, 1500 devirde 5 dakika santrifüj edildikten sonra, dipteki sediment lama yayılır üzerine lamel kapatılarak incelenir.
+
+         Formalin-eterle çöktürme;
+
+         ii. Yüzdürme yöntemi:
+
+        • Yoğun ortamda basit yüzdürme: %37.5’lik tuzlu sulu ortamında dışkı eritilerek 15-20 dakika bekletilir. Sıvının üstüne konulan lameller
+yoğun ortamda yüzmeye başlayan kistleri toplar. Daha sonra lamel lam üzerine kapatılarak incelenir.
+
+         • Çinko sülfat çözeltisinde yüzdürme: Aynı işlem %33’lük çinko sülfat çözeltisi içinde yapılır.
+
+       iii. Dışkı uzak bir yere gönderilecek ise veya uzun bir süre sonra incelenecekse bazı işlemlerden geçirilir ve içindeki parazitlerin
+bozulması önlenir. Bunlar;   • Formalin (%5-10’luk),
+
+                     • Polivinil alkol (PVA) tesbit sıvısı,
+
+                     • Mertiyolat iyot formaldehit (MİF) çözeltisi .
+
