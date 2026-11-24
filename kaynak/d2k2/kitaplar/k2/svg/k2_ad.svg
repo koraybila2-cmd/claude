@@ -1,0 +1,45 @@
+<svg viewBox="0 0 660 420" width="100%" style="display:block" role="img" aria-label="Üst ve alt ekstremite ana arterinin ad değiştirdiği sınırlar">
+  <defs><marker id="ad" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="adc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="adm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <text x="105.0" y="16.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">ÜST EKSTREMİTE</text>
+  <text x="435.0" y="16.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">ALT EKSTREMİTE</text>
+  <rect x="20" y="28" width="170" height="48" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="105.0" y="55.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">A. subclavia</text>
+  <line x1="105" y1="77" x2="105" y2="106" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ad)"/>
+  <text x="202.0" y="94.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">1. kaburganın dış kenarı</text>
+  <rect x="20" y="108" width="170" height="48" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="105.0" y="135.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">A. axillaris</text>
+  <line x1="105" y1="157" x2="105" y2="186" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ad)"/>
+  <text x="202.0" y="174.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">m. teres major'un alt kenarı</text>
+  <rect x="20" y="188" width="170" height="48" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="105.0" y="215.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">A. brachialis</text>
+  <line x1="105" y1="237" x2="105" y2="266" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ad)"/>
+  <text x="202.0" y="254.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">collum radii (fossa cubiti)</text>
+  <rect x="20" y="268" width="170" height="48" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="105.0" y="295.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">A. radialis + a. ulnaris</text>
+  <line x1="105" y1="317" x2="105" y2="346" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ad)"/>
+  <text x="202.0" y="334.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">el bileği → avuç içi</text>
+  <rect x="20" y="348" width="170" height="56" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="105.0" y="365.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Arcus palmaris</text>
+  <text x="105.0" y="379.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">superficialis (ulnaris)</text>
+  <text x="105.0" y="393.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">profundus (radialis)</text>
+  <rect x="350" y="28" width="170" height="48" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="435.0" y="55.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">A. iliaca externa</text>
+  <line x1="435" y1="77" x2="435" y2="106" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ad)"/>
+  <text x="532.0" y="94.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">lig. inguinale (lacuna vasorum)</text>
+  <rect x="350" y="108" width="170" height="48" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="435.0" y="135.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">A. femoralis</text>
+  <line x1="435" y1="157" x2="435" y2="186" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ad)"/>
+  <text x="532.0" y="174.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">hiatus adductorius</text>
+  <rect x="350" y="188" width="170" height="48" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="435.0" y="215.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">A. poplitea</text>
+  <line x1="435" y1="237" x2="435" y2="266" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ad)"/>
+  <text x="532.0" y="254.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">m. popliteus'un alt kenarı</text>
+  <rect x="350" y="268" width="170" height="48" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="435.0" y="288.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">A. tibialis anterior</text>
+  <text x="435.0" y="302.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">+ a. tibialis posterior</text>
+  <line x1="435" y1="317" x2="435" y2="346" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#ad)"/>
+  <text x="532.0" y="334.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="italic" fill="var(--color-accent-700)" xml:space="preserve">ayak bileği eklemi</text>
+  <rect x="350" y="348" width="170" height="48" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="435.0" y="368.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">A. dorsalis pedis (önden)</text>
+  <text x="435.0" y="382.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">aa. plantares (arkadan)</text>
+</svg>

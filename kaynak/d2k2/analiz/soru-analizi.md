@@ -80,3 +80,39 @@ Yazım sırasında eklenen, anlatımla cevaplanan fizyoloji soruları: vazomosyo
 
 ## Bu kitabın kapsamı dışında kalan anatomi soruları (sunumu henüz yok)
 Solunum sistemi (paranazal sinüslerin açıldığı yerler, burun boşluğu duvarları, larinks kıkırdak-kas-sinirleri, trakea komşulukları, bronş ağacı ve asinüs, akciğer lob/segmentleri, sol akciğer izleri, plevra sınırları); üst ve alt ekstremite arterleri (a. femoralis dalları, uyluk ve femurun beslenmesi, a. thoracodorsalis, a. thoracica lateralis, a. radialis/ulnaris, arcus palmaris); a. thoracica interna dalları (a. musculophrenica); karın ve pelvis damarları (v. portae, porto-kaval anastomozlar, a. glutea superior, a. profunda penis); v. azygos sistemi. 2025-2026 uygulama listesindeki nares, recessus sphenoethmoidalis, larinks kasları, bronşlar, segmentler, a. sacralis lateralis, a. inferior lateralis genus, a. dorsalis pedis, a. interossea anterior, arcus palmaris superficialis, v. mesenterica inferior da bu gruptadır. Bu konuların sunumları gelince ayrı kitap ya da ek bölüm olarak işlenebilir.
+
+---
+
+# Kitap 2 — Gövde ve Ekstremite Damarları, Lenfatik Sistem ve Dalak
+
+Kaynak sunumlar (Drive): 7 A. subclavia (56 s.), 8 Üst ekstremite arter ve venleri (49 s.), 9 Aorta thoracica ve toraks venleri (35 s.), 10 Aorta abdominalis (39 s.), 11 A. iliaca communis ve dalları + v. portae ve portokaval anastomozlar (119 s.), 12 Alt ekstremite arterleri (57 s.), 13 Alt ekstremite venleri ve VCİ (52 s.), 14 Lenfatik sistem ve ductus thoracicus (53 s.), 15 Lenfoid organlar ve dalak (54 s.). Metinler: `sunum-metinleri/k2_s07.txt` … `k2_s15.txt`.
+
+Soru kaynakları Kitap 1 ile aynıdır. Kitap 1'in "kapsam dışı" listesindeki sorular bu kitaba dağıtıldı. Sayım kuralı aynı (aynı sınavda iki kez sorulan bilgi bir kez sayıldı).
+
+| Bölüm | Derl. | 23-24 | 24-25 | 25-26 uyg. | Toplam |
+|---|---|---|---|---|---|
+| 1 A. subclavia | 1 | 0 | 0 | 1 | 2 |
+| 2 Üst ekstremite arter ve venleri | 2 | 2 | 1 | 3 | 8 |
+| 3 Aorta thoracica, VCS, azygos | 3 | 1 | 2 | 0 | 6 |
+| 4 Aorta abdominalis | 0 | 1 | 1 | 0 | 2 |
+| 5 Aa. iliacae | 0 | 1 | 1 | 1 | 3 |
+| 6 V. portae, portokaval | 1 | 1 | 1 | 1 | 4 |
+| 7 Alt ekstremite arterleri | 2 | 0 | 2 | 2 | 6 |
+| 8 Alt ekstremite venleri, VCİ | 1 | 1 | 2 | 0 | 4 |
+| 9 Lenfatik sistem | 0 | 2 | 3 | 2 | 7 |
+| 10 Lenfoid organlar, dalak | 2 | 2 | 0 | 0 | 4 |
+
+## Eşleme
+- B1: Derl S53 (a. musculophrenica); uyg a. vertebralis.
+- B2: 24-25 m. latissimus dorsi → a. subscapularis/a. thoracodorsalis (iki kez); 23-24 S21 rr. mammarii laterales → a. thoracica lateralis (kayıtta a. subscapularis ve soru işaretleri var, sunuma göre düzeltildi); 23-24 S11 v. mediana cubiti; Derl S65 vv. brachiales; Derl S68 a. radialis ince ve lateral; uyg a. interossea anterior, arcus palmaris superficialis, v. cephalica.
+- B3: 23-24 S20 ilk iki İKA; Derl S59 parietal dal; Derl S49 v. intercostalis sup. sin. → v. brachiocephalica sin.; 24-25 v. azygos'a dökülmeyen → v. intercostalis sup. sin.; Derl S55 mediastinum post. → bifurcatio aortae; 24-25 mediastinum post. → truncus pulmonalis.
+- B4: 23-24 S10 böbreküstü arterleri; 24-25 "IMA rektumun alt kısmını besler" yanlış.
+- B5: 23-24 S3 a. glutea superior; 24-25 a. profunda penis; uyg a. sacralis lateralis.
+- B6: 23-24 S16 v. portae'ye dökülmeyen → v. pancreatica (anahtar yok); 24-25 v. rectalis superior (kayıtta kök "değildir", şıklar "a." — kök düzeltildi, açıklandı); Derl S60 umbilikal bölge (anahtar yok); uyg v. mesenterica inferior.
+- B7: Derl S47 a. media genus; Derl S67 dorsalis pedis 4. aralık yanlış; 24-25 uyluk beslenmesinde rolü yok (öğrenci anahtarı a. obturatoria, anatomik cevap a. recurrens tibialis anterior — iki görüş kartta); 24-25 femuru beslemeyen → a. recurrens tibialis; uyg a. inferior lateralis genus, a. dorsalis pedis.
+- B8: 24-25 en uzun yüzeyel ven ve n. saphenus'a eşlik eden → v. saphena magna (bir sayıldı); 24-25 santral venöz basınç (fizyoloji); 23-24 S2 VCİ'ye açılmayan → v. testicularis sin.; Derl S66.
+- B9: 24-25 ductus lymphaticus dexter'e dökülen; 24-25 ductus thoracicus'a dökülmeyen; 24-25 boyun lenfi olmayan → "n. infrapulmonalis"; 23-24 S13 ve S22 göbek altı → yüzeyel inguinal; uyg nl. inguinalis profundus, nll. axillares centrales.
+- B10: 23-24 histoloji S7 dalak (stave hücreleri); 23-24 histoloji S3 timus epitelyoretiküler; Derl S25 timus 3. faringeal cep; Derl S33 tip III-IV.
+
+## Kullanılmayanlar
+- 23-24 S4 nabız (şıklar bozuk); 24-25 timus eğitim sırası (şık yok); Derl S24 Treg FoxP3 (immünoloji, sunum kapsamı dışı).

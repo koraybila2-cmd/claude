@@ -1,0 +1,70 @@
+<svg viewBox="0 0 660 420" width="100%" style="display:block" role="img" aria-label="Arka interkostal venlerin dökülme yerleri ve azygos sistemi">
+  <defs><marker id="az" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-neutral-700)"/></marker><marker id="azc" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-700)"/></marker><marker id="azm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--color-accent-2-900)"/></marker></defs>
+  <text x="120.0" y="14.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">SAĞ TARAF</text>
+  <text x="540.0" y="14.0" text-anchor="middle" font-family="var(--font-body)" font-size="10" font-weight="700" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve" letter-spacing="0.08em">SOL TARAF</text>
+  <rect x="255" y="24" width="150" height="46" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="330.0" y="43.2" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">V. cava superior</text>
+  <text x="330.0" y="58.2" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">→ atrium dextrum</text>
+  <rect x="20" y="24" width="200" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="120.0" y="43.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">V. brachiocephalica dextra</text>
+  <text x="120.0" y="58.1" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">VJİ + v. subclavia dx.</text>
+  <rect x="440" y="24" width="200" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="540.0" y="43.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">V. brachiocephalica sinistra</text>
+  <text x="540.0" y="58.1" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">daha uzun</text>
+  <line x1="221" y1="47" x2="253" y2="47" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#az)"/>
+  <line x1="439" y1="47" x2="407" y2="47" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#az)"/>
+  <rect x="255" y="112" width="150" height="150" rx="4" fill="white" stroke="var(--color-accent-700)" stroke-width="1.5"/>
+  <text x="330.0" y="145.8" text-anchor="middle" font-family="var(--font-body)" font-size="12.5" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">V. azygos</text>
+  <text x="330.0" y="160.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">sağ v. lumbalis</text>
+  <text x="330.0" y="175.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ascendens'in devamı</text>
+  <text x="330.0" y="190.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">(L1-L2)</text>
+  <text x="330.0" y="205.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T4'te sağ radix</text>
+  <text x="330.0" y="220.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">pulmonis üzerinden</text>
+  <text x="330.0" y="235.8" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">kavis yapar</text>
+  <line x1="330" y1="111" x2="330" y2="73" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#az)"/>
+  <rect x="20" y="92" width="200" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="120.0" y="112.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">1. v. intercostalis post. dx.</text>
+  <line x1="120" y1="91" x2="120" y2="73" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#az)"/>
+  <rect x="20" y="146" width="200" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="120.0" y="165.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">2.-4. aralık → v. intercostalis</text>
+  <text x="120.0" y="180.1" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">superior dextra</text>
+  <line x1="221" y1="169" x2="253" y2="169" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#az)"/>
+  <rect x="20" y="212" width="200" height="46" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="120.0" y="231.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">5.-11. vv. intercostales post.</text>
+  <text x="120.0" y="246.1" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">+ v. subcostalis dextra</text>
+  <line x1="221" y1="235" x2="253" y2="235" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#az)"/>
+  <rect x="440" y="92" width="160" height="34" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="520.0" y="112.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">1. v. intercost. post. sin.</text>
+  <line x1="520" y1="91" x2="520" y2="73" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#az)"/>
+  <rect x="440" y="146" width="200" height="58" rx="4" fill="white" stroke="var(--color-accent-2-900)" stroke-width="1.5"/>
+  <text x="540.0" y="164.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">2.-4. aralık → v. intercostalis</text>
+  <text x="540.0" y="178.6" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">superior sinistra</text>
+  <text x="540.0" y="192.6" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-accent-2-900)" xml:space="preserve">v. azygos'a DEĞİL</text>
+  <path d="M641,175 L652,175 L652,47 L643,47" fill="none" stroke="var(--color-accent-2-900)" stroke-width="1.5" marker-end="url(#azm)"/>
+  <rect x="440" y="222" width="200" height="54" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="540.0" y="238.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">V. hemiazygos accessoria</text>
+  <text x="540.0" y="252.6" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">5.-8. aralıklar</text>
+  <text x="540.0" y="266.6" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T7'de sağa geçer</text>
+  <line x1="439" y1="245" x2="407" y2="230" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#az)"/>
+  <rect x="440" y="294" width="200" height="54" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="540.0" y="310.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">V. hemiazygos</text>
+  <text x="540.0" y="324.6" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">9.-11. + v. subcostalis sin.</text>
+  <text x="540.0" y="338.6" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">T9'da sağa geçer</text>
+  <line x1="439" y1="318" x2="407" y2="252" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#az)"/>
+  <rect x="255" y="300" width="150" height="40" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="330.0" y="316.1" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Sağ v. lumbalis</text>
+  <text x="330.0" y="331.1" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">ascendens</text>
+  <line x1="330" y1="299" x2="330" y2="265" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#az)"/>
+  <rect x="440" y="370" width="200" height="40" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="540.0" y="386.6" text-anchor="middle" font-family="var(--font-body)" font-size="12" font-weight="700" font-style="normal" fill="var(--color-text)" xml:space="preserve">Sol v. lumbalis ascendens</text>
+  <text x="540.0" y="400.6" text-anchor="middle" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-neutral-700)" xml:space="preserve">(crus sinistrum'dan geçer)</text>
+  <line x1="540" y1="369" x2="540" y2="351" stroke="var(--color-neutral-700)" stroke-width="1.5" marker-end="url(#az)"/>
+  <rect x="20" y="284" width="215" height="126" rx="4" fill="white" stroke="var(--color-neutral-700)" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="30.0" y="302.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="700" font-style="normal" fill="var(--color-accent-700)" xml:space="preserve">V. azygos'a açılanlar</text>
+  <text x="30.0" y="317.5" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">sağ vv. intercostales posteriores</text>
+  <text x="30.0" y="333.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">v. intercostalis superior dextra</text>
+  <text x="30.0" y="348.5" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">v. hemiazygos ve accessoria</text>
+  <text x="30.0" y="364.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">vv. oesophageales, mediastinales,</text>
+  <text x="30.0" y="379.5" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">pericardiales, v. bronchialis dx.,</text>
+  <text x="30.0" y="395.0" text-anchor="start" font-family="var(--font-body)" font-size="11" font-weight="400" font-style="normal" fill="var(--color-text)" xml:space="preserve">v. subcostalis dextra</text>
+</svg>

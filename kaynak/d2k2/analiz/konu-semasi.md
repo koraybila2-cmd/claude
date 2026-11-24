@@ -70,3 +70,9 @@ Birleştirme kararları (tekrarı önlemek için):
 - Vv. brachiocephalicae, angulus venosus, VCS
 
 ## Genel deneme sınavı
+
+---
+
+# Kitap 2 şeması (sınav odaklı, 106 sayfa)
+00 Kapak · 01 A. subclavia · 02 Üst ekstremite arter ve venleri · 03 Aorta thoracica, VCS, azygos · 04 Aorta abdominalis · 05 Aa. iliacae · 06 V. portae ve portokaval anastomozlar · 07 Alt ekstremite arterleri · 08 Alt ekstremite venleri ve VCİ · 09 Lenfatik sistem ve ductus thoracicus · 10 Lenfoid organlar ve dalak · 11 Son tekrar tablosu · 12 Deneme (15 soru).
+Her bölüm: sınav odaklı anlatım (cite ile çıkmış soru işaretleri) → keybox → YIL grafiği → çıkmış sorular ve çözümleri + gerektiğinde YENİ SORU etiketli sorular.
