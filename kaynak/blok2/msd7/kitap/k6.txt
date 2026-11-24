@@ -1,0 +1,52 @@
+# Toksin Kaynaklı İshaller ve Diğer Bakteriler | Besin zehirlenmesi yapan toksijenik bakteriler (S. aureus, B. cereus, C. perfringens), sekretuvar toksinler ve mekanizmaları, Vibrio cholerae ve kolera, deniz-su kaynaklı bakteriler (V. parahaemolyticus, Aeromonas), Listeria ve bakteriyel toksinlerin sınıflandırılması. Bu etkenlerin çoğu okunamayan gastroenterit sunumunda (S2) yer alıyor olabilir; aşağıdaki anlatım standart tıbbi mikrobiyoloji bilgisine dayanır. || Bölüm 6 · Toksinli etkenler
+
+## Toksin tipleri
+Bakteriyel toksinler yapılarına ve etkilerine göre ayrılır. Çoğu **A-B yapısındadır:** B (binding) parçası hücreye bağlanır, A (active) parçası içeri girip etkiyi yapar.
+| Toksin tipi | Ne yapar | Örnek |
+| **Enterotoksin** | bağırsak epitelinde su-elektrolit salgısını artırır (cAMP/cGMP) | kolera toksini, ETEC LT/ST, *S. aureus*, *B. cereus* |
+| **Sitotoksin** | hücreyi öldürür, mukozayı yıkar | Shiga toksini (*Shigella*, EHEC), *C. difficile* A/B, *C. perfringens* |
+| **Nörotoksin** | sinir iletimini bozar | botulinum (gevşek felç), tetanoz |
+|= Toksin sınıfları. Enterotoksin = sulu ishal; sitotoksin = kanlı, iltihaplı; nörotoksin = sinir belirtileri.
+**Hazır (preformed) toksin** besinde önceden oluşur: *S. aureus*, *B. cereus* (emetik), *C. botulinum*. Bunlarda kuluçka kısadır ve antibiyotik işe yaramaz.
+
+## Besin zehirlenmesi yapan toksijenik bakteriler
+| Etken | Kaynak | Kuluçka | Klinik | Toksin |
+| ***S. aureus*** | kremalı pasta, pastane ürünü, elle hazırlanan et-salata | **1-6 saat** | ani **kusma**, bulantı, az ishal; ateş yok | ısıya **dayanıklı** hazır enterotoksin (A-E); pişirmeyle yok olmaz |
+| ***B. cereus* emetik** | bekletilmiş/ısıtılmış **pilav** | **1-6 saat** | **kusma** | ısıya dayanıklı hazır toksin (sereulid) |
+| ***B. cereus* ishal tipi** | et, sebze, sos | 8-16 saat | sulu ishal | bağırsakta salınan, ısıya duyarlı enterotoksin |
+| ***C. perfringens*** | büyük kazanda pişip ılık bekleyen et, et suyu | 8-16 saat | sulu ishal, kramp; kusma az | bağırsakta sporülasyonda salınan enterotoksin |
+| ***C. botulinum*** | ev konservesi, bal (bebek) | 12-36 saat | bulanık görme, pitoz, disfaji, **simetrik inen gevşek felç** | nörotoksin (asetilkolin salınımını engeller) |
+|= Besin zehirlenmesi etkenleri. Pasta → stafilokok, pilav → cereus (kusma), bekletilmiş et → perfringens.
+?? ***S. aureus* toksini ısıya dayanıklıdır:** yemeği yeniden ısıtmak bakteriyi öldürür ama toksini bozmaz, zehirlenme yine olur. Kremalı pasta + 1-6 saatte kusma + gaitada az lökosit → *S. aureus*.
+!! 2025-26 S1'de hastanın gaitasında 8-10 lökosit görülmüş ve yine de cevap *S. aureus* kabul edilmiştir. Stafilokok enterotoksini tipik olarak lökositsiz, kusma ağırlıklı tablo yapar; buradaki az sayıda lökosit tabloyu değiştirmez, öykü (kremalı pasta, 1 saat, ortak yiyen arkadaş, kusma ön planda) klasik stafilokok besin zehirlenmesidir.
+
+## Vibrio cholerae ve kolera
+*Vibrio cholerae*, kıvrık (virgül biçiminde), tek polar kamçısıyla hareketli, **oksidaz pozitif** Gram negatif bir bakteridir. Kolera toksini A-B yapısındadır: hücre içinde **adenilat siklazı sürekli aktive edip cAMP'yi** yükseltir; enterositten lümene masif klor ve su salınır, sodyum emilimi durur. Sonuç, mukoza sağlam kalırken (lökositsiz) günde litrelerce **“pirinç suyu” görünümünde sekretuvar ishaldir**; hızlı, ağır dehidratasyon ve ölüm riski vardır.
+- **O1 ve O139** serogrupları kolera toksini üretip klasik salgınları yapar.
+- Mide asidine **duyarlıdır;** bu yüzden enfektif doz yüksektir (yaklaşık 10<sup>8</sup>). Aklorhidri ya da asit baskılayıcı kullanımı dozu düşürür.
+- Üremesi için **tuza (NaCl) gereksinim duyar** (halofilik), alkali ortamı sever (TCBS besiyerinde sarı koloni).
+- Tedavinin esası sıvı (ORS ve damar yolu); doksisiklin ya da azitromisin süreyi ve bulaşı azaltır.
+!! 2024-25 S49'da “mide asidine duyarlı değildir, 100 bakteriyle kolera gelişir” şıkkı **yanlış** olarak işaretlenir: *V. cholerae* aside **duyarlıdır** ve hastalık için yüksek doz gerekir.
+
+## Su ve deniz kaynaklı bakteriler
+| Etken | Özellik |
+| ***V. parahaemolyticus*** | çiğ deniz ürünü (istiridye, balık); sulu, bazen kanlı ishal; **halofilik**; inflamatuvar grupta |
+| ***V. vulnificus*** | istiridye; karaciğer hastalarında sepsis, yara enfeksiyonu |
+| ***Aeromonas hydrophila*** | **tatlı su**, su kaynaklı; hareketli, **oksidaz pozitif** Gram negatif basil; fakültatif anaerop; suyla temas eden yaralarda **selülit**; tuzsuz sever, %6 NaCl'de iyi üremez |
+| ***Plesiomonas shigelloides*** | su, deniz ürünü; oksidaz pozitif |
+|= Su ve deniz kaynaklı etkenler. *Aeromonas* tatlı su ve yaradır; tuzu sevmez. *Vibrio*'lar tuzu sever.
+!! *Aeromonas hydrophila* **%6 NaCl'li besiyerinde iyi üremez** (halofilik değildir); 2023-24 S45'te bu şık yanlıştır.
+
+## Listeria monocytogenes
+*Listeria monocytogenes*, Gram pozitif basildir; en çarpıcı özelliği **buzdolabı sıcaklığında (soğukta) üreyebilmesidir** (soğukta zenginleştirme). Pastörize edilmemiş süt ve peynir, hazır et ürünleri, çiğ sebzelerle bulaşır. Sağlıklı erişkinde ateşli gastroenterit yapar; gebe, yenidoğan, yaşlı ve bağışıklığı baskılanmışta **sepsis ve menenjit** yapar; gebelikte düşük ve ölü doğuma yol açar.
+?? **Buzdolabında üreyen, gastroenterit + sepsis + menenjit = Listeria.**
+
+## Diğer bakteriler ve sekresyon sistemleri
+Bazı patojenler toksini doğrudan konak hücresine enjekte eden **salgı sistemleri** kullanır: *Salmonella*, *Shigella* ve EPEC **tip 3 sekresyon sistemiyle** efektör proteinleri hücreye sokup invazyon ve sinyal değişikliği yapar. *Helicobacter pylori* **tip 4 sekresyon sistemiyle** CagA proteinini mide epiteline aktarır. Kolera toksini ise bir salgı sistemiyle değil, reseptöre bağlanıp endositozla etki eder.
+
+## Bölüm özeti
+- Enterotoksin → sulu ishal; sitotoksin → kanlı; nörotoksin → sinir belirtileri. Hazır toksin: *S. aureus*, *B. cereus* (emetik), *C. botulinum*.
+- Pasta → *S. aureus* (ısıya dayanıklı toksin, kusma); pilav → *B. cereus*; bekletilmiş et → *C. perfringens*.
+- Kolera: oksidaz +, halofilik, cAMP ↑, pirinç suyu ishali, aside duyarlı, yüksek doz; O1/O139.
+- *Aeromonas*: tatlı su, oksidaz +, yara selüliti, tuzu sevmez. *V. parahaemolyticus*: deniz, halofilik.
+- *Listeria*: soğukta ürer, gastroenterit + sepsis + menenjit, gebelikte tehlikeli.

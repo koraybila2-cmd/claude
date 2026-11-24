@@ -1,0 +1,47 @@
+<svg viewBox="0 0 780 296" width="100%" style="display:block;font-family:Source Serif 4,Georgia,serif" role="img" aria-label="Ishal etkenlerinin enfektif dozlari">
+<defs><marker id="ok" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a3533"/></marker></defs>
+<line x1="198.2" y1="28" x2="198.2" y2="250" stroke="#d9d4cf" stroke-width="0.7"/>
+<text x="198.2" y="265.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">10</text>
+<line x1="254.6" y1="28" x2="254.6" y2="250" stroke="#d9d4cf" stroke-width="0.7"/>
+<text x="254.6" y="265.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">10²</text>
+<line x1="367.4" y1="28" x2="367.4" y2="250" stroke="#d9d4cf" stroke-width="0.7"/>
+<text x="367.4" y="265.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">10⁴</text>
+<line x1="480.3" y1="28" x2="480.3" y2="250" stroke="#d9d4cf" stroke-width="0.7"/>
+<text x="480.3" y="265.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">10⁶</text>
+<line x1="593.1" y1="28" x2="593.1" y2="250" stroke="#d9d4cf" stroke-width="0.7"/>
+<text x="593.1" y="265.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">10⁸</text>
+<text x="162.0" y="50.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">Shigella</text>
+<rect x="198.2" y="40.0" width="56.4" height="12" rx="4" fill="#8a1c3c"/>
+<text x="260.6" y="50.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">10-100 bakteri</text>
+<text x="162.0" y="74.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">E. histolytica</text>
+<rect x="198.2" y="64.0" width="56.4" height="12" rx="4" fill="#8a1c3c"/>
+<text x="260.6" y="74.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">10-100 kist</text>
+<text x="162.0" y="98.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">Giardia</text>
+<rect x="198.2" y="88.0" width="56.4" height="12" rx="4" fill="#8a1c3c"/>
+<text x="260.6" y="98.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">10-100 kist</text>
+<text x="162.0" y="122.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">Cryptosporidium</text>
+<rect x="198.2" y="112.0" width="56.4" height="12" rx="4" fill="#8a1c3c"/>
+<text x="260.6" y="122.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">~10-100 ookist</text>
+<text x="162.0" y="146.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">Norovirüs</text>
+<rect x="198.2" y="136.0" width="56.4" height="12" rx="4" fill="#8a1c3c"/>
+<text x="260.6" y="146.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">< 100 partikül</text>
+<text x="162.0" y="170.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">Campylobacter</text>
+<rect x="254.6" y="160.0" width="225.6" height="12" rx="4" fill="#0b6e99"/>
+<text x="486.3" y="170.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">10²-10⁶</text>
+<text x="162.0" y="194.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">Salmonella</text>
+<rect x="420.8" y="184.0" width="6.0" height="12" rx="4" fill="#0b6e99"/>
+<text x="432.8" y="194.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">~10⁵</text>
+<text x="162.0" y="218.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">V. cholerae</text>
+<rect x="590.1" y="208.0" width="6.0" height="12" rx="4" fill="#b4541a"/>
+<text x="602.1" y="218.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">~10⁸ (aside duyarlı)</text>
+<text x="162.0" y="242.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">ETEC</text>
+<rect x="590.1" y="232.0" width="6.0" height="12" rx="4" fill="#b4541a"/>
+<text x="602.1" y="242.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">~10⁸</text>
+<text x="465.0" y="284.0" text-anchor="middle" font-size="11" font-weight="400" fill="#3a3533">Hastalık yapan en küçük etken sayısı (logaritmik)</text>
+<rect x="170" y="10" width="12" height="12" rx="3" fill="#8a1c3c"/>
+<text x="187.0" y="20.0" text-anchor="start" font-size="10.5" font-weight="400" fill="#3a3533">çok düşük doz (kişiden kişiye)</text>
+<rect x="372.0" y="10" width="12" height="12" rx="3" fill="#0b6e99"/>
+<text x="389.0" y="20.0" text-anchor="start" font-size="10.5" font-weight="400" fill="#3a3533">orta</text>
+<rect x="428.4" y="10" width="12" height="12" rx="3" fill="#b4541a"/>
+<text x="445.4" y="20.0" text-anchor="start" font-size="10.5" font-weight="400" fill="#3a3533">yüksek doz (su, besin)</text>
+</svg>

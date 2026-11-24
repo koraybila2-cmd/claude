@@ -1,0 +1,119 @@
+# Salmonella, Shigella, E. coli, Yersinia ve Laboratuvar Tanısı | Enterobacteriaceae ailesinin ishal yapan üyeleri, Salmonella antijenleri ve Kauffmann-White şeması, enterik ateş (tifo) ve taşıyıcılık, Shigella, E. coli'nin ishal tipleri ve EHEC, Yersinia, Campylobacter ve dışkı kültürünün besiyeri-biyokimya algoritması. Sınavın en kalabalık bölümü (74 soru, 62 farklı soru); büyük kısmı okunamayan gastroenterit sunumunun (S2) laboratuvar kısmındadır. Anlatım standart tıbbi mikrobiyoloji bilgisiyle tamamlanmıştır. || Bölüm 5 · Enterik bakteriler ve lab
+
+## Enterobacteriaceae ailesi
+İshal yapan bakterilerin büyük bölümü *Enterobacteriaceae* ailesindendir: **Gram negatif basil, fakültatif anaerop, oksidaz negatif, glukozu fermente eden, nitratı nitrite indirgeyen** bakteriler. *Salmonella*, *Shigella*, *E. coli* (EHEC dahil), *Yersinia*, *Proteus*, *Klebsiella* bu ailedendir.
+**Aileden olmayanlar** sınavda sık sorulur: *Vibrio* ve *Campylobacter* (**oksidaz pozitif**, kıvrık), *Clostridium* (Gram pozitif, sporlu, anaerop), *Staphylococcus*, *Bacillus*, *Listeria* (Gram pozitif).
+?? **Enterobacteriaceae = oksidaz NEGATİF, glukozu fermente eder.** *C. perfringens* (Gram pozitif) ve *Vibrio* (oksidaz pozitif) bu aileden **değildir**.
+| Ayırt edici test | Enterobacteriaceae | Vibrio | Campylobacter |
+| Oksidaz | **negatif** | **pozitif** | pozitif |
+| Morfoloji | düz basil | kıvrık (virgül) | ince spiral, **martı kanadı** |
+| Gram | negatif | negatif | negatif |
+|= Oksidaz testi aileyi ayırmanın en hızlı yoludur.
+
+## Salmonella: antijenler
+*Salmonella*'nın tür ve serotip ayrımı üç antijen üzerinden yapılır. Bu konu sınavda her yıl birkaç soruyla gelir.
+| Antijen | Yapı | Özellik |
+| **O (somatik)** | **polisakkarit** (LPS'nin en dış kısmı) | ısıya, alkole (%96, 4 saat) **dayanıklı**, formole duyarlı; **tüm *Salmonella*'larda** var; serogrupları belirler; **IgM** yanıtı; aglütinasyonu kum taneli |
+| **H (flagella)** | **protein** | ısıya duyarlı; yalnız hareketli türlerde; faz 1 ve faz 2; **IgG** yanıtı; aglütinasyonu pamuk atığı gibi |
+| **Vi (kapsül)** | polisakkarit | yalnız *S.* Typhi, Paratyphi C, Dublin'de; O'yu örter (ısıtınca ayrılır); **taşıyıcılıkta Vi antikoru** araştırılır |
+|= Salmonella antijenleri. O antijeni serogrubu, H antijeni serotipi belirler; Vi örtücü kapsüldür.
+!! Serogrup ayrımı **O antijenine** göredir; serotip ayrımı O + H birlikte yapılır. “Vi antijenine göre serotiplere ayrılır” **yanlıştır** (2025-26 S49, 2023-24 S44). Taşıyıcı tanısında **Vi antikoru** bakılır, O antijeni değil (2024-25 S43).
+**Kauffmann-White şeması** antijenik formülü yazar: **O antijeni : H faz 1 : H faz 2**. Örnek: *S.* Choleraesuis **6,7 : c : 1,5** → O antijeni 6,7, H faz 1 “c”, H faz 2 “1,5”. *S.* Typhi 9,12(Vi) : d : –.
+**Yazım kuralı:** Tür adı (*S. enterica*, *S. bongori*) italik ve küçük harfle; **serotip adı düz (italik değil) ve büyük harfle** yazılır: *S.* Typhi, *S.* Enteritidis. “*S.* Enterica” yazımı **yanlıştır** (tür adı küçük italik olmalı: *S. enterica*).
+
+## Enterik ateş (tifo) ve endotoksin
+*S.* Typhi ve Paratyphi yalnız insanda bulunur; dışkı-ağız yoluyla bulaşır. Patogenez adım adım:
+@SVG tifo.svg
+@SEKIL Enterik ateşin patogenezi: M hücresinden Peyer plaklarına, oradan lenf ve kana, retiküloendotelyal organlara ve safra kesesine; safradan bağırsağa ikinci dönüş.
+1. Bakteri ince bağırsakta **M hücrelerinden** geçip Peyer plaklarına girer.
+2. Makrofajların içinde **hücre içinde yaşayarak** çoğalır; mezenterik lenf düğümlerine taşınır.
+3. Kana geçer (**birincil bakteriyemi**); karaciğer, dalak, kemik iliğine yayılır. Bu dönemde **kan ve kemik iliği kültürü** pozitiftir (1. hafta).
+4. Bu organlardan tekrar kana (**ikincil bakteriyemi**) ve **safra kesesine** döner; safrayla bağırsağa ikinci kez ulaşır. Artık **dışkı ve idrar kültürü** pozitifleşir (2.-3. hafta).
+5. Klinik: basamaklı yükselen ateş, **rölatif bradikardi**, karında **gül lekeleri** (pembe döküntü), hepatosplenomegali, önce ishal sonra kabızlık. 3.-4. haftada Peyer plaklarının nekrozuyla **bağırsak kanaması ve perforasyonu** riski.
+**Endotoksin = Lipid A:** *Salmonella*'nın (ve diğer Gram negatiflerin) LPS'sinin lipid A kısmı, ateş yükselmesi, önce lökopeni sonra lökositoz, kan basıncı düşmesi ve ağır olguda **endotoksik şok** tablosunu yapar.
+?? **Tifo kültürü zamanı: 1. hafta KAN ve kemik iliği, 2. haftadan sonra DIŞKI ve idrar, 4. haftadan sonra SAFRA.** Döküntü (gül lekesi) + rölatif bradikardi + basamaklı ateş + önce ishal sonra kabızlık = tifo.
+!! Tifo taşıyıcılığı **dışkı, idrar, safra kesesi ve kemik iliğinde** aranır. 2020-21 S44'te “idrarda araştırılmaz” şıkkı yanlıştır — idrar da taşıyıcılıkta kullanılır (aslında “kan” taşıyıcılıkta kullanılmaz, ama o yılki şıklara göre anahtar idrarı işaretlemiş; kronik taşıyıcı tanısında dışkı/safra esastır).
+
+## Salmonella klinik tipleri ve tedavi
+| Tip | Etken | Klinik | Antibiyotik |
+| **Gastroenterit** | tifo dışı *Salmonella* (Enteritidis, Typhimurium) | yumurta-tavuk; 6-48 saatte ateşli, iltihaplı ishal; kendiliğinden geçer | **genellikle gereksiz** (taşıyıcılığı uzatır); yalnız riskli grupta |
+| **Enterik ateş** | *S.* Typhi, Paratyphi | yukarıdaki tablo | her zaman gerekli (seftriakson, florokinolon, azitromisin) |
+| **Septisemi** | *S.* Choleraesuis, Paratyphi C | yüksek ateş, bakteriyemi; osteomiyelit, endokardit | gerekli |
+**Tifo dışı *Salmonella* gastroenteritinde antibiyotik verilen durumlar:** bebek (< 3 ay), > 50 yaş ve damar hastalığı/anevrizma riski, protez (kalp kapağı, eklem), bağışıklık baskısı (AIDS), inflamatuvar bağırsak hastalığı, ağır sepsis. Kronik hepatit B gibi damar/protez/bağışıklık sorunu olmayan durumlarda antibiyotik gerekmez.
+
+## Shigella
+*Shigella* (A: *dysenteriae*, B: *flexneri*, C: *boydii*, D: *sonnei*) **hareketsiz**, laktoz negatif, **H<sub>2</sub>S negatif**, üreaz negatif Enterobacteriaceae üyesidir. Çok düşük dozla (10-100 bakteri) bulaşır; kolon epitelini işgal edip **sitotoksin (Shiga toksini, özellikle *S. dysenteriae*)** salar; **kanlı-mukuslu dizanteri**, ateş, tenezm yapar.
+- **Salmonella–Shigella ayrımı:** *Shigella* **hareketsiz** ve **H<sub>2</sub>S negatiftir**; *Salmonella* hareketli ve çoğu H<sub>2</sub>S pozitiftir. Ayrımda **hareket, H<sub>2</sub>S, gaz oluşumu, sitrat** kullanılır; **laktoz (ikisi de negatif), üreaz (ikisi de negatif), oksidaz** ayrım için işe yaramaz.
+- **Shigella kendi içinde** mannitol ve laktoza etkiyle (ve serolojiyle) ayrılır: *S. dysenteriae* mannitol negatif, diğerleri pozitif; *S. sonnei* geç laktoz pozitif.
+
+## E. coli ishal tipleri
+İshal yapan *E. coli*'ler virülans ve klinik olarak beş gruba ayrılır:
+| Tip | Mekanizma | Klinik |
+| **ETEC** (enterotoksijenik) | **LT (cAMP) ve ST (cGMP) enterotoksinleri** | turist ishalinin en sık nedeni; sulu, lökositsiz |
+| **EIEC** (enteroinvaziv) | kolon epitelini işgal (*Shigella* gibi) | kanlı, iltihaplı ishal |
+| **EHEC** (enterohemorajik, **O157:H7**) | **Shiga toksini (verotoksin)** | az pişmiş kıyma/hamburger; kanlı ishal; **hemolitik üremik sendrom** |
+| **EPEC** (enteropatojenik) | silme (A/E) lezyonu | bebek ishali |
+| **EAEC** (enteroagregatif) | agregatif tutunma fimbriası | persistan ishal |
+**EHEC O157:H7** sınavın yıldızıdır: az pişmiş kıyma/hamburger sonrası kanlı ishal, ardından **hemolitik üremik sendrom** (akut böbrek yetmezliği, mikroanjiyopatik hemolitik anemi, trombositopeni). Virülans faktörü **Shiga toksinidir**. **Antibiyotik verilmez** (toksin salınımını ve HÜS riskini artırır).
+- **EHEC'in laboratuvar ipucu:** O157:H7 **sorbitolü fermente etmez**; **Sorbitol MacConkey (SMAC) agarda sorbitol negatif, renksiz koloni** yapar (diğer *E. coli*'ler sorbitol pozitif, pembe). Non-O157 EHEC sorbitolü fermente edebilir.
+?? **Hamburger + kanlı ishal + böbrek yetmezliği + düşük trombosit = EHEC O157:H7, toksini Shiga, besiyeri SMAC.**
+
+## Yersinia enterocolitica
+*Y. enterocolitica* Enterobacteriaceae üyesi, **üreaz pozitif**, oksidaz negatif, **soğukta (buzdolabı) üreyebilen** Gram negatif basildir. Domuz, kemirici, çiftlik ve ev hayvanları kaynaktır; az pişmiş domuz eti, kontamine süt-su ile bulaşır. **Terminal ileit ve mezenterik lenfadenit** yaparak sağ alt kadran ağrısıyla **apandisit taklidi** yapar (psödoapandisit). Demir yükü fazla olanlarda (hemokromatoz, desferoksamin tedavisi) septisemi yapar; **kan transfüzyonuyla bulaşabilir** (soğukta depolanan kanda çoğalır). Seçici besiyeri **CIN (sefsulodin-irgasan-novobiosin) agar**.
+?? **Yersinia = üreaz +, soğukta ürer, psödoapandisit, demir sever, transfüzyonla bulaşır, CIN agar.**
+
+## Campylobacter jejuni
+*C. jejuni* Enterobacteriaceae **değildir**: kıvrık/spiral, **martı kanadı** görünümlü, **oksidaz ve katalaz pozitif**, hareketli, **42 °C'de üreyen**, mikroaerofilik Gram negatif bakteridir. Az pişmiş tavuk ve pastörize edilmemiş sütle bulaşır (kuşlar ve kümes hayvanları hasta olmadan taşır). Kanlı-iltihaplı ishal yapar (dışkıda lökosit ve eritrosit); **Guillain-Barré sendromu** ile ilişkilidir. Seçici besiyeri **Skirrow**; tanıda **hippurat hidrolizi**, 25/42 °C üreme, oksidaz kullanılır. **Mide asidine duyarlıdır.** “Oksidaz negatif, üreaz pozitif” ve “*Enterobacteriaceae* üyesidir” ifadeleri *Campylobacter* için **yanlıştır**.
+
+## Dışkı kültürü: besiyerleri
+Dışkı kültürü üç aşamalıdır: **çoğaltıcı (zenginleştirici) sıvı besiyeri → seçici-ayırt edici katı besiyeri → biyokimyasal ve antijenik testler**.
+| Besiyeri | Tür | Hedef |
+| **Selenit F**, **Tetrationatlı buyyon**, **Gram negatif broth** | çoğaltıcı sıvı | *Salmonella*, *Shigella* |
+| **Alkali peptonlu su (APS)** | çoğaltıcı sıvı | ***Vibrio*** (alkali sever) |
+| **MacConkey, EMB** | seçici-ayırt edici | laktoz ayrımı (laktoz − koloniler şüpheli) |
+| **SS agar, Hektoen (HE), XLD** | seçici-ayırt edici | *Salmonella*, *Shigella* |
+| **Bizmut sülfit agar** | seçici | özellikle ***S.* Typhi** |
+| **TCBS** | seçici | ***Vibrio*** (sarı/yeşil koloni) |
+| **Sorbitol MacConkey (SMAC)** | seçici-ayırt edici | **EHEC O157** (sorbitol negatif) |
+| **CIN agar** | seçici | ***Yersinia*** |
+| **Skirrow** | seçici | ***Campylobacter*** (42 °C) |
+|= Dışkı kültürü besiyerleri. Deoksikolat sitrat agar bir **katı** seçici besiyeridir, çoğaltıcı sıvı değildir.
+!! Çoğaltıcı (sıvı) besiyeri sorulduğunda **deoksikolat sitrat agar** yanlış şıktır: o katı, seçici-ayırt edici bir besiyeridir (2019-20 S45).
+**Kanlı dizanteri dışkısının ekileceği besiyerleri:** EMB/MacConkey, HE, SS, (EHEC için) SMAC, (*Campylobacter*) Skirrow, (*Yersinia*) CIN. **TCBS ve APS gerekmez** (onlar *Vibrio* içindir; kolera sulu, kansız ishaldir).
+
+## Biyokimyasal tanı ve TSI
+**Üç şekerli demirli besiyeri (TSI):** glukoz, laktoz, sükroz ve demir tuzu içerir; tüpün eğik (yatık) yüzü ve dibi ayrı değerlendirilir.
+- **Dip sarı:** glukoz fermente edilmiş (her Enterobacteriaceae).
+- **Yatık sarı:** laktoz/sükroz da fermente edilmiş (örn. *E. coli*). **Yatık kırmızı:** laktoz fermente edilmemiş (*Salmonella*, *Shigella*).
+- **Siyahlaşma:** H<sub>2</sub>S pozitif (*Salmonella*, *Proteus*). **Çatlama/kabarma:** gaz pozitif.
+| Etken | TSI dip | TSI yatık | H<sub>2</sub>S | Gaz | Hareket | Üreaz |
+| *E. coli* | sarı | sarı | − | + | + | − |
+| *S.* Typhi | sarı | kırmızı | **+ (az)** | **−** | + | − |
+| Tifo dışı *Salmonella* | sarı | kırmızı | + | + | + | − |
+| *Shigella* | sarı | kırmızı | **−** | **−** | **−** | − |
+| *Y. enterocolitica* | sarı | kırmızı | − | − | − (25°) | **+** |
+|= TSI ve ek testlerle ayrım. *S.* Typhi: H<sub>2</sub>S az (+), gaz yok. *Shigella*: H<sub>2</sub>S yok, gaz yok, hareketsiz. *Yersinia*: üreaz +.
+**Laboratuvar algoritması (sık sorulan vaka tipi):**
+- EMB/HE'de **laktoz negatif** koloni → *Salmonella* ya da *Shigella* şüphesi.
+- TSI **H<sub>2</sub>S pozitif**, üreaz negatif, hareketli → *Salmonella* (biyokimyasal + antijenik teste gidilir).
+- **Üreaz pozitif** → *Salmonella*/*Shigella* dışlanır (**Yersinia**/Proteus düşünülür); “*Salmonella*-*Shigella* üremedi” denir.
+- **Laktoz pozitif** koloni → *Salmonella*/*Shigella* değildir.
+?? ***S.* Paratyphi A H<sub>2</sub>S yapmaz** (TSI ve HE'de): “H<sub>2</sub>S pozitif koloni görülen hastada düşünmezsiniz” sorusunun cevabı *S.* Paratyphi A. *S.* Typhi az H<sub>2</sub>S yapar.
+*S. dysenteriae* TSI'de dip sarı, yatık kırmızı, **H<sub>2</sub>S negatif, gaz negatif**; katalaz pozitif, oksidaz negatif, hareketsiz, üreaz negatif (2022-23 S44, 2019-20 S49'da bu profil *Shigella dysenteriae* ile uyumludur).
+
+## Hızlı ayırıcı testler (sınav refleksi)
+| Test | Pozitif olan ishal etkeni |
+| **Oksidaz** | *Vibrio*, *Campylobacter*, *Aeromonas*, *Plesiomonas* (Enterobacteriaceae negatif) |
+| **Üreaz** | *Yersinia enterocolitica* (ishal etkenleri arasında) |
+| **Sitotoksin** | *Shigella dysenteriae* (Shiga), EHEC, *C. difficile* |
+| **Sorbitol negatif (SMAC)** | EHEC O157 |
+| **42 °C, hippurat +, martı kanadı** | *Campylobacter jejuni* |
+|= Tek testle etkene gitme. Oksidaz Enterobacteriaceae'yı dışlar; üreaz Yersinia'yı, SMAC EHEC'i gösterir.
+
+## Bölüm özeti
+- Enterobacteriaceae oksidaz negatif, glukozu fermente eder; *Vibrio*/*Campylobacter* oksidaz pozitif, *Clostridium* Gram pozitiftir.
+- *Salmonella*: O (polisakkarit, serogrup, IgM), H (protein, serotip, IgG), Vi (kapsül, taşıyıcılıkta antikor). Serotip ayrımı Vi ile değil O+H ile.
+- Tifo: M hücresi → Peyer → lenf → kan → organ → safra; 1. hafta kan/ilik, sonra dışkı/idrar/safra kültürü; endotoksin = lipid A.
+- EHEC O157: hamburger, kanlı ishal, HÜS, Shiga toksini, SMAC sorbitol negatif, antibiyotik verilmez.
+- *Yersinia*: üreaz +, soğukta ürer, psödoapandisit, transfüzyonla bulaşır, CIN agar. *Campylobacter*: oksidaz/katalaz +, 42 °C, martı kanadı, Skirrow.
+- TSI: *S.* Typhi H<sub>2</sub>S az/gaz yok; *Shigella* H<sub>2</sub>S yok/hareketsiz; *S.* Paratyphi A H<sub>2</sub>S yapmaz; üreaz + ise *Salmonella*/*Shigella* değil.

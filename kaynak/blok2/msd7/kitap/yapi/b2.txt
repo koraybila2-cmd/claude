@@ -1,0 +1,193 @@
+# Dehidratasyon ve Sıvı Tedavisi | Dehidratasyonun nedenleri, klinik bulgulara göre derecelendirme, ağızdan sıvı tedavisi (ORS) ve damar yolu tedavisinin izlenmesi. Bu bölümün soruları her yıl aynı kalıpla gelir (28 soru, 11 farklı soru), ama gönderilen sunumların hiçbirinde yer almaz; konu halk sağlığı ve çocuk sağlığı derslerinin anlatımına dayanır. || Bölüm 2 · Sıvı kaybı
+
+## Dehidratasyon neden olur?
+Dehidratasyon, vücuttan kaybedilen su ve elektrolitin alınandan fazla olmasıdır. Mantık basittir: ya **alım azalmıştır** ya da **kayıp artmıştır**. Çocuklar daha çabuk dehidrate olur: vücut ağırlığına göre su döngüleri erişkinin 2-3 katıdır, vücut yüzeyleri görece geniştir (deri ve solunumla kayıp fazla), böbrekleri idrarı yeterince yoğunlaştıramaz ve susadıklarını kendileri ifade edemez.
+| Mekanizma | Örnekler |
+| Yetersiz alım | emzirme ya da beslenme sorunu, kusma, bilinç bozukluğu, ağız içi yaralar |
+| Bağırsaktan kayıp | **akut gastroenterit** (en sık), kusma, fistül, dren |
+| Böbrekten kayıp | **böbrek solüt yükünde artma** (yüksek proteinli-tuzlu mama, hiperglisemide glukozüri: ozmotik diürez), **ADH miktarında azalma** (diabetes insipidus), diüretik, böbreğin yoğunlaştıramaması |
+| İnsensibl kayıp artışı | ateş, sıcak ortam, takipne (deri ve solunum yoluyla) |
+|= Dehidratasyonun nedenleri. Ters çevrilmiş şıklar dehidratasyon yapmaz.
+!! **Dehidratasyon etiyolojisinde yer almayanlar:** **ADH artışı** (ADH suyu geri emdirir, su tutulur; uygunsuz ADH sendromunda hiponatremi ve sıvı fazlalığı olur) ve **solüt yükte azalma** (idrar hacmini azaltır). Bu soru 6 kez geldi; cevap hep bu ters çevrilmiş ifadelerden biriydi.
+
+## Dehidratasyonun derecesi
+Ağırlık kaybının yüzdesi, dehidratasyonun derecesidir. Hastalık öncesi ağırlık çoğu zaman bilinmediği için derece klinik bulgulardan tahmin edilir. Bulgular sırayla belirir: önce susuzluk ve mukoza kuruluğu, sonra hücre dışı sıvı azaldıkça doku bulguları (turgor, göz ve fontanel), en sonda dolaşım bulguları (nabız, kan basıncı, periferik dolaşım, bilinç).
+| Bulgu | Hafif (%3-5) | Orta (%6-9) | Ağır (≥ %10) |
+| Genel durum, bilinç | iyi, uyanık | huzursuz, irritabl | letarjik, komatöz |
+| Susuzluk | hafif artmış | belirgin, istekli içer | belirgin artmış ya da içemez (koma) |
+| Kalp hızı, nabız | normal | artmış, nabız dolgunluğu azalmış | çok hızlı, zayıf ya da alınamaz |
+| Kan basıncı | normal | normal, ortostatik düşme | normal ya da **düşük** |
+| Deri turgoru | normal | azalmış | çok azalmış (deri kıvrımı > 2 sn) |
+| Fontanel, göz küreleri | normal | çökük | belirgin çökük |
+| Gözyaşı, ağız mukozası | var, nemli | azalmış, kuru | yok, çok kuru |
+| Ekstremiteler | sıcak | serin | soğuk, alacalı (*cutis marmorata*), kapiller dolum uzun |
+| İdrar | normal ya da hafif azalmış | azalmış | **< 0,5-1 ml/kg/saat**, anüri |
+|= Klinik bulgulara göre dehidratasyon derecesi. Hipotansiyon, soğuk-alacalı deri, bilinç bozukluğu ve oligüri birlikteyse ağır dehidratasyondur.
+?? **Ağır = “Dolaşım + Beyin + Böbrek”:** kan basıncı düşük ya da normal, soğuk alacalı deri (cutis marmorata), letarji-koma, idrar 0,5-1 ml/kg/saatin altında → **%10 ve üzeri**. Bu vaka sorusu 5 kez geldi; cevap hep “ağır dehidratasyon”.
+!! **Dehidratasyon derecesini belirlemede dışkının kıvamı kullanılmaz.** Susuzluk, bilinç, gözyaşı, turgor ve postural hipotansiyon kullanılır.
+
+## Ağızdan sıvı tedavisi (ORS)
+ORS, ince bağırsakta enfeksiyon sırasında bile çalışmaya devam eden **sodyum-glukoz kotransportunu (SGLT1)** kullanır. Sekretuvar ishalde cAMP, klor salgısını artırır ve sodyumun klorla birlikte emilimini baskılar; ama glukozla eşleşen sodyum emilimi bozulmaz. Bir molekül glukozla birlikte iki sodyum emilir, onları klor ve su izler. Bu yüzden doğru oranlarda glukoz ve tuz içeren bir sıvı, ishal sürerken bile bağırsaktan su emdirir. Glukozun fazla olması (meyve suyu, kola) ozmotik ishali artırır; tuzun fazla olması hipernatremi yapar. Bu nedenle **evde malzemeyle ORS hazırlamak doğru değildir**, hazır paketler kullanılır.
+| DSÖ düşük ozmolar ORS (1 litrede) | mmol/L |
+| Sodyum | 75 |
+| Klor | 65 |
+| Glukoz (susuz) | 75 |
+| Potasyum | 20 |
+| Sitrat | 10 |
+| Toplam ozmolarite | 245 mOsm/L |
+|= Günümüzde kullanılan düşük ozmolar ORS. Eski formül (NaCl 3,5 g, NaHCO<sub>3</sub> 2,5 g, KCl 1,5 g, glukoz 20 g; 311 mOsm/L) evde tartılarak hazırlanmaz.
+**Hazırlama:**
+1. Eller sabun ve suyla yıkanır.
+2. Temiz bir kaba **1 litre (yaklaşık 5 su bardağı) kaynamış ve soğumuş su** konur. Paket suya eklendikten sonra **kaynatılmaz**: kaynatma suyu buharlaştırıp karışımı yoğunlaştırır.
+3. Bir paket ORS tozu eklenir, temiz kaşıkla tamamen eriyene kadar karıştırılır.
+4. Kabın ağzı kapatılıp serin, temiz bir yerde saklanır; **24 saat sonra artan dökülür**, her gün taze hazırlanır.
+**Kimlere verilir:**
+- Bilinci açık, ağızdan aldığını yutabilen herkese.
+- **Yenidoğan dahil her yaşa**, düşük doğum ağırlıklılara da.
+- **Etiyolojiden bağımsız** tüm ishallere (kolera, viral, bakteriyel).
+- Serum sodyumu **115-165 mEq/L** arasındaki hipo- ve hipernatremilerde.
+- **Ateş kontrendikasyon değildir.**
+**Verilmez (damar yolu gerekir):** şok ve ağır dehidratasyonun ilk evresi, bilinç bozukluğu, ileus, sürekli ve şiddetli kusma, glukoz malabsorbsiyonu, çok hızlı devam eden kayıp.
+**Miktar:**
+- **Rehidratasyon evresi** (açığın kapatılması): hafif dehidratasyonda **50 ml/kg**, orta dehidratasyonda **100 ml/kg** ORS **4-6 saatte** içirilir.
+- **İdame evresi:** devam eden kayıplar her sulu dışkıdan sonra yerine konur (2 yaş altı 50-100 ml, 2-10 yaş 100-200 ml); beslenme ve emzirme kesilmez.
+- Dehidrate olmayan bebeğe **rehidratasyon için** ORS gerekmez; ishal devam ettikçe kayıpları önlemek için verilir.
+?? **ORS kuralları: “Kaynat-soğut-sonra ekle; 24 saatte dök; 50/100 ml/kg 4-6 saatte; Na 115-165; ateş engel değil; yenidoğana da.”**
+
+## Damar yolu tedavisinin izlenmesi
+Ağır dehidratasyonda damar yolundan izotonik sıvıyla (serum fizyolojik ya da Ringer laktat) başlanır, hasta içebilir hâle gelince ORS'ye geçilir. Tedavinin başarılı olduğu şunlardan anlaşılır: **vital bulgular stabil**, **fizyolojik oligüri kaybolmuş ve idrar dansitesi düşmüş**, ishal devam etse bile **kilo alımı var**, **metabolik asidoz düzelmiş**, BUN ve kreatinin normale dönmüş. Bunların hepsi birlikte değerlendirilir.
+
+## Bölüm özeti
+- Dehidratasyon etiyolojisi: alım azlığı, gastroenterit, solüt yükü artışı, ADH azalması, insensibl kayıp artışı. ADH artışı ve solüt yükü azalması dehidratasyon yapmaz.
+- Hipotansiyon, cutis marmorata, letarji-koma, oligüri → ağır dehidratasyon (≥ %10).
+- ORS: kaynamış-soğumuş 1 litre suya paket eklenir, kaynatılmaz, 24 saatte dökülür; evde formül hazırlanmaz.
+- ORS yenidoğan dahil herkese, her ishalde, Na 115-165 mEq/L aralığında verilir; ateş engel değildir.
+- Rehidratasyon: hafif 50, orta 100 ml/kg, 4-6 saatte.
+
+## Çıkmış sorular: Dehidratasyon ve Sıvı Tedavisi
+Bu bölümden 7 sınavda **28 soru** çıktı; bunlar **11 farklı soruya** karşılık geliyor ve **7 tanesi** birden fazla yıl soruldu. Her kartta sorunun en yeni hâli, sağ üstte kaç kez sorulduğu, kartın altında da çıktığı tüm sınavlar yazar. Rozeti koyu olanlar 3 ve daha fazla kez sorulmuş sorulardır.
+@QB Çıkmış sorular
+@Q 2025-26 S7 | 2 KEZ | Çıktığı sınavlar: 2025-26 S7 · 2023-24 S14
+@K Dehidratasyon etyolojisinde yer almayan aşağıdakilerden hangisidir?
+A) Akut gastroenterit
+B) Böbrek solüt yükünde artma
+C) İnsensibl kayıplarda (solunum ve deri yolu ile) artma
+D) ADH miktarında artma ✓
+E) Yetersiz sıvı alımı
+D doğru. ADH (antidiüretik hormon) toplayıcı kanallara akuaporin-2 yerleştirip suyu geri emdirir; artışı suyu **tutar**, dehidratasyon değil sıvı fazlalığı ve hiponatremi yapar.
+Akut gastroenterit (A) en sık nedendir. Böbrek solüt yükünün artması (B) ozmotik diürezle, insensibl kayıpların artması (C) ateş ve takipneyle, yetersiz sıvı alımı (E) doğrudan dehidratasyon yapar.
+@@
+@Q 2024-25 S12 | 1 KEZ | Çıktığı sınavlar: 2024-25 S12
+@K Dehidratasyon etiyolojisinde yer almayan aşağıdakilerden hangisidir?
+A) Akut gastroenterit
+B) Böbrek solüt yükünde artma
+C) İnsensibl kayıplarda (solunum ve deri yoluyla) ✓
+D) ADH miktarında azalma
+E) Yetersiz sıvı alımı
+@O Bu yılın kaydında C şıkkı “insensibl kayıplarda” diye eksik yazılmış; anahtar C. Asıl ifade büyük olasılıkla “insensibl kayıplarda azalma”dır. Aynı sorunun diğer yıllarında cevap ADH artışı ya da solüt yükünün azalmasıydı.
+C (anahtara göre). Bu soru her yıl aynı listeden gelir ve doğru şık her zaman “ters çevrilmiş” mekanizmadır. İnsensibl kayıpların **artması** dehidratasyon yapar; azalması yapmaz.
+Akut gastroenterit (A), böbrek solüt yükünün artması (B), ADH miktarının azalması (D; diabetes insipidus) ve yetersiz sıvı alımı (E) dehidratasyon nedenleridir.
+@@
+@Q 2021-22 S11 | 3 KEZ | Çıktığı sınavlar: 2021-22 S11 · 2020-21 S25 · 2019-20 S14
+@K Aşağıdakilerden hangisi dehidratasyon etiyolojisinde yer almaz?
+@A Solüt yükte azalma
+Cevap: solüt yükte azalma. Böbreğin atması gereken solüt (üre, sodyum, glukoz) arttıkça bu solütü taşıyacak idrar hacmi de artar; mamanın aşırı yoğun hazırlanması ya da glukozüri bebeği bu yolla dehidrate eder. Solüt yükünün azalması idrar hacmini düşürür ve su kazandırır.
+@@
+@Q 2025-26 S5 | 4 KEZ | Çıktığı sınavlar: 2025-26 S5 · 2022-23 S14 · 2021-22 S14 · 2019-20 S13
+@K Klinik Bulgular:**
+@K Kan basıncı normal veya azalmış
+@K Nabız dolgunluğu hafif azalmış
+@K Kalp hızı artmış
+@K Deri turgoru azalmış
+@K Fontanel çökük
+@K Ağız mukozası kuru
+@K Göz küreleri çökük
+@K Ekstremiteler soğuk, rengi dalgalı (*cutis marmaratus*)
+@K Mental durum normal, letarjik veya komatöz
+@K İdrar çıkımı 0,5-1 ml/kg/saatin çok altında
+@K Susuzluk hissi belirgin artmış veya koma
+@K Yukarıdaki klinik bulgulara göre aşağıdakilerden hangisi doğrudur?
+A) Bu hastada dehidratasyon yoktur.
+B) Bu klinik bulgularla dehidratasyon düzeyi saptanamaz.
+C) %3-5, hafif dehidratasyon.
+D) %6-9, orta dehidratasyon.
+E) %10 ve üzeri, ağır dehidratasyon. ✓
+E doğru. Tablodaki bulgular dolaşımın bozulduğunu gösterir: kan basıncı normal ya da düşük, nabız dolgunluğu azalmış, ekstremiteler soğuk ve alacalı (*cutis marmorata*), bilinç letarjik ya da komatöz ve idrar 0,5-1 ml/kg/saatin çok altında. Doku bulguları (turgor azalması, çökük fontanel ve göz, kuru mukoza) da eşlik eder. Bu tablo **%10 ve üzeri, ağır dehidratasyondur** ve damar yolu tedavisi gerektirir.
+Hafif dehidratasyonda (%3-5) yalnız susuzluk ve hafif mukoza kuruluğu, orta dehidratasyonda (%6-9) taşikardi, turgor azalması ve çökük göz-fontanel vardır ama dolaşım ve bilinç korunur.
+@@
+@Q 2024-25 S13 | 1 KEZ | Çıktığı sınavlar: 2024-25 S13
+@K Meşhur "%10 ve üzeri ağır dehidratasyon" cevabı olan soru.
+@A %10 ve üzeri, ağır dehidratasyon
+@O Bu yılın kaydında soru metni yok; öğrenci notu “meşhur %10 ve üzeri ağır dehidratasyon cevabı olan soru” diyor. Bir önceki kartla aynı vaka.
+Cevap: %10 ve üzeri, ağır dehidratasyon. Bir önceki karttaki bulgu listesinin aynısıdır; dolaşım bozukluğu, bilinç değişikliği ve oligüri birlikte olduğunda derece ağırdır.
+@@
+@Q 2021-22 S10 | 1 KEZ | Çıktığı sınavlar: 2021-22 S10
+@K Aşağıdakilerden hangisi ishalli hastada dehidratasyon derecesini belirten etkenlerden biri değildir?
+@K 1- Susamışlık hissi
+@K 2- Bilinç durumu
+@K 3- Gaita kıvamı
+@K 4- Gözyaşı varlığı yokluğu
+@K 5- Postural hipotansiyon
+@A Sadece 3
+Cevap: yalnız 3 (gaita kıvamı). Dışkının kıvamı ishalin tipini gösterir, kaybın ne kadar olduğunu göstermez. Dehidratasyonun derecesi vücuttan kaybolan sıvının vücut üzerindeki etkileriyle ölçülür: susuzluk hissi, bilinç durumu, gözyaşının varlığı, deri turgoru, göz ve fontanel, nabız ve postural hipotansiyon, idrar miktarı.
+@@
+@Q 2025-26 S6 | 3 KEZ | Çıktığı sınavlar: 2025-26 S6 · 2024-25 S11 · 2023-24 S13
+@K ORS hazırlanırken ve hastaya verilirken izlenen aşağıdaki basamaklardan hatalı olan hangisidir?
+A) ORS hazırlamadan önce ellerin temizliği sağlanmalıdır.
+B) Sulandırılmaya hazır paketler sağlık kurumlarından ya da eczanelerden temin edilir.
+C) Hazır ORS paketi 1 litre soğuk suya ilave edilerek su 10 dakika kaynatılır. ✓
+D) ORS karışımı günlük taze olarak hazırlanır ve artan dökülür.
+E) ORS dehidratasyon tedavisinin hem rehidratasyon hem de devam eden kayıpların yerine konmasında kullanılır.
+@O Diğer yıllarda doğru cevap: 2024-25 S11: **Hazır ORS paketi 1 litre suya ilave edilerek su kaynayana kadar ısıtılır.**; 2023-24 S13: **3. aşama hatalıdır**.
+C yanlıştır. Su önce kaynatılıp soğutulur, ORS tozu soğumuş suya eklenir. Tozu ekleyip kaynatmak suyun bir kısmını buharlaştırır, karışımı yoğunlaştırır ve hipernatremi riski doğurur; glukoz da kaynatmayla bozulabilir.
+Eller yıkanır (A), hazır paketler sağlık kurumu ve eczaneden alınır (B), karışım günlük taze hazırlanıp artan dökülür (D) ve ORS hem rehidratasyon hem de devam eden kayıpların karşılanmasında kullanılır (E).
+@@
+@Q 2022-23 S11 | 1 KEZ | Çıktığı sınavlar: 2022-23 S11
+@K ORS (ağızdan sıvı tedavisi) hazırlanması ile ilgili aşağıdakilerden hangisi yanlıştır?
+A) Hazırlık öncesi eller sabun ve su ile iyice yıkanmalıdır.
+B) Evde bulunan materyallerden 3,5 gr NaCl, 2,5 gr NaHCO_3, 1,5 gr KCl ve 20 gr Glukoz konularak karışım hazırlanmalıdır. ✓
+C) Temiz bir kaba 1 litre (yaklaşık 5 su bardağı) kaynamış soğumuş su konmalı, 1 paket ORS tozu içine konarak temiz bir kaşıkla iyice eriyene kadar karıştırılmalıdır.
+D) Kabın ağzı kapatılarak temiz ve serin bir yere konmalıdır.
+E) 24 saat sonra kalan dökülmeli, tazesi tekrar hazırlanmalıdır.
+B yanlıştır. Şıktaki formül eski DSÖ ORS'sidir (NaCl 3,5 g, NaHCO<sub>3</sub> 2,5 g, KCl 1,5 g, glukoz 20 g). Evde tartı ve saf madde olmadığı için oranlar kaçar; fazla tuz hipernatremi, fazla şeker ozmotik ishal yapar. Bu yüzden hazır paket kullanılır.
+Eller yıkanır (A), 1 litre (yaklaşık 5 su bardağı) kaynamış soğumuş suya bir paket eklenip karıştırılır (C), kabın ağzı kapatılıp serin yerde saklanır (D), 24 saat sonra artan dökülür (E).
+@@
+@Q 2024-25 S14 | 6 KEZ | Çıktığı sınavlar: 2024-25 S14 · 2023-24 S12 · 2022-23 S12 · 2021-22 S13 · 2020-21 S47 · 2019-20 S11
+@K Dehidratasyon tedavisi ile ilgili olarak aşağıdakilerden hangisi(leri) doğrudur?
+@K 1- Evde bulunabilecek malzemeyi kullanarak oral rehidratasyon sıvısı (ORS) hazırlamak doğru bir yaklaşımdır.
+@K 2- Orta derecede dehidratasyonu olan çocuğun tedavisinin rehidrasyon evresinde 100 ml/kg ORS 4-6 saatte içirilir.
+@K 3- Dehidrate olmayan bebeğe de rehidrasyon için ORS verilmesi gerekmez.
+A) Sadece 1 ve 2
+B) Sadece 1
+C) Sadece 1 ve 3
+D) Sadece 2 ve 3 ✓
+E) Hepsi
+@O Diğer yıllarda doğru cevap: 2022-23 S12: **Sadece I-II**; 2021-22 S13: **Sadece 1-2**; 2020-21 S47: **Sadece 1-2**; 2019-20 S11: **Sadece 1-2**. Önermeler yıllara göre ters çevriliyor: 2022-23, 2021-22, 2020-21 ve 2019-20'de 1. önerme “evde ORS hazırlamak doğru DEĞİLDİR”, 3. önerme “dehidrate olmayan bebeğe de ORS verilmesi GEREKİR” biçimindeydi; bu yüzden o yıllarda cevap “1 ve 2” oldu. Bilgi aynı.
+D doğru (2 ve 3). Orta derecede dehidratasyonda rehidratasyon evresinde **100 ml/kg** ORS 4-6 saatte içirilir (hafifte 50 ml/kg). Dehidrate olmayan bebekte kapatılacak bir açık yoktur, rehidratasyon için ORS gerekmez; ishal sürerse her dışkıdan sonra kayıp kadar sıvı verilir.
+1. önerme yanlıştır: evdeki malzemeyle oranlar doğru tutturulamaz, hazır paket kullanılır.
+@@
+@Q 2023-24 S11 | 4 KEZ | Çıktığı sınavlar: 2023-24 S11 · 2022-23 S13 · 2020-21 S20 · 2019-20 S12
+@K Ağızdan sıvı tedavisi (ORS) kimlere uygulanmalıdır?
+@K I- ORS, bilinci açık-ağızdan aldığını yutabilen herkese verilebilir.
+@K II- Ateş ORS için kontrendikasyondur, ateşli çocuğa ORS verilmemelidir.
+@K III- Yenidoğan dahil her yaş grubuna (düşük doğum ağırlığı da) verilebilir.
+@K IV- Etyoloji gözetmeksizin tüm ishallere verilebilir.
+@K V- Serum Na^+ değeri 115-165 mEq/L arasındaki hiponatremi-hipernatremilerde verilebilir.
+A) Sadece I
+B) Sadece I-II
+C) Sadece I-III-IV-V ✓
+D) Sadece I-II-III-IV
+E) Sadece I-II-IV-V
+@O Diğer yıllarda doğru cevap: 2022-23 S13: **I-III-IV-V**; 2020-21 S20: **I-III-IV-V**; 2019-20 S12: **I-III-IV-V**.
+C doğru (I, III, IV, V). Sodyum-glukoz kotransportu her yaşta ve her ishal tipinde çalıştığı için ORS bilinci açık ve yutabilen herkese, **yenidoğan ve düşük doğum ağırlıklı bebek dahil**, etiyolojiye bakılmaksızın verilir. Serum sodyumu 115-165 mEq/L arasındaysa ORS ile güvenle düzeltilir.
+II yanlıştır: **ateş ORS için kontrendikasyon değildir**, aksine ateş insensibl kaybı artırdığı için sıvı ihtiyacını yükseltir.
+@@
+@Q 2021-22 S12 | 2 KEZ | Çıktığı sınavlar: 2021-22 S12 · 2020-21 S7
+@K Aşağıdaki bulgulardan hangisi parenteral sıvı tedavisinde başarılı olduğumuzu gösterir?
+A) Diyare devam etmesine rağmen kilo alımı varsa
+B) Hepsi ✓
+C) Fizyolojik oligüri kaybolmuş ve idrar dansitesi düşmüş ise
+D) Sıvı replasmanı ile birlikte metabolik asidoz düzelmiş ve BUN ve kreatinin takibi normal ise
+E) Vital fonksiyonları stabil ise
+B doğru (hepsi). Rehidratasyon başarılıysa dolaşım düzelir (vital bulgular stabil), böbrek perfüzyonu yerine geldiği için böbrek suyu tutmayı bırakır (fizyolojik oligüri kaybolur, idrar dansitesi düşer), doku perfüzyonu düzelince laktik asidoz geriler, prerenal azotemi düzelir (BUN, kreatinin normal) ve ishal sürse de alınan sıvı kaybı aştığı için kilo artar.
+@@

@@ -1,0 +1,201 @@
+=== 2024-25-30
+E: Kollajenaz-nöraminidaz ile mukozaya penetrasyon, dar ağızlı (şişe) ülser, nötrofil lizisi → E. histolytica.
+E doğru. Dokuyu eriten enzimler (kollajenaz, nöraminidaz), submukozada **dar ağızlı (şişe/matara) ülser** ve nötrofillerin histolitik enzimlerle lizise uğratılması *Entamoeba histolytica*'nın virülans özellikleridir. (2022-23 ve 2020-21 varyantlarında şık harfi değişse de etken hep *E. histolytica*'dır.)
+*Iodamoeba* (A), *Endolimax* (D) apatojendir; *Dientamoeba* (B) doku invazyonu yapmaz; *Naegleria* (C) beyin enfeksiyonu (amipli meningoensefalit) yapar, bağırsak değil.
+
+=== 2025-26-34
+E: E. histolytica karaciğer absesi ERKEKTE daha sık (kadında değil); şişe ülser, penetrasyon, peritonit doğru.
+C doğru (yanlış ifade). Amip karaciğer absesi **erkeklerde** daha sıktır; “kadınlarda daha sık” yanlıştır.
+Şişe tarzı dar ağızlı ülserler (A), kolon mukozasına penetrasyon (B), peritonit gelişebilmesi (D) ve en sık bağırsak dışı tutulumun karaciğer absesi olması (E) doğrudur.
+
+=== 2025-26-28
+E: E. histolytica'da en sık klinik tablo: asemptomatik enfeksiyon.
+E doğru. *E. histolytica* ile enfekte olanların çoğu **belirtisizdir**; yalnız bir azınlıkta amipli dizanteri ya da bağırsak dışı tutulum gelişir.
+Amipli dizanteri (A), fulminan kolit (B), ameboma (C) ve toksik megakolon (D) daha seyrek görülen belirtili tablolardır.
+
+=== 2019-20-36
+E: E. histolytica bulaştırıcılığı en çok asemptomatik (kist taşıyan) kişilerde.
+A doğru. **Asemptomatik enfeksiyonlular** katı dışkılarıyla dayanıklı **kist** attıkları için bulaşı en çok onlar sürdürür. Dizanterili hastanın sulu dışkısındaki trofozoitler dış ortamda çabucak ölür ve bulaştırıcı değildir.
+
+=== 2025-26-22
+E: E. histolytica taşıyıcısının dışkısında KİST bulunur (trofozoit değil); trofozoit dizanteride görülür.
+D doğru (yanlış ifade). İfade tersine çevrilmiştir: **taşıyıcıların dışkısında kist bulunur**, trofozoit değil. Trofozoit belirtili (dizanterik) dönemde görülür.
+Dışkı mikroskobisinin en sık yöntem olması (A), kistin dört çekirdekli olması (B), trofozoitin alyuvar içermesi (C) ve Charcot-Leyden kristallerinin görülebilmesi (E) doğrudur.
+
+=== 2023-24-34
+E: E. histolytica trofozoiti çevreye DAYANIKSIZDIR; dayanıklı olan kisttir.
+A doğru (yanlış ifade). Trofozoit çevre koşullarına **duyarlıdır**, dış ortamda çabuk ölür; çevreye dayanıklı ve bulaştırıcı olan **kist**tir.
+Doku formunun dokuyu eritip vakuolünde alyuvar taşıması (B), lümen formunun küçük olup vakuolünde bakteri bulundurması (C), ara konağının olmaması (D) ve bulaşın olgun kistle fekal-oral yolla olması (E) doğrudur.
+
+=== 2023-24-32
+E: E. histolytica'ya çok benzeyen, enfeksiyonların %90'ını oluşturan apatojen tür: E. dispar.
+C doğru. **Entamoeba dispar** *E. histolytica* ile mikroskopik olarak ayırt edilemez ama apatojendir; eski WHO verilerindeki enfeksiyonların çoğunun aslında bu tür olduğu anlaşılmıştır.
+*E. gingivalis* (A) ağızda bulunur; *E. coli* (B) apatojendir ama histolytica'ya benzemez; *E. moshkovskii* (D) ve *E. invadens* (E) bu soruda beklenen tür değildir.
+
+=== 2019-20-35
+E: E. histolytica ile çapraz reaksiyon veren, mikroskopide çok benzeyen: E. dispar.
+C doğru. **E. dispar** *E. histolytica* ile morfolojik olarak aynıdır ve serolojik testlerde **çapraz reaksiyon** verir; ayrımı antijen ya da PCR ile yapılır.
+
+=== 2022-23-31
+E: Apatojen amip: Entamoeba dispar.
+C doğru. **Entamoeba dispar** apatojendir; *E. histolytica*'ya benzese de hastalık yapmaz.
+*Acanthamoeba* (A), *Naegleria* (B), *Hartmanella* (D) ve *Balamuthia* (E) serbest yaşayan, merkezi sinir sistemi/korneayı tutan patojen amiplerdir.
+
+=== 2021-22-36
+E: Apatojen olduğu hâlde E. histolytica sanılıp yanlış pozitif değerlendirilen: E. dispar.
+Cevap: *Entamoeba dispar*. Mikroskopik olarak *E. histolytica*'nın tıpatıp benzeri olduğu için apatojen *E. dispar* yanlışlıkla pozitif (patojen) değerlendirilebilir.
+
+=== 2025-26-23
+E: En sık rastlanan amip: Entamoeba coli (apatojen).
+B doğru. **Entamoeba coli** bağırsakta en sık rastlanan amiptir ve apatojendir; dışkıda görülmesi tedavi gerektirmez.
+*E. histolytica* (A) patojen ama daha seyrektir; *E. hartmanni* (C), *E. polecki* (D) ve *Endolimax nana* (E) daha az rastlanan apatojenlerdir.
+
+=== 2020-21-30
+E: Kisti sekiz çekirdekli olan amip: Entamoeba coli (E. histolytica dört çekirdekli).
+E doğru. **Entamoeba coli** kisti olgunlaştığında **sekiz çekirdeklidir**; bu, onu dört çekirdekli *E. histolytica*'dan ayırır.
+*E. dispar* (A), *E. hartmanni* (B), *E. moshkovskii* (C) ve *E. histolytica* (D) kisti dört çekirdeklidir.
+
+=== 2025-26-24
+E: Gövdesinde spiral yarık olan, ishal yapması beklenmeyen apatojen kamçılı: Chilomastix mesnili.
+B doğru. **Chilomastix mesnili** gövdesi boyunca uzanan spiral yarığı (sitostom) olan kamçılı bir protozoondur ve **apatojendir**; ishal yapması beklenmez.
+*Dientamoeba fragilis* (A), *Cystoisospora belli* (C), *Giardia* (D) ve *E. histolytica* (E) patojendir ve ishal yapar.
+
+=== 2021-22-30
+E: İnsanda enfeksiyon yapmayan non-patojen protozoon: Chilomastix mesnili.
+Cevap: *Chilomastix mesnili*. Bağırsakta bulunabilen ama hastalık yapmayan apatojen kamçılı protozoondur.
+
+=== 2019-20-33
+E: Bağırsak yerleşimli OLMAYAN (ya da apatojen, hastalık yapmayan) olarak sorulan: Chilomastix mesnili.
+C doğru. Diğer şıklar (patojen bağırsak protozoonları) ishal yaparken **Chilomastix mesnili** apatojendir; soru bağlamında “bağırsakta hastalık yapan yerleşimli” olmayan odur.
+*E. histolytica* (A), *Dientamoeba* (B), *Balantidium* (D) ve *Isospora* (E) patojen bağırsak protozoonlarıdır.
+
+=== 2025-26-29
+E: Kirpikli (silli) protozoon: Balantidium coli.
+E doğru. **Balantidium coli** insanda hastalık yapan **tek kirpikli (silli)** protozoondur; yüzeyi kirpiklerle kaplıdır.
+*E. histolytica* (A) ve *E. hartmanni* (B) amip (yalancı ayak); *Leishmania* (C) ve *Giardia* (D) kamçılıdır.
+
+=== 2019-20-31
+E: Domuzdan bulaşan, dizanteri-peritonit yapan kirpikli protozoon: Balantidium coli.
+D doğru. **Balantidium coli** domuzdan bulaşır; basit ishalden şiddetli dizanteriye, kolon ülseri ve peritonite kadar giden tablo yapar (en büyük insan protozoonu, tek patojen kirpikli).
+*T. solium* (A) bir sestod (helmint); *E. coli* (B), *Endolimax* (C) ve *Iodamoeba* (E) apatojen amiplerdir.
+
+=== 2025-26-31
+E: AIDS + geçmeyen ishal + Kinyoun ARB'de kırmızı ookist → Cryptosporidium parvum.
+A doğru. Bağışıklığı baskılı hastada (AIDS) uzun süren sulu ishal ve dışkıda **aside dirençli boyamayla kırmızı ookist** klasik **Cryptosporidium parvum** tablosudur.
+*Balantidium* (B) kirpiklidir, ARB boyanmaz; *Toxoplasma* (C) dışkıda bu şekilde aranmaz; *Giardia* (D) kamçılıdır; *E. histolytica* (E) ARB boyanmaz.
+
+=== 2025-26-38
+E: Gaytada aside dirençli (ARB) boyamayla tanınan: Cyclospora cayetanensis (ve Crypto, Isospora).
+D doğru. **Cyclospora cayetanensis** aside dirençli sporozoondur; dışkıda Kinyoun/modifiye ARB boyamayla kırmızı ookist olarak görülür (ayrıca UV'de otofloresan verir).
+*Paragonimus* (A) ve *Schistosoma* (C) helmintlerdir, yumurtalarıyla tanınır; *E. histolytica* (B) ARB boyanmaz; *Cystoisospora belli* (E) de ARB ile boyanır ama bu soruda beklenen yanıt *Cyclospora*'dır (tek doğru şık odur).
+
+=== 2023-24-35
+E: Cryptosporidium tanısı: dışkıdan Kinyoun (ARB) boyama.
+A doğru. *Cryptosporidium* ookistleri en sık **dışkıdan Kinyoun aside dirençli boyama** ile gösterilir.
+Duodenum tubajı (B) *Giardia*/*Strongyloides* için; direkt mikroskobi (C) küçük ookistleri kaçırır; kültür (D) protozoonlarda kullanılmaz; floresan (E) alternatif olabilir ama en sık yöntem ARB'dir.
+
+=== 2019-20-30
+E: Cryptosporidium tanısında dışkı yaymasına ARB uygulanır.
+B doğru. *Cryptosporidium parvum* ookistleri dışkı yaymasında **aside dirençli boyama** ile gösterilir.
+String testi (A) *Giardia* için; Gram boyama (C) protozoon ookistini göstermez; safrada erime (D) pnömokok testidir; anaerop kültür (E) protozoonda kullanılmaz.
+
+=== 2022-23-33
+E: Kinyoun ARB ile boyanan sporozoon: Isospora (Cystoisospora) belli.
+A doğru. **Cystoisospora (Isospora) belli** aside dirençli boyanan bir sporozoondur; büyük, elipsoid, sporokistli ookisti vardır.
+*Endolimax* (B), *E. coli* (D) apatojen amip; *Giardia* (C) kamçılı; *Dientamoeba* (E) kamçılı olup ARB boyanmaz.
+
+=== 2021-22-31
+E: ARB'de ~25×15 µm, ovoid, sporokistli ookist → Isospora (Cystoisospora) belli.
+D doğru. Büyük (~25×15 µm), ovoid, içinde sporokist ve ookist bulunan aside dirençli yapı **Cystoisospora belli**'ye özgüdür (sporozoonların en büyük ookisti).
+*Encephalitozoon* (A) mikrosporidiumdur; *Endolimax* (B), *E. coli* (E) amip; *Giardia* (C) kamçılıdır.
+
+=== 2022-23-30
+E: İntrasellüler ama ekstrasitoplazmik yerleşen: Cryptosporidium.
+E doğru. **Cryptosporidium** bağırsak epitel hücresinin zarının hemen altına, ama sitoplazmanın dışına yerleşir (**intrasellüler-ekstrasitoplazmik**); bu, onu konak savunmasından korur.
+*Toxoplasma* (A), *Cyclospora* (B), *Isospora* (C) ve *Sarcocystis* (D) hücre içinde sitoplazma içinde yerleşir.
+
+=== 2020-21-19
+E: Koksidian parazitlerden intrasellüler-ekstrasitoplazmik olan: Cryptosporidium parvum.
+D doğru. Aynı ayırt edici özellik: **Cryptosporidium parvum** intrasellüler ama ekstrasitoplazmik yerleşir.
+*Sarcocystis* (A), *Isospora* (B), *Toxoplasma* (C) ve *Cyclospora* (E) sitoplazma içine yerleşir.
+
+=== 2021-22-32
+E: Lümen epitel zarının hemen altında yerleşip savunmadan korunan: Cryptosporidium parvum.
+Cevap: *Cryptosporidium parvum*. Epitel hücre zarının hemen altında (intrasellüler-ekstrasitoplazmik) yerleşir ve konak savunmasından böyle korunur.
+
+=== 2019-20-32
+E: Cryptosporidium makrofajla derin dokuya yayılıp sistemik tutulum YAPMAZ; yüzeyde kalır.
+D doğru (yanlış ifade). *Cryptosporidium* bağırsak epitelinin yüzeyinde kalır; **makrofajlarla derin dokulara yayılıp sistemik tutulum yapmaz**.
+AIDS'te ishalin önde gelen etkeni olması (A), hücresel bağışıklık yetmezliğinde fulminan ishal yapması (B), ookistteki sporozoitlerin oral alımla evrimini tamamlaması (C) ve intrasellüler-ekstrasitoplazmik yerleşim (E) doğrudur.
+
+=== 2019-20-37
+E: Havuz dezenfeksiyonu bozulunca tek kaynaklı salgın yapan protozoon: Cryptosporidium parvum.
+E doğru. *Cryptosporidium* ookistleri **klora dayanıklıdır**; yüzme havuzu dezenfeksiyonu yetersiz kaldığında tek kaynaklı gastroenterit salgınları yapar.
+*C. difficile* (A), *Actinomyces* (B), *Trichinella* (C) ve *Burkholderia* (D) bu su kaynaklı salgın tablosunun etkeni değildir.
+
+=== 2023-24-31
+E: Böbrek nakli (bağışıklığı baskılı) hastada en sık ishal protozoonu: Cyclospora cayetanensis.
+D doğru. Organ nakli alıcısı gibi bağışıklığı baskılı hastada ishal yapan protozoonların başında **Cyclospora** (ve *Cryptosporidium*) gelir.
+*Strongyloides* (A) bir helminttir; *E. histolytica* (B) ve *Giardia* (C) bağışıklığı baskılı hastaya özgü değildir; *Toxoplasma* (E) ishalden çok ensefalit yapar.
+
+=== 2023-24-33
+E: Sporozoa (Apicomplexa) DEĞİL: Strongyloides stercoralis (nematod/helmint).
+E doğru. *Strongyloides stercoralis* bir **nematoddur** (yuvarlak solucan, helmint); sporozoa değildir.
+*Cystoisospora* (A), *Toxoplasma* (B), *Cyclospora* (C) ve *Cryptosporidium* (D) Apicomplexa (sporozoa) üyesidir.
+
+=== 2023-24-30
+E: Giardia nativ incelemede trofozoit (sulu dışkı) ve kist (katı dışkı) olarak görülür.
+B doğru. *Giardia intestinalis* dışkıda **trofozoit ve kist** formunda görülür: akut sulu dışkıda hareketli trofozoit, şekilli (asemptomatik) dışkıda kist bulunur.
+Larva, yumurta ve erişkin (A, C, D, E) helmintlere ait formlardır; *Giardia* bir protozoondur.
+
+=== 2021-22-34
+E: Yağlı dışkı (steatore) + kamçılı, dut yaprağı tek hücreli → Giardia intestinalis.
+Cevap: *Giardia intestinalis*. Kamçılarıyla hareket eden, **dut yaprağı (armut)** biçimli trofozoit ve yağlı-köpüklü dışkı (steatore) *Giardia*'yı tanımlar; duodenuma emici diskiyle tutunup yağ emilimini bozar.
+
+=== 2022-23-34
+E: String test (ipli kapsül) ile tanınan: Giardia intestinalis.
+C doğru. **String test (enterotest)**, yutulan ipli kapsülle duodenumdan örnek alıp *Giardia* trofozoitlerini göstermeye yarar.
+*Isospora* (A), *Endolimax* (B), *E. coli* (D) ve *Encephalitozoon* (E) bu yöntemle tanınmaz.
+
+=== 2020-21-38
+E: Emici diskiyle mukozaya tutunan protozoon: Giardia intestinalis.
+A doğru. *Giardia intestinalis* **emici (vantuz) diskiyle** duodenum mukozasına tutunur; bu, villusları zedeleyip yağ emilimini bozar.
+*E. histolytica* (B) enzimle penetre olur; *Acanthamoeba* (C) serbest yaşar; mikrosporidia (D) hücre içine girer; *Trichomonas tenax* (E) ağız protozoonudur.
+
+=== 2019-20-34
+E: Giardia karaciğere yerleşip bağırsak dışı kronik enfeksiyon YAPMAZ (yağ malabsorbsiyonu, vitamin eksikliği, kolesistit yapar).
+E doğru (yanlış ifade). *Giardia* duodenum-safra yollarını tutsa da **karaciğere yerleşip bağırsak dışı kronik enfeksiyon yapmaz**; bu özellik *E. histolytica* ya da *Fasciola*'ya aittir.
+Duodenal yerleşimle yağ emiliminin bozulup sağ hipokondrium ağrısı ve yağlı dışkı yapması (A), kronikte yağda çözünen vitamin (A, D, E, K) eksikliği (B), kolesistit-pankreatit yapabilmesi (C) ve kolona inen trofozoitin kiste dönüşüp dışkıda çoğunlukla kist görülmesi (D) doğrudur.
+
+=== 2022-23-32
+E: Kist formu OLMAYAN (gaitada kist görülmeyen) protozoon: Dientamoeba fragilis.
+C doğru. **Dientamoeba fragilis**'in **kist formu yoktur**; dışkıda yalnız trofozoit görülür, bu yüzden taze incelenmelidir.
+*E. histolytica* (A), *E. coli* (B), *Endolimax nana* (D) ve *Iodamoeba butschlii* (E) kist oluşturur.
+
+=== 2020-21-22
+E: Kist formu bulunmayan protozoon: Dientamoeba fragilis.
+C doğru. **Dientamoeba fragilis** kist yapmaz; yalnız trofozoit formunda bulunur.
+*E. histolytica* (A), *Naegleria* (B; dış ortamda kist yapar), *Endolimax* (D) ve *Iodamoeba* (E) kist oluşturur.
+
+=== 2022-23-36
+E: İshal etkeni OLARAK değerlendirilmeyen protozoon: Trichomonas (hominis apatojendir / tenax ağızda).
+D doğru. **Trichomonas** (hominis) bağırsakta apatojendir, ishal etkeni sayılmaz.
+*Cryptosporidium* (A), *Isospora* (B), *Giardia* (C) ve *Cyclospora* (E) patojen ishal etkenleridir.
+
+=== 2021-22-35
+E: Akut ishal yapmayan apatojen kamçılı: Trichomonas hominis.
+Cevap: *Trichomonas hominis*. Bağırsakta bulunabilen apatojen kamçılıdır; akut ishal tablosuna yol açmaz.
+
+=== 2020-21-18
+E: Keratit, üveit ve korneal ülser yapan (mikrosporidium): Vittaforma (korneae).
+C doğru. **Vittaforma corneae** bir mikrosporidiumdur; göz tutulumu (keratit, üveit, korneal ülser) yapar. (Soru “sporozoon” dese de kastedilen göz tutan mikrosporidiumdur.)
+*Acanthamoeba* (A) ve *Balamuthia* (B) serbest yaşayan amiplerdir (Acanthamoeba keratiti ayrı bir tablodur); *Chilomastix* (D) apatojen bağırsak protozoonu; *E. histolytica* (E) göz yapmaz.
+
+=== 2023-24-36
+E: Bildirimi zorunlu GİS yerleşimli protozoon enfeksiyonları Grup D'de.
+A doğru. Bulaşıcı hastalıkların ihbar sınıflamasında GİS yerleşimli protozoon enfeksiyonları (amibiyaz, giardiyaz vb.) **Grup D**'de yer alır.
+
+=== 2019-20-2
+E: Alt kadran ağrısı + az-sık dışkı + bol eritrosit/az lökosit + kültür negatif → Entamoeba histolytica.
+D doğru. Dışkıda **bol eritrosit ama az lökosit** ve bakteri kültürünün negatif olması amipli koliti gösterir: *E. histolytica* dokuyu eritip kanama yapar ama histolitik enzimleriyle nötrofilleri de lizise uğrattığı için lökosit azdır.
+*Shigella* (A), *Campylobacter* (B), EIEC (C) ve *Yersinia* (E) bakteriyel invaziv ishal yapar; bunlarda dışkıda **bol lökosit** olur ve kültür pozitiftir.

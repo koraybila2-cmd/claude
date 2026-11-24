@@ -1,0 +1,40 @@
+=== 2025-26-1
+E: Kremalı pasta + 1 saatte kusma + ortak yiyen arkadaş → S. aureus (hazır enterotoksin).
+B doğru. Kremalı pasta stafilokokun en sevdiği besindir; elle hazırlanıp oda ısısında bekleyen üründe bakteri çoğalıp **ısıya dayanıklı enterotoksinini önceden üretir**. Toksin alınınca 1-6 saatte ani kusma başlar, ishal geri plandadır, ateş yoktur. Ortak yiyen arkadaşta da aynı tablonun olması ortak kaynaklı besin zehirlenmesini gösterir.
+Gaitadaki 8-10 lökosit bu tanıyı değiştirmez; stafilokok tipik olarak lökositsiz tablo yapar, buradaki az sayı belirleyici değildir. EIEC (A) ve *Shigella* (E) kanlı-iltihaplı ishal, uzun kuluçkayla; *C. perfringens* (C) 8-16 saatte ishal; *S.* Typhi (D) enterik ateş yapar.
+
+=== 2025-26-37
+E: Sekretuvar (enterotoksin) ishal yapan: B. cereus. İnvaziv olanlar (EIEC, Shigella, Campylobacter, Salmonella) değil.
+C doğru. *Bacillus cereus* enterotoksinleriyle bağırsakta su-elektrolit salgısını artırır; mukozaya invazyon yoktur, ishal **sekretuvar** tiptedir.
+EIEC (A), *Shigella sonnei* (B), *C. jejuni* (D) ve *S.* Typhimurium (E) mukozayı işgal eden, iltihaplı (dışkıda lökositli) ishal yapan etkenlerdir.
+
+=== 2024-25-49
+E: V. cholerae mide asidine DUYARLIDIR ve yüksek doz (~10⁸) gerekir; “100 bakteriyle kolera” yanlış.
+C yanlıştır. *V. cholerae* mide asidine **duyarlıdır**; asitten kurtulup bağırsağa canlı ulaşabilmesi için yaklaşık 10<sup>8</sup> gibi yüksek bir doz gerekir. Mide asidini azaltan durumlarda (aklorhidri, antiasit) bu doz düşer. “100 bakteriyle kolera gelişir” ifadesi düşük dozlu *Shigella* için geçerlidir, kolera için değil.
+Üremek için tuza gereksinim duyması (A), katalaz ve oksidaz pozitifliği (B), tek polar kamçıyla hareket (D) ve O1-O139 suşlarının kolera toksiniyle salgın yapması (E) doğrudur.
+
+=== 2023-24-45
+E: Aeromonas hydrophila tatlı su bakterisidir, halofilik değildir: %6 NaCl'de iyi üremez.
+E yanlıştır. *Aeromonas hydrophila* **tatlı su** kaynaklı bir bakteridir ve yüksek tuzu sevmez; %6 NaCl'li besiyerinde iyi üremez (bu özellik halofilik *Vibrio*'lara aittir).
+Fakültatif anaerop üremesi (A), oksidaz pozitifliği (B), hareketli Gram negatif basil olması (C) ve suyla temas eden yaralarda selülit yapması (D) doğrudur.
+
+=== 2023-24-50
+E: Hazır (önceden oluşmuş) toksinle gastroenterit YAPMAYAN: C. difficile (toksini bağırsakta üretir).
+C doğru. *Clostridium difficile* toksinlerini besinde önceden değil, **bağırsakta kolonize olup** orada üretir (A ve B toksinleri); bu yüzden “önceden oluşmuş toksin alınması” grubuna girmez. Hastalığı antibiyotikle florası bozulmuş kişide çoğalarak yapar.
+*C. perfringens* (A, E), *S. aureus* (B) ve *B. cereus* (D) besinde ya da besin yoluyla alınan hazır/erken salınan toksinlerle besin zehirlenmesi yapar.
+
+=== 2022-23-39
+E: Hem sekretuvar hem emetik toksini olan, ateşsiz, bol sulu, lökositsiz ishal → Bacillus cereus.
+D doğru. *B. cereus* iki toksin üretir: besinde hazır bulunan **emetik** toksin (kusma) ve bağırsakta salınan **sekretuvar (diyareik)** enterotoksin (sulu ishal). Mukozaya invazyon olmadığı için ateş ve dışkıda lökosit yoktur.
+*C. jejuni* (A), *C. difficile* (C) iltihaplı, lökositli ishal yapar; EPEC (B) bebek ishali etkenidir; *Entamoeba coli* (E) apatojen bir amiptir.
+
+=== 2022-23-47
+E: Buzdolabında (soğukta) üreyebilen, gastroenterit + septisemi + menenjit etkeni: Listeria monocytogenes.
+C doğru. *Listeria monocytogenes* **buzdolabı sıcaklığında üreyebilir**; pastörize edilmemiş süt-peynir ve hazır et ürünleriyle bulaşır. Sağlamda ateşli gastroenterit, gebe-yenidoğan-yaşlı-bağışıklığı baskılanmışta **sepsis ve menenjit** yapar.
+*C. jejuni* (A) ve *V. parahaemolyticus* (E) menenjit yapmaz; *V. cholerae* (B) sekretuvar ishal; *C. botulinum* (D) nörotoksinle gevşek felç yapar.
+
+=== 2021-22-40
+C: @Helicobacter pylori (tip 4 sekresyon sistemi)
+N: Kayıtta cevap “Vibrio cholera” yazılmış; bu büyük olasılıkla hatalı. Tip 4 sekresyon sistemini kullanan ve soru kalıbına uyan enteropatojen H. pylori'dir (CagA'yı tip 4 ile aktarır). V. cholerae toksinini tip 4 ile değil, reseptöre bağlanıp endositozla verir.
+E: Tip 3 sekresyon: Salmonella, Shigella, EPEC (invazyon). Tip 4 sekresyon: H. pylori (CagA).
+Cevap (doğrusu): *Helicobacter pylori*. Tip 4 sekresyon sistemi CagA proteinini mide epiteline enjekte eder. *Salmonella*, *Shigella* ve EPEC tip 3 sekresyon sistemiyle invazyon yapar; kolera toksini bir sekresyon sistemiyle değil, GM1 reseptörüne bağlanıp hücreye girerek etki eder.

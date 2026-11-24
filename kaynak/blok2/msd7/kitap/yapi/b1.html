@@ -1,0 +1,542 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title></title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --color-bg: #f3f2f2;
+    --color-text: #201e1d;
+    --color-accent: #0088b0;
+    --color-accent-700: color-mix(in oklch, #0088b0, black 35%);
+    --color-accent-900: color-mix(in oklch, #0088b0, black 55%);
+    --color-accent-2: #d6006c;
+    --color-accent-2-900: color-mix(in oklch, #d6006c, black 45%);
+    --color-neutral-700: #57534e;
+    --font-heading: "Source Serif 4", Georgia, "Times New Roman", serif;
+    --font-body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  }
+  @page { size: A4; margin: 24mm 20mm 24mm 20mm; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); }
+  a { color: var(--color-accent-700); }
+  .book-page { max-width: 100%; }
+  .book-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 16px 0; }
+  .book-title { font-family: var(--font-heading); font-size: 2.3rem; line-height: 1.15; font-weight: 700; margin: 0 0 12px 0; }
+  .book-byline { font-style: italic; color: var(--color-neutral-700); font-size: 0.92rem; margin: 0 0 40px 0; }
+  .book-section { margin: 0 0 32px 0; }
+  .book-h2 { font-family: var(--font-heading); font-size: 1.3rem; font-weight: 700; margin: 0 0 12px 0; break-after: avoid; }
+  .book-h3 { font-family: var(--font-heading); font-size: 1.08rem; font-weight: 700; margin: 18px 0 8px 0; break-after: avoid; }
+  .book-p { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; text-align: justify; hyphens: auto; }
+  .book-list { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; padding-left: 1.3em; }
+  .book-list li { margin-bottom: 5px; }
+  .tag { display: inline-block; font-size: 10.5px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 9px; border-radius: 2px; }
+  .tag-accent-2 { background: color-mix(in oklch, var(--color-accent-2) 14%, white); color: var(--color-accent-2-900); }
+  .highlight-tag { margin-bottom: 8px; break-inside: avoid; }
+  .highlight-p { font-size: 0.98rem; line-height: 1.65; color: var(--color-accent-2-900); margin: 0 0 12px 0; break-inside: avoid; }
+  .cite { font-style: italic; color: var(--color-neutral-700); }
+  table.table { width: 100%; border-collapse: collapse; font-size: 0.86rem; margin: 4px 0 16px 0; break-inside: avoid; }
+  table.table th { text-align: left; font-family: var(--font-heading); font-weight: 700; border-bottom: 1.5px solid var(--color-text); padding: 6px 10px 6px 0; }
+  table.table td { border-bottom: 1px solid color-mix(in oklch, var(--color-text) 15%, white); padding: 7px 10px 7px 0; vertical-align: top; }
+  .chart-figure { margin: 4px 0 16px 0; break-inside: avoid; }
+  .chart-caption { font-size: 0.82rem; color: var(--color-neutral-700); margin-top: 8px; font-style: italic; text-align: left; }
+  .qa-list { display: flex; flex-direction: column; gap: 14px; margin-top: 14px; }
+  .card { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 16px 20px; break-inside: avoid; }
+  .card-kicker { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 4px; }
+  .card-title { font-family: var(--font-heading); font-weight: 700; font-size: 1rem; margin-bottom: 8px; }
+  .card-body { font-size: 0.93rem; line-height: 1.6; }
+  .card-body p { margin: 0 0 8px 0; }
+  .card-body .opt-correct { color: var(--color-accent-700); font-weight: 700; }
+  .card-source { font-size: 0.8rem; font-style: italic; color: var(--color-neutral-700); margin-top: 8px; }
+  .card-dispute { font-size: 0.85rem; background: color-mix(in oklch, var(--color-accent-2) 8%, white); padding: 8px 12px; border-radius: 2px; margin-top: 8px; }
+  .chapter { break-before: page; }
+  .chapter-first { break-before: auto; }
+  .chapter-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 6px 0; }
+  .chapter-title { font-family: var(--font-heading); font-size: 1.75rem; line-height: 1.2; font-weight: 700; margin: 0 0 8px 0; break-after: avoid; }
+  .chapter-lead { font-style: italic; color: var(--color-neutral-700); font-size: 0.95rem; line-height: 1.6; margin: 0 0 26px 0; }
+  .book-h4 { font-family: var(--font-heading); font-size: 0.98rem; font-weight: 700; font-style: italic; margin: 14px 0 6px 0; break-after: avoid; }
+  ol.book-list { padding-left: 1.5em; }
+  .toc { list-style: none; padding: 0; margin: 0 0 12px 0; font-size: 0.98rem; line-height: 1.7; }
+  .toc li { margin: 0 0 4px 0; }
+  .toc .toc-sub { color: var(--color-neutral-700); font-size: 0.88rem; display: block; margin-left: 1.2em; }
+  .cover-note { font-size: 0.92rem; line-height: 1.6; color: var(--color-neutral-700); margin: 0 0 14px 0; }
+  .keybox { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 14px 18px; margin: 6px 0 16px 0; break-inside: avoid; }
+  .keybox-title { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 6px; font-weight: 700; }
+  .keybox ul { margin: 0; padding-left: 1.2em; font-size: 0.92rem; line-height: 1.6; }
+  .keybox li { margin-bottom: 3px; }
+  .card-title .opts { display: block; font-weight: 400; font-family: var(--font-body); font-size: 0.93rem; margin-top: 6px; line-height: 1.55; }
+  table.table.compact { font-size: 0.8rem; }
+  sub, sup { line-height: 0; }
+  @page { size: A4; margin: 22mm 20mm 20mm 20mm; background: #f3f2f2; }
+  .hl-block { break-inside: avoid; }
+  table.table.split { break-inside: auto; }
+  table.table.split tr { break-inside: avoid; }
+
+  /* --- Modul 5-6: cikmis soru odakli yapi --- */
+  .qblock { margin: 0 0 10px 0; break-after: avoid; }
+  .qblock-title { font-size: 10.5px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-accent-2-900); font-weight: 700; margin: 0 0 4px 0; }
+  .qblock-note { font-size: 0.84rem; line-height: 1.5; color: var(--color-neutral-700); font-style: italic; margin: 0 0 10px 0; }
+  .qcards { display: block; margin: 0 0 26px 0; }
+  .qcard { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 12px 16px 10px 16px; margin: 0 0 10px 0; break-inside: auto; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+  .q-head { display: flex; align-items: center; gap: 10px; margin-bottom: 2px; }
+  .q-no { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); font-weight: 700; }
+  .q-src { font-size: 0.74rem; color: var(--color-neutral-700); margin: 0 0 6px 0; line-height: 1.45; }
+  .q-src b { font-weight: 700; color: var(--color-text); }
+  .q-stem { font-family: var(--font-heading); font-weight: 700; font-size: 0.95rem; line-height: 1.45; margin: 0 0 4px 0; }
+  .q-list { margin: 2px 0 6px 0; padding-left: 1.2em; font-size: 0.88rem; line-height: 1.45; }
+  .q-opts { font-size: 0.88rem; line-height: 1.5; margin: 2px 0 6px 0; }
+  .q-opt { padding-left: 1.6em; text-indent: -1.6em; }
+  .q-opt.ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-ans { font-size: 0.86rem; margin: 2px 0 6px 0; }
+  .q-var { font-size: 0.82rem; font-style: italic; color: var(--color-neutral-700); line-height: 1.5; margin: 0 0 6px 0; }
+  .q-why { font-size: 0.86rem; line-height: 1.55; border-top: 1px solid color-mix(in oklch, var(--color-text) 10%, white); padding-top: 6px; }
+  .q-why p { margin: 0 0 5px 0; break-inside: avoid; }
+  .q-head, .q-src, .q-stem, .q-list { break-after: avoid; break-inside: avoid; }
+  .q-opts, .q-ans, .q-var { break-inside: avoid; }
+  .q-why .ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-why p:first-child > b:first-child { color: var(--color-accent-700); }
+  .q-var p { margin: 0 0 3px 0; }
+  .tag-soft { background: color-mix(in oklch, var(--color-accent) 12%, white); color: var(--color-accent-700); }
+  table.dizin td:first-child, table.surekli td:last-child { white-space: nowrap; }
+  table.dizin td:last-child { font-size: 0.72rem; color: var(--color-neutral-700); }
+  tr.dizin-bolum td { font-family: var(--font-heading); font-weight: 700; padding-top: 10px; border-bottom: 1.5px solid var(--color-text); }
+  td.sur { color: var(--color-accent-2-900); font-weight: 700; }
+  table.dizin td.sur { color: var(--color-accent-2-900); }
+  .sunumsuz { font-size: 0.86rem; background: color-mix(in oklch, var(--color-accent) 7%, white); padding: 8px 12px; border-radius: 2px; margin: 0 0 14px 0; }
+  .ref { font-size: 0.8em; color: var(--color-accent-700); font-weight: 700; white-space: nowrap; }
+
+  @page { size: A4; margin: 16mm 15mm 16mm 15mm; background: #f3f2f2; }
+  .book-p { font-size: 0.93rem; line-height: 1.55; margin: 0 0 9px 0; }
+  .book-list { font-size: 0.93rem; line-height: 1.5; }
+  .qcard { padding: 9px 13px 8px 13px; margin: 0 0 8px 0; }
+  .q-stem { font-size: 0.9rem; } .q-opts { font-size: 0.84rem; line-height: 1.4; }
+  .q-why p { font-size: 0.86rem; line-height: 1.48; }
+  .q-var { font-size: 0.78rem; }
+  .q-src { margin: 0 0 3px 0; }
+</style>
+</head>
+<body>
+<main class="book-page">
+<section class="chapter"><p class="chapter-kicker">Bölüm 1 · Genel yaklaşım</p><h2 class="chapter-title">İshale Yaklaşım, Klinik Tipler ve Viral Etkenler</h2><p class="chapter-lead">İshalin tanımı ve süreye göre sınıfları, ince ve kalın bağırsak tipi ishal, oluş mekanizmaları, inflamatuvar ve inflamatuvar olmayan ishal ayrımı, kuluçka süresinden etkene gitme, risk grupları, viral etkenler ve antibiyotik endikasyonları. Sınavın her yıl ilk 5-10 sorusu bu bölümden gelir.</p>
+<h3 class="book-h3">Tanımlar</h3>
+<p class="book-p"><strong>İshal</strong>, günde üç ya da daha fazla kez sulu veya şekilsiz dışkılama ya da günlük dışkı miktarının 200 g'ı aşmasıdır. Bristol dışkı skalasında tip 6 (lapa) ve tip 7 (sulu) ishal sayılır. Bebekte tanım, o bebeğin olağan dışkılama düzenine göre yapılır: anne sütü alan bebek günde 6-8 kez yumuşak dışkı yapabilir ve bu ishal değildir.</p>
+<p class="book-p">Süreye göre üç grup vardır. Sınavda seçenekler süreyi bozarak yanlış yapılır (“üç haftayı aşan akut ishal”, “üç aydan uzun kronik ishal”):</p>
+<table class="table compact split"><thead><tr><th>Tip</th><th>Süre</th><th>Tipik nedenler</th></tr></thead><tbody>
+<tr><td><strong>Akut enfeksiyöz ishal</strong></td><td><strong>14 güne kadar</strong></td><td>virüsler, bakteriler, besin zehirlenmesi</td></tr>
+<tr><td><strong>Persistan (uzamış) ishal</strong></td><td><strong>14-30 gün</strong></td><td><em>Giardia</em>, <em>Cryptosporidium</em>, <em>Cyclospora</em>, <em>E. histolytica</em>; enfeksiyon sonrası laktoz intoleransı; bazen <em>Shigella</em>, EPEC, EAEC</td></tr>
+<tr><td><strong>Kronik ishal</strong></td><td><strong>30 günden uzun</strong></td><td>enfeksiyon dışı nedenler ağırlıkta: inflamatuvar bağırsak hastalığı, çölyak, irritabl bağırsak, malabsorbsiyon, bağırsak tüberkülozu, ilaçlar</td></tr>
+</tbody></table>
+<p class="chart-caption">İshalin süreye göre sınıflaması. Sınırlar: 14 gün ve 30 gün.</p>
+<p class="book-p"><strong>Dizanteri:</strong> az miktarda, sık, kanlı-mukuslu dışkılama; çoğu zaman ateş, kramp şeklinde karın ağrısı ve tenezmle birlikte. Kolon mukozasının harabiyetini gösterir.</p>
+<p class="book-p"><strong>Tenezm:</strong> sık sık, ağrılı dışkılama hissi ve dışkılama isteğidir; hasta tuvaletten sonra da boşalamadığını, rahatlayamadığını hisseder. Rektum mukozasının iltihabı, rektumu sürekli doluymuş gibi uyarır. “Sık sık bol miktarda dışkılama” tenezm değildir.</p>
+<p class="book-p"><strong>Besin zehirlenmesi:</strong> besinle alınan mikroorganizma ya da onun ürettiği toksinin yol açtığı, çoğunlukla ishal ve kusmayla, bazen nörolojik belirtilerle (botulizm) giden tablodur. Toksin besinde önceden oluşmuş olabilir (<em>S. aureus</em>, <em>B. cereus</em>'un kusma toksini, <em>C. botulinum</em>) ya da etken bağırsakta çoğalıp toksinini orada salgılayabilir. Bu yüzden “yalnız besinde üreyen bakterinin toksiniyle olur” diye daraltılan tanım eksiktir.</p>
+<h3 class="book-h3">İnce bağırsak tipi ve kalın bağırsak tipi ishal</h3>
+<p class="book-p">İnce bağırsak günde litrelerce sıvının geçtiği, emilimin çoğunun yapıldığı yerdir. Burada salgı artarsa ya da emilim bozulursa çok miktarda sıvı kolona ulaşır; kolonun emme kapasitesi aşılır ve <strong>bol, sulu</strong> dışkı çıkar. Kolon ise küçük hacimli bir rezervuardır; mukozası iltihaplanınca rezervuar işlevi bozulur ve hasta <strong>az miktarda, çok sık</strong> dışkılar.</p>
+<table class="table compact split"><thead><tr><th>Özellik</th><th>İnce bağırsak tipi</th><th>Kalın bağırsak tipi</th></tr></thead><tbody>
+<tr><td>Miktar ve sıklık</td><td><strong>bol, sulu; sıklık az</strong> (günde 3-4 kez)</td><td><strong>az miktarda, çok sık</strong> (günde 10-20 kez)</td></tr>
+<tr><td>Kan, mukus</td><td>yok</td><td>sık; dizanteri tablosu</td></tr>
+<tr><td>Karın ağrısı</td><td>göbek çevresinde, kramp</td><td>alt karın, sol alt kadran; tenezm</td></tr>
+<tr><td>Ateş</td><td>yok ya da hafif</td><td>sık</td></tr>
+<tr><td>Dehidratasyon</td><td>belirgin</td><td>daha az</td></tr>
+<tr><td>Dışkıda lökosit</td><td>yok</td><td>var</td></tr>
+<tr><td>Örnek</td><td>kolera, ETEC, viral, <em>Giardia</em></td><td><em>Shigella</em>, EIEC, <em>C. difficile</em>, <em>E. histolytica</em></td></tr>
+</tbody></table>
+<p class="chart-caption">İnce ve kalın bağırsak tipi ishal. Sınavda “ince bağırsak tipi: az, sık sık” diye ters çevrilir.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>İnce = İçerik bol; Kalın = Kan, Kramp, Kısa ama sık.</strong> İnce bağırsak ishali hacim sorunudur (dehidratasyon), kalın bağırsak ishali iltihap sorunudur (kan, ateş, tenezm).</p></div>
+<h3 class="book-h3">Oluş mekanizmalarına göre ishal</h3>
+<p class="book-p">Bağırsak lümenindeki su, iyonların peşinden pasif olarak hareket eder. Bu yüzden her ishal mekanizması sonunda “lümende fazla ozmotik yük kalması” ya da “lümene fazla iyon salgılanması” sorusuna iner.</p>
+<ol class="book-list">
+<li><strong>Ozmotik ishal:</strong> Emilmeyen bir madde (laktaz eksikliğinde laktoz, magnezyum içeren laksatifler, sorbitol) lümende kalır ve suyu çeker. Kolonda bakteriler bu karbonhidratı fermente edip gaz ve organik asit yapar; dışkı <strong>köpüklü</strong>, ekşi kokulu ve asidiktir. Hasta <strong>aç kalınca ishal durur</strong>, çünkü yük ortadan kalkar. Rotavirüs ince bağırsak villus uçlarındaki emici hücreleri harap edip disakkaridazları azalttığı için ozmotik bileşen yapar; gastroenterit sonrası geçici disakkaridaz eksikliği de bu yolla köpüklü dışkıya yol açar.</li>
+<li><strong>Sekretuvar ishal:</strong> Enterositlerde hücre içi cAMP ya da cGMP artar; CFTR klor kanalı açılır ve lümene Cl<sup>-</sup>, peşinden Na<sup>+</sup> ve su salgılanır, aynı anda Na<sup>+</sup> emilimi baskılanır. Kolera toksini ve ETEC'in ısıya duyarlı toksini (LT) cAMP'yi, ETEC'in ısıya dayanıklı toksini (ST) cGMP'yi artırır. Mukoza sağlam kaldığı için dışkıda kan ve lökosit yoktur; <strong>açlıkta ishal sürer</strong>. Dışkı “pirinç suyu” görünümünde olabilir. Hormon salgılayan tümörler (VIP-oma, karsinoid), safra asitleri, laksatifler ve bazı ilaçlar da bu yolla ishal yapar.</li>
+<li><strong>İnflamatuvar (eksudatif) ishal:</strong> Etken mukozayı işgal eder ya da sitotoksinle hücreleri öldürür. Mukoza ülserleşir; kan, mukus, protein ve lökosit lümene dökülür. Ateş, karın ağrısı ve tenezm eşlik eder.</li>
+<li><strong>Emilim alanının azalması:</strong> Villusların körelmesi (çölyak, tropikal sprue), bağırsak rezeksiyonu ya da yaygın mukoza hasarı emilimi azaltır.</li>
+<li><strong>Motilite artışı:</strong> Hızlı geçişte içerik emilime yeterince temas etmez (hipertiroidi, irritabl bağırsak, diyabetik nöropati).</li>
+</ol>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-accent-2">Sınav notu</span></p><p class="highlight-p"><strong>Radyasyona bağlı akut ishal</strong>, yüksek doz radyasyonun hızlı bölünen kript hücrelerini öldürmesiyle gelişir. Epitel yenilenemez, sıkı bağlantılar bozulur ve <strong>bağırsak bariyeri işlevini yitirir</strong> (intestinal bariyer disfonksiyonu). Salgı ya da motilite değişiklikleri ikincildir.</p></div>
+<h3 class="book-h3">İnflamatuvar olmayan, inflamatuvar ve penetran ishal</h3>
+<p class="book-p">Klinikte en çok kullanılan sınıflama, etkenin mukozaya ne yaptığına göre yapılır. Dışkıda lökosit bakmak bu ayrımın en hızlı yoludur.</p>
+<table class="table compact split"><thead><tr><th></th><th>İnflamatuvar olmayan (enterotoksik)</th><th>İnflamatuvar (invaziv, sitotoksik)</th><th>Penetran</th></tr></thead><tbody>
+<tr><td>Mekanizma</td><td>enterotoksin; mukoza sağlam</td><td>mukozaya invazyon ya da sitotoksin</td><td>mukozayı geçip lenf ve kana yayılım</td></tr>
+<tr><td>Yer</td><td>proksimal ince bağırsak</td><td>kolon</td><td>distal ince bağırsak (ileum, Peyer plakları)</td></tr>
+<tr><td>Klinik</td><td>sulu ishal, ateş yok</td><td>dizanteri: kanlı-mukuslu, ateş, tenezm</td><td>enterik ateş: ateş, bakteriyemi</td></tr>
+<tr><td>Dışkıda lökosit</td><td><strong>yok</strong></td><td><strong>polimorf nüveli lökosit bol</strong></td><td>mononükleer hücre</td></tr>
+<tr><td>Etkenler</td><td><em>V. cholerae</em>, ETEC, <em>C. perfringens</em>, <em>B. cereus</em>, <em>S. aureus</em>; <em>Giardia</em>, <em>Cryptosporidium</em>; rotavirüs, norovirüs</td><td><em>Shigella</em>, EIEC, EHEC, <em>C. jejuni</em>, <em>S.</em> Enteritidis, <em>V. parahaemolyticus</em>, <em>C. difficile</em>, <em>E. histolytica</em></td><td><em>S.</em> Typhi, <em>Y. enterocolitica</em>, <em>Campylobacter fetus</em></td></tr>
+</tbody></table>
+<p class="chart-caption">Etkenin mukozaya yaptığına göre üç tip ishal (gastroenterit sunumu).</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>İnflamatuvar diyare yapmayanlar = toksin grubu: “Kolera, ETEC ve üç besin zehirlenmesi bakterisi (S. aureus, B. cereus, C. perfringens)”.</strong> Bu soru 5 yıl sordu ve her yıl doğru cevap bu beşten biriydi (<em>B. cereus</em>, <em>S. aureus</em>, <em>C. perfringens</em> iki kez, <em>V. cholerae</em>). Buna <em>Giardia</em> ve virüsleri ekleyin.</p></div>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Kanlı ishal = “SS-CY-CE + amip”:</strong> <strong>S</strong>higella, <strong>S</strong>almonella, <strong>C</strong>ampylobacter, <strong>Y</strong>ersinia, <strong>C</strong>. difficile, <strong>E</strong>. coli (EIEC, EHEC) ve <em>E. histolytica</em>. Enfeksiyon dışında inflamatuvar bağırsak hastalığı, iskemik kolit ve divertikülit. <em>Giardia</em> mukozayı işgal etmez, kanlı ishal yapmaz: “kanlı ishalde düşünülmez” sorusunun 3 yıldır cevabı Giardiazis.</p></div>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-accent-2">Sınav notu</span></p><p class="highlight-p"><em>V. parahaemolyticus</em> bir <em>Vibrio</em> olduğu hâlde inflamatuvar ishal grubundadır (deniz ürünüyle gelen, kanlı olabilen ishal). <em>V. cholerae</em> ise saf sekretuvardır. İkisini karıştıran şık her yıl gelir.</p></div>
+<h3 class="book-h3">Kuluçka süresinden etkene gitmek</h3>
+<p class="book-p">Besinle gelen ishalde belirtilerin ne kadar sürede başladığı, toksinin nerede oluştuğunu gösterir. Toksin besinde önceden hazırsa mide-bağırsağa ulaşır ulaşmaz etki eder: <strong>1-6 saat</strong> içinde, kusmanın ön planda olduğu bir tablo başlar. Bakteri bağırsakta çoğalıp toksinini orada salgılıyorsa <strong>8-16 saat</strong> gerekir. Bakterinin mukozaya yerleşip invazyon yapması ise <strong>16 saatten uzun</strong>, çoğunlukla 1-3 gün sürer.</p>
+<figure class="chart-figure"><svg viewBox="0 0 700 368" width="100%" style="display:block;font-family:Source Serif 4,Georgia,serif" role="img" aria-label="Besin kaynakli ishal etkenlerinin kulucka sureleri">
+<defs><marker id="ok" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a3533"/></marker></defs>
+<line x1="170.0" y1="28" x2="170.0" y2="322" stroke="#d9d4cf" stroke-width="0.7"/>
+<text x="170.0" y="337.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">1 sa</text>
+<line x1="232.0" y1="28" x2="232.0" y2="322" stroke="#d9d4cf" stroke-width="0.7"/>
+<text x="232.0" y="337.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">2</text>
+<line x1="330.2" y1="28" x2="330.2" y2="322" stroke="#d9d4cf" stroke-width="0.7"/>
+<text x="330.2" y="337.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">6 sa</text>
+<line x1="417.9" y1="28" x2="417.9" y2="322" stroke="#d9d4cf" stroke-width="0.7"/>
+<text x="417.9" y="337.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">16 sa</text>
+<line x1="454.1" y1="28" x2="454.1" y2="322" stroke="#d9d4cf" stroke-width="0.7"/>
+<text x="454.1" y="337.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">1 gün</text>
+<line x1="552.4" y1="28" x2="552.4" y2="322" stroke="#d9d4cf" stroke-width="0.7"/>
+<text x="552.4" y="337.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">3 gün</text>
+<line x1="628.1" y1="28" x2="628.1" y2="322" stroke="#d9d4cf" stroke-width="0.7"/>
+<text x="628.1" y="337.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">7 gün</text>
+<text x="162.0" y="50.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">S. aureus</text>
+<rect x="170.0" y="40.0" width="160.2" height="12" rx="4" fill="#0b6e99"/>
+<text x="336.2" y="50.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">1-6 sa</text>
+<text x="162.0" y="74.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">B. cereus (kusmalı)</text>
+<rect x="170.0" y="64.0" width="160.2" height="12" rx="4" fill="#0b6e99"/>
+<text x="336.2" y="74.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">1-6 sa</text>
+<text x="162.0" y="98.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">B. cereus (ishalli)</text>
+<rect x="330.2" y="88.0" width="87.7" height="12" rx="4" fill="#b4541a"/>
+<text x="423.9" y="98.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">6-16 sa</text>
+<text x="162.0" y="122.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">C. perfringens</text>
+<rect x="355.9" y="112.0" width="62.0" height="12" rx="4" fill="#b4541a"/>
+<text x="423.9" y="122.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">8-16 sa</text>
+<text x="162.0" y="146.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">Norovirüs</text>
+<rect x="392.2" y="136.0" width="123.9" height="12" rx="4" fill="#5b3f8c"/>
+<text x="522.1" y="146.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">12-48 sa</text>
+<text x="162.0" y="170.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">V. parahaemolyticus</text>
+<rect x="293.9" y="160.0" width="180.1" height="12" rx="4" fill="#b4541a"/>
+<text x="480.1" y="170.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">4-30 sa</text>
+<text x="162.0" y="194.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">Salmonella (tifo dışı)</text>
+<rect x="330.2" y="184.0" width="222.2" height="12" rx="4" fill="#5b3f8c"/>
+<text x="558.4" y="194.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">6-72 sa</text>
+<text x="162.0" y="218.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">Shigella</text>
+<rect x="392.2" y="208.0" width="160.2" height="12" rx="4" fill="#5b3f8c"/>
+<text x="558.4" y="218.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">1-3 gün</text>
+<text x="162.0" y="242.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">ETEC</text>
+<rect x="454.1" y="232.0" width="98.2" height="12" rx="4" fill="#b4541a"/>
+<text x="558.4" y="242.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">1-3 gün</text>
+<text x="162.0" y="266.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">Campylobacter</text>
+<rect x="516.1" y="256.0" width="81.9" height="12" rx="4" fill="#5b3f8c"/>
+<text x="604.0" y="266.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">2-5 gün</text>
+<text x="162.0" y="290.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">EHEC O157</text>
+<rect x="454.1" y="280.0" width="185.9" height="12" rx="4" fill="#5b3f8c"/>
+<text x="646.0" y="290.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">1-8 gün</text>
+<text x="162.0" y="314.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">Y. enterocolitica</text>
+<rect x="454.1" y="304.0" width="160.2" height="12" rx="4" fill="#5b3f8c"/>
+<text x="620.3" y="314.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">1-6 gün</text>
+<text x="425.0" y="356.0" text-anchor="middle" font-size="11" font-weight="400" fill="#3a3533">Kuluçka süresi (logaritmik eksen)</text>
+<rect x="170" y="10" width="12" height="12" rx="3" fill="#0b6e99"/>
+<text x="187.0" y="20.0" text-anchor="start" font-size="10.5" font-weight="400" fill="#3a3533">hazır toksin (besinde oluşmuş)</text>
+<rect x="382.0" y="10" width="12" height="12" rx="3" fill="#b4541a"/>
+<text x="399.0" y="20.0" text-anchor="start" font-size="10.5" font-weight="400" fill="#3a3533">bağırsakta salınan toksin</text>
+<rect x="563.0" y="10" width="12" height="12" rx="3" fill="#5b3f8c"/>
+<text x="580.0" y="20.0" text-anchor="start" font-size="10.5" font-weight="400" fill="#3a3533">bağırsakta çoğalma / invazyon</text>
+</svg>
+<figcaption class="chart-caption">Besin kaynaklı ishal etkenlerinde kuluçka süreleri. Kısa kuluçka (1-6 saat) hazır toksini, 16 saati aşan kuluçka bağırsakta çoğalma ve invazyonu gösterir. Değerler sunumdaki kuluçka tablosu ve standart kaynaklardan.</figcaption></figure>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>6-16 kuralı:</strong> 6 saatten kısa → hazır toksin (<em>S. aureus</em>, <em>B. cereus</em> kusma tipi); 8-16 saat → bağırsakta oluşan toksin (<em>C. perfringens</em>, <em>B. cereus</em> ishal tipi); 16 saatten uzun → bağırsakta çoğalan, invaziv bakteriler ve virüsler.</p></div>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-accent-2">Sınav notu</span></p><p class="highlight-p">2024-25 S2'de anahtar “bağırsakta çoğalan veya invaziv bakterilerle oluşan ishallerde kuluçka süresi 16 saatten azdır” şıkkını doğru kabul etti. Standart bilgi tersidir: bu ishallerde kuluçka <strong>16 saatten uzundur</strong>; 16 saatten kısa olan, hazır toksinle oluşanlardır. Aynı soru gelirse diğer şıkların hepsi açıkça yanlış olduğundan anahtarın işaretlediği bu şık beklenir.</p></div>
+<h3 class="book-h3">Konak savunması ve enfektif doz</h3>
+<p class="book-p">Bağırsak, mikroorganizmalara karşı katmanlı bir savunmayla korunur:</p>
+<ul class="book-list">
+<li><strong>Mide asidi:</strong> Yutulan bakterilerin çoğunu öldürür. Asidi baskılayan ilaç (proton pompası inhibitörü), gastrektomi ya da aklorhidri, enfektif dozu düşürür. Mideden kolona doğru bakteri yoğunluğu mililitrede yaklaşık 10<sup>1</sup>'den 10<sup>11</sup>'e çıkar.</li>
+<li><strong>Peristaltizm:</strong> Bakterilerin mukozaya tutunmasını zorlaştırır. Antimotilite ilaçları invaziv etkenin bağırsakta kalış süresini uzatır; bu yüzden inflamatuvar ishalde verilmez.</li>
+<li><strong>Normal mikrobiyota:</strong> Besin ve tutunma yeri için patojenle yarışır, bakteriyosin ve kısa zincirli yağ asidi üretir (Bölüm 4). Antibiyotik bu engeli kaldırır; <em>C. difficile</em> ve <em>Salmonella</em> kolaylaşır.</li>
+<li><strong>Mukozal bağışıklık:</strong> salgısal IgA, laktoferrin, lizozim, Peyer plakları ve M hücreleri.</li>
+<li><strong>Safra ve mukus</strong>, yaş (bebek ve yaşlı) ve hijyen de duyarlılığı belirler.</li>
+</ul>
+<p class="book-p">Bir etkenin kaç tanesinin hastalık yapmaya yettiği, nasıl bulaştığını belirler. Mide asidine dayanıklı etkenlerde (<em>Shigella</em>, kistli protozoonlar) birkaç düzine organizma yeter; bu etkenler kişiden kişiye, kreşte ve aile içinde kolayca yayılır. Aside duyarlı <em>V. cholerae</em> ve ETEC'te yüz milyonlarca bakteri gerekir; bu da ancak kirli su ya da besinle alınabilecek bir yüktür.</p>
+<figure class="chart-figure"><svg viewBox="0 0 700 296" width="100%" style="display:block;font-family:Source Serif 4,Georgia,serif" role="img" aria-label="Ishal etkenlerinin enfektif dozlari">
+<defs><marker id="ok" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a3533"/></marker></defs>
+<line x1="198.8" y1="28" x2="198.8" y2="250" stroke="#d9d4cf" stroke-width="0.7"/>
+<text x="198.8" y="265.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">10</text>
+<line x1="256.5" y1="28" x2="256.5" y2="250" stroke="#d9d4cf" stroke-width="0.7"/>
+<text x="256.5" y="265.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">10²</text>
+<line x1="371.8" y1="28" x2="371.8" y2="250" stroke="#d9d4cf" stroke-width="0.7"/>
+<text x="371.8" y="265.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">10⁴</text>
+<line x1="487.1" y1="28" x2="487.1" y2="250" stroke="#d9d4cf" stroke-width="0.7"/>
+<text x="487.1" y="265.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">10⁶</text>
+<line x1="602.4" y1="28" x2="602.4" y2="250" stroke="#d9d4cf" stroke-width="0.7"/>
+<text x="602.4" y="265.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">10⁸</text>
+<text x="162.0" y="50.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">Shigella</text>
+<rect x="198.8" y="40.0" width="57.6" height="12" rx="4" fill="#8a1c3c"/>
+<text x="262.5" y="50.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">10-100 bakteri</text>
+<text x="162.0" y="74.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">E. histolytica</text>
+<rect x="198.8" y="64.0" width="57.6" height="12" rx="4" fill="#8a1c3c"/>
+<text x="262.5" y="74.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">10-100 kist</text>
+<text x="162.0" y="98.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">Giardia</text>
+<rect x="198.8" y="88.0" width="57.6" height="12" rx="4" fill="#8a1c3c"/>
+<text x="262.5" y="98.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">10-100 kist</text>
+<text x="162.0" y="122.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">Cryptosporidium</text>
+<rect x="198.8" y="112.0" width="57.6" height="12" rx="4" fill="#8a1c3c"/>
+<text x="262.5" y="122.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">~10-100 ookist</text>
+<text x="162.0" y="146.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">Norovirüs</text>
+<rect x="198.8" y="136.0" width="57.6" height="12" rx="4" fill="#8a1c3c"/>
+<text x="262.5" y="146.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">< 100 partikül</text>
+<text x="162.0" y="170.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">Campylobacter</text>
+<rect x="256.5" y="160.0" width="230.6" height="12" rx="4" fill="#0b6e99"/>
+<text x="493.1" y="170.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">10²-10⁶</text>
+<text x="162.0" y="194.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">Salmonella</text>
+<rect x="426.4" y="184.0" width="6.0" height="12" rx="4" fill="#0b6e99"/>
+<text x="438.4" y="194.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">~10⁵</text>
+<text x="162.0" y="218.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">V. cholerae</text>
+<rect x="599.4" y="208.0" width="6.0" height="12" rx="4" fill="#b4541a"/>
+<text x="611.4" y="218.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">~10⁸ (mide asidi koruyor)</text>
+<text x="162.0" y="242.0" text-anchor="end" font-size="11" font-weight="400" fill="#3a3533" font-style="italic">ETEC</text>
+<rect x="599.4" y="232.0" width="6.0" height="12" rx="4" fill="#b4541a"/>
+<text x="611.4" y="242.0" text-anchor="start" font-size="9.5" font-weight="400" fill="#6b6460">~10⁸</text>
+<text x="425.0" y="284.0" text-anchor="middle" font-size="11" font-weight="400" fill="#3a3533">Hastalık yapan en küçük etken sayısı (logaritmik)</text>
+<rect x="170" y="10" width="12" height="12" rx="3" fill="#8a1c3c"/>
+<text x="187.0" y="20.0" text-anchor="start" font-size="10.5" font-weight="400" fill="#3a3533">çok düşük doz: kişiden kişiye, kreş</text>
+<rect x="413.0" y="10" width="12" height="12" rx="3" fill="#0b6e99"/>
+<text x="430.0" y="20.0" text-anchor="start" font-size="10.5" font-weight="400" fill="#3a3533">orta</text>
+<rect x="463.8" y="10" width="12" height="12" rx="3" fill="#b4541a"/>
+<text x="480.8" y="20.0" text-anchor="start" font-size="10.5" font-weight="400" fill="#3a3533">yüksek doz: su ve besin yükü gerekir</text>
+</svg>
+<figcaption class="chart-caption">İshal etkenlerinin enfektif dozları (gastroenterit sunumu). Düşük dozlu etkenler kreş ve aile içi salgınlar yapar.</figcaption></figure>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Kreş üçlüsü (düşük doz): Shigella, Giardia, Cryptosporidium</strong>; kreşte kolay yayılan virüsler: rotavirüs, adenovirüs, astrovirüs.</p></div>
+<h3 class="book-h3">Epidemiyoloji ve risk grupları</h3>
+<p class="book-p">İshal, dünyada hâlâ önde gelen ölüm nedenlerindendir; ölümlerin çoğu düşük gelirli ülkelerde, 5 yaş altı çocuklarda ve 70 yaş üstü yaşlılarda olur. Kişi başına milli gelir düştükçe ishal ölümleri artar; iklim değişikliği de yağışlı ve kurak mevsimlerde ishal tepelerini büyütür.</p>
+<ul class="book-list">
+<li><strong>5 yaş altında</strong> ishalden ölümlerin başlıca etkeni rotavirüstür; ardından <em>Shigella</em>, adenovirüs ve <em>Cryptosporidium</em> gelir.</li>
+<li><strong>70 yaş üstünde</strong> başlıca etkenler <em>Shigella</em>, rotavirüs, adenovirüs ve <em>Campylobacter</em>'dir. Ölüme götüren en önemli risk etkeni ise <strong>güvenli suya ulaşamamak</strong>tır (ardından sanitasyon eksikliği ve el hijyeni). Sınavda “70 yaş üstü ishallerin en önemli nedeni” sorusunun cevabı “temiz su kaynağına ulaşamama”dır.</li>
+<li><strong>Enfeksiyöz ishalin artma nedenleri:</strong> hayvancılıkta antibiyotik kullanımıyla seçilen dirençli suşlar, küresel besin ticareti, seyahat ve göç, duyarlı konakların artması (AIDS, kanser, yaşlanma), taze sebze-meyve ve hazır yiyecek tüketimi.</li>
+</ul>
+<p class="book-p">Yüksek risk grupları:</p>
+<ol class="book-list">
+<li><strong>Antibiyotikle ilişkili ishal:</strong> Geniş spektrumlu antibiyotik alanların yaklaşık %20'sinde görülür; en ağır biçimi <em>C. difficile</em> kolitidir. Hastanede yatanlarda en sık ishal nedenidir.</li>
+<li><strong>Turist (seyahat) ishali:</strong> En sık etken <strong>ETEC</strong>'tir. Güney Asya'da <em>Campylobacter</em> (%20), ETEC (%19) ve EAEC (%16); Latin Amerika ve Afrika'da ETEC (%33), norovirüs (%15) ve EAEC (%13) öndedir. İki haftayı aşan turist ishalinde parazitler (<em>Giardia</em>, <em>Cryptosporidium</em>, <em>Cyclospora</em>, <em>E. histolytica</em>), enfeksiyon sonrası laktoz intoleransı ve irritabl bağırsak düşünülür. Rutin antibiyotik profilaksisi önerilmez.</li>
+<li><strong>Cinsel yolla bulaşan ishaller:</strong> <em>Shigella</em>, <em>Giardia</em>, <em>E. histolytica</em>, <em>Campylobacter</em>.</li>
+<li><strong>Kreş ishalleri:</strong> düşük inokulümlü etkenler ve kolay yayılan virüsler.</li>
+</ol>
+<h3 class="book-h3">Epidemiyolojik ipuçları</h3>
+<table class="table compact split"><thead><tr><th>İpucu</th><th>Düşünülecek etken</th></tr></thead><tbody>
+<tr><td>Kremalı pasta, pastane ürünü, elle hazırlanan soğuk yiyecek; 1-6 saatte kusma</td><td><em>S. aureus</em></td></tr>
+<tr><td>Bekletilmiş pilav, kızarmış pirinç</td><td><em>B. cereus</em> (kusma tipi)</td></tr>
+<tr><td>Büyük kazanda pişirilip ılık bekletilen et yemeği</td><td><em>C. perfringens</em></td></tr>
+<tr><td>Az pişmiş tavuk, çiğ süt</td><td><em>Campylobacter</em>, <em>Salmonella</em></td></tr>
+<tr><td>Yumurta, mayonez, kümes hayvanı</td><td><em>Salmonella</em> (tifo dışı)</td></tr>
+<tr><td>Az pişmiş kıyma, hamburger; kanlı ishal, böbrek yetmezliği</td><td>EHEC O157:H7</td></tr>
+<tr><td>Çiğ deniz ürünü, istiridye</td><td><em>V. parahaemolyticus</em>, <em>V. vulnificus</em>, norovirüs</td></tr>
+<tr><td>Domuz eti, kış aylarında çocuk, apandisit taklidi</td><td><em>Y. enterocolitica</em></td></tr>
+<tr><td>Kaynatılmamış su, kamp, dere suyu</td><td><em>Giardia</em>, <em>Cryptosporidium</em></td></tr>
+<tr><td>Kreş</td><td><em>Shigella</em>, <em>Giardia</em>, <em>Cryptosporidium</em>, rotavirüs</td></tr>
+<tr><td>Yolcu gemisi, huzurevi, aynı anda çok sayıda kusma</td><td>norovirüs</td></tr>
+<tr><td>Son bir ayda antibiyotik, hastanede yatış</td><td><em>C. difficile</em></td></tr>
+<tr><td>Aynı anda çok sayıda kişide ishal</td><td>ortak kaynak (salgın)</td></tr>
+</tbody></table>
+<p class="chart-caption">Öyküden etkene gitmek. Pasta → stafilokok, pilav → cereus, bekletilmiş et → perfringens üçlüsü sınavın en sık açılış sorusudur.</p>
+<h3 class="book-h3">Viral gastroenteritler</h3>
+<p class="book-p">Viral ishaller inflamatuvar değildir: virüs ince bağırsak villus uçlarındaki emici hücreleri bozar, dışkıda lökosit yoktur ve tedavi yalnızca sıvıdır.</p>
+<table class="table compact split"><thead><tr><th>Virüs</th><th>Genom</th><th>Kimi etkiler</th><th>Öne çıkan özellik</th></tr></thead><tbody>
+<tr><td><strong>Rotavirüs</strong> (Reoviridae)</td><td>çift zincirli RNA, segmentli</td><td>6 ay-2 yaş, 5 yaş altı</td><td>çocuklarda ağır dehidratasyonlu ishalin en sık nedeni; kış; ateş, kusma ve bol sulu ishal; ozmotik ishal + NSP4 enterotoksini; dışkıda lökosit yok; ağızdan canlı aşı</td></tr>
+<tr><td><strong>Norovirüs</strong> (Norwalk benzeri, Caliciviridae)</td><td>tek zincirli RNA</td><td>her yaş</td><td><strong>kusma ön planda</strong>; gemi, huzurevi, okul salgınları; enfektif doz çok düşük; yüzeylerde dayanıklı, alkollü el antiseptiğine görece dirençli; erişkinde salgınların en sık nedeni</td></tr>
+<tr><td><strong>Adenovirüs tip 40-41</strong> (enterik)</td><td><strong>çift zincirli DNA</strong></td><td>bebek ve küçük çocuk</td><td>gastroenterit yapan <strong>tek DNA virüsü</strong>; daha uzun süren ishal</td></tr>
+<tr><td><strong>Astrovirüs</strong></td><td>tek zincirli RNA</td><td>küçük çocuk, yaşlı</td><td>hafif sulu ishal, kreş</td></tr>
+<tr><td>Enterovirüsler</td><td>tek zincirli RNA</td><td>çocuk</td><td>ishal yapabilir; antibakteriyel tedavi yeri yok</td></tr>
+</tbody></table>
+<p class="chart-caption">Gastroenterit yapan virüsler.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Gastroenteritin tek DNA virüsü: Adeno (tip 40-41).</strong> Rotavirüs = çocuğun ağır ishali; Norovirüs = gemide kusma.</p></div>
+<h3 class="book-h3">Tanıda ilk adımlar</h3>
+<p class="book-p">Ayrıntılı anamnez ve muayene, hem etken hem tedavi kararı için zorunludur. Dışkının görünümü, kuluçka süresi, ortak besin, seyahat, antibiyotik kullanımı ve aynı anda hastalanan başka kişiler sorulur.</p>
+<ul class="book-list">
+<li><strong>Köpüklü dışkı:</strong> karbonhidrat emilim bozukluğu (gastroenterit sonrası disakkaridaz eksikliği).</li>
+<li><strong>Pirinç suyu görünümü:</strong> kolera ve ETEC.</li>
+<li><strong>Bezelye çorbası görünümü:</strong> <em>Salmonella</em> (tifoda); <strong>domates çorbası</strong>ndan söz edilen tablo şigellozdur (sunumdaki tarif). Amipli dizanteride “ahududu jölesi” benzetmesi kullanılır.</li>
+<li>Çok sayıda kişide aynı anda ishal, ortak kaynaktan bulaşı düşündürür. İyi pişirilmemiş et (özellikle kümes hayvanı), kaynatılmamış süt ve su belirli etkenlere yönlendirir.</li>
+</ul>
+<p class="book-p"><strong>Dışkıda lökosit ve eritrosit</strong> inflamatuvar ishali gösterir (<em>Shigella</em>, EIEC, <em>Salmonella</em>, <em>Campylobacter</em>, <em>Y. enterocolitica</em>, <em>C. difficile</em>, EHEC, <em>E. histolytica</em>). Lökosit görülmeyen bol sulu ishal toksin ya da virüs grubunu düşündürür.</p>
+<p class="book-p"><strong>Dışkıda parazit incelemesi</strong> şu durumlarda istenir: 7 günü aşan ishal, gelişmekte olan ülkelere seyahat sonrası ishal, bağışıklığı baskılanmış hastada (AIDS) uzayan ishal, kreş ya da su kaynaklı salgın, erkeklerle cinsel ilişkisi olan erkekler ve dışkıda kan olup lökositin az olduğu durumlar.</p>
+<h3 class="book-h3">Tedavi ilkeleri ve antibiyotik endikasyonları</h3>
+<p class="book-p"><strong>İshal tedavisinin esası sıvı ve elektrolit açığının yerine konmasıdır</strong> (Bölüm 2). Akut enfeksiyöz ishallerin çoğu kendiliğinden geçer; antibiyotik, gereksiz verildiğinde mikrobiyotayı bozar, direnci seçer, <em>C. difficile</em>'yi kolaylaştırır, <em>Salmonella</em> taşıyıcılığını uzatır ve EHEC'te Shiga toksini salınımını artırıp hemolitik üremik sendrom riskini yükseltir.</p>
+<p class="book-p"><strong>Ampirik antibiyotik gerektiren durumlar:</strong></p>
+<ol class="book-list">
+<li>Son bir ay içinde herhangi bir nedenle antibiyotik kullanmış ya da antibiyotik alırken ishali başlamış hasta (<em>C. difficile</em> düşünülür).</li>
+<li>Protez kalp kapağı, vasküler greft ya da başka protezi olan hasta (bakteriyemide protez enfeksiyonu riski).</li>
+<li>Yakın zamanda uluslararası seyahat öyküsü olup ateşi 38,5 °C'yi aşan ya da sepsis bulguları olan hasta (enterik ateş).</li>
+<li>Bağışıklığı baskılanmış ve ağır ya da kanlı ishali olan hasta; 3 aydan küçük bebek.</li>
+<li>Genel durumu bozuk inflamatuvar ishal ve ileri derecede dehidratasyona yol açan ishal.</li>
+<li>50 yaşın üstünde, damar hastalığı riski taşıyan ve <em>Salmonella</em> (ör. <em>S.</em> Paratyphi) etkenli ishal (endovasküler enfeksiyon riski).</li>
+</ol>
+<p class="book-p"><strong>Antibiyotik verilmeyen ya da verilmeyebilen durumlar:</strong></p>
+<ul class="book-list">
+<li>Genel durumu iyi olan, hafif <em>Salmonella</em>, <em>Shigella</em>, <em>C. jejuni</em> ishali; özellikle <strong>tifo dışı <em>Salmonella</strong></em> (antibiyotik taşıyıcılığı uzatır).</li>
+<li>Viral gastroenteritler (rotavirüs, norovirüs, enterovirüsler).</li>
+<li>EHEC O157 (hemolitik üremik sendrom riski).</li>
+<li>Kanlı ishali olan hastanın <strong>belirtisiz temaslıları</strong>: ampirik tedavi önerilmez; yalnızca enfeksiyon önleme ve kontrol önlemleri uygulanır.</li>
+<li>Rutin turist ishali profilaksisi.</li>
+</ul>
+<p class="book-p"><strong>Antimotilite ilaçları</strong> (loperamid) inflamatuvar ve kanlı ishalde verilmez. Salgında ilk izole edilen bakterilerin antibiyotik duyarlılığı, sonraki hastaların tedavisini yönlendirir.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Antibiyotik = “APS-B”:</strong> <strong>A</strong>ntibiyotik öyküsü (son 1 ay), <strong>P</strong>rotez, <strong>S</strong>eyahat + yüksek ateş/sepsis, <strong>B</strong>ağışıklık baskısı. Yaş tek başına endikasyon değildir; “35 yaş üstü” şıkkı yanlıştır.</p></div>
+<h3 class="book-h3">Bölüm özeti</h3>
+<ul class="book-list">
+<li>Akut ≤ 14 gün, persistan 14-30 gün, kronik &gt; 30 gün. Tenezm: sık, ağrılı dışkılama hissi, boşalamama.</li>
+<li>İnce bağırsak tipi: bol, sulu, seyrek; kalın bağırsak tipi: az, sık, kanlı, tenezmli.</li>
+<li>Toksin grubu (kolera, ETEC, <em>S. aureus</em>, <em>B. cereus</em>, <em>C. perfringens</em>), <em>Giardia</em> ve virüsler inflamatuvar ishal yapmaz, dışkıda lökosit görülmez.</li>
+<li>Kuluçka &lt; 6 saat → hazır toksin; &gt; 16 saat → bağırsakta çoğalma, invazyon.</li>
+<li>Gastroenteritin DNA virüsü adenovirüs 40-41; gemi salgını ve kusma norovirüs; çocukta ağır ishal rotavirüs.</li>
+<li>Tedavinin esası sıvı; antibiyotik yalnız seçilmiş durumlarda; tifo dışı <em>Salmonella</em> ve viral ishalde verilmez.</li>
+</ul>
+<h3 class="book-h3">Çıkmış sorular: İshale Yaklaşım, Klinik Tipler ve Viral Etkenler</h3>
+<p class="book-p">Bu bölümden 7 sınavda <strong>35 soru</strong> çıktı; bunlar <strong>26 farklı soruya</strong> karşılık geliyor ve <strong>5 tanesi</strong> birden fazla yıl soruldu. Her kartta sorunun en yeni hâli, sağ üstte kaç kez sorulduğu, kartın altında da çıktığı tüm sınavlar yazar. Rozeti koyu olanlar 3 ve daha fazla kez sorulmuş sorulardır.</p>
+<div class="qblock"><p class="qblock-title">Çıkmış sorular</p></div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S10</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S10</div>
+<div class="q-stem">Aşağıdakilerden hangisi doğrudur?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Akut enfeksiyöz ishal; enfeksiyon etkenlerine bağlı olarak gelişen ve üç haftayı aşan ishallerdir.</div><div class="q-opt"><b>B)</b> Üç haftadan uzun ve 50 günden kısa süren ishaller persistan ishal olarak isimlendirilir.</div><div class="q-opt"><b>C)</b> Kronik ishaller üç aydan uzun süren ishallerdir.</div><div class="q-opt"><b>D)</b> Besin zehirlenmesi; alınan gıdada bakterilerin üremesi sonucu gelişen ve bakterinin toksininin neden olduğu gastrointestinal ya da nörolojik belirtilerle (kusma, ishal, karın ağrısı) seyreden akut seyirli hastalıklardır.</div><div class="q-opt ok"><b>E)</b> Tenezm; sık sık, ağrılı dışkılama ve dışkılama hissidir (Tenezmli hasta tuvalet sonrası boşalamama, rahatlayamama hisseder). ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> Tenezm, rektum iltihabının rektumu sürekli doluymuş gibi uyarmasıyla oluşan sık, ağrılı dışkılama hissidir; hasta tuvaletten sonra rahatlayamaz.</p><p>Akut enfeksiyöz ishal 14 günü <strong>aşmayan</strong> ishaldir (A). Persistan ishal 14-30 gün (B), kronik ishal 30 günden uzun süren ishaldir (C). Besin zehirlenmesi yalnız besinde üreyen bakterinin toksiniyle olmaz; etken bağırsakta çoğalıp toksin salabilir ya da doğrudan invazyon yapabilir (D).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S2</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S2</div>
+<div class="q-stem">Akut bakteriyel ishalle ilgili olarak aşağıda belirtilen özelliklerden hangisi veya hangileri doğrudur?<br>I. Akut enfeksiyöz ishal: Enfeksiyon etkenlerine bağlı olarak gelişen 14 günü aşmayan ishaldir.<br>II. İnce bağırsak tipi ishal: Miktarca bol ve sulu, sıklıkça az (3-4 kez/gün) olan dışkılamadır.<br>III. Tenezm: Sık sık, ağrılı dışkılama hissi, hastanın tuvalet sonrası boşalamama, rahatlayamamasıdır.<br>IV. Şiddetli hastalığı ve kanlı ishali olan immün sistemi baskılanmış kişilerde ampirik antibakteriyel tedavi düşünülmelidir.<br>V. Kanlı ishali olan kişilerin asemptomatik temaslılarına ampirik tedavi önerilmemeli, ancak uygun enfeksiyon önleme ve kontrol önlemlerini takip etmeleri tavsiye edilmelidir.</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> Hepsi ✓</div><div class="q-opt"><b>B)</b> Yalnız I-II-III</div><div class="q-opt"><b>C)</b> Yalnız I-II-III-IV</div><div class="q-opt"><b>D)</b> Yalnız I ve II</div><div class="q-opt"><b>E)</b> Yalnız I</div></div>
+<div class="q-why"><p><strong>A doğru (hepsi).</strong> Beş önerme de IDSA rehberi ve sunumdaki tanımlarla örtüşür: akut ishal 14 günü aşmaz (I); ince bağırsak tipi ishal bol, sulu ve günde 3-4 kez gibi seyrektir (II); tenezm boşalamama hissiyle giden ağrılı dışkılama isteğidir (III).</p><p>Bağışıklığı baskılanmış, ağır ve kanlı ishali olan hastada ampirik antibiyotik düşünülür (IV). Belirtisiz temaslılara ise antibiyotik verilmez; el hijyeni ve izolasyon gibi enfeksiyon kontrol önlemleri önerilir (V).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S2</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S2</div>
+<div class="q-stem">Gastroenteritlerle ilgili hangisi doğrudur?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> Bağırsakta çoğalan veya invaziv olan bakterilerle oluşan ishallerde kuluçka süresi 16 saatten azdır. ✓</div><div class="q-opt"><b>B)</b> İnce bağırsak tipi ishal miktarca az sık sık (10-20 kez günde) dışkılamalıdır</div><div class="q-opt"><b>C)</b> Kalın bağırsak tipi ishal miktarca bol ve sulu, sıklıkça az (3-4 kez günde) dışkılamalı</div><div class="q-opt"><b>D)</b> Tenezm; sık sık bol miktarda dışkılamadır.</div><div class="q-opt"><b>E)</b> Toksijenik ishallerde kuluçka süresi genelde 18-48 saat arasında</div></div>
+<div class="q-var">Anahtar A'yı doğru kabul etti; standart bilgiye göre invaziv ve bağırsakta çoğalan bakterilerle oluşan ishallerde kuluçka 16 saatten uzundur. Diğer dört şık açıkça yanlış olduğundan sınavda A işaretlenir.</div>
+<div class="q-why"><p><strong>A (anahtara göre).</strong> Kitaplardaki kural: besinde <strong>hazır toksinle</strong> oluşan ishallerde kuluçka 1-6 saat, bakterinin bağırsakta çoğalması ya da invazyonuyla oluşan ishallerde <strong>16 saatten uzundur</strong>. Şık ters yazılmış görünüyor, ama diğer şıkların hepsinde tanım bozulduğu için anahtar bunu işaretledi.</p><p>İnce bağırsak tipi ishal bol ve seyrektir, “az ve sık” olan kalın bağırsak tipidir (B, C ters çevrilmiş). Tenezm bol dışkılama değil, ağrılı ve boşalamayan dışkılama hissidir (D). Toksijenik ishallerde kuluçka saatlerle ölçülür, 18-48 saat invaziv etkenlere uyar (E).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S38</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S38</div>
+<div class="q-stem">Akut ve yüksek doz radyasyon maruziyetinin akut dönem ishallerindeki temel mekanizması nedir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Gastrointestinal immün disfonksiyonu</div><div class="q-opt"><b>B)</b> Gastrointestinal sekresyon artışı</div><div class="q-opt"><b>C)</b> Artan gastrointestinal motilite</div><div class="q-opt"><b>D)</b> Visseral hipersensitivitede artış</div><div class="q-opt ok"><b>E)</b> İntestinal bariyer disfonksiyonu ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> Bağırsak epiteli 3-5 günde bir yenilenir; yenilemeyi kriptlerdeki hızlı bölünen kök hücreler yapar. Yüksek doz radyasyon bu hücreleri öldürür, dökülen epitel yerine konamaz, sıkı bağlantılar açılır ve <strong>bariyer işlevi</strong> bozulur. Sıvı ve protein lümene sızar, bakteriler ve endotoksin kana geçer.</p><p>Salgı artışı, motilite artışı, visseral aşırı duyarlılık ve bağışıklık bozukluğu (A-D) bu tabloda ikincil olaylardır, akut dönemin temel mekanizması değildir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S50</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S50</div>
+<div class="q-stem">Ateş, karın ağrısı ve diyare olan bir çocuğun dışkısından yapılan yaymada bol lökosit görülmüştür. Hastadaki diyarenin oluş mekanizması hangisidir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b>İnvaziv diyare</div></div>
+<div class="q-why"><p><strong>Cevap: invaziv diyare.</strong> Dışkıda bol lökosit, etkenin mukozayı işgal ettiğini ya da sitotoksinle hücreleri öldürdüğünü gösterir. Ateş ve karın ağrısı da mukozal iltihabın sonucudur. Etkenler <em>Shigella</em>, EIEC, <em>Salmonella</em>, <em>Campylobacter</em>, <em>Y. enterocolitica</em> ve <em>E. histolytica</em>'dır.</p><p>Sekretuvar ishalde mukoza sağlamdır ve dışkıda lökosit görülmez; ozmotik ishalde de iltihap yoktur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S46</span><span class="tag tag-accent-2">5 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S46 · 2023-24 S43 · 2022-23 S42 · 2021-22 S47 · 2019-20 S44</div>
+<div class="q-stem">Aşağıdakilerden hangisi inflamatuar diyareye neden olmaz?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Clostridium difficile</em></div><div class="q-opt"><b>B)</b> <em>Salmonella enteritidis</em></div><div class="q-opt"><b>C)</b> <em>Vibrio parahemolyticus</em></div><div class="q-opt"><b>D)</b> <em>Campylobacter jejuni</em></div><div class="q-opt ok"><b>E)</b> <em>Bacillus cereus</em> ✓</div></div>
+<div class="q-var">Diğer yıllarda doğru cevap: 2023-24 S43: <strong><em>Staphylococcus aureus</strong></em>; 2022-23 S42: <strong><em>Clostridium perfringens</strong></em>; 2021-22 S47: <strong><em>Vibrio cholera</strong></em>; 2019-20 S44: <strong><em>Clostridium perfringens</strong></em>. 5 yılda sorulan soru: doğru şık her seferinde toksinle ishal yapan beşliden biriydi (kolera, ETEC, S. aureus, B. cereus, C. perfringens). Bu yılın kaydında cevap yazılmamış; şıklara göre doğru cevap B. cereus.</div>
+<div class="q-why"><p><strong>E doğru.</strong> <em>B. cereus</em> besinde ya da bağırsakta salgıladığı <strong>enterotoksinle</strong> ishal yapar; mukozayı işgal etmez, dışkıda lökosit görülmez. Aynı gruptaki <em>S. aureus</em> ve <em>C. perfringens</em> de enterotoksin üretir, <em>V. cholerae</em> saf sekretuvar ishal yapar.</p><p><em>C. difficile</em> (A) A ve B toksinleriyle kolon epitelini öldürür ve psödomembranöz kolit yapar. <em>S.</em> Enteritidis (B) ve <em>C. jejuni</em> (D) mukozayı işgal eder. <em>V. parahaemolyticus</em> (C) bir <em>Vibrio</em> olmasına karşın inflamatuvar ishal grubundadır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S1</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S1 · 2022-23 S4</div>
+<div class="q-stem">Aşağıdaki bakteriyel etkenlerden hangisi invaziv ishal etkenlerinden değildir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Shigella</em> spp.</div><div class="q-opt ok"><b>B)</b> <em>Bacillus cereus</em> ✓</div><div class="q-opt"><b>C)</b> <em>Campylobacter</em> spp.</div><div class="q-opt"><b>D)</b> <em>Salmonella typhi</em></div><div class="q-opt"><b>E)</b> <em>Yersinia enterocolitica</em></div></div>
+<div class="q-why"><p><strong>B doğru.</strong> <em>B. cereus</em> iki toksin tablosu yapar: besinde hazır bulunan, ısıya dayanıklı emetik toksin (pilav; 1-6 saatte kusma) ve bağırsakta salgılanan, ısıya duyarlı ishal toksini (et-sebze yemekleri; 8-16 saatte sulu ishal). İkisinde de mukozaya invazyon yoktur.</p><p><em>Shigella</em> (A), <em>Campylobacter</em> (C) ve <em>Y. enterocolitica</em> (E) mukozayı işgal eder; <em>S.</em> Typhi (D) mukozayı geçip lenf ve kana yayılan penetran etkendir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S4</span><span class="tag tag-accent-2">3 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S4 · 2023-24 S7 · 2022-23 S1</div>
+<div class="q-stem">Kanlı dışkılama ve ishal şikayetleriyle başvuran hastada ayırıcı tanıda aşağıdakilerden hangisi düşünülmez?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> EIEC</div><div class="q-opt"><b>B)</b> <em>Clostridium difficile</em></div><div class="q-opt"><b>C)</b> <em>Shigella</em> türleri</div><div class="q-opt ok"><b>D)</b> Giardiazis ✓</div><div class="q-opt"><b>E)</b> Divertikülit</div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <em>Giardia intestinalis</em> trofozoitleri vantuz diskiyle duodenum ve jejunum mukozasına tutunur, villusları kısaltır ve emilimi bozar. Mukozayı işgal etmediği için kan ve lökosit görülmez; tipik tablo şişkinlik, yağlı, köpüklü ve kötü kokulu ishal, kilo kaybıdır.</p><p>EIEC (A) ve <em>Shigella</em> (C) kolon epitelini işgal eder; <em>C. difficile</em> (B) sitotoksinle psödomembranöz kolit yapar; divertikülit (E) enfeksiyon dışı kanlı ishal nedenidir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S50</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S50</div>
+<div class="q-stem">İshal şikâyeti ile acile başvuran çocuğun gaita incelemesinde lökosit ve eritrosit görülür. Aşağıdaki patojenlerden hangisi bu tabloya neden olmaz?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Salmonella enteritidis</em></div><div class="q-opt ok"><b>B)</b> <em>Bacillus cereus</em> ✓</div><div class="q-opt"><b>C)</b> <em>Entamoeba histolytica</em></div><div class="q-opt"><b>D)</b> <em>Clostridium difficile</em></div><div class="q-opt"><b>E)</b> <em>E. coli</em> O157</div></div>
+<div class="q-why"><p><strong>B doğru.</strong> Dışkıda lökosit ve eritrosit birlikteyse mukoza harap olmuştur. <em>B. cereus</em> yalnız toksin üretir, mukozaya zarar vermez.</p><p><em>S.</em> Enteritidis (A) ve <em>E. histolytica</em> (C) kolonu işgal eder; <em>C. difficile</em> (D) sitotoksinle, EHEC O157 (E) Shiga toksiniyle hemorajik kolit yapar.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S3</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S3</div>
+<div class="q-stem">İshal şikayetiyle başvuran hastanın yapılan gaita mikroskobik değerlendirmesinde gaitada lökosit görülmesi halinde öncelikle düşünülecek bakteriyel etkenler nelerdir?<br>I. <em>Shigella</em> türleri<br>II. Enteroinvaziv <em>E. coli</em><br>III. <em>Salmonella</em> türleri<br>IV. <em>Yersinia enterocolitica</em><br>V. <em>Clostridium difficile</em></div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Yalnız I ve II</div><div class="q-opt"><b>B)</b> Yalnız I-II ve III</div><div class="q-opt"><b>C)</b> Yalnız I ve III</div><div class="q-opt"><b>D)</b> Yalnız I-II-III ve V</div><div class="q-opt ok"><b>E)</b> Hepsi ✓</div></div>
+<div class="q-why"><p><strong>E doğru (hepsi).</strong> Beşi de mukozada iltihap yapar: <em>Shigella</em> ve EIEC kolon epiteline girip hücreden hücreye yayılır; <em>Salmonella</em> ve <em>Y. enterocolitica</em> ileum ve Peyer plaklarını işgal eder; <em>C. difficile</em> A ve B toksinleriyle epiteli öldürüp nötrofilden zengin psödomembran oluşturur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S8</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S8</div>
+<div class="q-stem">Aşağıdaki etkenlerden hangilerine bağlı olarak gelişen ishallerde dışkıda lökosit görülür?<br>1- <em>Campylobacter jejuni</em><br>2- <em>Shigella</em> spp<br>3- Enterotoksijenik <em>E. coli</em><br>4- <em>Salmonella</em> spp<br>5- <em>Yersinia enterocolitica</em></div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b>1-2-4-5</div></div>
+<div class="q-why"><p><strong>Cevap: 1, 2, 4 ve 5.</strong> <em>C. jejuni</em>, <em>Shigella</em>, <em>Salmonella</em> ve <em>Y. enterocolitica</em> mukozayı işgal eder ve dışkıda lökosit görülür.</p><p><strong>Enterotoksijenik <em>E. coli</strong></em> (3) mukozaya yalnızca kolonizasyon faktörleriyle tutunur ve ısıya duyarlı (LT, cAMP ↑) ve ısıya dayanıklı (ST, cGMP ↑) enterotoksinleriyle sekretuvar ishal yapar. Turist ishalinin en sık etkenidir; dışkıda lökosit yoktur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S40</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S40</div>
+<div class="q-stem">Ülkemizde ve dünyada 70 yaş üstündeki ishallerin en önemli nedeni nedir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Uluslararası hayvan ticareti</div><div class="q-opt"><b>B)</b> Evde kişisel yemek yapımı</div><div class="q-opt ok"><b>C)</b> Temiz su kaynağına ulaşamama ✓</div><div class="q-opt"><b>D)</b> Hayvancılıkta yüksek oranda ve sürekli antibiyotik kullanımı</div><div class="q-opt"><b>E)</b> El hijyeni yetersizliği</div></div>
+<div class="q-why"><p><strong>C doğru.</strong> Küresel hastalık yükü çalışmalarında ishalden ölümlerde en büyük payı olan risk etkeni <strong>güvenli olmayan su</strong>dur; onu sanitasyon eksikliği ve el hijyeni izler. Yaşlılar susuzluğu geç fark eder, böbrekleri sıvı kaybını telafi edemez ve eşlik eden hastalıklar dehidratasyonu ölümcül hâle getirir.</p><p>Hayvan ticareti, hayvancılıkta antibiyotik ve evde yemek yapımı (A, B, D) salgın ve direnç nedenleri olarak anılır, ama yükün asıl kaynağı değildir. El hijyeni (E) önemlidir ama sudan sonra gelir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S9</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S9</div>
+<div class="q-stem">Hangisi akut infeksiyöz ishal etkeni değildir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b><em>Mycobacterium tuberculosis</em></div></div>
+<div class="q-why"><p><strong>Cevap: <em>Mycobacterium tuberculosis</em>.</strong> Bağırsak tüberkülozu ileoçekal bölgeyi tutar ve haftalar-aylar süren kronik ishal, kilo kaybı, ateş ve karın ağrısıyla gider. Akut (≤ 14 gün) enfeksiyöz ishal etkenleri virüsler, toksin üreten ve invaziv bakteriler ve bazı protozoonlardır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S38</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S38</div>
+<div class="q-stem">Bol ve yüksek miktarda dışkılama, ateş ve osmotik ishal ile başvuran bir 4 yaşındaki erkek hastanın gayta mikroskopisinde polimorf nüveli lökosit saptanmıyor. Etken hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Clostridium difficile</em></div><div class="q-opt"><b>B)</b> <em>Giardia intestinalis</em></div><div class="q-opt ok"><b>C)</b> Rotavirüs ✓</div><div class="q-opt"><b>D)</b> <em>Bacillus cereus</em></div><div class="q-opt"><b>E)</b> <em>Cryptosporidium parvum</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <strong>Rotavirüs</strong> ince bağırsak villus uçlarındaki olgun emici hücreleri öldürür; disakkaridazlar azalır ve emilmeyen laktoz ozmotik ishal yapar. NSP4 proteini ayrıca enterotoksin gibi davranıp klor salgısını artırır. Mukozaya invazyon olmadığından dışkıda polimorf nüveli lökosit görülmez. 6 ay-2 yaş arası çocuklarda, kışın, ateş ve kusmayla başlayan bol sulu ishalin en sık nedenidir.</p><p><em>C. difficile</em> (A) dışkıda lökosit yapar. <em>Giardia</em> (B) ateşsiz, yağlı ve uzun süren ishal yapar. <em>B. cereus</em> (D) besin zehirlenmesidir. <em>Cryptosporidium</em> (E) sekretuvar ishal yapar ama tipik etken bağışıklığı baskılanmış hasta ya da su kaynaklı salgındır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S11</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S11</div>
+<div class="q-stem">Özellikle bebek ve çocuklarda gastroenteritten sorumlu olan DNA virüsü aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> Adenovirüsler ✓</div><div class="q-opt"><b>B)</b> Astrovirüsler</div><div class="q-opt"><b>C)</b> Rotavirüs</div><div class="q-opt"><b>D)</b> Norwalk benzeri virüsler</div><div class="q-opt"><b>E)</b> Enterovirüsler</div></div>
+<div class="q-why"><p><strong>A doğru.</strong> <strong>Adenovirüsler</strong> çift zincirli DNA virüsleridir; enterik serotipler 40 ve 41 bebek ve küçük çocuklarda gastroenterit yapar ve ishal rotavirüse göre daha uzun sürer.</p><p>Astrovirüs (B), Norwalk benzeri virüsler (D) ve enterovirüsler (E) tek zincirli RNA, rotavirüs (C) çift zincirli segmentli RNA virüsüdür.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S38</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S38</div>
+<div class="q-stem">"Cruise" tipi (3-21 günlük seyahat programı, 100 veya daha fazla yolcu) turistik gemi yolculuklarında ortaya çıkan gastroenteritlerde en sık etken aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Cryptosporidium parvum</em></div><div class="q-opt"><b>B)</b> <em>Plesiomonas shigelloides</em></div><div class="q-opt"><b>C)</b> <em>Vibrio parahaemolyticus</em></div><div class="q-opt"><b>D)</b> Astrovirüs</div><div class="q-opt ok"><b>E)</b> Norovirüs ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> <strong>Norovirüs</strong> çok düşük dozla (100 partikülden az) bulaşır, yüzeylerde haftalarca canlı kalır, alkollü el antiseptiklerine görece dirençlidir ve kusmayla havaya saçılan damlacıklarla da yayılır. Kapalı, kalabalık ortamlar (gemi, huzurevi, hastane, okul) bu yüzden norovirüs salgınlarının tipik yeridir.</p><p><em>Cryptosporidium</em> (A) su kaynaklı, <em>V. parahaemolyticus</em> (C) deniz ürünü kaynaklı salgın yapar; <em>Plesiomonas</em> (B) ve astrovirüs (D) gemi salgınlarının tipik etkeni değildir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S39</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S39</div>
+<div class="q-stem">Sulu diyare ile birlikte eş zamanlı kusma da görülen klinik durumda en sık gastroenterit etkeni patojen hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Salmonella</em> Paratyphi A</div><div class="q-opt"><b>B)</b> <em>Yersinia enterocolitica</em></div><div class="q-opt ok"><b>C)</b> Norwalk virüs ✓</div><div class="q-opt"><b>D)</b> <em>Entamoeba hartmanni</em></div><div class="q-opt"><b>E)</b> <em>Campylobacter fetus</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> Norovirüs gastroenteritinde <strong>kusma ön plandadır</strong>; ani başlayan bulantı, fışkırır tarzda kusma ve sulu ishal 1-3 gün sürer. Erişkinlerde akut gastroenterit salgınlarının en sık etkenidir.</p><p><em>S.</em> Paratyphi A (A) enterik ateş, <em>Y. enterocolitica</em> (B) ileit ve psödoapandisit, <em>C. fetus</em> (E) bakteriyemi yapar; <em>Entamoeba hartmanni</em> (D) apatojen bir amiptir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S9</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S9</div>
+<div class="q-stem">Ayrıntılı bir anamnez ve klinik muayene ishalin nedeni ve tedavi hakkında karar verilmesi için zorunludur. Anamnez ve muayenede elde edilen verilerin değerlendirilmesinde aşağıdakilerden hangisi doğrudur?<br>I- Köpüklü görünümde dışkı; karbonhidrat emilimi ile ilgili bir bozukluk (gastroenterite bağlı disakkaridaz eksikliği) düşündürür.<br>II- Pirinç suyu renginde dışkı, kolera ve <em>Escherichia coli</em> (ETEC) nedenli ishalleri düşündürür.<br>III- <em>Salmonella</em> gastroenteritinde bezelye çorbası ve şigellozda domates çorbası görünümünde ishal tariflenir.<br>IV- Çok sayıda kişide aynı anda ishalin olması, aynı kaynaktan enfekte olmayı düşündürür.<br>V- İyi pişirilmeden yenen et (özellikle kümes hayvanı), kaynatılmadan içilen sütten ortalama 3 (1-7) gün sonra oluşan ishal; <em>Campylobacter</em> enfeksiyonunu düşündürür.</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Yalnız I ve II</div><div class="q-opt"><b>B)</b> Yalnız III ve IV</div><div class="q-opt"><b>C)</b> Yalnız III, IV ve V</div><div class="q-opt"><b>D)</b> Yalnız II, III, IV ve V</div><div class="q-opt ok"><b>E)</b> Hepsi ✓</div></div>
+<div class="q-why"><p><strong>E doğru (hepsi).</strong> Beş önerme de sunumdaki anamnez ipuçlarıdır. Köpüklü dışkı fermente olan karbonhidratın gazını gösterir (I). Pirinç suyu görünümü mukus parçacıklı, renksiz, bol sekretuvar ishaldir (II). Sunumda <em>Salmonella</em> için bezelye çorbası, şigelloz için domates çorbası görünümü tarif edilir (III). Aynı anda çok kişinin hastalanması ortak besin ya da su kaynağını (IV), iyi pişmemiş et ve kaynatılmamış süt-su belirli etkenleri (<em>Campylobacter</em>, <em>Salmonella</em>, EHEC, <em>Brucella</em>) düşündürür (V).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S1</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S1</div>
+<div class="q-stem">Ne zaman gaitada parazit incelemesi isteriz gibi bir soruydu.<br>I. -<br>II. -<br>III. -<br>IV. Gelişmekte olan ülkelere seyahat sonrası gelişen ishal.<br>V. Akkiz immün yetmezlikli hastadaki uzun süren ishal.</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Sadece I</div><div class="q-opt"><b>B)</b> II ve III</div><div class="q-opt"><b>C)</b> II, IV, V</div><div class="q-opt ok"><b>D)</b> I, III, IV, V ✓</div><div class="q-opt"><b>E)</b> I, II, III, IV, V</div></div>
+<div class="q-why"><p><strong>D doğru.</strong> Parazitler (özellikle <em>Giardia</em>, <em>Cryptosporidium</em>, <em>Cyclospora</em>, <em>E. histolytica</em>) çoğunlukla bir haftayı aşan, persistan ishal yapar. Bu yüzden inceleme süresi uzayan ishalde, gelişmekte olan ülkelere seyahatten sonra, bağışıklığı baskılanmış hastada ve salgınlarda istenir. Soru öğrenci hafızasından aktarılmıştır; seçeneklerden yalnızca II numaralı durumun bu ölçütlere uymadığı anlaşılıyor.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S43</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S43</div>
+<div class="q-stem">Aşağıdakilerden hangisi uzamış ishal nedenleri arasında öncelikle yer almaz?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Shigella</em> türleri ile oluşan ishaller</div><div class="q-opt"><b>B)</b> Laktoz intoleransı</div><div class="q-opt"><b>C)</b> Gastrointestinal Tüberküloz</div><div class="q-opt ok"><b>D)</b> <em>Bacillus cereus</em> nedenli besin zehirlenmeleri ✓</div><div class="q-opt"><b>E)</b> Giardiyazis</div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <em>B. cereus</em> besin zehirlenmesi hazır ya da bağırsakta salınan toksinle olur ve toksin bitince, genellikle 24 saatte, kendiliğinden geçer.</p><p>Uzamış (persistan) ishalin nedenleri: giardiyazis (E), enfeksiyon sonrası <strong>laktoz intoleransı</strong> (B), bağırsak tüberkülozu (C) ve bazı bakteriyel enfeksiyonlar, özellikle tedavi edilmemiş şigelloz (A).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S2</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S2</div>
+<div class="q-stem">Önceki soruda belirtilen hastada hangi tedavi planını önerirsiniz?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> Hastanın hemodinamik durumu belirlenerek sıvı açığı karşılanır. ✓</div><div class="q-opt"><b>B)</b> Hastaneye yatırarak parenteral antibiyoterapi uygulanır.</div><div class="q-opt"><b>C)</b> Gaita kültürü sonucuna göre IV antibiyotik uygulanır.</div><div class="q-opt"><b>D)</b> Gaita kültürü sonuçlanıncaya kadar Siprofloksasin 2 × 500 mg tablet reçete edilir.</div><div class="q-opt"><b>E)</b> Parenteral sıvı tedavisi ve seftriakson 2 × 1 gr IV tedavisi uygulanır.</div></div>
+<div class="q-var">Önceki soru 2025-26 S1'di: kremalı pastadan 1 saat sonra kusma → S. aureus enterotoksini (Bölüm 6).</div>
+<div class="q-why"><p><strong>A doğru.</strong> Stafilokok besin zehirlenmesinde belirtiler besinde <strong>önceden oluşmuş</strong> enterotoksinden kaynaklanır; bakteri hastanın bağırsağında çoğalmaz. Antibiyotik toksini etkisizleştirmez. Tedavi, hemodinamik durum ve dehidratasyon derecesi belirlenip sıvı açığının ağızdan ya da damar yoluyla karşılanmasıdır; tablo 24-48 saatte kendiliğinden geçer.</p><p>Hastaneye yatırıp parenteral antibiyotik (B, E), kültüre göre damar yolu antibiyotiği (C) ve ampirik siprofloksasin (D) gereksizdir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S4</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S4</div>
+<div class="q-stem">Aşağıdaki hangi etkene bağlı gelişen gastroenterit kliniğinde antibakteriyel tedavi önerilmez?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>V. cholerae</em></div><div class="q-opt"><b>B)</b> <em>C. jejuni</em></div><div class="q-opt"><b>C)</b> <em>G. intestinalis</em></div><div class="q-opt ok"><b>D)</b> Enterovirüsler ✓</div><div class="q-opt"><b>E)</b> <em>C. difficile</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <strong>Enterovirüsler</strong> virüs olduğu için antibakteriyel ilaçtan etkilenmez; tedavi sıvı-elektrolittir.</p><p><em>V. cholerae</em> (A) doksisiklin ya da azitromisinle, <em>C. jejuni</em> (B) ağır olguda azitromisinle, <em>C. difficile</em> (E) oral vankomisin ya da fidaksomisinle tedavi edilir. <em>Giardia intestinalis</em> (C) bir protozoondur ve metronidazol, tinidazol gibi ilaçlar alır; soru “antibakteriyel” derken antimikrobiyal tedavi gereken etkenleri kastediyor.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S3</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S3 · 2023-24 S8</div>
+<div class="q-stem">İshalli hastada aşağıdaki durumların hangisi veya hangilerinde antibiyotik tedavisi gereklidir?<br>1- <em>Shigella</em>, <em>Salmonella</em>, <em>C. jejuni</em> kaynaklı enfeksiyöz ishali olup, genel durumu iyi olan hastalar.<br>2- İshalin başlamasından önceki bir ay içinde herhangi bir sebeple antimikrobiyal bir ilaç kullanan veya kullanırken ishali başlayan (<em>C. difficile</em>?) hastalar<br>3- 35 yaş üstü hastalar<br>4- Protez kalp kapakçığı dahil protez taşıyan hastalar<br>5- Kısa süre önce uluslararası seyahat öyküsü olan ve 38.5°C ateş yüksekliği olan ve/veya sepsis belirtileri olan kişiler</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> Yalnız 2, 4 ve 5 ✓</div><div class="q-opt"><b>B)</b> Yalnız 1 ve 2</div><div class="q-opt"><b>C)</b> Yalnız 1, 3 ve 5</div><div class="q-opt"><b>D)</b> Hepsi</div><div class="q-opt"><b>E)</b> Sadece 4</div></div>
+<div class="q-var">Diğer yıllarda doğru cevap: 2023-24 S8: <strong>Yalnız II, IV ve V</strong>.</div>
+<div class="q-why"><p><strong>A doğru (2, 4 ve 5).</strong> Antibiyotik kullanırken ya da son bir ayda kullanmışken başlayan ishalde <em>C. difficile</em> düşünülür ve tedavi edilir (2). Protezi olan hastada bakteriyemi protez enfeksiyonuna yol açabilir (4). Seyahat dönüşü yüksek ateş ya da sepsis enterik ateşi düşündürür (5).</p><p>Genel durumu iyi, hafif <em>Shigella</em>, <em>Salmonella</em> ya da <em>C. jejuni</em> ishali çoğu zaman kendiliğinden geçer; özellikle <em>Salmonella</em>'da antibiyotik taşıyıcılığı uzatır (1). Yaşın 35'i aşması tek başına bir ölçüt değildir (3).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S29</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S29</div>
+<div class="q-stem">Akut enfeksiyöz ishalde aşağıdakilerden hangisi etken olarak saptandığında antimikrobiyal tedavi uygulanmayabilir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>V. cholerae</em></div><div class="q-opt"><b>B)</b> <em>C. difficile</em></div><div class="q-opt"><b>C)</b> <em>C. jejuni</em></div><div class="q-opt"><b>D)</b> <em>Shigella</em> spp</div><div class="q-opt ok"><b>E)</b> Non-typhi <em>Salmonella</em> ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> <strong>Tifo dışı <em>Salmonella</strong></em> gastroenteriti sağlıklı erişkinde 4-7 günde kendiliğinden geçer. Antibiyotik hastalığın süresini kısaltmaz, dışkıyla bakteri atılımını uzatır ve direnci seçer. Yalnızca bebek, yaşlı, bağışıklığı baskılanmış, protezli ya da bakteriyemi düşünülen hastada tedavi edilir.</p><p>Kolera (A) süreyi ve sıvı kaybını azaltmak için, <em>C. difficile</em> (B) her zaman, <em>C. jejuni</em> (C) ağır ya da erken dönemde, <em>Shigella</em> (D) bulaşı azaltmak için tedavi edilir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S37</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S37</div>
+<div class="q-stem">Aşağıdakilerden hangisi ampirik antimikrobiyal tedavi uygulanması gerekli durumlardan değildir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> 50 yaş üstünde <em>Salmonella paratyphi</em>'nin etken olduğu ishalli olgular</div><div class="q-opt"><b>B)</b> İltihaplı ishali olup, genel durumu bozuk olanlar</div><div class="q-opt ok"><b>C)</b> <em>Salmonella</em>'lara bağlı hafif derece ishali olanlar ✓</div><div class="q-opt"><b>D)</b> İshalin başlamasından önceki bir ay içinde herhangi bir sebeple antimikrobiyal ilaç kullanan veya kullanırken ishali başlayanlar</div><div class="q-opt"><b>E)</b> İleri derecede dehidratasyona yol açan ishali olanlar</div></div>
+<div class="q-why"><p><strong>C doğru.</strong> Hafif <em>Salmonella</em> ishalinde antibiyotik yarar sağlamaz, taşıyıcılığı uzatır.</p><p>50 yaş üstü <em>Salmonella</em> ishali (A; damar duvarına yerleşme riski), genel durumu bozuk inflamatuvar ishal (B), son bir ayda antibiyotik öyküsü (D; <em>C. difficile</em>) ve ileri dehidratasyona yol açan ishal (E) ampirik tedavi endikasyonlarıdır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S7</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S7 · 2020-21 S5</div>
+<div class="q-stem">Aşağıdakilerden hangisi doğrudur?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Enflamatuar ishallerde öncelikle antimotilite ilaçlar kullanılmalıdır.</div><div class="q-opt"><b>B)</b> Turist ishallerinde daima antimikrobiyal profilaksi önerilir.</div><div class="q-opt"><b>C)</b> İshalli hastada tedavinin esası antimikrobiyal tedavidir.</div><div class="q-opt ok"><b>D)</b> Salgın durumunda ilk izole edilen bakterilerin antibiyotik duyarlılık durumuna göre antimikrobiyal tedavi yönlendirilebilir. ✓</div><div class="q-opt"><b>E)</b> Kanlı ishali olan kişilerin asemptomatik temaslılarına ampirik tedavi yanı sıra uygun enfeksiyon önleme ve kontrol önlemlerini takip etmeleri tavsiye edilir.</div></div>
+<div class="q-why"><p><strong>D doğru.</strong> Ortak kaynaklı salgında etken suş aynıdır. İlk hastalardan izole edilen bakterinin antibiyogramı sonraki hastalarda ampirik seçimi yönlendirir.</p><p>İnflamatuvar ishalde antimotilite ilaçları etkenin bağırsakta kalış süresini uzatır ve toksik megakolon riskini artırır (A). Turist ishalinde rutin antimikrobiyal profilaksi önerilmez (B). İshal tedavisinin esası sıvı-elektrolit tedavisidir (C). Kanlı ishalli hastanın belirtisiz temaslılarına ampirik tedavi <strong>verilmez</strong>, yalnızca enfeksiyon kontrol önlemleri önerilir (E).</p></div>
+</div>
+</section>
+</main></body></html>

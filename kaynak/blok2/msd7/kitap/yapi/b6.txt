@@ -1,0 +1,132 @@
+# Toksin Kaynaklı İshaller ve Diğer Bakteriler | Besin zehirlenmesi yapan toksijenik bakteriler (S. aureus, B. cereus, C. perfringens), sekretuvar toksinler ve mekanizmaları, Vibrio cholerae ve kolera, deniz-su kaynaklı bakteriler (V. parahaemolyticus, Aeromonas), Listeria ve bakteriyel toksinlerin sınıflandırılması. Bu etkenlerin çoğu okunamayan gastroenterit sunumunda (S2) yer alıyor olabilir; aşağıdaki anlatım standart tıbbi mikrobiyoloji bilgisine dayanır. || Bölüm 6 · Toksinli etkenler
+
+## Toksin tipleri
+Bakteriyel toksinler yapılarına ve etkilerine göre ayrılır. Çoğu **A-B yapısındadır:** B (binding) parçası hücreye bağlanır, A (active) parçası içeri girip etkiyi yapar.
+| Toksin tipi | Ne yapar | Örnek |
+| **Enterotoksin** | bağırsak epitelinde su-elektrolit salgısını artırır (cAMP/cGMP) | kolera toksini, ETEC LT/ST, *S. aureus*, *B. cereus* |
+| **Sitotoksin** | hücreyi öldürür, mukozayı yıkar | Shiga toksini (*Shigella*, EHEC), *C. difficile* A/B, *C. perfringens* |
+| **Nörotoksin** | sinir iletimini bozar | botulinum (gevşek felç), tetanoz |
+|= Toksin sınıfları. Enterotoksin = sulu ishal; sitotoksin = kanlı, iltihaplı; nörotoksin = sinir belirtileri.
+**Hazır (preformed) toksin** besinde önceden oluşur: *S. aureus*, *B. cereus* (emetik), *C. botulinum*. Bunlarda kuluçka kısadır ve antibiyotik işe yaramaz.
+
+## Besin zehirlenmesi yapan toksijenik bakteriler
+| Etken | Kaynak | Kuluçka | Klinik | Toksin |
+| ***S. aureus*** | kremalı pasta, pastane ürünü, elle hazırlanan et-salata | **1-6 saat** | ani **kusma**, bulantı, az ishal; ateş yok | ısıya **dayanıklı** hazır enterotoksin (A-E); pişirmeyle yok olmaz |
+| ***B. cereus* emetik** | bekletilmiş/ısıtılmış **pilav** | **1-6 saat** | **kusma** | ısıya dayanıklı hazır toksin (sereulid) |
+| ***B. cereus* ishal tipi** | et, sebze, sos | 8-16 saat | sulu ishal | bağırsakta salınan, ısıya duyarlı enterotoksin |
+| ***C. perfringens*** | büyük kazanda pişip ılık bekleyen et, et suyu | 8-16 saat | sulu ishal, kramp; kusma az | bağırsakta sporülasyonda salınan enterotoksin |
+| ***C. botulinum*** | ev konservesi, bal (bebek) | 12-36 saat | bulanık görme, pitoz, disfaji, **simetrik inen gevşek felç** | nörotoksin (asetilkolin salınımını engeller) |
+|= Besin zehirlenmesi etkenleri. Pasta → stafilokok, pilav → cereus (kusma), bekletilmiş et → perfringens.
+?? ***S. aureus* toksini ısıya dayanıklıdır:** yemeği yeniden ısıtmak bakteriyi öldürür ama toksini bozmaz, zehirlenme yine olur. Kremalı pasta + 1-6 saatte kusma + gaitada az lökosit → *S. aureus*.
+!! 2025-26 S1'de hastanın gaitasında 8-10 lökosit görülmüş ve yine de cevap *S. aureus* kabul edilmiştir. Stafilokok enterotoksini tipik olarak lökositsiz, kusma ağırlıklı tablo yapar; buradaki az sayıda lökosit tabloyu değiştirmez, öykü (kremalı pasta, 1 saat, ortak yiyen arkadaş, kusma ön planda) klasik stafilokok besin zehirlenmesidir.
+
+## Vibrio cholerae ve kolera
+*Vibrio cholerae*, kıvrık (virgül biçiminde), tek polar kamçısıyla hareketli, **oksidaz pozitif** Gram negatif bir bakteridir. Kolera toksini A-B yapısındadır: hücre içinde **adenilat siklazı sürekli aktive edip cAMP'yi** yükseltir; enterositten lümene masif klor ve su salınır, sodyum emilimi durur. Sonuç, mukoza sağlam kalırken (lökositsiz) günde litrelerce **“pirinç suyu” görünümünde sekretuvar ishaldir**; hızlı, ağır dehidratasyon ve ölüm riski vardır.
+- **O1 ve O139** serogrupları kolera toksini üretip klasik salgınları yapar.
+- Mide asidine **duyarlıdır;** bu yüzden enfektif doz yüksektir (yaklaşık 10<sup>8</sup>). Aklorhidri ya da asit baskılayıcı kullanımı dozu düşürür.
+- Üremesi için **tuza (NaCl) gereksinim duyar** (halofilik), alkali ortamı sever (TCBS besiyerinde sarı koloni).
+- Tedavinin esası sıvı (ORS ve damar yolu); doksisiklin ya da azitromisin süreyi ve bulaşı azaltır.
+!! 2024-25 S49'da “mide asidine duyarlı değildir, 100 bakteriyle kolera gelişir” şıkkı **yanlış** olarak işaretlenir: *V. cholerae* aside **duyarlıdır** ve hastalık için yüksek doz gerekir.
+
+## Su ve deniz kaynaklı bakteriler
+| Etken | Özellik |
+| ***V. parahaemolyticus*** | çiğ deniz ürünü (istiridye, balık); sulu, bazen kanlı ishal; **halofilik**; inflamatuvar grupta |
+| ***V. vulnificus*** | istiridye; karaciğer hastalarında sepsis, yara enfeksiyonu |
+| ***Aeromonas hydrophila*** | **tatlı su**, su kaynaklı; hareketli, **oksidaz pozitif** Gram negatif basil; fakültatif anaerop; suyla temas eden yaralarda **selülit**; tuzsuz sever, %6 NaCl'de iyi üremez |
+| ***Plesiomonas shigelloides*** | su, deniz ürünü; oksidaz pozitif |
+|= Su ve deniz kaynaklı etkenler. *Aeromonas* tatlı su ve yaradır; tuzu sevmez. *Vibrio*'lar tuzu sever.
+!! *Aeromonas hydrophila* **%6 NaCl'li besiyerinde iyi üremez** (halofilik değildir); 2023-24 S45'te bu şık yanlıştır.
+
+## Listeria monocytogenes
+*Listeria monocytogenes*, Gram pozitif basildir; en çarpıcı özelliği **buzdolabı sıcaklığında (soğukta) üreyebilmesidir** (soğukta zenginleştirme). Pastörize edilmemiş süt ve peynir, hazır et ürünleri, çiğ sebzelerle bulaşır. Sağlıklı erişkinde ateşli gastroenterit yapar; gebe, yenidoğan, yaşlı ve bağışıklığı baskılanmışta **sepsis ve menenjit** yapar; gebelikte düşük ve ölü doğuma yol açar.
+?? **Buzdolabında üreyen, gastroenterit + sepsis + menenjit = Listeria.**
+
+## Diğer bakteriler ve sekresyon sistemleri
+Bazı patojenler toksini doğrudan konak hücresine enjekte eden **salgı sistemleri** kullanır: *Salmonella*, *Shigella* ve EPEC **tip 3 sekresyon sistemiyle** efektör proteinleri hücreye sokup invazyon ve sinyal değişikliği yapar. *Helicobacter pylori* **tip 4 sekresyon sistemiyle** CagA proteinini mide epiteline aktarır. Kolera toksini ise bir salgı sistemiyle değil, reseptöre bağlanıp endositozla etki eder.
+
+## Bölüm özeti
+- Enterotoksin → sulu ishal; sitotoksin → kanlı; nörotoksin → sinir belirtileri. Hazır toksin: *S. aureus*, *B. cereus* (emetik), *C. botulinum*.
+- Pasta → *S. aureus* (ısıya dayanıklı toksin, kusma); pilav → *B. cereus*; bekletilmiş et → *C. perfringens*.
+- Kolera: oksidaz +, halofilik, cAMP ↑, pirinç suyu ishali, aside duyarlı, yüksek doz; O1/O139.
+- *Aeromonas*: tatlı su, oksidaz +, yara selüliti, tuzu sevmez. *V. parahaemolyticus*: deniz, halofilik.
+- *Listeria*: soğukta ürer, gastroenterit + sepsis + menenjit, gebelikte tehlikeli.
+
+## Çıkmış sorular: Toksin Kaynaklı İshaller ve Diğer Bakteriler
+Bu bölümden 7 sınavda **8 soru** çıktı; bunlar **8 farklı soruya** karşılık geliyor ve **0 tanesi** birden fazla yıl soruldu. Her kartta sorunun en yeni hâli, sağ üstte kaç kez sorulduğu, kartın altında da çıktığı tüm sınavlar yazar. Rozeti koyu olanlar 3 ve daha fazla kez sorulmuş sorulardır.
+@QB Çıkmış sorular
+@Q 2022-23 S47 | 1 KEZ | Çıktığı sınavlar: 2022-23 S47
+@K Buzdolabında üreyebilen, gastroenterit yapan septisemi ve menenjit etkeni bakteri hangisidir?
+A) *Campylobacter jejuni*
+B) *Vibrio cholerae*
+C) *Listeria monocytogenes* ✓
+D) *Clostridium botulinum*
+E) *Vibrio parahemolyticus*
+C doğru. *Listeria monocytogenes* **buzdolabı sıcaklığında üreyebilir**; pastörize edilmemiş süt-peynir ve hazır et ürünleriyle bulaşır. Sağlamda ateşli gastroenterit, gebe-yenidoğan-yaşlı-bağışıklığı baskılanmışta **sepsis ve menenjit** yapar.
+*C. jejuni* (A) ve *V. parahaemolyticus* (E) menenjit yapmaz; *V. cholerae* (B) sekretuvar ishal; *C. botulinum* (D) nörotoksinle gevşek felç yapar.
+@@
+@Q 2025-26 S1 | 1 KEZ | Çıktığı sınavlar: 2025-26 S1
+@K Daha önce sağlıklı olan 25 yaşında erkek hasta; yemekten bir saat sonra başlayan bulantı kusma şikayetleri ile başvurdu. Hastada günde 7-8 kez olan kusma ve sonraki süreçte başlayan 1-2 kez olan ishal şikayeti mevcut. Hastanın öyküsünden kremalı yaş pasta yediği öğrenildi. Aynı pastadan yiyen arkadaşında da benzer şikayetlerinin olduğu öğrenildi. Hastadan alınan gaita tetkiklerinin incelemesinde gaitada 8-10 lökosit görüldü. Klinik olarak besin zehirlenmesi düşünülen bu hastada öncelikle aşağıdaki etkenlerden hangisi düşünülür?
+A) Enteroinvaziv *E. coli*
+B) *S. aureus* ✓
+C) *C. perfringens*
+D) *Salmonella typhi*
+E) *Shigella* spp.
+B doğru. Kremalı pasta stafilokokun en sevdiği besindir; elle hazırlanıp oda ısısında bekleyen üründe bakteri çoğalıp **ısıya dayanıklı enterotoksinini önceden üretir**. Toksin alınınca 1-6 saatte ani kusma başlar, ishal geri plandadır, ateş yoktur. Ortak yiyen arkadaşta da aynı tablonun olması ortak kaynaklı besin zehirlenmesini gösterir.
+Gaitadaki 8-10 lökosit bu tanıyı değiştirmez; stafilokok tipik olarak lökositsiz tablo yapar, buradaki az sayı belirleyici değildir. EIEC (A) ve *Shigella* (E) kanlı-iltihaplı ishal, uzun kuluçkayla; *C. perfringens* (C) 8-16 saatte ishal; *S.* Typhi (D) enterik ateş yapar.
+@@
+@Q 2025-26 S37 | 1 KEZ | Çıktığı sınavlar: 2025-26 S37
+@K Aşağıdaki bakteriyel toksinlerden hangisi sekretuvar ishal nedenlerindendir?
+A) Enteroinvaziv *Escherichia coli*
+B) *Shigella sonnei*
+C) *Bacillus cereus* ✓
+D) *Campylobacter jejuni*
+E) *Salmonella* Typhimurium
+C doğru. *Bacillus cereus* enterotoksinleriyle bağırsakta su-elektrolit salgısını artırır; mukozaya invazyon yoktur, ishal **sekretuvar** tiptedir.
+EIEC (A), *Shigella sonnei* (B), *C. jejuni* (D) ve *S.* Typhimurium (E) mukozayı işgal eden, iltihaplı (dışkıda lökositli) ishal yapan etkenlerdir.
+@@
+@Q 2024-25 S49 | 1 KEZ | Çıktığı sınavlar: 2024-25 S49
+@K Aşağıdakilerden hangisi *Vibrio cholerae* için yanlıştır?
+A) Üreyebilmek için tuza gereksinim duyar
+B) Katalaz ve oksidaz pozitiftir
+C) Mide asidine duyarlı değildir 100 bakteri ile kolera gelişir ✓
+D) Polar flajellumu sayesinde hareketlidir
+E) O1 ve O139 suşları kolera toksini ile klasik kolera salgınına neden olur
+C yanlıştır. *V. cholerae* mide asidine **duyarlıdır**; asitten kurtulup bağırsağa canlı ulaşabilmesi için yaklaşık 10<sup>8</sup> gibi yüksek bir doz gerekir. Mide asidini azaltan durumlarda (aklorhidri, antiasit) bu doz düşer. “100 bakteriyle kolera gelişir” ifadesi düşük dozlu *Shigella* için geçerlidir, kolera için değil.
+Üremek için tuza gereksinim duyması (A), katalaz ve oksidaz pozitifliği (B), tek polar kamçıyla hareket (D) ve O1-O139 suşlarının kolera toksiniyle salgın yapması (E) doğrudur.
+@@
+@Q 2023-24 S45 | 1 KEZ | Çıktığı sınavlar: 2023-24 S45
+@K Aeromonas hydrophila* mikrobiyolojik özelliklerinden yanlış olanı bulunuz.
+A) Fakültatif anaerob ürer
+B) Oksidaz pozitiftir
+C) Hareketli gram negatif basildir.
+D) Suyla temas eden yaralarda sellülite neden olur
+E) %6 NaCl'lü besiyerlerinde iyi ürerler. ✓
+E yanlıştır. *Aeromonas hydrophila* **tatlı su** kaynaklı bir bakteridir ve yüksek tuzu sevmez; %6 NaCl'li besiyerinde iyi üremez (bu özellik halofilik *Vibrio*'lara aittir).
+Fakültatif anaerop üremesi (A), oksidaz pozitifliği (B), hareketli Gram negatif basil olması (C) ve suyla temas eden yaralarda selülit yapması (D) doğrudur.
+@@
+@Q 2023-24 S50 | 1 KEZ | Çıktığı sınavlar: 2023-24 S50
+@K Aşağıdakilerden hangisi önceden oluşmuş enterotoksinlerin alınması ile gastroenterite neden olmaz?
+A) *Clostridium perfringens*
+B) *Staphylococcus aureus*
+C) *Clostridium difficile* ✓
+D) *Bacillus cereus*
+E) *Clostridium perfringens*
+C doğru. *Clostridium difficile* toksinlerini besinde önceden değil, **bağırsakta kolonize olup** orada üretir (A ve B toksinleri); bu yüzden “önceden oluşmuş toksin alınması” grubuna girmez. Hastalığı antibiyotikle florası bozulmuş kişide çoğalarak yapar.
+*C. perfringens* (A, E), *S. aureus* (B) ve *B. cereus* (D) besinde ya da besin yoluyla alınan hazır/erken salınan toksinlerle besin zehirlenmesi yapar.
+@@
+@Q 2022-23 S39 | 1 KEZ | Çıktığı sınavlar: 2022-23 S39
+@K Sekretuvar toksini ile birlikte emetik toksini de aktif olarak, hastada ateşsiz ve yüksek sayıda dışkılamaya neden olan, gaita mikroskopisinde lökosit görülmeyen patojen hangisidir?
+A) *Campylobacter jejuni*
+B) Enteropatojenik *Escherichia coli*
+C) *Clostridium difficile*
+D) *Bacillus cereus* ✓
+E) *Entamoeba coli*
+D doğru. *B. cereus* iki toksin üretir: besinde hazır bulunan **emetik** toksin (kusma) ve bağırsakta salınan **sekretuvar (diyareik)** enterotoksin (sulu ishal). Mukozaya invazyon olmadığı için ateş ve dışkıda lökosit yoktur.
+*C. jejuni* (A), *C. difficile* (C) iltihaplı, lökositli ishal yapar; EPEC (B) bebek ishali etkenidir; *Entamoeba coli* (E) apatojen bir amiptir.
+@@
+@Q 2021-22 S40 | 1 KEZ | Çıktığı sınavlar: 2021-22 S40
+@K Aşağıdaki enteropatojenlerden hangisi tip 4 sekresyon sistemi ile etki yapar?
+@A Helicobacter pylori (tip 4 sekresyon sistemi)
+@O Kayıtta cevap “Vibrio cholera” yazılmış; bu büyük olasılıkla hatalı. Tip 4 sekresyon sistemini kullanan ve soru kalıbına uyan enteropatojen H. pylori'dir (CagA'yı tip 4 ile aktarır). V. cholerae toksinini tip 4 ile değil, reseptöre bağlanıp endositozla verir.
+Cevap (doğrusu): *Helicobacter pylori*. Tip 4 sekresyon sistemi CagA proteinini mide epiteline enjekte eder. *Salmonella*, *Shigella* ve EPEC tip 3 sekresyon sistemiyle invazyon yapar; kolera toksini bir sekresyon sistemiyle değil, GM1 reseptörüne bağlanıp hücreye girerek etki eder.
+@@

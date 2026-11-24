@@ -1,0 +1,141 @@
+# İshale Yaklaşım, Klinik Tipler ve Viral Etkenler | İshalin tanımı ve süreye göre sınıfları, ince ve kalın bağırsak tipi ishal, oluş mekanizmaları, inflamatuvar ve inflamatuvar olmayan ishal ayrımı, kuluçka süresinden etkene gitme, risk grupları, viral etkenler ve antibiyotik endikasyonları. Sınavın her yıl ilk 5-10 sorusu bu bölümden gelir. || Bölüm 1 · Genel yaklaşım
+
+## Tanımlar
+**İshal**, günde üç ya da daha fazla kez sulu veya şekilsiz dışkılama ya da günlük dışkı miktarının 200 g'ı aşmasıdır. Bristol dışkı skalasında tip 6 (lapa) ve tip 7 (sulu) ishal sayılır. Bebekte tanım, o bebeğin olağan dışkılama düzenine göre yapılır: anne sütü alan bebek günde 6-8 kez yumuşak dışkı yapabilir ve bu ishal değildir.
+Süreye göre üç grup vardır. Sınavda seçenekler süreyi bozarak yanlış yapılır (“üç haftayı aşan akut ishal”, “üç aydan uzun kronik ishal”):
+| Tip | Süre | Tipik nedenler |
+| **Akut enfeksiyöz ishal** | **14 güne kadar** | virüsler, bakteriler, besin zehirlenmesi |
+| **Persistan (uzamış) ishal** | **14-30 gün** | *Giardia*, *Cryptosporidium*, *Cyclospora*, *E. histolytica*; enfeksiyon sonrası laktoz intoleransı; bazen *Shigella*, EPEC, EAEC |
+| **Kronik ishal** | **30 günden uzun** | enfeksiyon dışı nedenler ağırlıkta: inflamatuvar bağırsak hastalığı, çölyak, irritabl bağırsak, malabsorbsiyon, bağırsak tüberkülozu, ilaçlar |
+|= İshalin süreye göre sınıflaması. Sınırlar: 14 gün ve 30 gün.
+**Dizanteri:** az miktarda, sık, kanlı-mukuslu dışkılama; çoğu zaman ateş, kramp şeklinde karın ağrısı ve tenezmle birlikte. Kolon mukozasının harabiyetini gösterir.
+**Tenezm:** sık sık, ağrılı dışkılama hissi ve dışkılama isteğidir; hasta tuvaletten sonra da boşalamadığını, rahatlayamadığını hisseder. Rektum mukozasının iltihabı, rektumu sürekli doluymuş gibi uyarır. “Sık sık bol miktarda dışkılama” tenezm değildir.
+**Besin zehirlenmesi:** besinle alınan mikroorganizma ya da onun ürettiği toksinin yol açtığı, çoğunlukla ishal ve kusmayla, bazen nörolojik belirtilerle (botulizm) giden tablodur. Toksin besinde önceden oluşmuş olabilir (*S. aureus*, *B. cereus*'un kusma toksini, *C. botulinum*) ya da etken bağırsakta çoğalıp toksinini orada salgılayabilir. Bu yüzden “yalnız besinde üreyen bakterinin toksiniyle olur” diye daraltılan tanım eksiktir.
+
+## İnce bağırsak tipi ve kalın bağırsak tipi ishal
+İnce bağırsak günde litrelerce sıvının geçtiği, emilimin çoğunun yapıldığı yerdir. Burada salgı artarsa ya da emilim bozulursa çok miktarda sıvı kolona ulaşır; kolonun emme kapasitesi aşılır ve **bol, sulu** dışkı çıkar. Kolon ise küçük hacimli bir rezervuardır; mukozası iltihaplanınca rezervuar işlevi bozulur ve hasta **az miktarda, çok sık** dışkılar.
+| Özellik | İnce bağırsak tipi | Kalın bağırsak tipi |
+| Miktar ve sıklık | **bol, sulu; sıklık az** (günde 3-4 kez) | **az miktarda, çok sık** (günde 10-20 kez) |
+| Kan, mukus | yok | sık; dizanteri tablosu |
+| Karın ağrısı | göbek çevresinde, kramp | alt karın, sol alt kadran; tenezm |
+| Ateş | yok ya da hafif | sık |
+| Dehidratasyon | belirgin | daha az |
+| Dışkıda lökosit | yok | var |
+| Örnek | kolera, ETEC, viral, *Giardia* | *Shigella*, EIEC, *C. difficile*, *E. histolytica* |
+|= İnce ve kalın bağırsak tipi ishal. Sınavda “ince bağırsak tipi: az, sık sık” diye ters çevrilir.
+?? **İnce = İçerik bol; Kalın = Kan, Kramp, Kısa ama sık.** İnce bağırsak ishali hacim sorunudur (dehidratasyon), kalın bağırsak ishali iltihap sorunudur (kan, ateş, tenezm).
+
+## Oluş mekanizmalarına göre ishal
+Bağırsak lümenindeki su, iyonların peşinden pasif olarak hareket eder. Bu yüzden her ishal mekanizması sonunda “lümende fazla ozmotik yük kalması” ya da “lümene fazla iyon salgılanması” sorusuna iner.
+1. **Ozmotik ishal:** Emilmeyen bir madde (laktaz eksikliğinde laktoz, magnezyum içeren laksatifler, sorbitol) lümende kalır ve suyu çeker. Kolonda bakteriler bu karbonhidratı fermente edip gaz ve organik asit yapar; dışkı **köpüklü**, ekşi kokulu ve asidiktir. Hasta **aç kalınca ishal durur**, çünkü yük ortadan kalkar. Rotavirüs ince bağırsak villus uçlarındaki emici hücreleri harap edip disakkaridazları azalttığı için ozmotik bileşen yapar; gastroenterit sonrası geçici disakkaridaz eksikliği de bu yolla köpüklü dışkıya yol açar.
+2. **Sekretuvar ishal:** Enterositlerde hücre içi cAMP ya da cGMP artar; CFTR klor kanalı açılır ve lümene Cl<sup>-</sup>, peşinden Na<sup>+</sup> ve su salgılanır, aynı anda Na<sup>+</sup> emilimi baskılanır. Kolera toksini ve ETEC'in ısıya duyarlı toksini (LT) cAMP'yi, ETEC'in ısıya dayanıklı toksini (ST) cGMP'yi artırır. Mukoza sağlam kaldığı için dışkıda kan ve lökosit yoktur; **açlıkta ishal sürer**. Dışkı “pirinç suyu” görünümünde olabilir. Hormon salgılayan tümörler (VIP-oma, karsinoid), safra asitleri, laksatifler ve bazı ilaçlar da bu yolla ishal yapar.
+3. **İnflamatuvar (eksudatif) ishal:** Etken mukozayı işgal eder ya da sitotoksinle hücreleri öldürür. Mukoza ülserleşir; kan, mukus, protein ve lökosit lümene dökülür. Ateş, karın ağrısı ve tenezm eşlik eder.
+4. **Emilim alanının azalması:** Villusların körelmesi (çölyak, tropikal sprue), bağırsak rezeksiyonu ya da yaygın mukoza hasarı emilimi azaltır.
+5. **Motilite artışı:** Hızlı geçişte içerik emilime yeterince temas etmez (hipertiroidi, irritabl bağırsak, diyabetik nöropati).
+!! **Radyasyona bağlı akut ishal**, yüksek doz radyasyonun hızlı bölünen kript hücrelerini öldürmesiyle gelişir. Epitel yenilenemez, sıkı bağlantılar bozulur ve **bağırsak bariyeri işlevini yitirir** (intestinal bariyer disfonksiyonu). Salgı ya da motilite değişiklikleri ikincildir.
+
+## İnflamatuvar olmayan, inflamatuvar ve penetran ishal
+Klinikte en çok kullanılan sınıflama, etkenin mukozaya ne yaptığına göre yapılır. Dışkıda lökosit bakmak bu ayrımın en hızlı yoludur.
+| | İnflamatuvar olmayan (enterotoksik) | İnflamatuvar (invaziv, sitotoksik) | Penetran |
+| Mekanizma | enterotoksin; mukoza sağlam | mukozaya invazyon ya da sitotoksin | mukozayı geçip lenf ve kana yayılım |
+| Yer | proksimal ince bağırsak | kolon | distal ince bağırsak (ileum, Peyer plakları) |
+| Klinik | sulu ishal, ateş yok | dizanteri: kanlı-mukuslu, ateş, tenezm | enterik ateş: ateş, bakteriyemi |
+| Dışkıda lökosit | **yok** | **polimorf nüveli lökosit bol** | mononükleer hücre |
+| Etkenler | *V. cholerae*, ETEC, *C. perfringens*, *B. cereus*, *S. aureus*; *Giardia*, *Cryptosporidium*; rotavirüs, norovirüs | *Shigella*, EIEC, EHEC, *C. jejuni*, *S.* Enteritidis, *V. parahaemolyticus*, *C. difficile*, *E. histolytica* | *S.* Typhi, *Y. enterocolitica*, *Campylobacter fetus* |
+|= Etkenin mukozaya yaptığına göre üç tip ishal (gastroenterit sunumu).
+?? **İnflamatuvar diyare yapmayanlar = toksin grubu: “Kolera, ETEC ve üç besin zehirlenmesi bakterisi (S. aureus, B. cereus, C. perfringens)”.** Bu soru 5 yıl sordu ve her yıl doğru cevap bu beşten biriydi (*B. cereus*, *S. aureus*, *C. perfringens* iki kez, *V. cholerae*). Buna *Giardia* ve virüsleri ekleyin.
+?? **Kanlı ishal = “SS-CY-CE + amip”:** **S**higella, **S**almonella, **C**ampylobacter, **Y**ersinia, **C**. difficile, **E**. coli (EIEC, EHEC) ve *E. histolytica*. Enfeksiyon dışında inflamatuvar bağırsak hastalığı, iskemik kolit ve divertikülit. *Giardia* mukozayı işgal etmez, kanlı ishal yapmaz: “kanlı ishalde düşünülmez” sorusunun 3 yıldır cevabı Giardiazis.
+!! *V. parahaemolyticus* bir *Vibrio* olduğu hâlde inflamatuvar ishal grubundadır (deniz ürünüyle gelen, kanlı olabilen ishal). *V. cholerae* ise saf sekretuvardır. İkisini karıştıran şık her yıl gelir.
+
+## Kuluçka süresinden etkene gitmek
+Besinle gelen ishalde belirtilerin ne kadar sürede başladığı, toksinin nerede oluştuğunu gösterir. Toksin besinde önceden hazırsa mide-bağırsağa ulaşır ulaşmaz etki eder: **1-6 saat** içinde, kusmanın ön planda olduğu bir tablo başlar. Bakteri bağırsakta çoğalıp toksinini orada salgılıyorsa **8-16 saat** gerekir. Bakterinin mukozaya yerleşip invazyon yapması ise **16 saatten uzun**, çoğunlukla 1-3 gün sürer.
+@SVG kulucka.svg
+@SEKIL Besin kaynaklı ishal etkenlerinde kuluçka süreleri. Kısa kuluçka (1-6 saat) hazır toksini, 16 saati aşan kuluçka bağırsakta çoğalma ve invazyonu gösterir. Değerler sunumdaki kuluçka tablosu ve standart kaynaklardan.
+?? **6-16 kuralı:** 6 saatten kısa → hazır toksin (*S. aureus*, *B. cereus* kusma tipi); 8-16 saat → bağırsakta oluşan toksin (*C. perfringens*, *B. cereus* ishal tipi); 16 saatten uzun → bağırsakta çoğalan, invaziv bakteriler ve virüsler.
+!! 2024-25 S2'de anahtar “bağırsakta çoğalan veya invaziv bakterilerle oluşan ishallerde kuluçka süresi 16 saatten azdır” şıkkını doğru kabul etti. Standart bilgi tersidir: bu ishallerde kuluçka **16 saatten uzundur**; 16 saatten kısa olan, hazır toksinle oluşanlardır. Aynı soru gelirse diğer şıkların hepsi açıkça yanlış olduğundan anahtarın işaretlediği bu şık beklenir.
+
+## Konak savunması ve enfektif doz
+Bağırsak, mikroorganizmalara karşı katmanlı bir savunmayla korunur:
+- **Mide asidi:** Yutulan bakterilerin çoğunu öldürür. Asidi baskılayan ilaç (proton pompası inhibitörü), gastrektomi ya da aklorhidri, enfektif dozu düşürür. Mideden kolona doğru bakteri yoğunluğu mililitrede yaklaşık 10<sup>1</sup>'den 10<sup>11</sup>'e çıkar.
+- **Peristaltizm:** Bakterilerin mukozaya tutunmasını zorlaştırır. Antimotilite ilaçları invaziv etkenin bağırsakta kalış süresini uzatır; bu yüzden inflamatuvar ishalde verilmez.
+- **Normal mikrobiyota:** Besin ve tutunma yeri için patojenle yarışır, bakteriyosin ve kısa zincirli yağ asidi üretir (Bölüm 4). Antibiyotik bu engeli kaldırır; *C. difficile* ve *Salmonella* kolaylaşır.
+- **Mukozal bağışıklık:** salgısal IgA, laktoferrin, lizozim, Peyer plakları ve M hücreleri.
+- **Safra ve mukus**, yaş (bebek ve yaşlı) ve hijyen de duyarlılığı belirler.
+Bir etkenin kaç tanesinin hastalık yapmaya yettiği, nasıl bulaştığını belirler. Mide asidine dayanıklı etkenlerde (*Shigella*, kistli protozoonlar) birkaç düzine organizma yeter; bu etkenler kişiden kişiye, kreşte ve aile içinde kolayca yayılır. Aside duyarlı *V. cholerae* ve ETEC'te yüz milyonlarca bakteri gerekir; bu da ancak kirli su ya da besinle alınabilecek bir yüktür.
+@SVG enfektif_doz.svg
+@SEKIL İshal etkenlerinin enfektif dozları (gastroenterit sunumu). Düşük dozlu etkenler kreş ve aile içi salgınlar yapar.
+?? **Kreş üçlüsü (düşük doz): Shigella, Giardia, Cryptosporidium**; kreşte kolay yayılan virüsler: rotavirüs, adenovirüs, astrovirüs.
+
+## Epidemiyoloji ve risk grupları
+İshal, dünyada hâlâ önde gelen ölüm nedenlerindendir; ölümlerin çoğu düşük gelirli ülkelerde, 5 yaş altı çocuklarda ve 70 yaş üstü yaşlılarda olur. Kişi başına milli gelir düştükçe ishal ölümleri artar; iklim değişikliği de yağışlı ve kurak mevsimlerde ishal tepelerini büyütür.
+- **5 yaş altında** ishalden ölümlerin başlıca etkeni rotavirüstür; ardından *Shigella*, adenovirüs ve *Cryptosporidium* gelir.
+- **70 yaş üstünde** başlıca etkenler *Shigella*, rotavirüs, adenovirüs ve *Campylobacter*'dir. Ölüme götüren en önemli risk etkeni ise **güvenli suya ulaşamamak**tır (ardından sanitasyon eksikliği ve el hijyeni). Sınavda “70 yaş üstü ishallerin en önemli nedeni” sorusunun cevabı “temiz su kaynağına ulaşamama”dır.
+- **Enfeksiyöz ishalin artma nedenleri:** hayvancılıkta antibiyotik kullanımıyla seçilen dirençli suşlar, küresel besin ticareti, seyahat ve göç, duyarlı konakların artması (AIDS, kanser, yaşlanma), taze sebze-meyve ve hazır yiyecek tüketimi.
+Yüksek risk grupları:
+1. **Antibiyotikle ilişkili ishal:** Geniş spektrumlu antibiyotik alanların yaklaşık %20'sinde görülür; en ağır biçimi *C. difficile* kolitidir. Hastanede yatanlarda en sık ishal nedenidir.
+2. **Turist (seyahat) ishali:** En sık etken **ETEC**'tir. Güney Asya'da *Campylobacter* (%20), ETEC (%19) ve EAEC (%16); Latin Amerika ve Afrika'da ETEC (%33), norovirüs (%15) ve EAEC (%13) öndedir. İki haftayı aşan turist ishalinde parazitler (*Giardia*, *Cryptosporidium*, *Cyclospora*, *E. histolytica*), enfeksiyon sonrası laktoz intoleransı ve irritabl bağırsak düşünülür. Rutin antibiyotik profilaksisi önerilmez.
+3. **Cinsel yolla bulaşan ishaller:** *Shigella*, *Giardia*, *E. histolytica*, *Campylobacter*.
+4. **Kreş ishalleri:** düşük inokulümlü etkenler ve kolay yayılan virüsler.
+
+## Epidemiyolojik ipuçları
+| İpucu | Düşünülecek etken |
+| Kremalı pasta, pastane ürünü, elle hazırlanan soğuk yiyecek; 1-6 saatte kusma | *S. aureus* |
+| Bekletilmiş pilav, kızarmış pirinç | *B. cereus* (kusma tipi) |
+| Büyük kazanda pişirilip ılık bekletilen et yemeği | *C. perfringens* |
+| Az pişmiş tavuk, çiğ süt | *Campylobacter*, *Salmonella* |
+| Yumurta, mayonez, kümes hayvanı | *Salmonella* (tifo dışı) |
+| Az pişmiş kıyma, hamburger; kanlı ishal, böbrek yetmezliği | EHEC O157:H7 |
+| Çiğ deniz ürünü, istiridye | *V. parahaemolyticus*, *V. vulnificus*, norovirüs |
+| Domuz eti, kış aylarında çocuk, apandisit taklidi | *Y. enterocolitica* |
+| Kaynatılmamış su, kamp, dere suyu | *Giardia*, *Cryptosporidium* |
+| Kreş | *Shigella*, *Giardia*, *Cryptosporidium*, rotavirüs |
+| Yolcu gemisi, huzurevi, aynı anda çok sayıda kusma | norovirüs |
+| Son bir ayda antibiyotik, hastanede yatış | *C. difficile* |
+| Aynı anda çok sayıda kişide ishal | ortak kaynak (salgın) |
+|= Öyküden etkene gitmek. Pasta → stafilokok, pilav → cereus, bekletilmiş et → perfringens üçlüsü sınavın en sık açılış sorusudur.
+
+## Viral gastroenteritler
+Viral ishaller inflamatuvar değildir: virüs ince bağırsak villus uçlarındaki emici hücreleri bozar, dışkıda lökosit yoktur ve tedavi yalnızca sıvıdır.
+| Virüs | Genom | Kimi etkiler | Öne çıkan özellik |
+| **Rotavirüs** (Reoviridae) | çift zincirli RNA, segmentli | 6 ay-2 yaş, 5 yaş altı | çocuklarda ağır dehidratasyonlu ishalin en sık nedeni; kış; ateş, kusma ve bol sulu ishal; ozmotik ishal + NSP4 enterotoksini; dışkıda lökosit yok; ağızdan canlı aşı |
+| **Norovirüs** (Norwalk benzeri, Caliciviridae) | tek zincirli RNA | her yaş | **kusma ön planda**; gemi, huzurevi, okul salgınları; enfektif doz çok düşük; yüzeylerde dayanıklı, alkollü el antiseptiğine görece dirençli; erişkinde salgınların en sık nedeni |
+| **Adenovirüs tip 40-41** (enterik) | **çift zincirli DNA** | bebek ve küçük çocuk | gastroenterit yapan **tek DNA virüsü**; daha uzun süren ishal |
+| **Astrovirüs** | tek zincirli RNA | küçük çocuk, yaşlı | hafif sulu ishal, kreş |
+| Enterovirüsler | tek zincirli RNA | çocuk | ishal yapabilir; antibakteriyel tedavi yeri yok |
+|= Gastroenterit yapan virüsler.
+?? **Gastroenteritin tek DNA virüsü: Adeno (tip 40-41).** Rotavirüs = çocuğun ağır ishali; Norovirüs = gemide kusma.
+
+## Tanıda ilk adımlar
+Ayrıntılı anamnez ve muayene, hem etken hem tedavi kararı için zorunludur. Dışkının görünümü, kuluçka süresi, ortak besin, seyahat, antibiyotik kullanımı ve aynı anda hastalanan başka kişiler sorulur.
+- **Köpüklü dışkı:** karbonhidrat emilim bozukluğu (gastroenterit sonrası disakkaridaz eksikliği).
+- **Pirinç suyu görünümü:** kolera ve ETEC.
+- **Bezelye çorbası görünümü:** *Salmonella* (tifoda); **domates çorbası**ndan söz edilen tablo şigellozdur (sunumdaki tarif). Amipli dizanteride “ahududu jölesi” benzetmesi kullanılır.
+- Çok sayıda kişide aynı anda ishal, ortak kaynaktan bulaşı düşündürür. İyi pişirilmemiş et (özellikle kümes hayvanı), kaynatılmamış süt ve su belirli etkenlere yönlendirir.
+**Dışkıda lökosit ve eritrosit** inflamatuvar ishali gösterir (*Shigella*, EIEC, *Salmonella*, *Campylobacter*, *Y. enterocolitica*, *C. difficile*, EHEC, *E. histolytica*). Lökosit görülmeyen bol sulu ishal toksin ya da virüs grubunu düşündürür.
+**Dışkıda parazit incelemesi** şu durumlarda istenir: 7 günü aşan ishal, gelişmekte olan ülkelere seyahat sonrası ishal, bağışıklığı baskılanmış hastada (AIDS) uzayan ishal, kreş ya da su kaynaklı salgın, erkeklerle cinsel ilişkisi olan erkekler ve dışkıda kan olup lökositin az olduğu durumlar.
+
+## Tedavi ilkeleri ve antibiyotik endikasyonları
+**İshal tedavisinin esası sıvı ve elektrolit açığının yerine konmasıdır** (Bölüm 2). Akut enfeksiyöz ishallerin çoğu kendiliğinden geçer; antibiyotik, gereksiz verildiğinde mikrobiyotayı bozar, direnci seçer, *C. difficile*'yi kolaylaştırır, *Salmonella* taşıyıcılığını uzatır ve EHEC'te Shiga toksini salınımını artırıp hemolitik üremik sendrom riskini yükseltir.
+**Ampirik antibiyotik gerektiren durumlar:**
+1. Son bir ay içinde herhangi bir nedenle antibiyotik kullanmış ya da antibiyotik alırken ishali başlamış hasta (*C. difficile* düşünülür).
+2. Protez kalp kapağı, vasküler greft ya da başka protezi olan hasta (bakteriyemide protez enfeksiyonu riski).
+3. Yakın zamanda uluslararası seyahat öyküsü olup ateşi 38,5 °C'yi aşan ya da sepsis bulguları olan hasta (enterik ateş).
+4. Bağışıklığı baskılanmış ve ağır ya da kanlı ishali olan hasta; 3 aydan küçük bebek.
+5. Genel durumu bozuk inflamatuvar ishal ve ileri derecede dehidratasyona yol açan ishal.
+6. 50 yaşın üstünde, damar hastalığı riski taşıyan ve *Salmonella* (ör. *S.* Paratyphi) etkenli ishal (endovasküler enfeksiyon riski).
+**Antibiyotik verilmeyen ya da verilmeyebilen durumlar:**
+- Genel durumu iyi olan, hafif *Salmonella*, *Shigella*, *C. jejuni* ishali; özellikle **tifo dışı *Salmonella*** (antibiyotik taşıyıcılığı uzatır).
+- Viral gastroenteritler (rotavirüs, norovirüs, enterovirüsler).
+- EHEC O157 (hemolitik üremik sendrom riski).
+- Kanlı ishali olan hastanın **belirtisiz temaslıları**: ampirik tedavi önerilmez; yalnızca enfeksiyon önleme ve kontrol önlemleri uygulanır.
+- Rutin turist ishali profilaksisi.
+**Antimotilite ilaçları** (loperamid) inflamatuvar ve kanlı ishalde verilmez. Salgında ilk izole edilen bakterilerin antibiyotik duyarlılığı, sonraki hastaların tedavisini yönlendirir.
+?? **Antibiyotik = “APS-B”:** **A**ntibiyotik öyküsü (son 1 ay), **P**rotez, **S**eyahat + yüksek ateş/sepsis, **B**ağışıklık baskısı. Yaş tek başına endikasyon değildir; “35 yaş üstü” şıkkı yanlıştır.
+
+## Bölüm özeti
+- Akut ≤ 14 gün, persistan 14-30 gün, kronik > 30 gün. Tenezm: sık, ağrılı dışkılama hissi, boşalamama.
+- İnce bağırsak tipi: bol, sulu, seyrek; kalın bağırsak tipi: az, sık, kanlı, tenezmli.
+- Toksin grubu (kolera, ETEC, *S. aureus*, *B. cereus*, *C. perfringens*), *Giardia* ve virüsler inflamatuvar ishal yapmaz, dışkıda lökosit görülmez.
+- Kuluçka < 6 saat → hazır toksin; > 16 saat → bağırsakta çoğalma, invazyon.
+- Gastroenteritin DNA virüsü adenovirüs 40-41; gemi salgını ve kusma norovirüs; çocukta ağır ishal rotavirüs.
+- Tedavinin esası sıvı; antibiyotik yalnız seçilmiş durumlarda; tifo dışı *Salmonella* ve viral ishalde verilmez.

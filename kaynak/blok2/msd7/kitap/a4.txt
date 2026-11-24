@@ -1,0 +1,66 @@
+=== 2025-26-39
+E: Bütiratın (kısa zincirli yağ asidi) kaynağı flora bakterileri Firmicutes şubesindedir.
+B doğru. Bütirat gibi kısa zincirli yağ asitlerini üreten *Clostridium*, *Faecalibacterium* ve *Ruminococcus* gibi bakteriler **Firmicutes** şubesindedir. Bu bakteriler kolona ulaşan lifi ve dirençli nişastayı fermente ederek kolonositin başlıca yakıtı olan bütiratı üretir.
+Actinobacteria (A) *Bifidobacterium*'u, Bacteroidetes (C) *Bacteroides*'i içerir; Proteobacteria (D) ve Cyanobacteria (E) bütiratın başlıca kaynağı değildir.
+
+=== 2025-26-40
+E: Yalnız anne sütüyle beslenen bebekte baskın: Bifidobacterium (Actinobacteria).
+B doğru. Anne sütündeki oligosakkaritler **Bifidobacterium**'u seçici olarak besler; bu bakteri ortamı asitleştirerek patojenleri baskılar ve yenidoğanın bağışıklığını eğitir. (Soru şıkta “Bifidobacteria” diye yazmış; bu bakteri Actinobacteria şubesindendir.)
+Firmicutes (A) ve Bacteroides (C) erişkin florasında baskındır; Proteobacteria (D) normalde azdır; Actinobacteria (E) şubedir, aranan cins Bifidobacterium'dur.
+
+=== 2020-21-1
+E: Anne sütüyle beslenen yenidoğanda baskın cins: Bifidobacterium.
+A doğru. Önceki iki sorunun cins düzeyindeki soruluşudur: anne sütü alan yenidoğanda **Bifidobacterium** baskındır.
+*Oxalobacter* (B) oksalatı parçalar; *Escherichia* (C) ve *Bacillus* (D) baskın değildir; *Clostridium* (E) erişkin florasının üyesidir.
+
+=== 2023-24-39
+E: Anne sütü alan yenidoğanın mikrobiyomunda baskın: Bifidobacteria.
+B doğru. Aynı bilgi şube düzeyinde: anne sütüyle beslenen yenidoğanda **Bifidobacteria** baskındır.
+Proteobacteria (A) ve Firmicutes (E) erişkinde artar; Verrucomicrobia (C, *Akkermansia*) ve Bacteroidetes (D) yenidoğanda baskın grup değildir.
+
+=== 2021-22-38
+E: Firmicutes erişkin dönemde mikrobiyotaya hakimdir.
+Cevap: erişkin. Firmicutes (ve Bacteroidetes), çeşitli katı besinle beslenmeye geçtikten sonra, **erişkin** bağırsak florasının baskın şubesidir. Bebeklikteki Bifidobacterium baskınlığının yerini alır.
+
+=== 2023-24-37
+E: Dendritik hücre toleransının oluşumunda anahtar: Lactobacillus sp.
+D doğru. *Lactobacillus* türleri dendritik hücreleri “toleranjenik” yönde eğitir; zararsız bakteri ve besin antijenlerine karşı aşırı bağışıklık yanıtının bastırılmasını sağlar. Bu, bağırsakta sürekli bir iltihabın önlenmesinde temel bir mekanizmadır.
+*Bacteroides* (A), *Oxalobacter* (B), *Clostridium* (C) ve *Ruminococcus* (E) floranın üyeleridir, ama bu soruda sorulan dendritik hücre toleransıyla özdeşleştirilen cins *Lactobacillus*'tur.
+
+=== 2021-22-37
+E: Dendritik hücre toleransını oluşturan: Lactobacillus sp.
+Cevap: *Lactobacillus* sp. Bir önceki sorunun açık uçlu biçimidir; dendritik hücre toleransının anahtarı *Lactobacillus*'tur.
+
+=== 2020-21-8
+E: Epitelde NF-κB inaktivasyonuyla toleransı sağlayan metabolitler: E. coli.
+C doğru. Bağırsak florasının üyesi apatojen *E. coli* suşlarının metabolitleri, epitel hücrelerinde iltihap aktive edici **NF-κB yolağını baskılar**; böylece floraya karşı tolerans sürer ve gereksiz iltihap önlenir.
+*Enterococcus gallinarum* (A) ve *Bartonella henselae* (B) bu bağlamda anılmaz; *Bacteroides thetaiotaomicron* (D) bariyer olgunlaşmasıyla, *Oxalobacter formigenes* (E) oksalat metabolizmasıyla ilişkilidir.
+
+=== 2020-21-27
+E: İmmün sistemin aktif kalması ve kendi bakterilerine toleransın sürmesinde en önemli kimyasal: kısa zincirli yağ asitleri.
+C doğru. Mikrobiyotanın ürettiği **kısa zincirli yağ asitleri** hem bağışıklığı uyanık tutar hem de düzenleyici T hücreleri aracılığıyla kendi bakterilerine karşı toleransı sürdürür; aynı zamanda kolonositi besler.
+Adrenalin (A), oksalat (B), serotonin/5-HT (D) ve aktif D vitamini (E) bu işlevin başlıca kimyasalı değildir.
+
+=== 2022-23-37
+E: Linoleik asidin konjugasyonunu (ksenobiyotik metabolizması) en çok sağlayan: Bifidobacterium sp.
+A doğru. **Bifidobacterium** türleri linoleik asidi konjuge linoleik aside çevirir ve ksenobiyotik (dışarıdan alınan yabancı madde) metabolizmasının düzenlenmesine katkıda bulunur.
+*Bacillus* (B), *Lactobacillus* (C), *E. coli* (D) ve *Bacteroides* (E) bu özgül dönüşümün başlıca sağlayıcısı olarak sorulmaz.
+
+=== 2019-20-40
+E: Peristaltizmi ve glikozilasyonu artırıp mukozal bariyeri olgunlaştıran: Bacteroides thetaiotaomicron.
+C doğru. *Bacteroides thetaiotaomicron* bağırsak hareketlerini ve epitel yüzeyindeki glikozilasyonu artırarak **mukozal bariyerin olgunlaşmasına** katkıda bulunur; bu, floranın konağa yararlı etkilerinin klasik örneğidir.
+*E. coli* (A) NF-κB inaktivasyonuyla, patojenler *S. typhi* (B) ve *C. jejuni* (E) hastalıkla, *Legionella* (D) solunum yoluyla ilişkilidir.
+
+=== 2023-24-40
+E: Diyetle bol kısa zincirli yağ asidi verilince kolonizasyonu önlenen patojen: C. difficile.
+B doğru. **Kısa zincirli yağ asitleri** lümeni asitleştirir ve ortamı *C. difficile* için elverişsiz kılar; bol SCFA bu patojenin yerleşmesini (kolonizasyonunu) önler. Antibiyotikle flora bozulup SCFA azaldığında ise *C. difficile* çoğalır.
+*Balantidium coli* (A), *Cryptosporidium* (C), *E. coli* O157 (D) ve *Shigella* (E) için sorulan ilişki bu değildir.
+
+=== 2021-22-39
+E: Sürekli kolonizasyonunda MALT lenfoma indüklenen patojen: Helicobacter pylori.
+Cevap: *Helicobacter pylori*. Midede kalıcı kolonizasyon yıllarca süren iltihapla mukozada lenfoid doku biriktirir ve bu zeminde **MALT lenfoma** gelişir; erken evrede bakterinin yok edilmesi tümörü gerileteblir.
+
+=== 2020-21-48
+E: Gastrit zemininde gelişen MALT tümörünün sorumlusu: Helicobacter pylori.
+D doğru. Sıklıkla mideyi tutan MALT lenfomalarının etyopatogenezinde **Helicobacter pylori** sorumlu tutulur; kronik gastrit bu tümörün zeminidir.
+*V. parahaemolyticus* (A), *D. latum* (B), *A. lumbricoides* (C) ve *Listeria* (E) MALT lenfoma ile ilişkili değildir.

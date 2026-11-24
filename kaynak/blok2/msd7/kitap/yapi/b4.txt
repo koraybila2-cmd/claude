@@ -1,0 +1,171 @@
+# Bağırsak Mikrobiyotası ve Probiyotikler | Bağırsak mikrobiyotasının baskın bakteri toplulukları ve yaşa göre değişimi, kısa zincirli yağ asitlerinin işlevi, mikrobiyotanın bağışıklık ve bariyer gelişimine katkısı, patojenlere karşı koruma ve H. pylori ile MALT lenfoma ilişkisi. 14 soruluk bu bölüm büyük ölçüde S1 (mikrobiyolojik ishal) sunumunun flora bölümüne dayanır; bazı ayrıntılar sunumda kısa geçer. || Bölüm 4 · Mikrobiyota
+
+## Baskın topluluklar ve yaşa göre değişim
+Erişkin bağırsağında trilyonlarca bakteri yaşar; ağırlıkça çoğunu dört büyük şube (filum) oluşturur. Soru genellikle “hangi grup hangi dönemde ya da hangi işlevde baskın” diye sorulur.
+| Şube / grup | Öne çıkan özellik |
+| **Firmicutes** (*Clostridium*, *Lactobacillus*, *Ruminococcus*, *Faecalibacterium*) | **Erişkinde baskın**; **bütirat gibi kısa zincirli yağ asitlerinin başlıca kaynağı** |
+| **Bacteroidetes** (*Bacteroides*) | erişkinde ikinci büyük grup; karbonhidrat ve ksenobiyotik metabolizması |
+| **Actinobacteria** (*Bifidobacterium*) | **sadece anne sütüyle beslenen bebekte baskın** |
+| **Proteobacteria** (*E. coli*, Enterobacteriaceae) | normalde az; dengesizlikte (disbiyoz) artar |
+Yaşa göre: doğumda bağırsak neredeyse sterildir; doğum biçimi (vajinal ya da sezaryen) ilk kolonları belirler. **Yalnız anne sütüyle beslenen bebekte Bifidobacterium (Actinobacteria) baskındır:** anne sütündeki oligosakkaritler bu bakteriyi besler, o da ortamı asitleştirip patojenleri baskılar. Ek gıdaya geçiş ve çeşitli besinle birlikte flora erişkin tipine döner ve **Firmicutes ile Bacteroidetes** öne geçer.
+?? **Anne sütü → Bifido (Actinobacteria); Erişkin → Firmicutes + Bacteroidetes; Bütirat → Firmicutes.**
+
+## Kısa zincirli yağ asitleri (SCFA)
+Kolon bakterileri, ince bağırsakta sindirilemeyen lifi ve dirençli nişastayı fermente ederek **kısa zincirli yağ asitleri** (asetat, propiyonat, **bütirat**) üretir. Bu moleküller mikrobiyotanın bağırsağa en önemli armağanıdır:
+1. **Bütirat kolonositlerin başlıca enerji kaynağıdır;** epiteli besler, mukus yapımını ve sıkı bağlantıları destekler, bariyeri güçlendirir.
+2. Lümeni asitleştirir; bu ortam *C. difficile*, *Salmonella* ve *E. coli* O157 gibi patojenlerin **kolonizasyonunu engeller**. Diyetle bol SCFA verilmesi *C. difficile* yerleşmesini önler.
+3. Bağışıklığı dengeler: düzenleyici T hücrelerini uyarır, iltihabı dizginler; aynı zamanda bağışıklığın tembelleşmesini önleyip **kendi bakterilerine karşı toleransı** sürdürür.
+?? **Bütirat = kolonositin yakıtı + bariyer + patojene kapalı kapı.** “SCFA verilince kolonizasyonu önlenen patojen” sorusunun cevabı *C. difficile*.
+
+## Mikrobiyotanın bağışıklık ve bariyer gelişimine katkısı
+Mikrobiyota, bağırsağın bağışıklık sistemini doğumdan sonra eğitir ve mukozal bariyeri olgunlaştırır. Sınavda belirli bakterilerin belirli işlevlerle eşleştirilmesi istenir:
+| Bakteri / metabolit | İşlev |
+| *Lactobacillus* sp. | **dendritik hücre toleransının** oluşması (patojen olmayana karşı yanıtın dizginlenmesi) |
+| *E. coli* metabolitleri | epitelde **NF-κB'yi inaktive ederek** iltihabı baskılama, toleransın sürmesi |
+| *Bacteroides thetaiotaomicron* | **peristaltizmi ve glikozilasyonu artırıp mukozal bariyerin olgunlaşması** |
+| *Bifidobacterium* sp. | linoleik asidin konjugasyonu, ksenobiyotik metabolizmasının düzenlenmesi |
+| Kısa zincirli yağ asitleri | bağışıklığın aktif kalması ve kendi bakterilerine toleransın sürmesindeki **en önemli kimyasal** |
+|= Mikrobiyota–konak etkileşiminde sorulan eşleştirmeler (S1 sunumu ve ileri okuma).
+Bu ayrıntıların bir kısmı sunumda yalnızca adı geçecek kadar yer alır; sınav bunları ezber eşleştirme olarak sorduğu için tablo hâlinde verilmiştir.
+
+## Patojenlere karşı koruma ve disbiyoz
+Sağlam mikrobiyota, patojenle **besin ve tutunma yeri için yarışır**, bakteriyosin ve SCFA üretip ortamı patojene kapatır ve bağışıklığı uyanık tutar (kolonizasyon direnci). Geniş spektrumlu antibiyotik bu dengeyi bozar (disbiyoz); boşalan ortamda *C. difficile* ya da dirençli bakteriler çoğalır. Mikrobiyotayı yeniden kurmak için probiyotikler ve ağır *C. difficile* kolitinde dışkı mikrobiyota nakli kullanılır.
+
+## Helicobacter pylori ve MALT lenfoma
+*Helicobacter pylori*, mide mukozasını kalıcı olarak kolonize eden, üreaz pozitif, kıvrık Gram negatif bir bakteridir. Yıllarca süren iltihap mide mukozasında lenfoid doku birikmesine (mukoza ile ilişkili lenfoid doku, MALT) yol açar; bu zeminde **MALT lenfoma** gelişebilir. Erken evre mide MALT lenfomasında *H. pylori*'nin yok edilmesi tümörü gerileterek tedavi sağlayabilir; bu, bir bakterinin bir kanseri doğrudan sürüklediğinin klasik örneğidir. *H. pylori* ayrıca kronik gastrit, peptik ülser ve mide adenokarsinomuyla da ilişkilidir.
+?? **Gastrit zemininde MALT lenfoma = Helicobacter pylori.** Bu bilgi iki kez soruldu.
+
+## Bölüm özeti
+- Anne sütüyle beslenen bebekte Bifidobacterium (Actinobacteria), erişkinde Firmicutes ve Bacteroidetes baskın; bütiratın kaynağı Firmicutes.
+- SCFA (bütirat) kolonositin yakıtı, bariyer güçlendiricisi ve patojen kolonizasyonunun (özellikle *C. difficile*) engelleyicisidir.
+- *Lactobacillus* → dendritik hücre toleransı; *E. coli* → NF-κB inaktivasyonu; *B. thetaiotaomicron* → bariyer olgunlaşması; SCFA → toleransın en önemli kimyasalı.
+- Gastrit zemininde MALT lenfoma → *H. pylori*.
+
+## Çıkmış sorular: Bağırsak Mikrobiyotası ve Probiyotikler
+Bu bölümden 7 sınavda **14 soru** çıktı; bunlar **14 farklı soruya** karşılık geliyor ve **0 tanesi** birden fazla yıl soruldu. Her kartta sorunun en yeni hâli, sağ üstte kaç kez sorulduğu, kartın altında da çıktığı tüm sınavlar yazar. Rozeti koyu olanlar 3 ve daha fazla kez sorulmuş sorulardır.
+@QB Çıkmış sorular
+@Q 2025-26 S39 | 1 KEZ | Çıktığı sınavlar: 2025-26 S39
+@K Hangi aile gastrointestinal sistemde kısa zincirli yağ asitlerinden (SCFA) olan bütiratın kaynağı olan flora bakterilerini içerir?
+A) Actinobacteria
+B) Firmicutes ✓
+C) Bacteroidetes
+D) Protobacteria
+E) Cyanobacteria
+B doğru. Bütirat gibi kısa zincirli yağ asitlerini üreten *Clostridium*, *Faecalibacterium* ve *Ruminococcus* gibi bakteriler **Firmicutes** şubesindedir. Bu bakteriler kolona ulaşan lifi ve dirençli nişastayı fermente ederek kolonositin başlıca yakıtı olan bütiratı üretir.
+Actinobacteria (A) *Bifidobacterium*'u, Bacteroidetes (C) *Bacteroides*'i içerir; Proteobacteria (D) ve Cyanobacteria (E) bütiratın başlıca kaynağı değildir.
+@@
+@Q 2025-26 S40 | 1 KEZ | Çıktığı sınavlar: 2025-26 S40
+@K Henüz sadece anne sütü ile beslenen bebeklerde gastrointestinal florada baskın olan mikrobiyal aile hangisidir?
+A) Firmicutes
+B) Bifidobacteria ✓
+C) Bacteroides
+D) Protobacteria
+E) Actinobacteria
+B doğru. Anne sütündeki oligosakkaritler **Bifidobacterium**'u seçici olarak besler; bu bakteri ortamı asitleştirerek patojenleri baskılar ve yenidoğanın bağışıklığını eğitir. (Soru şıkta “Bifidobacteria” diye yazmış; bu bakteri Actinobacteria şubesindendir.)
+Firmicutes (A) ve Bacteroides (C) erişkin florasında baskındır; Proteobacteria (D) normalde azdır; Actinobacteria (E) şubedir, aranan cins Bifidobacterium'dur.
+@@
+@Q 2020-21 S1 | 1 KEZ | Çıktığı sınavlar: 2020-21 S1
+@K Yenidoğan döneminde, anne sütü ile beslenmenin etkisine bağlı olarak, yenidoğanın gastrointestinal mikrobiyotasında baskın olan bakteriler hangi genustandır?
+A) *Bifidobacterium* ✓
+B) *Oxalobacter*
+C) *Escherichia*
+D) *Bacillus*
+E) *Clostridium*
+A doğru. Önceki iki sorunun cins düzeyindeki soruluşudur: anne sütü alan yenidoğanda **Bifidobacterium** baskındır.
+*Oxalobacter* (B) oksalatı parçalar; *Escherichia* (C) ve *Bacillus* (D) baskın değildir; *Clostridium* (E) erişkin florasının üyesidir.
+@@
+@Q 2023-24 S39 | 1 KEZ | Çıktığı sınavlar: 2023-24 S39
+@K Anne sütü ile beslenen bir yenidoğanın gastrointestinal mikrobiyomunda hangi bakteri baskındır?
+A) Proteobacteria
+B) Bifidobacteria ✓
+C) Verrucomicrobia
+D) Bacteroidetes
+E) Firmicutes
+B doğru. Aynı bilgi şube düzeyinde: anne sütüyle beslenen yenidoğanda **Bifidobacteria** baskındır.
+Proteobacteria (A) ve Firmicutes (E) erişkinde artar; Verrucomicrobia (C, *Akkermansia*) ve Bacteroidetes (D) yenidoğanda baskın grup değildir.
+@@
+@Q 2021-22 S38 | 1 KEZ | Çıktığı sınavlar: 2021-22 S38
+@K Firmicutes bakteriler hangi dönemde gastrointestinal mikrobiyotaya hakimdir?
+@A Erişkin
+Cevap: erişkin. Firmicutes (ve Bacteroidetes), çeşitli katı besinle beslenmeye geçtikten sonra, **erişkin** bağırsak florasının baskın şubesidir. Bebeklikteki Bifidobacterium baskınlığının yerini alır.
+@@
+@Q 2023-24 S37 | 1 KEZ | Çıktığı sınavlar: 2023-24 S37
+@K İnsanlarda gastrointestinal bağışıklık sisteminin gelişiminde dendritik hücre toleransının oluşumunda anahtar rolde hangi bakteriler vardır?
+A) *Bacteroides* sp.
+B) *Oxalobacter* sp.
+C) *Clostridium* sp.
+D) *Lactobacillus* sp. ✓
+E) *Ruminococcus* sp.
+D doğru. *Lactobacillus* türleri dendritik hücreleri “toleranjenik” yönde eğitir; zararsız bakteri ve besin antijenlerine karşı aşırı bağışıklık yanıtının bastırılmasını sağlar. Bu, bağırsakta sürekli bir iltihabın önlenmesinde temel bir mekanizmadır.
+*Bacteroides* (A), *Oxalobacter* (B), *Clostridium* (C) ve *Ruminococcus* (E) floranın üyeleridir, ama bu soruda sorulan dendritik hücre toleransıyla özdeşleştirilen cins *Lactobacillus*'tur.
+@@
+@Q 2021-22 S37 | 1 KEZ | Çıktığı sınavlar: 2021-22 S37
+@K Gastrointestinal mikrobiyotada dendritik hücre toleransını hangi mikroorganizma oluşturur?
+@A *Lactobacillus* sp.
+Cevap: *Lactobacillus* sp. Bir önceki sorunun açık uçlu biçimidir; dendritik hücre toleransının anahtarı *Lactobacillus*'tur.
+@@
+@Q 2020-21 S8 | 1 KEZ | Çıktığı sınavlar: 2020-21 S8
+@K İntestinal mikrobiyotada immün sistem toleransının sağlanmasında NF-kappaB inaktivasyonunu çoğunlukla hangi bakterilerin metabolitleri sağlamaktadır?
+A) *Enterococcus gallinarum*
+B) *Bartonella henselae*
+C) *Escherichia coli* ✓
+D) *Bacteroides thetaiotaomicron*
+E) *Oxalobacter formigenes*
+C doğru. Bağırsak florasının üyesi apatojen *E. coli* suşlarının metabolitleri, epitel hücrelerinde iltihap aktive edici **NF-κB yolağını baskılar**; böylece floraya karşı tolerans sürer ve gereksiz iltihap önlenir.
+*Enterococcus gallinarum* (A) ve *Bartonella henselae* (B) bu bağlamda anılmaz; *Bacteroides thetaiotaomicron* (D) bariyer olgunlaşmasıyla, *Oxalobacter formigenes* (E) oksalat metabolizmasıyla ilişkilidir.
+@@
+@Q 2020-21 S27 | 1 KEZ | Çıktığı sınavlar: 2020-21 S27
+@K Gastrointestinal mikrobiyotadaki bakterilerin metabolik aktivitelerine bağlı olarak, immün sistemin aktif halde kalmasında ve intrensek bakterilere karşı toleransının devamına etki eden en önemli kimyasal yapı hangisidir?
+A) Adrenalin
+B) Oksalat
+C) Kısa zincirli yağ asitleri ✓
+D) 5-hidroksitriptamin
+E) Dihidroksi kolekalsiferol
+C doğru. Mikrobiyotanın ürettiği **kısa zincirli yağ asitleri** hem bağışıklığı uyanık tutar hem de düzenleyici T hücreleri aracılığıyla kendi bakterilerine karşı toleransı sürdürür; aynı zamanda kolonositi besler.
+Adrenalin (A), oksalat (B), serotonin/5-HT (D) ve aktif D vitamini (E) bu işlevin başlıca kimyasalı değildir.
+@@
+@Q 2022-23 S37 | 1 KEZ | Çıktığı sınavlar: 2022-23 S37
+@K İntestinal mikrobiyotada, ksenobiyotik metabolizmasının engellenmesinde linoleik asidin konjugasyonunu en çok hangi bakteriler sağlar?
+A) *Bifidobacterium* sp. ✓
+B) *Bacillus* sp.
+C) *Lactobacillus* sp.
+D) *Escherichia coli*
+E) *Bacteroides* sp.
+A doğru. **Bifidobacterium** türleri linoleik asidi konjuge linoleik aside çevirir ve ksenobiyotik (dışarıdan alınan yabancı madde) metabolizmasının düzenlenmesine katkıda bulunur.
+*Bacillus* (B), *Lactobacillus* (C), *E. coli* (D) ve *Bacteroides* (E) bu özgül dönüşümün başlıca sağlayıcısı olarak sorulmaz.
+@@
+@Q 2019-20 S40 | 1 KEZ | Çıktığı sınavlar: 2019-20 S40
+@K Peristaltizmi ve glikosilasyonu arttırarak gastrointestinal mukozanın bariyer maturasyonuna olumlu etki yapan bakteri hangisidir?
+A) *Escherichia coli*
+B) *Salmonella typhi*
+C) *Bacteroides thetaiotaomicron* ✓
+D) *Legionella pneumophila*
+E) *Campylobacter jejuni*
+C doğru. *Bacteroides thetaiotaomicron* bağırsak hareketlerini ve epitel yüzeyindeki glikozilasyonu artırarak **mukozal bariyerin olgunlaşmasına** katkıda bulunur; bu, floranın konağa yararlı etkilerinin klasik örneğidir.
+*E. coli* (A) NF-κB inaktivasyonuyla, patojenler *S. typhi* (B) ve *C. jejuni* (E) hastalıkla, *Legionella* (D) solunum yoluyla ilişkilidir.
+@@
+@Q 2023-24 S40 | 1 KEZ | Çıktığı sınavlar: 2023-24 S40
+@K Diyet ile kısa zincirli yağ asitlerinin yoğun olarak hastaya verilmesi, hangi gastrointestinal patojenin kolonizasyonunu önler?
+A) *Balantidium coli*
+B) *Clostridium difficile* ✓
+C) *Cryptosporidium parvum*
+D) *Escherichia coli* O157:H7
+E) *Shigella flexneri*
+B doğru. **Kısa zincirli yağ asitleri** lümeni asitleştirir ve ortamı *C. difficile* için elverişsiz kılar; bol SCFA bu patojenin yerleşmesini (kolonizasyonunu) önler. Antibiyotikle flora bozulup SCFA azaldığında ise *C. difficile* çoğalır.
+*Balantidium coli* (A), *Cryptosporidium* (C), *E. coli* O157 (D) ve *Shigella* (E) için sorulan ilişki bu değildir.
+@@
+@Q 2021-22 S39 | 1 KEZ | Çıktığı sınavlar: 2021-22 S39
+@K Hangi gastrointestinal patojenin sürekli kolonizasyonunda MALT lenfoma oluşumu ve indüklenmesi bulunur?
+@A *Helicobacter pylori*
+Cevap: *Helicobacter pylori*. Midede kalıcı kolonizasyon yıllarca süren iltihapla mukozada lenfoid doku biriktirir ve bu zeminde **MALT lenfoma** gelişir; erken evrede bakterinin yok edilmesi tümörü gerileteblir.
+@@
+@Q 2020-21 S48 | 1 KEZ | Çıktığı sınavlar: 2020-21 S48
+@K Sıklıkla gastrit tutulumu olan mukoza-ilişkili lenfoid doku tümörlerinde hangi mikroorganizmanın etyopatogenezde sorumlu olduğu kabul edilir?
+A) *Vibrio parahaemolyticus*
+B) *Diphyllobothrium latum*
+C) *Ascaris lumbricoides*
+D) *Helicobacter pylori* ✓
+E) *Listeria monocytogenes*
+D doğru. Sıklıkla mideyi tutan MALT lenfomalarının etyopatogenezinde **Helicobacter pylori** sorumlu tutulur; kronik gastrit bu tümörün zeminidir.
+*V. parahaemolyticus* (A), *D. latum* (B), *A. lumbricoides* (C) ve *Listeria* (E) MALT lenfoma ile ilişkili değildir.
+@@

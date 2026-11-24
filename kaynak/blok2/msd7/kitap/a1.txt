@@ -1,0 +1,129 @@
+=== 2023-24-10
+E: Akut ≤ 14 gün, persistan 14-30 gün, kronik > 30 gün; tenezm = sık, ağrılı dışkılama hissi ve boşalamama.
+E doğru. Tenezm, rektum iltihabının rektumu sürekli doluymuş gibi uyarmasıyla oluşan sık, ağrılı dışkılama hissidir; hasta tuvaletten sonra rahatlayamaz.
+Akut enfeksiyöz ishal 14 günü **aşmayan** ishaldir (A). Persistan ishal 14-30 gün (B), kronik ishal 30 günden uzun süren ishaldir (C). Besin zehirlenmesi yalnız besinde üreyen bakterinin toksiniyle olmaz; etken bağırsakta çoğalıp toksin salabilir ya da doğrudan invazyon yapabilir (D).
+
+=== 2022-23-2
+E: Akut enfeksiyöz ishal ≤ 14 gün; ince bağırsak tipi bol-sulu-seyrek; kanlı ishalli hastanın belirtisiz temaslısına ampirik tedavi verilmez.
+A doğru (hepsi). Beş önerme de IDSA rehberi ve sunumdaki tanımlarla örtüşür: akut ishal 14 günü aşmaz (I); ince bağırsak tipi ishal bol, sulu ve günde 3-4 kez gibi seyrektir (II); tenezm boşalamama hissiyle giden ağrılı dışkılama isteğidir (III).
+Bağışıklığı baskılanmış, ağır ve kanlı ishali olan hastada ampirik antibiyotik düşünülür (IV). Belirtisiz temaslılara ise antibiyotik verilmez; el hijyeni ve izolasyon gibi enfeksiyon kontrol önlemleri önerilir (V).
+
+=== 2024-25-2
+N: Anahtar A'yı doğru kabul etti; standart bilgiye göre invaziv ve bağırsakta çoğalan bakterilerle oluşan ishallerde kuluçka 16 saatten uzundur. Diğer dört şık açıkça yanlış olduğundan sınavda A işaretlenir.
+E: Hazır toksin: 1-6 saat; bağırsakta çoğalan, invaziv bakteri: > 16 saat (anahtar bu kez “16 saatten az” dedi).
+A (anahtara göre). Kitaplardaki kural: besinde **hazır toksinle** oluşan ishallerde kuluçka 1-6 saat, bakterinin bağırsakta çoğalması ya da invazyonuyla oluşan ishallerde **16 saatten uzundur**. Şık ters yazılmış görünüyor, ama diğer şıkların hepsinde tanım bozulduğu için anahtar bunu işaretledi.
+İnce bağırsak tipi ishal bol ve seyrektir, “az ve sık” olan kalın bağırsak tipidir (B, C ters çevrilmiş). Tenezm bol dışkılama değil, ağrılı ve boşalamayan dışkılama hissidir (D). Toksijenik ishallerde kuluçka saatlerle ölçülür, 18-48 saat invaziv etkenlere uyar (E).
+
+=== 2022-23-38
+E: Yüksek doz radyasyonla akut ishal = kript hücreleri ölür → intestinal bariyer disfonksiyonu.
+E doğru. Bağırsak epiteli 3-5 günde bir yenilenir; yenilemeyi kriptlerdeki hızlı bölünen kök hücreler yapar. Yüksek doz radyasyon bu hücreleri öldürür, dökülen epitel yerine konamaz, sıkı bağlantılar açılır ve **bariyer işlevi** bozulur. Sıvı ve protein lümene sızar, bakteriler ve endotoksin kana geçer.
+Salgı artışı, motilite artışı, visseral aşırı duyarlılık ve bağışıklık bozukluğu (A-D) bu tabloda ikincil olaylardır, akut dönemin temel mekanizması değildir.
+
+=== 2021-22-50
+E: Ateş + karın ağrısı + dışkıda bol lökosit = invaziv (inflamatuvar) diyare.
+Cevap: invaziv diyare. Dışkıda bol lökosit, etkenin mukozayı işgal ettiğini ya da sitotoksinle hücreleri öldürdüğünü gösterir. Ateş ve karın ağrısı da mukozal iltihabın sonucudur. Etkenler *Shigella*, EIEC, *Salmonella*, *Campylobacter*, *Y. enterocolitica* ve *E. histolytica*'dır.
+Sekretuvar ishalde mukoza sağlamdır ve dışkıda lökosit görülmez; ozmotik ishalde de iltihap yoktur.
+
+=== 2024-25-46
+C: E
+N: 5 yılda sorulan soru: doğru şık her seferinde toksinle ishal yapan beşliden biriydi (kolera, ETEC, S. aureus, B. cereus, C. perfringens). Bu yılın kaydında cevap yazılmamış; şıklara göre doğru cevap B. cereus.
+E: İnflamatuvar diyare YAPMAYANLAR: V. cholerae, ETEC, S. aureus, B. cereus, C. perfringens (+ Giardia, virüsler).
+E doğru. *B. cereus* besinde ya da bağırsakta salgıladığı **enterotoksinle** ishal yapar; mukozayı işgal etmez, dışkıda lökosit görülmez. Aynı gruptaki *S. aureus* ve *C. perfringens* de enterotoksin üretir, *V. cholerae* saf sekretuvar ishal yapar.
+*C. difficile* (A) A ve B toksinleriyle kolon epitelini öldürür ve psödomembranöz kolit yapar. *S.* Enteritidis (B) ve *C. jejuni* (D) mukozayı işgal eder. *V. parahaemolyticus* (C) bir *Vibrio* olmasına karşın inflamatuvar ishal grubundadır.
+
+=== 2024-25-1
+E: B. cereus invaziv değildir; enterotoksinle (kusma tipi hazır, ishal tipi bağırsakta) ishal yapar.
+B doğru. *B. cereus* iki toksin tablosu yapar: besinde hazır bulunan, ısıya dayanıklı emetik toksin (pilav; 1-6 saatte kusma) ve bağırsakta salgılanan, ısıya duyarlı ishal toksini (et-sebze yemekleri; 8-16 saatte sulu ishal). İkisinde de mukozaya invazyon yoktur.
+*Shigella* (A), *Campylobacter* (C) ve *Y. enterocolitica* (E) mukozayı işgal eder; *S.* Typhi (D) mukozayı geçip lenf ve kana yayılan penetran etkendir.
+
+=== 2024-25-4
+E: Kanlı ishalde Giardia düşünülmez: mukozaya tutunur ama invazyon yapmaz; yağlı, kötü kokulu sulu ishal yapar.
+D doğru. *Giardia intestinalis* trofozoitleri vantuz diskiyle duodenum ve jejunum mukozasına tutunur, villusları kısaltır ve emilimi bozar. Mukozayı işgal etmediği için kan ve lökosit görülmez; tipik tablo şişkinlik, yağlı, köpüklü ve kötü kokulu ishal, kilo kaybıdır.
+EIEC (A) ve *Shigella* (C) kolon epitelini işgal eder; *C. difficile* (B) sitotoksinle psödomembranöz kolit yapar; divertikülit (E) enfeksiyon dışı kanlı ishal nedenidir.
+
+=== 2022-23-50
+E: Dışkıda lökosit + eritrosit tablosu yapmayan: B. cereus (toksin grubu).
+B doğru. Dışkıda lökosit ve eritrosit birlikteyse mukoza harap olmuştur. *B. cereus* yalnız toksin üretir, mukozaya zarar vermez.
+*S.* Enteritidis (A) ve *E. histolytica* (C) kolonu işgal eder; *C. difficile* (D) sitotoksinle, EHEC O157 (E) Shiga toksiniyle hemorajik kolit yapar.
+
+=== 2022-23-3
+E: Dışkıda lökosit: Shigella, EIEC, Salmonella, Yersinia, C. difficile, Campylobacter, EHEC, E. histolytica.
+E doğru (hepsi). Beşi de mukozada iltihap yapar: *Shigella* ve EIEC kolon epiteline girip hücreden hücreye yayılır; *Salmonella* ve *Y. enterocolitica* ileum ve Peyer plaklarını işgal eder; *C. difficile* A ve B toksinleriyle epiteli öldürüp nötrofilden zengin psödomembran oluşturur.
+
+=== 2021-22-8
+E: ETEC lökosit yapmaz (enterotoksin: LT → cAMP, ST → cGMP); Campylobacter, Shigella, Salmonella, Yersinia yapar.
+Cevap: 1, 2, 4 ve 5. *C. jejuni*, *Shigella*, *Salmonella* ve *Y. enterocolitica* mukozayı işgal eder ve dışkıda lökosit görülür.
+**Enterotoksijenik *E. coli*** (3) mukozaya yalnızca kolonizasyon faktörleriyle tutunur ve ısıya duyarlı (LT, cAMP ↑) ve ısıya dayanıklı (ST, cGMP ↑) enterotoksinleriyle sekretuvar ishal yapar. Turist ishalinin en sık etkenidir; dışkıda lökosit yoktur.
+
+=== 2022-23-40
+E: 70 yaş üstünde ishalin en önemli nedeni (risk etkeni): temiz suya ulaşamama.
+C doğru. Küresel hastalık yükü çalışmalarında ishalden ölümlerde en büyük payı olan risk etkeni **güvenli olmayan su**dur; onu sanitasyon eksikliği ve el hijyeni izler. Yaşlılar susuzluğu geç fark eder, böbrekleri sıvı kaybını telafi edemez ve eşlik eden hastalıklar dehidratasyonu ölümcül hâle getirir.
+Hayvan ticareti, hayvancılıkta antibiyotik ve evde yemek yapımı (A, B, D) salgın ve direnç nedenleri olarak anılır, ama yükün asıl kaynağı değildir. El hijyeni (E) önemlidir ama sudan sonra gelir.
+
+=== 2021-22-9
+E: M. tuberculosis akut enfeksiyöz ishal etkeni değildir; bağırsak tüberkülozu kronik ishal yapar.
+Cevap: *Mycobacterium tuberculosis*. Bağırsak tüberkülozu ileoçekal bölgeyi tutar ve haftalar-aylar süren kronik ishal, kilo kaybı, ateş ve karın ağrısıyla gider. Akut (≤ 14 gün) enfeksiyöz ishal etkenleri virüsler, toksin üreten ve invaziv bakteriler ve bazı protozoonlardır.
+
+=== 2023-24-38
+E: Küçük çocukta ateş, kusma, bol sulu (ozmotik) ishal ve dışkıda lökosit yok → rotavirüs.
+C doğru. **Rotavirüs** ince bağırsak villus uçlarındaki olgun emici hücreleri öldürür; disakkaridazlar azalır ve emilmeyen laktoz ozmotik ishal yapar. NSP4 proteini ayrıca enterotoksin gibi davranıp klor salgısını artırır. Mukozaya invazyon olmadığından dışkıda polimorf nüveli lökosit görülmez. 6 ay-2 yaş arası çocuklarda, kışın, ateş ve kusmayla başlayan bol sulu ishalin en sık nedenidir.
+*C. difficile* (A) dışkıda lökosit yapar. *Giardia* (B) ateşsiz, yağlı ve uzun süren ishal yapar. *B. cereus* (D) besin zehirlenmesidir. *Cryptosporidium* (E) sekretuvar ishal yapar ama tipik etken bağışıklığı baskılanmış hasta ya da su kaynaklı salgındır.
+
+=== 2020-21-11
+E: Gastroenterit yapan DNA virüsü: adenovirüs (enterik tip 40-41).
+A doğru. **Adenovirüsler** çift zincirli DNA virüsleridir; enterik serotipler 40 ve 41 bebek ve küçük çocuklarda gastroenterit yapar ve ishal rotavirüse göre daha uzun sürer.
+Astrovirüs (B), Norwalk benzeri virüsler (D) ve enterovirüsler (E) tek zincirli RNA, rotavirüs (C) çift zincirli segmentli RNA virüsüdür.
+
+=== 2019-20-38
+E: Yolcu gemisi (cruise) salgınlarında en sık etken: norovirüs.
+E doğru. **Norovirüs** çok düşük dozla (100 partikülden az) bulaşır, yüzeylerde haftalarca canlı kalır, alkollü el antiseptiklerine görece dirençlidir ve kusmayla havaya saçılan damlacıklarla da yayılır. Kapalı, kalabalık ortamlar (gemi, huzurevi, hastane, okul) bu yüzden norovirüs salgınlarının tipik yeridir.
+*Cryptosporidium* (A) su kaynaklı, *V. parahaemolyticus* (C) deniz ürünü kaynaklı salgın yapar; *Plesiomonas* (B) ve astrovirüs (D) gemi salgınlarının tipik etkeni değildir.
+
+=== 2019-20-39
+E: Sulu ishal + aynı anda belirgin kusma → Norwalk virüs (norovirüs).
+C doğru. Norovirüs gastroenteritinde **kusma ön plandadır**; ani başlayan bulantı, fışkırır tarzda kusma ve sulu ishal 1-3 gün sürer. Erişkinlerde akut gastroenterit salgınlarının en sık etkenidir.
+*S.* Paratyphi A (A) enterik ateş, *Y. enterocolitica* (B) ileit ve psödoapandisit, *C. fetus* (E) bakteriyemi yapar; *Entamoeba hartmanni* (D) apatojen bir amiptir.
+
+=== 2023-24-9
+E: Köpüklü dışkı = karbonhidrat emilim bozukluğu; pirinç suyu = kolera, ETEC; aynı anda çok kişide ishal = ortak kaynak.
+E doğru (hepsi). Beş önerme de sunumdaki anamnez ipuçlarıdır. Köpüklü dışkı fermente olan karbonhidratın gazını gösterir (I). Pirinç suyu görünümü mukus parçacıklı, renksiz, bol sekretuvar ishaldir (II). Sunumda *Salmonella* için bezelye çorbası, şigelloz için domates çorbası görünümü tarif edilir (III). Aynı anda çok kişinin hastalanması ortak besin ya da su kaynağını (IV), iyi pişmemiş et ve kaynatılmamış süt-su belirli etkenleri (*Campylobacter*, *Salmonella*, EHEC, *Brucella*) düşündürür (V).
+
+=== 2019-20-1
+E: Dışkıda parazit incelemesi: 7 günü aşan ishal, seyahat sonrası ishal, AIDS'te uzayan ishal, kreş ve su kaynaklı salgın.
+D doğru. Parazitler (özellikle *Giardia*, *Cryptosporidium*, *Cyclospora*, *E. histolytica*) çoğunlukla bir haftayı aşan, persistan ishal yapar. Bu yüzden inceleme süresi uzayan ishalde, gelişmekte olan ülkelere seyahatten sonra, bağışıklığı baskılanmış hastada ve salgınlarda istenir. Soru öğrenci hafızasından aktarılmıştır; seçeneklerden yalnızca II numaralı durumun bu ölçütlere uymadığı anlaşılıyor.
+
+=== 2020-21-43
+E: Uzamış ishal nedeni OLMAYAN: B. cereus besin zehirlenmesi (saatler içinde başlar, 1 günde geçer).
+D doğru. *B. cereus* besin zehirlenmesi hazır ya da bağırsakta salınan toksinle olur ve toksin bitince, genellikle 24 saatte, kendiliğinden geçer.
+Uzamış (persistan) ishalin nedenleri: giardiyazis (E), enfeksiyon sonrası **laktoz intoleransı** (B), bağırsak tüberkülozu (C) ve bazı bakteriyel enfeksiyonlar, özellikle tedavi edilmemiş şigelloz (A).
+
+=== 2025-26-2
+N: Önceki soru 2025-26 S1'di: kremalı pastadan 1 saat sonra kusma → S. aureus enterotoksini (Bölüm 6).
+E: Hazır toksinle besin zehirlenmesi: tedavi sıvı; antibiyotik işe yaramaz.
+A doğru. Stafilokok besin zehirlenmesinde belirtiler besinde **önceden oluşmuş** enterotoksinden kaynaklanır; bakteri hastanın bağırsağında çoğalmaz. Antibiyotik toksini etkisizleştirmez. Tedavi, hemodinamik durum ve dehidratasyon derecesi belirlenip sıvı açığının ağızdan ya da damar yoluyla karşılanmasıdır; tablo 24-48 saatte kendiliğinden geçer.
+Hastaneye yatırıp parenteral antibiyotik (B, E), kültüre göre damar yolu antibiyotiği (C) ve ampirik siprofloksasin (D) gereksizdir.
+
+=== 2025-26-4
+E: Viral gastroenterite (enterovirüs, rotavirüs, norovirüs) antibakteriyel tedavi verilmez.
+D doğru. **Enterovirüsler** virüs olduğu için antibakteriyel ilaçtan etkilenmez; tedavi sıvı-elektrolittir.
+*V. cholerae* (A) doksisiklin ya da azitromisinle, *C. jejuni* (B) ağır olguda azitromisinle, *C. difficile* (E) oral vankomisin ya da fidaksomisinle tedavi edilir. *Giardia intestinalis* (C) bir protozoondur ve metronidazol, tinidazol gibi ilaçlar alır; soru “antibakteriyel” derken antimikrobiyal tedavi gereken etkenleri kastediyor.
+
+=== 2024-25-3
+E: Ampirik antibiyotik: son 1 ayda antibiyotik (C. difficile), protez, seyahat + ≥ 38,5 °C ateş / sepsis. Yaş ve hafif ishal endikasyon değil.
+A doğru (2, 4 ve 5). Antibiyotik kullanırken ya da son bir ayda kullanmışken başlayan ishalde *C. difficile* düşünülür ve tedavi edilir (2). Protezi olan hastada bakteriyemi protez enfeksiyonuna yol açabilir (4). Seyahat dönüşü yüksek ateş ya da sepsis enterik ateşi düşündürür (5).
+Genel durumu iyi, hafif *Shigella*, *Salmonella* ya da *C. jejuni* ishali çoğu zaman kendiliğinden geçer; özellikle *Salmonella*'da antibiyotik taşıyıcılığı uzatır (1). Yaşın 35'i aşması tek başına bir ölçüt değildir (3).
+
+=== 2020-21-29
+E: Tifo dışı Salmonella gastroenteritinde antibiyotik verilmeyebilir (taşıyıcılığı uzatır).
+E doğru. **Tifo dışı *Salmonella*** gastroenteriti sağlıklı erişkinde 4-7 günde kendiliğinden geçer. Antibiyotik hastalığın süresini kısaltmaz, dışkıyla bakteri atılımını uzatır ve direnci seçer. Yalnızca bebek, yaşlı, bağışıklığı baskılanmış, protezli ya da bakteriyemi düşünülen hastada tedavi edilir.
+Kolera (A) süreyi ve sıvı kaybını azaltmak için, *C. difficile* (B) her zaman, *C. jejuni* (C) ağır ya da erken dönemde, *Shigella* (D) bulaşı azaltmak için tedavi edilir.
+
+=== 2020-21-37
+E: Salmonella'ya bağlı hafif ishal → ampirik antibiyotik gerekmez.
+C doğru. Hafif *Salmonella* ishalinde antibiyotik yarar sağlamaz, taşıyıcılığı uzatır.
+50 yaş üstü *Salmonella* ishali (A; damar duvarına yerleşme riski), genel durumu bozuk inflamatuvar ishal (B), son bir ayda antibiyotik öyküsü (D; *C. difficile*) ve ileri dehidratasyona yol açan ishal (E) ampirik tedavi endikasyonlarıdır.
+
+=== 2021-22-7
+E: Salgında ilk izolatın antibiyotik duyarlılığı sonraki hastaların tedavisini yönlendirir; antimotilite inflamatuvar ishalde kontrendike.
+D doğru. Ortak kaynaklı salgında etken suş aynıdır. İlk hastalardan izole edilen bakterinin antibiyogramı sonraki hastalarda ampirik seçimi yönlendirir.
+İnflamatuvar ishalde antimotilite ilaçları etkenin bağırsakta kalış süresini uzatır ve toksik megakolon riskini artırır (A). Turist ishalinde rutin antimikrobiyal profilaksi önerilmez (B). İshal tedavisinin esası sıvı-elektrolit tedavisidir (C). Kanlı ishalli hastanın belirtisiz temaslılarına ampirik tedavi **verilmez**, yalnızca enfeksiyon kontrol önlemleri önerilir (E).

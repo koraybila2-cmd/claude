@@ -1,0 +1,54 @@
+=== 2025-26-7
+E: Dehidratasyon YAPMAZ: ADH artışı (su tutulur). Yapar: ADH azalması, solüt yükü artışı, insensibl kayıp artışı.
+D doğru. ADH (antidiüretik hormon) toplayıcı kanallara akuaporin-2 yerleştirip suyu geri emdirir; artışı suyu **tutar**, dehidratasyon değil sıvı fazlalığı ve hiponatremi yapar.
+Akut gastroenterit (A) en sık nedendir. Böbrek solüt yükünün artması (B) ozmotik diürezle, insensibl kayıpların artması (C) ateş ve takipneyle, yetersiz sıvı alımı (E) doğrudan dehidratasyon yapar.
+
+=== 2024-25-12
+N: Bu yılın kaydında C şıkkı “insensibl kayıplarda” diye eksik yazılmış; anahtar C. Asıl ifade büyük olasılıkla “insensibl kayıplarda azalma”dır. Aynı sorunun diğer yıllarında cevap ADH artışı ya da solüt yükünün azalmasıydı.
+E: Etiyolojide yer almayan: ters çevrilmiş ifade (ADH artışı, solüt yükü azalması, insensibl kayıp azalması).
+C (anahtara göre). Bu soru her yıl aynı listeden gelir ve doğru şık her zaman “ters çevrilmiş” mekanizmadır. İnsensibl kayıpların **artması** dehidratasyon yapar; azalması yapmaz.
+Akut gastroenterit (A), böbrek solüt yükünün artması (B), ADH miktarının azalması (D; diabetes insipidus) ve yetersiz sıvı alımı (E) dehidratasyon nedenleridir.
+
+=== 2021-22-11
+E: Solüt yükünde azalma dehidratasyon yapmaz; solüt yükü ARTIŞI ozmotik diürezle yapar.
+Cevap: solüt yükte azalma. Böbreğin atması gereken solüt (üre, sodyum, glukoz) arttıkça bu solütü taşıyacak idrar hacmi de artar; mamanın aşırı yoğun hazırlanması ya da glukozüri bebeği bu yolla dehidrate eder. Solüt yükünün azalması idrar hacmini düşürür ve su kazandırır.
+
+=== 2025-26-5
+E: Hipotansiyon/normal KB + soğuk alacalı deri + letarji-koma + idrar < 0,5-1 ml/kg/saat → ağır dehidratasyon (≥ %10).
+E doğru. Tablodaki bulgular dolaşımın bozulduğunu gösterir: kan basıncı normal ya da düşük, nabız dolgunluğu azalmış, ekstremiteler soğuk ve alacalı (*cutis marmorata*), bilinç letarjik ya da komatöz ve idrar 0,5-1 ml/kg/saatin çok altında. Doku bulguları (turgor azalması, çökük fontanel ve göz, kuru mukoza) da eşlik eder. Bu tablo **%10 ve üzeri, ağır dehidratasyondur** ve damar yolu tedavisi gerektirir.
+Hafif dehidratasyonda (%3-5) yalnız susuzluk ve hafif mukoza kuruluğu, orta dehidratasyonda (%6-9) taşikardi, turgor azalması ve çökük göz-fontanel vardır ama dolaşım ve bilinç korunur.
+
+=== 2024-25-13
+C: @%10 ve üzeri, ağır dehidratasyon
+N: Bu yılın kaydında soru metni yok; öğrenci notu “meşhur %10 ve üzeri ağır dehidratasyon cevabı olan soru” diyor. Bir önceki kartla aynı vaka.
+E: Ağır dehidratasyon vakası her yıl aynı bulgu listesiyle gelir: cevap %10 ve üzeri.
+Cevap: %10 ve üzeri, ağır dehidratasyon. Bir önceki karttaki bulgu listesinin aynısıdır; dolaşım bozukluğu, bilinç değişikliği ve oligüri birlikte olduğunda derece ağırdır.
+
+=== 2021-22-10
+E: Dehidratasyon derecesinde dışkı kıvamı kullanılmaz; susuzluk, bilinç, gözyaşı, turgor, postural hipotansiyon kullanılır.
+Cevap: yalnız 3 (gaita kıvamı). Dışkının kıvamı ishalin tipini gösterir, kaybın ne kadar olduğunu göstermez. Dehidratasyonun derecesi vücuttan kaybolan sıvının vücut üzerindeki etkileriyle ölçülür: susuzluk hissi, bilinç durumu, gözyaşının varlığı, deri turgoru, göz ve fontanel, nabız ve postural hipotansiyon, idrar miktarı.
+
+=== 2025-26-6
+E: ORS paketi kaynamış-soğumuş suya eklenir; paketle birlikte kaynatılmaz. 24 saatte artan dökülür.
+C yanlıştır. Su önce kaynatılıp soğutulur, ORS tozu soğumuş suya eklenir. Tozu ekleyip kaynatmak suyun bir kısmını buharlaştırır, karışımı yoğunlaştırır ve hipernatremi riski doğurur; glukoz da kaynatmayla bozulabilir.
+Eller yıkanır (A), hazır paketler sağlık kurumu ve eczaneden alınır (B), karışım günlük taze hazırlanıp artan dökülür (D) ve ORS hem rehidratasyon hem de devam eden kayıpların karşılanmasında kullanılır (E).
+
+=== 2022-23-11
+E: Evde tuz-şeker-soda tartarak ORS hazırlanmaz; hazır paket + 1 L kaynamış soğumuş su.
+B yanlıştır. Şıktaki formül eski DSÖ ORS'sidir (NaCl 3,5 g, NaHCO<sub>3</sub> 2,5 g, KCl 1,5 g, glukoz 20 g). Evde tartı ve saf madde olmadığı için oranlar kaçar; fazla tuz hipernatremi, fazla şeker ozmotik ishal yapar. Bu yüzden hazır paket kullanılır.
+Eller yıkanır (A), 1 litre (yaklaşık 5 su bardağı) kaynamış soğumuş suya bir paket eklenip karıştırılır (C), kabın ağzı kapatılıp serin yerde saklanır (D), 24 saat sonra artan dökülür (E).
+
+=== 2024-25-14
+N: Önermeler yıllara göre ters çevriliyor: 2022-23, 2021-22, 2020-21 ve 2019-20'de 1. önerme “evde ORS hazırlamak doğru DEĞİLDİR”, 3. önerme “dehidrate olmayan bebeğe de ORS verilmesi GEREKİR” biçimindeydi; bu yüzden o yıllarda cevap “1 ve 2” oldu. Bilgi aynı.
+E: Evde ORS hazırlamak doğru değil; orta dehidratasyon 100 ml/kg, hafif 50 ml/kg ORS 4-6 saatte; dehidrate olmayana rehidratasyon için ORS gerekmez.
+D doğru (2 ve 3). Orta derecede dehidratasyonda rehidratasyon evresinde **100 ml/kg** ORS 4-6 saatte içirilir (hafifte 50 ml/kg). Dehidrate olmayan bebekte kapatılacak bir açık yoktur, rehidratasyon için ORS gerekmez; ishal sürerse her dışkıdan sonra kayıp kadar sıvı verilir.
+1. önerme yanlıştır: evdeki malzemeyle oranlar doğru tutturulamaz, hazır paket kullanılır.
+
+=== 2023-24-11
+E: ORS: bilinci açık herkes, yenidoğan dahil, her ishal, Na 115-165 mEq/L; ateş kontrendikasyon değil.
+C doğru (I, III, IV, V). Sodyum-glukoz kotransportu her yaşta ve her ishal tipinde çalıştığı için ORS bilinci açık ve yutabilen herkese, **yenidoğan ve düşük doğum ağırlıklı bebek dahil**, etiyolojiye bakılmaksızın verilir. Serum sodyumu 115-165 mEq/L arasındaysa ORS ile güvenle düzeltilir.
+II yanlıştır: **ateş ORS için kontrendikasyon değildir**, aksine ateş insensibl kaybı artırdığı için sıvı ihtiyacını yükseltir.
+
+=== 2021-22-12
+E: Damar yolu tedavisinde başarı: vital bulgular stabil, oligüri kaybolmuş, idrar dansitesi düşmüş, asidoz düzelmiş, BUN-kreatinin normal, ishale rağmen kilo alımı.
+B doğru (hepsi). Rehidratasyon başarılıysa dolaşım düzelir (vital bulgular stabil), böbrek perfüzyonu yerine geldiği için böbrek suyu tutmayı bırakır (fizyolojik oligüri kaybolur, idrar dansitesi düşer), doku perfüzyonu düzelince laktik asidoz geriler, prerenal azotemi düzelir (BUN, kreatinin normal) ve ishal sürse de alınan sıvı kaybı aştığı için kilo artar.

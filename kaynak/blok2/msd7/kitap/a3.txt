@@ -1,0 +1,45 @@
+=== 2025-26-12
+E: Su-besin hastalıkları kışın değil, yazın artar; dışkı-ağız, endemik, epidemik, su kaynaklılar patlayıcı.
+E yanlıştır. Su ve besinle bulaşan hastalıklar **yaz ve sonbahar** aylarında artar: sıcakta bakteriler besinde hızla çoğalır, su tüketimi ve dışarıda yemek yeme artar, sinekler çoğalır, sağanak yağışlar kanalizasyonu taşırır.
+Dışkı-ağız yoluyla bulaşmaları (A), endemik olmaları (B), sıklıkla epidemi yapmaları (C) ve su kaynaklıların patlayıcı tarzda salgın yapması (D) bu grubun özellikleridir.
+
+=== 2019-20-15
+E: Su-besin hastalıklarının salgınları mevsimsel farklılık GÖSTERİR (yaz-sonbahar tepesi).
+D yanlıştır. Önceki kartın aynı bilgisidir, bu kez ters cümleyle sorulmuştur: salgınlar yazın ve sonbaharda belirgin biçimde artar. Diğer dört özellik (dışkı-ağız bulaşı, endemiklik, epidemi ve su kaynaklılarda patlayıcı salgın) doğrudur.
+
+=== 2025-26-14
+E: Su ve besinlerle bulaşan hastalıklarda enfeksiyon zincirinin en zayıf halkası: bulaşma yolu.
+B doğru. Kaynak çoğu zaman belirtisiz taşıyıcılardır ve tamamı bulunamaz; sağlam kişiyi korumak için her etkene aşı yoktur. Su ve besin ise tek noktadan denetlenebilir: şebeke suyunun klorlanması ve gıda denetimi aynı anda binlerce kişiyi korur. Zincirin en kolay kırıldığı yer bu yüzden **bulaşma yolu**dur.
+Taşıyıcı (D) kaynağın bir türüdür. Soğuk zincir (E) aşı ve besin saklama koşuludur, zincirin halkası değildir.
+
+=== 2025-26-9
+E: Kaynağa yönelik müdahaleler: filyasyon, ayırma (izolasyon), tedavi, sağlık eğitimi (I-II-VI-VII).
+D doğru (I, II, VI, VII). **Filyasyon** hastalığın kaynağını ve temaslıları bulmaktır; **ayırma** hastayı başkalarına bulaştırmayacak biçimde ayırır; **tedavi** etkeni kaynağında yok eder ve taşıyıcılığı sonlandırır; **sağlık eğitimi** hasta ve taşıyıcıya el hijyenini ve besin hazırlamaktan uzak durmayı öğretir.
+Karantina (III) sağlam kişiye, suların dezenfeksiyonu (IV) ve gıda sanitasyonu (V) bulaşma yoluna yönelik müdahaledir.
+
+=== 2025-26-11
+E: Bulaşma yoluna yönelik müdahale: suların dezenfeksiyonu, gıda sanitasyonu.
+C doğru. Suyun klorlanması etkeni kaynak ile sağlam kişi arasındaki yolda, suyun içinde öldürür; bulaşma yoluna yöneliktir.
+Ayırma (A), hastaların tedavisi (D) ve temaslıların aranması, yani filyasyon (E), kaynağa yöneliktir. Karantina (B) sağlam kişiye yönelik bir müdahaledir.
+
+=== 2024-25-20
+E: Sağlam kişiye yönelik müdahale: karantina (ayrıca aşı, kemoprofilaksi).
+C doğru. Karantina, hastayla temas etmiş ama henüz hastalanmamış **sağlam kişinin** en uzun kuluçka süresi boyunca kısıtlanıp izlenmesidir. Amaç onun hastalanırsa erken fark edilmesi ve başkalarına bulaştırmamasıdır.
+Suların dezenfeksiyonu (A) ve gıda sanitasyonu (D) bulaşma yoluna, ayırma (B) ve tedavi (E) kaynağa yöneliktir.
+
+=== 2025-26-13
+E: Besin entoksikasyonunda kuluçka kısa, kusma ön planda; besin enfeksiyonunda kuluçka uzun, ishal ön planda.
+E doğru. Entoksikasyonda besinde hazır bulunan toksin alınır; etken çoğalmak zorunda olmadığı için belirtiler dakikalar ya da birkaç saat içinde başlar.
+Toksinin etkisi entoksikasyonun özelliğidir; besin enfeksiyonunda canlı mikroorganizma bağırsakta çoğalır (A). Entoksikasyonda kusma, enfeksiyonda ishal ön plandadır (B ve C ters çevrilmiş). *S. aureus* kuluçkası **en kısa** olan entoksikasyon etkenidir (D).
+
+=== 2024-25-17
+C: @II ve III (besin entoksikasyonunda kuluçka daha kısadır; besin enfeksiyonunda ishal ön plandadır)
+N: Bu yılın kaydında şıklar okunamıyor (“-”), anahtar C. Önermelere göre doğru cevap II ve III'tür.
+E: Besin enfeksiyonu = canlı etken, uzun kuluçka, ishal; entoksikasyon = hazır toksin, kısa kuluçka, kusma.
+Cevap: II ve III. Besin entoksikasyonlarında kuluçka kısadır (II) ve besin enfeksiyonlarında ishal ön plandadır (III).
+I yanlıştır: toksinin etkisi **entoksikasyonun** tanımıdır. Besin enfeksiyonunda hastalığı bağırsakta çoğalan mikroorganizmanın kendisi yapar.
+
+=== 2025-26-10
+E: Sık aralarla + belli başlı parametreler = kontrol izlemi; belirli aralarla + tüm parametreler = denetleme izlemi.
+A doğru. **Kontrol izlemi**, suyun içilebilirliğini ve dezenfeksiyonun çalıştığını hızlıca göstermek için **sık aralarla** ve **yalnızca belli başlı parametrelerle** (koku, tat, renk, bulanıklık, pH, iletkenlik, bakiye klor, *E. coli*, koliform) yapılır.
+**Denetleme izlemi** (B) daha seyrek, **belirli aralarla** ve yönetmelikteki **tüm parametrelerle** yapılır; diğer yılların çoğunda soru bunun tanımını sordu. “Su izlemi”, “genel izlem” ve “özel izlem” (C-E) yönetmelikteki izlem türlerinin adı değildir.
