@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title></title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --color-bg: #f3f2f2;
+    --color-text: #201e1d;
+    --color-accent: #0088b0;
+    --color-accent-700: color-mix(in oklch, #0088b0, black 35%);
+    --color-accent-900: color-mix(in oklch, #0088b0, black 55%);
+    --color-accent-2: #d6006c;
+    --color-accent-2-900: color-mix(in oklch, #d6006c, black 45%);
+    --color-neutral-700: #57534e;
+    --font-heading: "Source Serif 4", Georgia, "Times New Roman", serif;
+    --font-body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  }
+  @page { size: A4; margin: 24mm 20mm 24mm 20mm; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); }
+  a { color: var(--color-accent-700); }
+  .book-page { max-width: 100%; }
+  .book-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 16px 0; }
+  .book-title { font-family: var(--font-heading); font-size: 2.3rem; line-height: 1.15; font-weight: 700; margin: 0 0 12px 0; }
+  .book-byline { font-style: italic; color: var(--color-neutral-700); font-size: 0.92rem; margin: 0 0 40px 0; }
+  .book-section { margin: 0 0 32px 0; }
+  .book-h2 { font-family: var(--font-heading); font-size: 1.3rem; font-weight: 700; margin: 0 0 12px 0; break-after: avoid; }
+  .book-h3 { font-family: var(--font-heading); font-size: 1.08rem; font-weight: 700; margin: 18px 0 8px 0; break-after: avoid; }
+  .book-p { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; text-align: justify; hyphens: auto; }
+  .book-list { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; padding-left: 1.3em; }
+  .book-list li { margin-bottom: 5px; }
+  .tag { display: inline-block; font-size: 10.5px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 9px; border-radius: 2px; }
+  .tag-accent-2 { background: color-mix(in oklch, var(--color-accent-2) 14%, white); color: var(--color-accent-2-900); }
+  .highlight-tag { margin-bottom: 8px; break-inside: avoid; }
+  .highlight-p { font-size: 0.98rem; line-height: 1.65; color: var(--color-accent-2-900); margin: 0 0 12px 0; break-inside: avoid; }
+  .cite { font-style: italic; color: var(--color-neutral-700); }
+  table.table { width: 100%; border-collapse: collapse; font-size: 0.86rem; margin: 4px 0 16px 0; break-inside: avoid; }
+  table.table th { text-align: left; font-family: var(--font-heading); font-weight: 700; border-bottom: 1.5px solid var(--color-text); padding: 6px 10px 6px 0; }
+  table.table td { border-bottom: 1px solid color-mix(in oklch, var(--color-text) 15%, white); padding: 7px 10px 7px 0; vertical-align: top; }
+  .chart-figure { margin: 4px 0 16px 0; break-inside: avoid; }
+  .chart-caption { font-size: 0.82rem; color: var(--color-neutral-700); margin-top: 8px; font-style: italic; text-align: left; }
+  .qa-list { display: flex; flex-direction: column; gap: 14px; margin-top: 14px; }
+  .card { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 16px 20px; break-inside: avoid; }
+  .card-kicker { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 4px; }
+  .card-title { font-family: var(--font-heading); font-weight: 700; font-size: 1rem; margin-bottom: 8px; }
+  .card-body { font-size: 0.93rem; line-height: 1.6; }
+  .card-body p { margin: 0 0 8px 0; }
+  .card-body .opt-correct { color: var(--color-accent-700); font-weight: 700; }
+  .card-source { font-size: 0.8rem; font-style: italic; color: var(--color-neutral-700); margin-top: 8px; }
+  .card-dispute { font-size: 0.85rem; background: color-mix(in oklch, var(--color-accent-2) 8%, white); padding: 8px 12px; border-radius: 2px; margin-top: 8px; }
+  .chapter { break-before: page; }
+  .chapter-first { break-before: auto; }
+  .chapter-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 6px 0; }
+  .chapter-title { font-family: var(--font-heading); font-size: 1.75rem; line-height: 1.2; font-weight: 700; margin: 0 0 8px 0; break-after: avoid; }
+  .chapter-lead { font-style: italic; color: var(--color-neutral-700); font-size: 0.95rem; line-height: 1.6; margin: 0 0 26px 0; }
+  .book-h4 { font-family: var(--font-heading); font-size: 0.98rem; font-weight: 700; font-style: italic; margin: 14px 0 6px 0; break-after: avoid; }
+  ol.book-list { padding-left: 1.5em; }
+  .toc { list-style: none; padding: 0; margin: 0 0 12px 0; font-size: 0.98rem; line-height: 1.7; }
+  .toc li { margin: 0 0 4px 0; }
+  .toc .toc-sub { color: var(--color-neutral-700); font-size: 0.88rem; display: block; margin-left: 1.2em; }
+  .cover-note { font-size: 0.92rem; line-height: 1.6; color: var(--color-neutral-700); margin: 0 0 14px 0; }
+  .keybox { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 14px 18px; margin: 6px 0 16px 0; break-inside: avoid; }
+  .keybox-title { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 6px; font-weight: 700; }
+  .keybox ul { margin: 0; padding-left: 1.2em; font-size: 0.92rem; line-height: 1.6; }
+  .keybox li { margin-bottom: 3px; }
+  .card-title .opts { display: block; font-weight: 400; font-family: var(--font-body); font-size: 0.93rem; margin-top: 6px; line-height: 1.55; }
+  table.table.compact { font-size: 0.8rem; }
+  sub, sup { line-height: 0; }
+  @page { size: A4; margin: 22mm 20mm 20mm 20mm; background: #f3f2f2; }
+  .hl-block { break-inside: avoid; }
+  table.table.split { break-inside: auto; }
+  table.table.split tr { break-inside: avoid; }
+
+  /* --- Modul 5-6: cikmis soru odakli yapi --- */
+  .qblock { margin: 0 0 10px 0; break-after: avoid; }
+  .qblock-title { font-size: 10.5px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-accent-2-900); font-weight: 700; margin: 0 0 4px 0; }
+  .qblock-note { font-size: 0.84rem; line-height: 1.5; color: var(--color-neutral-700); font-style: italic; margin: 0 0 10px 0; }
+  .qcards { display: block; margin: 0 0 26px 0; }
+  .qcard { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 12px 16px 10px 16px; margin: 0 0 10px 0; break-inside: auto; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+  .q-head { display: flex; align-items: center; gap: 10px; margin-bottom: 2px; }
+  .q-no { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); font-weight: 700; }
+  .q-src { font-size: 0.74rem; color: var(--color-neutral-700); margin: 0 0 6px 0; line-height: 1.45; }
+  .q-src b { font-weight: 700; color: var(--color-text); }
+  .q-stem { font-family: var(--font-heading); font-weight: 700; font-size: 0.95rem; line-height: 1.45; margin: 0 0 4px 0; }
+  .q-list { margin: 2px 0 6px 0; padding-left: 1.2em; font-size: 0.88rem; line-height: 1.45; }
+  .q-opts { font-size: 0.88rem; line-height: 1.5; margin: 2px 0 6px 0; }
+  .q-opt { padding-left: 1.6em; text-indent: -1.6em; }
+  .q-opt.ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-ans { font-size: 0.86rem; margin: 2px 0 6px 0; }
+  .q-var { font-size: 0.82rem; font-style: italic; color: var(--color-neutral-700); line-height: 1.5; margin: 0 0 6px 0; }
+  .q-why { font-size: 0.86rem; line-height: 1.55; border-top: 1px solid color-mix(in oklch, var(--color-text) 10%, white); padding-top: 6px; }
+  .q-why p { margin: 0 0 5px 0; break-inside: avoid; }
+  .q-head, .q-src, .q-stem, .q-list { break-after: avoid; break-inside: avoid; }
+  .q-opts, .q-ans, .q-var { break-inside: avoid; }
+  .q-why .ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-why p:first-child > b:first-child { color: var(--color-accent-700); }
+  .q-var p { margin: 0 0 3px 0; }
+  .tag-soft { background: color-mix(in oklch, var(--color-accent) 12%, white); color: var(--color-accent-700); }
+  table.dizin td:first-child, table.surekli td:last-child { white-space: nowrap; }
+  table.dizin td:last-child { font-size: 0.72rem; color: var(--color-neutral-700); }
+  tr.dizin-bolum td { font-family: var(--font-heading); font-weight: 700; padding-top: 10px; border-bottom: 1.5px solid var(--color-text); }
+  td.sur { color: var(--color-accent-2-900); font-weight: 700; }
+  table.dizin td.sur { color: var(--color-accent-2-900); }
+  .sunumsuz { font-size: 0.86rem; background: color-mix(in oklch, var(--color-accent) 7%, white); padding: 8px 12px; border-radius: 2px; margin: 0 0 14px 0; }
+  .ref { font-size: 0.8em; color: var(--color-accent-700); font-weight: 700; white-space: nowrap; }
+
+  @page { size: A4; margin: 16mm 15mm 16mm 15mm; background: #f3f2f2; }
+  .book-p { font-size: 0.93rem; line-height: 1.55; margin: 0 0 9px 0; }
+  .book-list { font-size: 0.93rem; line-height: 1.5; }
+  .qcard { padding: 9px 13px 8px 13px; margin: 0 0 8px 0; }
+  .q-stem { font-size: 0.9rem; } .q-opts { font-size: 0.84rem; line-height: 1.4; }
+  .q-why p { font-size: 0.86rem; line-height: 1.48; }
+  .q-var { font-size: 0.78rem; }
+  .q-src { margin: 0 0 3px 0; }
+</style>
+</head>
+<body>
+<main class="book-page">
+<section class="chapter"><p class="chapter-kicker">Bölüm 6 · Toksinli etkenler</p><h2 class="chapter-title">Toksin Kaynaklı İshaller ve Diğer Bakteriler</h2><p class="chapter-lead">Besin zehirlenmesi yapan toksijenik bakteriler (S. aureus, B. cereus, C. perfringens), sekretuvar toksinler ve mekanizmaları, Vibrio cholerae ve kolera, deniz-su kaynaklı bakteriler (V. parahaemolyticus, Aeromonas), Listeria ve bakteriyel toksinlerin sınıflandırılması. Bu etkenlerin çoğu okunamayan gastroenterit sunumunda (S2) yer alıyor olabilir; aşağıdaki anlatım standart tıbbi mikrobiyoloji bilgisine dayanır.</p>
+<h3 class="book-h3">Toksin tipleri</h3>
+<p class="book-p">Bakteriyel toksinler yapılarına ve etkilerine göre ayrılır. Çoğu <strong>A-B yapısındadır:</strong> B (binding) parçası hücreye bağlanır, A (active) parçası içeri girip etkiyi yapar.</p>
+<table class="table compact split"><thead><tr><th>Toksin tipi</th><th>Ne yapar</th><th>Örnek</th></tr></thead><tbody>
+<tr><td><strong>Enterotoksin</strong></td><td>bağırsak epitelinde su-elektrolit salgısını artırır (cAMP/cGMP)</td><td>kolera toksini, ETEC LT/ST, <em>S. aureus</em>, <em>B. cereus</em></td></tr>
+<tr><td><strong>Sitotoksin</strong></td><td>hücreyi öldürür, mukozayı yıkar</td><td>Shiga toksini (<em>Shigella</em>, EHEC), <em>C. difficile</em> A/B, <em>C. perfringens</em></td></tr>
+<tr><td><strong>Nörotoksin</strong></td><td>sinir iletimini bozar</td><td>botulinum (gevşek felç), tetanoz</td></tr>
+</tbody></table>
+<p class="chart-caption">Toksin sınıfları. Enterotoksin = sulu ishal; sitotoksin = kanlı, iltihaplı; nörotoksin = sinir belirtileri.</p>
+<p class="book-p"><strong>Hazır (preformed) toksin</strong> besinde önceden oluşur: <em>S. aureus</em>, <em>B. cereus</em> (emetik), <em>C. botulinum</em>. Bunlarda kuluçka kısadır ve antibiyotik işe yaramaz.</p>
+<h3 class="book-h3">Besin zehirlenmesi yapan toksijenik bakteriler</h3>
+<table class="table compact split"><thead><tr><th>Etken</th><th>Kaynak</th><th>Kuluçka</th><th>Klinik</th><th>Toksin</th></tr></thead><tbody>
+<tr><td><strong><em>S. aureus</strong></em></td><td>kremalı pasta, pastane ürünü, elle hazırlanan et-salata</td><td><strong>1-6 saat</strong></td><td>ani <strong>kusma</strong>, bulantı, az ishal; ateş yok</td><td>ısıya <strong>dayanıklı</strong> hazır enterotoksin (A-E); pişirmeyle yok olmaz</td></tr>
+<tr><td><strong><em>B. cereus</em> emetik</strong></td><td>bekletilmiş/ısıtılmış <strong>pilav</strong></td><td><strong>1-6 saat</strong></td><td><strong>kusma</strong></td><td>ısıya dayanıklı hazır toksin (sereulid)</td></tr>
+<tr><td><strong><em>B. cereus</em> ishal tipi</strong></td><td>et, sebze, sos</td><td>8-16 saat</td><td>sulu ishal</td><td>bağırsakta salınan, ısıya duyarlı enterotoksin</td></tr>
+<tr><td><strong><em>C. perfringens</strong></em></td><td>büyük kazanda pişip ılık bekleyen et, et suyu</td><td>8-16 saat</td><td>sulu ishal, kramp; kusma az</td><td>bağırsakta sporülasyonda salınan enterotoksin</td></tr>
+<tr><td><strong><em>C. botulinum</strong></em></td><td>ev konservesi, bal (bebek)</td><td>12-36 saat</td><td>bulanık görme, pitoz, disfaji, <strong>simetrik inen gevşek felç</strong></td><td>nörotoksin (asetilkolin salınımını engeller)</td></tr>
+</tbody></table>
+<p class="chart-caption">Besin zehirlenmesi etkenleri. Pasta → stafilokok, pilav → cereus (kusma), bekletilmiş et → perfringens.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong><em>S. aureus</em> toksini ısıya dayanıklıdır:</strong> yemeği yeniden ısıtmak bakteriyi öldürür ama toksini bozmaz, zehirlenme yine olur. Kremalı pasta + 1-6 saatte kusma + gaitada az lökosit → <em>S. aureus</em>.</p></div>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-accent-2">Sınav notu</span></p><p class="highlight-p">2025-26 S1'de hastanın gaitasında 8-10 lökosit görülmüş ve yine de cevap <em>S. aureus</em> kabul edilmiştir. Stafilokok enterotoksini tipik olarak lökositsiz, kusma ağırlıklı tablo yapar; buradaki az sayıda lökosit tabloyu değiştirmez, öykü (kremalı pasta, 1 saat, ortak yiyen arkadaş, kusma ön planda) klasik stafilokok besin zehirlenmesidir.</p></div>
+<h3 class="book-h3">Vibrio cholerae ve kolera</h3>
+<p class="book-p"><em>Vibrio cholerae</em>, kıvrık (virgül biçiminde), tek polar kamçısıyla hareketli, <strong>oksidaz pozitif</strong> Gram negatif bir bakteridir. Kolera toksini A-B yapısındadır: hücre içinde <strong>adenilat siklazı sürekli aktive edip cAMP'yi</strong> yükseltir; enterositten lümene masif klor ve su salınır, sodyum emilimi durur. Sonuç, mukoza sağlam kalırken (lökositsiz) günde litrelerce <strong>“pirinç suyu” görünümünde sekretuvar ishaldir</strong>; hızlı, ağır dehidratasyon ve ölüm riski vardır.</p>
+<ul class="book-list">
+<li><strong>O1 ve O139</strong> serogrupları kolera toksini üretip klasik salgınları yapar.</li>
+<li>Mide asidine <strong>duyarlıdır;</strong> bu yüzden enfektif doz yüksektir (yaklaşık 10<sup>8</sup>). Aklorhidri ya da asit baskılayıcı kullanımı dozu düşürür.</li>
+<li>Üremesi için <strong>tuza (NaCl) gereksinim duyar</strong> (halofilik), alkali ortamı sever (TCBS besiyerinde sarı koloni).</li>
+<li>Tedavinin esası sıvı (ORS ve damar yolu); doksisiklin ya da azitromisin süreyi ve bulaşı azaltır.</li>
+</ul>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-accent-2">Sınav notu</span></p><p class="highlight-p">2024-25 S49'da “mide asidine duyarlı değildir, 100 bakteriyle kolera gelişir” şıkkı <strong>yanlış</strong> olarak işaretlenir: <em>V. cholerae</em> aside <strong>duyarlıdır</strong> ve hastalık için yüksek doz gerekir.</p></div>
+<h3 class="book-h3">Su ve deniz kaynaklı bakteriler</h3>
+<table class="table compact split"><thead><tr><th>Etken</th><th>Özellik</th></tr></thead><tbody>
+<tr><td><strong><em>V. parahaemolyticus</strong></em></td><td>çiğ deniz ürünü (istiridye, balık); sulu, bazen kanlı ishal; <strong>halofilik</strong>; inflamatuvar grupta</td></tr>
+<tr><td><strong><em>V. vulnificus</strong></em></td><td>istiridye; karaciğer hastalarında sepsis, yara enfeksiyonu</td></tr>
+<tr><td><strong><em>Aeromonas hydrophila</strong></em></td><td><strong>tatlı su</strong>, su kaynaklı; hareketli, <strong>oksidaz pozitif</strong> Gram negatif basil; fakültatif anaerop; suyla temas eden yaralarda <strong>selülit</strong>; tuzsuz sever, %6 NaCl'de iyi üremez</td></tr>
+<tr><td><strong><em>Plesiomonas shigelloides</strong></em></td><td>su, deniz ürünü; oksidaz pozitif</td></tr>
+</tbody></table>
+<p class="chart-caption">Su ve deniz kaynaklı etkenler. <em>Aeromonas</em> tatlı su ve yaradır; tuzu sevmez. <em>Vibrio</em>'lar tuzu sever.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-accent-2">Sınav notu</span></p><p class="highlight-p"><em>Aeromonas hydrophila</em> <strong>%6 NaCl'li besiyerinde iyi üremez</strong> (halofilik değildir); 2023-24 S45'te bu şık yanlıştır.</p></div>
+<h3 class="book-h3">Listeria monocytogenes</h3>
+<p class="book-p"><em>Listeria monocytogenes</em>, Gram pozitif basildir; en çarpıcı özelliği <strong>buzdolabı sıcaklığında (soğukta) üreyebilmesidir</strong> (soğukta zenginleştirme). Pastörize edilmemiş süt ve peynir, hazır et ürünleri, çiğ sebzelerle bulaşır. Sağlıklı erişkinde ateşli gastroenterit yapar; gebe, yenidoğan, yaşlı ve bağışıklığı baskılanmışta <strong>sepsis ve menenjit</strong> yapar; gebelikte düşük ve ölü doğuma yol açar.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Buzdolabında üreyen, gastroenterit + sepsis + menenjit = Listeria.</strong></p></div>
+<h3 class="book-h3">Diğer bakteriler ve sekresyon sistemleri</h3>
+<p class="book-p">Bazı patojenler toksini doğrudan konak hücresine enjekte eden <strong>salgı sistemleri</strong> kullanır: <em>Salmonella</em>, <em>Shigella</em> ve EPEC <strong>tip 3 sekresyon sistemiyle</strong> efektör proteinleri hücreye sokup invazyon ve sinyal değişikliği yapar. <em>Helicobacter pylori</em> <strong>tip 4 sekresyon sistemiyle</strong> CagA proteinini mide epiteline aktarır. Kolera toksini ise bir salgı sistemiyle değil, reseptöre bağlanıp endositozla etki eder.</p>
+<h3 class="book-h3">Bölüm özeti</h3>
+<ul class="book-list">
+<li>Enterotoksin → sulu ishal; sitotoksin → kanlı; nörotoksin → sinir belirtileri. Hazır toksin: <em>S. aureus</em>, <em>B. cereus</em> (emetik), <em>C. botulinum</em>.</li>
+<li>Pasta → <em>S. aureus</em> (ısıya dayanıklı toksin, kusma); pilav → <em>B. cereus</em>; bekletilmiş et → <em>C. perfringens</em>.</li>
+<li>Kolera: oksidaz +, halofilik, cAMP ↑, pirinç suyu ishali, aside duyarlı, yüksek doz; O1/O139.</li>
+<li><em>Aeromonas</em>: tatlı su, oksidaz +, yara selüliti, tuzu sevmez. <em>V. parahaemolyticus</em>: deniz, halofilik.</li>
+<li><em>Listeria</em>: soğukta ürer, gastroenterit + sepsis + menenjit, gebelikte tehlikeli.</li>
+</ul>
+<h3 class="book-h3">Çıkmış sorular: Toksin Kaynaklı İshaller ve Diğer Bakteriler</h3>
+<p class="book-p">Bu bölümden 7 sınavda <strong>8 soru</strong> çıktı; bunlar <strong>8 farklı soruya</strong> karşılık geliyor ve <strong>0 tanesi</strong> birden fazla yıl soruldu. Her kartta sorunun en yeni hâli, sağ üstte kaç kez sorulduğu, kartın altında da çıktığı tüm sınavlar yazar. Rozeti koyu olanlar 3 ve daha fazla kez sorulmuş sorulardır.</p>
+<div class="qblock"><p class="qblock-title">Çıkmış sorular</p></div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S47</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S47</div>
+<div class="q-stem">Buzdolabında üreyebilen, gastroenterit yapan septisemi ve menenjit etkeni bakteri hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Campylobacter jejuni</em></div><div class="q-opt"><b>B)</b> <em>Vibrio cholerae</em></div><div class="q-opt ok"><b>C)</b> <em>Listeria monocytogenes</em> ✓</div><div class="q-opt"><b>D)</b> <em>Clostridium botulinum</em></div><div class="q-opt"><b>E)</b> <em>Vibrio parahemolyticus</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <em>Listeria monocytogenes</em> <strong>buzdolabı sıcaklığında üreyebilir</strong>; pastörize edilmemiş süt-peynir ve hazır et ürünleriyle bulaşır. Sağlamda ateşli gastroenterit, gebe-yenidoğan-yaşlı-bağışıklığı baskılanmışta <strong>sepsis ve menenjit</strong> yapar.</p><p><em>C. jejuni</em> (A) ve <em>V. parahaemolyticus</em> (E) menenjit yapmaz; <em>V. cholerae</em> (B) sekretuvar ishal; <em>C. botulinum</em> (D) nörotoksinle gevşek felç yapar.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S1</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S1</div>
+<div class="q-stem">Daha önce sağlıklı olan 25 yaşında erkek hasta; yemekten bir saat sonra başlayan bulantı kusma şikayetleri ile başvurdu. Hastada günde 7-8 kez olan kusma ve sonraki süreçte başlayan 1-2 kez olan ishal şikayeti mevcut. Hastanın öyküsünden kremalı yaş pasta yediği öğrenildi. Aynı pastadan yiyen arkadaşında da benzer şikayetlerinin olduğu öğrenildi. Hastadan alınan gaita tetkiklerinin incelemesinde gaitada 8-10 lökosit görüldü. Klinik olarak besin zehirlenmesi düşünülen bu hastada öncelikle aşağıdaki etkenlerden hangisi düşünülür?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Enteroinvaziv <em>E. coli</em></div><div class="q-opt ok"><b>B)</b> <em>S. aureus</em> ✓</div><div class="q-opt"><b>C)</b> <em>C. perfringens</em></div><div class="q-opt"><b>D)</b> <em>Salmonella typhi</em></div><div class="q-opt"><b>E)</b> <em>Shigella</em> spp.</div></div>
+<div class="q-why"><p><strong>B doğru.</strong> Kremalı pasta stafilokokun en sevdiği besindir; elle hazırlanıp oda ısısında bekleyen üründe bakteri çoğalıp <strong>ısıya dayanıklı enterotoksinini önceden üretir</strong>. Toksin alınınca 1-6 saatte ani kusma başlar, ishal geri plandadır, ateş yoktur. Ortak yiyen arkadaşta da aynı tablonun olması ortak kaynaklı besin zehirlenmesini gösterir.</p><p>Gaitadaki 8-10 lökosit bu tanıyı değiştirmez; stafilokok tipik olarak lökositsiz tablo yapar, buradaki az sayı belirleyici değildir. EIEC (A) ve <em>Shigella</em> (E) kanlı-iltihaplı ishal, uzun kuluçkayla; <em>C. perfringens</em> (C) 8-16 saatte ishal; <em>S.</em> Typhi (D) enterik ateş yapar.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S37</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S37</div>
+<div class="q-stem">Aşağıdaki bakteriyel toksinlerden hangisi sekretuvar ishal nedenlerindendir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Enteroinvaziv <em>Escherichia coli</em></div><div class="q-opt"><b>B)</b> <em>Shigella sonnei</em></div><div class="q-opt ok"><b>C)</b> <em>Bacillus cereus</em> ✓</div><div class="q-opt"><b>D)</b> <em>Campylobacter jejuni</em></div><div class="q-opt"><b>E)</b> <em>Salmonella</em> Typhimurium</div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <em>Bacillus cereus</em> enterotoksinleriyle bağırsakta su-elektrolit salgısını artırır; mukozaya invazyon yoktur, ishal <strong>sekretuvar</strong> tiptedir.</p><p>EIEC (A), <em>Shigella sonnei</em> (B), <em>C. jejuni</em> (D) ve <em>S.</em> Typhimurium (E) mukozayı işgal eden, iltihaplı (dışkıda lökositli) ishal yapan etkenlerdir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S49</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S49</div>
+<div class="q-stem">Aşağıdakilerden hangisi <em>Vibrio cholerae</em> için yanlıştır?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Üreyebilmek için tuza gereksinim duyar</div><div class="q-opt"><b>B)</b> Katalaz ve oksidaz pozitiftir</div><div class="q-opt ok"><b>C)</b> Mide asidine duyarlı değildir 100 bakteri ile kolera gelişir ✓</div><div class="q-opt"><b>D)</b> Polar flajellumu sayesinde hareketlidir</div><div class="q-opt"><b>E)</b> O1 ve O139 suşları kolera toksini ile klasik kolera salgınına neden olur</div></div>
+<div class="q-why"><p><strong>C yanlıştır.</strong> <em>V. cholerae</em> mide asidine <strong>duyarlıdır</strong>; asitten kurtulup bağırsağa canlı ulaşabilmesi için yaklaşık 10<sup>8</sup> gibi yüksek bir doz gerekir. Mide asidini azaltan durumlarda (aklorhidri, antiasit) bu doz düşer. “100 bakteriyle kolera gelişir” ifadesi düşük dozlu <em>Shigella</em> için geçerlidir, kolera için değil.</p><p>Üremek için tuza gereksinim duyması (A), katalaz ve oksidaz pozitifliği (B), tek polar kamçıyla hareket (D) ve O1-O139 suşlarının kolera toksiniyle salgın yapması (E) doğrudur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S45</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S45</div>
+<div class="q-stem">Aeromonas hydrophila* mikrobiyolojik özelliklerinden yanlış olanı bulunuz.</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Fakültatif anaerob ürer</div><div class="q-opt"><b>B)</b> Oksidaz pozitiftir</div><div class="q-opt"><b>C)</b> Hareketli gram negatif basildir.</div><div class="q-opt"><b>D)</b> Suyla temas eden yaralarda sellülite neden olur</div><div class="q-opt ok"><b>E)</b> %6 NaCl'lü besiyerlerinde iyi ürerler. ✓</div></div>
+<div class="q-why"><p><strong>E yanlıştır.</strong> <em>Aeromonas hydrophila</em> <strong>tatlı su</strong> kaynaklı bir bakteridir ve yüksek tuzu sevmez; %6 NaCl'li besiyerinde iyi üremez (bu özellik halofilik <em>Vibrio</em>'lara aittir).</p><p>Fakültatif anaerop üremesi (A), oksidaz pozitifliği (B), hareketli Gram negatif basil olması (C) ve suyla temas eden yaralarda selülit yapması (D) doğrudur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S50</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S50</div>
+<div class="q-stem">Aşağıdakilerden hangisi önceden oluşmuş enterotoksinlerin alınması ile gastroenterite neden olmaz?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Clostridium perfringens</em></div><div class="q-opt"><b>B)</b> <em>Staphylococcus aureus</em></div><div class="q-opt ok"><b>C)</b> <em>Clostridium difficile</em> ✓</div><div class="q-opt"><b>D)</b> <em>Bacillus cereus</em></div><div class="q-opt"><b>E)</b> <em>Clostridium perfringens</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <em>Clostridium difficile</em> toksinlerini besinde önceden değil, <strong>bağırsakta kolonize olup</strong> orada üretir (A ve B toksinleri); bu yüzden “önceden oluşmuş toksin alınması” grubuna girmez. Hastalığı antibiyotikle florası bozulmuş kişide çoğalarak yapar.</p><p><em>C. perfringens</em> (A, E), <em>S. aureus</em> (B) ve <em>B. cereus</em> (D) besinde ya da besin yoluyla alınan hazır/erken salınan toksinlerle besin zehirlenmesi yapar.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S39</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S39</div>
+<div class="q-stem">Sekretuvar toksini ile birlikte emetik toksini de aktif olarak, hastada ateşsiz ve yüksek sayıda dışkılamaya neden olan, gaita mikroskopisinde lökosit görülmeyen patojen hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Campylobacter jejuni</em></div><div class="q-opt"><b>B)</b> Enteropatojenik <em>Escherichia coli</em></div><div class="q-opt"><b>C)</b> <em>Clostridium difficile</em></div><div class="q-opt ok"><b>D)</b> <em>Bacillus cereus</em> ✓</div><div class="q-opt"><b>E)</b> <em>Entamoeba coli</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <em>B. cereus</em> iki toksin üretir: besinde hazır bulunan <strong>emetik</strong> toksin (kusma) ve bağırsakta salınan <strong>sekretuvar (diyareik)</strong> enterotoksin (sulu ishal). Mukozaya invazyon olmadığı için ateş ve dışkıda lökosit yoktur.</p><p><em>C. jejuni</em> (A), <em>C. difficile</em> (C) iltihaplı, lökositli ishal yapar; EPEC (B) bebek ishali etkenidir; <em>Entamoeba coli</em> (E) apatojen bir amiptir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S40</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S40</div>
+<div class="q-stem">Aşağıdaki enteropatojenlerden hangisi tip 4 sekresyon sistemi ile etki yapar?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b>Helicobacter pylori (tip 4 sekresyon sistemi)</div></div>
+<div class="q-var">Kayıtta cevap “Vibrio cholera” yazılmış; bu büyük olasılıkla hatalı. Tip 4 sekresyon sistemini kullanan ve soru kalıbına uyan enteropatojen H. pylori'dir (CagA'yı tip 4 ile aktarır). V. cholerae toksinini tip 4 ile değil, reseptöre bağlanıp endositozla verir.</div>
+<div class="q-why"><p><strong>Cevap (doğrusu): <em>Helicobacter pylori</em>.</strong> Tip 4 sekresyon sistemi CagA proteinini mide epiteline enjekte eder. <em>Salmonella</em>, <em>Shigella</em> ve EPEC tip 3 sekresyon sistemiyle invazyon yapar; kolera toksini bir sekresyon sistemiyle değil, GM1 reseptörüne bağlanıp hücreye girerek etki eder.</p></div>
+</div>
+</section>
+</main></body></html>

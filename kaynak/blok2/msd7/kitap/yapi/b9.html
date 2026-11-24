@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title></title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --color-bg: #f3f2f2;
+    --color-text: #201e1d;
+    --color-accent: #0088b0;
+    --color-accent-700: color-mix(in oklch, #0088b0, black 35%);
+    --color-accent-900: color-mix(in oklch, #0088b0, black 55%);
+    --color-accent-2: #d6006c;
+    --color-accent-2-900: color-mix(in oklch, #d6006c, black 45%);
+    --color-neutral-700: #57534e;
+    --font-heading: "Source Serif 4", Georgia, "Times New Roman", serif;
+    --font-body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  }
+  @page { size: A4; margin: 24mm 20mm 24mm 20mm; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); }
+  a { color: var(--color-accent-700); }
+  .book-page { max-width: 100%; }
+  .book-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 16px 0; }
+  .book-title { font-family: var(--font-heading); font-size: 2.3rem; line-height: 1.15; font-weight: 700; margin: 0 0 12px 0; }
+  .book-byline { font-style: italic; color: var(--color-neutral-700); font-size: 0.92rem; margin: 0 0 40px 0; }
+  .book-section { margin: 0 0 32px 0; }
+  .book-h2 { font-family: var(--font-heading); font-size: 1.3rem; font-weight: 700; margin: 0 0 12px 0; break-after: avoid; }
+  .book-h3 { font-family: var(--font-heading); font-size: 1.08rem; font-weight: 700; margin: 18px 0 8px 0; break-after: avoid; }
+  .book-p { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; text-align: justify; hyphens: auto; }
+  .book-list { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; padding-left: 1.3em; }
+  .book-list li { margin-bottom: 5px; }
+  .tag { display: inline-block; font-size: 10.5px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 9px; border-radius: 2px; }
+  .tag-accent-2 { background: color-mix(in oklch, var(--color-accent-2) 14%, white); color: var(--color-accent-2-900); }
+  .highlight-tag { margin-bottom: 8px; break-inside: avoid; }
+  .highlight-p { font-size: 0.98rem; line-height: 1.65; color: var(--color-accent-2-900); margin: 0 0 12px 0; break-inside: avoid; }
+  .cite { font-style: italic; color: var(--color-neutral-700); }
+  table.table { width: 100%; border-collapse: collapse; font-size: 0.86rem; margin: 4px 0 16px 0; break-inside: avoid; }
+  table.table th { text-align: left; font-family: var(--font-heading); font-weight: 700; border-bottom: 1.5px solid var(--color-text); padding: 6px 10px 6px 0; }
+  table.table td { border-bottom: 1px solid color-mix(in oklch, var(--color-text) 15%, white); padding: 7px 10px 7px 0; vertical-align: top; }
+  .chart-figure { margin: 4px 0 16px 0; break-inside: avoid; }
+  .chart-caption { font-size: 0.82rem; color: var(--color-neutral-700); margin-top: 8px; font-style: italic; text-align: left; }
+  .qa-list { display: flex; flex-direction: column; gap: 14px; margin-top: 14px; }
+  .card { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 16px 20px; break-inside: avoid; }
+  .card-kicker { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 4px; }
+  .card-title { font-family: var(--font-heading); font-weight: 700; font-size: 1rem; margin-bottom: 8px; }
+  .card-body { font-size: 0.93rem; line-height: 1.6; }
+  .card-body p { margin: 0 0 8px 0; }
+  .card-body .opt-correct { color: var(--color-accent-700); font-weight: 700; }
+  .card-source { font-size: 0.8rem; font-style: italic; color: var(--color-neutral-700); margin-top: 8px; }
+  .card-dispute { font-size: 0.85rem; background: color-mix(in oklch, var(--color-accent-2) 8%, white); padding: 8px 12px; border-radius: 2px; margin-top: 8px; }
+  .chapter { break-before: page; }
+  .chapter-first { break-before: auto; }
+  .chapter-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 6px 0; }
+  .chapter-title { font-family: var(--font-heading); font-size: 1.75rem; line-height: 1.2; font-weight: 700; margin: 0 0 8px 0; break-after: avoid; }
+  .chapter-lead { font-style: italic; color: var(--color-neutral-700); font-size: 0.95rem; line-height: 1.6; margin: 0 0 26px 0; }
+  .book-h4 { font-family: var(--font-heading); font-size: 0.98rem; font-weight: 700; font-style: italic; margin: 14px 0 6px 0; break-after: avoid; }
+  ol.book-list { padding-left: 1.5em; }
+  .toc { list-style: none; padding: 0; margin: 0 0 12px 0; font-size: 0.98rem; line-height: 1.7; }
+  .toc li { margin: 0 0 4px 0; }
+  .toc .toc-sub { color: var(--color-neutral-700); font-size: 0.88rem; display: block; margin-left: 1.2em; }
+  .cover-note { font-size: 0.92rem; line-height: 1.6; color: var(--color-neutral-700); margin: 0 0 14px 0; }
+  .keybox { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 14px 18px; margin: 6px 0 16px 0; break-inside: avoid; }
+  .keybox-title { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 6px; font-weight: 700; }
+  .keybox ul { margin: 0; padding-left: 1.2em; font-size: 0.92rem; line-height: 1.6; }
+  .keybox li { margin-bottom: 3px; }
+  .card-title .opts { display: block; font-weight: 400; font-family: var(--font-body); font-size: 0.93rem; margin-top: 6px; line-height: 1.55; }
+  table.table.compact { font-size: 0.8rem; }
+  sub, sup { line-height: 0; }
+  @page { size: A4; margin: 22mm 20mm 20mm 20mm; background: #f3f2f2; }
+  .hl-block { break-inside: avoid; }
+  table.table.split { break-inside: auto; }
+  table.table.split tr { break-inside: avoid; }
+
+  /* --- Modul 5-6: cikmis soru odakli yapi --- */
+  .qblock { margin: 0 0 10px 0; break-after: avoid; }
+  .qblock-title { font-size: 10.5px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-accent-2-900); font-weight: 700; margin: 0 0 4px 0; }
+  .qblock-note { font-size: 0.84rem; line-height: 1.5; color: var(--color-neutral-700); font-style: italic; margin: 0 0 10px 0; }
+  .qcards { display: block; margin: 0 0 26px 0; }
+  .qcard { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 12px 16px 10px 16px; margin: 0 0 10px 0; break-inside: auto; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+  .q-head { display: flex; align-items: center; gap: 10px; margin-bottom: 2px; }
+  .q-no { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); font-weight: 700; }
+  .q-src { font-size: 0.74rem; color: var(--color-neutral-700); margin: 0 0 6px 0; line-height: 1.45; }
+  .q-src b { font-weight: 700; color: var(--color-text); }
+  .q-stem { font-family: var(--font-heading); font-weight: 700; font-size: 0.95rem; line-height: 1.45; margin: 0 0 4px 0; }
+  .q-list { margin: 2px 0 6px 0; padding-left: 1.2em; font-size: 0.88rem; line-height: 1.45; }
+  .q-opts { font-size: 0.88rem; line-height: 1.5; margin: 2px 0 6px 0; }
+  .q-opt { padding-left: 1.6em; text-indent: -1.6em; }
+  .q-opt.ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-ans { font-size: 0.86rem; margin: 2px 0 6px 0; }
+  .q-var { font-size: 0.82rem; font-style: italic; color: var(--color-neutral-700); line-height: 1.5; margin: 0 0 6px 0; }
+  .q-why { font-size: 0.86rem; line-height: 1.55; border-top: 1px solid color-mix(in oklch, var(--color-text) 10%, white); padding-top: 6px; }
+  .q-why p { margin: 0 0 5px 0; break-inside: avoid; }
+  .q-head, .q-src, .q-stem, .q-list { break-after: avoid; break-inside: avoid; }
+  .q-opts, .q-ans, .q-var { break-inside: avoid; }
+  .q-why .ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-why p:first-child > b:first-child { color: var(--color-accent-700); }
+  .q-var p { margin: 0 0 3px 0; }
+  .tag-soft { background: color-mix(in oklch, var(--color-accent) 12%, white); color: var(--color-accent-700); }
+  table.dizin td:first-child, table.surekli td:last-child { white-space: nowrap; }
+  table.dizin td:last-child { font-size: 0.72rem; color: var(--color-neutral-700); }
+  tr.dizin-bolum td { font-family: var(--font-heading); font-weight: 700; padding-top: 10px; border-bottom: 1.5px solid var(--color-text); }
+  td.sur { color: var(--color-accent-2-900); font-weight: 700; }
+  table.dizin td.sur { color: var(--color-accent-2-900); }
+  .sunumsuz { font-size: 0.86rem; background: color-mix(in oklch, var(--color-accent) 7%, white); padding: 8px 12px; border-radius: 2px; margin: 0 0 14px 0; }
+  .ref { font-size: 0.8em; color: var(--color-accent-700); font-weight: 700; white-space: nowrap; }
+
+  @page { size: A4; margin: 16mm 15mm 16mm 15mm; background: #f3f2f2; }
+  .book-p { font-size: 0.93rem; line-height: 1.55; margin: 0 0 9px 0; }
+  .book-list { font-size: 0.93rem; line-height: 1.5; }
+  .qcard { padding: 9px 13px 8px 13px; margin: 0 0 8px 0; }
+  .q-stem { font-size: 0.9rem; } .q-opts { font-size: 0.84rem; line-height: 1.4; }
+  .q-why p { font-size: 0.86rem; line-height: 1.48; }
+  .q-var { font-size: 0.78rem; }
+  .q-src { margin: 0 0 3px 0; }
+</style>
+</head>
+<body>
+<main class="book-page">
+<section class="chapter"><p class="chapter-kicker">Bölüm 9 · Şeritler ve yapraklılar</p><h2 class="chapter-title">Sestodlar ve Trematodlar</h2><p class="chapter-lead">Sestodların (şerit/tenya) yapısı ve bağırsak sestodları (T. saginata, T. solium, H. nana, D. latum), trematodların (yaprak solucanları) özellikleri ve bağırsak-karaciğer trematodları (Fasciolopsis, Fasciola, Clonorchis), ayırt edici klinik ve tanı özellikleri. Sestod-trematod sunumuna (S4) dayanır; 22 soru çıkmıştır.</p>
+<h3 class="book-h3">Sestodların genel yapısı</h3>
+<p class="book-p">Sestodlar (şerit/tenya) yassı, halkalı helmintlerdir:</p>
+<ul class="book-list">
+<li><strong>Skoleks (baş):</strong> tutunma organı (vantuz, çengel). <strong>Bağırsak duvarına skoleksiyle tutunur, halkalarıyla değil.</strong></li>
+<li><strong>Boyun:</strong> yeni halkaların yapıldığı büyüme bölgesi.</li>
+<li><strong>Proglottid (halka):</strong> genç → olgun → <strong>gebe</strong> (en distaldeki, yumurta dolu). Hepsi hermafrodittir.</li>
+<li>İnsana bulaş genellikle <strong>iyi pişmemiş etteki larva</strong> ile olur (<em>H. nana</em> ve <em>D. latum</em> dışında).</li>
+</ul>
+<table class="table compact split"><thead><tr><th>Sestod</th><th>Ara konak / bulaş</th><th>Larva (kistik form)</th><th>Ayırt edici</th></tr></thead><tbody>
+<tr><td><strong><em>Taenia saginata</strong></em></td><td><strong>sığır</strong>; çiğ sığır eti</td><td><em>Cysticercus bovis</em></td><td><strong>silahsız</strong> (çengelsiz), 4 vantuz; hareketli düşen halka</td></tr>
+<tr><td><strong><em>Taenia solium</strong></em></td><td><strong>domuz</strong>; çiğ domuz eti</td><td><em>Cysticercus cellulosae</em></td><td><strong>silahlı</strong> (rostellum + çengel); insan <strong>hem ara hem kesin konak</strong> → sistiserkoz (beyin, göz)</td></tr>
+<tr><td><strong><em>Hymenolepis nana</strong></em></td><td><strong>pire</strong> (ya da ara konaksız doğrudan)</td><td>sistiserkoid</td><td><strong>en küçük/cüce sestod</strong>; insandan insana ara konaksız geçen tek sestod; çocuk</td></tr>
+<tr><td><strong><em>Diphyllobothrium latum</strong></em></td><td><strong>Cyclops → tatlı su balığı</strong>; çiğ balık</td><td>pleroserkoid</td><td><strong>balık tenyası</strong>; iki yarık (botriya); <strong>B12 eksikliği, megaloblastik anemi</strong>; <strong>kapaklı (operkulumlu) yumurta</strong></td></tr>
+</tbody></table>
+<p class="chart-caption">Bağırsak sestodları. <em>T. solium</em> silahlı (domuz, sistiserkoz), <em>T. saginata</em> silahsız (sığır).</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong><em>Taenia solium</em> = Silahlı, domuz, Sistiserkoz; <em>T. saginata</em> = silahsız, Sığır.</strong> Karıştırmamak için: so<strong>L</strong>ium → çenge<strong>L</strong>li (silahlı).</p></div>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong><em>Diphyllobothrium latum</em> = çiğ balık (Uzakdoğu) + B12 eksikliği/megaloblastik anemi + kapaklı yumurta.</strong></p></div>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong><em>Hymenolepis nana</em> = cüce sestod + pire ara konak + çocukta, ara konaksız da bulaşır.</strong></p></div>
+<h3 class="book-h3">Taenia solium ve sistiserkoz</h3>
+<p class="book-p"><em>T. solium</em>'da <strong>insan hem kesin konak</strong> (bağırsakta erişkin tenya; çiğ domuz etiyle) <strong>hem de ara konak</strong> olabilir: yumurtanın yutulmasıyla larvalar dokulara yerleşir (<strong>sistiserkoz</strong>); kas, göz ve özellikle <strong>beyin (nörosistiserkoz, epilepsi)</strong> tutulur. Bu nedenle <em>T. solium</em> yumurtası doğrudan insana tehlikelidir (fekal-oral). Tanı gebe halka ya da skoleksin görülmesidir.</p>
+<h3 class="book-h3">Trematodların genel özellikleri</h3>
+<p class="book-p">Trematodlar (yaprak solucanları) yaprak biçimli, <strong>anüssüz</strong>, çekmenli (vantuz) helmintlerdir.</p>
+<ul class="book-list">
+<li><strong>Schistosoma dışında hepsi hermafrodittir.</strong></li>
+<li><strong>Yumurtaları kapaklıdır (operkulumlu)</strong> — Schistosoma yumurtasının kapağı yoktur, çengeli vardır.</li>
+<li>İlk ara konak her zaman bir <strong>salyangozdur</strong> (aseksüel çoğalma); sonra metaserkarya enfektif formu su bitkisi, balık, yengeç ya da karınca üzerinde beklenir.</li>
+</ul>
+<table class="table compact split"><thead><tr><th>Trematod</th><th>Yerleşim</th><th>Bulaş (metaserkarya)</th><th>Ayırt edici</th></tr></thead><tbody>
+<tr><td><strong><em>Fasciolopsis buski</strong></em></td><td><strong>bağırsak</strong></td><td>su bitkileri (Uzakdoğu)</td><td><strong>dev bağırsak kelebeği; en büyük helmint yumurtası</strong>; karın ağrısı, ishal, ödem, eozinofili</td></tr>
+<tr><td><strong><em>Fasciola hepatica</strong></em></td><td><strong>safra yolları/karaciğer</strong></td><td>su teresi, su bitkileri</td><td>koyun karaciğer kelebeği; hepatomegali, tıkanma sarılığı, eozinofili</td></tr>
+<tr><td><strong><em>Clonorchis / Opisthorchis</strong></em></td><td><strong>safra yolları</strong></td><td>tatlı su balığı (Uzakdoğu)</td><td>küçük karaciğer kelebekleri; safra yolu kanseri riski</td></tr>
+<tr><td><strong><em>Dicrocoelium</strong></em></td><td>safra yolları</td><td>karınca</td><td>insanda çok nadir; enfekte karaciğer yenince “yalancı enfeksiyon”</td></tr>
+</tbody></table>
+<p class="chart-caption">Trematodlar. Yerleşimi bağırsak olan tek klasik örnek <em>Fasciolopsis buski</em>'dir.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Bağırsak yerleşimli trematod + ishal/ödem/eozinofili + dışkıda yumurta = <em>Fasciolopsis buski</strong></em> (bu soru 5 kez geldi).</p></div>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>En büyük helmint yumurtası = <em>Fasciolopsis buski</em>.</strong> <em>Fasciola</em> karaciğer (safra yolu), <em>Clonorchis</em>/<em>Opisthorchis</em> balıkla gelen safra yolu trematodlarıdır.</p></div>
+<h3 class="book-h3">Kapaklı yumurta ayrımı</h3>
+<p class="book-p"><strong>Kapaklı (operkulumlu) yumurtası olanlar:</strong> trematodların çoğu (Schistosoma hariç) ve sestodlardan <strong>Diphyllobothrium latum</strong>. Nematod yumurtaları ve <em>Taenia</em>/<em>Hymenolepis</em> yumurtaları kapaksızdır. Uzakdoğu + çiğ balık + kapaklı yumurta sorusunun cevabı <strong>sestod olarak <em>D. latum</strong></em>, trematod bağlamında <em>Clonorchis</em> olabilir; soru “sestod” diyorsa <em>D. latum</em>'dur.</p>
+<h3 class="book-h3">Bölüm özeti</h3>
+<ul class="book-list">
+<li>Sestod bağırsağa <strong>skoleksiyle</strong> tutunur; gebe (distal) halkalar yumurta taşır; bulaş iyi pişmemiş etteki larvayla.</li>
+<li><em>T. solium</em>: silahlı, domuz, insan hem ara hem kesin konak, sistiserkoz. <em>T. saginata</em>: silahsız, sığır.</li>
+<li><em>D. latum</em>: çiğ balık, B12 eksikliği/megaloblastik anemi, kapaklı yumurta. <em>H. nana</em>: cüce, pire, ara konaksız bulaşabilir.</li>
+<li>Trematodlar anüssüz, kapaklı yumurtalı (Schistosoma hariç), ilk ara konak salyangoz.</li>
+<li><em>Fasciolopsis buski</em>: bağırsak yerleşimli, ishal-ödem-eozinofili, en büyük helmint yumurtası. <em>Fasciola</em>: karaciğer/safra.</li>
+</ul>
+<h3 class="book-h3">Çıkmış sorular: Sestodlar ve Trematodlar</h3>
+<p class="book-p">Bu bölümden 7 sınavda <strong>22 soru</strong> çıktı; bunlar <strong>9 farklı soruya</strong> karşılık geliyor ve <strong>6 tanesi</strong> birden fazla yıl soruldu. Her kartta sorunun en yeni hâli, sağ üstte kaç kez sorulduğu, kartın altında da çıktığı tüm sınavlar yazar. Rozeti koyu olanlar 3 ve daha fazla kez sorulmuş sorulardır.</p>
+<div class="qblock"><p class="qblock-title">Çıkmış sorular</p></div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S21</span><span class="tag tag-accent-2">5 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S21 · 2024-25 S22 · 2023-24 S23 · 2022-23 S21 · 2021-22 S25</div>
+<div class="q-stem">Karın ağrısı, ishal ve ödem klinik bulguları olan, intestinal yerleşimli olup eozinofilinin eşlik ettiği; dışkıda yumurtaların görülmesiyle tanı konulabilen trematod aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Fasciola hepatica</em></div><div class="q-opt"><b>B)</b> <em>Clonorchis sinensis</em></div><div class="q-opt ok"><b>C)</b> <em>Fasciolopsis buski</em> ✓</div><div class="q-opt"><b>D)</b> <em>Trichuris trichura</em></div><div class="q-opt"><b>E)</b> <em>Opisthorcis felineus</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <strong>Fasciolopsis buski</strong> bağırsağa yerleşen dev bir trematoddur; karın ağrısı, ishal, <strong>ödem</strong> ve eozinofili yapar, tanı dışkıda (en büyük helmint) yumurtasının görülmesiyle konur.</p><p><em>Fasciola</em> (A), <em>Clonorchis</em> (B) ve <em>Opisthorchis</em> (E) karaciğer/safra yolu trematodudur; <em>Trichuris</em> (D) bir nematoddur, trematod değildir. (Bu soru 5 kez çıktı; cevap hep <em>Fasciolopsis buski</em>'dir.)</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S25</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S25 · 2023-24 S24</div>
+<div class="q-stem">Yumurtaları pireler tarafından alınan ve pirenin vücudunda <em>cysticercoid</em> oluşarak daha sonra rastlantı sonucu bu pireyi yutan insanın barsağında erişkin helmint oluşması ile hastalık oluşturan etken hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Taenia saginata</em></div><div class="q-opt ok"><b>B)</b> <em>Hymenolepis nana</em> ✓</div><div class="q-opt"><b>C)</b> <em>Fasciola hepatica</em></div><div class="q-opt"><b>D)</b> <em>Taenia solium</em></div><div class="q-opt"><b>E)</b> <em>Diphyllobothrium latum</em></div></div>
+<div class="q-why"><p><strong>B doğru.</strong> <strong>Hymenolepis nana</strong> yumurtası pire gibi bir ara konakta <strong>sistiserkoid</strong> larvaya dönüşür; bu pirenin yutulmasıyla insan bağırsağında erişkin olur (ara konaksız, doğrudan yumurtayla da bulaşabilir).</p><p><em>T. saginata</em> (A, sığır), <em>T. solium</em> (D, domuz) ve <em>D. latum</em> (E, balık) etle; <em>Fasciola</em> (C) su bitkisiyle bulaşır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S27</span><span class="tag tag-accent-2">4 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S27 · 2023-24 S27 · 2021-22 S21 · 2020-21 S32</div>
+<div class="q-stem">Megaloblastik anemiye sebep olabilen helmint aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Taenia solium</em></div><div class="q-opt"><b>B)</b> <em>Enterobius vermicularis</em></div><div class="q-opt"><b>C)</b> <em>Ascaris lumbricoides</em></div><div class="q-opt ok"><b>D)</b> <em>Diphyllobothrium latum</em> ✓</div><div class="q-opt"><b>E)</b> <em>Trichuris trichura</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <strong>Diphyllobothrium latum</strong> (balık tenyası) B12 vitaminini bağırsakta tüketir ve <strong>megaloblastik (pernisiyöz benzeri) anemi</strong> yapar.</p><p><em>T. solium</em> (A), <em>Enterobius</em> (B) ve <em>Trichuris</em> (E) anemi tipiyle anılmaz; <em>Ascaris</em> (C) tıkanıklık yapar. (Çengelli kurtlar demir eksikliği anemisi yapar; megaloblastik olan <em>D. latum</em>'dur.)</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S32</span><span class="tag tag-accent-2">4 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S32 · 2024-25 S21 · 2023-24 S26 · 2021-22 S26</div>
+<div class="q-stem">Anamnezinde Uzakdoğu yemekleri yapan lokantalarda yemek yediği öğrenilen, karın ağrısı ve ishal yakınmaları ile başvuran bir hastanın dışkısından yapılan parazitolojik incelemede; kapaklı helmint yumurtaları görülüyor. Bu hastada öncelikle düşünülmesi gereken sestod aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Fasciola hepatica</em></div><div class="q-opt"><b>B)</b> <em>Hymenolepis nana</em></div><div class="q-opt"><b>C)</b> <em>Trichuris trichiura</em></div><div class="q-opt"><b>D)</b> <em>Ascaris lumbricoides</em></div><div class="q-opt ok"><b>E)</b> <em>Diphyllobothrium latum</em> ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> Uzakdoğu yemekleri (çiğ balık) öyküsü ve dışkıda <strong>kapaklı (operkulumlu) yumurta</strong> balık tenyası <strong>Diphyllobothrium latum</strong>'u gösterir.</p><p><em>Fasciola</em> (A) bir trematoddur; <em>H. nana</em> (B) kapaksız yumurtalı cüce sestoddur; <em>Trichuris</em> (C) ve <em>Ascaris</em> (D) nematoddur. (5 kez çıktı; cevap <em>D. latum</em>'dur.)</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S27</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S27</div>
+<div class="q-stem">Larva şekli <em>Cysticercus bovis</em> olan parazit aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Taenia solium</em></div><div class="q-opt"><b>B)</b> <em>Fasciola hepatica</em></div><div class="q-opt"><b>C)</b> <em>Diphyllobothrium latum</em></div><div class="q-opt ok"><b>D)</b> <em>Taenia saginata</em> ✓</div><div class="q-opt"><b>E)</b> <em>Hymenolepis nana</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <strong>Taenia saginata</strong>'nın larva (kistik) formu sığırda gelişen <strong>Cysticercus bovis</strong>'tir; çiğ sığır etiyle bulaşır.</p><p><em>T. solium</em> (A) larvası <em>Cysticercus cellulosae</em> (domuz); <em>Fasciola</em> (B), <em>D. latum</em> (C) ve <em>H. nana</em> (E) bu kistik forma sahip değildir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S25</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S25 · 2020-21 S6</div>
+<div class="q-stem">Sestodlar için doğru olmayan aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Baş kısmına skoleks denir</div><div class="q-opt"><b>B)</b> Gövdesini oluşturan segmentlerin adı proglottiddir</div><div class="q-opt"><b>C)</b> Distal proglottidler yumurta içerir</div><div class="q-opt ok"><b>D)</b> Barsak duvarına proglottidleri aracılığı ile tutunur ✓</div><div class="q-opt"><b>E)</b> İnsanlara bulaşması iyi pişmemiş etlerdeki larvalarıdır</div></div>
+<div class="q-why"><p><strong>D doğru (yanlış ifade).</strong> Sestodlar bağırsak duvarına <strong>skoleksindeki (baş) vantuz ve çengellerle</strong> tutunur, proglottidleriyle (halkalarıyla) değil.</p><p>Baş kısmına skoleks denmesi (A), halkalara proglottid denmesi (B), distal proglottidlerin yumurta taşıması (C) ve bulaşın iyi pişmemiş etteki larvayla olması (E) doğrudur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S24</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S24 · 2020-21 S17</div>
+<div class="q-stem">Kapaklı yumurtası olan aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Ancylostoma duodenale</em></div><div class="q-opt"><b>B)</b> <em>Schistosoma haematobium</em></div><div class="q-opt"><b>C)</b> <em>Hymenolepis nana</em></div><div class="q-opt ok"><b>D)</b> <em>Diphyllobothrium latum</em> ✓</div><div class="q-opt"><b>E)</b> <em>Trichuris trichura</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <strong>Diphyllobothrium latum</strong> sestodların kapaklı (operkulumlu) yumurtaya sahip tek üyesidir (trematodların çoğu gibi).</p><p><em>Ancylostoma</em> (A), <em>Hymenolepis nana</em> (C) ve <em>Trichuris</em> (E) yumurtaları kapaksızdır; <em>Schistosoma haematobium</em> (B) yumurtası kapaksız, uç çengellidir. (2020-21 S17'de de cevap <em>D. latum</em>'dur.)</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S21</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S21</div>
+<div class="q-stem">Aşağıdakilerden hangisi yerleşim yeri bağırsak olan trematodlardan biridir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Fasciola hepatica</em></div><div class="q-opt"><b>B)</b> <em>Fasciola gigantica</em></div><div class="q-opt ok"><b>C)</b> <em>Fasciolopsis buski</em> ✓</div><div class="q-opt"><b>D)</b> <em>Opisthorchis sinensis</em></div><div class="q-opt"><b>E)</b> <em>Dicrocoelium dendriticum</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <strong>Fasciolopsis buski</strong> bağırsak yerleşimli (dev bağırsak kelebeği) trematoddur.</p><p><em>Fasciola hepatica</em> (A), <em>F. gigantica</em> (B), <em>Opisthorchis/Clonorchis sinensis</em> (D) ve <em>Dicrocoelium</em> (E) karaciğer/safra yolu trematodlarıdır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S23</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S23</div>
+<div class="q-stem">Cüce sestod aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Echinococcus granulosus</em></div><div class="q-opt"><b>B)</b> <em>Echinococcus alveolaris</em></div><div class="q-opt"><b>C)</b> <em>Trichuris trichura</em></div><div class="q-opt"><b>D)</b> <em>Enterobius vermicularis</em></div><div class="q-opt ok"><b>E)</b> <em>Hymenolepis nana</em> ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> <strong>Hymenolepis nana</strong> en küçük (cüce) sestoddur; çocuklarda sık görülür, ara konaksız da bulaşabilir.</p><p><em>Echinococcus granulosus</em> (A) ve <em>E. alveolaris</em> (B) doku sestodlarıdır; <em>Trichuris</em> (C) ve <em>Enterobius</em> (D) nematoddur.</p></div>
+</div>
+</section>
+</main></body></html>

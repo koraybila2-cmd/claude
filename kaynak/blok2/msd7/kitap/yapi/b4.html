@@ -1,0 +1,253 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title></title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --color-bg: #f3f2f2;
+    --color-text: #201e1d;
+    --color-accent: #0088b0;
+    --color-accent-700: color-mix(in oklch, #0088b0, black 35%);
+    --color-accent-900: color-mix(in oklch, #0088b0, black 55%);
+    --color-accent-2: #d6006c;
+    --color-accent-2-900: color-mix(in oklch, #d6006c, black 45%);
+    --color-neutral-700: #57534e;
+    --font-heading: "Source Serif 4", Georgia, "Times New Roman", serif;
+    --font-body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  }
+  @page { size: A4; margin: 24mm 20mm 24mm 20mm; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); }
+  a { color: var(--color-accent-700); }
+  .book-page { max-width: 100%; }
+  .book-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 16px 0; }
+  .book-title { font-family: var(--font-heading); font-size: 2.3rem; line-height: 1.15; font-weight: 700; margin: 0 0 12px 0; }
+  .book-byline { font-style: italic; color: var(--color-neutral-700); font-size: 0.92rem; margin: 0 0 40px 0; }
+  .book-section { margin: 0 0 32px 0; }
+  .book-h2 { font-family: var(--font-heading); font-size: 1.3rem; font-weight: 700; margin: 0 0 12px 0; break-after: avoid; }
+  .book-h3 { font-family: var(--font-heading); font-size: 1.08rem; font-weight: 700; margin: 18px 0 8px 0; break-after: avoid; }
+  .book-p { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; text-align: justify; hyphens: auto; }
+  .book-list { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; padding-left: 1.3em; }
+  .book-list li { margin-bottom: 5px; }
+  .tag { display: inline-block; font-size: 10.5px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 9px; border-radius: 2px; }
+  .tag-accent-2 { background: color-mix(in oklch, var(--color-accent-2) 14%, white); color: var(--color-accent-2-900); }
+  .highlight-tag { margin-bottom: 8px; break-inside: avoid; }
+  .highlight-p { font-size: 0.98rem; line-height: 1.65; color: var(--color-accent-2-900); margin: 0 0 12px 0; break-inside: avoid; }
+  .cite { font-style: italic; color: var(--color-neutral-700); }
+  table.table { width: 100%; border-collapse: collapse; font-size: 0.86rem; margin: 4px 0 16px 0; break-inside: avoid; }
+  table.table th { text-align: left; font-family: var(--font-heading); font-weight: 700; border-bottom: 1.5px solid var(--color-text); padding: 6px 10px 6px 0; }
+  table.table td { border-bottom: 1px solid color-mix(in oklch, var(--color-text) 15%, white); padding: 7px 10px 7px 0; vertical-align: top; }
+  .chart-figure { margin: 4px 0 16px 0; break-inside: avoid; }
+  .chart-caption { font-size: 0.82rem; color: var(--color-neutral-700); margin-top: 8px; font-style: italic; text-align: left; }
+  .qa-list { display: flex; flex-direction: column; gap: 14px; margin-top: 14px; }
+  .card { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 16px 20px; break-inside: avoid; }
+  .card-kicker { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 4px; }
+  .card-title { font-family: var(--font-heading); font-weight: 700; font-size: 1rem; margin-bottom: 8px; }
+  .card-body { font-size: 0.93rem; line-height: 1.6; }
+  .card-body p { margin: 0 0 8px 0; }
+  .card-body .opt-correct { color: var(--color-accent-700); font-weight: 700; }
+  .card-source { font-size: 0.8rem; font-style: italic; color: var(--color-neutral-700); margin-top: 8px; }
+  .card-dispute { font-size: 0.85rem; background: color-mix(in oklch, var(--color-accent-2) 8%, white); padding: 8px 12px; border-radius: 2px; margin-top: 8px; }
+  .chapter { break-before: page; }
+  .chapter-first { break-before: auto; }
+  .chapter-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 6px 0; }
+  .chapter-title { font-family: var(--font-heading); font-size: 1.75rem; line-height: 1.2; font-weight: 700; margin: 0 0 8px 0; break-after: avoid; }
+  .chapter-lead { font-style: italic; color: var(--color-neutral-700); font-size: 0.95rem; line-height: 1.6; margin: 0 0 26px 0; }
+  .book-h4 { font-family: var(--font-heading); font-size: 0.98rem; font-weight: 700; font-style: italic; margin: 14px 0 6px 0; break-after: avoid; }
+  ol.book-list { padding-left: 1.5em; }
+  .toc { list-style: none; padding: 0; margin: 0 0 12px 0; font-size: 0.98rem; line-height: 1.7; }
+  .toc li { margin: 0 0 4px 0; }
+  .toc .toc-sub { color: var(--color-neutral-700); font-size: 0.88rem; display: block; margin-left: 1.2em; }
+  .cover-note { font-size: 0.92rem; line-height: 1.6; color: var(--color-neutral-700); margin: 0 0 14px 0; }
+  .keybox { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 14px 18px; margin: 6px 0 16px 0; break-inside: avoid; }
+  .keybox-title { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 6px; font-weight: 700; }
+  .keybox ul { margin: 0; padding-left: 1.2em; font-size: 0.92rem; line-height: 1.6; }
+  .keybox li { margin-bottom: 3px; }
+  .card-title .opts { display: block; font-weight: 400; font-family: var(--font-body); font-size: 0.93rem; margin-top: 6px; line-height: 1.55; }
+  table.table.compact { font-size: 0.8rem; }
+  sub, sup { line-height: 0; }
+  @page { size: A4; margin: 22mm 20mm 20mm 20mm; background: #f3f2f2; }
+  .hl-block { break-inside: avoid; }
+  table.table.split { break-inside: auto; }
+  table.table.split tr { break-inside: avoid; }
+
+  /* --- Modul 5-6: cikmis soru odakli yapi --- */
+  .qblock { margin: 0 0 10px 0; break-after: avoid; }
+  .qblock-title { font-size: 10.5px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-accent-2-900); font-weight: 700; margin: 0 0 4px 0; }
+  .qblock-note { font-size: 0.84rem; line-height: 1.5; color: var(--color-neutral-700); font-style: italic; margin: 0 0 10px 0; }
+  .qcards { display: block; margin: 0 0 26px 0; }
+  .qcard { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 12px 16px 10px 16px; margin: 0 0 10px 0; break-inside: auto; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+  .q-head { display: flex; align-items: center; gap: 10px; margin-bottom: 2px; }
+  .q-no { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); font-weight: 700; }
+  .q-src { font-size: 0.74rem; color: var(--color-neutral-700); margin: 0 0 6px 0; line-height: 1.45; }
+  .q-src b { font-weight: 700; color: var(--color-text); }
+  .q-stem { font-family: var(--font-heading); font-weight: 700; font-size: 0.95rem; line-height: 1.45; margin: 0 0 4px 0; }
+  .q-list { margin: 2px 0 6px 0; padding-left: 1.2em; font-size: 0.88rem; line-height: 1.45; }
+  .q-opts { font-size: 0.88rem; line-height: 1.5; margin: 2px 0 6px 0; }
+  .q-opt { padding-left: 1.6em; text-indent: -1.6em; }
+  .q-opt.ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-ans { font-size: 0.86rem; margin: 2px 0 6px 0; }
+  .q-var { font-size: 0.82rem; font-style: italic; color: var(--color-neutral-700); line-height: 1.5; margin: 0 0 6px 0; }
+  .q-why { font-size: 0.86rem; line-height: 1.55; border-top: 1px solid color-mix(in oklch, var(--color-text) 10%, white); padding-top: 6px; }
+  .q-why p { margin: 0 0 5px 0; break-inside: avoid; }
+  .q-head, .q-src, .q-stem, .q-list { break-after: avoid; break-inside: avoid; }
+  .q-opts, .q-ans, .q-var { break-inside: avoid; }
+  .q-why .ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-why p:first-child > b:first-child { color: var(--color-accent-700); }
+  .q-var p { margin: 0 0 3px 0; }
+  .tag-soft { background: color-mix(in oklch, var(--color-accent) 12%, white); color: var(--color-accent-700); }
+  table.dizin td:first-child, table.surekli td:last-child { white-space: nowrap; }
+  table.dizin td:last-child { font-size: 0.72rem; color: var(--color-neutral-700); }
+  tr.dizin-bolum td { font-family: var(--font-heading); font-weight: 700; padding-top: 10px; border-bottom: 1.5px solid var(--color-text); }
+  td.sur { color: var(--color-accent-2-900); font-weight: 700; }
+  table.dizin td.sur { color: var(--color-accent-2-900); }
+  .sunumsuz { font-size: 0.86rem; background: color-mix(in oklch, var(--color-accent) 7%, white); padding: 8px 12px; border-radius: 2px; margin: 0 0 14px 0; }
+  .ref { font-size: 0.8em; color: var(--color-accent-700); font-weight: 700; white-space: nowrap; }
+
+  @page { size: A4; margin: 16mm 15mm 16mm 15mm; background: #f3f2f2; }
+  .book-p { font-size: 0.93rem; line-height: 1.55; margin: 0 0 9px 0; }
+  .book-list { font-size: 0.93rem; line-height: 1.5; }
+  .qcard { padding: 9px 13px 8px 13px; margin: 0 0 8px 0; }
+  .q-stem { font-size: 0.9rem; } .q-opts { font-size: 0.84rem; line-height: 1.4; }
+  .q-why p { font-size: 0.86rem; line-height: 1.48; }
+  .q-var { font-size: 0.78rem; }
+  .q-src { margin: 0 0 3px 0; }
+</style>
+</head>
+<body>
+<main class="book-page">
+<section class="chapter"><p class="chapter-kicker">Bölüm 4 · Mikrobiyota</p><h2 class="chapter-title">Bağırsak Mikrobiyotası ve Probiyotikler</h2><p class="chapter-lead">Bağırsak mikrobiyotasının baskın bakteri toplulukları ve yaşa göre değişimi, kısa zincirli yağ asitlerinin işlevi, mikrobiyotanın bağışıklık ve bariyer gelişimine katkısı, patojenlere karşı koruma ve H. pylori ile MALT lenfoma ilişkisi. 14 soruluk bu bölüm büyük ölçüde S1 (mikrobiyolojik ishal) sunumunun flora bölümüne dayanır; bazı ayrıntılar sunumda kısa geçer.</p>
+<h3 class="book-h3">Baskın topluluklar ve yaşa göre değişim</h3>
+<p class="book-p">Erişkin bağırsağında trilyonlarca bakteri yaşar; ağırlıkça çoğunu dört büyük şube (filum) oluşturur. Soru genellikle “hangi grup hangi dönemde ya da hangi işlevde baskın” diye sorulur.</p>
+<table class="table compact split"><thead><tr><th>Şube / grup</th><th>Öne çıkan özellik</th></tr></thead><tbody>
+<tr><td><strong>Firmicutes</strong> (<em>Clostridium</em>, <em>Lactobacillus</em>, <em>Ruminococcus</em>, <em>Faecalibacterium</em>)</td><td><strong>Erişkinde baskın</strong>; <strong>bütirat gibi kısa zincirli yağ asitlerinin başlıca kaynağı</strong></td></tr>
+<tr><td><strong>Bacteroidetes</strong> (<em>Bacteroides</em>)</td><td>erişkinde ikinci büyük grup; karbonhidrat ve ksenobiyotik metabolizması</td></tr>
+<tr><td><strong>Actinobacteria</strong> (<em>Bifidobacterium</em>)</td><td><strong>sadece anne sütüyle beslenen bebekte baskın</strong></td></tr>
+<tr><td><strong>Proteobacteria</strong> (<em>E. coli</em>, Enterobacteriaceae)</td><td>normalde az; dengesizlikte (disbiyoz) artar</td></tr>
+</tbody></table>
+<p class="book-p">Yaşa göre: doğumda bağırsak neredeyse sterildir; doğum biçimi (vajinal ya da sezaryen) ilk kolonları belirler. <strong>Yalnız anne sütüyle beslenen bebekte Bifidobacterium (Actinobacteria) baskındır:</strong> anne sütündeki oligosakkaritler bu bakteriyi besler, o da ortamı asitleştirip patojenleri baskılar. Ek gıdaya geçiş ve çeşitli besinle birlikte flora erişkin tipine döner ve <strong>Firmicutes ile Bacteroidetes</strong> öne geçer.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Anne sütü → Bifido (Actinobacteria); Erişkin → Firmicutes + Bacteroidetes; Bütirat → Firmicutes.</strong></p></div>
+<h3 class="book-h3">Kısa zincirli yağ asitleri (SCFA)</h3>
+<p class="book-p">Kolon bakterileri, ince bağırsakta sindirilemeyen lifi ve dirençli nişastayı fermente ederek <strong>kısa zincirli yağ asitleri</strong> (asetat, propiyonat, <strong>bütirat</strong>) üretir. Bu moleküller mikrobiyotanın bağırsağa en önemli armağanıdır:</p>
+<ol class="book-list">
+<li><strong>Bütirat kolonositlerin başlıca enerji kaynağıdır;</strong> epiteli besler, mukus yapımını ve sıkı bağlantıları destekler, bariyeri güçlendirir.</li>
+<li>Lümeni asitleştirir; bu ortam <em>C. difficile</em>, <em>Salmonella</em> ve <em>E. coli</em> O157 gibi patojenlerin <strong>kolonizasyonunu engeller</strong>. Diyetle bol SCFA verilmesi <em>C. difficile</em> yerleşmesini önler.</li>
+<li>Bağışıklığı dengeler: düzenleyici T hücrelerini uyarır, iltihabı dizginler; aynı zamanda bağışıklığın tembelleşmesini önleyip <strong>kendi bakterilerine karşı toleransı</strong> sürdürür.</li>
+</ol>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Bütirat = kolonositin yakıtı + bariyer + patojene kapalı kapı.</strong> “SCFA verilince kolonizasyonu önlenen patojen” sorusunun cevabı <em>C. difficile</em>.</p></div>
+<h3 class="book-h3">Mikrobiyotanın bağışıklık ve bariyer gelişimine katkısı</h3>
+<p class="book-p">Mikrobiyota, bağırsağın bağışıklık sistemini doğumdan sonra eğitir ve mukozal bariyeri olgunlaştırır. Sınavda belirli bakterilerin belirli işlevlerle eşleştirilmesi istenir:</p>
+<table class="table compact split"><thead><tr><th>Bakteri / metabolit</th><th>İşlev</th></tr></thead><tbody>
+<tr><td><em>Lactobacillus</em> sp.</td><td><strong>dendritik hücre toleransının</strong> oluşması (patojen olmayana karşı yanıtın dizginlenmesi)</td></tr>
+<tr><td><em>E. coli</em> metabolitleri</td><td>epitelde <strong>NF-κB'yi inaktive ederek</strong> iltihabı baskılama, toleransın sürmesi</td></tr>
+<tr><td><em>Bacteroides thetaiotaomicron</em></td><td><strong>peristaltizmi ve glikozilasyonu artırıp mukozal bariyerin olgunlaşması</strong></td></tr>
+<tr><td><em>Bifidobacterium</em> sp.</td><td>linoleik asidin konjugasyonu, ksenobiyotik metabolizmasının düzenlenmesi</td></tr>
+<tr><td>Kısa zincirli yağ asitleri</td><td>bağışıklığın aktif kalması ve kendi bakterilerine toleransın sürmesindeki <strong>en önemli kimyasal</strong></td></tr>
+</tbody></table>
+<p class="chart-caption">Mikrobiyota–konak etkileşiminde sorulan eşleştirmeler (S1 sunumu ve ileri okuma).</p>
+<p class="book-p">Bu ayrıntıların bir kısmı sunumda yalnızca adı geçecek kadar yer alır; sınav bunları ezber eşleştirme olarak sorduğu için tablo hâlinde verilmiştir.</p>
+<h3 class="book-h3">Patojenlere karşı koruma ve disbiyoz</h3>
+<p class="book-p">Sağlam mikrobiyota, patojenle <strong>besin ve tutunma yeri için yarışır</strong>, bakteriyosin ve SCFA üretip ortamı patojene kapatır ve bağışıklığı uyanık tutar (kolonizasyon direnci). Geniş spektrumlu antibiyotik bu dengeyi bozar (disbiyoz); boşalan ortamda <em>C. difficile</em> ya da dirençli bakteriler çoğalır. Mikrobiyotayı yeniden kurmak için probiyotikler ve ağır <em>C. difficile</em> kolitinde dışkı mikrobiyota nakli kullanılır.</p>
+<h3 class="book-h3">Helicobacter pylori ve MALT lenfoma</h3>
+<p class="book-p"><em>Helicobacter pylori</em>, mide mukozasını kalıcı olarak kolonize eden, üreaz pozitif, kıvrık Gram negatif bir bakteridir. Yıllarca süren iltihap mide mukozasında lenfoid doku birikmesine (mukoza ile ilişkili lenfoid doku, MALT) yol açar; bu zeminde <strong>MALT lenfoma</strong> gelişebilir. Erken evre mide MALT lenfomasında <em>H. pylori</em>'nin yok edilmesi tümörü gerileterek tedavi sağlayabilir; bu, bir bakterinin bir kanseri doğrudan sürüklediğinin klasik örneğidir. <em>H. pylori</em> ayrıca kronik gastrit, peptik ülser ve mide adenokarsinomuyla da ilişkilidir.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Gastrit zemininde MALT lenfoma = Helicobacter pylori.</strong> Bu bilgi iki kez soruldu.</p></div>
+<h3 class="book-h3">Bölüm özeti</h3>
+<ul class="book-list">
+<li>Anne sütüyle beslenen bebekte Bifidobacterium (Actinobacteria), erişkinde Firmicutes ve Bacteroidetes baskın; bütiratın kaynağı Firmicutes.</li>
+<li>SCFA (bütirat) kolonositin yakıtı, bariyer güçlendiricisi ve patojen kolonizasyonunun (özellikle <em>C. difficile</em>) engelleyicisidir.</li>
+<li><em>Lactobacillus</em> → dendritik hücre toleransı; <em>E. coli</em> → NF-κB inaktivasyonu; <em>B. thetaiotaomicron</em> → bariyer olgunlaşması; SCFA → toleransın en önemli kimyasalı.</li>
+<li>Gastrit zemininde MALT lenfoma → <em>H. pylori</em>.</li>
+</ul>
+<h3 class="book-h3">Çıkmış sorular: Bağırsak Mikrobiyotası ve Probiyotikler</h3>
+<p class="book-p">Bu bölümden 7 sınavda <strong>14 soru</strong> çıktı; bunlar <strong>14 farklı soruya</strong> karşılık geliyor ve <strong>0 tanesi</strong> birden fazla yıl soruldu. Her kartta sorunun en yeni hâli, sağ üstte kaç kez sorulduğu, kartın altında da çıktığı tüm sınavlar yazar. Rozeti koyu olanlar 3 ve daha fazla kez sorulmuş sorulardır.</p>
+<div class="qblock"><p class="qblock-title">Çıkmış sorular</p></div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S39</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S39</div>
+<div class="q-stem">Hangi aile gastrointestinal sistemde kısa zincirli yağ asitlerinden (SCFA) olan bütiratın kaynağı olan flora bakterilerini içerir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Actinobacteria</div><div class="q-opt ok"><b>B)</b> Firmicutes ✓</div><div class="q-opt"><b>C)</b> Bacteroidetes</div><div class="q-opt"><b>D)</b> Protobacteria</div><div class="q-opt"><b>E)</b> Cyanobacteria</div></div>
+<div class="q-why"><p><strong>B doğru.</strong> Bütirat gibi kısa zincirli yağ asitlerini üreten <em>Clostridium</em>, <em>Faecalibacterium</em> ve <em>Ruminococcus</em> gibi bakteriler <strong>Firmicutes</strong> şubesindedir. Bu bakteriler kolona ulaşan lifi ve dirençli nişastayı fermente ederek kolonositin başlıca yakıtı olan bütiratı üretir.</p><p>Actinobacteria (A) <em>Bifidobacterium</em>'u, Bacteroidetes (C) <em>Bacteroides</em>'i içerir; Proteobacteria (D) ve Cyanobacteria (E) bütiratın başlıca kaynağı değildir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S40</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S40</div>
+<div class="q-stem">Henüz sadece anne sütü ile beslenen bebeklerde gastrointestinal florada baskın olan mikrobiyal aile hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Firmicutes</div><div class="q-opt ok"><b>B)</b> Bifidobacteria ✓</div><div class="q-opt"><b>C)</b> Bacteroides</div><div class="q-opt"><b>D)</b> Protobacteria</div><div class="q-opt"><b>E)</b> Actinobacteria</div></div>
+<div class="q-why"><p><strong>B doğru.</strong> Anne sütündeki oligosakkaritler <strong>Bifidobacterium</strong>'u seçici olarak besler; bu bakteri ortamı asitleştirerek patojenleri baskılar ve yenidoğanın bağışıklığını eğitir. (Soru şıkta “Bifidobacteria” diye yazmış; bu bakteri Actinobacteria şubesindendir.)</p><p>Firmicutes (A) ve Bacteroides (C) erişkin florasında baskındır; Proteobacteria (D) normalde azdır; Actinobacteria (E) şubedir, aranan cins Bifidobacterium'dur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S1</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S1</div>
+<div class="q-stem">Yenidoğan döneminde, anne sütü ile beslenmenin etkisine bağlı olarak, yenidoğanın gastrointestinal mikrobiyotasında baskın olan bakteriler hangi genustandır?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> <em>Bifidobacterium</em> ✓</div><div class="q-opt"><b>B)</b> <em>Oxalobacter</em></div><div class="q-opt"><b>C)</b> <em>Escherichia</em></div><div class="q-opt"><b>D)</b> <em>Bacillus</em></div><div class="q-opt"><b>E)</b> <em>Clostridium</em></div></div>
+<div class="q-why"><p><strong>A doğru.</strong> Önceki iki sorunun cins düzeyindeki soruluşudur: anne sütü alan yenidoğanda <strong>Bifidobacterium</strong> baskındır.</p><p><em>Oxalobacter</em> (B) oksalatı parçalar; <em>Escherichia</em> (C) ve <em>Bacillus</em> (D) baskın değildir; <em>Clostridium</em> (E) erişkin florasının üyesidir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S39</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S39</div>
+<div class="q-stem">Anne sütü ile beslenen bir yenidoğanın gastrointestinal mikrobiyomunda hangi bakteri baskındır?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Proteobacteria</div><div class="q-opt ok"><b>B)</b> Bifidobacteria ✓</div><div class="q-opt"><b>C)</b> Verrucomicrobia</div><div class="q-opt"><b>D)</b> Bacteroidetes</div><div class="q-opt"><b>E)</b> Firmicutes</div></div>
+<div class="q-why"><p><strong>B doğru.</strong> Aynı bilgi şube düzeyinde: anne sütüyle beslenen yenidoğanda <strong>Bifidobacteria</strong> baskındır.</p><p>Proteobacteria (A) ve Firmicutes (E) erişkinde artar; Verrucomicrobia (C, <em>Akkermansia</em>) ve Bacteroidetes (D) yenidoğanda baskın grup değildir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S38</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S38</div>
+<div class="q-stem">Firmicutes bakteriler hangi dönemde gastrointestinal mikrobiyotaya hakimdir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b>Erişkin</div></div>
+<div class="q-why"><p><strong>Cevap: erişkin.</strong> Firmicutes (ve Bacteroidetes), çeşitli katı besinle beslenmeye geçtikten sonra, <strong>erişkin</strong> bağırsak florasının baskın şubesidir. Bebeklikteki Bifidobacterium baskınlığının yerini alır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S37</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S37</div>
+<div class="q-stem">İnsanlarda gastrointestinal bağışıklık sisteminin gelişiminde dendritik hücre toleransının oluşumunda anahtar rolde hangi bakteriler vardır?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Bacteroides</em> sp.</div><div class="q-opt"><b>B)</b> <em>Oxalobacter</em> sp.</div><div class="q-opt"><b>C)</b> <em>Clostridium</em> sp.</div><div class="q-opt ok"><b>D)</b> <em>Lactobacillus</em> sp. ✓</div><div class="q-opt"><b>E)</b> <em>Ruminococcus</em> sp.</div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <em>Lactobacillus</em> türleri dendritik hücreleri “toleranjenik” yönde eğitir; zararsız bakteri ve besin antijenlerine karşı aşırı bağışıklık yanıtının bastırılmasını sağlar. Bu, bağırsakta sürekli bir iltihabın önlenmesinde temel bir mekanizmadır.</p><p><em>Bacteroides</em> (A), <em>Oxalobacter</em> (B), <em>Clostridium</em> (C) ve <em>Ruminococcus</em> (E) floranın üyeleridir, ama bu soruda sorulan dendritik hücre toleransıyla özdeşleştirilen cins <em>Lactobacillus</em>'tur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S37</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S37</div>
+<div class="q-stem">Gastrointestinal mikrobiyotada dendritik hücre toleransını hangi mikroorganizma oluşturur?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b><em>Lactobacillus</em> sp.</div></div>
+<div class="q-why"><p><strong>Cevap: <em>Lactobacillus</em> sp.</strong> Bir önceki sorunun açık uçlu biçimidir; dendritik hücre toleransının anahtarı <em>Lactobacillus</em>'tur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S8</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S8</div>
+<div class="q-stem">İntestinal mikrobiyotada immün sistem toleransının sağlanmasında NF-kappaB inaktivasyonunu çoğunlukla hangi bakterilerin metabolitleri sağlamaktadır?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Enterococcus gallinarum</em></div><div class="q-opt"><b>B)</b> <em>Bartonella henselae</em></div><div class="q-opt ok"><b>C)</b> <em>Escherichia coli</em> ✓</div><div class="q-opt"><b>D)</b> <em>Bacteroides thetaiotaomicron</em></div><div class="q-opt"><b>E)</b> <em>Oxalobacter formigenes</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> Bağırsak florasının üyesi apatojen <em>E. coli</em> suşlarının metabolitleri, epitel hücrelerinde iltihap aktive edici <strong>NF-κB yolağını baskılar</strong>; böylece floraya karşı tolerans sürer ve gereksiz iltihap önlenir.</p><p><em>Enterococcus gallinarum</em> (A) ve <em>Bartonella henselae</em> (B) bu bağlamda anılmaz; <em>Bacteroides thetaiotaomicron</em> (D) bariyer olgunlaşmasıyla, <em>Oxalobacter formigenes</em> (E) oksalat metabolizmasıyla ilişkilidir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S27</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S27</div>
+<div class="q-stem">Gastrointestinal mikrobiyotadaki bakterilerin metabolik aktivitelerine bağlı olarak, immün sistemin aktif halde kalmasında ve intrensek bakterilere karşı toleransının devamına etki eden en önemli kimyasal yapı hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Adrenalin</div><div class="q-opt"><b>B)</b> Oksalat</div><div class="q-opt ok"><b>C)</b> Kısa zincirli yağ asitleri ✓</div><div class="q-opt"><b>D)</b> 5-hidroksitriptamin</div><div class="q-opt"><b>E)</b> Dihidroksi kolekalsiferol</div></div>
+<div class="q-why"><p><strong>C doğru.</strong> Mikrobiyotanın ürettiği <strong>kısa zincirli yağ asitleri</strong> hem bağışıklığı uyanık tutar hem de düzenleyici T hücreleri aracılığıyla kendi bakterilerine karşı toleransı sürdürür; aynı zamanda kolonositi besler.</p><p>Adrenalin (A), oksalat (B), serotonin/5-HT (D) ve aktif D vitamini (E) bu işlevin başlıca kimyasalı değildir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S37</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S37</div>
+<div class="q-stem">İntestinal mikrobiyotada, ksenobiyotik metabolizmasının engellenmesinde linoleik asidin konjugasyonunu en çok hangi bakteriler sağlar?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> <em>Bifidobacterium</em> sp. ✓</div><div class="q-opt"><b>B)</b> <em>Bacillus</em> sp.</div><div class="q-opt"><b>C)</b> <em>Lactobacillus</em> sp.</div><div class="q-opt"><b>D)</b> <em>Escherichia coli</em></div><div class="q-opt"><b>E)</b> <em>Bacteroides</em> sp.</div></div>
+<div class="q-why"><p><strong>A doğru.</strong> <strong>Bifidobacterium</strong> türleri linoleik asidi konjuge linoleik aside çevirir ve ksenobiyotik (dışarıdan alınan yabancı madde) metabolizmasının düzenlenmesine katkıda bulunur.</p><p><em>Bacillus</em> (B), <em>Lactobacillus</em> (C), <em>E. coli</em> (D) ve <em>Bacteroides</em> (E) bu özgül dönüşümün başlıca sağlayıcısı olarak sorulmaz.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S40</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S40</div>
+<div class="q-stem">Peristaltizmi ve glikosilasyonu arttırarak gastrointestinal mukozanın bariyer maturasyonuna olumlu etki yapan bakteri hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Escherichia coli</em></div><div class="q-opt"><b>B)</b> <em>Salmonella typhi</em></div><div class="q-opt ok"><b>C)</b> <em>Bacteroides thetaiotaomicron</em> ✓</div><div class="q-opt"><b>D)</b> <em>Legionella pneumophila</em></div><div class="q-opt"><b>E)</b> <em>Campylobacter jejuni</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <em>Bacteroides thetaiotaomicron</em> bağırsak hareketlerini ve epitel yüzeyindeki glikozilasyonu artırarak <strong>mukozal bariyerin olgunlaşmasına</strong> katkıda bulunur; bu, floranın konağa yararlı etkilerinin klasik örneğidir.</p><p><em>E. coli</em> (A) NF-κB inaktivasyonuyla, patojenler <em>S. typhi</em> (B) ve <em>C. jejuni</em> (E) hastalıkla, <em>Legionella</em> (D) solunum yoluyla ilişkilidir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S40</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S40</div>
+<div class="q-stem">Diyet ile kısa zincirli yağ asitlerinin yoğun olarak hastaya verilmesi, hangi gastrointestinal patojenin kolonizasyonunu önler?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Balantidium coli</em></div><div class="q-opt ok"><b>B)</b> <em>Clostridium difficile</em> ✓</div><div class="q-opt"><b>C)</b> <em>Cryptosporidium parvum</em></div><div class="q-opt"><b>D)</b> <em>Escherichia coli</em> O157:H7</div><div class="q-opt"><b>E)</b> <em>Shigella flexneri</em></div></div>
+<div class="q-why"><p><strong>B doğru.</strong> <strong>Kısa zincirli yağ asitleri</strong> lümeni asitleştirir ve ortamı <em>C. difficile</em> için elverişsiz kılar; bol SCFA bu patojenin yerleşmesini (kolonizasyonunu) önler. Antibiyotikle flora bozulup SCFA azaldığında ise <em>C. difficile</em> çoğalır.</p><p><em>Balantidium coli</em> (A), <em>Cryptosporidium</em> (C), <em>E. coli</em> O157 (D) ve <em>Shigella</em> (E) için sorulan ilişki bu değildir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S39</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S39</div>
+<div class="q-stem">Hangi gastrointestinal patojenin sürekli kolonizasyonunda MALT lenfoma oluşumu ve indüklenmesi bulunur?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b><em>Helicobacter pylori</em></div></div>
+<div class="q-why"><p><strong>Cevap: <em>Helicobacter pylori</em>.</strong> Midede kalıcı kolonizasyon yıllarca süren iltihapla mukozada lenfoid doku biriktirir ve bu zeminde <strong>MALT lenfoma</strong> gelişir; erken evrede bakterinin yok edilmesi tümörü gerileteblir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S48</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S48</div>
+<div class="q-stem">Sıklıkla gastrit tutulumu olan mukoza-ilişkili lenfoid doku tümörlerinde hangi mikroorganizmanın etyopatogenezde sorumlu olduğu kabul edilir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Vibrio parahaemolyticus</em></div><div class="q-opt"><b>B)</b> <em>Diphyllobothrium latum</em></div><div class="q-opt"><b>C)</b> <em>Ascaris lumbricoides</em></div><div class="q-opt ok"><b>D)</b> <em>Helicobacter pylori</em> ✓</div><div class="q-opt"><b>E)</b> <em>Listeria monocytogenes</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> Sıklıkla mideyi tutan MALT lenfomalarının etyopatogenezinde <strong>Helicobacter pylori</strong> sorumlu tutulur; kronik gastrit bu tümörün zeminidir.</p><p><em>V. parahaemolyticus</em> (A), <em>D. latum</em> (B), <em>A. lumbricoides</em> (C) ve <em>Listeria</em> (E) MALT lenfoma ile ilişkili değildir.</p></div>
+</div>
+</section>
+</main></body></html>

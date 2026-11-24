@@ -1,0 +1,56 @@
+# Son Gün Ezber Özeti | Her bölümün en çok tekrar eden bilgisi tek satırda. Sınavdan önceki gün okuyun; her madde bir çıkmış soruya karşılık gelir. || MSD-7 · Ezber
+## 1. İshale Yaklaşım, Klinik Tipler ve Viral Etkenler
+- **İnce = İçerik bol; Kalın = Kan, Kramp, Kısa ama sık.** İnce bağırsak ishali hacim sorunudur (dehidratasyon), kalın bağırsak ishali iltihap sorunudur (kan, ateş, tenezm).
+- **İnflamatuvar diyare yapmayanlar = toksin grubu: “Kolera, ETEC ve üç besin zehirlenmesi bakterisi (S. aureus, B. cereus, C. perfringens)”.** Bu soru 5 yıl sordu ve her yıl doğru cevap bu beşten biriydi (*B. cereus*, *S. aureus*, *C. perfringens* iki kez, *V. cholerae*). Buna *Giardia* ve virüsleri ekleyin.
+- **Kanlı ishal = “SS-CY-CE + amip”:** **S**higella, **S**almonella, **C**ampylobacter, **Y**ersinia, **C**. difficile, **E**. coli (EIEC, EHEC) ve *E. histolytica*. Enfeksiyon dışında inflamatuvar bağırsak hastalığı, iskemik kolit ve divertikülit. *Giardia* mukozayı işgal etmez, kanlı ishal yapmaz: “kanlı ishalde düşünülmez” sorusunun 3 yıldır cevabı Giardiazis.
+- **6-16 kuralı:** 6 saatten kısa → hazır toksin (*S. aureus*, *B. cereus* kusma tipi); 8-16 saat → bağırsakta oluşan toksin (*C. perfringens*, *B. cereus* ishal tipi); 16 saatten uzun → bağırsakta çoğalan, invaziv bakteriler ve virüsler.
+- **Kreş üçlüsü (düşük doz): Shigella, Giardia, Cryptosporidium**; kreşte kolay yayılan virüsler: rotavirüs, adenovirüs, astrovirüs.
+- **Gastroenteritin tek DNA virüsü: Adeno (tip 40-41).** Rotavirüs = çocuğun ağır ishali; Norovirüs = gemide kusma.
+- **Antibiyotik = “APS-B”:** **A**ntibiyotik öyküsü (son 1 ay), **P**rotez, **S**eyahat + yüksek ateş/sepsis, **B**ağışıklık baskısı. Yaş tek başına endikasyon değildir; “35 yaş üstü” şıkkı yanlıştır.
+## 2. Dehidratasyon ve Sıvı Tedavisi
+- **Ağır = “Dolaşım + Beyin + Böbrek”:** kan basıncı düşük ya da normal, soğuk alacalı deri (cutis marmorata), letarji-koma, idrar 0,5-1 ml/kg/saatin altında → **%10 ve üzeri**. Bu vaka sorusu 5 kez geldi; cevap hep “ağır dehidratasyon”.
+- **ORS kuralları: “Kaynat-soğut-sonra ekle; 24 saatte dök; 50/100 ml/kg 4-6 saatte; Na 115-165; ateş engel değil; yenidoğana da.”**
+## 3. Su ve Besin Kaynaklı Salgınlar
+- **Su-besin hastalıkları “DEES-Y”:** **D**ışkı-ağız, **E**ndemik, **E**pidemi, **S**u ise patlayıcı, **Y**azın artar. Bu soru 7 kez geldi; cevap 6 kez “kış aylarında daha çok görülürler”, bir kez “mevsimsel farklılık görülmez”di.
+- **Su-besin hastalığında zincirin en zayıf halkası = bulaşma yolu** (6 kez soruldu). Suyu klorla, besini denetle; zincir kırılır.
+- **“FATS” kaynağa yöneliktir:** **F**ilyasyon, **A**yırma, **T**edavi, **S**ağlık eğitimi. **Su ve gıda** (dezenfeksiyon, sanitasyon) bulaşma yoluna, **karantina** sağlam kişiye. “Kaynağa yönelik” sorusu 7 kez, “sağlam kişiye yönelik” sorusu 6 kez geldi.
+- **Entoksikasyon = “Erken, Emezis”** (kuluçka kısa, kusma önde); **Enfeksiyon = “Geç, Gaita”** (kuluçka uzun, ishal önde). Bu soru 6 kez geldi; cevap her yıl “entoksikasyonlarda kuluçka daha kısadır”.
+- **“Kontrol = Kısa liste, Kısa aralık; Denetleme = Dört dörtlük, tüm parametreler.”** Su izlemi sorusu 8 kez geldi: 6 kez denetleme izlemi, 2 kez kontrol izlemi soruldu. Soruyu okurken “tüm” mü “belli başlı” mı dediğine bakın.
+## 4. Bağırsak Mikrobiyotası ve Probiyotikler
+- **Anne sütü → Bifido (Actinobacteria); Erişkin → Firmicutes + Bacteroidetes; Bütirat → Firmicutes.**
+- **Bütirat = kolonositin yakıtı + bariyer + patojene kapalı kapı.** “SCFA verilince kolonizasyonu önlenen patojen” sorusunun cevabı *C. difficile*.
+- **Gastrit zemininde MALT lenfoma = Helicobacter pylori.** Bu bilgi iki kez soruldu.
+## 5. Salmonella, Shigella, E. coli, Yersinia ve Laboratuvar Tanısı
+- **Enterobacteriaceae = oksidaz NEGATİF, glukozu fermente eder.** *C. perfringens* (Gram pozitif) ve *Vibrio* (oksidaz pozitif) bu aileden **değildir**.
+- **Tifo kültürü zamanı: 1. hafta KAN ve kemik iliği, 2. haftadan sonra DIŞKI ve idrar, 4. haftadan sonra SAFRA.** Döküntü (gül lekesi) + rölatif bradikardi + basamaklı ateş + önce ishal sonra kabızlık = tifo.
+- **Hamburger + kanlı ishal + böbrek yetmezliği + düşük trombosit = EHEC O157:H7, toksini Shiga, besiyeri SMAC.**
+- **Yersinia = üreaz +, soğukta ürer, psödoapandisit, demir sever, transfüzyonla bulaşır, CIN agar.**
+- ***S.* Paratyphi A H<sub>2</sub>S yapmaz** (TSI ve HE'de): “H<sub>2</sub>S pozitif koloni görülen hastada düşünmezsiniz” sorusunun cevabı *S.* Paratyphi A. *S.* Typhi az H<sub>2</sub>S yapar.
+## 6. Toksin Kaynaklı İshaller ve Diğer Bakteriler
+- ***S. aureus* toksini ısıya dayanıklıdır:** yemeği yeniden ısıtmak bakteriyi öldürür ama toksini bozmaz, zehirlenme yine olur. Kremalı pasta + 1-6 saatte kusma + gaitada az lökosit → *S. aureus*.
+- **Buzdolabında üreyen, gastroenterit + sepsis + menenjit = Listeria.**
+## 7. Sindirim Sistemi Protozoonları
+- **Kirpikli = Balantidium; aside dirençli sporozoonlar = Crypto, Cyclospora, Isospora; amip = Entamoeba; kamçılı = Giardia.**
+- **Apatojenler “koli-dispar-nana-iodamoeba-chilomastix”:** bağırsakta bulunur ama hastalık yapmaz. **En sık rastlanan amip = *Entamoeba coli*** (apatojen); patojenlerin en önemlisi *E. histolytica*.
+- ***E. histolytica* = alyuvar yiyen trofozoit + şişe ağzı ülser + karaciğer absesi (erkek) + metronidazol; en sık klinik asemptomatik.**
+- **Giardia = dut yaprağı/gülen yüz trofozoit + emici disk + yağlı ishal + string test; karaciğere gitmez.**
+- **Aside dirençli ookist = Crypto / Cyclospora / Isospora.** AIDS + geçmeyen sulu ishal + kırmızı ookist = *Cryptosporidium*. Boyut: Isospora en büyük, Crypto en küçük.
+- **Domuzdan bulaşan, kirpikli, dizanteri-peritonit yapan = Balantidium coli.**
+## 8. Bağırsak Nematodları
+- **Enterobius = topraksız, kişiden kişiye; Strongyloides = tek serbest yaşayan; deriden giren = filariform larva.**
+- ***Ascaris* = en uzun nematod + akciğer göçü (Löffler, eozinofili) + embriyonlu yumurtayla bulaş.**
+- ***Enterobius* = gece anal kaşıntı + selofan bant + otoenfeksiyon + topraksız bulaş.** Ürtiker-eozinofili onun en sık belirtisi **değildir** (en sık belirti kaşıntıdır).
+- ***Trichuris* = limon yumurta + çocukta rektal prolapsus + dışkı mikroskobisi (selofan bant değil).**
+- ***Strongyloides* = deriden filariform larva, dışkıda rabditiform larva, otoenfeksiyon, bağışıklık baskısında hiperenfeksiyon (pnömoni + menenjit).**
+- **Anemi yapan helmint = çengelli kurtlar (*Necator*, *Ancylostoma*).** *Diphyllobothrium*'un megaloblastik anemisiyle karıştırmayın: çengelli kurt **demir eksikliği (mikrositer)** anemisi yapar.
+## 9. Sestodlar ve Trematodlar
+- ***Taenia solium* = Silahlı, domuz, Sistiserkoz; *T. saginata* = silahsız, Sığır.** Karıştırmamak için: so**L**ium → çenge**L**li (silahlı).
+- ***Diphyllobothrium latum* = çiğ balık (Uzakdoğu) + B12 eksikliği/megaloblastik anemi + kapaklı yumurta.**
+- ***Hymenolepis nana* = cüce sestod + pire ara konak + çocukta, ara konaksız da bulaşır.**
+- **Bağırsak yerleşimli trematod + ishal/ödem/eozinofili + dışkıda yumurta = *Fasciolopsis buski*** (bu soru 5 kez geldi).
+- **En büyük helmint yumurtası = *Fasciolopsis buski*.** *Fasciola* karaciğer (safra yolu), *Clonorchis*/*Opisthorchis* balıkla gelen safra yolu trematodlarıdır.
+## 10. Antihelmintik ve Antiprotozoal İlaçlar
+- **Felç tipleri: “Pirantel-Levamizol-Prazikuantel kasar (spastik); Piperazin-İvermektin gevşetir (flask).”** Pirantel ve piperazin **zıt** etkili olduğu için birlikte verilmez.
+- **Benzimidazol = mikrotübül (tubulin) + fumarat redüktaz/asetilkolinesteraz; felç yapmaz, enerjiyi keser.** Niklozamid = oksidatif fosforilasyonu durdurur (asetilkolinesteraz inhibisyonu DEĞİL — bu bir çeldirici).
+- **Strongyloides ilk tercih = ivermektin** (mikrobiyoloji sunumu tiabendazol/albendazol dese de farmakolojide ivermektin). **Enterobius/Ascaris = mebendazol ya da pirantel; kist hidatik = albendazol.**
+- **Taenia = prazikuantel/niklozamid; sistiserkoz = prazikuantel + albendazol; kist hidatik = albendazol (prazikuantel etkisiz).**

@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title></title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --color-bg: #f3f2f2;
+    --color-text: #201e1d;
+    --color-accent: #0088b0;
+    --color-accent-700: color-mix(in oklch, #0088b0, black 35%);
+    --color-accent-900: color-mix(in oklch, #0088b0, black 55%);
+    --color-accent-2: #d6006c;
+    --color-accent-2-900: color-mix(in oklch, #d6006c, black 45%);
+    --color-neutral-700: #57534e;
+    --font-heading: "Source Serif 4", Georgia, "Times New Roman", serif;
+    --font-body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  }
+  @page { size: A4; margin: 24mm 20mm 24mm 20mm; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); }
+  a { color: var(--color-accent-700); }
+  .book-page { max-width: 100%; }
+  .book-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 16px 0; }
+  .book-title { font-family: var(--font-heading); font-size: 2.3rem; line-height: 1.15; font-weight: 700; margin: 0 0 12px 0; }
+  .book-byline { font-style: italic; color: var(--color-neutral-700); font-size: 0.92rem; margin: 0 0 40px 0; }
+  .book-section { margin: 0 0 32px 0; }
+  .book-h2 { font-family: var(--font-heading); font-size: 1.3rem; font-weight: 700; margin: 0 0 12px 0; break-after: avoid; }
+  .book-h3 { font-family: var(--font-heading); font-size: 1.08rem; font-weight: 700; margin: 18px 0 8px 0; break-after: avoid; }
+  .book-p { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; text-align: justify; hyphens: auto; }
+  .book-list { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; padding-left: 1.3em; }
+  .book-list li { margin-bottom: 5px; }
+  .tag { display: inline-block; font-size: 10.5px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 9px; border-radius: 2px; }
+  .tag-accent-2 { background: color-mix(in oklch, var(--color-accent-2) 14%, white); color: var(--color-accent-2-900); }
+  .highlight-tag { margin-bottom: 8px; break-inside: avoid; }
+  .highlight-p { font-size: 0.98rem; line-height: 1.65; color: var(--color-accent-2-900); margin: 0 0 12px 0; break-inside: avoid; }
+  .cite { font-style: italic; color: var(--color-neutral-700); }
+  table.table { width: 100%; border-collapse: collapse; font-size: 0.86rem; margin: 4px 0 16px 0; break-inside: avoid; }
+  table.table th { text-align: left; font-family: var(--font-heading); font-weight: 700; border-bottom: 1.5px solid var(--color-text); padding: 6px 10px 6px 0; }
+  table.table td { border-bottom: 1px solid color-mix(in oklch, var(--color-text) 15%, white); padding: 7px 10px 7px 0; vertical-align: top; }
+  .chart-figure { margin: 4px 0 16px 0; break-inside: avoid; }
+  .chart-caption { font-size: 0.82rem; color: var(--color-neutral-700); margin-top: 8px; font-style: italic; text-align: left; }
+  .qa-list { display: flex; flex-direction: column; gap: 14px; margin-top: 14px; }
+  .card { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 16px 20px; break-inside: avoid; }
+  .card-kicker { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 4px; }
+  .card-title { font-family: var(--font-heading); font-weight: 700; font-size: 1rem; margin-bottom: 8px; }
+  .card-body { font-size: 0.93rem; line-height: 1.6; }
+  .card-body p { margin: 0 0 8px 0; }
+  .card-body .opt-correct { color: var(--color-accent-700); font-weight: 700; }
+  .card-source { font-size: 0.8rem; font-style: italic; color: var(--color-neutral-700); margin-top: 8px; }
+  .card-dispute { font-size: 0.85rem; background: color-mix(in oklch, var(--color-accent-2) 8%, white); padding: 8px 12px; border-radius: 2px; margin-top: 8px; }
+  .chapter { break-before: page; }
+  .chapter-first { break-before: auto; }
+  .chapter-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 6px 0; }
+  .chapter-title { font-family: var(--font-heading); font-size: 1.75rem; line-height: 1.2; font-weight: 700; margin: 0 0 8px 0; break-after: avoid; }
+  .chapter-lead { font-style: italic; color: var(--color-neutral-700); font-size: 0.95rem; line-height: 1.6; margin: 0 0 26px 0; }
+  .book-h4 { font-family: var(--font-heading); font-size: 0.98rem; font-weight: 700; font-style: italic; margin: 14px 0 6px 0; break-after: avoid; }
+  ol.book-list { padding-left: 1.5em; }
+  .toc { list-style: none; padding: 0; margin: 0 0 12px 0; font-size: 0.98rem; line-height: 1.7; }
+  .toc li { margin: 0 0 4px 0; }
+  .toc .toc-sub { color: var(--color-neutral-700); font-size: 0.88rem; display: block; margin-left: 1.2em; }
+  .cover-note { font-size: 0.92rem; line-height: 1.6; color: var(--color-neutral-700); margin: 0 0 14px 0; }
+  .keybox { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 14px 18px; margin: 6px 0 16px 0; break-inside: avoid; }
+  .keybox-title { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 6px; font-weight: 700; }
+  .keybox ul { margin: 0; padding-left: 1.2em; font-size: 0.92rem; line-height: 1.6; }
+  .keybox li { margin-bottom: 3px; }
+  .card-title .opts { display: block; font-weight: 400; font-family: var(--font-body); font-size: 0.93rem; margin-top: 6px; line-height: 1.55; }
+  table.table.compact { font-size: 0.8rem; }
+  sub, sup { line-height: 0; }
+  @page { size: A4; margin: 22mm 20mm 20mm 20mm; background: #f3f2f2; }
+  .hl-block { break-inside: avoid; }
+  table.table.split { break-inside: auto; }
+  table.table.split tr { break-inside: avoid; }
+
+  /* --- Modul 5-6: cikmis soru odakli yapi --- */
+  .qblock { margin: 0 0 10px 0; break-after: avoid; }
+  .qblock-title { font-size: 10.5px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-accent-2-900); font-weight: 700; margin: 0 0 4px 0; }
+  .qblock-note { font-size: 0.84rem; line-height: 1.5; color: var(--color-neutral-700); font-style: italic; margin: 0 0 10px 0; }
+  .qcards { display: block; margin: 0 0 26px 0; }
+  .qcard { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 12px 16px 10px 16px; margin: 0 0 10px 0; break-inside: auto; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+  .q-head { display: flex; align-items: center; gap: 10px; margin-bottom: 2px; }
+  .q-no { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); font-weight: 700; }
+  .q-src { font-size: 0.74rem; color: var(--color-neutral-700); margin: 0 0 6px 0; line-height: 1.45; }
+  .q-src b { font-weight: 700; color: var(--color-text); }
+  .q-stem { font-family: var(--font-heading); font-weight: 700; font-size: 0.95rem; line-height: 1.45; margin: 0 0 4px 0; }
+  .q-list { margin: 2px 0 6px 0; padding-left: 1.2em; font-size: 0.88rem; line-height: 1.45; }
+  .q-opts { font-size: 0.88rem; line-height: 1.5; margin: 2px 0 6px 0; }
+  .q-opt { padding-left: 1.6em; text-indent: -1.6em; }
+  .q-opt.ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-ans { font-size: 0.86rem; margin: 2px 0 6px 0; }
+  .q-var { font-size: 0.82rem; font-style: italic; color: var(--color-neutral-700); line-height: 1.5; margin: 0 0 6px 0; }
+  .q-why { font-size: 0.86rem; line-height: 1.55; border-top: 1px solid color-mix(in oklch, var(--color-text) 10%, white); padding-top: 6px; }
+  .q-why p { margin: 0 0 5px 0; break-inside: avoid; }
+  .q-head, .q-src, .q-stem, .q-list { break-after: avoid; break-inside: avoid; }
+  .q-opts, .q-ans, .q-var { break-inside: avoid; }
+  .q-why .ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-why p:first-child > b:first-child { color: var(--color-accent-700); }
+  .q-var p { margin: 0 0 3px 0; }
+  .tag-soft { background: color-mix(in oklch, var(--color-accent) 12%, white); color: var(--color-accent-700); }
+  table.dizin td:first-child, table.surekli td:last-child { white-space: nowrap; }
+  table.dizin td:last-child { font-size: 0.72rem; color: var(--color-neutral-700); }
+  tr.dizin-bolum td { font-family: var(--font-heading); font-weight: 700; padding-top: 10px; border-bottom: 1.5px solid var(--color-text); }
+  td.sur { color: var(--color-accent-2-900); font-weight: 700; }
+  table.dizin td.sur { color: var(--color-accent-2-900); }
+  .sunumsuz { font-size: 0.86rem; background: color-mix(in oklch, var(--color-accent) 7%, white); padding: 8px 12px; border-radius: 2px; margin: 0 0 14px 0; }
+  .ref { font-size: 0.8em; color: var(--color-accent-700); font-weight: 700; white-space: nowrap; }
+
+  @page { size: A4; margin: 16mm 15mm 16mm 15mm; background: #f3f2f2; }
+  .book-p { font-size: 0.93rem; line-height: 1.55; margin: 0 0 9px 0; }
+  .book-list { font-size: 0.93rem; line-height: 1.5; }
+  .qcard { padding: 9px 13px 8px 13px; margin: 0 0 8px 0; }
+  .q-stem { font-size: 0.9rem; } .q-opts { font-size: 0.84rem; line-height: 1.4; }
+  .q-why p { font-size: 0.86rem; line-height: 1.48; }
+  .q-var { font-size: 0.78rem; }
+  .q-src { margin: 0 0 3px 0; }
+</style>
+</head>
+<body>
+<main class="book-page">
+<section class="chapter"><p class="chapter-kicker">MSD-7 · 2026-27</p><h2 class="chapter-title">MSD-7 Çıkmış Soru Kitabı</h2><p class="chapter-lead">Blok 2 · Modül 7 — mikrobiyolojik ishal, gastroenterit etkenleri, bağırsak paraziter hastalıkları ve antiparaziter ilaçlar. Yedi yılın (2019-20 … 2025-26) tüm çıkmış soruları konu konu, çözümleriyle.</p>
+<h3 class="book-h3">Bu kitap nasıl kullanılır?</h3>
+<p class="book-p">Elinizdeki yedi MSD-7 sınavında toplam <strong>339 soru</strong> çıkmış; bunların çoğu her yıl aynı ya da çok benzer biçimde tekrar ediyor. Kitap bu soruları <strong>230 ayrı soruya</strong> indirip <strong>10 bölüme</strong> ayırdı. Her bölüm iki parçadan oluşur:</p>
+<ol class="book-list">
+<li><strong>Konu anlatımı:</strong> sorunun dayandığı bilgi, sorular yokmuş gibi, nedenselliğiyle anlatılır; tablolar, şemalar ve ezber ipuçlarıyla.</li>
+<li><strong>Çıkmış sorular:</strong> her soru kartının en yeni hâli, doğru şıkkı işaretli, çeldiricilerin neden yanlış olduğu ve <strong>sağ üstte kaç kez sorulduğu</strong> (koyu rozet = 3+ kez), kartın altında da <strong>çıktığı tüm sınavlar</strong>.</li>
+</ol>
+<p class="book-p">Kitabın sonunda tek satırlık <strong>son gün ezber özeti</strong> var. En çok tekrar eden konulardan başlamak isterseniz aşağıdaki tabloda “kez” sütununa bakın.</p>
+<h3 class="book-h3">Bölümlere dağılım</h3>
+<table class="table compact split"><thead><tr><th>#</th><th>Bölüm</th><th>Farklı soru</th><th>Toplam soru</th></tr></thead><tbody>
+<tr><td>1</td><td>İshale Yaklaşım, Klinik Tipler ve Viral Etkenler</td><td>26</td><td>35</td></tr>
+<tr><td>2</td><td>Dehidratasyon ve Sıvı Tedavisi</td><td>11</td><td>28</td></tr>
+<tr><td>3</td><td>Su ve Besin Kaynaklı Salgınlar</td><td>9</td><td>42</td></tr>
+<tr><td>4</td><td>Bağırsak Mikrobiyotası ve Probiyotikler</td><td>14</td><td>14</td></tr>
+<tr><td>5</td><td>Salmonella, Shigella, E. coli, Yersinia ve Laboratuvar Tanısı</td><td>62</td><td>74</td></tr>
+<tr><td>6</td><td>Toksin Kaynaklı İshaller ve Diğer Bakteriler</td><td>8</td><td>8</td></tr>
+<tr><td>7</td><td>Sindirim Sistemi Protozoonları</td><td>43</td><td>46</td></tr>
+<tr><td>8</td><td>Bağırsak Nematodları</td><td>16</td><td>27</td></tr>
+<tr><td>9</td><td>Sestodlar ve Trematodlar</td><td>9</td><td>22</td></tr>
+<tr><td>10</td><td>Antihelmintik ve Antiprotozoal İlaçlar</td><td>32</td><td>42</td></tr>
+<tr><td></td><td><strong>Toplam</strong></td><td><strong>230</strong></td><td><strong>338</strong></td></tr>
+</tbody></table>
+<p class="chart-caption">Yedi sınavın 338 sorusu 230 ayrı soruya karşılık geliyor; 25 soru 3 ya da daha fazla kez çıkmış.</p>
+<h3 class="book-h3">En çok tekrar eden sorular (3+ kez)</h3>
+<table class="table compact split"><thead><tr><th>Kez</th><th>Konu</th><th>Bölüm</th></tr></thead><tbody>
+<tr><td>8</td><td>İçme ve kullanma sularının ilgili yönetmelik gereği sık aralarla v…</td><td>3</td></tr>
+<tr><td>7</td><td>su ve besinlerle bulaşan hastalık salgınlarına yönelik mücadeleler…</td><td>3</td></tr>
+<tr><td>6</td><td>hangisi su ve besinlerle bulaşan hastalıklara ait bir özellik deği…</td><td>3</td></tr>
+<tr><td>6</td><td>hangisi gıda kaynaklı hastalıklar hakkında doğrudur?</td><td>3</td></tr>
+<tr><td>6</td><td>Su ve besinlerle bulaşan hastalıklarla mücadelede enfeksiyon zinci…</td><td>3</td></tr>
+<tr><td>6</td><td>Dehidratasyon tedavisi ile ilgili olarak aşağıdakilerden hangisi(l…</td><td>2</td></tr>
+<tr><td>6</td><td>Su ve gıdalarla bulaşan hastalıklarla mücadelede aşağıdaki müdahal…</td><td>3</td></tr>
+<tr><td>5</td><td>Karın ağrısı, ishal ve ödem klinik bulguları olan, intestinal yerl…</td><td>9</td></tr>
+<tr><td>5</td><td>hangisi inflamatuar diyareye neden olmaz?</td><td>1</td></tr>
+<tr><td>4</td><td>Kan basıncı normal veya azalmış Nabız dolgunluğu hafif azalmış Kal…</td><td>2</td></tr>
+<tr><td>4</td><td>Megaloblastik anemiye sebep olabilen helmint aşağıdakilerden hangi…</td><td>9</td></tr>
+<tr><td>4</td><td>Anamnezinde Uzakdoğu yemekleri yapan lokantalarda yemek yediği öğr…</td><td>9</td></tr>
+<tr><td>4</td><td>Ağızdan sıvı tedavisi (ORS) kimlere uygulanmalıdır? I- ORS, bilinc…</td><td>2</td></tr>
+<tr><td>4</td><td>nematodlardan hangisi için farklı olarak toprak zorunlu değildir v…</td><td>8</td></tr>
+<tr><td>3</td><td>ORS hazırlanırken ve hastaya verilirken izlenen aşağıdaki basamakl…</td><td>2</td></tr>
+<tr><td>3</td><td>Echinococcus granulosus larvalarının neden olduğu kist hidatik has…</td><td>10</td></tr>
+<tr><td>3</td><td>Enterobius vermicularis için doğru olmayan aşağıdakilerden hangisi…</td><td>8</td></tr>
+<tr><td>3</td><td>Kanlı dışkılama ve ishal şikayetleriyle başvuran hastada ayırıcı t…</td><td>1</td></tr>
+<tr><td>3</td><td>Trematod enfestasyonunda kullanılan ilaçlarla ilgili aşağıdakilerd…</td><td>10</td></tr>
+<tr><td>3</td><td>"Trofozoitler kollejenaz, nörominidaz enzimleriyle mukozaya penetr…</td><td>7</td></tr>
+<tr><td>3</td><td>Akut ishal şüphesiyle gelen hastanın yapılan gayta kültürü aşağıda…</td><td>5</td></tr>
+<tr><td>3</td><td>Hangisi Taenia saginata enfestasyonlarında en fazla tercih edilen …</td><td>10</td></tr>
+<tr><td>3</td><td>hangisi Enterobius vermicularis'in enfektif dönemidir?</td><td>8</td></tr>
+<tr><td>3</td><td>On iki yaşında erkek çocuk nehirde oynarken ayağını kesmiştir. Üç …</td><td>5</td></tr>
+<tr><td>3</td><td>hangisi dehidratasyon etiyolojisinde yer almaz?</td><td>2</td></tr>
+</tbody></table>
+<p class="chart-caption">En sık tekrar eden sorular. Bu konuları önce çalışın.</p>
+</section>
+</main></body></html>

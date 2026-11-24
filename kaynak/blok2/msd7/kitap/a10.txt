@@ -1,0 +1,159 @@
+=== 2025-26-15
+E: Enterobius + tek doz + antikolinesteraz/nikotinik uyarı + spastik felç → pirantel pamoat.
+D doğru. “Antikolinesteraz etkinlik ve nikotinik reseptör aktivasyonuyla spastik felç” tam olarak **pirantel pamoat**ı tanımlar; *Enterobius* (ve aile içi bulaşta) tek doz kullanılır, gebede de güvenlidir.
+Metronidazol (A) antiprotozoaldir; tiabendazol (B) *Strongyloides* içindir; prazikuantel (C) sestod-trematod ilacıdır; ivermektin (E) flask felç yapar.
+
+=== 2025-26-16
+E: T. saginata + lümende spastik felç + tek doz → prazikuantel.
+D doğru. Bağırsak lümenindeki erişkin tenyayı **kalsiyum girişini artırarak spastik paraliziye** uğratan ve tegümentini bozan ilaç **prazikuantel**dir; *Taenia saginata*'da ilk tercihtir.
+Piperazin (A) ve ivermektin (E) flask felç yapan nematod ilaçlarıdır; levamizol (B) nematod içindir; bitionol (C) trematod ilacıdır.
+
+=== 2025-26-17
+E: Kist hidatik (Echinococcus larvası) tedavisinde: albendazol.
+A doğru. **Albendazol** lipofilik olup iyi emildiği için kist hidatik (*Echinococcus granulosus* larvası) gibi doku enfeksiyonlarında kullanılır.
+Levamizol (B), piperazin (C) nematod; oksamnikin (D) şistozomiyaz; metrifonat (E) *S. haematobium* ilacıdır. (Bazı yıl kayıtlarında şık harfi değişse de doğru ilaç albendazoldür.)
+
+=== 2025-26-18
+E: Prazikuantel K⁺ değil, Ca²⁺ girişini artırır ve FLASK değil SPASTİK felç yapar.
+B doğru (yanlış ifade). Prazikuantel **kalsiyum geçirgenliğini artırıp spastik felç** yapar; “potasyum geçirgenliğini azaltarak flask felç” tanımı yanlıştır.
+Albendazol-mikrotübül (A), piperazin-GABA/klor kanalı (C), niklozamid-anaerobik metabolizma (D) ve ivermektin-GABA/flask felç (E) doğru eşleşmelerdir.
+
+=== 2025-26-19
+E: Fasciola hepatica (erken+geç dönem) ilk tercih: triklabendazol.
+E doğru. Su teresiyle bulaşan, safra yollarına yerleşen *Fasciola hepatica*'nın hem erken hem geç dönemini tedavi eden ilk tercih **triklabendazol**dür.
+Prazikuantel (A) *Fasciola*'da zayıftır; niklozamid (B) ve mebendazol (C) sestod/nematod; pirantel (D) nematod ilacıdır.
+
+=== 2025-26-20
+E: İvermektinin trematodda kullanımı yoktur ve sadece parenteral değildir (ağızdan verilir).
+E doğru (yanlış ifade). İvermektin trematod ilacı değildir ve **ağızdan** kullanılır; “trematodda sık kullanılır, sadece parenteral uygulanır” ifadesi yanlıştır.
+Şistozomiyazda prazikuantel-metrifonat-oksamnikin (A), bitionolün *Fasciola*'da mitokondriyal solunumu engellemesi (B), metrifonatın kolinesteraz inhibisyonuyla felç yapması (C) ve prazikuantelin *Paragonimus*'ta ilk tercih olması (D) doğrudur. (2020-21 S50'de yanlış ifade “metrifonat kolinesterazı aktive eder”di; metrifonat kolinesterazı **inhibe** eder.)
+
+=== 2024-25-5
+E: Piperazin GABA agonistidir (klor kanalı, flask felç); fumarat redüktaz/asetilkolinesteraz inhibisyonu benzimidazole aittir.
+D doğru (yanlış ifade). Piperazin **GABA agonisti** olup klor kanalını açar ve flask felç yapar; “mitokondriyal fumarat redüktaz ve asetilkolinesteraz inhibisyonu” aslında benzimidazollerin mekanizmasıdır.
+Pirantelin *Ascaris*/*Enterobius*/*Trichostrongylus*'ta kullanılması (A), benzimidazollerin mikrotübül sentezini bozup glukoz alımını engellemesi (B), levamizolün nikotinik uyarıyla spastik felç yapması (C) ve albendazolün lipofilik olup sistemik enfeksiyonda tercih edilmesi (E) doğrudur.
+
+=== 2024-25-6
+E: Metrifonat ağızdan kullanılır ve gebelikte güvenli DEĞİLDİR (kolinesteraz inhibitörü).
+D doğru (yanlış ifade). **Metrifonat ağızdan** kullanılır ve kolinesteraz inhibitörü olduğu için **gebelikte güvenli değildir**; “sadece parenteral kullanılır ve gebelikte güvenle kullanılabilir” yanlıştır.
+Şistozomiyaz ilaçları (A), ivermektinin trematodda kullanılmaması (B), bitionolün *Fasciola*'da mitokondriyal solunumu engellemesi (C) ve prazikuantelin spastik felç yapması (E) doğrudur. (2023-24 S3'te yanlış ifade “ivermektinin trematodda kullanımı yoktur” diye farklı bir şıkka kaymış olsa da standart yanlış ifade metrifonatla ilgilidir.)
+
+=== 2024-25-7
+E: T. saginata tedavisinde kullanılmaz: metronidazol (antiprotozoal).
+E doğru. **Metronidazol** bir antiprotozoal/antianaerobdur; sestod *Taenia saginata*'da etkisizdir.
+Niklozamid (A) ve prazikuantel (B) *T. saginata*'nın ilk tercihleridir; albendazol (C) ve mebendazol (D) de etkili olabilir.
+
+=== 2024-25-8
+E: Niklozamid oksidatif fosforilasyonu durdurur; “asetilkolinesteraz inhibisyonu ile spastik felç” YANLIŞ.
+C doğru (yanlış ifade). Niklozamid **oksidatif fosforilasyonu (anaerobik enerji üretimini) engeller**; “asetilkolinesteraz inhibisyonuyla spastik felç” tanımı ona ait değildir.
+Tiabendazol-mikrotübül (A), piperazin-GABA/klor (B), ivermektin-GABA/flask felç (D) ve prazikuantel-kalsiyum/spastik felç (E) doğru eşleşmelerdir.
+
+=== 2024-25-9
+E: Ascaris + Enterobius + Ancylostoma + kist hidatik → albendazol.
+B doğru. **Albendazol** hem bu bağırsak nematodlarında hem de kist hidatikte kullanılan geniş spektrumlu benzimidazoldür.
+Dietilkarbamazin (A) filarya, niklozamid (C) sestod, metrifonat (D) ve prazikuantel (E) trematod ilacıdır (prazikuantel kist hidatikte etkisizdir).
+
+=== 2024-25-10
+C: A
+N: Bu yılki kayıtta anahtar niklozamidi (B) işaretlemiş; bu büyük olasılıkla hatalıdır. Mazzotti reaksiyonu mikrofilaryaların ölümüyle çıkar ve dietilkarbamazin/ivermektin gibi filarya ilaçlarıyla görülür; şıklar içinde buna uyan ivermektindir.
+E: Filaryazda mikrofilaryaların ölümüyle Mazzotti reaksiyonu: dietilkarbamazin ve ivermektin.
+Doğrusu ivermektin (A). **Mazzotti reaksiyonu** (kaşıntı, ateş, döküntü, lenf bezi şişmesi) filaryazda mikrofilaryaların toplu ölümüyle ortaya çıkar; dietilkarbamazin ve ivermektin bu reaksiyonu tetikler.
+Niklozamid (B) sestod, pirantel (C) nematod, metronidazol (D) antiprotozoal, prazikuantel (E) trematod/sestod ilacıdır; filarya tedavisiyle ilişkili değildir.
+
+=== 2023-24-1
+E: T. saginata ilk tercih: niklozamid ve prazikuantel.
+E doğru. **Niklozamid ve prazikuantel** *Taenia saginata* enfeksiyonunda en çok tercih edilen ilaçlardır.
+Diğer şıklardaki ivermektin, metrifonat, dietilkarbamazin, tiabendazol, piperazin ve pirantel (A-D) nematod ya da filarya ilaçlarıdır, bağırsak sestodunda ilk tercih değildir.
+
+=== 2023-24-2
+E: Piperazin (GABA/flask) ile pirantel (nikotinik/spastik) ZIT etkili; birlikte kullanılmaz.
+E doğru. Piperazin flask (gevşek) felç, pirantel pamoat spastik (kasılmalı) felç yapar; **zıt mekanizmalı** oldukları için birlikte verildiklerinde birbirlerinin etkisini azaltır.
+İvermektin (A), metronidazol (B), bitionol (C) ve niklozamid (D) ile böyle doğrudan bir antagonizma tanımlanmaz.
+
+=== 2023-24-5
+E: Enterobius tedavisi (çocuk): mebendazol.
+E doğru. **Mebendazol** *Enterobius vermicularis*'in ilk tercih tedavisidir (pirantel pamoat da kullanılabilir); 2 hafta sonra doz tekrarlanır.
+Bitionol (A) ve oksamnikin (B) trematod, prazikuantel (C) sestod-trematod, dietilkarbamazin (D) filarya ilacıdır.
+
+=== 2022-23-5
+E: Hücreye Ca²⁺ girişini artırıp spastik felç yapan sestod-trematod ilacı: prazikuantel.
+D doğru. **Prazikuantel** parazitin tegümentinde kalsiyum geçirgenliğini artırıp spastik felç ve örtü hasarı yapar; sestod ve trematodlarda geniş spektrumludur.
+Levamizol (A) ve pirantel (E) nematod, ivermektin (B) flask felç, piperazin (C) GABA agonistidir.
+
+=== 2022-23-6
+E: Nikotinik uyarı + spastik felç + immünostimülan + kolon kanserinde: levamizol.
+E doğru. **Levamizol** nikotinik reseptör uyarısıyla spastik felç yapar; ayrıca immünostimülan etkisiyle kolon kanseri tedavisinde kullanılmıştır.
+Pirantel (A) de nikotinik agonisttir ama immünostimülan/kanser kullanımı yoktur; prazikuantel (B) sestod-trematod, piperazin (C) GABA agonisti, ivermektin (D) flask felç ilacıdır.
+
+=== 2022-23-7
+E: Hem nematod hem sestoda etkili: albendazol.
+B doğru. **Albendazol** geniş spektrumludur; nematodların yanı sıra sestodlara (ve kist hidatike) da etkilidir.
+Piperazin (A) ve mebendazol (D) ağırlıkla nematod; metrifonat (C) trematod; metronidazol (E) antiprotozoal ilaçtır.
+
+=== 2022-23-8
+E: Wuchereria, Brugia, Loa loa (filarya) ilk tercih: dietilkarbamazin.
+E doğru. **Dietilkarbamazin sitrat** lenfatik filaryaz (*Wuchereria bancrofti*, *Brugia malayi*) ve *Loa loa*'da ilk tercihtir; mikrofilaryaların araşidonik asit metabolizmasını bozup onları öldürür.
+Albendazol (A) yardımcı, oksamnikin (B) şistozomiyaz, metronidazol (C) antiprotozoal, tetrakloretilen (D) eski bir nematod ilacıdır.
+
+=== 2022-23-9
+E: Mikrotübül polimerizasyonunu inhibe eden: mebendazol (benzimidazol).
+A doğru. **Mebendazol** bir benzimidazoldür; parazitin β-tubulinine bağlanıp mikrotübül polimerizasyonunu engeller, glukoz alımını ve ATP'yi düşürür.
+Metronidazol (B) antiprotozoal, levamizol (C) nikotinik agonist, niklozamid (D) oksidatif fosforilasyon inhibitörü, ivermektin (E) klor kanalı açıcısıdır.
+
+=== 2022-23-10
+E: Nikotinik uyarı + spastik felç + gebede güvenli nematod ilacı: pirantel pamoat.
+E doğru. **Pirantel pamoat** çizgili kasta nikotinik reseptörleri uyarıp spastik felç yapar; emilimi düşük olduğu için **gebede güvenli** kabul edilir.
+Metrifonat (A) trematod, mebendazol (B) gebede kontrendike benzimidazol, oksamnikin (C) şistozomiyaz, prazikuantel (D) sestod-trematod ilacıdır.
+
+=== 2021-22-1
+E: İvermektin mekanizması: glutamat/GABA aracılı klor kanalı açılması, flask felç.
+Cevap: GABA aracılı iletimin uyarılmasıyla flask (gevşek) felç. İvermektin parazitin glutamatla açılan klor kanallarını açar; klor girişi hücreyi hiperpolarize eder ve kas gevşer (flask felç).
+
+=== 2021-22-3
+E: Ascaris ilk tercih: pirantel pamoat (ya da mebendazol/albendazol).
+Cevap: pirantel pamoat. *Ascaris lumbricoides*'te pirantel pamoat etkili ilk tercih ilaçlardandır; nikotinik uyarıyla spastik felç yapıp paraziti bağırsaktan atar.
+
+=== 2020-21-4
+E: Filaryazda GABA aracılı flask felç yapan: ivermektin.
+E doğru. **İvermektin** GABA/glutamat aracılı klor iletimini güçlendirip flask felç yapar; onkoserkiyaz ve lenfatik filaryazda kullanılır.
+Prazikuantel (A) spastik felç, niklozamid (B) enerji inhibisyonu, dietilkarbamazin (C) araşidonik asit yolu, albendazol (D) mikrotübül mekanizmasıyla etki eder.
+
+=== 2020-21-10
+E: Sistemik helmintiyazda mebendazol değil ALBENDAZOL tercih edilir (mebendazol kötü emilir).
+C doğru (yanlış ifade). “Sistemik helmintiyazda mebendazol daha çok tercih edilir” yanlıştır: mebendazol bağırsaktan az emildiği için **sistemik tutulumda albendazol** tercih edilir.
+Benzimidazollerin fumarat redüktaz ve asetilkolinesteraz inhibisyonu (A), mebendazolün *Ascaris*/oksiyurda kullanımı (B), tiabendazolün *Strongyloides* endikasyonu (D) ve gebede kontrendike olmaları (E) doğrudur.
+
+=== 2020-21-35
+E: Sitoplazmik mikrotübül sentezini inhibe eden: albendazol (benzimidazol).
+A doğru. **Albendazol** benzimidazol olarak parazitin sitoplazmik mikrotübül sentezini (β-tubulin polimerizasyonunu) engeller.
+Levamizol (B) ve pirantel (E) nikotinik agonist, piperazin (C) GABA agonisti, metronidazol (D) antiprotozoaldir.
+
+=== 2019-20-5
+E: Pirantel pamoat Strongyloides'e etkisizdir (onun ilk tercihi ivermektin).
+B doğru. **Pirantel pamoat** *Strongyloides stercoralis*'te etkisizdir; bu parazitin tedavisinde ivermektin (ya da tiabendazol/albendazol) kullanılır.
+*Ascaris* (A), *Enterobius* (C), *Necator* (D) ve *Ancylostoma* (E) pirantel pamoata yanıt verir.
+
+=== 2019-20-6
+E: T. solium sistiserkoz tedavisi: prazikuantel ve albendazol.
+B doğru. Doku tutulumu olan **sistiserkozda prazikuantel ve albendazol** (dokuya geçen ilaçlar) birlikte/tercihen kullanılır.
+Niklozamid (A, D) yalnız lümendeki erişkin tenyaya etkilidir, dokuya geçmez; dietilkarbamazin (C) filarya, levamizol-tiabendazol (E) nematod ilacıdır.
+
+=== 2019-20-7
+E: Nikotinik kolinerjik iletiyi güçlendiren iki nematod ilacı: pirantel pamoat ve levamizol.
+C doğru. **Pirantel pamoat ve levamizol** nikotinik reseptörleri uyarıp (kolinerjik iletiyi güçlendirip) spastik felç yapar.
+İvermektin (A, B) ve piperazin (E) flask felç yapar; albendazol (D) mikrotübül mekanizmasıyla etki eder; bunlar nikotinik uyarı yapmaz.
+
+=== 2019-20-8
+E: Mikrofilaryalarda araşidonik asit metabolizmasını inhibe eden: dietilkarbamazin.
+B doğru. **Dietilkarbamazin** mikrofilaryaların araşidonik asit metabolizmasını bozarak onları hareketsiz ve konak savunmasına açık hâle getirir.
+Mebendazol (A) mikrotübül, prazikuantel (C) kalsiyum, oksamnikin (D) şistozomiyaz, ivermektin (E) klor kanalı mekanizmasıyla etki eder.
+
+=== 2019-20-9
+E: Uzun süreli albendazol tedavisinde izlenecek organ: karaciğer.
+C doğru. **Albendazol** karaciğerde metabolize edilir; uzun süreli kullanımda (ör. kist hidatik) karaciğer enzimleri ve karaciğer işlevi yakından izlenir; ayrıca kemik iliği baskılanması açısından da dikkat gerekir.
+Göz (A), böbrek (B), periferik sinirler (D) ve lenf bezleri (E) öncelikli izlem hedefi değildir.
+
+=== 2019-20-10
+E: Prazikuantele yanıt vermeyen: hidatik hastalık (Echinococcus larvası → albendazol).
+D doğru. **Kist hidatik** (hidatik hastalık, *Echinococcus* larvası) prazikuantele yanıt vermez; tedavisinde albendazol (gerekirse cerrahi/PAIR) kullanılır.
+Paragonimiyaz (A), domuz tenyası (B), şistozomiyaz (C) ve opistorkiyaz (E) prazikuantele yanıt verir.

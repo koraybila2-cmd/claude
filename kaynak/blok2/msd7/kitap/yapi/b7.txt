@@ -459,3 +459,13 @@ E) *Yersinia enterocolitica*
 D doğru. Dışkıda **bol eritrosit ama az lökosit** ve bakteri kültürünün negatif olması amipli koliti gösterir: *E. histolytica* dokuyu eritip kanama yapar ama histolitik enzimleriyle nötrofilleri de lizise uğrattığı için lökosit azdır.
 *Shigella* (A), *Campylobacter* (B), EIEC (C) ve *Yersinia* (E) bakteriyel invaziv ishal yapar; bunlarda dışkıda **bol lökosit** olur ve kültür pozitiftir.
 @@
+@Q 2025-26 S3 | 1 KEZ | Çıktığı sınavlar: 2025-26 S3
+@K Aşağıdakilerden hangisi *E. hystolytica*'ya bağlı ishallerde kullanılabilen antimikrobiyallerdendir?
+A) Doksisiklin
+B) Trimetoprim-sulfametoksazol
+C) Metronidazol ✓
+D) Azitromisin
+E) Siprofloksasin
+C doğru. Doku amibiyazisinin (amipli dizanteri, karaciğer absesi) tedavisinde **metronidazol** (ya da tinidazol) kullanılır; ardından lümendeki kistleri temizlemek için paromomisin gibi bir luminal ilaç eklenir.
+Doksisiklin (A), TMP-SMX (B), azitromisin (D) ve siprofloksasin (E) antibakteriyeldir; *E. histolytica* bir protozoondur ve bunlardan etkilenmez.
+@@

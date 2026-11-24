@@ -1,5 +1,138 @@
-# Sestodlar ve Trematodlar || Bölüm 9
+# Sestodlar ve Trematodlar | Sestodların (şerit/tenya) yapısı ve bağırsak sestodları (T. saginata, T. solium, H. nana, D. latum), trematodların (yaprak solucanları) özellikleri ve bağırsak-karaciğer trematodları (Fasciolopsis, Fasciola, Clonorchis), ayırt edici klinik ve tanı özellikleri. Sestod-trematod sunumuna (S4) dayanır; 22 soru çıkmıştır. || Bölüm 9 · Şeritler ve yapraklılar
+
+## Sestodların genel yapısı
+Sestodlar (şerit/tenya) yassı, halkalı helmintlerdir:
+- **Skoleks (baş):** tutunma organı (vantuz, çengel). **Bağırsak duvarına skoleksiyle tutunur, halkalarıyla değil.**
+- **Boyun:** yeni halkaların yapıldığı büyüme bölgesi.
+- **Proglottid (halka):** genç → olgun → **gebe** (en distaldeki, yumurta dolu). Hepsi hermafrodittir.
+- İnsana bulaş genellikle **iyi pişmemiş etteki larva** ile olur (*H. nana* ve *D. latum* dışında).
+| Sestod | Ara konak / bulaş | Larva (kistik form) | Ayırt edici |
+| ***Taenia saginata*** | **sığır**; çiğ sığır eti | *Cysticercus bovis* | **silahsız** (çengelsiz), 4 vantuz; hareketli düşen halka |
+| ***Taenia solium*** | **domuz**; çiğ domuz eti | *Cysticercus cellulosae* | **silahlı** (rostellum + çengel); insan **hem ara hem kesin konak** → sistiserkoz (beyin, göz) |
+| ***Hymenolepis nana*** | **pire** (ya da ara konaksız doğrudan) | sistiserkoid | **en küçük/cüce sestod**; insandan insana ara konaksız geçen tek sestod; çocuk |
+| ***Diphyllobothrium latum*** | **Cyclops → tatlı su balığı**; çiğ balık | pleroserkoid | **balık tenyası**; iki yarık (botriya); **B12 eksikliği, megaloblastik anemi**; **kapaklı (operkulumlu) yumurta** |
+|= Bağırsak sestodları. *T. solium* silahlı (domuz, sistiserkoz), *T. saginata* silahsız (sığır).
+?? ***Taenia solium* = Silahlı, domuz, Sistiserkoz; *T. saginata* = silahsız, Sığır.** Karıştırmamak için: so**L**ium → çenge**L**li (silahlı).
+?? ***Diphyllobothrium latum* = çiğ balık (Uzakdoğu) + B12 eksikliği/megaloblastik anemi + kapaklı yumurta.**
+?? ***Hymenolepis nana* = cüce sestod + pire ara konak + çocukta, ara konaksız da bulaşır.**
+
+## Taenia solium ve sistiserkoz
+*T. solium*'da **insan hem kesin konak** (bağırsakta erişkin tenya; çiğ domuz etiyle) **hem de ara konak** olabilir: yumurtanın yutulmasıyla larvalar dokulara yerleşir (**sistiserkoz**); kas, göz ve özellikle **beyin (nörosistiserkoz, epilepsi)** tutulur. Bu nedenle *T. solium* yumurtası doğrudan insana tehlikelidir (fekal-oral). Tanı gebe halka ya da skoleksin görülmesidir.
+
+## Trematodların genel özellikleri
+Trematodlar (yaprak solucanları) yaprak biçimli, **anüssüz**, çekmenli (vantuz) helmintlerdir.
+- **Schistosoma dışında hepsi hermafrodittir.**
+- **Yumurtaları kapaklıdır (operkulumlu)** — Schistosoma yumurtasının kapağı yoktur, çengeli vardır.
+- İlk ara konak her zaman bir **salyangozdur** (aseksüel çoğalma); sonra metaserkarya enfektif formu su bitkisi, balık, yengeç ya da karınca üzerinde beklenir.
+| Trematod | Yerleşim | Bulaş (metaserkarya) | Ayırt edici |
+| ***Fasciolopsis buski*** | **bağırsak** | su bitkileri (Uzakdoğu) | **dev bağırsak kelebeği; en büyük helmint yumurtası**; karın ağrısı, ishal, ödem, eozinofili |
+| ***Fasciola hepatica*** | **safra yolları/karaciğer** | su teresi, su bitkileri | koyun karaciğer kelebeği; hepatomegali, tıkanma sarılığı, eozinofili |
+| ***Clonorchis / Opisthorchis*** | **safra yolları** | tatlı su balığı (Uzakdoğu) | küçük karaciğer kelebekleri; safra yolu kanseri riski |
+| ***Dicrocoelium*** | safra yolları | karınca | insanda çok nadir; enfekte karaciğer yenince “yalancı enfeksiyon” |
+|= Trematodlar. Yerleşimi bağırsak olan tek klasik örnek *Fasciolopsis buski*'dir.
+?? **Bağırsak yerleşimli trematod + ishal/ödem/eozinofili + dışkıda yumurta = *Fasciolopsis buski*** (bu soru 5 kez geldi).
+?? **En büyük helmint yumurtası = *Fasciolopsis buski*.** *Fasciola* karaciğer (safra yolu), *Clonorchis*/*Opisthorchis* balıkla gelen safra yolu trematodlarıdır.
+
+## Kapaklı yumurta ayrımı
+**Kapaklı (operkulumlu) yumurtası olanlar:** trematodların çoğu (Schistosoma hariç) ve sestodlardan **Diphyllobothrium latum**. Nematod yumurtaları ve *Taenia*/*Hymenolepis* yumurtaları kapaksızdır. Uzakdoğu + çiğ balık + kapaklı yumurta sorusunun cevabı **sestod olarak *D. latum***, trematod bağlamında *Clonorchis* olabilir; soru “sestod” diyorsa *D. latum*'dur.
+
+## Bölüm özeti
+- Sestod bağırsağa **skoleksiyle** tutunur; gebe (distal) halkalar yumurta taşır; bulaş iyi pişmemiş etteki larvayla.
+- *T. solium*: silahlı, domuz, insan hem ara hem kesin konak, sistiserkoz. *T. saginata*: silahsız, sığır.
+- *D. latum*: çiğ balık, B12 eksikliği/megaloblastik anemi, kapaklı yumurta. *H. nana*: cüce, pire, ara konaksız bulaşabilir.
+- Trematodlar anüssüz, kapaklı yumurtalı (Schistosoma hariç), ilk ara konak salyangoz.
+- *Fasciolopsis buski*: bağırsak yerleşimli, ishal-ödem-eozinofili, en büyük helmint yumurtası. *Fasciola*: karaciğer/safra.
 
 ## Çıkmış sorular: Sestodlar ve Trematodlar
 Bu bölümden 7 sınavda **22 soru** çıktı; bunlar **9 farklı soruya** karşılık geliyor ve **6 tanesi** birden fazla yıl soruldu. Her kartta sorunun en yeni hâli, sağ üstte kaç kez sorulduğu, kartın altında da çıktığı tüm sınavlar yazar. Rozeti koyu olanlar 3 ve daha fazla kez sorulmuş sorulardır.
 @QB Çıkmış sorular
+@Q 2025-26 S21 | 5 KEZ | Çıktığı sınavlar: 2025-26 S21 · 2024-25 S22 · 2023-24 S23 · 2022-23 S21 · 2021-22 S25
+@K Karın ağrısı, ishal ve ödem klinik bulguları olan, intestinal yerleşimli olup eozinofilinin eşlik ettiği; dışkıda yumurtaların görülmesiyle tanı konulabilen trematod aşağıdakilerden hangisidir?
+A) *Fasciola hepatica*
+B) *Clonorchis sinensis*
+C) *Fasciolopsis buski* ✓
+D) *Trichuris trichura*
+E) *Opisthorcis felineus*
+C doğru. **Fasciolopsis buski** bağırsağa yerleşen dev bir trematoddur; karın ağrısı, ishal, **ödem** ve eozinofili yapar, tanı dışkıda (en büyük helmint) yumurtasının görülmesiyle konur.
+*Fasciola* (A), *Clonorchis* (B) ve *Opisthorchis* (E) karaciğer/safra yolu trematodudur; *Trichuris* (D) bir nematoddur, trematod değildir. (Bu soru 5 kez çıktı; cevap hep *Fasciolopsis buski*'dir.)
+@@
+@Q 2025-26 S25 | 2 KEZ | Çıktığı sınavlar: 2025-26 S25 · 2023-24 S24
+@K Yumurtaları pireler tarafından alınan ve pirenin vücudunda *cysticercoid* oluşarak daha sonra rastlantı sonucu bu pireyi yutan insanın barsağında erişkin helmint oluşması ile hastalık oluşturan etken hangisidir?
+A) *Taenia saginata*
+B) *Hymenolepis nana* ✓
+C) *Fasciola hepatica*
+D) *Taenia solium*
+E) *Diphyllobothrium latum*
+B doğru. **Hymenolepis nana** yumurtası pire gibi bir ara konakta **sistiserkoid** larvaya dönüşür; bu pirenin yutulmasıyla insan bağırsağında erişkin olur (ara konaksız, doğrudan yumurtayla da bulaşabilir).
+*T. saginata* (A, sığır), *T. solium* (D, domuz) ve *D. latum* (E, balık) etle; *Fasciola* (C) su bitkisiyle bulaşır.
+@@
+@Q 2025-26 S27 | 4 KEZ | Çıktığı sınavlar: 2025-26 S27 · 2023-24 S27 · 2021-22 S21 · 2020-21 S32
+@K Megaloblastik anemiye sebep olabilen helmint aşağıdakilerden hangisidir?
+A) *Taenia solium*
+B) *Enterobius vermicularis*
+C) *Ascaris lumbricoides*
+D) *Diphyllobothrium latum* ✓
+E) *Trichuris trichura*
+D doğru. **Diphyllobothrium latum** (balık tenyası) B12 vitaminini bağırsakta tüketir ve **megaloblastik (pernisiyöz benzeri) anemi** yapar.
+*T. solium* (A), *Enterobius* (B) ve *Trichuris* (E) anemi tipiyle anılmaz; *Ascaris* (C) tıkanıklık yapar. (Çengelli kurtlar demir eksikliği anemisi yapar; megaloblastik olan *D. latum*'dur.)
+@@
+@Q 2025-26 S32 | 4 KEZ | Çıktığı sınavlar: 2025-26 S32 · 2024-25 S21 · 2023-24 S26 · 2021-22 S26
+@K Anamnezinde Uzakdoğu yemekleri yapan lokantalarda yemek yediği öğrenilen, karın ağrısı ve ishal yakınmaları ile başvuran bir hastanın dışkısından yapılan parazitolojik incelemede; kapaklı helmint yumurtaları görülüyor. Bu hastada öncelikle düşünülmesi gereken sestod aşağıdakilerden hangisidir?
+A) *Fasciola hepatica*
+B) *Hymenolepis nana*
+C) *Trichuris trichiura*
+D) *Ascaris lumbricoides*
+E) *Diphyllobothrium latum* ✓
+E doğru. Uzakdoğu yemekleri (çiğ balık) öyküsü ve dışkıda **kapaklı (operkulumlu) yumurta** balık tenyası **Diphyllobothrium latum**'u gösterir.
+*Fasciola* (A) bir trematoddur; *H. nana* (B) kapaksız yumurtalı cüce sestoddur; *Trichuris* (C) ve *Ascaris* (D) nematoddur. (5 kez çıktı; cevap *D. latum*'dur.)
+@@
+@Q 2024-25 S27 | 1 KEZ | Çıktığı sınavlar: 2024-25 S27
+@K Larva şekli *Cysticercus bovis* olan parazit aşağıdakilerden hangisidir?
+A) *Taenia solium*
+B) *Fasciola hepatica*
+C) *Diphyllobothrium latum*
+D) *Taenia saginata* ✓
+E) *Hymenolepis nana*
+D doğru. **Taenia saginata**'nın larva (kistik) formu sığırda gelişen **Cysticercus bovis**'tir; çiğ sığır etiyle bulaşır.
+*T. solium* (A) larvası *Cysticercus cellulosae* (domuz); *Fasciola* (B), *D. latum* (C) ve *H. nana* (E) bu kistik forma sahip değildir.
+@@
+@Q 2023-24 S25 | 2 KEZ | Çıktığı sınavlar: 2023-24 S25 · 2020-21 S6
+@K Sestodlar için doğru olmayan aşağıdakilerden hangisidir?
+A) Baş kısmına skoleks denir
+B) Gövdesini oluşturan segmentlerin adı proglottiddir
+C) Distal proglottidler yumurta içerir
+D) Barsak duvarına proglottidleri aracılığı ile tutunur ✓
+E) İnsanlara bulaşması iyi pişmemiş etlerdeki larvalarıdır
+D doğru (yanlış ifade). Sestodlar bağırsak duvarına **skoleksindeki (baş) vantuz ve çengellerle** tutunur, proglottidleriyle (halkalarıyla) değil.
+Baş kısmına skoleks denmesi (A), halkalara proglottid denmesi (B), distal proglottidlerin yumurta taşıması (C) ve bulaşın iyi pişmemiş etteki larvayla olması (E) doğrudur.
+@@
+@Q 2022-23 S24 | 2 KEZ | Çıktığı sınavlar: 2022-23 S24 · 2020-21 S17
+@K Kapaklı yumurtası olan aşağıdakilerden hangisidir?
+A) *Ancylostoma duodenale*
+B) *Schistosoma haematobium*
+C) *Hymenolepis nana*
+D) *Diphyllobothrium latum* ✓
+E) *Trichuris trichura*
+D doğru. **Diphyllobothrium latum** sestodların kapaklı (operkulumlu) yumurtaya sahip tek üyesidir (trematodların çoğu gibi).
+*Ancylostoma* (A), *Hymenolepis nana* (C) ve *Trichuris* (E) yumurtaları kapaksızdır; *Schistosoma haematobium* (B) yumurtası kapaksız, uç çengellidir. (2020-21 S17'de de cevap *D. latum*'dur.)
+@@
+@Q 2019-20 S21 | 1 KEZ | Çıktığı sınavlar: 2019-20 S21
+@K Aşağıdakilerden hangisi yerleşim yeri bağırsak olan trematodlardan biridir?
+A) *Fasciola hepatica*
+B) *Fasciola gigantica*
+C) *Fasciolopsis buski* ✓
+D) *Opisthorchis sinensis*
+E) *Dicrocoelium dendriticum*
+C doğru. **Fasciolopsis buski** bağırsak yerleşimli (dev bağırsak kelebeği) trematoddur.
+*Fasciola hepatica* (A), *F. gigantica* (B), *Opisthorchis/Clonorchis sinensis* (D) ve *Dicrocoelium* (E) karaciğer/safra yolu trematodlarıdır.
+@@
+@Q 2019-20 S23 | 1 KEZ | Çıktığı sınavlar: 2019-20 S23
+@K Cüce sestod aşağıdakilerden hangisidir?
+A) *Echinococcus granulosus*
+B) *Echinococcus alveolaris*
+C) *Trichuris trichura*
+D) *Enterobius vermicularis*
+E) *Hymenolepis nana* ✓
+E doğru. **Hymenolepis nana** en küçük (cüce) sestoddur; çocuklarda sık görülür, ara konaksız da bulaşabilir.
+*Echinococcus granulosus* (A) ve *E. alveolaris* (B) doku sestodlarıdır; *Trichuris* (C) ve *Enterobius* (D) nematoddur.
+@@

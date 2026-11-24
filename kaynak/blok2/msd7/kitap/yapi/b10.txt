@@ -1,5 +1,371 @@
-# Antihelmintik ve Antiprotozoal İlaçlar || Bölüm 10
+# Antihelmintik ve Antiprotozoal İlaçlar | Antihelmintik ilaçların etki mekanizmaları (benzimidazoller, nöromüsküler etkililer, prazikuantel, niklozamid, trematod ve filarya ilaçları) ve hangi parazitte kullanıldıkları. Antihelmintik ilaçlar sunumuna (S6) dayanır; 42 soruyla bu bölüm sınavın en kalabalık ikinci konusudur ve mekanizma eşleştirmesi her yıl birkaç kez sorulur. || Bölüm 10 · İlaçlar
+
+## Etki mekanizmasına göre antihelmintikler
+Antihelmintik soruları neredeyse tümüyle **“ilaç → mekanizma → felç tipi”** üçlüsüne iner. Felç iki türlüdür: **spastik (kasılmalı)** felç parazitin kasını sürekli kasar; **flask (gevşek)** felç kası gevşetir. İkisi de paraziti tutunamaz hâle getirip bağırsaktan atar.
+| İlaç grubu | Mekanizma | Felç/etki | Kullanım |
+| **Benzimidazoller** (mebendazol, albendazol, tiabendazol) | **mikrotübül (β-tubulin) polimerizasyonunu engeller**; glukoz alımını ve ATP'yi düşürür; fumarat redüktaz inhibisyonu | felç değil, enerji tüketimi | geniş spektrum: *Ascaris*, *Enterobius*, *Trichuris*, çengelli kurt; **albendazol kist hidatikte** |
+| **Pirantel pamoat** | **nikotinik reseptör agonisti** (depolarizan); asetilkolinesteraz inhibisyonu | **spastik felç** | *Ascaris*, *Enterobius*, çengelli kurt; gebede güvenli |
+| **Levamizol** | **nikotinik reseptör uyarısı** | **spastik felç** | nematod; **immünostimülan, kolon kanserinde** |
+| **Piperazin** | **GABA agonisti**, klor kanalını açar | **flask (gevşek) felç** | *Ascaris*; pirantelle **birlikte kullanılmaz** (zıt etkili) |
+| **İvermektin** | **glutamatla açılan klor kanalını açar** (GABA aracılı iletimi güçlendirir) | **flask felç** | *Strongyloides* (ilk tercih), filarya, uyuz |
+| **Prazikuantel** | **kalsiyum geçirgenliğini artırır** | **spastik felç**, tegüment hasarı | sestod ve trematodlar (geniş) |
+| **Niklozamid** | **oksidatif fosforilasyonu (anaerobik enerji) engeller** | ATP üretimi durur | bağırsak sestodları (*Taenia*, *D. latum*) |
+|= Antihelmintik ilaçların mekanizmaları. Spastik: pirantel, levamizol, prazikuantel. Flask: piperazin, ivermektin.
+?? **Felç tipleri: “Pirantel-Levamizol-Prazikuantel kasar (spastik); Piperazin-İvermektin gevşetir (flask).”** Pirantel ve piperazin **zıt** etkili olduğu için birlikte verilmez.
+?? **Benzimidazol = mikrotübül (tubulin) + fumarat redüktaz/asetilkolinesteraz; felç yapmaz, enerjiyi keser.** Niklozamid = oksidatif fosforilasyonu durdurur (asetilkolinesteraz inhibisyonu DEĞİL — bu bir çeldirici).
+
+## Nematod ilaçları
+- **Pirantel pamoat:** *Ascaris*, *Enterobius*, çengelli kurt (ve *Trichostrongylus*) ilk tercihlerinden; nikotinik agonist, spastik felç; **gebede güvenli**. **Strongyloides'e etkisizdir** (onun ilk tercihi ivermektin).
+- **Benzimidazoller:** mebendazol (*Ascaris*, *Enterobius*, *Trichuris*, çengelli kurt), **albendazol** (aynıları + **kist hidatik** ve sistemik enfeksiyon; lipofilik, iyi emilir; uzun kullanımda **karaciğer** izlenir), **tiabendazol** (en önemli endikasyonu **Strongyloides**). **Gebede kontrendike.** “Sistemik helmintiyazda mebendazol tercih edilir” **yanlıştır:** sistemik tutulumda albendazol tercih edilir (mebendazol kötü emilir).
+- **Levamizol:** nikotinik uyarı, spastik felç; immünostimülan, kolon kanserinde kullanılmış.
+- **Piperazin:** GABA agonisti, gevşek felç; *Ascaris*. Pirantelle birlikte verilmez.
+?? **Strongyloides ilk tercih = ivermektin** (mikrobiyoloji sunumu tiabendazol/albendazol dese de farmakolojide ivermektin). **Enterobius/Ascaris = mebendazol ya da pirantel; kist hidatik = albendazol.**
+
+## Sestod ilaçları
+- **Prazikuantel:** bağırsak sestodları (*Taenia saginata*, *T. solium*, *D. latum*, *H. nana*) için ilk tercih; **sistiserkoz ve nörosistiserkozda albendazol ile birlikte**. Kalsiyum girişini artırıp spastik felç ve tegüment hasarı yapar.
+- **Niklozamid:** bağırsak sestodlarında (özellikle *Taenia*) alternatif; emilmez, oksidatif fosforilasyonu durdurur. **Sistiserkozda kullanılmaz** (dokuya ulaşmaz).
+- *T. saginata*'da ilk tercihler **prazikuantel ve niklozamid**; metronidazol (bir antiprotozoal) **etkisizdir**.
+?? **Taenia = prazikuantel/niklozamid; sistiserkoz = prazikuantel + albendazol; kist hidatik = albendazol (prazikuantel etkisiz).**
+
+## Trematod ve filarya ilaçları
+- **Prazikuantel:** şistozomiyaz, *Paragonimus*, *Clonorchis*, *Opisthorchis* trematodlarında ilk tercih. **Kist hidatik (Echinococcus larvası) prazikuantele yanıt vermez.**
+- ***Fasciola hepatica*:** farmakolojide ilk tercih **triklabendazol** (hem erken hem geç dönem); bitionol alternatif. (Prazikuantel *Fasciola*'da zayıftır.) Bitionol mitokondriyal solunum zincirini engeller.
+- **Şistozomiyaz:** prazikuantel; ayrıca **metrifonat** (*S. haematobium*; **kolinesteraz inhibitörü**, ağızdan) ve **oksamnikin** (*S. mansoni*).
+- **Filarya** (*Wuchereria*, *Brugia*, *Loa loa*, *Onchocerca*): **dietilkarbamazin** ilk tercih (araşidonik asit metabolizmasını engeller, mikrofilaryaları öldürür); onkoserkiyazda **ivermektin**. Mikrofilaryaların ölümü **Mazzotti reaksiyonu** (kaşıntı, ateş, döküntü) yapar.
+!! Bazı soru kayıtlarında Mazzotti reaksiyonu niklozamidle eşleştirilmiş (2024-25 S10 anahtarı B); gerçekte Mazzotti reaksiyonu **dietilkarbamazin ve ivermektin** gibi filarya ilaçlarıyla, mikrofilaryaların ölümüyle ortaya çıkar. Sınavda anahtara dikkat edin.
+!! **Metrifonat kolinesteraz inhibitörüdür, ağızdan kullanılır ve gebelikte güvenli değildir;** “sadece parenteral kullanılır, gebelikte güvenle kullanılır” ve “kolinesterazı aktive eder” ifadeleri yanlıştır (soru bu yanlışları sorar).
+
+## Mekanizma eşleştirme tuzakları (sık sorulur)
+| Doğru eşleştirme | Sık verilen yanlış |
+| Prazikuantel → Ca²⁺ girişi ↑, **spastik** felç | “K⁺ geçirgenliğini azaltıp flask felç” (yanlış) |
+| İvermektin → klor kanalı, **flask** felç | — |
+| Niklozamid → **oksidatif fosforilasyon** inhibisyonu | “asetilkolinesteraz inhibisyonu ile spastik felç” (yanlış) |
+| Piperazin → GABA agonisti, klor kanalı, **flask** felç | — |
+| Benzimidazol → **mikrotübül** sentezi | — |
+|= Mekanizma eşleştirmesinin yanlış şıkları. Prazikuantel flask değil spastik; niklozamid asetilkolinesteraz değil oksidatif fosforilasyon.
+
+## Bölüm özeti
+- Benzimidazoller mikrotübülü bozar (geniş spektrum; albendazol kist hidatik, karaciğer izlenir). Pirantel ve levamizol nikotinik uyarıyla spastik felç; pirantel gebede güvenli, Strongyloides'e etkisiz.
+- Piperazin ve ivermektin flask felç yapar; pirantel + piperazin birlikte verilmez.
+- Prazikuantel (Ca²⁺ ↑, spastik) sestod-trematod geniş spektrum; niklozamid (oksidatif fosforilasyon) bağırsak sestodu; sistiserkoz = prazikuantel + albendazol; kist hidatik = albendazol.
+- *Fasciola* = triklabendazol; şistozomiyaz = prazikuantel/metrifonat/oksamnikin; filarya = dietilkarbamazin (Mazzotti reaksiyonu).
 
 ## Çıkmış sorular: Antihelmintik ve Antiprotozoal İlaçlar
 Bu bölümden 7 sınavda **42 soru** çıktı; bunlar **32 farklı soruya** karşılık geliyor ve **7 tanesi** birden fazla yıl soruldu. Her kartta sorunun en yeni hâli, sağ üstte kaç kez sorulduğu, kartın altında da çıktığı tüm sınavlar yazar. Rozeti koyu olanlar 3 ve daha fazla kez sorulmuş sorulardır.
 @QB Çıkmış sorular
+@Q 2025-26 S15 | 1 KEZ | Çıktığı sınavlar: 2025-26 S15
+@K 28 yaşında erkek bir hasta, son birkaç gündür karın ağrısı, iştahsızlık, zaman zaman bulantı, ayrıca da özellikle geceleri artan anal kaşıntı şikâyetleri ile aile hekimine başvuruyor. Hastanın 6 yaşındaki oğlunda da benzer şikâyetler olduğu öğreniliyor. Fizik muayenede belirgin patolojik bulgu yoktur ancak selofan bant testi pozitif sonuç verir ve mikroskobide *Enterobius vermicularis* yumurtaları görülür. Doktor, hastaya tek doz uygulanabilen, antikolinesteraz etkinliği ve nikotinik reseptör aktivasyonu ile parazitte kasılma ve spastik felç oluşturan bir ilaç reçetelemeyi planlıyor. Bu hasta için en uygun antiparaziter ilaç aşağıdakilerden hangisidir?
+A) Metronidazol
+B) Tiabendazol
+C) Praziquantel
+D) Pirantel pamoat ✓
+E) İvermektin
+D doğru. “Antikolinesteraz etkinlik ve nikotinik reseptör aktivasyonuyla spastik felç” tam olarak **pirantel pamoat**ı tanımlar; *Enterobius* (ve aile içi bulaşta) tek doz kullanılır, gebede de güvenlidir.
+Metronidazol (A) antiprotozoaldir; tiabendazol (B) *Strongyloides* içindir; prazikuantel (C) sestod-trematod ilacıdır; ivermektin (E) flask felç yapar.
+@@
+@Q 2025-26 S16 | 1 KEZ | Çıktığı sınavlar: 2025-26 S16
+@K 42 yaşında erkek bir hasta, son birkaç haftadır iştahsızlık, karın krampları ve zaman zaman dışkısında hareket eden beyaz şerit benzeri parçalar fark ettiğini belirterek polikliniğe başvuruyor. Hastanın mesleğinin kasaplık olduğu, sık sık çiğ veya az pişmiş sığır eti tattığını ifade ettiği öğreniliyor. Dışkı incelemesinde proglottid yapıları görülüyor ve mikroskobide yumurta morfolojisi *Taenia saginata* ile uyumlu bulunuyor. Hastaya, bağırsak lümenindeki erişkin tenyaları spastik paraliziye uğratarak ve bütünlüğünü bozarak etkisini gösteren, genellikle tek doz kullanılan bir ilaç başlanması planlanıyor. Bu hastanın tedavisinde ilk tercih edilmesi gereken ilaç aşağıdakilerden hangisidir?
+A) Piperazin
+B) Levamizol
+C) Bithionol
+D) Praziquantel ✓
+E) İvermektin
+D doğru. Bağırsak lümenindeki erişkin tenyayı **kalsiyum girişini artırarak spastik paraliziye** uğratan ve tegümentini bozan ilaç **prazikuantel**dir; *Taenia saginata*'da ilk tercihtir.
+Piperazin (A) ve ivermektin (E) flask felç yapan nematod ilaçlarıdır; levamizol (B) nematod içindir; bitionol (C) trematod ilacıdır.
+@@
+@Q 2025-26 S17 | 3 KEZ | Çıktığı sınavlar: 2025-26 S17 · 2021-22 S4 · 2020-21 S21
+@K Echinococcus granulosus* larvalarının neden olduğu kist hidatik hastalığında kullanılan antihelmintik ilaç aşağıdakilerden hangisidir?
+A) Albendazol ✓
+B) Levamizol
+C) Piperazin
+D) Oksamnikin
+E) Metrifonat
+A doğru. **Albendazol** lipofilik olup iyi emildiği için kist hidatik (*Echinococcus granulosus* larvası) gibi doku enfeksiyonlarında kullanılır.
+Levamizol (B), piperazin (C) nematod; oksamnikin (D) şistozomiyaz; metrifonat (E) *S. haematobium* ilacıdır. (Bazı yıl kayıtlarında şık harfi değişse de doğru ilaç albendazoldür.)
+@@
+@Q 2025-26 S18 | 1 KEZ | Çıktığı sınavlar: 2025-26 S18
+@K Aşağıdaki antihelmintik ilaç-etki mekanizması eşleşmesinden hangisi yanlıştır?
+A) Albendazol - sitoplazmik mikrotübül sentez inhibisyonu
+B) Prazikuantel - Potasyum geçirgenliğini azaltarak flask tipte felç oluşumu ✓
+C) Piperazin - GABA agonistik etki ve klor kanallarının açılması
+D) Niklozamid - Anaerobik metabolizma inhibisyonu
+E) İvermektin - GABA aracılı iletimin stimülasyonu ile flask tipte felç oluşumu
+B doğru (yanlış ifade). Prazikuantel **kalsiyum geçirgenliğini artırıp spastik felç** yapar; “potasyum geçirgenliğini azaltarak flask felç” tanımı yanlıştır.
+Albendazol-mikrotübül (A), piperazin-GABA/klor kanalı (C), niklozamid-anaerobik metabolizma (D) ve ivermektin-GABA/flask felç (E) doğru eşleşmelerdir.
+@@
+@Q 2025-26 S19 | 1 KEZ | Çıktığı sınavlar: 2025-26 S19
+@K 34 yaşında kadın bir hasta, yaklaşık iki haftadır süren sağ üst kadran ağrısı, ateş, halsizlik ve zaman zaman ortaya çıkan ürtiker benzeri cilt döküntüleri nedeniyle enfeksiyon hastalıkları polikliniğine başvuruyor. Hastanın öyküsünde, kırsal bölgede yaşadığı ve sık sık çiğ/iyi yıkanmamış su teresi tükettiği öğreniliyor. Laboratuvar sonuçlarında eozinofili dikkati çekiyor. Yapılan görüntülemede safra yollarında ektopik hareketli yapılar izleniyor ve serolojik testler *Fasciola hepatica* için pozitif bulunuyor. Hastaya, karaciğer ve safra yollarına yerleşen bu trematodun hem erken hem geç dönem enfeksiyonlarını tedavi edebilen, ilk tercih olarak kullanılan bir ilaç başlanması planlanmaktadır. Bu hastanın tedavisinde en uygun ilaç aşağıdakilerden hangisidir?
+A) Praziquantel
+B) Niklozamid
+C) Mebendazol
+D) Pirantel pamoat
+E) Triklabendazol ✓
+E doğru. Su teresiyle bulaşan, safra yollarına yerleşen *Fasciola hepatica*'nın hem erken hem geç dönemini tedavi eden ilk tercih **triklabendazol**dür.
+Prazikuantel (A) *Fasciola*'da zayıftır; niklozamid (B) ve mebendazol (C) sestod/nematod; pirantel (D) nematod ilacıdır.
+@@
+@Q 2025-26 S20 | 2 KEZ | Çıktığı sınavlar: 2025-26 S20 · 2020-21 S50
+@K Trematod enfestasyonunda kullanılan ilaçlarla ilgili aşağıdakilerden hangisi yanlıştır?
+A) Şistozomiyazis'de kullanılan başlıca ilaçlar Prazikuantel, Metrifonat ve Oksamnikin'dir.
+B) Bithionol parazit mitokondriyal solunum zincirini inhibe eder ve *Fasciola hepatica* tedavisinde kullanılır.
+C) Metrifonat kolinesteraz enzimini inhibe eder ve helmintlerde felç oluşturur.
+D) Prazikuantel *Paragonimus westermani* tedavisinde ilk tercihtir.
+E) İvermektin trematod enfestasyonunda kullanımı sıktır sadece parenteral yolla uygulanır ✓
+@O Diğer yıllarda doğru cevap: 2020-21 S50: **İvermektin trematod enfestasyonunda ilk tercih edilen ilaçtır.**.
+E doğru (yanlış ifade). İvermektin trematod ilacı değildir ve **ağızdan** kullanılır; “trematodda sık kullanılır, sadece parenteral uygulanır” ifadesi yanlıştır.
+Şistozomiyazda prazikuantel-metrifonat-oksamnikin (A), bitionolün *Fasciola*'da mitokondriyal solunumu engellemesi (B), metrifonatın kolinesteraz inhibisyonuyla felç yapması (C) ve prazikuantelin *Paragonimus*'ta ilk tercih olması (D) doğrudur. (2020-21 S50'de yanlış ifade “metrifonat kolinesterazı aktive eder”di; metrifonat kolinesterazı **inhibe** eder.)
+@@
+@Q 2024-25 S5 | 2 KEZ | Çıktığı sınavlar: 2024-25 S5 · 2021-22 S5
+@K Nematod enfestasyon tedavisinde kullanılan ilaçlar aşağıda verilenlerden hangisi yanlıştır?
+A) Pirantel pamoat *Askaris*, *Enterobius vermicularis* ve *Trikostrongilus* enfestasyonlarında tercih edilebilir.
+B) Benzimidazol türevleri olan Mebendazol, Albendazol gibi ilaçlar helmintlerin besin alışverişinde rol oynayan sitoplazmik mikrotübül sentezinin inhibisyonu ile glikoz uptake'i ve ATP üretimini engeller.
+C) Levamizol nikotonik reseptör stimülasyonu ile helmintte spastik felç yapar.
+D) Piperazin mitokondriyal fumarat redüktaz enzimi ve asetilkolinesteraz enzimini inhibe ederek etki gösterir. ✓
+E) Albendazol lipofilik olması nedeniyle mide barsak kanalından iyi şekilde absorbe edildiği için sistemik helmint infeksiyonlarında daha çok tercih edilir.
+@O Diğer yıllarda doğru cevap: 2021-22 S5: **Mebendazol**.
+D doğru (yanlış ifade). Piperazin **GABA agonisti** olup klor kanalını açar ve flask felç yapar; “mitokondriyal fumarat redüktaz ve asetilkolinesteraz inhibisyonu” aslında benzimidazollerin mekanizmasıdır.
+Pirantelin *Ascaris*/*Enterobius*/*Trichostrongylus*'ta kullanılması (A), benzimidazollerin mikrotübül sentezini bozup glukoz alımını engellemesi (B), levamizolün nikotinik uyarıyla spastik felç yapması (C) ve albendazolün lipofilik olup sistemik enfeksiyonda tercih edilmesi (E) doğrudur.
+@@
+@Q 2024-25 S6 | 3 KEZ | Çıktığı sınavlar: 2024-25 S6 · 2023-24 S3 · 2021-22 S6
+@K Trematod enfestasyonunda kullanılan ilaçlarla ilgili aşağıdakilerden hangisi yanlıştır?
+A) Şistozomiyazis'de kullanılan başlıca ilaçlar Prazikuantel, Metronidazol ve Oksamnikin'dir.
+B) İvermektin'in trematod enfestasyonunda kullanımı yoktur.
+C) Bithionol parazit mitokondriyal solunum zincirini inhibe eder ve *Fasciola hepatica* tedavisinde kullanılır
+D) Metrifonat sadece parenteral kullanılır ve gebelikte güvenle kullanılabilir ✓
+E) Prazikuantel helmintlerde spastik felç yapar
+@O Diğer yıllarda doğru cevap: 2023-24 S3: **Metrifonat sadece parenteral kullanılır ve kolinesteraz enzimini aktive eder**; 2021-22 S6: **Metrifonat helmintlerde kolinesteraz enzimini aktive eder ve *Schistosoma haematobium*'a karşı etkisizdir**.
+D doğru (yanlış ifade). **Metrifonat ağızdan** kullanılır ve kolinesteraz inhibitörü olduğu için **gebelikte güvenli değildir**; “sadece parenteral kullanılır ve gebelikte güvenle kullanılabilir” yanlıştır.
+Şistozomiyaz ilaçları (A), ivermektinin trematodda kullanılmaması (B), bitionolün *Fasciola*'da mitokondriyal solunumu engellemesi (C) ve prazikuantelin spastik felç yapması (E) doğrudur. (2023-24 S3'te yanlış ifade “ivermektinin trematodda kullanımı yoktur” diye farklı bir şıkka kaymış olsa da standart yanlış ifade metrifonatla ilgilidir.)
+@@
+@Q 2024-25 S7 | 1 KEZ | Çıktığı sınavlar: 2024-25 S7
+@K Aşağıdaki ilaçlardan hangisi *Taenia saginata* enfestasyon tedavisinde tercih edilmez?
+A) Niklozamid
+B) Prazikuantel
+C) Albendazol
+D) Mebendazol
+E) Metronidazol ✓
+E doğru. **Metronidazol** bir antiprotozoal/antianaerobdur; sestod *Taenia saginata*'da etkisizdir.
+Niklozamid (A) ve prazikuantel (B) *T. saginata*'nın ilk tercihleridir; albendazol (C) ve mebendazol (D) de etkili olabilir.
+@@
+@Q 2024-25 S8 | 2 KEZ | Çıktığı sınavlar: 2024-25 S8 · 2023-24 S4
+@K Aşağıdaki antihelmintik ilaç-etki mekanizması eşleşmesinden hangisi yanlıştır?
+A) Tiabendazol: sitoplazmik mikrotübül sentez inhibisyonu
+B) Piperazin: GABA agonistik etki ve klor kanallarının açılması
+C) Niklozamid: asetilkolinesteraz enziminin inhibisyonu ile spastik felç oluşumu ✓
+D) İvermektin: GABA aracılı iletimin stimülasyonu ile flask tipte felç oluşumu
+E) Prazikuantel: kalsiyum geçirgenliğini arttırarak spastik felç oluşumu
+@O Diğer yıllarda doğru cevap: 2023-24 S4: **Niklozamid - asetilkolinesteraz enziminin inhibisyonu ile spastik felç**.
+C doğru (yanlış ifade). Niklozamid **oksidatif fosforilasyonu (anaerobik enerji üretimini) engeller**; “asetilkolinesteraz inhibisyonuyla spastik felç” tanımı ona ait değildir.
+Tiabendazol-mikrotübül (A), piperazin-GABA/klor (B), ivermektin-GABA/flask felç (D) ve prazikuantel-kalsiyum/spastik felç (E) doğru eşleşmelerdir.
+@@
+@Q 2024-25 S9 | 2 KEZ | Çıktığı sınavlar: 2024-25 S9 · 2023-24 S6
+@K Ascaris lumbricoides*, *Enterobius vermicularis*, *Ancylostoma duodenale* enfestasyonlarında ve kist hidatik tedavisinde kullanılan bir ilaçtır:
+A) Dietilkarbamazin
+B) Albendazol ✓
+C) Niklozamid
+D) Metrifonat
+E) Prazikuantel
+B doğru. **Albendazol** hem bu bağırsak nematodlarında hem de kist hidatikte kullanılan geniş spektrumlu benzimidazoldür.
+Dietilkarbamazin (A) filarya, niklozamid (C) sestod, metrifonat (D) ve prazikuantel (E) trematod ilacıdır (prazikuantel kist hidatikte etkisizdir).
+@@
+@Q 2024-25 S10 | 1 KEZ | Çıktığı sınavlar: 2024-25 S10
+@K Filariyasis tedavisinde mikroflaryaların ölümünden kaynaklanan Mazotti reaksiyonu aşağıdaki ilaçların hangisi ile ortaya çıkması beklenir?
+A) İvermektin ✓
+B) Niklozamid
+C) Pirantel pamoat
+D) Metronidazol
+E) Prazikuantel
+@O Bu yılki kayıtta anahtar niklozamidi (B) işaretlemiş; bu büyük olasılıkla hatalıdır. Mazzotti reaksiyonu mikrofilaryaların ölümüyle çıkar ve dietilkarbamazin/ivermektin gibi filarya ilaçlarıyla görülür; şıklar içinde buna uyan ivermektindir.
+Doğrusu ivermektin (A). **Mazzotti reaksiyonu** (kaşıntı, ateş, döküntü, lenf bezi şişmesi) filaryazda mikrofilaryaların toplu ölümüyle ortaya çıkar; dietilkarbamazin ve ivermektin bu reaksiyonu tetikler.
+Niklozamid (B) sestod, pirantel (C) nematod, metronidazol (D) antiprotozoal, prazikuantel (E) trematod/sestod ilacıdır; filarya tedavisiyle ilişkili değildir.
+@@
+@Q 2023-24 S1 | 3 KEZ | Çıktığı sınavlar: 2023-24 S1 · 2021-22 S2 · 2020-21 S34
+@K Hangisi *Taenia saginata* enfestasyonlarında en fazla tercih edilen antihelmintik ilaçtır?
+A) İvermektin, Metrifonat
+B) Pirantel pamoat, Dietilkarbamazin
+C) Dietilkarbamazin, Tiyabendazol
+D) Piperazin, Pirantel pamoat
+E) Niklozamid, Praziquantel ✓
+@O Diğer yıllarda doğru cevap: 2021-22 S2: **Prazikuantel**; 2020-21 S34: **Niklozamid**.
+E doğru. **Niklozamid ve prazikuantel** *Taenia saginata* enfeksiyonunda en çok tercih edilen ilaçlardır.
+Diğer şıklardaki ivermektin, metrifonat, dietilkarbamazin, tiabendazol, piperazin ve pirantel (A-D) nematod ya da filarya ilaçlarıdır, bağırsak sestodunda ilk tercih değildir.
+@@
+@Q 2023-24 S2 | 1 KEZ | Çıktığı sınavlar: 2023-24 S2
+@K Antihelmintik tedavide kullanılan piperazin ile mekanizması yönünden değerlendirildiğinde aşağıdaki ilaçlardan hangisi ile kombine kullanılmamalıdır?
+A) İvermektin
+B) Metronidazol
+C) Bithionol
+D) Niklozamid
+E) Pirantel pamoat ✓
+E doğru. Piperazin flask (gevşek) felç, pirantel pamoat spastik (kasılmalı) felç yapar; **zıt mekanizmalı** oldukları için birlikte verildiklerinde birbirlerinin etkisini azaltır.
+İvermektin (A), metronidazol (B), bitionol (C) ve niklozamid (D) ile böyle doğrudan bir antagonizma tanımlanmaz.
+@@
+@Q 2023-24 S5 | 1 KEZ | Çıktığı sınavlar: 2023-24 S5
+@K Enterobius vermicularis* tanısı konulan 7 yaşındaki erkek hastaya tedavide aşağıdaki ilaçlardan hangisi başlanmalıdır?
+A) Bithionol
+B) Oksamnikin
+C) Prazikuantel
+D) Dietilkarbamazin
+E) Mebendazol ✓
+E doğru. **Mebendazol** *Enterobius vermicularis*'in ilk tercih tedavisidir (pirantel pamoat da kullanılabilir); 2 hafta sonra doz tekrarlanır.
+Bitionol (A) ve oksamnikin (B) trematod, prazikuantel (C) sestod-trematod, dietilkarbamazin (D) filarya ilacıdır.
+@@
+@Q 2022-23 S5 | 1 KEZ | Çıktığı sınavlar: 2022-23 S5
+@K Aşağıdakilerden hangisi hücre içine kalsiyum iyonu girişini arttırarak spastik felç oluşturan sestod ve trematod ilacıdır?
+A) Levamizol
+B) İvermektin
+C) Piperazin
+D) Prazikuantel ✓
+E) Pirantel pamoat
+D doğru. **Prazikuantel** parazitin tegümentinde kalsiyum geçirgenliğini artırıp spastik felç ve örtü hasarı yapar; sestod ve trematodlarda geniş spektrumludur.
+Levamizol (A) ve pirantel (E) nematod, ivermektin (B) flask felç, piperazin (C) GABA agonistidir.
+@@
+@Q 2022-23 S6 | 1 KEZ | Çıktığı sınavlar: 2022-23 S6
+@K Aşağıdakilerden hangisi nikotonik reseptör stimülasyonu ile helmintte spastik felç yapan, immünostimülan etkili ve kolon kanseri tedavisinde kullanılan ilaçtır?
+A) Pirantel pamoat
+B) Prazikuantel
+C) Piperazin
+D) İvermektin
+E) Levamizol ✓
+E doğru. **Levamizol** nikotinik reseptör uyarısıyla spastik felç yapar; ayrıca immünostimülan etkisiyle kolon kanseri tedavisinde kullanılmıştır.
+Pirantel (A) de nikotinik agonisttir ama immünostimülan/kanser kullanımı yoktur; prazikuantel (B) sestod-trematod, piperazin (C) GABA agonisti, ivermektin (D) flask felç ilacıdır.
+@@
+@Q 2022-23 S7 | 1 KEZ | Çıktığı sınavlar: 2022-23 S7
+@K Aşağıdakilerden hangisi nematod ve sestodlara karşı kullanılır?
+A) Piperazin
+B) Albendazol ✓
+C) Metrifonat
+D) Mebendazol
+E) Metronidazol
+B doğru. **Albendazol** geniş spektrumludur; nematodların yanı sıra sestodlara (ve kist hidatike) da etkilidir.
+Piperazin (A) ve mebendazol (D) ağırlıkla nematod; metrifonat (C) trematod; metronidazol (E) antiprotozoal ilaçtır.
+@@
+@Q 2022-23 S8 | 1 KEZ | Çıktığı sınavlar: 2022-23 S8
+@K Aşağıdakilerden hangisi *Wuchereria bancrofti*, *Brugia malayi* ve *Loa loa*'ya karşı ilk tercih edilen ilaçtır?
+A) Albendazol
+B) Oksamnikin
+C) Metronidazol
+D) Tetrakloretilen
+E) Dietilkarbamazin sitrat ✓
+E doğru. **Dietilkarbamazin sitrat** lenfatik filaryaz (*Wuchereria bancrofti*, *Brugia malayi*) ve *Loa loa*'da ilk tercihtir; mikrofilaryaların araşidonik asit metabolizmasını bozup onları öldürür.
+Albendazol (A) yardımcı, oksamnikin (B) şistozomiyaz, metronidazol (C) antiprotozoal, tetrakloretilen (D) eski bir nematod ilacıdır.
+@@
+@Q 2022-23 S9 | 1 KEZ | Çıktığı sınavlar: 2022-23 S9
+@K Aşağıdakilerden hangisi mikrotübül polimerizasyonunu inhibe eden antihelmintik ilaçtır?
+A) Mebendazol ✓
+B) Metronidazol
+C) Levamizol
+D) Niklozamid
+E) İvermektin
+A doğru. **Mebendazol** bir benzimidazoldür; parazitin β-tubulinine bağlanıp mikrotübül polimerizasyonunu engeller, glukoz alımını ve ATP'yi düşürür.
+Metronidazol (B) antiprotozoal, levamizol (C) nikotinik agonist, niklozamid (D) oksidatif fosforilasyon inhibitörü, ivermektin (E) klor kanalı açıcısıdır.
+@@
+@Q 2022-23 S10 | 1 KEZ | Çıktığı sınavlar: 2022-23 S10
+@K Aşağıdakilerden hangisi parazitin çizgili kaslarında nikotinik reseptörlerde stimülasyon yaparak spastik felç yapan gebelerde güvenli nematod ilacıdır?
+A) Metrifonat
+B) Mebendazol
+C) Oksamnikin
+D) Prazikuantel
+E) Pirantel pamoat ✓
+E doğru. **Pirantel pamoat** çizgili kasta nikotinik reseptörleri uyarıp spastik felç yapar; emilimi düşük olduğu için **gebede güvenli** kabul edilir.
+Metrifonat (A) trematod, mebendazol (B) gebede kontrendike benzimidazol, oksamnikin (C) şistozomiyaz, prazikuantel (D) sestod-trematod ilacıdır.
+@@
+@Q 2021-22 S1 | 1 KEZ | Çıktığı sınavlar: 2021-22 S1
+@K Filariyazis tedavisinde kullanılan ivermektinin etki mekanizması aşağıdakilerden hangisidir?
+@A GABA aracılı iletimin stimülasyonu ile helmintlerde spastik (flask) felç oluşturur
+Cevap: GABA aracılı iletimin uyarılmasıyla flask (gevşek) felç. İvermektin parazitin glutamatla açılan klor kanallarını açar; klor girişi hücreyi hiperpolarize eder ve kas gevşer (flask felç).
+@@
+@Q 2021-22 S3 | 1 KEZ | Çıktığı sınavlar: 2021-22 S3
+@K Aşağıdaki ilaçlardan hangisi *Ascaris lumbricoides* enfestasyonunda tercih edilen ilaçtır?
+@A Pirantel pamoat
+Cevap: pirantel pamoat. *Ascaris lumbricoides*'te pirantel pamoat etkili ilk tercih ilaçlardandır; nikotinik uyarıyla spastik felç yapıp paraziti bağırsaktan atar.
+@@
+@Q 2020-21 S4 | 1 KEZ | Çıktığı sınavlar: 2020-21 S4
+@K Filariasis tedavisinde kullanılan ve gama aminobutirik asit (GABA) aracılı iletimin stimülasyonu ile flask tipte felç yapan antihelmintik ilaç aşağıdakilerden hangisidir?
+A) Prazikuantel
+B) Niklozamid
+C) Dietilkarbamazin
+D) Albendazol
+E) İvermektin ✓
+E doğru. **İvermektin** GABA/glutamat aracılı klor iletimini güçlendirip flask felç yapar; onkoserkiyaz ve lenfatik filaryazda kullanılır.
+Prazikuantel (A) spastik felç, niklozamid (B) enerji inhibisyonu, dietilkarbamazin (C) araşidonik asit yolu, albendazol (D) mikrotübül mekanizmasıyla etki eder.
+@@
+@Q 2020-21 S10 | 1 KEZ | Çıktığı sınavlar: 2020-21 S10
+@K Benzimidazol türevi antihelmintik ilaçlar için aşağıdakilerden hangisi yanlıştır?
+A) Helmintlerde fumarat redüktaz ve asetilkolinesteraz enzim inhibisyonu yaparlar.
+B) Mebendazol, Askaris ve Oksiyuris tedavisinde kullanılır.
+C) Sistemik helmintiyaziste Mebendazol daha çok tercih edilir. ✓
+D) Tiabendazol en önemli endikasyonu *Strongyloides stercoralis* enfeksiyonudur.
+E) Gebelerde kontraendikedir.
+C doğru (yanlış ifade). “Sistemik helmintiyazda mebendazol daha çok tercih edilir” yanlıştır: mebendazol bağırsaktan az emildiği için **sistemik tutulumda albendazol** tercih edilir.
+Benzimidazollerin fumarat redüktaz ve asetilkolinesteraz inhibisyonu (A), mebendazolün *Ascaris*/oksiyurda kullanımı (B), tiabendazolün *Strongyloides* endikasyonu (D) ve gebede kontrendike olmaları (E) doğrudur.
+@@
+@Q 2020-21 S35 | 1 KEZ | Çıktığı sınavlar: 2020-21 S35
+@K Aşağıdaki ilaçların hangisi helmintlerin sitoplazmik mikrotübül sentezinin inhibisyonunu sağlayarak etkinlik gösterir?
+A) Albendazol ✓
+B) Levamizol
+C) Piperazin
+D) Metronidazol
+E) Pirantel pamoat
+A doğru. **Albendazol** benzimidazol olarak parazitin sitoplazmik mikrotübül sentezini (β-tubulin polimerizasyonunu) engeller.
+Levamizol (B) ve pirantel (E) nikotinik agonist, piperazin (C) GABA agonisti, metronidazol (D) antiprotozoaldir.
+@@
+@Q 2019-20 S5 | 1 KEZ | Çıktığı sınavlar: 2019-20 S5
+@K Pirantel pamoat aşağıdaki enfestasyonların hangisinde etkisizdir?
+A) *Ascaris lumbricoides*
+B) *Strongyloides stercoralis* ✓
+C) *Enterobius vermicularis*
+D) *Necator americanus*
+E) *Ancylostoma duodenale*
+B doğru. **Pirantel pamoat** *Strongyloides stercoralis*'te etkisizdir; bu parazitin tedavisinde ivermektin (ya da tiabendazol/albendazol) kullanılır.
+*Ascaris* (A), *Enterobius* (C), *Necator* (D) ve *Ancylostoma* (E) pirantel pamoata yanıt verir.
+@@
+@Q 2019-20 S6 | 1 KEZ | Çıktığı sınavlar: 2019-20 S6
+@K Taenia solium* larvaları tarafından oluşturulan sistiserkoz tedavisinde aşağıdaki hangi iki antihelmintik ilaç etkilidir?
+A) Niklozamid ve İvermektin
+B) Prazikuantel ve Albendazol ✓
+C) Dietilkarbamazin ve Albendazol
+D) Niklozamid ve Mebendazol
+E) Levamizol ve Tiyabendazol
+B doğru. Doku tutulumu olan **sistiserkozda prazikuantel ve albendazol** (dokuya geçen ilaçlar) birlikte/tercihen kullanılır.
+Niklozamid (A, D) yalnız lümendeki erişkin tenyaya etkilidir, dokuya geçmez; dietilkarbamazin (C) filarya, levamizol-tiabendazol (E) nematod ilacıdır.
+@@
+@Q 2019-20 S7 | 1 KEZ | Çıktığı sınavlar: 2019-20 S7
+@K Aşağıdaki hangi iki ilaç nematod tedavisinde kullanılan nikotinik kolinerjik aşırımı güçlendirerek etki eder?
+A) İvermektin ve Suramin
+B) İvermektin ve Dietilkarbamazin
+C) Pirantel pamoat ve Levamisol ✓
+D) Pirantel pamoat ve Albendazol
+E) Pirantel pamoat ve Piperazin
+C doğru. **Pirantel pamoat ve levamizol** nikotinik reseptörleri uyarıp (kolinerjik iletiyi güçlendirip) spastik felç yapar.
+İvermektin (A, B) ve piperazin (E) flask felç yapar; albendazol (D) mikrotübül mekanizmasıyla etki eder; bunlar nikotinik uyarı yapmaz.
+@@
+@Q 2019-20 S8 | 1 KEZ | Çıktığı sınavlar: 2019-20 S8
+@K Mikrofilaryalarda araşidonik asit metabolizmasını inhibe eden antihelmintik ilaç aşağıdakilerden hangisidir?
+A) Mebendazol
+B) Dietilkarbamazin ✓
+C) Praziquantel
+D) Oksamnikuin
+E) İvermektin
+B doğru. **Dietilkarbamazin** mikrofilaryaların araşidonik asit metabolizmasını bozarak onları hareketsiz ve konak savunmasına açık hâle getirir.
+Mebendazol (A) mikrotübül, prazikuantel (C) kalsiyum, oksamnikin (D) şistozomiyaz, ivermektin (E) klor kanalı mekanizmasıyla etki eder.
+@@
+@Q 2019-20 S9 | 1 KEZ | Çıktığı sınavlar: 2019-20 S9
+@K Uzun süreli albendazol tedavisi altındaki hastada yan etki açısından hangi organ yakından izlenmelidir?
+A) Göz
+B) Böbrek
+C) Karaciğer ✓
+D) Periferik sinirler
+E) Lenf bezleri
+C doğru. **Albendazol** karaciğerde metabolize edilir; uzun süreli kullanımda (ör. kist hidatik) karaciğer enzimleri ve karaciğer işlevi yakından izlenir; ayrıca kemik iliği baskılanması açısından da dikkat gerekir.
+Göz (A), böbrek (B), periferik sinirler (D) ve lenf bezleri (E) öncelikli izlem hedefi değildir.
+@@
+@Q 2019-20 S10 | 1 KEZ | Çıktığı sınavlar: 2019-20 S10
+@K Aşağıdaki helmintik enfeksiyonların hangisinde prazikuantel tedavisine yanıt yoktur?
+A) Paragonimiyazis
+B) Domuz tenyası enfeksiyonu
+C) Şistozomiyazis
+D) Hidatik hastalık ✓
+E) Opistorkiyazis
+D doğru. **Kist hidatik** (hidatik hastalık, *Echinococcus* larvası) prazikuantele yanıt vermez; tedavisinde albendazol (gerekirse cerrahi/PAIR) kullanılır.
+Paragonimiyaz (A), domuz tenyası (B), şistozomiyaz (C) ve opistorkiyaz (E) prazikuantele yanıt verir.
+@@

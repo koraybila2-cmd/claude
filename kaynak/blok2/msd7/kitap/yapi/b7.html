@@ -1,0 +1,455 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title></title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --color-bg: #f3f2f2;
+    --color-text: #201e1d;
+    --color-accent: #0088b0;
+    --color-accent-700: color-mix(in oklch, #0088b0, black 35%);
+    --color-accent-900: color-mix(in oklch, #0088b0, black 55%);
+    --color-accent-2: #d6006c;
+    --color-accent-2-900: color-mix(in oklch, #d6006c, black 45%);
+    --color-neutral-700: #57534e;
+    --font-heading: "Source Serif 4", Georgia, "Times New Roman", serif;
+    --font-body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  }
+  @page { size: A4; margin: 24mm 20mm 24mm 20mm; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); }
+  a { color: var(--color-accent-700); }
+  .book-page { max-width: 100%; }
+  .book-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 16px 0; }
+  .book-title { font-family: var(--font-heading); font-size: 2.3rem; line-height: 1.15; font-weight: 700; margin: 0 0 12px 0; }
+  .book-byline { font-style: italic; color: var(--color-neutral-700); font-size: 0.92rem; margin: 0 0 40px 0; }
+  .book-section { margin: 0 0 32px 0; }
+  .book-h2 { font-family: var(--font-heading); font-size: 1.3rem; font-weight: 700; margin: 0 0 12px 0; break-after: avoid; }
+  .book-h3 { font-family: var(--font-heading); font-size: 1.08rem; font-weight: 700; margin: 18px 0 8px 0; break-after: avoid; }
+  .book-p { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; text-align: justify; hyphens: auto; }
+  .book-list { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; padding-left: 1.3em; }
+  .book-list li { margin-bottom: 5px; }
+  .tag { display: inline-block; font-size: 10.5px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 9px; border-radius: 2px; }
+  .tag-accent-2 { background: color-mix(in oklch, var(--color-accent-2) 14%, white); color: var(--color-accent-2-900); }
+  .highlight-tag { margin-bottom: 8px; break-inside: avoid; }
+  .highlight-p { font-size: 0.98rem; line-height: 1.65; color: var(--color-accent-2-900); margin: 0 0 12px 0; break-inside: avoid; }
+  .cite { font-style: italic; color: var(--color-neutral-700); }
+  table.table { width: 100%; border-collapse: collapse; font-size: 0.86rem; margin: 4px 0 16px 0; break-inside: avoid; }
+  table.table th { text-align: left; font-family: var(--font-heading); font-weight: 700; border-bottom: 1.5px solid var(--color-text); padding: 6px 10px 6px 0; }
+  table.table td { border-bottom: 1px solid color-mix(in oklch, var(--color-text) 15%, white); padding: 7px 10px 7px 0; vertical-align: top; }
+  .chart-figure { margin: 4px 0 16px 0; break-inside: avoid; }
+  .chart-caption { font-size: 0.82rem; color: var(--color-neutral-700); margin-top: 8px; font-style: italic; text-align: left; }
+  .qa-list { display: flex; flex-direction: column; gap: 14px; margin-top: 14px; }
+  .card { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 16px 20px; break-inside: avoid; }
+  .card-kicker { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 4px; }
+  .card-title { font-family: var(--font-heading); font-weight: 700; font-size: 1rem; margin-bottom: 8px; }
+  .card-body { font-size: 0.93rem; line-height: 1.6; }
+  .card-body p { margin: 0 0 8px 0; }
+  .card-body .opt-correct { color: var(--color-accent-700); font-weight: 700; }
+  .card-source { font-size: 0.8rem; font-style: italic; color: var(--color-neutral-700); margin-top: 8px; }
+  .card-dispute { font-size: 0.85rem; background: color-mix(in oklch, var(--color-accent-2) 8%, white); padding: 8px 12px; border-radius: 2px; margin-top: 8px; }
+  .chapter { break-before: page; }
+  .chapter-first { break-before: auto; }
+  .chapter-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 6px 0; }
+  .chapter-title { font-family: var(--font-heading); font-size: 1.75rem; line-height: 1.2; font-weight: 700; margin: 0 0 8px 0; break-after: avoid; }
+  .chapter-lead { font-style: italic; color: var(--color-neutral-700); font-size: 0.95rem; line-height: 1.6; margin: 0 0 26px 0; }
+  .book-h4 { font-family: var(--font-heading); font-size: 0.98rem; font-weight: 700; font-style: italic; margin: 14px 0 6px 0; break-after: avoid; }
+  ol.book-list { padding-left: 1.5em; }
+  .toc { list-style: none; padding: 0; margin: 0 0 12px 0; font-size: 0.98rem; line-height: 1.7; }
+  .toc li { margin: 0 0 4px 0; }
+  .toc .toc-sub { color: var(--color-neutral-700); font-size: 0.88rem; display: block; margin-left: 1.2em; }
+  .cover-note { font-size: 0.92rem; line-height: 1.6; color: var(--color-neutral-700); margin: 0 0 14px 0; }
+  .keybox { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 14px 18px; margin: 6px 0 16px 0; break-inside: avoid; }
+  .keybox-title { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 6px; font-weight: 700; }
+  .keybox ul { margin: 0; padding-left: 1.2em; font-size: 0.92rem; line-height: 1.6; }
+  .keybox li { margin-bottom: 3px; }
+  .card-title .opts { display: block; font-weight: 400; font-family: var(--font-body); font-size: 0.93rem; margin-top: 6px; line-height: 1.55; }
+  table.table.compact { font-size: 0.8rem; }
+  sub, sup { line-height: 0; }
+  @page { size: A4; margin: 22mm 20mm 20mm 20mm; background: #f3f2f2; }
+  .hl-block { break-inside: avoid; }
+  table.table.split { break-inside: auto; }
+  table.table.split tr { break-inside: avoid; }
+
+  /* --- Modul 5-6: cikmis soru odakli yapi --- */
+  .qblock { margin: 0 0 10px 0; break-after: avoid; }
+  .qblock-title { font-size: 10.5px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-accent-2-900); font-weight: 700; margin: 0 0 4px 0; }
+  .qblock-note { font-size: 0.84rem; line-height: 1.5; color: var(--color-neutral-700); font-style: italic; margin: 0 0 10px 0; }
+  .qcards { display: block; margin: 0 0 26px 0; }
+  .qcard { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 12px 16px 10px 16px; margin: 0 0 10px 0; break-inside: auto; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+  .q-head { display: flex; align-items: center; gap: 10px; margin-bottom: 2px; }
+  .q-no { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); font-weight: 700; }
+  .q-src { font-size: 0.74rem; color: var(--color-neutral-700); margin: 0 0 6px 0; line-height: 1.45; }
+  .q-src b { font-weight: 700; color: var(--color-text); }
+  .q-stem { font-family: var(--font-heading); font-weight: 700; font-size: 0.95rem; line-height: 1.45; margin: 0 0 4px 0; }
+  .q-list { margin: 2px 0 6px 0; padding-left: 1.2em; font-size: 0.88rem; line-height: 1.45; }
+  .q-opts { font-size: 0.88rem; line-height: 1.5; margin: 2px 0 6px 0; }
+  .q-opt { padding-left: 1.6em; text-indent: -1.6em; }
+  .q-opt.ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-ans { font-size: 0.86rem; margin: 2px 0 6px 0; }
+  .q-var { font-size: 0.82rem; font-style: italic; color: var(--color-neutral-700); line-height: 1.5; margin: 0 0 6px 0; }
+  .q-why { font-size: 0.86rem; line-height: 1.55; border-top: 1px solid color-mix(in oklch, var(--color-text) 10%, white); padding-top: 6px; }
+  .q-why p { margin: 0 0 5px 0; break-inside: avoid; }
+  .q-head, .q-src, .q-stem, .q-list { break-after: avoid; break-inside: avoid; }
+  .q-opts, .q-ans, .q-var { break-inside: avoid; }
+  .q-why .ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-why p:first-child > b:first-child { color: var(--color-accent-700); }
+  .q-var p { margin: 0 0 3px 0; }
+  .tag-soft { background: color-mix(in oklch, var(--color-accent) 12%, white); color: var(--color-accent-700); }
+  table.dizin td:first-child, table.surekli td:last-child { white-space: nowrap; }
+  table.dizin td:last-child { font-size: 0.72rem; color: var(--color-neutral-700); }
+  tr.dizin-bolum td { font-family: var(--font-heading); font-weight: 700; padding-top: 10px; border-bottom: 1.5px solid var(--color-text); }
+  td.sur { color: var(--color-accent-2-900); font-weight: 700; }
+  table.dizin td.sur { color: var(--color-accent-2-900); }
+  .sunumsuz { font-size: 0.86rem; background: color-mix(in oklch, var(--color-accent) 7%, white); padding: 8px 12px; border-radius: 2px; margin: 0 0 14px 0; }
+  .ref { font-size: 0.8em; color: var(--color-accent-700); font-weight: 700; white-space: nowrap; }
+
+  @page { size: A4; margin: 16mm 15mm 16mm 15mm; background: #f3f2f2; }
+  .book-p { font-size: 0.93rem; line-height: 1.55; margin: 0 0 9px 0; }
+  .book-list { font-size: 0.93rem; line-height: 1.5; }
+  .qcard { padding: 9px 13px 8px 13px; margin: 0 0 8px 0; }
+  .q-stem { font-size: 0.9rem; } .q-opts { font-size: 0.84rem; line-height: 1.4; }
+  .q-why p { font-size: 0.86rem; line-height: 1.48; }
+  .q-var { font-size: 0.78rem; }
+  .q-src { margin: 0 0 3px 0; }
+</style>
+</head>
+<body>
+<main class="book-page">
+<section class="chapter"><p class="chapter-kicker">Bölüm 7 · Protozoonlar</p><h2 class="chapter-title">Sindirim Sistemi Protozoonları</h2><p class="chapter-lead">Bağırsak protozoonlarının sınıfları (amipler, kamçılılar, kirpikliler, sporozoonlar), patojen ve apatojen ayrımı, Entamoeba histolytica ve amipli dizanteri, Giardia, Cryptosporidium ve diğer aside dirençli sporozoonlar, Balantidium ve tanı yöntemleri. Protozoon sunumuna (S5) dayanır; 43 soruyla sınavın en çok soru çıkan ikinci bölümüdür.</p>
+<h3 class="book-h3">Sınıflama ve hareket organelleri</h3>
+<p class="book-p">Bağırsak protozoonları hareket organellerine göre dört gruba ayrılır. Hangi organelin hangi parazitte olduğu doğrudan sorulur.</p>
+<table class="table compact split"><thead><tr><th>Grup</th><th>Hareket</th><th>Örnekler</th></tr></thead><tbody>
+<tr><td><strong>Amipler (kök ayaklılar)</strong></td><td>yalancı ayak (psödopod)</td><td><em>Entamoeba histolytica</em>, <em>E. coli</em>, <em>E. dispar</em>, <em>Endolimax nana</em>, <em>Iodamoeba</em></td></tr>
+<tr><td><strong>Kamçılılar (flagellliler)</strong></td><td>kamçı (flagella)</td><td><em>Giardia intestinalis</em>, <em>Chilomastix mesnili</em>, <em>Dientamoeba fragilis</em>, <em>Trichomonas</em></td></tr>
+<tr><td><strong>Kirpikliler (silliler)</strong></td><td>kirpik (sil)</td><td><strong><em>Balantidium coli</strong></em> (insandaki tek kirpikli patojen)</td></tr>
+<tr><td><strong>Sporozoonlar (Apicomplexa)</strong></td><td>hareketsiz (olgun formda)</td><td><em>Cryptosporidium</em>, <em>Cyclospora</em>, <em>Cystoisospora (Isospora) belli</em>, <em>Toxoplasma</em>, <em>Sarcocystis</em></td></tr>
+</tbody></table>
+<p class="chart-caption">Protozoon sınıfları. <em>Strongyloides</em> bir <strong>nematoddur</strong> (helmint), sporozoon değildir.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Kirpikli = Balantidium; aside dirençli sporozoonlar = Crypto, Cyclospora, Isospora; amip = Entamoeba; kamçılı = Giardia.</strong></p></div>
+<h3 class="book-h3">Patojen ve apatojen protozoonlar</h3>
+<p class="book-p">Dışkıda görülen her protozoon hastalık yapmaz. Sınav sürekli “hangisini patojen saymazsınız / apatojendir” diye sorar. Bu ayrımı bilmek tedavi gereksiz yere verilmesini önler.</p>
+<table class="table compact split"><thead><tr><th>Patojen (ishal yapar)</th><th>Apatojen (tedavi gerekmez)</th></tr></thead><tbody>
+<tr><td><em>E. histolytica</em>, <em>Giardia</em>, <em>Cryptosporidium</em>, <em>Cyclospora</em>, <em>Cystoisospora</em>, <em>Balantidium</em>, <em>Dientamoeba fragilis</em>, mikrosporidia</td><td><em>Entamoeba coli</em>, <em>E. dispar</em>, <em>E. hartmanni</em>, <em>E. polecki</em>, <em>Endolimax nana</em>, <em>Iodamoeba butschlii</em>, <strong><em>Chilomastix mesnili</strong></em>, <em>Trichomonas hominis</em></td></tr>
+</tbody></table>
+<p class="chart-caption">Patojen-apatojen ayrımı. <em>Trichomonas hominis</em> ve <em>Chilomastix mesnili</em> ishal yapmaz; <em>E. dispar</em> <em>E. histolytica</em>'ya benzer ama apatojendir.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Apatojenler “koli-dispar-nana-iodamoeba-chilomastix”:</strong> bağırsakta bulunur ama hastalık yapmaz. <strong>En sık rastlanan amip = <em>Entamoeba coli</strong></em> (apatojen); patojenlerin en önemlisi <em>E. histolytica</em>.</p></div>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-accent-2">Sınav notu</span></p><p class="highlight-p"><em>Chilomastix mesnili</em>: gövde boyunca <strong>spiral yarığı (sitostom)</strong> olan, kamçılı, <strong>apatojen</strong> protozoon. “İshal yapması beklenmez” sorusunun cevabıdır ve bağırsak yerleşimli olmakla birlikte zararsızdır.</p></div>
+<h3 class="book-h3">Entamoeba histolytica</h3>
+<p class="book-p"><em>E. histolytica</em>, dışkı-ağız yoluyla alınan <strong>dört çekirdekli olgun kistle</strong> bulaşır; bağırsakta trofozoite dönüşür. En çarpıcı özelliği dokuyu eritmesidir:</p>
+<ul class="book-list">
+<li><strong>Patogenez:</strong> Trofozoitler <strong>kollajenaz ve nöraminidaz</strong> gibi enzimlerle kolon mukozasına penetre olur; submukozaya inince yüzeyi dar, altı geniş <strong>“şişe/matara ağzı” (dar ağızlı) ülserler</strong> yapar. Histolitik enzimleri nötrofilleri de eritir.</li>
+<li><strong>Trofozoit alyuvar içerir</strong> (eritrosit fagositozu); bu, patojen <em>E. histolytica</em>'yı apatojen türlerden ayıran mikroskopik bulgudur. Kisti dört çekirdeklidir.</li>
+<li><strong>Klinik:</strong> En sık tablo <strong>asemptomatik enfeksiyondur</strong> (olguların çoğu). Belirtili olanlarda amipli dizanteri (kanlı-mukuslu, <strong>ahududu jölesi</strong> dışkı, az lökosit), daha seyrek ameboma, fulminan kolit, toksik megakolon ve <strong>en sık bağırsak dışı tutulum olarak karaciğer absesi</strong> (erkeklerde daha sık). Peritonit gelişebilir.</li>
+<li><strong>Bulaştırıcılık en çok asemptomatik kist taşıyıcılarındadır:</strong> katı dışkıda bol dayanıklı kist atarlar; dizanterili hastanın sulu dışkısındaki trofozoit dış ortamda çabuk ölür.</li>
+<li><strong>Tanı:</strong> Dışkı mikroskobisi en sık yöntemdir; dizanteride trofozoit (alyuvarlı), taşıyıcıda kist görülür. <strong>Charcot-Leyden kristalleri</strong> bulunabilir. <em>E. histolytica</em> mikroskopik ve serolojik olarak apatojen <strong>E. dispar</strong> ile neredeyse aynıdır (çapraz reaksiyon); WHO'nun eski “yılda 5×10⁷ enfeksiyon” verisinin %90'ının aslında <em>E. dispar</em> olduğu anlaşılmıştır.</li>
+<li><strong>Tedavi:</strong> doku amibiyazında <strong>metronidazol</strong> (ardından lümen için paromomisin). Doksisiklin, kinolon gibi antibakteriyeller etkisizdir.</li>
+</ul>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-accent-2">Sınav notu</span></p><p class="highlight-p"><strong>Taşıyıcıda dışkıda kist bulunur, trofozoit değil;</strong> dizanteride trofozoit görülür. 2025-26 S22'de “taşıyıcıların dışkısında kist bulunmaz, trofozoit gösterilir” ifadesi <strong>yanlıştır</strong> (tersi doğrudur).</p></div>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong><em>E. histolytica</em> = alyuvar yiyen trofozoit + şişe ağzı ülser + karaciğer absesi (erkek) + metronidazol; en sık klinik asemptomatik.</strong></p></div>
+<p class="book-p"><em>E. coli</em> kistinin <strong>sekiz çekirdekli</strong> olması, onu dört çekirdekli <em>E. histolytica</em>'dan ayırır.</p>
+<h3 class="book-h3">Giardia intestinalis</h3>
+<p class="book-p"><em>Giardia</em> (lamblia), kamçılı bir protozoondur; <strong>armut/dut yaprağı biçiminde, iki çekirdekli trofozoiti “gülen yüz”e benzer</strong>. Duodenum ve jejunum mukozasına <strong>emici (vantuz) diskiyle</strong> tutunur, villusları kısaltır ve <strong>yağ emilimini bozar</strong>: sağ üst kadran ağrısı, şişkinlik, <strong>yağlı-köpüklü-kötü kokulu dışkı (steatore)</strong>, kilo kaybı, kronikte A-D-E-K vitamin eksikliği. Kolesistit ve pankreatit yapabilir ama <strong>karaciğere yerleşip bağırsak dışı kronik enfeksiyon yapmaz</strong> (bu <em>E. histolytica</em> ya da <em>Fasciola</em>'ya özgü, Giardia için yanlış ifadedir).</p>
+<ul class="book-list">
+<li>Bulaş dört çekirdekli kistle; kontamine su (dere, havuz) ve kreş.</li>
+<li><strong>Tanı:</strong> dışkıda nativ incelemede <strong>trofozoit (sulu dışkıda) ve kist (katı dışkıda)</strong> görülür; kolona inince trofozoit kiste döner, bu yüzden şekilli dışkıda çoğunlukla kist görülür. Duodenumdan örnek almak için <strong>“string test” (enterotest, ipli kapsül)</strong> kullanılır.</li>
+</ul>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Giardia = dut yaprağı/gülen yüz trofozoit + emici disk + yağlı ishal + string test; karaciğere gitmez.</strong></p></div>
+<h3 class="book-h3">Cryptosporidium ve aside dirençli sporozoonlar</h3>
+<p class="book-p">Üç sporozoon (<em>Cryptosporidium</em>, <em>Cyclospora</em>, <em>Cystoisospora/Isospora belli</em>) dışkıda <strong>aside dirençli (Kinyoun/modifiye Ziehl-Neelsen) boyamayla kırmızı ookist</strong> olarak görülür. Bu, parazitoloji sorularının en sık ayırt edici ipucudur.</p>
+<table class="table compact split"><thead><tr><th>Etken</th><th>Özellik</th><th>Tanı</th></tr></thead><tbody>
+<tr><td><strong><em>Cryptosporidium parvum</strong></em></td><td><strong>AIDS'te geçmeyen sulu ishalin önde gelen etkeni</strong>; su kaynaklı salgın (yüzme havuzu); <strong>intrasellüler ama ekstrasitoplazmik</strong> (hücre zarının hemen altında, sitoplazma dışında); az pişmiş değil, klora dirençli ookist</td><td><strong>dışkıda ARB (Kinyoun) boyama</strong>; küçük (~4-6 µm) kırmızı ookist</td></tr>
+<tr><td><strong><em>Cyclospora cayetanensis</strong></em></td><td>su ve taze ürün (çilek, marul); uzamış sulu ishal</td><td>dışkıda ARB; ~8-10 µm, UV'de otofloresan</td></tr>
+<tr><td><strong><em>Cystoisospora (Isospora) belli</strong></em></td><td>bağışıklığı baskılanmışta kronik ishal</td><td>dışkıda ARB; büyük (~25×15 µm), <strong>elipsoid, sporokistli ookist</strong></td></tr>
+</tbody></table>
+<p class="chart-caption">Aside dirençli boyanan üç bağırsak sporozoonu. Ookist boyutu Isospora &gt; Cyclospora &gt; Cryptosporidium.</p>
+<ul class="book-list">
+<li><strong>Böbrek/organ nakli ve AIDS gibi bağışıklığı baskılı hastada</strong> ishalin en sık protozoon etkeni <em>Cryptosporidium</em> (ve <em>Cyclospora</em>)'dur; derin dokuya yayılıp sistemik tutulum <strong>yapmaz</strong> (yüzeyde kalır).</li>
+<li>Yüzme havuzu dezenfeksiyonu bozulduğunda tek kaynaklı salgın yapan protozoon <em>Cryptosporidium</em>'dur (klora dayanıklı).</li>
+</ul>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Aside dirençli ookist = Crypto / Cyclospora / Isospora.</strong> AIDS + geçmeyen sulu ishal + kırmızı ookist = <em>Cryptosporidium</em>. Boyut: Isospora en büyük, Crypto en küçük.</p></div>
+<h3 class="book-h3">Balantidium coli</h3>
+<p class="book-p"><em>Balantidium coli</em>, insandaki <strong>tek patojen kirpikli (silli) protozoondur</strong>; <strong>en büyük insan protozoonu</strong>. <strong>Domuz</strong> ana kaynaktır. Basit ishalden şiddetli dizanteriye, hatta kolon ülseri ve peritonite kadar giden tablo yapar (amipli dizanteriye benzer ama kirpiklidir).</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Domuzdan bulaşan, kirpikli, dizanteri-peritonit yapan = Balantidium coli.</strong></p></div>
+<h3 class="book-h3">Bildirim ve genel tanı</h3>
+<ul class="book-list">
+<li><strong>Bildirimi zorunlu GİS yerleşimli protozoon enfeksiyonları Grup D'de</strong> yer alır.</li>
+<li>Parazitolojik tanının temeli <strong>dışkı mikroskobisidir</strong> (nativ-lugol, konsantrasyon). Sporozoonlar için <strong>aside dirençli (ARB/Kinyoun) boyama</strong>, <em>Giardia</em> için <strong>string test</strong>, bazıları için antijen/PCR kullanılır. Bağırsak protozoonları <strong>kültürle üretilmez</strong>.</li>
+<li><em>Dientamoeba fragilis</em> ve <em>Trichomonas hominis</em> gibi kamçılıların <strong>kist formu yoktur</strong>; yalnız trofozoit görülür (dışkı taze incelenmeli). Amiplerden <em>E. coli</em> kisti sekiz, <em>E. histolytica</em> kisti dört çekirdeklidir.</li>
+</ul>
+<h3 class="book-h3">Bölüm özeti</h3>
+<ul class="book-list">
+<li>Kirpikli patojen = <em>Balantidium</em> (domuz); amip = <em>Entamoeba</em>; kamçılı = <em>Giardia</em>; aside dirençli sporozoon = <em>Cryptosporidium</em>, <em>Cyclospora</em>, <em>Isospora</em>.</li>
+<li>Apatojenler: <em>E. coli</em> (en sık amip), <em>E. dispar</em> (histolytica'ya benzer), <em>Endolimax</em>, <em>Iodamoeba</em>, <em>Chilomastix</em>, <em>Trichomonas hominis</em>.</li>
+<li><em>E. histolytica</em>: alyuvarlı trofozoit, şişe ağzı ülser, karaciğer absesi, metronidazol; en sık asemptomatik; bulaştırıcı asemptomatik kist taşıyıcısı.</li>
+<li><em>Giardia</em>: dut yaprağı trofozoit, emici disk, yağlı ishal, string test; karaciğere gitmez.</li>
+<li><em>Cryptosporidium</em>: AIDS'te sulu ishal, intrasellüler-ekstrasitoplazmik, ARB boyama, havuz salgını.</li>
+<li><em>Dientamoeba</em> ve <em>Trichomonas</em>'ın kisti yok; <em>E. coli</em> kisti 8, <em>E. histolytica</em> kisti 4 çekirdekli.</li>
+</ul>
+<h3 class="book-h3">Çıkmış sorular: Sindirim Sistemi Protozoonları</h3>
+<p class="book-p">Bu bölümden 7 sınavda <strong>46 soru</strong> çıktı; bunlar <strong>43 farklı soruya</strong> karşılık geliyor ve <strong>2 tanesi</strong> birden fazla yıl soruldu. Her kartta sorunun en yeni hâli, sağ üstte kaç kez sorulduğu, kartın altında da çıktığı tüm sınavlar yazar. Rozeti koyu olanlar 3 ve daha fazla kez sorulmuş sorulardır.</p>
+<div class="qblock"><p class="qblock-title">Çıkmış sorular</p></div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S30</span><span class="tag tag-accent-2">3 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S30 · 2022-23 S35 · 2020-21 S24</div>
+<div class="q-stem">"Trofozoitler kollejenaz, nörominidaz enzimleriyle mukozaya penetre olur. Submukozaya inen trofozoitler dar ağızlı kraterler tarzında ülserler oluştururlar. Trofozoitlerin oluşturdukları histolitik enzimler nötrofilleri lizise uğratır." Virülans özellikleri yazılan patojen etken aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Iodamoeba butschlii</em></div><div class="q-opt"><b>B)</b> <em>Dientamoeba fragilis</em></div><div class="q-opt"><b>C)</b> <em>Naegleria fowleri</em></div><div class="q-opt"><b>D)</b> <em>Endolimax nana</em></div><div class="q-opt ok"><b>E)</b> <em>Entamoeba histolytica</em> ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> Dokuyu eriten enzimler (kollajenaz, nöraminidaz), submukozada <strong>dar ağızlı (şişe/matara) ülser</strong> ve nötrofillerin histolitik enzimlerle lizise uğratılması <em>Entamoeba histolytica</em>'nın virülans özellikleridir. (2022-23 ve 2020-21 varyantlarında şık harfi değişse de etken hep <em>E. histolytica</em>'dır.)</p><p><em>Iodamoeba</em> (A), <em>Endolimax</em> (D) apatojendir; <em>Dientamoeba</em> (B) doku invazyonu yapmaz; <em>Naegleria</em> (C) beyin enfeksiyonu (amipli meningoensefalit) yapar, bağırsak değil.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S34</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S34</div>
+<div class="q-stem">Entamoeba histolytica* patogenezi için aşağıdakilerden hangisi doğru değildir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Şişe tarzı dar ağızlı ülserler</div><div class="q-opt"><b>B)</b> Kolon mukozasına penetrasyon</div><div class="q-opt ok"><b>C)</b> Abse gelişimi kadınlarda daha sık görülür. ✓</div><div class="q-opt"><b>D)</b> Peritonit meydana gelebilir</div><div class="q-opt"><b>E)</b> En sık karaciğer amip abseleri meydana gelebilir</div></div>
+<div class="q-why"><p><strong>C doğru (yanlış ifade).</strong> Amip karaciğer absesi <strong>erkeklerde</strong> daha sıktır; “kadınlarda daha sık” yanlıştır.</p><p>Şişe tarzı dar ağızlı ülserler (A), kolon mukozasına penetrasyon (B), peritonit gelişebilmesi (D) ve en sık bağırsak dışı tutulumun karaciğer absesi olması (E) doğrudur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S28</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S28</div>
+<div class="q-stem">E. histolytica*'da en sık görülen klinik tablo aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Amipli dizanteri</div><div class="q-opt"><b>B)</b> Fulminan kolit</div><div class="q-opt"><b>C)</b> Ameboma</div><div class="q-opt"><b>D)</b> Toksik megakolon</div><div class="q-opt ok"><b>E)</b> Asemptomatik enfeksiyon ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> <em>E. histolytica</em> ile enfekte olanların çoğu <strong>belirtisizdir</strong>; yalnız bir azınlıkta amipli dizanteri ya da bağırsak dışı tutulum gelişir.</p><p>Amipli dizanteri (A), fulminan kolit (B), ameboma (C) ve toksik megakolon (D) daha seyrek görülen belirtili tablolardır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S36</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S36</div>
+<div class="q-stem">Entamoeba histolytica* bulaştırıcılığı aşağıdaki hastalardan hangisinde en fazla görülür?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> Asemptomatik enfeksiyonlu olanlar ✓</div><div class="q-opt"><b>B)</b> Amipli dizanterik formlu hastalar</div><div class="q-opt"><b>C)</b> Fulminan kolitli hastalar</div><div class="q-opt"><b>D)</b> Perianal amebiyazisli hastalar</div><div class="q-opt"><b>E)</b> Amebomlu hastalar</div></div>
+<div class="q-why"><p><strong>A doğru.</strong> <strong>Asemptomatik enfeksiyonlular</strong> katı dışkılarıyla dayanıklı <strong>kist</strong> attıkları için bulaşı en çok onlar sürdürür. Dizanterili hastanın sulu dışkısındaki trofozoitler dış ortamda çabucak ölür ve bulaştırıcı değildir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S22</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S22</div>
+<div class="q-stem">Entamoeba histolytica* laboratuvar bulguları için aşağıdakilerden hangisi doğru değildir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Dışkının mikroskobik incelemesi en sık kullanılan yöntemlerden biridir</div><div class="q-opt"><b>B)</b> Kistleri dört çekirdeklidir</div><div class="q-opt"><b>C)</b> Trofozoitleri eritrosit içerir</div><div class="q-opt ok"><b>D)</b> Taşıyıcıların dışkılarında kist bulunmaz, trofozoitleri gösterilebilir ✓</div><div class="q-opt"><b>E)</b> Dışkıda Charcot-Leyden kristali gösterilebilir</div></div>
+<div class="q-why"><p><strong>D doğru (yanlış ifade).</strong> İfade tersine çevrilmiştir: <strong>taşıyıcıların dışkısında kist bulunur</strong>, trofozoit değil. Trofozoit belirtili (dizanterik) dönemde görülür.</p><p>Dışkı mikroskobisinin en sık yöntem olması (A), kistin dört çekirdekli olması (B), trofozoitin alyuvar içermesi (C) ve Charcot-Leyden kristallerinin görülebilmesi (E) doğrudur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S34</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S34</div>
+<div class="q-stem">Entamoeba histolytica* ile ilgili açıklamalardan hangisi yanlış ifade edilmiştir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> Trofozoit formları çevresel şartlara çok dirençlidir. ✓</div><div class="q-opt"><b>B)</b> Doku içinde gelişen şekil; dokuyu eriterek hastalık oluşturur, vakuollerinde alyuvar bulunur</div><div class="q-opt"><b>C)</b> Barsak boşluğundaki sığıntı şekli, doku şeklinden daha küçük vakuollerinde bakteriler vardır.</div><div class="q-opt"><b>D)</b> Başlıca konağı insandır ara konak yoktur.</div><div class="q-opt"><b>E)</b> İnsanlara fekal-oral yolla, olgun kistlerin kontamine yiyecekler ve sularla alınmasıyla bulaşır.</div></div>
+<div class="q-why"><p><strong>A doğru (yanlış ifade).</strong> Trofozoit çevre koşullarına <strong>duyarlıdır</strong>, dış ortamda çabuk ölür; çevreye dayanıklı ve bulaştırıcı olan <strong>kist</strong>tir.</p><p>Doku formunun dokuyu eritip vakuolünde alyuvar taşıması (B), lümen formunun küçük olup vakuolünde bakteri bulundurması (C), ara konağının olmaması (D) ve bulaşın olgun kistle fekal-oral yolla olması (E) doğrudur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S32</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S32</div>
+<div class="q-stem">"<em>Entamoeba histolytica</em> her yıl 5 × 10^7 insanı enfekte ettiği WHO raporlarında yayınlanmıştır. Ancak günümüzde bu sonuçların %90'ının çok benzer özelliklere sahip apatojen amip türü olduğu belirlenmiştir." Bu tür aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Entamoeba gingivalis</em></div><div class="q-opt"><b>B)</b> <em>Entamoeba coli</em></div><div class="q-opt ok"><b>C)</b> <em>Entamoeba dispar</em> ✓</div><div class="q-opt"><b>D)</b> <em>Entamoeba moshkovskii</em></div><div class="q-opt"><b>E)</b> <em>Entamoeba invadens</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <strong>Entamoeba dispar</strong> <em>E. histolytica</em> ile mikroskopik olarak ayırt edilemez ama apatojendir; eski WHO verilerindeki enfeksiyonların çoğunun aslında bu tür olduğu anlaşılmıştır.</p><p><em>E. gingivalis</em> (A) ağızda bulunur; <em>E. coli</em> (B) apatojendir ama histolytica'ya benzemez; <em>E. moshkovskii</em> (D) ve <em>E. invadens</em> (E) bu soruda beklenen tür değildir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S35</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S35</div>
+<div class="q-stem">Entamoeba histolytica* tanısında mikroskobik incelemede çok benzer olan ve serolojik tanıda çapraz reaksiyon veren parazit hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Entamoeba coli</em></div><div class="q-opt"><b>B)</b> <em>Entamoeba hartmanni</em></div><div class="q-opt ok"><b>C)</b> <em>Entamoeba dispar</em> ✓</div><div class="q-opt"><b>D)</b> <em>Entamoeba polecki</em></div><div class="q-opt"><b>E)</b> <em>Dientamoeba fragilis</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <strong>E. dispar</strong> <em>E. histolytica</em> ile morfolojik olarak aynıdır ve serolojik testlerde <strong>çapraz reaksiyon</strong> verir; ayrımı antijen ya da PCR ile yapılır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S31</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S31</div>
+<div class="q-stem">Aşağıdaki amiplerden hangisi apatojen amip etkenidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Acanthamoeba castellani</em></div><div class="q-opt"><b>B)</b> <em>Naegleria fowleri</em></div><div class="q-opt ok"><b>C)</b> <em>Entamoeba dispar</em> ✓</div><div class="q-opt"><b>D)</b> <em>Hartmanella vermiformis</em></div><div class="q-opt"><b>E)</b> <em>Balamuthia mandrillaris</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <strong>Entamoeba dispar</strong> apatojendir; <em>E. histolytica</em>'ya benzese de hastalık yapmaz.</p><p><em>Acanthamoeba</em> (A), <em>Naegleria</em> (B), <em>Hartmanella</em> (D) ve <em>Balamuthia</em> (E) serbest yaşayan, merkezi sinir sistemi/korneayı tutan patojen amiplerdir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S36</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S36</div>
+<div class="q-stem">Aşağıdaki <em>Entamoeba</em> türlerinden hangisi apatojen olduğu halde yanlışlıkla pozitif değerlendirilebilir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b><em>Entamoeba dispar</em></div></div>
+<div class="q-why"><p><strong>Cevap: <em>Entamoeba dispar</em>.</strong> Mikroskopik olarak <em>E. histolytica</em>'nın tıpatıp benzeri olduğu için apatojen <em>E. dispar</em> yanlışlıkla pozitif (patojen) değerlendirilebilir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S23</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S23</div>
+<div class="q-stem">En sık rastlanan amip hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Entamoeba histolytica</em></div><div class="q-opt ok"><b>B)</b> <em>Entamoeba coli</em> ✓</div><div class="q-opt"><b>C)</b> <em>Entamoeba hartmanni</em></div><div class="q-opt"><b>D)</b> <em>Entamoeba polecki</em></div><div class="q-opt"><b>E)</b> <em>Endolimax nana</em></div></div>
+<div class="q-why"><p><strong>B doğru.</strong> <strong>Entamoeba coli</strong> bağırsakta en sık rastlanan amiptir ve apatojendir; dışkıda görülmesi tedavi gerektirmez.</p><p><em>E. histolytica</em> (A) patojen ama daha seyrektir; <em>E. hartmanni</em> (C), <em>E. polecki</em> (D) ve <em>Endolimax nana</em> (E) daha az rastlanan apatojenlerdir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S30</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S30</div>
+<div class="q-stem">Aşağıdaki <em>Entamoeba</em> türlerinden hangisinin kisti sekiz çekirdekli oluşuyla diğer amiplerden ayrılır?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>E. dispar</em></div><div class="q-opt"><b>B)</b> <em>E. hartmannii</em></div><div class="q-opt"><b>C)</b> <em>E. moshkovskii</em></div><div class="q-opt"><b>D)</b> <em>E. histolytica</em></div><div class="q-opt ok"><b>E)</b> <em>E. coli</em> ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> <strong>Entamoeba coli</strong> kisti olgunlaştığında <strong>sekiz çekirdeklidir</strong>; bu, onu dört çekirdekli <em>E. histolytica</em>'dan ayırır.</p><p><em>E. dispar</em> (A), <em>E. hartmanni</em> (B), <em>E. moshkovskii</em> (C) ve <em>E. histolytica</em> (D) kisti dört çekirdeklidir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S24</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S24</div>
+<div class="q-stem">Aşağıdaki parazitlerden hangisinde gövde boyunca uzanan bir spiral yarık vardır ve bu parazitin ishale sebep olması beklenmez?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Dientamoeba fragilis</em></div><div class="q-opt ok"><b>B)</b> <em>Chilomastix mesnili</em> ✓</div><div class="q-opt"><b>C)</b> <em>Cystisospora belli</em></div><div class="q-opt"><b>D)</b> <em>Giardia lamblia</em></div><div class="q-opt"><b>E)</b> <em>Entamoeba histolytica</em></div></div>
+<div class="q-why"><p><strong>B doğru.</strong> <strong>Chilomastix mesnili</strong> gövdesi boyunca uzanan spiral yarığı (sitostom) olan kamçılı bir protozoondur ve <strong>apatojendir</strong>; ishal yapması beklenmez.</p><p><em>Dientamoeba fragilis</em> (A), <em>Cystoisospora belli</em> (C), <em>Giardia</em> (D) ve <em>E. histolytica</em> (E) patojendir ve ishal yapar.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S30</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S30</div>
+<div class="q-stem">Aşağıdakilerden hangisi insanlarda enfeksiyon oluşturmayan non-patojen protozoondur?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b><em>Chilomastix mesnili</em></div></div>
+<div class="q-why"><p><strong>Cevap: <em>Chilomastix mesnili</em>.</strong> Bağırsakta bulunabilen ama hastalık yapmayan apatojen kamçılı protozoondur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S33</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S33</div>
+<div class="q-stem">Aşağıdaki protozoonlardan hangisi barsak yerleşimli değildir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Entamoeba histolytica</em></div><div class="q-opt"><b>B)</b> <em>Dientamoeba fragilis</em></div><div class="q-opt ok"><b>C)</b> <em>Chilomastix mesnili</em> ✓</div><div class="q-opt"><b>D)</b> <em>Balantidium coli</em></div><div class="q-opt"><b>E)</b> <em>Isospora belli</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> Diğer şıklar (patojen bağırsak protozoonları) ishal yaparken <strong>Chilomastix mesnili</strong> apatojendir; soru bağlamında “bağırsakta hastalık yapan yerleşimli” olmayan odur.</p><p><em>E. histolytica</em> (A), <em>Dientamoeba</em> (B), <em>Balantidium</em> (D) ve <em>Isospora</em> (E) patojen bağırsak protozoonlarıdır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S29</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S29</div>
+<div class="q-stem">Silyalı (Kirpikli) protozoon aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Entamoeba histolytica</em></div><div class="q-opt"><b>B)</b> <em>Entamoeba hartmanni</em></div><div class="q-opt"><b>C)</b> <em>Leishmania tropica majör</em></div><div class="q-opt"><b>D)</b> <em>Giardia lamblia</em></div><div class="q-opt ok"><b>E)</b> <em>Balantidium coli</em> ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> <strong>Balantidium coli</strong> insanda hastalık yapan <strong>tek kirpikli (silli)</strong> protozoondur; yüzeyi kirpiklerle kaplıdır.</p><p><em>E. histolytica</em> (A) ve <em>E. hartmanni</em> (B) amip (yalancı ayak); <em>Leishmania</em> (C) ve <em>Giardia</em> (D) kamçılıdır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S31</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S31</div>
+<div class="q-stem">Basit ishalden şiddetli dizenteriye kadar, hatta peritonite yol açan ve domuzlardan bulaşan protozoon aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Taenia solium</em></div><div class="q-opt"><b>B)</b> <em>Entamoeba coli</em></div><div class="q-opt"><b>C)</b> <em>Endolimax nana</em></div><div class="q-opt ok"><b>D)</b> <em>Balantidium coli</em> ✓</div><div class="q-opt"><b>E)</b> <em>Iodamoeba butschlii</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <strong>Balantidium coli</strong> domuzdan bulaşır; basit ishalden şiddetli dizanteriye, kolon ülseri ve peritonite kadar giden tablo yapar (en büyük insan protozoonu, tek patojen kirpikli).</p><p><em>T. solium</em> (A) bir sestod (helmint); <em>E. coli</em> (B), <em>Endolimax</em> (C) ve <em>Iodamoeba</em> (E) apatojen amiplerdir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S31</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S31</div>
+<div class="q-stem">AIDS'li bir hastada geçmeyen bir diarede Modifiye Kinyoun Ziehl-Nielsen boyamada kırmızı ookist boyanıyorsa tanı nedir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> <em>Cryptosporidium parvum</em> ✓</div><div class="q-opt"><b>B)</b> <em>Balantidium coli</em></div><div class="q-opt"><b>C)</b> <em>Toxoplasma gondii</em></div><div class="q-opt"><b>D)</b> <em>Giardia lamblia</em></div><div class="q-opt"><b>E)</b> <em>Entamoeba histolytica</em></div></div>
+<div class="q-why"><p><strong>A doğru.</strong> Bağışıklığı baskılı hastada (AIDS) uzun süren sulu ishal ve dışkıda <strong>aside dirençli boyamayla kırmızı ookist</strong> klasik <strong>Cryptosporidium parvum</strong> tablosudur.</p><p><em>Balantidium</em> (B) kirpiklidir, ARB boyanmaz; <em>Toxoplasma</em> (C) dışkıda bu şekilde aranmaz; <em>Giardia</em> (D) kamçılıdır; <em>E. histolytica</em> (E) ARB boyanmaz.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S38</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S38</div>
+<div class="q-stem">Aşağıdaki gastroenterit etkenlerinden hangisinin mikroskopik tanısında gaytadan aside dirençli boyama ile tanı konur?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Paragonimus westermani</em></div><div class="q-opt"><b>B)</b> <em>Entamoeba histolytica</em></div><div class="q-opt"><b>C)</b> <em>Schistosoma mansoni</em></div><div class="q-opt ok"><b>D)</b> <em>Cyclospora cayetanensis</em> ✓</div><div class="q-opt"><b>E)</b> <em>Cystoisospora belli</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <strong>Cyclospora cayetanensis</strong> aside dirençli sporozoondur; dışkıda Kinyoun/modifiye ARB boyamayla kırmızı ookist olarak görülür (ayrıca UV'de otofloresan verir).</p><p><em>Paragonimus</em> (A) ve <em>Schistosoma</em> (C) helmintlerdir, yumurtalarıyla tanınır; <em>E. histolytica</em> (B) ARB boyanmaz; <em>Cystoisospora belli</em> (E) de ARB ile boyanır ama bu soruda beklenen yanıt <em>Cyclospora</em>'dır (tek doğru şık odur).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S35</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S35</div>
+<div class="q-stem">İshal etkenlerinden <em>Cryptosporidium</em> spp kistlerinin tanısında en sık aşağıdakilerden hangi test kullanılır?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> Dışkıdan Kinyon ARB boyama ile ✓</div><div class="q-opt"><b>B)</b> Duodenum tubajı ile</div><div class="q-opt"><b>C)</b> Dışkıdan direkt mikroskobi ile</div><div class="q-opt"><b>D)</b> Dışkı kültürü ile</div><div class="q-opt"><b>E)</b> Dışkıdan Direk Floresan yöntemi ile</div></div>
+<div class="q-why"><p><strong>A doğru.</strong> <em>Cryptosporidium</em> ookistleri en sık <strong>dışkıdan Kinyoun aside dirençli boyama</strong> ile gösterilir.</p><p>Duodenum tubajı (B) <em>Giardia</em>/<em>Strongyloides</em> için; direkt mikroskobi (C) küçük ookistleri kaçırır; kültür (D) protozoonlarda kullanılmaz; floresan (E) alternatif olabilir ama en sık yöntem ARB'dir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S30</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S30</div>
+<div class="q-stem">Cryptosporidium parvum* enfeksiyonunda aşağıdaki tanı yöntemlerinden hangisini uygularsınız?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> String testi</div><div class="q-opt ok"><b>B)</b> Dışkı yaymasında ARB uygulanır. ✓</div><div class="q-opt"><b>C)</b> Gaita yayma preparatının gram boyaması</div><div class="q-opt"><b>D)</b> Safrada erime deneyi</div><div class="q-opt"><b>E)</b> Anaerob besiyerinde kültür yapılır.</div></div>
+<div class="q-why"><p><strong>B doğru.</strong> <em>Cryptosporidium parvum</em> ookistleri dışkı yaymasında <strong>aside dirençli boyama</strong> ile gösterilir.</p><p>String testi (A) <em>Giardia</em> için; Gram boyama (C) protozoon ookistini göstermez; safrada erime (D) pnömokok testidir; anaerop kültür (E) protozoonda kullanılmaz.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S33</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S33</div>
+<div class="q-stem">Gaita preparatından Kinyon aside rezistans (aside dirençli) boyanan sporozoa protozoon hangisidir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> <em>Isospora belli</em> ✓</div><div class="q-opt"><b>B)</b> <em>Endolimax nana</em></div><div class="q-opt"><b>C)</b> <em>Giardia intestinalis</em></div><div class="q-opt"><b>D)</b> <em>Entamoeba coli</em></div><div class="q-opt"><b>E)</b> <em>Dientamoeba fragilis</em></div></div>
+<div class="q-why"><p><strong>A doğru.</strong> <strong>Cystoisospora (Isospora) belli</strong> aside dirençli boyanan bir sporozoondur; büyük, elipsoid, sporokistli ookisti vardır.</p><p><em>Endolimax</em> (B), <em>E. coli</em> (D) apatojen amip; <em>Giardia</em> (C) kamçılı; <em>Dientamoeba</em> (E) kamçılı olup ARB boyanmaz.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S31</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S31 · 2020-21 S3</div>
+<div class="q-stem">"Gaita preparatından Kinyon aside rezistans (aside dirençli) boyama sonucunda; asidorezistans boyalı yaklaşık 25 µm uzunluğunda, 15 µm genişliğinde, ovoid yapıda, sporokisti ve içinde ookistler saptanmıştır." Sonucu verilen hasta örneğinde hangi parazit tanımlanmıştır?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Encephalitozoon intestinalis</em></div><div class="q-opt"><b>B)</b> <em>Endolimax nana</em></div><div class="q-opt"><b>C)</b> <em>Giardia intestinalis</em></div><div class="q-opt ok"><b>D)</b> <em>Isospora belli</em> ✓</div><div class="q-opt"><b>E)</b> <em>Entamoeba coli</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> Büyük (~25×15 µm), ovoid, içinde sporokist ve ookist bulunan aside dirençli yapı <strong>Cystoisospora belli</strong>'ye özgüdür (sporozoonların en büyük ookisti).</p><p><em>Encephalitozoon</em> (A) mikrosporidiumdur; <em>Endolimax</em> (B), <em>E. coli</em> (E) amip; <em>Giardia</em> (C) kamçılıdır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S30</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S30</div>
+<div class="q-stem">Aşağıdaki protozoonlardan hangisi konak barsak hücresinde intrasellüler, ekstrasitoplazmik yerleşim gösteren protozoondur?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Toxoplasma</em></div><div class="q-opt"><b>B)</b> <em>Cyclospora</em></div><div class="q-opt"><b>C)</b> <em>Isospora</em></div><div class="q-opt"><b>D)</b> <em>Sarcocystis</em></div><div class="q-opt ok"><b>E)</b> <em>Cryptosporidium</em> ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> <strong>Cryptosporidium</strong> bağırsak epitel hücresinin zarının hemen altına, ama sitoplazmanın dışına yerleşir (<strong>intrasellüler-ekstrasitoplazmik</strong>); bu, onu konak savunmasından korur.</p><p><em>Toxoplasma</em> (A), <em>Cyclospora</em> (B), <em>Isospora</em> (C) ve <em>Sarcocystis</em> (D) hücre içinde sitoplazma içinde yerleşir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S19</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S19</div>
+<div class="q-stem">Aşağıdaki Coccidian parazitlerden hangisi konak hücrelerinde intrasellüler (hücre içi), ancak ekstrasitoplazmik (sitoplazma dışı) yerleşim gösteren protozoondur?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Sarcocystis bovihominis</em></div><div class="q-opt"><b>B)</b> <em>Isospora belli</em></div><div class="q-opt"><b>C)</b> <em>Toxoplasma gondii</em></div><div class="q-opt ok"><b>D)</b> <em>Cryptosporidium parvum</em> ✓</div><div class="q-opt"><b>E)</b> <em>Cyclospora cayetanensis</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> Aynı ayırt edici özellik: <strong>Cryptosporidium parvum</strong> intrasellüler ama ekstrasitoplazmik yerleşir.</p><p><em>Sarcocystis</em> (A), <em>Isospora</em> (B), <em>Toxoplasma</em> (C) ve <em>Cyclospora</em> (E) sitoplazma içine yerleşir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S32</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S32</div>
+<div class="q-stem">Lümen epitel hücre zarının hemen altında yerleşerek konak savunma sisteminden kendini koruyan patojen hangisidir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b><em>Cryptosporidium parvum</em></div></div>
+<div class="q-why"><p><strong>Cevap: <em>Cryptosporidium parvum</em>.</strong> Epitel hücre zarının hemen altında (intrasellüler-ekstrasitoplazmik) yerleşir ve konak savunmasından böyle korunur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S32</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S32</div>
+<div class="q-stem">Cryptosporidium* spp hakkında açıklamalardan hangisi yanlıştır?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Cryptosporidium</em> AIDS'li hastaların diyarelerinin önde gelen etkenidir.</div><div class="q-opt"><b>B)</b> Hücresel immün sistemi yetmezliği olanlarda fulminan diyare ile ölüme kadar gidebilen ağır bir klinik tablo gelişir.</div><div class="q-opt"><b>C)</b> Ookistlerin içindeki sporozoitler oral yoldan alan konakta evrimini tamamlar.</div><div class="q-opt ok"><b>D)</b> Ookistlerin enfekte ettiği makrofaj hücreleri paraziti derin dokulara yayarak sistemik tutuluma neden olur. ✓</div><div class="q-opt"><b>E)</b> Hücrelere intrasellüler ancak ekstrasitoplazmik yerleşirler.</div></div>
+<div class="q-why"><p><strong>D doğru (yanlış ifade).</strong> <em>Cryptosporidium</em> bağırsak epitelinin yüzeyinde kalır; <strong>makrofajlarla derin dokulara yayılıp sistemik tutulum yapmaz</strong>.</p><p>AIDS'te ishalin önde gelen etkeni olması (A), hücresel bağışıklık yetmezliğinde fulminan ishal yapması (B), ookistteki sporozoitlerin oral alımla evrimini tamamlaması (C) ve intrasellüler-ekstrasitoplazmik yerleşim (E) doğrudur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S37</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S37</div>
+<div class="q-stem">Topluma açık yüzme havuzlarının dezenfeksiyonunda sorun olduğunda sıklıkla tek kaynaklı gastroenterit olgularına neden olan protozoal patojen hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Clostridium difficile</em></div><div class="q-opt"><b>B)</b> <em>Actinomyces israelii</em></div><div class="q-opt"><b>C)</b> <em>Trichinella spiralis</em></div><div class="q-opt"><b>D)</b> <em>Burkholderia pseudomallei</em></div><div class="q-opt ok"><b>E)</b> <em>Cryptosporidium parvum</em> ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> <em>Cryptosporidium</em> ookistleri <strong>klora dayanıklıdır</strong>; yüzme havuzu dezenfeksiyonu yetersiz kaldığında tek kaynaklı gastroenterit salgınları yapar.</p><p><em>C. difficile</em> (A), <em>Actinomyces</em> (B), <em>Trichinella</em> (C) ve <em>Burkholderia</em> (D) bu su kaynaklı salgın tablosunun etkeni değildir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S31</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S31</div>
+<div class="q-stem">Böbrek transplantı yapılan (immündüşkün) ishalli hastada aşağıdaki protozoonlardan hangisi en çok görülen etkendir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Strongyloides stercoralis</em></div><div class="q-opt"><b>B)</b> <em>Entamoeba histolytica</em></div><div class="q-opt"><b>C)</b> <em>Giardia lamblia</em></div><div class="q-opt ok"><b>D)</b> <em>Cyclospora cayetanensis</em> ✓</div><div class="q-opt"><b>E)</b> <em>Toxoplasma gondii</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> Organ nakli alıcısı gibi bağışıklığı baskılı hastada ishal yapan protozoonların başında <strong>Cyclospora</strong> (ve <em>Cryptosporidium</em>) gelir.</p><p><em>Strongyloides</em> (A) bir helminttir; <em>E. histolytica</em> (B) ve <em>Giardia</em> (C) bağışıklığı baskılı hastaya özgü değildir; <em>Toxoplasma</em> (E) ishalden çok ensefalit yapar.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S33</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S33</div>
+<div class="q-stem">Aşağıdaki protozoon parazitlerden hangisi sporozoalar arasında yer almaz?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Cystoisospora belli</em></div><div class="q-opt"><b>B)</b> <em>Toxoplasma gondii</em></div><div class="q-opt"><b>C)</b> <em>Cyclospora cayetanensis</em></div><div class="q-opt"><b>D)</b> <em>Cryptosporidium parvum</em></div><div class="q-opt ok"><b>E)</b> <em>Strongyloides stercoralis</em> ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> <em>Strongyloides stercoralis</em> bir <strong>nematoddur</strong> (yuvarlak solucan, helmint); sporozoa değildir.</p><p><em>Cystoisospora</em> (A), <em>Toxoplasma</em> (B), <em>Cyclospora</em> (C) ve <em>Cryptosporidium</em> (D) Apicomplexa (sporozoa) üyesidir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S30</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S30</div>
+<div class="q-stem">Akut ishalli hasta dışkısında ve asemptomatik katı şekilli dışkıda <em>Giardia intestinalis</em>'in hangi formları direkt mikroskobik (nativ) incelemede görülen yapılardır?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Larva-Prekist</div><div class="q-opt ok"><b>B)</b> Trofozoit-Kist ✓</div><div class="q-opt"><b>C)</b> Prekistik trofozoit-Erişkin</div><div class="q-opt"><b>D)</b> Yumurta-Larva</div><div class="q-opt"><b>E)</b> Erişkin-Trofozoit</div></div>
+<div class="q-why"><p><strong>B doğru.</strong> <em>Giardia intestinalis</em> dışkıda <strong>trofozoit ve kist</strong> formunda görülür: akut sulu dışkıda hareketli trofozoit, şekilli (asemptomatik) dışkıda kist bulunur.</p><p>Larva, yumurta ve erişkin (A, C, D, E) helmintlere ait formlardır; <em>Giardia</em> bir protozoondur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S34</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S34</div>
+<div class="q-stem">Kötü kokulu yağlı dışkılaması (steatore) olan hastada gayta mikroskopisinde kamçılarıyla hareket eden, dut yaprağı şekline sahip tek hücreli protozoon görülmüşse; bu protozoa aşağıdaki etkenlerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b><em>Giardia intestinalis</em></div></div>
+<div class="q-why"><p><strong>Cevap: <em>Giardia intestinalis</em>.</strong> Kamçılarıyla hareket eden, <strong>dut yaprağı (armut)</strong> biçimli trofozoit ve yağlı-köpüklü dışkı (steatore) <em>Giardia</em>'yı tanımlar; duodenuma emici diskiyle tutunup yağ emilimini bozar.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S34</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S34</div>
+<div class="q-stem">"String test" yöntemiyle alınan hasta örneğinde hangi parazit tanımlanmıştır?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Isospora belli</em></div><div class="q-opt"><b>B)</b> <em>Endolimax nana</em></div><div class="q-opt ok"><b>C)</b> <em>Giardia intestinalis</em> ✓</div><div class="q-opt"><b>D)</b> <em>Entamoeba coli</em></div><div class="q-opt"><b>E)</b> <em>Encephalitozoon intestinalis</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <strong>String test (enterotest)</strong>, yutulan ipli kapsülle duodenumdan örnek alıp <em>Giardia</em> trofozoitlerini göstermeye yarar.</p><p><em>Isospora</em> (A), <em>Endolimax</em> (B), <em>E. coli</em> (D) ve <em>Encephalitozoon</em> (E) bu yöntemle tanınmaz.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S38</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S38</div>
+<div class="q-stem">Emici diskiyle mukozal yüzeye tutunarak konağa yerleşen protozoon aşağıdaki parazitlerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> <em>Giardia intestinalis</em> ✓</div><div class="q-opt"><b>B)</b> <em>Entamoeba histolytica</em></div><div class="q-opt"><b>C)</b> <em>Acanthamoeba castellani</em></div><div class="q-opt"><b>D)</b> <em>Microsporidia</em> spp.</div><div class="q-opt"><b>E)</b> <em>Trichomonas tenax</em></div></div>
+<div class="q-why"><p><strong>A doğru.</strong> <em>Giardia intestinalis</em> <strong>emici (vantuz) diskiyle</strong> duodenum mukozasına tutunur; bu, villusları zedeleyip yağ emilimini bozar.</p><p><em>E. histolytica</em> (B) enzimle penetre olur; <em>Acanthamoeba</em> (C) serbest yaşar; mikrosporidia (D) hücre içine girer; <em>Trichomonas tenax</em> (E) ağız protozoonudur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S34</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S34</div>
+<div class="q-stem">Giardiasisle ilgili açıklamalarda yanlış ifade edilen özellik aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Duodenal bölgeye yerleştikleri için yağ emilimi bozulur, sağ hipokondrium ağrısı ve yağlı dışkılama görülür.</div><div class="q-opt"><b>B)</b> Kronik enfeksiyonlarında vitamin (Vit A, D, E, K) eksiklikleri görülebilir.</div><div class="q-opt"><b>C)</b> Kolesistit ve pankreatit yapabilir.</div><div class="q-opt"><b>D)</b> Kolona ilerleyen trofozoitler kist halini alır, böylece çoğunlukla dışkı mikroskobisinde sadece kistleri görülür.</div><div class="q-opt ok"><b>E)</b> Safra kanalı yoluyla karaciğere yerleşerek ekstraintestinal alan yerleşimli kronik enfeksiyon formuna dönüşür. ✓</div></div>
+<div class="q-why"><p><strong>E doğru (yanlış ifade).</strong> <em>Giardia</em> duodenum-safra yollarını tutsa da <strong>karaciğere yerleşip bağırsak dışı kronik enfeksiyon yapmaz</strong>; bu özellik <em>E. histolytica</em> ya da <em>Fasciola</em>'ya aittir.</p><p>Duodenal yerleşimle yağ emiliminin bozulup sağ hipokondrium ağrısı ve yağlı dışkı yapması (A), kronikte yağda çözünen vitamin (A, D, E, K) eksikliği (B), kolesistit-pankreatit yapabilmesi (C) ve kolona inen trofozoitin kiste dönüşüp dışkıda çoğunlukla kist görülmesi (D) doğrudur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S32</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S32</div>
+<div class="q-stem">Gaita mikroskobik incelemesinde kist formunu görmeyeceğiniz protozoon hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Entamoeba histolytica</em></div><div class="q-opt"><b>B)</b> <em>Entamoeba coli</em></div><div class="q-opt ok"><b>C)</b> <em>Dientamoeba fragilis</em> ✓</div><div class="q-opt"><b>D)</b> <em>Endolimax nana</em></div><div class="q-opt"><b>E)</b> <em>Iodamoeba butschlii</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <strong>Dientamoeba fragilis</strong>'in <strong>kist formu yoktur</strong>; dışkıda yalnız trofozoit görülür, bu yüzden taze incelenmelidir.</p><p><em>E. histolytica</em> (A), <em>E. coli</em> (B), <em>Endolimax nana</em> (D) ve <em>Iodamoeba butschlii</em> (E) kist oluşturur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S22</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S22</div>
+<div class="q-stem">Kist formu bulunmayan protozoon hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Entamoeba histolytica</em></div><div class="q-opt"><b>B)</b> <em>Naegleria fowleri</em></div><div class="q-opt ok"><b>C)</b> <em>Dientamoeba fragilis</em> ✓</div><div class="q-opt"><b>D)</b> <em>Endolimax nana</em></div><div class="q-opt"><b>E)</b> <em>Iodamoeba butschlii</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <strong>Dientamoeba fragilis</strong> kist yapmaz; yalnız trofozoit formunda bulunur.</p><p><em>E. histolytica</em> (A), <em>Naegleria</em> (B; dış ortamda kist yapar), <em>Endolimax</em> (D) ve <em>Iodamoeba</em> (E) kist oluşturur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S36</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S36</div>
+<div class="q-stem">İshalli bir hastadan örnek alsanız aşağıdaki protozoonlardan hangisini patojen etken olarak değerlendirmezsiniz?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Cryptosporidium</em></div><div class="q-opt"><b>B)</b> <em>Isospora</em></div><div class="q-opt"><b>C)</b> <em>Giardia</em></div><div class="q-opt ok"><b>D)</b> <em>Trichomonas</em> ✓</div><div class="q-opt"><b>E)</b> <em>Cyclospora</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <strong>Trichomonas</strong> (hominis) bağırsakta apatojendir, ishal etkeni sayılmaz.</p><p><em>Cryptosporidium</em> (A), <em>Isospora</em> (B), <em>Giardia</em> (C) ve <em>Cyclospora</em> (E) patojen ishal etkenleridir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S35</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S35</div>
+<div class="q-stem">Hangisi akut ishal tablosuna yol açmaz?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b><em>Trichomonas hominis</em></div></div>
+<div class="q-why"><p><strong>Cevap: <em>Trichomonas hominis</em>.</strong> Bağırsakta bulunabilen apatojen kamçılıdır; akut ishal tablosuna yol açmaz.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S18</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S18</div>
+<div class="q-stem">İnsanlarda keratit, üveit ve korneal ülserasyon oluşturan sporozoon aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Acanthamoeba</em> spp.</div><div class="q-opt"><b>B)</b> <em>Balamuthia mandrillaris</em></div><div class="q-opt ok"><b>C)</b> <em>Vittaforma</em> spp. ✓</div><div class="q-opt"><b>D)</b> <em>Chilomastix mesnili</em></div><div class="q-opt"><b>E)</b> <em>Entamoeba histolytica</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <strong>Vittaforma corneae</strong> bir mikrosporidiumdur; göz tutulumu (keratit, üveit, korneal ülser) yapar. (Soru “sporozoon” dese de kastedilen göz tutan mikrosporidiumdur.)</p><p><em>Acanthamoeba</em> (A) ve <em>Balamuthia</em> (B) serbest yaşayan amiplerdir (Acanthamoeba keratiti ayrı bir tablodur); <em>Chilomastix</em> (D) apatojen bağırsak protozoonu; <em>E. histolytica</em> (E) göz yapmaz.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S36</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S36</div>
+<div class="q-stem">Bildirimi zorunlu GIS yerleşimli protozoon kaynaklı enfeksiyon hastalıkları hangi grupta yer almaktadır?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> Grup D ✓</div><div class="q-opt"><b>B)</b> Grup A ve D</div><div class="q-opt"><b>C)</b> Grup C</div><div class="q-opt"><b>D)</b> Grup A, C ve D</div><div class="q-opt"><b>E)</b> Grup B</div></div>
+<div class="q-why"><p><strong>A doğru.</strong> Bulaşıcı hastalıkların ihbar sınıflamasında GİS yerleşimli protozoon enfeksiyonları (amibiyaz, giardiyaz vb.) <strong>Grup D</strong>'de yer alır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S2</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S2</div>
+<div class="q-stem">Karın ağrısı ile birlikte günde 4-5 kez olan dışkılaması başlayan hastanın sonrasında dışkı sayısı giderek artmış. Ancak dışkı miktarı azmış. Ateşi olmamış. Ağrı daha çok alt kadrandaymış. Gaita mikroskopisinde bol eritrosit, nadir lökosit görüldü. Gaita kültüründe patojen bakteri üremedi. Bu hastada en olası etken aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Shigella flexneri</em></div><div class="q-opt"><b>B)</b> <em>Campylobacter jejuni</em></div><div class="q-opt"><b>C)</b> Enteroinvaziv <em>Escherichia coli</em></div><div class="q-opt ok"><b>D)</b> <em>Entamoeba histolytica</em> ✓</div><div class="q-opt"><b>E)</b> <em>Yersinia enterocolitica</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> Dışkıda <strong>bol eritrosit ama az lökosit</strong> ve bakteri kültürünün negatif olması amipli koliti gösterir: <em>E. histolytica</em> dokuyu eritip kanama yapar ama histolitik enzimleriyle nötrofilleri de lizise uğrattığı için lökosit azdır.</p><p><em>Shigella</em> (A), <em>Campylobacter</em> (B), EIEC (C) ve <em>Yersinia</em> (E) bakteriyel invaziv ishal yapar; bunlarda dışkıda <strong>bol lökosit</strong> olur ve kültür pozitiftir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S3</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S3</div>
+<div class="q-stem">Aşağıdakilerden hangisi <em>E. hystolytica</em>'ya bağlı ishallerde kullanılabilen antimikrobiyallerdendir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Doksisiklin</div><div class="q-opt"><b>B)</b> Trimetoprim-sulfametoksazol</div><div class="q-opt ok"><b>C)</b> Metronidazol ✓</div><div class="q-opt"><b>D)</b> Azitromisin</div><div class="q-opt"><b>E)</b> Siprofloksasin</div></div>
+<div class="q-why"><p><strong>C doğru.</strong> Doku amibiyazisinin (amipli dizanteri, karaciğer absesi) tedavisinde <strong>metronidazol</strong> (ya da tinidazol) kullanılır; ardından lümendeki kistleri temizlemek için paromomisin gibi bir luminal ilaç eklenir.</p><p>Doksisiklin (A), TMP-SMX (B), azitromisin (D) ve siprofloksasin (E) antibakteriyeldir; <em>E. histolytica</em> bir protozoondur ve bunlardan etkilenmez.</p></div>
+</div>
+</section>
+</main></body></html>

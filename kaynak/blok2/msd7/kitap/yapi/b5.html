@@ -1,0 +1,650 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title></title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --color-bg: #f3f2f2;
+    --color-text: #201e1d;
+    --color-accent: #0088b0;
+    --color-accent-700: color-mix(in oklch, #0088b0, black 35%);
+    --color-accent-900: color-mix(in oklch, #0088b0, black 55%);
+    --color-accent-2: #d6006c;
+    --color-accent-2-900: color-mix(in oklch, #d6006c, black 45%);
+    --color-neutral-700: #57534e;
+    --font-heading: "Source Serif 4", Georgia, "Times New Roman", serif;
+    --font-body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  }
+  @page { size: A4; margin: 24mm 20mm 24mm 20mm; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); }
+  a { color: var(--color-accent-700); }
+  .book-page { max-width: 100%; }
+  .book-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 16px 0; }
+  .book-title { font-family: var(--font-heading); font-size: 2.3rem; line-height: 1.15; font-weight: 700; margin: 0 0 12px 0; }
+  .book-byline { font-style: italic; color: var(--color-neutral-700); font-size: 0.92rem; margin: 0 0 40px 0; }
+  .book-section { margin: 0 0 32px 0; }
+  .book-h2 { font-family: var(--font-heading); font-size: 1.3rem; font-weight: 700; margin: 0 0 12px 0; break-after: avoid; }
+  .book-h3 { font-family: var(--font-heading); font-size: 1.08rem; font-weight: 700; margin: 18px 0 8px 0; break-after: avoid; }
+  .book-p { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; text-align: justify; hyphens: auto; }
+  .book-list { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; padding-left: 1.3em; }
+  .book-list li { margin-bottom: 5px; }
+  .tag { display: inline-block; font-size: 10.5px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 9px; border-radius: 2px; }
+  .tag-accent-2 { background: color-mix(in oklch, var(--color-accent-2) 14%, white); color: var(--color-accent-2-900); }
+  .highlight-tag { margin-bottom: 8px; break-inside: avoid; }
+  .highlight-p { font-size: 0.98rem; line-height: 1.65; color: var(--color-accent-2-900); margin: 0 0 12px 0; break-inside: avoid; }
+  .cite { font-style: italic; color: var(--color-neutral-700); }
+  table.table { width: 100%; border-collapse: collapse; font-size: 0.86rem; margin: 4px 0 16px 0; break-inside: avoid; }
+  table.table th { text-align: left; font-family: var(--font-heading); font-weight: 700; border-bottom: 1.5px solid var(--color-text); padding: 6px 10px 6px 0; }
+  table.table td { border-bottom: 1px solid color-mix(in oklch, var(--color-text) 15%, white); padding: 7px 10px 7px 0; vertical-align: top; }
+  .chart-figure { margin: 4px 0 16px 0; break-inside: avoid; }
+  .chart-caption { font-size: 0.82rem; color: var(--color-neutral-700); margin-top: 8px; font-style: italic; text-align: left; }
+  .qa-list { display: flex; flex-direction: column; gap: 14px; margin-top: 14px; }
+  .card { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 16px 20px; break-inside: avoid; }
+  .card-kicker { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 4px; }
+  .card-title { font-family: var(--font-heading); font-weight: 700; font-size: 1rem; margin-bottom: 8px; }
+  .card-body { font-size: 0.93rem; line-height: 1.6; }
+  .card-body p { margin: 0 0 8px 0; }
+  .card-body .opt-correct { color: var(--color-accent-700); font-weight: 700; }
+  .card-source { font-size: 0.8rem; font-style: italic; color: var(--color-neutral-700); margin-top: 8px; }
+  .card-dispute { font-size: 0.85rem; background: color-mix(in oklch, var(--color-accent-2) 8%, white); padding: 8px 12px; border-radius: 2px; margin-top: 8px; }
+  .chapter { break-before: page; }
+  .chapter-first { break-before: auto; }
+  .chapter-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 6px 0; }
+  .chapter-title { font-family: var(--font-heading); font-size: 1.75rem; line-height: 1.2; font-weight: 700; margin: 0 0 8px 0; break-after: avoid; }
+  .chapter-lead { font-style: italic; color: var(--color-neutral-700); font-size: 0.95rem; line-height: 1.6; margin: 0 0 26px 0; }
+  .book-h4 { font-family: var(--font-heading); font-size: 0.98rem; font-weight: 700; font-style: italic; margin: 14px 0 6px 0; break-after: avoid; }
+  ol.book-list { padding-left: 1.5em; }
+  .toc { list-style: none; padding: 0; margin: 0 0 12px 0; font-size: 0.98rem; line-height: 1.7; }
+  .toc li { margin: 0 0 4px 0; }
+  .toc .toc-sub { color: var(--color-neutral-700); font-size: 0.88rem; display: block; margin-left: 1.2em; }
+  .cover-note { font-size: 0.92rem; line-height: 1.6; color: var(--color-neutral-700); margin: 0 0 14px 0; }
+  .keybox { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 14px 18px; margin: 6px 0 16px 0; break-inside: avoid; }
+  .keybox-title { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 6px; font-weight: 700; }
+  .keybox ul { margin: 0; padding-left: 1.2em; font-size: 0.92rem; line-height: 1.6; }
+  .keybox li { margin-bottom: 3px; }
+  .card-title .opts { display: block; font-weight: 400; font-family: var(--font-body); font-size: 0.93rem; margin-top: 6px; line-height: 1.55; }
+  table.table.compact { font-size: 0.8rem; }
+  sub, sup { line-height: 0; }
+  @page { size: A4; margin: 22mm 20mm 20mm 20mm; background: #f3f2f2; }
+  .hl-block { break-inside: avoid; }
+  table.table.split { break-inside: auto; }
+  table.table.split tr { break-inside: avoid; }
+
+  /* --- Modul 5-6: cikmis soru odakli yapi --- */
+  .qblock { margin: 0 0 10px 0; break-after: avoid; }
+  .qblock-title { font-size: 10.5px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-accent-2-900); font-weight: 700; margin: 0 0 4px 0; }
+  .qblock-note { font-size: 0.84rem; line-height: 1.5; color: var(--color-neutral-700); font-style: italic; margin: 0 0 10px 0; }
+  .qcards { display: block; margin: 0 0 26px 0; }
+  .qcard { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 12px 16px 10px 16px; margin: 0 0 10px 0; break-inside: auto; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+  .q-head { display: flex; align-items: center; gap: 10px; margin-bottom: 2px; }
+  .q-no { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); font-weight: 700; }
+  .q-src { font-size: 0.74rem; color: var(--color-neutral-700); margin: 0 0 6px 0; line-height: 1.45; }
+  .q-src b { font-weight: 700; color: var(--color-text); }
+  .q-stem { font-family: var(--font-heading); font-weight: 700; font-size: 0.95rem; line-height: 1.45; margin: 0 0 4px 0; }
+  .q-list { margin: 2px 0 6px 0; padding-left: 1.2em; font-size: 0.88rem; line-height: 1.45; }
+  .q-opts { font-size: 0.88rem; line-height: 1.5; margin: 2px 0 6px 0; }
+  .q-opt { padding-left: 1.6em; text-indent: -1.6em; }
+  .q-opt.ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-ans { font-size: 0.86rem; margin: 2px 0 6px 0; }
+  .q-var { font-size: 0.82rem; font-style: italic; color: var(--color-neutral-700); line-height: 1.5; margin: 0 0 6px 0; }
+  .q-why { font-size: 0.86rem; line-height: 1.55; border-top: 1px solid color-mix(in oklch, var(--color-text) 10%, white); padding-top: 6px; }
+  .q-why p { margin: 0 0 5px 0; break-inside: avoid; }
+  .q-head, .q-src, .q-stem, .q-list { break-after: avoid; break-inside: avoid; }
+  .q-opts, .q-ans, .q-var { break-inside: avoid; }
+  .q-why .ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-why p:first-child > b:first-child { color: var(--color-accent-700); }
+  .q-var p { margin: 0 0 3px 0; }
+  .tag-soft { background: color-mix(in oklch, var(--color-accent) 12%, white); color: var(--color-accent-700); }
+  table.dizin td:first-child, table.surekli td:last-child { white-space: nowrap; }
+  table.dizin td:last-child { font-size: 0.72rem; color: var(--color-neutral-700); }
+  tr.dizin-bolum td { font-family: var(--font-heading); font-weight: 700; padding-top: 10px; border-bottom: 1.5px solid var(--color-text); }
+  td.sur { color: var(--color-accent-2-900); font-weight: 700; }
+  table.dizin td.sur { color: var(--color-accent-2-900); }
+  .sunumsuz { font-size: 0.86rem; background: color-mix(in oklch, var(--color-accent) 7%, white); padding: 8px 12px; border-radius: 2px; margin: 0 0 14px 0; }
+  .ref { font-size: 0.8em; color: var(--color-accent-700); font-weight: 700; white-space: nowrap; }
+
+  @page { size: A4; margin: 16mm 15mm 16mm 15mm; background: #f3f2f2; }
+  .book-p { font-size: 0.93rem; line-height: 1.55; margin: 0 0 9px 0; }
+  .book-list { font-size: 0.93rem; line-height: 1.5; }
+  .qcard { padding: 9px 13px 8px 13px; margin: 0 0 8px 0; }
+  .q-stem { font-size: 0.9rem; } .q-opts { font-size: 0.84rem; line-height: 1.4; }
+  .q-why p { font-size: 0.86rem; line-height: 1.48; }
+  .q-var { font-size: 0.78rem; }
+  .q-src { margin: 0 0 3px 0; }
+</style>
+</head>
+<body>
+<main class="book-page">
+<section class="chapter"><p class="chapter-kicker">Bölüm 5 · Enterik bakteriler ve lab</p><h2 class="chapter-title">Salmonella, Shigella, E. coli, Yersinia ve Laboratuvar Tanısı</h2><p class="chapter-lead">Enterobacteriaceae ailesinin ishal yapan üyeleri, Salmonella antijenleri ve Kauffmann-White şeması, enterik ateş (tifo) ve taşıyıcılık, Shigella, E. coli'nin ishal tipleri ve EHEC, Yersinia, Campylobacter ve dışkı kültürünün besiyeri-biyokimya algoritması. Sınavın en kalabalık bölümü (74 soru, 62 farklı soru); büyük kısmı okunamayan gastroenterit sunumunun (S2) laboratuvar kısmındadır. Anlatım standart tıbbi mikrobiyoloji bilgisiyle tamamlanmıştır.</p>
+<h3 class="book-h3">Enterobacteriaceae ailesi</h3>
+<p class="book-p">İshal yapan bakterilerin büyük bölümü <em>Enterobacteriaceae</em> ailesindendir: <strong>Gram negatif basil, fakültatif anaerop, oksidaz negatif, glukozu fermente eden, nitratı nitrite indirgeyen</strong> bakteriler. <em>Salmonella</em>, <em>Shigella</em>, <em>E. coli</em> (EHEC dahil), <em>Yersinia</em>, <em>Proteus</em>, <em>Klebsiella</em> bu ailedendir.</p>
+<p class="book-p"><strong>Aileden olmayanlar</strong> sınavda sık sorulur: <em>Vibrio</em> ve <em>Campylobacter</em> (<strong>oksidaz pozitif</strong>, kıvrık), <em>Clostridium</em> (Gram pozitif, sporlu, anaerop), <em>Staphylococcus</em>, <em>Bacillus</em>, <em>Listeria</em> (Gram pozitif).</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Enterobacteriaceae = oksidaz NEGATİF, glukozu fermente eder.</strong> <em>C. perfringens</em> (Gram pozitif) ve <em>Vibrio</em> (oksidaz pozitif) bu aileden <strong>değildir</strong>.</p></div>
+<table class="table compact split"><thead><tr><th>Ayırt edici test</th><th>Enterobacteriaceae</th><th>Vibrio</th><th>Campylobacter</th></tr></thead><tbody>
+<tr><td>Oksidaz</td><td><strong>negatif</strong></td><td><strong>pozitif</strong></td><td>pozitif</td></tr>
+<tr><td>Morfoloji</td><td>düz basil</td><td>kıvrık (virgül)</td><td>ince spiral, <strong>martı kanadı</strong></td></tr>
+<tr><td>Gram</td><td>negatif</td><td>negatif</td><td>negatif</td></tr>
+</tbody></table>
+<p class="chart-caption">Oksidaz testi aileyi ayırmanın en hızlı yoludur.</p>
+<h3 class="book-h3">Salmonella: antijenler</h3>
+<p class="book-p"><em>Salmonella</em>'nın tür ve serotip ayrımı üç antijen üzerinden yapılır. Bu konu sınavda her yıl birkaç soruyla gelir.</p>
+<table class="table compact split"><thead><tr><th>Antijen</th><th>Yapı</th><th>Özellik</th></tr></thead><tbody>
+<tr><td><strong>O (somatik)</strong></td><td><strong>polisakkarit</strong> (LPS'nin en dış kısmı)</td><td>ısıya, alkole (%96, 4 saat) <strong>dayanıklı</strong>, formole duyarlı; <strong>tüm <em>Salmonella</em>'larda</strong> var; serogrupları belirler; <strong>IgM</strong> yanıtı; aglütinasyonu kum taneli</td></tr>
+<tr><td><strong>H (flagella)</strong></td><td><strong>protein</strong></td><td>ısıya duyarlı; yalnız hareketli türlerde; faz 1 ve faz 2; <strong>IgG</strong> yanıtı; aglütinasyonu pamuk atığı gibi</td></tr>
+<tr><td><strong>Vi (kapsül)</strong></td><td>polisakkarit</td><td>yalnız <em>S.</em> Typhi, Paratyphi C, Dublin'de; O'yu örter (ısıtınca ayrılır); <strong>taşıyıcılıkta Vi antikoru</strong> araştırılır</td></tr>
+</tbody></table>
+<p class="chart-caption">Salmonella antijenleri. O antijeni serogrubu, H antijeni serotipi belirler; Vi örtücü kapsüldür.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-accent-2">Sınav notu</span></p><p class="highlight-p">Serogrup ayrımı <strong>O antijenine</strong> göredir; serotip ayrımı O + H birlikte yapılır. “Vi antijenine göre serotiplere ayrılır” <strong>yanlıştır</strong> (2025-26 S49, 2023-24 S44). Taşıyıcı tanısında <strong>Vi antikoru</strong> bakılır, O antijeni değil (2024-25 S43).</p></div>
+<p class="book-p"><strong>Kauffmann-White şeması</strong> antijenik formülü yazar: <strong>O antijeni : H faz 1 : H faz 2</strong>. Örnek: <em>S.</em> Choleraesuis <strong>6,7 : c : 1,5</strong> → O antijeni 6,7, H faz 1 “c”, H faz 2 “1,5”. <em>S.</em> Typhi 9,12(Vi) : d : –.</p>
+<p class="book-p"><strong>Yazım kuralı:</strong> Tür adı (<em>S. enterica</em>, <em>S. bongori</em>) italik ve küçük harfle; <strong>serotip adı düz (italik değil) ve büyük harfle</strong> yazılır: <em>S.</em> Typhi, <em>S.</em> Enteritidis. “<em>S.</em> Enterica” yazımı <strong>yanlıştır</strong> (tür adı küçük italik olmalı: <em>S. enterica</em>).</p>
+<h3 class="book-h3">Enterik ateş (tifo) ve endotoksin</h3>
+<p class="book-p"><em>S.</em> Typhi ve Paratyphi yalnız insanda bulunur; dışkı-ağız yoluyla bulaşır. Patogenez adım adım:</p>
+<figure class="chart-figure"><svg viewBox="0 0 700 312" width="100%" style="display:block;font-family:Source Serif 4,Georgia,serif" role="img" aria-label="Enterik atesin basamaklari">
+<defs><marker id="ok" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a3533"/></marker></defs>
+<rect x="20" y="30" width="120" height="40" rx="4" fill="#e8f0f4" stroke="#0b6e99"/><text x="80.0" y="47.5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">Ağızdan alım</text><text x="80.0" y="60.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#3a3533">ince bağırsak</text>
+<rect x="165" y="30" width="130" height="40" rx="4" fill="#efe7f2" stroke="#5b3f8c"/><text x="230.0" y="47.5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">M hücresi →</text><text x="230.0" y="60.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#3a3533">Peyer plakları</text>
+<rect x="315" y="30" width="120" height="40" rx="4" fill="#efe7f2" stroke="#5b3f8c"/><text x="375.0" y="47.5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">Mezenterik</text><text x="375.0" y="60.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#3a3533">lenf düğümü</text>
+<rect x="455" y="30" width="120" height="40" rx="4" fill="#f6e4ea" stroke="#8a1c3c"/><text x="515.0" y="47.5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">Birincil</text><text x="515.0" y="60.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#3a3533">bakteriyemi</text>
+<line x1="140" y1="50" x2="165" y2="50" stroke="#3a3533" stroke-width="1.3" marker-end="url(#ok)"/>
+<line x1="295" y1="50" x2="315" y2="50" stroke="#3a3533" stroke-width="1.3" marker-end="url(#ok)"/>
+<line x1="435" y1="50" x2="455" y2="50" stroke="#3a3533" stroke-width="1.3" marker-end="url(#ok)"/>
+<line x1="515" y1="70" x2="515" y2="120" stroke="#3a3533" stroke-width="1.3" marker-end="url(#ok)"/>
+<rect x="380" y="120" width="280" height="42" rx="4" fill="#e6f0ea" stroke="#2e7d4f"/><text x="520.0" y="138.5" text-anchor="middle" font-size="10.5" font-weight="400" fill="#3a3533">Karaciğer · dalak · kemik iliği</text><text x="520.0" y="151.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#3a3533">makrofaj içinde çoğalma (1. hafta: kan + ilik kültürü +)</text>
+<line x1="520" y1="162" x2="520" y2="195" stroke="#3a3533" stroke-width="1.3" marker-end="url(#ok)"/>
+<rect x="400" y="195" width="300" height="42" rx="4" fill="#f6e4ea" stroke="#8a1c3c"/><text x="550.0" y="213.5" text-anchor="middle" font-size="10.5" font-weight="400" fill="#3a3533">İkincil bakteriyemi → safra kesesi</text><text x="550.0" y="226.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#3a3533">safrayla bağırsağa 2. dönüş (2-3. hafta: dışkı + idrar +)</text>
+<rect x="60" y="195" width="300" height="42" rx="4" fill="#e8f0f4" stroke="#0b6e99"/><text x="210.0" y="213.5" text-anchor="middle" font-size="10.5" font-weight="400" fill="#3a3533">Bağırsak lümeni</text><text x="210.0" y="226.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#3a3533">Peyer plağı nekrozu → kanama, perforasyon (3-4. hafta)</text>
+<line x1="400" y1="216" x2="362" y2="216" stroke="#8a1c3c" stroke-width="1.3" marker-end="url(#ok)"/>
+<rect x="60" y="265" width="620" height="34" rx="4" fill="#faf7f2" stroke="#3a3533"/><text x="370.0" y="286.0" text-anchor="middle" font-size="10.5" font-weight="400" fill="#3a3533">Klinik: basamaklı ateş · rölatif bradikardi · gül lekeleri · hepatosplenomegali · önce ishal sonra kabızlık</text>
+<text x="360.0" y="20.0" text-anchor="middle" font-size="13" font-weight="700" fill="#3a3533">Enterik ateş (tifo) patogenezi</text>
+</svg>
+<figcaption class="chart-caption">Enterik ateşin patogenezi: M hücresinden Peyer plaklarına, oradan lenf ve kana, retiküloendotelyal organlara ve safra kesesine; safradan bağırsağa ikinci dönüş.</figcaption></figure>
+<ol class="book-list">
+<li>Bakteri ince bağırsakta <strong>M hücrelerinden</strong> geçip Peyer plaklarına girer.</li>
+<li>Makrofajların içinde <strong>hücre içinde yaşayarak</strong> çoğalır; mezenterik lenf düğümlerine taşınır.</li>
+<li>Kana geçer (<strong>birincil bakteriyemi</strong>); karaciğer, dalak, kemik iliğine yayılır. Bu dönemde <strong>kan ve kemik iliği kültürü</strong> pozitiftir (1. hafta).</li>
+<li>Bu organlardan tekrar kana (<strong>ikincil bakteriyemi</strong>) ve <strong>safra kesesine</strong> döner; safrayla bağırsağa ikinci kez ulaşır. Artık <strong>dışkı ve idrar kültürü</strong> pozitifleşir (2.-3. hafta).</li>
+<li>Klinik: basamaklı yükselen ateş, <strong>rölatif bradikardi</strong>, karında <strong>gül lekeleri</strong> (pembe döküntü), hepatosplenomegali, önce ishal sonra kabızlık. 3.-4. haftada Peyer plaklarının nekrozuyla <strong>bağırsak kanaması ve perforasyonu</strong> riski.</li>
+</ol>
+<p class="book-p"><strong>Endotoksin = Lipid A:</strong> <em>Salmonella</em>'nın (ve diğer Gram negatiflerin) LPS'sinin lipid A kısmı, ateş yükselmesi, önce lökopeni sonra lökositoz, kan basıncı düşmesi ve ağır olguda <strong>endotoksik şok</strong> tablosunu yapar.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Tifo kültürü zamanı: 1. hafta KAN ve kemik iliği, 2. haftadan sonra DIŞKI ve idrar, 4. haftadan sonra SAFRA.</strong> Döküntü (gül lekesi) + rölatif bradikardi + basamaklı ateş + önce ishal sonra kabızlık = tifo.</p></div>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-accent-2">Sınav notu</span></p><p class="highlight-p">Tifo taşıyıcılığı <strong>dışkı, idrar, safra kesesi ve kemik iliğinde</strong> aranır. 2020-21 S44'te “idrarda araştırılmaz” şıkkı yanlıştır — idrar da taşıyıcılıkta kullanılır (aslında “kan” taşıyıcılıkta kullanılmaz, ama o yılki şıklara göre anahtar idrarı işaretlemiş; kronik taşıyıcı tanısında dışkı/safra esastır).</p></div>
+<h3 class="book-h3">Salmonella klinik tipleri ve tedavi</h3>
+<table class="table compact split"><thead><tr><th>Tip</th><th>Etken</th><th>Klinik</th><th>Antibiyotik</th></tr></thead><tbody>
+<tr><td><strong>Gastroenterit</strong></td><td>tifo dışı <em>Salmonella</em> (Enteritidis, Typhimurium)</td><td>yumurta-tavuk; 6-48 saatte ateşli, iltihaplı ishal; kendiliğinden geçer</td><td><strong>genellikle gereksiz</strong> (taşıyıcılığı uzatır); yalnız riskli grupta</td></tr>
+<tr><td><strong>Enterik ateş</strong></td><td><em>S.</em> Typhi, Paratyphi</td><td>yukarıdaki tablo</td><td>her zaman gerekli (seftriakson, florokinolon, azitromisin)</td></tr>
+<tr><td><strong>Septisemi</strong></td><td><em>S.</em> Choleraesuis, Paratyphi C</td><td>yüksek ateş, bakteriyemi; osteomiyelit, endokardit</td><td>gerekli</td></tr>
+</tbody></table>
+<p class="book-p"><strong>Tifo dışı <em>Salmonella</em> gastroenteritinde antibiyotik verilen durumlar:</strong> bebek (&lt; 3 ay), &gt; 50 yaş ve damar hastalığı/anevrizma riski, protez (kalp kapağı, eklem), bağışıklık baskısı (AIDS), inflamatuvar bağırsak hastalığı, ağır sepsis. Kronik hepatit B gibi damar/protez/bağışıklık sorunu olmayan durumlarda antibiyotik gerekmez.</p>
+<h3 class="book-h3">Shigella</h3>
+<p class="book-p"><em>Shigella</em> (A: <em>dysenteriae</em>, B: <em>flexneri</em>, C: <em>boydii</em>, D: <em>sonnei</em>) <strong>hareketsiz</strong>, laktoz negatif, <strong>H<sub>2</sub>S negatif</strong>, üreaz negatif Enterobacteriaceae üyesidir. Çok düşük dozla (10-100 bakteri) bulaşır; kolon epitelini işgal edip <strong>sitotoksin (Shiga toksini, özellikle <em>S. dysenteriae</em>)</strong> salar; <strong>kanlı-mukuslu dizanteri</strong>, ateş, tenezm yapar.</p>
+<ul class="book-list">
+<li><strong>Salmonella–Shigella ayrımı:</strong> <em>Shigella</em> <strong>hareketsiz</strong> ve <strong>H<sub>2</sub>S negatiftir</strong>; <em>Salmonella</em> hareketli ve çoğu H<sub>2</sub>S pozitiftir. Ayrımda <strong>hareket, H<sub>2</sub>S, gaz oluşumu, sitrat</strong> kullanılır; <strong>laktoz (ikisi de negatif), üreaz (ikisi de negatif), oksidaz</strong> ayrım için işe yaramaz.</li>
+<li><strong>Shigella kendi içinde</strong> mannitol ve laktoza etkiyle (ve serolojiyle) ayrılır: <em>S. dysenteriae</em> mannitol negatif, diğerleri pozitif; <em>S. sonnei</em> geç laktoz pozitif.</li>
+</ul>
+<h3 class="book-h3">E. coli ishal tipleri</h3>
+<p class="book-p">İshal yapan <em>E. coli</em>'ler virülans ve klinik olarak beş gruba ayrılır:</p>
+<table class="table compact split"><thead><tr><th>Tip</th><th>Mekanizma</th><th>Klinik</th></tr></thead><tbody>
+<tr><td><strong>ETEC</strong> (enterotoksijenik)</td><td><strong>LT (cAMP) ve ST (cGMP) enterotoksinleri</strong></td><td>turist ishalinin en sık nedeni; sulu, lökositsiz</td></tr>
+<tr><td><strong>EIEC</strong> (enteroinvaziv)</td><td>kolon epitelini işgal (<em>Shigella</em> gibi)</td><td>kanlı, iltihaplı ishal</td></tr>
+<tr><td><strong>EHEC</strong> (enterohemorajik, <strong>O157:H7</strong>)</td><td><strong>Shiga toksini (verotoksin)</strong></td><td>az pişmiş kıyma/hamburger; kanlı ishal; <strong>hemolitik üremik sendrom</strong></td></tr>
+<tr><td><strong>EPEC</strong> (enteropatojenik)</td><td>silme (A/E) lezyonu</td><td>bebek ishali</td></tr>
+<tr><td><strong>EAEC</strong> (enteroagregatif)</td><td>agregatif tutunma fimbriası</td><td>persistan ishal</td></tr>
+</tbody></table>
+<p class="book-p"><strong>EHEC O157:H7</strong> sınavın yıldızıdır: az pişmiş kıyma/hamburger sonrası kanlı ishal, ardından <strong>hemolitik üremik sendrom</strong> (akut böbrek yetmezliği, mikroanjiyopatik hemolitik anemi, trombositopeni). Virülans faktörü <strong>Shiga toksinidir</strong>. <strong>Antibiyotik verilmez</strong> (toksin salınımını ve HÜS riskini artırır).</p>
+<ul class="book-list">
+<li><strong>EHEC'in laboratuvar ipucu:</strong> O157:H7 <strong>sorbitolü fermente etmez</strong>; <strong>Sorbitol MacConkey (SMAC) agarda sorbitol negatif, renksiz koloni</strong> yapar (diğer <em>E. coli</em>'ler sorbitol pozitif, pembe). Non-O157 EHEC sorbitolü fermente edebilir.</li>
+</ul>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Hamburger + kanlı ishal + böbrek yetmezliği + düşük trombosit = EHEC O157:H7, toksini Shiga, besiyeri SMAC.</strong></p></div>
+<h3 class="book-h3">Yersinia enterocolitica</h3>
+<p class="book-p"><em>Y. enterocolitica</em> Enterobacteriaceae üyesi, <strong>üreaz pozitif</strong>, oksidaz negatif, <strong>soğukta (buzdolabı) üreyebilen</strong> Gram negatif basildir. Domuz, kemirici, çiftlik ve ev hayvanları kaynaktır; az pişmiş domuz eti, kontamine süt-su ile bulaşır. <strong>Terminal ileit ve mezenterik lenfadenit</strong> yaparak sağ alt kadran ağrısıyla <strong>apandisit taklidi</strong> yapar (psödoapandisit). Demir yükü fazla olanlarda (hemokromatoz, desferoksamin tedavisi) septisemi yapar; <strong>kan transfüzyonuyla bulaşabilir</strong> (soğukta depolanan kanda çoğalır). Seçici besiyeri <strong>CIN (sefsulodin-irgasan-novobiosin) agar</strong>.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Yersinia = üreaz +, soğukta ürer, psödoapandisit, demir sever, transfüzyonla bulaşır, CIN agar.</strong></p></div>
+<h3 class="book-h3">Campylobacter jejuni</h3>
+<p class="book-p"><em>C. jejuni</em> Enterobacteriaceae <strong>değildir</strong>: kıvrık/spiral, <strong>martı kanadı</strong> görünümlü, <strong>oksidaz ve katalaz pozitif</strong>, hareketli, <strong>42 °C'de üreyen</strong>, mikroaerofilik Gram negatif bakteridir. Az pişmiş tavuk ve pastörize edilmemiş sütle bulaşır (kuşlar ve kümes hayvanları hasta olmadan taşır). Kanlı-iltihaplı ishal yapar (dışkıda lökosit ve eritrosit); <strong>Guillain-Barré sendromu</strong> ile ilişkilidir. Seçici besiyeri <strong>Skirrow</strong>; tanıda <strong>hippurat hidrolizi</strong>, 25/42 °C üreme, oksidaz kullanılır. <strong>Mide asidine duyarlıdır.</strong> “Oksidaz negatif, üreaz pozitif” ve “<em>Enterobacteriaceae</em> üyesidir” ifadeleri <em>Campylobacter</em> için <strong>yanlıştır</strong>.</p>
+<h3 class="book-h3">Dışkı kültürü: besiyerleri</h3>
+<p class="book-p">Dışkı kültürü üç aşamalıdır: <strong>çoğaltıcı (zenginleştirici) sıvı besiyeri → seçici-ayırt edici katı besiyeri → biyokimyasal ve antijenik testler</strong>.</p>
+<table class="table compact split"><thead><tr><th>Besiyeri</th><th>Tür</th><th>Hedef</th></tr></thead><tbody>
+<tr><td><strong>Selenit F</strong>, <strong>Tetrationatlı buyyon</strong>, <strong>Gram negatif broth</strong></td><td>çoğaltıcı sıvı</td><td><em>Salmonella</em>, <em>Shigella</em></td></tr>
+<tr><td><strong>Alkali peptonlu su (APS)</strong></td><td>çoğaltıcı sıvı</td><td><strong><em>Vibrio</strong></em> (alkali sever)</td></tr>
+<tr><td><strong>MacConkey, EMB</strong></td><td>seçici-ayırt edici</td><td>laktoz ayrımı (laktoz − koloniler şüpheli)</td></tr>
+<tr><td><strong>SS agar, Hektoen (HE), XLD</strong></td><td>seçici-ayırt edici</td><td><em>Salmonella</em>, <em>Shigella</em></td></tr>
+<tr><td><strong>Bizmut sülfit agar</strong></td><td>seçici</td><td>özellikle <strong><em>S.</em> Typhi</strong></td></tr>
+<tr><td><strong>TCBS</strong></td><td>seçici</td><td><strong><em>Vibrio</strong></em> (sarı/yeşil koloni)</td></tr>
+<tr><td><strong>Sorbitol MacConkey (SMAC)</strong></td><td>seçici-ayırt edici</td><td><strong>EHEC O157</strong> (sorbitol negatif)</td></tr>
+<tr><td><strong>CIN agar</strong></td><td>seçici</td><td><strong><em>Yersinia</strong></em></td></tr>
+<tr><td><strong>Skirrow</strong></td><td>seçici</td><td><strong><em>Campylobacter</strong></em> (42 °C)</td></tr>
+</tbody></table>
+<p class="chart-caption">Dışkı kültürü besiyerleri. Deoksikolat sitrat agar bir <strong>katı</strong> seçici besiyeridir, çoğaltıcı sıvı değildir.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-accent-2">Sınav notu</span></p><p class="highlight-p">Çoğaltıcı (sıvı) besiyeri sorulduğunda <strong>deoksikolat sitrat agar</strong> yanlış şıktır: o katı, seçici-ayırt edici bir besiyeridir (2019-20 S45).</p></div>
+<p class="book-p"><strong>Kanlı dizanteri dışkısının ekileceği besiyerleri:</strong> EMB/MacConkey, HE, SS, (EHEC için) SMAC, (<em>Campylobacter</em>) Skirrow, (<em>Yersinia</em>) CIN. <strong>TCBS ve APS gerekmez</strong> (onlar <em>Vibrio</em> içindir; kolera sulu, kansız ishaldir).</p>
+<h3 class="book-h3">Biyokimyasal tanı ve TSI</h3>
+<p class="book-p"><strong>Üç şekerli demirli besiyeri (TSI):</strong> glukoz, laktoz, sükroz ve demir tuzu içerir; tüpün eğik (yatık) yüzü ve dibi ayrı değerlendirilir.</p>
+<ul class="book-list">
+<li><strong>Dip sarı:</strong> glukoz fermente edilmiş (her Enterobacteriaceae).</li>
+<li><strong>Yatık sarı:</strong> laktoz/sükroz da fermente edilmiş (örn. <em>E. coli</em>). <strong>Yatık kırmızı:</strong> laktoz fermente edilmemiş (<em>Salmonella</em>, <em>Shigella</em>).</li>
+<li><strong>Siyahlaşma:</strong> H<sub>2</sub>S pozitif (<em>Salmonella</em>, <em>Proteus</em>). <strong>Çatlama/kabarma:</strong> gaz pozitif.</li>
+</ul>
+<table class="table compact split"><thead><tr><th>Etken</th><th>TSI dip</th><th>TSI yatık</th><th>H<sub>2</sub>S</th><th>Gaz</th><th>Hareket</th><th>Üreaz</th></tr></thead><tbody>
+<tr><td><em>E. coli</em></td><td>sarı</td><td>sarı</td><td>−</td><td>+</td><td>+</td><td>−</td></tr>
+<tr><td><em>S.</em> Typhi</td><td>sarı</td><td>kırmızı</td><td><strong>+ (az)</strong></td><td><strong>−</strong></td><td>+</td><td>−</td></tr>
+<tr><td>Tifo dışı <em>Salmonella</em></td><td>sarı</td><td>kırmızı</td><td>+</td><td>+</td><td>+</td><td>−</td></tr>
+<tr><td><em>Shigella</em></td><td>sarı</td><td>kırmızı</td><td><strong>−</strong></td><td><strong>−</strong></td><td><strong>−</strong></td><td>−</td></tr>
+<tr><td><em>Y. enterocolitica</em></td><td>sarı</td><td>kırmızı</td><td>−</td><td>−</td><td>− (25°)</td><td><strong>+</strong></td></tr>
+</tbody></table>
+<p class="chart-caption">TSI ve ek testlerle ayrım. <em>S.</em> Typhi: H<sub>2</sub>S az (+), gaz yok. <em>Shigella</em>: H<sub>2</sub>S yok, gaz yok, hareketsiz. <em>Yersinia</em>: üreaz +.</p>
+<p class="book-p"><strong>Laboratuvar algoritması (sık sorulan vaka tipi):</strong></p>
+<ul class="book-list">
+<li>EMB/HE'de <strong>laktoz negatif</strong> koloni → <em>Salmonella</em> ya da <em>Shigella</em> şüphesi.</li>
+<li>TSI <strong>H<sub>2</sub>S pozitif</strong>, üreaz negatif, hareketli → <em>Salmonella</em> (biyokimyasal + antijenik teste gidilir).</li>
+<li><strong>Üreaz pozitif</strong> → <em>Salmonella</em>/<em>Shigella</em> dışlanır (<strong>Yersinia</strong>/Proteus düşünülür); “<em>Salmonella</em>-<em>Shigella</em> üremedi” denir.</li>
+<li><strong>Laktoz pozitif</strong> koloni → <em>Salmonella</em>/<em>Shigella</em> değildir.</li>
+</ul>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong><em>S.</em> Paratyphi A H<sub>2</sub>S yapmaz</strong> (TSI ve HE'de): “H<sub>2</sub>S pozitif koloni görülen hastada düşünmezsiniz” sorusunun cevabı <em>S.</em> Paratyphi A. <em>S.</em> Typhi az H<sub>2</sub>S yapar.</p></div>
+<p class="book-p"><em>S. dysenteriae</em> TSI'de dip sarı, yatık kırmızı, <strong>H<sub>2</sub>S negatif, gaz negatif</strong>; katalaz pozitif, oksidaz negatif, hareketsiz, üreaz negatif (2022-23 S44, 2019-20 S49'da bu profil <em>Shigella dysenteriae</em> ile uyumludur).</p>
+<h3 class="book-h3">Hızlı ayırıcı testler (sınav refleksi)</h3>
+<table class="table compact split"><thead><tr><th>Test</th><th>Pozitif olan ishal etkeni</th></tr></thead><tbody>
+<tr><td><strong>Oksidaz</strong></td><td><em>Vibrio</em>, <em>Campylobacter</em>, <em>Aeromonas</em>, <em>Plesiomonas</em> (Enterobacteriaceae negatif)</td></tr>
+<tr><td><strong>Üreaz</strong></td><td><em>Yersinia enterocolitica</em> (ishal etkenleri arasında)</td></tr>
+<tr><td><strong>Sitotoksin</strong></td><td><em>Shigella dysenteriae</em> (Shiga), EHEC, <em>C. difficile</em></td></tr>
+<tr><td><strong>Sorbitol negatif (SMAC)</strong></td><td>EHEC O157</td></tr>
+<tr><td><strong>42 °C, hippurat +, martı kanadı</strong></td><td><em>Campylobacter jejuni</em></td></tr>
+</tbody></table>
+<p class="chart-caption">Tek testle etkene gitme. Oksidaz Enterobacteriaceae'yı dışlar; üreaz Yersinia'yı, SMAC EHEC'i gösterir.</p>
+<h3 class="book-h3">Bölüm özeti</h3>
+<ul class="book-list">
+<li>Enterobacteriaceae oksidaz negatif, glukozu fermente eder; <em>Vibrio</em>/<em>Campylobacter</em> oksidaz pozitif, <em>Clostridium</em> Gram pozitiftir.</li>
+<li><em>Salmonella</em>: O (polisakkarit, serogrup, IgM), H (protein, serotip, IgG), Vi (kapsül, taşıyıcılıkta antikor). Serotip ayrımı Vi ile değil O+H ile.</li>
+<li>Tifo: M hücresi → Peyer → lenf → kan → organ → safra; 1. hafta kan/ilik, sonra dışkı/idrar/safra kültürü; endotoksin = lipid A.</li>
+<li>EHEC O157: hamburger, kanlı ishal, HÜS, Shiga toksini, SMAC sorbitol negatif, antibiyotik verilmez.</li>
+<li><em>Yersinia</em>: üreaz +, soğukta ürer, psödoapandisit, transfüzyonla bulaşır, CIN agar. <em>Campylobacter</em>: oksidaz/katalaz +, 42 °C, martı kanadı, Skirrow.</li>
+<li>TSI: <em>S.</em> Typhi H<sub>2</sub>S az/gaz yok; <em>Shigella</em> H<sub>2</sub>S yok/hareketsiz; <em>S.</em> Paratyphi A H<sub>2</sub>S yapmaz; üreaz + ise <em>Salmonella</em>/<em>Shigella</em> değil.</li>
+</ul>
+<h3 class="book-h3">Çıkmış sorular: Salmonella, Shigella, E. coli, Yersinia ve Laboratuvar Tanısı</h3>
+<p class="book-p">Bu bölümden 7 sınavda <strong>74 soru</strong> çıktı; bunlar <strong>62 farklı soruya</strong> karşılık geliyor ve <strong>10 tanesi</strong> birden fazla yıl soruldu. Her kartta sorunun en yeni hâli, sağ üstte kaç kez sorulduğu, kartın altında da çıktığı tüm sınavlar yazar. Rozeti koyu olanlar 3 ve daha fazla kez sorulmuş sorulardır.</p>
+<div class="qblock"><p class="qblock-title">Çıkmış sorular</p></div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S48</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S48 · 2021-22 S41</div>
+<div class="q-stem">Aşağıdaki ishal etkenlerinden hangisi <em>Enterobacteriaceae</em> ailesinden değildir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> <em>Clostridium perfringens</em> ✓</div><div class="q-opt"><b>B)</b> <em>Shigella</em></div><div class="q-opt"><b>C)</b> <em>Yersinia</em></div><div class="q-opt"><b>D)</b> EHEC</div><div class="q-opt"><b>E)</b> <em>Salmonella</em></div></div>
+<div class="q-why"><p><strong>A doğru.</strong> <em>Clostridium perfringens</em> <strong>Gram pozitif, sporlu, zorunlu anaerop</strong> bir basildir; <em>Enterobacteriaceae</em> ailesi ise Gram negatif, fakültatif anaerop, sporsuzdur.</p><p><em>Shigella</em> (B), <em>Yersinia</em> (C), EHEC (D) ve <em>Salmonella</em> (E) <em>Enterobacteriaceae</em> üyesidir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S43</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S43</div>
+<div class="q-stem">Aşağıdaki yapılardan hangisi enterik ateş tablosundaki ateş yükselmesi lökopeni / sonra lökositoz, kan basıncının düşmesi, letal şok kliniğine neden olur?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Protein yapıda H flagella antijeni</div><div class="q-opt"><b>B)</b> Vi kapsül antijeni</div><div class="q-opt ok"><b>C)</b> Lipit A ✓</div><div class="q-opt"><b>D)</b> O antijeni Polisakkarit antijeni</div><div class="q-opt"><b>E)</b> K kapsül antijeni</div></div>
+<div class="q-why"><p><strong>C doğru.</strong> Gram negatif bakterilerin LPS'sinin <strong>lipid A</strong> kısmı endotoksindir; makrofajlardan sitokin saldırarak ateş, önce lökopeni sonra lökositoz, vazodilatasyon ve kan basıncı düşmesi, ağır olguda endotoksik şok yapar.</p><p>H flagella antijeni (A) ve O antijeni (D) tanıda kullanılır ama bu tabloyu yapmaz; Vi (B) örtücü kapsüldür; <em>Salmonella</em>'da K kapsül antijeni (E) bu bağlamda sorulmaz.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S45</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S45</div>
+<div class="q-stem">Aşağıdaki diyare etmenlerinden hangisi endotoksinleri ile enfeksiyona neden olur?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Clostridium difficile</em></div><div class="q-opt"><b>B)</b> <em>Staphylococcus aureus</em></div><div class="q-opt"><b>C)</b> <em>Vibrio cholerae</em></div><div class="q-opt ok"><b>D)</b> <em>Salmonella typhi</em> ✓</div><div class="q-opt"><b>E)</b> Enterotoksijenik <em>E. coli</em></div></div>
+<div class="q-var">Bu yılın kaydında cevap boş; şıklara göre doğru cevap Salmonella typhi'dir (endotoksin = lipid A, Gram negatif).</div>
+<div class="q-why"><p><strong>D doğru.</strong> <strong>Endotoksin</strong>, Gram negatif bakterilerin dış zarındaki LPS'nin lipid A kısmıdır. <em>Salmonella</em> Typhi Gram negatiftir ve enterik ateşin ateş-şok tablosunu endotoksiniyle yapar.</p><p><em>C. difficile</em> (A), <em>S. aureus</em> (B) Gram pozitiftir, endotoksinleri yoktur. <em>V. cholerae</em> (C) ve ETEC (E) hastalığı endotoksinle değil, salgıladıkları enterotoksinle yapar.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S49</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S49 · 2023-24 S44</div>
+<div class="q-stem">Aşağıdakilerden hangisi <em>Salmonella</em> türleri için doğru değildir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Kümes hayvanları, sürüngenler, çiftlik hayvanları, evcil hayvanlar, kuşlar ve insanlarda kolonize olabilir</div><div class="q-opt"><b>B)</b> H antijeni Protein yapısındadır, hareketli türlerde bulunur</div><div class="q-opt"><b>C)</b> O Somatik antijeni Polisakkarit yapısındadır, somatik antijenine göre serogruplara ayrılırlar</div><div class="q-opt"><b>D)</b> <em>Salmonella</em> Typhi, <em>Salmonella</em> Paratyphi safra kesesinde yaşar ve kronik taşıyıcılığa neden olabilir</div><div class="q-opt ok"><b>E)</b> Vi antijeni, O antijeninin dışında bulunur, Vi antijenine göre serotiplere ayrılır ✓</div></div>
+<div class="q-var">Diğer yıllarda doğru cevap: 2023-24 S44: <strong>Vi antijenine göre serotiplere ayrılırlar.</strong>.</div>
+<div class="q-why"><p><strong>E yanlıştır.</strong> <em>Salmonella</em> serogruplara <strong>O antijenine</strong>, serotiplere <strong>O ve H antijenlerinin birlikteliğine</strong> göre ayrılır. Vi antijeni yalnız birkaç serotipte bulunan örtücü bir kapsüldür; sınıflamanın temeli değildir.</p><p>Geniş konak yelpazesinde kolonize olması (A), H antijeninin protein ve harekete bağlı olması (B), O antijeninin polisakkarit olup serogrupları belirlemesi (C) ve <em>S.</em> Typhi/Paratyphi'nin safra kesesinde kronik taşıyıcılık yapması (D) doğrudur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S43</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S43</div>
+<div class="q-stem">Hangisi <em>Salmonella</em> türlerinin O antijenlerinin özelliklerinden biri değildir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Hücre duvarının yapısında bulunur</div><div class="q-opt"><b>B)</b> <em>Salmonella</em> türleri O antijenlerine göre serogruplara ayrılır</div><div class="q-opt ok"><b>C)</b> Taşıyıcıların tanısında O antijenleri araştırılır ✓</div><div class="q-opt"><b>D)</b> Bütün <em>Salmonella</em> türlerinde bulunur</div><div class="q-opt"><b>E)</b> Karbonhidrat yapısındadır</div></div>
+<div class="q-why"><p><strong>C doğru (yanlış ifade).</strong> Kronik taşıyıcıların tanısında <strong>Vi antikoru</strong> araştırılır, O antijeni değil. O antijeninin özellikleri; hücre duvarının (LPS) yapısında olması (A), serogrupları belirlemesi (B), tüm <em>Salmonella</em>'larda bulunması (D) ve karbonhidrat (polisakkarit) yapıda olmasıdır (E).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S43</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S43</div>
+<div class="q-stem">Hangisi <em>Salmonella</em> türlerinin O antijeninin özelliklerinden biri değildir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Karbonhidrat antijenidir, pozitif olduğunda <em>Salmonella</em> ön bildirim yapılabilir.</div><div class="q-opt"><b>B)</b> O antijenine göre <em>Salmonella</em> serogruplara ayrılır</div><div class="q-opt ok"><b>C)</b> IgG yapısında antikorlar oluşumuna neden olur ✓</div><div class="q-opt"><b>D)</b> Sıcaklığa, alkole (%96 4 saat) dayanıklı, formole dayanıksızdır</div><div class="q-opt"><b>E)</b> LPS'in en dış komponentidir</div></div>
+<div class="q-why"><p><strong>C doğru (yanlış ifade).</strong> O antijeni erken dönemde <strong>IgM</strong> yapısında antikor oluşturur; IgG yanıtı H antijenine özgüdür. O antijeni karbonhidrattır, ön bildirime yarar (A), serogrupları belirler (B), ısı ve alkole dayanıklı formole duyarlıdır (D) ve LPS'nin en dış kısmıdır (E).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S33</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S33</div>
+<div class="q-stem">Hangisi <em>Salmonella</em> türlerinin O antijeninin özelliklerinden biridir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> Hücre duvarının bir parçası olması ✓</div><div class="q-opt"><b>B)</b> Bütün suşlarda bulunması</div><div class="q-opt"><b>C)</b> Laktozu fermente eden suşlarda bulunması</div><div class="q-opt"><b>D)</b> Protein yapıda olması</div><div class="q-opt"><b>E)</b> Daha çok virülan suşlarda bulunması</div></div>
+<div class="q-why"><p><strong>A doğru.</strong> O (somatik) antijeni hücre duvarındaki LPS'nin bir parçasıdır. Tüm suşlarda bulunur ama bu şıkta “hücre duvarının parçası olması” en doğru ifadedir.</p><p>Bütün suşlarda bulunması doğru olmakla birlikte O antijeninin tanımı değil sonucudur (B); laktoz fermentasyonundan bağımsızdır (C); protein değil polisakkarittir (D; protein olan H antijenidir); virülansla doğrudan derecelenmez (E).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S9</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S9</div>
+<div class="q-stem">Kan kültüründe <em>Salmonella enterica</em> alt tür <em>enterica</em> serotip Typhi üremesi saptanır. Aşağıdakilerden hangisi bu bakterinin yapısında olabilir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> O antijeni 139</div><div class="q-opt ok"><b>B)</b> Vi antijeni ✓</div><div class="q-opt"><b>C)</b> O antijeni 157, H antijeni 7</div><div class="q-opt"><b>D)</b> Oksidaz</div><div class="q-opt"><b>E)</b> Ureaz</div></div>
+<div class="q-why"><p><strong>B doğru.</strong> <em>S.</em> Typhi'nin yapısında <strong>Vi (kapsül) antijeni</strong> bulunur; O antijenini örter ve virülansa katkıda bulunur.</p><p>O antijeni 139 (A) <em>V. cholerae</em>'ye, O157:H7 (C) EHEC'e aittir. <em>Salmonella</em> oksidaz (D) ve üreaz (E) negatiftir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S41</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S41</div>
+<div class="q-stem">Kauffmann-White şemasında `S. Choleraesuis 6,7 : (c) : 1,5` şeklinde adlandırılan <em>Salmonella</em>'nın antijenik yapısı hangisinde doğru olarak verilmiştir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> O antijeni 6,7 (Faz1): H antijeni c (Faz2) 1,5</div><div class="q-opt"><b>B)</b> O antijeni 1,5: H antijeni c: 6,7 (Faz2)</div><div class="q-opt"><b>C)</b> O antijeni</div><div class="q-opt"><b>D)</b> O antijeni c (Faz1): H antijeni 6,7 (Faz2)</div><div class="q-opt ok"><b>E)</b> O antijeni 6,7: H antijeni c bazılarında bulunur (Faz1), 1,5 (Faz2) ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> Formül <strong>O antijeni : H faz 1 : H faz 2</strong> sırasıyla yazılır. “6,7 : c : 1,5”te O antijeni 6,7; H faz 1 “c”; H faz 2 “1,5”tir.</p><p>Diğer şıklar O ve H antijenlerinin yerini ya da fazlarını karıştırmıştır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S31</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S31</div>
+<div class="q-stem">Aşağıdaki bakteri isimlerinden hangisinin yazılışı yanlıştır?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>S.</em> Typhi</div><div class="q-opt ok"><b>B)</b> <em>S.</em> Enterica ✓</div><div class="q-opt"><b>C)</b> <em>S. boydii</em></div><div class="q-opt"><b>D)</b> <em>S. bongori</em></div><div class="q-opt"><b>E)</b> <em>S.</em> Gallinarum</div></div>
+<div class="q-why"><p><strong>B yanlıştır.</strong> <em>Salmonella enterica</em> bir <strong>tür</strong> adıdır; tür adları küçük harfle ve italik yazılır: <em>S. enterica</em>. “<em>S.</em> Enterica” (büyük E ile, serotip gibi) yanlıştır.</p><p><em>S.</em> Typhi (A) ve <em>S.</em> Gallinarum (E) serotiptir, büyük harfle düz yazılır; <em>S. boydii</em> (C, aslında <em>Shigella boydii</em>) ve <em>S. bongori</em> (D) tür adıdır, küçük italik yazılır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S44</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S44</div>
+<div class="q-stem">Aşağıda mikrobiyolojik özellikleri verilen gastroenterit etkeni hangisidir?<br>EMB Besiyerinde üremiş, Laktozu fermente etmeyen, Hareketli, TSİ Besiyerinde dip kısmı sarı, Yatık kısım kırmızı H_2S oluşturmuş, Genellikle glukozdan gaz yapmayan, <em>Enterobactericeae</em> üyesi, Gram negatif basil</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Shigella flexneri</em></div><div class="q-opt"><b>B)</b> Enterohemorajik <em>E. coli</em> O157:H7</div><div class="q-opt ok"><b>C)</b> <em>Salmonella</em> Typhi ✓</div><div class="q-opt"><b>D)</b> <em>Clostridium difficile</em></div><div class="q-opt"><b>E)</b> <em>Shigella dysenteriae</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> Verilen profil tifo basilini tanımlar: laktoz fermente etmez (yatık kırmızı), glukozu fermente eder (dip sarı), <strong>H<sub>2</sub>S yapar ama genellikle gaz yapmaz</strong> ve hareketlidir.</p><p><em>Shigella</em> (A, E) hareketsiz ve H<sub>2</sub>S negatiftir; EHEC O157 (B) laktoz pozitiftir; <em>C. difficile</em> (D) Gram pozitif anaeroptur, bu besiyerlerinde üremez.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S47</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S47</div>
+<div class="q-stem">Akut ishal şüphesiyle gelen hastanın yapılan gayta kültürü aşağıdaki gibidir. EMB agarda laktoz pozitif, HE agarda sarı H_2S pozitif kolonilere üre testi yapılır. Üreaz pozitif olduğu görülür. Bu sonuçlara göre hangi işlemleri yaparsınız?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Patojen bakteri üremedi sonucunu veririm</div><div class="q-opt"><b>B)</b> <em>Salmonella</em> türlerini araştırmak için biyokimyasal ve antijenik testler yaparım</div><div class="q-opt ok"><b>C)</b> <em>Salmonella Shigella</em> türleri üremedi sonucunu veririm ✓</div><div class="q-opt"><b>D)</b> <em>Salmonella Shigella Campylobacter</em> türleri üremedi sonucunu veririm</div><div class="q-opt"><b>E)</b> <em>Shigella</em> türlerini araştırmak için biyokimyasal ve antijenik testler yaparım</div></div>
+<div class="q-why"><p><strong>C doğru.</strong> Koloni <strong>laktoz pozitif</strong> ve <strong>üreaz pozitif</strong> çıkmış. <em>Salmonella</em> ve <em>Shigella</em> üreaz <strong>negatiftir</strong> ve laktozu fermente etmez; dolayısıyla üreyen etken bu ikisinden biri değildir, sonuç “<em>Salmonella</em>-<em>Shigella</em> üremedi” diye verilir. Üreaz pozitiflik <em>Yersinia</em> ya da <em>Proteus</em>'u düşündürür.</p><p>Patojen üremedi demek yanlıştır (A); <em>Salmonella</em> araştırmak için ileri test gereksizdir (B); <em>Campylobacter</em> bu besiyerinde değerlendirilmez (D); <em>Shigella</em> da dışlandığı için ileri test gerekmez (E).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S41</span><span class="tag tag-accent-2">3 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S41 · 2021-22 S42 · 2020-21 S28</div>
+<div class="q-stem">Akut ishal şüphesiyle gelen hastanın yapılan gayta kültürü aşağıdaki gibidir. EMB agarda şeffaf laktoz negatif, HE agarda yeşil H_2S pozitif koloniler görülerek, biyokimyasal testler yapılır. TSİ besiyerinde dip sarı, yatay kısım kırmızı, H_2S pozitif, üreaz negatif bakteriler görülür. Bu sonuçlara göre hangi işlemleri yaparsınız?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Patojen bakteri üremedi sonucunu veririm</div><div class="q-opt ok"><b>B)</b> <em>Salmonella</em> türlerini araştırmak için biyokimyasal ve antijenik testler yaparım ✓</div><div class="q-opt"><b>C)</b> <em>Salmonella Shigella</em> türleri üremedi sonucunu veririm</div><div class="q-opt"><b>D)</b> <em>Salmonella Shigella Campylobacter</em> üremedi sonucunu veririm</div><div class="q-opt"><b>E)</b> <em>Shigella</em> türlerini araştırmak için biyokimyasal ve antijenik testler yaparım</div></div>
+<div class="q-var">Diğer yıllarda doğru cevap: 2021-22 S42: <strong><em>Salmonella Shigella</em> türleri üremedi</strong>; 2020-21 S28: <strong><em>Salmonella</em> türleri üredi.</strong>. Varyantlarda profil değişiyor: 2021-22 S42'de EMB metalik refle (E. coli) → “S.-Shigella üremedi”; 2020-21 S28'de “Salmonella üredi”. Burada laktoz −, H₂S +, üreaz − olduğu için Salmonella araştırılır.</div>
+<div class="q-why"><p><strong>B doğru.</strong> Laktoz negatif, H<sub>2</sub>S pozitif ve <strong>üreaz negatif</strong> profil <em>Salmonella</em> ile uyumludur; tür ve serotipi belirlemek için biyokimyasal ve antijenik testlere (O, H, Vi aglütinasyonu) geçilir.</p><p>Üreme vardır (A yanlış); üreaz negatif olduğu için <em>Yersinia</em>/<em>Proteus</em> dışlanmaz ama <em>Salmonella</em> araştırılır (C, D yanlış); profil <em>Shigella</em> değil <em>Salmonella</em>'ya uyar çünkü H<sub>2</sub>S pozitiftir (<em>Shigella</em> H<sub>2</sub>S negatiftir) (E yanlış).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S42</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S42</div>
+<div class="q-stem">Beş yaşında bir kız çocuğu fastfood restoranda yaş gününe katılır. 48 saat sonra karın ağrısı, ateş, kanlı ishal olur. Acile götürülen hastanın kreatini yükselmiş trombositi ve hemoglobini düşmüştür. Hipotansif ve taşikardiktir. Bu çocukta hastalığa yol açan en olası patojen hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Enteropatojenik <em>Escherichia coli</em></div><div class="q-opt"><b>B)</b> <em>Salmonella enterica</em> alttür <em>enterica</em> serotip Typhimurium</div><div class="q-opt ok"><b>C)</b> <em>Escherichia coli</em> O157:H7 ✓</div><div class="q-opt"><b>D)</b> <em>Shigella flexneri</em></div><div class="q-opt"><b>E)</b> Enterotoksijenik <em>Escherichia coli</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> Az pişmiş kıyma/hamburger sonrası kanlı ishal ve ardından <strong>hemolitik üremik sendrom</strong> (kreatinin yüksek, trombosit ve hemoglobin düşük) klasik <strong>EHEC O157:H7</strong> tablosudur; Shiga toksini böbrek endotelini hasarlar.</p><p>EPEC (A) bebek ishali, <em>S.</em> Typhimurium (B) ateşli gastroenterit, <em>Shigella</em> (D) dizanteri, ETEC (E) sulu turist ishali yapar; HÜS yapmazlar.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S36</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S36</div>
+<div class="q-stem">Shigella* türlerinin kendi içinde ayrımında aşağıdaki testlerden hangisi/hangilerinin kullanımı en uygundur?<br>I- Gaz oluşturma özelliği<br>II- Mannitole olan etki<br>III- Laktoza olan etki<br>IV- Üreaz aktivitesi<br>V- Hareket</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> I, II, III</div><div class="q-opt"><b>B)</b> I, III</div><div class="q-opt ok"><b>C)</b> II, III ✓</div><div class="q-opt"><b>D)</b> IV, V</div><div class="q-opt"><b>E)</b> I, II, III, IV, V</div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <em>Shigella</em> türleri birbirinden <strong>mannitole etki</strong> (II; <em>S. dysenteriae</em> mannitol negatif, diğerleri pozitif) ve <strong>laktoza geç etki</strong> (III; <em>S. sonnei</em> geç pozitif) ile serolojik tiplemeyle ayrılır.</p><p>Gaz oluşturma (I) ve üreaz (IV) tüm <em>Shigella</em>'larda negatif, hareket (V) hepsinde yok olduğundan bunlar tür içi ayrımda kullanılamaz.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S42</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S42</div>
+<div class="q-stem">Aşağıdakilerden hangisi <em>Salmonella</em> ve <em>Shigella</em> ayrımı için kullanılabilir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Laktoz fermentasyonu</div><div class="q-opt"><b>B)</b> Üreaz aktivitesi</div><div class="q-opt ok"><b>C)</b> Hareket reaksiyonu ✓</div><div class="q-opt"><b>D)</b> Glikoz fermantasyonu</div><div class="q-opt"><b>E)</b> Oksidaz aktivitesi</div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <em>Salmonella</em> <strong>hareketlidir</strong>, çoğu H<sub>2</sub>S yapar; <em>Shigella</em> <strong>hareketsizdir</strong> ve H<sub>2</sub>S yapmaz. Bu yüzden hareket reaksiyonu ikisini ayırır.</p><p>Laktoz (A) ikisinde de negatif, glukoz (D) ikisinde de pozitif, üreaz (B) ikisinde de negatif, oksidaz (E) ikisinde de negatiftir; ayrım sağlamazlar.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S29</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S29</div>
+<div class="q-stem">Gastroenterit yakınma nedeniyle yapılan bir gaita kültürünün EMB agardaki üremesinde laktoz negatif koloniler izlenmiştir. Aşağıda seçeneklerde verilmiş olan testlerdeki sonuçların hangisi üreyen bu etkenin <em>Salmonella</em> mı yoksa <em>Shigella</em> türü mü olduğu ayrımında fikir vermez?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> TSI agarda gaz oluşumunun gözlenmiş olması</div><div class="q-opt"><b>B)</b> TSI agarda H_2S görülmesi</div><div class="q-opt ok"><b>C)</b> Üreaz aktivitesinin negatif olması ✓</div><div class="q-opt"><b>D)</b> MİO besiyerinde bulanık üreme varlığı</div><div class="q-opt"><b>E)</b> Sitrat besiyerinde Prusya mavisi renk değişiminin olması</div></div>
+<div class="q-why"><p><strong>C doğru.</strong> Üreaz her iki cinste de <strong>negatiftir</strong>; bu yüzden <em>Salmonella</em> ile <em>Shigella</em> ayrımında fikir vermez.</p><p>TSI'de gaz (A), H<sub>2</sub>S (B), MİO'da hareket (D) ve sitrat (E) ikisi arasında farklılık gösterir ve ayrımda kullanılır (<em>Salmonella</em> genelde gaz/H<sub>2</sub>S/hareket/sitrat pozitif eğilimli, <em>Shigella</em> negatif).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S35</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S35 · 2022-23 S28</div>
+<div class="q-stem">Bazı gastroenterit etkenleri ve tanımlamasında kullanılan besiyeri eşleştirilmiştir, doğru eşleştirme hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Salmonella enteritidis</em> - TCBS agar</div><div class="q-opt ok"><b>B)</b> <em>Yersinia enterocolitica</em> - CIN agar ✓</div><div class="q-opt"><b>C)</b> <em>Shigella flexneri</em> - Bizmut sülfit agar</div><div class="q-opt"><b>D)</b> <em>Vibrio cholera</em> El-Tor - Skirrow agar</div><div class="q-opt"><b>E)</b> <em>Campylobacter jejuni</em> - Hektoen enterik agar</div></div>
+<div class="q-var">Diğer yıllarda doğru cevap: 2022-23 S28: <strong><em>Campylobacter jejuni</em> - Skirrow agar</strong>.</div>
+<div class="q-why"><p><strong>B doğru.</strong> <strong>CIN (sefsulodin-irgasan-novobiosin) agar</strong> <em>Yersinia enterocolitica</em> için seçici besiyeridir.</p><p>TCBS <em>Vibrio</em> içindir (<em>Salmonella</em> değil, A); bizmut sülfit <em>S.</em> Typhi içindir (<em>Shigella</em> değil, C); <em>Vibrio</em> El-Tor TCBS'de ürer, Skirrow <em>Campylobacter</em> içindir (D); <em>Campylobacter</em> Skirrow'da ürer, Hektoen <em>Salmonella</em>/<em>Shigella</em> içindir (E).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S29</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S29</div>
+<div class="q-stem">Gastroenterit etkenlerinin izolasyonu için kullanılan besiyerleri hakkında doğru olan ifade hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> EMB agar <em>Salmonella</em> ile <em>Shigella</em> türü bakterilerin birbirinden ayırt edilmesinde kullanılır</div><div class="q-opt"><b>B)</b> SS agar enterohemorajik <em>E. coli</em> türlerinin izolasyonu için kullanılır</div><div class="q-opt"><b>C)</b> Bizmut sülfit agar özellikle <em>Shigella sonnei</em> için ayırtıcı bir besiyeridir</div><div class="q-opt"><b>D)</b> TCBS agar <em>Campylobacter</em> türleri için seçici bir besiyeridir</div><div class="q-opt ok"><b>E)</b> CIN agar <em>Yersinia</em> türlerinin izolasyonu için kullanılır ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> CIN agar <em>Yersinia</em> izolasyonu için kullanılır.</p><p>EMB <em>Salmonella</em>-<em>Shigella</em> ayrımı için değil, laktoz ayrımı için kullanılır (A); SS agar <em>Salmonella</em>-<em>Shigella</em> içindir, EHEC için değil (B); bizmut sülfit <em>S.</em> Typhi içindir, <em>S. sonnei</em> için değil (C); TCBS <em>Vibrio</em> içindir, <em>Campylobacter</em> için değil (D).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S41</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S41</div>
+<div class="q-stem">Bazı gastroenterit etkenleri ve izolasyonlarında kullanılan besiyerleri eşleştirilmiştir. Doğru eşleştirme hangi seçenekte yer almaktadır?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> Sorbitol MacConkey agar; Enterohemorajik <em>E. coli</em> ✓</div><div class="q-opt"><b>B)</b> Bizmut sülfit agar; <em>Shigella</em> türleri</div><div class="q-opt"><b>C)</b> CIN agar; <em>Shigella</em> türleri</div><div class="q-opt"><b>D)</b> Skirrow besiyeri; <em>Salmonella</em> türleri</div><div class="q-opt"><b>E)</b> Hektoen enterik agar; <em>Campylobacter</em> türleri</div></div>
+<div class="q-why"><p><strong>A doğru.</strong> <strong>Sorbitol MacConkey (SMAC) agar</strong> EHEC O157 içindir; bu bakteri sorbitolü fermente etmez, renksiz koloni yapar.</p><p>Bizmut sülfit <em>Salmonella</em> içindir (<em>Shigella</em> değil, B); CIN <em>Yersinia</em> içindir (<em>Shigella</em> değil, C); Skirrow <em>Campylobacter</em> içindir (<em>Salmonella</em> değil, D); Hektoen <em>Salmonella</em>/<em>Shigella</em> içindir (<em>Campylobacter</em> değil, E).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S29</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S29</div>
+<div class="q-stem">Sorbitol MacConkey agar aşağıdaki gastroenterik etkenlerden hangisinin tanımlanmasında kullanılır?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Salmonella typhi</em></div><div class="q-opt"><b>B)</b> <em>Salmonella paratyphi</em> A</div><div class="q-opt"><b>C)</b> <em>Shigella sonnei</em></div><div class="q-opt ok"><b>D)</b> Enterohemorajik <em>E. coli</em> ✓</div><div class="q-opt"><b>E)</b> <em>Vibrio cholera</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <strong>Sorbitol MacConkey agar</strong> enterohemorajik <em>E. coli</em> O157 tanımlamasında kullanılır; O157 sorbitolü fermente etmediği için renksiz (şeffaf) koloni yapar, diğer <em>E. coli</em>'ler pembedir.</p><p><em>S.</em> Typhi ve Paratyphi (A, B) için bizmut sülfit/HE/SS, <em>S. sonnei</em> (C) için SS/HE, <em>V. cholerae</em> (E) için TCBS kullanılır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S28</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S28</div>
+<div class="q-stem">Bir dışkı örneğinin Sorbitol MacConkey agar kültüründe sorbitol negatif şeffaf koloniler izlenmiştir. Bu bulguya göre aşağıdaki hangi etken için ileri tanımlama için antiserum ile tanımlama yapılması uygundur?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Salmonella typhi</em></div><div class="q-opt"><b>B)</b> <em>Shigella flexneri</em></div><div class="q-opt"><b>C)</b> <em>Yersinia enterocolitica</em></div><div class="q-opt ok"><b>D)</b> Enterohemorajik <em>E. coli</em> ✓</div><div class="q-opt"><b>E)</b> <em>Campylobacter jejuni</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> SMAC agarda <strong>sorbitol negatif (renksiz)</strong> koloni EHEC O157'yi düşündürür; O157 ve H7 antiserumlarıyla doğrulanır.</p><p><em>S.</em> Typhi (A), <em>Shigella</em> (B), <em>Yersinia</em> (C) ve <em>Campylobacter</em> (E) bu besiyerinde bu şekilde ayırt edilmez.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S45</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S45</div>
+<div class="q-stem">Hamburger yemesini takiben kanlı ishal öyküsü olan çocuk hastanın dışkısında <em>E. coli</em> O157:H7 izole edilir. Bu bakterinin virülans faktörü aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Agregatif adherans fimbria</div><div class="q-opt"><b>B)</b> K1 kapsül antijeni</div><div class="q-opt"><b>C)</b> Isıya dayanıklı toksin</div><div class="q-opt"><b>D)</b> Isıya duyarlı toksin</div><div class="q-opt ok"><b>E)</b> Shiga toksin ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> Hamburger sonrası kanlı ishal yapan <strong>EHEC O157:H7</strong>'nin virülans faktörü <strong>Shiga toksinidir</strong> (verotoksin); bağırsak ve böbrek endotelini hasarlayıp hemolitik üremik sendroma yol açar.</p><p>Agregatif fimbria (A) EAEC'in, K1 kapsülü (B) yenidoğan menenjiti yapan <em>E. coli</em>'nin, ısıya dayanıklı/duyarlı toksinler (C, D) ETEC'in özellikleridir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S44</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S44</div>
+<div class="q-stem">Hafta sonu dershane çıkışı arkadaşlarıyla hamburger yedikten sonra kanlı ishal yakınmaları başlayan Ayşe'nin dışkısından yapılan incelemede <em>E. coli</em> O157 saptanmıştır. Bu mikroorganizmanın virülans faktörü aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b>Shiga-like toxin</div></div>
+<div class="q-why"><p><strong>Cevap: Shiga-like toksin.</strong> EHEC O157'nin kanlı ishal ve hemolitik üremik sendrom yapan virülans faktörü Shiga benzeri toksindir (verotoksin).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S42</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S42 · 2023-24 S46</div>
+<div class="q-stem">Üç şekerli besiyerinde (TSİ) dip sarı, yatık kısım kırmızı, H_2S negatif, gaz oluşturmayan bakteri hangisi olabilir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Salmonella</em> Paratyphi B</div><div class="q-opt"><b>B)</b> <em>Salmonella</em> Typhi</div><div class="q-opt"><b>C)</b> <em>Salmonella</em> Paratyphi C</div><div class="q-opt ok"><b>D)</b> <em>Salmonella</em> dizanteri (<em>Shigella dysenteriae</em>) ✓</div><div class="q-opt"><b>E)</b> <em>Salmonella</em> Choleraesuis</div></div>
+<div class="q-var">Diğer yıllarda doğru cevap: 2023-24 S46: <strong><em>Salmonella</em> Typhi</strong>.</div>
+<div class="q-why"><p><strong>D doğru.</strong> Şıkta “<em>Salmonella</em> dizanteri” diye yazılmışsa da kastedilen <em>Shigella dysenteriae</em>'dir: laktoz fermente etmez (yatık kırmızı), glukozu fermente eder (dip sarı), <strong>H<sub>2</sub>S ve gaz yapmaz</strong>.</p><p><em>S.</em> Typhi H<sub>2</sub>S yapar (B); <em>S.</em> Paratyphi B ve Choleraesuis (A, C, E) H<sub>2</sub>S ve/veya gaz yapar.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S44</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S44 · 2019-20 S49</div>
+<div class="q-stem">Aşağıda fiziksel ve biyokimyasal özellikleri verilen gastroenterit etkeni bakteri seçeneklerden hangisiyle uyumludur?<br>(Katalaz +, oksidaz -, hareketsiz, üreaz -, TSİ besiyerinde dip sarı, yatık kısım kırmızı, H_2S negatif)</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>E. coli</em></div><div class="q-opt"><b>B)</b> <em>Salmonella enteritidis</em></div><div class="q-opt"><b>C)</b> <em>Vibrio cholera</em></div><div class="q-opt"><b>D)</b> <em>Yersinia enterocolitica</em></div><div class="q-opt ok"><b>E)</b> <em>Shigella dysenteriae</em> ✓</div></div>
+<div class="q-var">Diğer yıllarda doğru cevap: 2019-20 S49: <strong><em>Yersinia enterocolitica</strong></em>.</div>
+<div class="q-why"><p><strong>E doğru.</strong> <strong>Hareketsizlik, H<sub>2</sub>S negatiflik ve üreaz negatiflik</strong> bir arada <em>Shigella</em>'yı gösterir; laktoz negatif (yatık kırmızı) profil ve oksidaz negatiflik de uyumludur.</p><p><em>E. coli</em> (A) laktoz pozitiftir (yatık sarı); <em>S.</em> Enteritidis (B) hareketli ve H<sub>2</sub>S pozitiftir; <em>V. cholerae</em> (C) oksidaz pozitiftir; <em>Y. enterocolitica</em> (D) üreaz pozitiftir. (Bu sorunun 2019-20 S49 varyantında profilde üreaz pozitiflik verildiği için cevap <em>Yersinia</em> olmuştu; ayrımı üreaz belirler.)</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S47</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S47 · 2021-22 S49</div>
+<div class="q-stem">Aşağıdaki diyare etkenlerinden hangisinin üreaz testi pozitiftir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Salmonella enteritidis</em></div><div class="q-opt"><b>B)</b> <em>Shigella sonnei</em></div><div class="q-opt ok"><b>C)</b> <em>Yersinia enterocolitica</em> ✓</div><div class="q-opt"><b>D)</b> <em>Vibrio cholerae</em></div><div class="q-opt"><b>E)</b> <em>Campylobacter jejuni</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <strong>Yersinia enterocolitica</strong> üreaz pozitiftir; bu, onu <em>Salmonella</em> ve <em>Shigella</em>'dan ayıran temel testtir.</p><p><em>S.</em> Enteritidis (A), <em>S. sonnei</em> (B), <em>V. cholerae</em> (D) ve <em>C. jejuni</em> (E) üreaz negatiftir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S46</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S46</div>
+<div class="q-stem">Aşağıdaki diyare etkenlerinden hangisinin oksidaz testi pozitiftir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Salmonella enteritidis</em></div><div class="q-opt"><b>B)</b> <em>Shigella sonnei</em></div><div class="q-opt"><b>C)</b> <em>Yersinia enterocolitica</em></div><div class="q-opt ok"><b>D)</b> <em>Vibrio cholera</em> ✓</div><div class="q-opt"><b>E)</b> <em>Clostridium botulinum</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <strong>Vibrio cholerae</strong> oksidaz pozitiftir (<em>Campylobacter</em> ve <em>Aeromonas</em> da öyle). Oksidaz pozitiflik bu bakteriyi <em>Enterobacteriaceae</em>'dan ayırır.</p><p><em>S.</em> Enteritidis (A), <em>S. sonnei</em> (B), <em>Y. enterocolitica</em> (C) oksidaz negatiftir; <em>C. botulinum</em> (E) bir anaeroptur, bu testle değerlendirilmez.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S45</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S45</div>
+<div class="q-stem">Yersinia enterocolitica* ile ilgili yanlış ifadeyi bulunuz.</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Oksidaz negatif, üreaz pozitif, Fakültatif anaerob, Gram negatif basildir</div><div class="q-opt ok"><b>B)</b> Alkali peptonlu suda soğuk zenginleştirme yapılır ✓</div><div class="q-opt"><b>C)</b> Domuz, tavşan, kemiriciler, çiftlik hayvanlarının bağırsakları, doğal kaynaktır</div><div class="q-opt"><b>D)</b> Özellikle immun baskılanmış kişilerde, Demir yükü fazla olanlarda ve desferoksamin tedavisi alanlarda septisemiye neden olabilir</div><div class="q-opt"><b>E)</b> Köpek ve kedilerde izole edilebilir, küçük çocuklar için kaynak olabilir</div></div>
+<div class="q-why"><p><strong>B yanlıştır.</strong> <em>Yersinia</em>'nın soğuk zenginleştirmesi <strong>alkali peptonlu suda değil</strong>, fosfat tamponlu tuzlu suda (soğukta bekletme) yapılır; alkali peptonlu su <em>Vibrio</em>'nun zenginleştirici besiyeridir.</p><p>Oksidaz negatif, üreaz pozitif, fakültatif anaerop Gram negatif basil olması (A); domuz ve çiftlik hayvanlarının kaynak olması (C); demir yükü fazla olanlarda septisemi yapması (D) ve kedi-köpekten izole edilebilmesi (E) doğrudur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S45</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S45</div>
+<div class="q-stem">Arkadaşlarıyla dağ gezisi yapan tıp öğrencisi yolda gördüğü akarsudan içer. Diyare şikayeti gelişir ve gaita mikroskopisinde eritrosit görülür. Kültürde üreyen bakterinin üreaz pozitif, oksidaz negatif, glikoz pozitif olduğu görülür. Bu bakterinin mezenterik lenfadenit yaptığını bilen bu öğrenci ayrılanır. Tanımlanan bakteri aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b><em>Yersinia enterocolitica</em></div></div>
+<div class="q-why"><p><strong>Cevap: <em>Yersinia enterocolitica</em>.</strong> <strong>Üreaz pozitif, oksidaz negatif</strong> profil ve <strong>mezenterik lenfadenit (psödoapandisit)</strong> <em>Yersinia</em>'yı tanımlar; kontamine suyla bulaşır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S47</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S47</div>
+<div class="q-stem">Aşağıdaki gastroenterit etkenlerinden hangisi kan transfüzyonu ile bulaşabilir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Vibrio cholera</em></div><div class="q-opt ok"><b>B)</b> <em>Yersinia enterocolitica</em> ✓</div><div class="q-opt"><b>C)</b> <em>Bacillus cereus</em></div><div class="q-opt"><b>D)</b> <em>Aeromonas</em> sp.</div><div class="q-opt"><b>E)</b> <em>Shigella</em> sp.</div></div>
+<div class="q-why"><p><strong>B doğru.</strong> <em>Y. enterocolitica</em> <strong>soğukta üreyebildiği</strong> için 4 °C'de saklanan kan ürünlerinde çoğalır ve transfüzyonla bulaşıp endotoksik şok yapabilir.</p><p><em>V. cholerae</em> (A), <em>B. cereus</em> (C), <em>Aeromonas</em> (D) ve <em>Shigella</em> (E) transfüzyonla bulaşmaz.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S28</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S28</div>
+<div class="q-stem">Gastroenterit etkeni <em>Yersinia</em> türleri için kullanılan seçici ayırt edici besiyeri hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Hektoen enterik agar</div><div class="q-opt"><b>B)</b> Skirrow agar</div><div class="q-opt ok"><b>C)</b> Sefsulodin Irgasan Novobiocin agar ✓</div><div class="q-opt"><b>D)</b> Sorbitol MacConkey agar</div><div class="q-opt"><b>E)</b> Bizmut sülfit agar</div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <strong>CIN agar</strong> <em>Yersinia enterocolitica</em> için seçici-ayırt edici besiyeridir; bakteri “boğa gözü” (ortası kırmızı) koloni yapar.</p><p>Hektoen (A) <em>Salmonella</em>/<em>Shigella</em>, Skirrow (B) <em>Campylobacter</em>, SMAC (D) EHEC, bizmut sülfit (E) <em>Salmonella</em> içindir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S46</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S46</div>
+<div class="q-stem">İntestinal ve ekstraintestinal enfeksiyonlara neden olabilen, buzdolabında soğukta üreyebilen, aynı zamanda yenidoğan menenjit etkeni olan bakteri aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Vibrio parahemolyticus</em></div><div class="q-opt"><b>B)</b> <em>Yersinia enterocolitica</em></div><div class="q-opt"><b>C)</b> <em>Bacillus cereus</em></div><div class="q-opt ok"><b>D)</b> <em>Listeria monocytogenes</em> ✓</div><div class="q-opt"><b>E)</b> <em>Clostridium perfringens</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <strong>Listeria monocytogenes</strong> buzdolabı sıcaklığında ürer; gastroenteritin yanı sıra gebe, yenidoğan ve bağışıklığı baskılanmışta sepsis ve <strong>menenjit</strong> yapar.</p><p><em>V. parahaemolyticus</em> (A), <em>Y. enterocolitica</em> (B), <em>B. cereus</em> (C) ve <em>C. perfringens</em> (E) yenidoğan menenjiti etkeni olarak sorulmaz. (<em>Yersinia</em> da soğukta ürer ama tipik menenjit etkeni Listeria'dır.)</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S48</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S48</div>
+<div class="q-stem">Aşağıdakilerden hangisi buzdolabında üreyebilen ve menenjit de gastroenterit etkenidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Shigella sonnei</em></div><div class="q-opt"><b>B)</b> <em>Salmonella enteritidis</em></div><div class="q-opt ok"><b>C)</b> <em>Listeria monocytogenes</em> ✓</div><div class="q-opt"><b>D)</b> <em>Campylobacter jejuni</em></div><div class="q-opt"><b>E)</b> <em>Bacillus cereus</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> Aynı bilgi: soğukta üreyebilen, hem gastroenterit hem menenjit yapan etken <strong>Listeria monocytogenes</strong>'tir.</p><p><em>S. sonnei</em> (A), <em>S.</em> Enteritidis (B), <em>C. jejuni</em> (D) ve <em>B. cereus</em> (E) bu özellikleri bir arada taşımaz.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S48</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S48</div>
+<div class="q-stem">Kendi ineğinden sağdığı sütü buzdolabında saklayan ve ertesi günü içen Fatma nine karın ağrısı, ishal ve ateş şikayetiyle hastaneye gider. Hastanede rutin yapılan gayta kültüründe <em>Salmonella, Shigella, Campylobacter</em> üremedi şeklinde sonuç gelir. Bu durumda aşağıdakilerden hangisini düşünürsünüz?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Bacillus cereus</em></div><div class="q-opt"><b>B)</b> <em>Staphylococcus aureus</em></div><div class="q-opt"><b>C)</b> <em>Clostridium botulinum</em></div><div class="q-opt"><b>D)</b> <em>Clostridium difficile</em></div><div class="q-opt ok"><b>E)</b> <em>Listeria monocytogenes</em> ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> Buzdolabında bekleyen çiğ sütle gelen ateşli ishalde rutin dışkı kültürü (<em>Salmonella</em>, <em>Shigella</em>, <em>Campylobacter</em>) negatifse <strong>Listeria monocytogenes</strong> düşünülür; soğukta ürer ve özel besiyeri gerektirir.</p><p><em>B. cereus</em> (A) ve <em>S. aureus</em> (B) besin zehirlenmesidir, kültürle rutin aranmaz; <em>C. botulinum</em> (C) felç yapar; <em>C. difficile</em> (D) antibiyotik öyküsü ister.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S48</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S48</div>
+<div class="q-stem">Vibrio cholera* ile ilgili ifadelerden yanlış olanı bulunuz.</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Alkali ortamlarda iyi ürer, zenginleştirme için APS kullanılır</div><div class="q-opt"><b>B)</b> Neden olduğu diyarede enterotoksin sıvı sekresyonunda artışa neden olur</div><div class="q-opt ok"><b>C)</b> <em>Enterobacteriaceae</em> ailesinden, gram-negatif basil, fakültatif anaerob bakteridir ✓</div><div class="q-opt"><b>D)</b> Mide asidine duyarlı, Kan dolaşımına geçmez, barsak sisteminde kalır</div><div class="q-opt"><b>E)</b> Oksidaz ve katalaz testleri pozitiftir</div></div>
+<div class="q-why"><p><strong>C yanlıştır.</strong> <em>Vibrio cholerae</em> <em>Enterobacteriaceae</em> ailesinden <strong>değildir</strong>: oksidaz pozitif, kıvrık Gram negatif bir basildir. <em>Enterobacteriaceae</em> oksidaz negatiftir.</p><p>Alkali ortamda iyi ürüyüp APS ile zenginleştirilmesi (A), enterotoksiniyle sıvı sekresyonunu artırması (B), mide asidine duyarlı olup kan dolaşımına geçmemesi (D) ve oksidaz-katalaz pozitifliği (E) doğrudur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S48</span><span class="tag tag-accent-2">3 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S48 · 2021-22 S48 · 2020-21 S40</div>
+<div class="q-stem">On iki yaşında erkek çocuk nehirde oynarken ayağını kesmiştir. Üç gün sonra yara yerinde ağrı, ödem, cerahat gelmesi nedeniyle hastaneye başvurur. Enfeksiyonun en olası etkeni hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Escherichia coli</em></div><div class="q-opt ok"><b>B)</b> <em>Vibrio vulnificus</em> ✓</div><div class="q-opt"><b>C)</b> <em>Aeromonas hydrophila</em></div><div class="q-opt"><b>D)</b> <em>Proteus mirabilis</em></div><div class="q-opt"><b>E)</b> <em>Salmonella typhimurium</em></div></div>
+<div class="q-why"><p><strong>B doğru.</strong> Su kaynaklı yara enfeksiyonlarının en tehlikeli etkeni <strong>Vibrio vulnificus</strong>'tur; özellikle karaciğer hastalarında hızlı ilerleyen selülit ve sepsis yapar. (<em>Aeromonas</em> da benzer yapar; soru <em>Vibrio vulnificus</em>'u beklemektedir. 2020-21 S40 ve 2021-22 S48'de de cevap <em>V. vulnificus</em>'tur.)</p><p><em>E. coli</em> (A), <em>A. hydrophila</em> (C; ikinci olası etken), <em>P. mirabilis</em> (D) ve <em>S. typhimurium</em> (E) bu tabloda ilk sırada beklenmez.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S14</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S14 · 2019-20 S46</div>
+<div class="q-stem">Lokantada tavuk yemesinin ardından meydana gelen ishalde gaytanın incelemesinde hareketli, oksidaz ve katalaz pozitif, mikroskopik incelemede martı kanadı şeklinde bakteriler görülür. Bu bakteri hangisi olabilir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>E. coli</em></div><div class="q-opt"><b>B)</b> <em>Vibrio vulnificus</em></div><div class="q-opt ok"><b>C)</b> <em>Campylobacter jejuni</em> ✓</div><div class="q-opt"><b>D)</b> <em>Salmonella enteritidis</em></div><div class="q-opt"><b>E)</b> <em>Shigella sonnei</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <strong>Martı kanadı (seagull)</strong> görünümü ve <strong>oksidaz-katalaz pozitifliği</strong> <em>Campylobacter jejuni</em>'ye özgüdür; az pişmiş tavukla bulaşır, 42 °C'de Skirrow besiyerinde ürer.</p><p><em>E. coli</em> (A), <em>S.</em> Enteritidis (D) ve <em>S. sonnei</em> (E) oksidaz negatif düz basildir; <em>V. vulnificus</em> (B) deniz suyu yara etkenidir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S50</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S50</div>
+<div class="q-stem">Campylobacter* ile ilgili yanlış olanı bulunuz.</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> Oksidaz negatif üreaz pozitiftir ✓</div><div class="q-opt"><b>B)</b> Dışkıda eritrosit ve lökosit görülür</div><div class="q-opt"><b>C)</b> Mide asidine duyarlıdır</div><div class="q-opt"><b>D)</b> Gram boyasında ince spiral gram negatif basil şeklinde görülür</div><div class="q-opt"><b>E)</b> Kuşlar hasta olmadan bakteriyi taşıyabilir</div></div>
+<div class="q-why"><p><strong>A yanlıştır.</strong> <em>Campylobacter</em> <strong>oksidaz pozitif, üreaz negatiftir</strong>; “oksidaz negatif üreaz pozitif” ifadesi yanlıştır (üreaz pozitif olan <em>Yersinia</em>'dır).</p><p>Dışkıda eritrosit-lökosit görülmesi (B), mide asidine duyarlılık (C), ince spiral Gram negatif morfoloji (D) ve kuşların sağlıklı taşıyıcı olması (E) doğrudur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S49</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S49</div>
+<div class="q-stem">Campylobacter* ile ilgili ifadelerden yanlış olanı bulunuz.</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Neden olduğu diyarede dışkıda eritrosit ve lökosit görülür</div><div class="q-opt"><b>B)</b> Oksidaz ve katalaz testleri pozitiftir</div><div class="q-opt"><b>C)</b> Seçici besiyeri Skirrow'da 42°C ürerler</div><div class="q-opt ok"><b>D)</b> <em>Enterobacteriaceae</em> üyesidirler. ✓</div><div class="q-opt"><b>E)</b> Kuşlar hasta olmadan bakteriyi taşıyabilirler</div></div>
+<div class="q-why"><p><strong>D yanlıştır.</strong> <em>Campylobacter</em> <em>Enterobacteriaceae</em> üyesi <strong>değildir</strong>; oksidaz pozitif, kıvrık, mikroaerofilik bir bakteridir.</p><p>Dışkıda eritrosit-lökosit (A), oksidaz-katalaz pozitifliği (B), Skirrow'da 42 °C üreme (C) ve kuşların taşıyıcılığı (E) doğrudur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S28</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S28</div>
+<div class="q-stem">Aşağıdaki laboratuvar tanımlama testlerinden hangisinin <em>Campylobacter</em> türlerinin tanımlanmasında yararı yoktur?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Gram boyama</div><div class="q-opt"><b>B)</b> Oksidaz testi</div><div class="q-opt"><b>C)</b> Hippurat hidrolizi</div><div class="q-opt"><b>D)</b> 25 ve 42 derecede üreme özelliğinin test edilmesi</div><div class="q-opt ok"><b>E)</b> Sorbitol MacConkey agarda üreme özelliği ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> Sorbitol MacConkey agar <strong>EHEC O157</strong> içindir; <em>Campylobacter</em> tanımlamasında yeri yoktur.</p><p>Gram boyama (martı kanadı) (A), oksidaz testi (B), hippurat hidrolizi (C) ve 25-42 °C üreme farkı (D) <em>Campylobacter</em> tanımlamasında kullanılır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S15</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S15</div>
+<div class="q-stem">Salmonella* türlerinden hangisi TSİ agar ve Hektoen enterik agarda H_2S yapmaz?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>S. enteritidis</em></div><div class="q-opt"><b>B)</b> <em>S. pullorum</em></div><div class="q-opt"><b>C)</b> <em>S. typhi</em></div><div class="q-opt ok"><b>D)</b> <em>S. paratyphi</em> A ✓</div><div class="q-opt"><b>E)</b> <em>S. gallinarum</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <strong>S. Paratyphi A</strong> H<sub>2</sub>S yapmayan (ya da çok az yapan) <em>Salmonella</em> serotipidir; bu yüzden TSI ve Hektoen agarda siyah merkez oluşmaz.</p><p><em>S.</em> Enteritidis (A), <em>S.</em> Typhi (C; az da olsa yapar), <em>S.</em> Pullorum (B) ve <em>S.</em> Gallinarum (E) H<sub>2</sub>S pozitif kabul edilir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S42</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S42</div>
+<div class="q-stem">Akut ishal şikayetiyle gelen hastanın gaytasının mikroskopik incelemesinde bol lökosit görülür. Seçici besiyerlerine yapılan ekimlerde laktoz negatif H_2S pozitif koloniler görülür. Bu hastada aşağıdaki etkenlerden hangisini düşünmezsiniz?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>S.</em> Typhi</div><div class="q-opt"><b>B)</b> <em>S.</em> Choleraesuis</div><div class="q-opt"><b>C)</b> <em>S.</em> Gallinarum</div><div class="q-opt ok"><b>D)</b> <em>S.</em> Paratyphi A ✓</div><div class="q-opt"><b>E)</b> <em>S.</em> Pullorum</div></div>
+<div class="q-why"><p><strong>D doğru.</strong> Dışkıda bol lökosit ve laktoz negatif, <strong>H<sub>2</sub>S pozitif</strong> koloniler H<sub>2</sub>S yapan <em>Salmonella</em>'ları gösterir. <strong>S. Paratyphi A H<sub>2</sub>S yapmadığı</strong> için bu tabloda düşünülmez.</p><p><em>S.</em> Typhi (A), <em>S.</em> Choleraesuis (B), <em>S.</em> Gallinarum (C) ve <em>S.</em> Pullorum (E) H<sub>2</sub>S pozitiftir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S29</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S29</div>
+<div class="q-stem">Aşağıdaki besiyerlerinden hangisi <em>S. typhi</em> başta olmak üzere <em>Salmonella</em> türleri için seçici bir besiyeridir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Selenit F</div><div class="q-opt"><b>B)</b> Gram negatif broth</div><div class="q-opt"><b>C)</b> CIN agar</div><div class="q-opt"><b>D)</b> Sorbitol MacConkey agar</div><div class="q-opt ok"><b>E)</b> Bizmut sülfit agar ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> <strong>Bizmut sülfit agar</strong> özellikle <em>S.</em> Typhi için seçici bir besiyeridir; H<sub>2</sub>S üreten koloniler metalik siyah renk verir.</p><p>Selenit F (A) ve Gram negatif broth (B) çoğaltıcı sıvı besiyeridir; CIN (C) <em>Yersinia</em>, SMAC (D) EHEC içindir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S16</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S16</div>
+<div class="q-stem">Aşağıdaki besiyerlerinden hangisi vibriolar için gastrointestinal örneklerin çoğaltıcı besiyeridir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Tetratiyonatlı buyyon</div><div class="q-opt"><b>B)</b> Deoksikolat sitrat agar</div><div class="q-opt"><b>C)</b> Gram Negatif broth</div><div class="q-opt ok"><b>D)</b> Alkali peptonlu su ✓</div><div class="q-opt"><b>E)</b> Selenit F</div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <em>Vibrio</em> alkali ortamı sevdiği için <strong>alkali peptonlu su</strong> onun çoğaltıcı (zenginleştirici) besiyeridir.</p><p>Tetratiyonatlı buyyon (A) ve Selenit F (E) <em>Salmonella</em>/<em>Shigella</em> çoğaltıcısıdır; deoksikolat sitrat agar (B) katı seçici besiyeridir; Gram negatif broth (C) Enterobacteriaceae içindir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S45</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S45</div>
+<div class="q-stem">Aşağıdaki besiyerlerinden hangisi gastrointestinal örnekler için çoğaltıcı besiyeri değildir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Gram negatif broth</div><div class="q-opt"><b>B)</b> Selenit F</div><div class="q-opt"><b>C)</b> Alkali peptonlu su</div><div class="q-opt ok"><b>D)</b> Deoksikolat sitrat agar ✓</div><div class="q-opt"><b>E)</b> Tetratiyonatlı buyyon</div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <strong>Deoksikolat sitrat agar</strong> katı, seçici-ayırt edici bir besiyeridir; çoğaltıcı (zenginleştirici sıvı) besiyeri değildir.</p><p>Gram negatif broth (A), Selenit F (B), alkali peptonlu su (C) ve tetratiyonatlı buyyon (E) çoğaltıcı sıvı besiyerleridir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S43</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S43</div>
+<div class="q-stem">Aşağıdaki besiyerlerinden hangisi <em>Salmonella</em> için gastrointestinal örneklerin besiyeri değildir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b>Campy-tiyoglikolat besiyeri</div></div>
+<div class="q-why"><p><strong>Cevap: Campy-tiyoglikolat besiyeri.</strong> Bu besiyeri <em>Campylobacter</em> içindir; <em>Salmonella</em> için selenit F, tetratiyonat, SS, HE, XLD, bizmut sülfit kullanılır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S49</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S49</div>
+<div class="q-stem">Diyare, kramp şeklinde karın ağrısı, ateş, kanlı dışkı şikayetleri ile hastaneye başvuran hastanın gayta kültürünü aşağıdaki besiyerlerinden hangisine ekim yapmaya gerek yoktur?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> CIN agar</div><div class="q-opt"><b>B)</b> Skirrow agar</div><div class="q-opt ok"><b>C)</b> APS ✓</div><div class="q-opt"><b>D)</b> Hektoen Enterik Agar</div><div class="q-opt"><b>E)</b> XLD agar</div></div>
+<div class="q-why"><p><strong>C doğru.</strong> Kanlı dışkıda <em>Shigella</em>, <em>Salmonella</em>, <em>Campylobacter</em>, EHEC, <em>Yersinia</em> aranır; bunun için CIN, Skirrow, HE, XLD ekilir. <strong>APS (alkali peptonlu su)</strong> <em>Vibrio</em> içindir ve kolera kanlı değil sulu ishal yaptığı için kanlı dizanteri örneğinde gerekmez.</p><p>CIN (A), Skirrow (B), HE (D) ve XLD (E) kanlı ishal etkenleri için gereklidir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S44</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S44</div>
+<div class="q-stem">Kanlı ishal nedeniyle hastaneye başvuran kişiden gayta kültürü istenir. Laboratuvara gönderilen gayta örneğinin aşağıdaki besiyerlerinden hangisine ekim yapılması şart değildir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> EMB agar</div><div class="q-opt"><b>B)</b> HE agar</div><div class="q-opt"><b>C)</b> SS agar</div><div class="q-opt"><b>D)</b> SMAC agar</div><div class="q-opt ok"><b>E)</b> TCBS agar ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> Kanlı ishalde <em>Vibrio</em> beklenmez; <strong>TCBS</strong> (Vibrio besiyeri) ekimi şart değildir. EMB, HE, SS kanlı ishal etkenleri için; SMAC EHEC için gereklidir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S41</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S41</div>
+<div class="q-stem">Uzun süredir hastanede yatarak antibiyotik tedavisi alan hastanın gaitasının mikroskopik incelemesinde lökosit ve eritrosit görülür. Bu hastanın tanısı için hangisini yapmazsınız?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Gaitayı MacConkey agara ekmek</div><div class="q-opt"><b>B)</b> Gaitayı EMB besiyerine ekmek</div><div class="q-opt"><b>C)</b> Gaitayı SS besiyerine ekmek</div><div class="q-opt ok"><b>D)</b> Gaitayı anaerop besiyerine ekmek ✓</div><div class="q-opt"><b>E)</b> Gaitada <em>Clostridium difficile</em> toksini aramak</div></div>
+<div class="q-why"><p><strong>D doğru.</strong> Uzun süre hastanede yatıp antibiyotik alan hastada kanlı-iltihaplı ishal <strong>C. difficile</strong>'yi düşündürür. Tanı <strong>dışkıda toksin (A/B) ya da GDH antijeni/NAAT</strong> ile konur; <em>C. difficile</em> rutin anaerop dışkı kültürüyle aranmaz (seçici olmayan anaerop ekim yapılmaz).</p><p>MacConkey (A), EMB (B), SS (C) diğer etkenleri dışlamak için ekilebilir; dışkıda <em>C. difficile</em> toksini aranır (E).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S28</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S28</div>
+<div class="q-stem">Kanlı mukuslu ishal ve baş ağrısı olan hastanın yapılan gaita kültüründe EMB agarda laktoz negatif koloniler saptanmış. Olası tanıyı saptamak için aşağıdaki ek testlerden hangisi yararlı değildir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b>Katalaz düzeylerinin araştırılması</div></div>
+<div class="q-why"><p><strong>Cevap: katalaz düzeyinin araştırılması.</strong> <em>Salmonella</em> ve <em>Shigella</em>'nın ikisi de katalaz pozitiftir; bu test ayrım sağlamaz. Hareket, H<sub>2</sub>S, sitrat ve seroloji ayırt edicidir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S29</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S29</div>
+<div class="q-stem">Bazı gastroenterit etkenleri ve izolasyonlarında kullanılan besiyerleri eşleştirilmiştir. Hangisi doğru değildir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b><em>Campylobacter</em> - SS agar</div></div>
+<div class="q-why"><p><strong>Cevap: <em>Campylobacter</em> – SS agar.</strong> <em>Campylobacter</em>'ın seçici besiyeri Skirrow'dur; SS agar <em>Salmonella</em>/<em>Shigella</em> içindir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S44</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S44</div>
+<div class="q-stem">Tifo taşıyıcılığı için <em>Salmonella</em> aşağıdaki örneklerden hangisinde araştırılmaz?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Dışkı</div><div class="q-opt"><b>B)</b> Kan</div><div class="q-opt"><b>C)</b> Safra kesesi</div><div class="q-opt"><b>D)</b> Kemik iliği</div><div class="q-opt ok"><b>E)</b> İdrar ✓</div></div>
+<div class="q-var">Kronik taşıyıcı tanısında esas örnek dışkı ve safradır; kan taşıyıcılıkta kullanılmaz. Bu yılki anahtar idrarı işaretlemiş olsa da standart bilgiyle çelişir; sınavda şıkların geri kalanı (dışkı, safra kesesi, kemik iliği) taşıyıcıda daha tutarlıdır.</div>
+<div class="q-why"><p><strong>E (anahtara göre).</strong> Kronik taşıyıcıda bakteri safra kesesinde yaşar ve aralıklı olarak dışkı ve idrarla atılır; tanı dışkı, safra ve idrar kültürüyle konur. Kemik iliği ve kan daha çok <strong>akut tifo</strong> tanısında (özellikle 1. haftada) kullanılır. Bu soruda anahtar “idrar” demiş; idrar aslında taşıyıcıda kullanılabilen bir örnektir, bu yüzden soru tartışmalıdır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S50</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S50</div>
+<div class="q-stem">Bahçesinde inek besleyen 70 yaşındaki Ayşe teyze ishal şikayeti ile hastaneye başvurur. Gayta mikroskopisinde bol lökosit ve eritrosit görülür. Gaytası Sorbitol MacConkey agara, EMB, HE agara ekilir. Sorbitol kullanan, Laktoz pozitif, HE agarda sarı koloniler görülür. Bu hastada aşağıdaki etkenlerden hangisini düşünürsünüz?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Salmonella</em> Typhi</div><div class="q-opt"><b>B)</b> <em>Shigella sonnei</em></div><div class="q-opt"><b>C)</b> <em>Shigella boydii</em></div><div class="q-opt"><b>D)</b> <em>E. coli</em> O157</div><div class="q-opt ok"><b>E)</b> <em>E. coli</em> non-O157 ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> <strong>Sorbitolü fermente eden (SMAC'ta renkli), laktoz pozitif</strong> profil klasik O157 ile uymaz; bu, sorbitol pozitif <strong>O157 dışı (non-O157) EHEC</strong> suşunu düşündürür. Çiftlik hayvanları (sığır) bu suşların kaynağıdır.</p><p><em>S.</em> Typhi (A) laktoz negatif/H<sub>2</sub>S pozitiftir; <em>Shigella</em> (B, C) hareketsiz/laktoz negatiftir; O157 (D) sorbitol negatiftir (burada sorbitol pozitif).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S41</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S41 · 2024-25 S47</div>
+<div class="q-stem">Clostridium difficile*'nin neden olduğu diyare ile ilgili yanlış ifadeyi bulunuz.</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Antibiyotikle ilişkili Psödomembranöz enterokolite neden olur</div><div class="q-opt"><b>B)</b> Abdominal kramplar, lökositoz ve ateş görülür</div><div class="q-opt ok"><b>C)</b> Bilinen en güçlü toksini üretir ✓</div><div class="q-opt"><b>D)</b> Tanı dışkılarında enterotoksin ve sitotoksin gösterilmesi ile konur</div><div class="q-opt"><b>E)</b> Anaerobik, sporlu, gram negatif basildir</div></div>
+<div class="q-var">Diğer yıllarda doğru cevap: 2024-25 S47: <strong>Pirinçli besin veya makarna yedikten sonra görülür</strong>.</div>
+<div class="q-why"><p><strong>C doğru (yanlış ifade — iki yıl iki farklı yanlış şık).</strong> Bu yılki kayıtta işaretlenen yanlış ifade, <em>C. difficile</em>'nin “bilinen en güçlü toksini ürettiği”dir; bilinen en güçlü toksin <strong>botulinum</strong> toksinidir. Ayrıca E şıkkındaki “Gram negatif” de yanlıştır: <em>C. difficile</em> <strong>Gram pozitif</strong>, sporlu, anaerop basildir.</p><p>Antibiyotikle ilişkili psödomembranöz enterokolit yapması (A), kramp-lökositoz-ateş (B) ve tanının dışkıda toksin gösterilmesiyle konması (D) doğrudur. (2024-25 S47'de yanlış şık “pirinçli/makarnalı besinle görülür”dü — o <em>B. cereus</em>'tur.)</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S41</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S41</div>
+<div class="q-stem">Clostridium botulinum* için aşağıdaki ifadelerden doğru olanı bulunuz.</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Neden olduğu enfeksiyon 24-88 saatte kendi kendine sonlanır.</div><div class="q-opt"><b>B)</b> Sığır, hindi, tavuk domuz eti yenmesi ile gelişen gastroenterite neden olur.</div><div class="q-opt ok"><b>C)</b> Oluşturduğu toksin sinaptik boşlukta ve nöromüsküler bileşkede asetilkolin salınımını engeller. ✓</div><div class="q-opt"><b>D)</b> Antibiyotikle ilişkili psödomembranöz enterokolite neden olur.</div><div class="q-opt"><b>E)</b> Tedavide antibiyotik kesilir, ağızdan vankomisin veya metronidazol verilir</div></div>
+<div class="q-why"><p><strong>C doğru.</strong> Botulinum toksini presinaptik uçtan <strong>asetilkolin salınımını engeller</strong>; sonuç simetrik, inen <strong>gevşek (flask) felç</strong>tir (pitoz, çift görme, yutma güçlüğü).</p><p>Kendiliğinden sınırlanan gastroenterit (A), etli besinle gastroenterit (B) ve psödomembranöz kolit-vankomisin tedavisi (D, E) <em>C. difficile</em> ve diğer etkenlere aittir, botuluizme değil.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S43</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S43</div>
+<div class="q-stem">Bir yaşındaki Ersin bal yemesi sonucu gelişen kabızlık, hipotoni, emme ve yutma güçlüğü şikayetleri ile hastaneye getirilir. Eğer enfeksiyöz bir etken düşünülürse aşağıdaki bakterilerden hangisinin sorumlu olduğunu düşünürsünüz?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> <em>Clostridium botulinum</em> ✓</div><div class="q-opt"><b>B)</b> <em>Clostridium perfringens</em></div><div class="q-opt"><b>C)</b> <em>Clostridium difficile</em></div><div class="q-opt"><b>D)</b> <em>Bacillus cereus</em></div><div class="q-opt"><b>E)</b> <em>Yersinia enterocolitica</em></div></div>
+<div class="q-why"><p><strong>A doğru.</strong> Bir yaşından küçük bebekte balla alınan <strong><em>C. botulinum</em> sporları</strong> bağırsakta çoğalıp toksin üretir; <strong>bebek botulizmi</strong> kabızlık, hipotoni (gevşek bebek), emme ve yutma güçlüğüyle gider.</p><p><em>C. perfringens</em> (B) besin zehirlenmesi, <em>C. difficile</em> (C) antibiyotik koliti, <em>B. cereus</em> (D) kusma-ishal, <em>Y. enterocolitica</em> (E) psödoapandisit yapar.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S3</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S3</div>
+<div class="q-stem">Daha önce sağlıklı olan ve ek başka hastalığı olmayan hasta ishal nedeniyle polikliniğe başvurmuştur. Üç gündür 8-10 kez dışkılaması olan 30 yaşındaki bu hastada aşağıdaki etkenlerden hangisinde antimikrobiyal tedavi önerilir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Salmonella enterica</em> Serotype Enteritidis</div><div class="q-opt ok"><b>B)</b> Enterotoksijenik <em>Escherichia coli</em> ✓</div><div class="q-opt"><b>C)</b> Enterohemorajik <em>Escherichia coli</em></div><div class="q-opt"><b>D)</b> <em>Bacillus cereus</em></div><div class="q-opt"><b>E)</b> <em>Salmonella enterica</em> Serotype Choleraesuis</div></div>
+<div class="q-why"><p><strong>B doğru.</strong> Sağlıklı erişkinde <strong>ETEC</strong> (ağır ya da uzayan turist ishali) antimikrobiyal tedaviden yarar görür; süreyi kısaltır.</p><p>Tifo dışı <em>Salmonella</em> Enteritidis (A) ve <em>S.</em> Choleraesuis (E; gastroenterit formunda) genelde tedavi gerektirmez, taşıyıcılığı uzatır; EHEC (C) antibiyotikle HÜS riskini artırır, verilmez; <em>B. cereus</em> (D) toksin zehirlenmesidir, antibiyotik işe yaramaz.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S4</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S4</div>
+<div class="q-stem">İki gündür olan ishal nedeniyle başvuran hastanın gaita kültüründe <em>Salmonella enterica</em> Serotype Typhimurium üredi. Aşağıdaki hastalıkların hangisinin varlığında antibiyotik tedavisi gerekli değildir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> İnflamatuvar barsak hastalığı</div><div class="q-opt"><b>B)</b> Aortik anevrizma</div><div class="q-opt ok"><b>C)</b> Kronik Hepatit B infeksiyonu ✓</div><div class="q-opt"><b>D)</b> Akkiz immün yetmezlik sendromu</div><div class="q-opt"><b>E)</b> Kalça protezi</div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <em>S.</em> Typhimurium gastroenteritinde <strong>kronik hepatit B</strong> tek başına antibiyotik endikasyonu değildir; damar, protez ve bağışıklık sorunu yaratmaz.</p><p>İnflamatuvar bağırsak hastalığı (A), aort anevrizması (B; endovasküler yerleşme riski), AIDS (D; bağışıklık baskısı) ve kalça protezi (E) varlığında bakteriyemi riski nedeniyle antibiyotik verilir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S46</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S46</div>
+<div class="q-stem">27 yaşında hastanın 10 gün önce 36 saat süren ishali olmuştur. Son 3 gündür kabızdır ve ateşi 39 derecedir, gövdesinde pembe döküntüleri vardır. Kan kültürü yapılır. Hastalığın en olası etkeni hangisidir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b><em>Salmonella typhi</em></div></div>
+<div class="q-why"><p><strong>Cevap: <em>Salmonella typhi</em>.</strong> Önce kısa süren ishal, ardından kabızlık, basamaklı yüksek ateş ve gövdede <strong>gül lekeleri</strong> (pembe döküntü) klasik <strong>tifo</strong> tablosudur; tanı için erken dönemde kan kültürü alınır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S50</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S50</div>
+<div class="q-stem">Campylobacter jejuni*'nin neden olduğu gastroenterit ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Çiğ veya az pişmiş domuz ve kümes hayvanları, pastörize edilmemiş süt ve süt ürünleri ile bulaşır</div><div class="q-opt"><b>B)</b> Dışkıda eritrosit ve lökosit görülür</div><div class="q-opt ok"><b>C)</b> Motilite sıcaklığa bağlı olarak değişir ✓</div><div class="q-opt"><b>D)</b> Oksidaz ve katalaz pozitiftir</div><div class="q-opt"><b>E)</b> Üretmek için Seçici besiyeri Skirrow besiyeri kullanılır</div></div>
+<div class="q-why"><p><strong>C doğru (yanlış ifade).</strong> <em>Campylobacter</em> polar kamçısıyla <strong>her zaman hareketlidir</strong>; hareketi sıcaklığa bağlı değişmez. (Sıcaklığa bağlı değişen, 42 °C'de üreme özelliğidir.)</p><p>Az pişmiş kümes hayvanı ve pastörize edilmemiş sütle bulaşması (A), dışkıda eritrosit-lökosit görülmesi (B), oksidaz-katalaz pozitifliği (D) ve Skirrow besiyerinde üremesi (E) doğrudur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S42</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S42</div>
+<div class="q-stem">Aşağıdaki gastroenterit etkenlerinden hangisi sitotoksinleri aracılığıyla etki yapar?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Enteropatojenik <em>Escherichia coli</em></div><div class="q-opt"><b>B)</b> <em>Bacillus cereus</em></div><div class="q-opt"><b>C)</b> <em>Vibrio cholerae</em></div><div class="q-opt"><b>D)</b> <em>Staphylococcus aureus</em></div><div class="q-opt ok"><b>E)</b> <em>Shigella dysenteriae</em> ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> <em>Shigella dysenteriae</em> <strong>Shiga toksini</strong> (sitotoksin) üretir; konak hücresinin protein sentezini durdurup hücreyi öldürür ve kanlı dizanteri yapar.</p><p>EPEC (A) silme lezyonuyla, <em>B. cereus</em> (B), <em>V. cholerae</em> (C) ve <em>S. aureus</em> (D) enterotoksinlerle (sekretuvar/emetik) etki yapar, sitotoksinle değil.</p></div>
+</div>
+</section>
+</main></body></html>

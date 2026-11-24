@@ -1,0 +1,49 @@
+# MSD-7 Çıkmış Soru Kitabı | Blok 2 · Modül 7 — mikrobiyolojik ishal, gastroenterit etkenleri, bağırsak paraziter hastalıkları ve antiparaziter ilaçlar. Yedi yılın (2019-20 … 2025-26) tüm çıkmış soruları konu konu, çözümleriyle. || MSD-7 · 2026-27
+~ Hazırlık: 6 ders sunumu + 7 sınavın 339 sorusu
+## Bu kitap nasıl kullanılır?
+Elinizdeki yedi MSD-7 sınavında toplam **339 soru** çıkmış; bunların çoğu her yıl aynı ya da çok benzer biçimde tekrar ediyor. Kitap bu soruları **230 ayrı soruya** indirip **10 bölüme** ayırdı. Her bölüm iki parçadan oluşur:
+1. **Konu anlatımı:** sorunun dayandığı bilgi, sorular yokmuş gibi, nedenselliğiyle anlatılır; tablolar, şemalar ve ezber ipuçlarıyla.
+2. **Çıkmış sorular:** her soru kartının en yeni hâli, doğru şıkkı işaretli, çeldiricilerin neden yanlış olduğu ve **sağ üstte kaç kez sorulduğu** (koyu rozet = 3+ kez), kartın altında da **çıktığı tüm sınavlar**.
+Kitabın sonunda tek satırlık **son gün ezber özeti** var. En çok tekrar eden konulardan başlamak isterseniz aşağıdaki tabloda “kez” sütununa bakın.
+## Bölümlere dağılım
+| # | Bölüm | Farklı soru | Toplam soru |
+| 1 | İshale Yaklaşım, Klinik Tipler ve Viral Etkenler | 26 | 35 |
+| 2 | Dehidratasyon ve Sıvı Tedavisi | 11 | 28 |
+| 3 | Su ve Besin Kaynaklı Salgınlar | 9 | 42 |
+| 4 | Bağırsak Mikrobiyotası ve Probiyotikler | 14 | 14 |
+| 5 | Salmonella, Shigella, E. coli, Yersinia ve Laboratuvar Tanısı | 62 | 74 |
+| 6 | Toksin Kaynaklı İshaller ve Diğer Bakteriler | 8 | 8 |
+| 7 | Sindirim Sistemi Protozoonları | 43 | 46 |
+| 8 | Bağırsak Nematodları | 16 | 27 |
+| 9 | Sestodlar ve Trematodlar | 9 | 22 |
+| 10 | Antihelmintik ve Antiprotozoal İlaçlar | 32 | 42 |
+| | **Toplam** | **230** | **338** |
+|= Yedi sınavın 338 sorusu 230 ayrı soruya karşılık geliyor; 25 soru 3 ya da daha fazla kez çıkmış.
+## En çok tekrar eden sorular (3+ kez)
+| Kez | Konu | Bölüm |
+| 8 | İçme ve kullanma sularının ilgili yönetmelik gereği sık aralarla v… | 3 |
+| 7 | su ve besinlerle bulaşan hastalık salgınlarına yönelik mücadeleler… | 3 |
+| 6 | hangisi su ve besinlerle bulaşan hastalıklara ait bir özellik deği… | 3 |
+| 6 | hangisi gıda kaynaklı hastalıklar hakkında doğrudur? | 3 |
+| 6 | Su ve besinlerle bulaşan hastalıklarla mücadelede enfeksiyon zinci… | 3 |
+| 6 | Dehidratasyon tedavisi ile ilgili olarak aşağıdakilerden hangisi(l… | 2 |
+| 6 | Su ve gıdalarla bulaşan hastalıklarla mücadelede aşağıdaki müdahal… | 3 |
+| 5 | Karın ağrısı, ishal ve ödem klinik bulguları olan, intestinal yerl… | 9 |
+| 5 | hangisi inflamatuar diyareye neden olmaz? | 1 |
+| 4 | Kan basıncı normal veya azalmış Nabız dolgunluğu hafif azalmış Kal… | 2 |
+| 4 | Megaloblastik anemiye sebep olabilen helmint aşağıdakilerden hangi… | 9 |
+| 4 | Anamnezinde Uzakdoğu yemekleri yapan lokantalarda yemek yediği öğr… | 9 |
+| 4 | Ağızdan sıvı tedavisi (ORS) kimlere uygulanmalıdır? I- ORS, bilinc… | 2 |
+| 4 | nematodlardan hangisi için farklı olarak toprak zorunlu değildir v… | 8 |
+| 3 | ORS hazırlanırken ve hastaya verilirken izlenen aşağıdaki basamakl… | 2 |
+| 3 | Echinococcus granulosus larvalarının neden olduğu kist hidatik has… | 10 |
+| 3 | Enterobius vermicularis için doğru olmayan aşağıdakilerden hangisi… | 8 |
+| 3 | Kanlı dışkılama ve ishal şikayetleriyle başvuran hastada ayırıcı t… | 1 |
+| 3 | Trematod enfestasyonunda kullanılan ilaçlarla ilgili aşağıdakilerd… | 10 |
+| 3 | "Trofozoitler kollejenaz, nörominidaz enzimleriyle mukozaya penetr… | 7 |
+| 3 | Akut ishal şüphesiyle gelen hastanın yapılan gayta kültürü aşağıda… | 5 |
+| 3 | Hangisi Taenia saginata enfestasyonlarında en fazla tercih edilen … | 10 |
+| 3 | hangisi Enterobius vermicularis'in enfektif dönemidir? | 8 |
+| 3 | On iki yaşında erkek çocuk nehirde oynarken ayağını kesmiştir. Üç … | 5 |
+| 3 | hangisi dehidratasyon etiyolojisinde yer almaz? | 2 |
+|= En sık tekrar eden sorular. Bu konuları önce çalışın.

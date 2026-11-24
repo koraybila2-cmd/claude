@@ -72,3 +72,48 @@ for b, ad in BOL.items():
     for k in yazilan: L += kart(k)
     open(f"{Y}/b{b}.txt", "w", encoding="utf-8").write("\n".join(L) + "\n")
 print("eksik aciklama:", len(eksik), eksik[:12])
+
+
+# --- ezber ozeti: her bolumdeki ?? ipuclari ---
+LE = ["# Son Gün Ezber Özeti | Her bölümün en çok tekrar eden bilgisi tek satırda. Sınavdan önceki gün okuyun; her madde bir çıkmış soruya karşılık gelir. || MSD-7 · Ezber"]
+for b, ad in BOL.items():
+    ip = [l[3:].strip() for l in open(f"{K}/k{b}.txt", encoding="utf-8")] if os.path.exists(f"{K}/k{b}.txt") else []
+    ip = [l[3:].strip() for l in open(f"{K}/k{b}.txt", encoding="utf-8") if l.startswith("?? ")]
+    if not ip: continue
+    LE.append(f"## {b}. {ad}")
+    LE += ["- " + x for x in ip]
+open(f"{Y}/ezber.txt", "w", encoding="utf-8").write("\n".join(LE) + "\n")
+
+# --- on sayfa: genel bakis + bolum dagilimi + soru dizini ---
+import collections as _c
+def tum(t): return re.sub(r"\s+", " ", t)
+top = sum(len(KUME[a["sorular"][0]]["sorular"]) for a in AT)
+bolum_say = _c.Counter(a["bolum"] for a in AT)
+bolum_soru = _c.Counter()
+for a in AT: bolum_soru[a["bolum"]] += len(a["sorular"])
+tekrar3 = sum(len(a["sorular"]) >= 3 for a in AT)
+LO = ["# MSD-7 Çıkmış Soru Kitabı | Blok 2 · Modül 7 — mikrobiyolojik ishal, gastroenterit etkenleri, bağırsak paraziter hastalıkları ve antiparaziter ilaçlar. Yedi yılın (2019-20 … 2025-26) tüm çıkmış soruları konu konu, çözümleriyle. || MSD-7 · 2026-27",
+      "~ Hazırlık: 6 ders sunumu + 7 sınavın 339 sorusu",
+      "## Bu kitap nasıl kullanılır?",
+      f"Elinizdeki yedi MSD-7 sınavında toplam **339 soru** çıkmış; bunların çoğu her yıl aynı ya da çok benzer biçimde tekrar ediyor. Kitap bu soruları **{len(AT)} ayrı soruya** indirip **10 bölüme** ayırdı. Her bölüm iki parçadan oluşur:",
+      "1. **Konu anlatımı:** sorunun dayandığı bilgi, sorular yokmuş gibi, nedenselliğiyle anlatılır; tablolar, şemalar ve ezber ipuçlarıyla.",
+      "2. **Çıkmış sorular:** her soru kartının en yeni hâli, doğru şıkkı işaretli, çeldiricilerin neden yanlış olduğu ve **sağ üstte kaç kez sorulduğu** (koyu rozet = 3+ kez), kartın altında da **çıktığı tüm sınavlar**.",
+      "Kitabın sonunda tek satırlık **son gün ezber özeti** var. En çok tekrar eden konulardan başlamak isterseniz aşağıdaki tabloda “kez” sütununa bakın.",
+      "## Bölümlere dağılım",
+      "| # | Bölüm | Farklı soru | Toplam soru |"]
+for b, ad in BOL.items():
+    LO.append(f"| {b} | {ad} | {bolum_say[b]} | {bolum_soru[b]} |")
+LO += [f"| | **Toplam** | **{len(AT)}** | **{top}** |",
+       f"|= Yedi sınavın {top} sorusu {len(AT)} ayrı soruya karşılık geliyor; {tekrar3} soru 3 ya da daha fazla kez çıkmış.",
+       "## En çok tekrar eden sorular (3+ kez)"]
+cok = sorted([a for a in AT if len(a["sorular"]) >= 3], key=lambda a: -len(a["sorular"]))
+LO.append("| Kez | Konu | Bölüm |")
+for a in cok:
+    k = a["sorular"][0]; q = D[k]
+    kok = tum(" ".join(q["kok"])).replace("*", "").replace("|", "/")
+    kok = re.sub(r"^(Klinik Bulgular:|Aşağıdakilerden|Aşağıdaki)\s*", "", kok)
+    konu = (kok[:66] + "…") if len(kok) > 68 else kok
+    LO.append(f"| {len(a['sorular'])} | {konu} | {a['bolum']} |")
+LO.append("|= En sık tekrar eden sorular. Bu konuları önce çalışın.")
+open(f"{Y}/on.txt", "w", encoding="utf-8").write("\n".join(LO) + "\n")
+print("on + ezber yazildi; en cok tekrar:", len(cok))

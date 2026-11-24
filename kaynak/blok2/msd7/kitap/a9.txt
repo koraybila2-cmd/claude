@@ -1,0 +1,44 @@
+=== 2025-26-21
+E: Bağırsak yerleşimli, ishal-ödem-eozinofili, dışkıda yumurta → Fasciolopsis buski.
+C doğru. **Fasciolopsis buski** bağırsağa yerleşen dev bir trematoddur; karın ağrısı, ishal, **ödem** ve eozinofili yapar, tanı dışkıda (en büyük helmint) yumurtasının görülmesiyle konur.
+*Fasciola* (A), *Clonorchis* (B) ve *Opisthorchis* (E) karaciğer/safra yolu trematodudur; *Trichuris* (D) bir nematoddur, trematod değildir. (Bu soru 5 kez çıktı; cevap hep *Fasciolopsis buski*'dir.)
+
+=== 2025-26-25
+E: Yumurtası pirede cysticercoid olup pire yutulunca erişkin olan: Hymenolepis nana.
+B doğru. **Hymenolepis nana** yumurtası pire gibi bir ara konakta **sistiserkoid** larvaya dönüşür; bu pirenin yutulmasıyla insan bağırsağında erişkin olur (ara konaksız, doğrudan yumurtayla da bulaşabilir).
+*T. saginata* (A, sığır), *T. solium* (D, domuz) ve *D. latum* (E, balık) etle; *Fasciola* (C) su bitkisiyle bulaşır.
+
+=== 2025-26-27
+E: Megaloblastik (B12 eksikliği) anemi yapan helmint: Diphyllobothrium latum.
+D doğru. **Diphyllobothrium latum** (balık tenyası) B12 vitaminini bağırsakta tüketir ve **megaloblastik (pernisiyöz benzeri) anemi** yapar.
+*T. solium* (A), *Enterobius* (B) ve *Trichuris* (E) anemi tipiyle anılmaz; *Ascaris* (C) tıkanıklık yapar. (Çengelli kurtlar demir eksikliği anemisi yapar; megaloblastik olan *D. latum*'dur.)
+
+=== 2025-26-32
+E: Uzakdoğu + çiğ balık + kapaklı yumurta → sestod olarak Diphyllobothrium latum.
+E doğru. Uzakdoğu yemekleri (çiğ balık) öyküsü ve dışkıda **kapaklı (operkulumlu) yumurta** balık tenyası **Diphyllobothrium latum**'u gösterir.
+*Fasciola* (A) bir trematoddur; *H. nana* (B) kapaksız yumurtalı cüce sestoddur; *Trichuris* (C) ve *Ascaris* (D) nematoddur. (5 kez çıktı; cevap *D. latum*'dur.)
+
+=== 2024-25-27
+E: Larvası Cysticercus bovis olan: Taenia saginata (sığır).
+D doğru. **Taenia saginata**'nın larva (kistik) formu sığırda gelişen **Cysticercus bovis**'tir; çiğ sığır etiyle bulaşır.
+*T. solium* (A) larvası *Cysticercus cellulosae* (domuz); *Fasciola* (B), *D. latum* (C) ve *H. nana* (E) bu kistik forma sahip değildir.
+
+=== 2023-24-25
+E: Sestod bağırsağa SKOLEKSİYLE tutunur, proglottidleriyle değil.
+D doğru (yanlış ifade). Sestodlar bağırsak duvarına **skoleksindeki (baş) vantuz ve çengellerle** tutunur, proglottidleriyle (halkalarıyla) değil.
+Baş kısmına skoleks denmesi (A), halkalara proglottid denmesi (B), distal proglottidlerin yumurta taşıması (C) ve bulaşın iyi pişmemiş etteki larvayla olması (E) doğrudur.
+
+=== 2022-23-24
+E: Kapaklı (operkulumlu) yumurtası olan: Diphyllobothrium latum.
+D doğru. **Diphyllobothrium latum** sestodların kapaklı (operkulumlu) yumurtaya sahip tek üyesidir (trematodların çoğu gibi).
+*Ancylostoma* (A), *Hymenolepis nana* (C) ve *Trichuris* (E) yumurtaları kapaksızdır; *Schistosoma haematobium* (B) yumurtası kapaksız, uç çengellidir. (2020-21 S17'de de cevap *D. latum*'dur.)
+
+=== 2019-20-21
+E: Yerleşimi bağırsak olan trematod: Fasciolopsis buski.
+C doğru. **Fasciolopsis buski** bağırsak yerleşimli (dev bağırsak kelebeği) trematoddur.
+*Fasciola hepatica* (A), *F. gigantica* (B), *Opisthorchis/Clonorchis sinensis* (D) ve *Dicrocoelium* (E) karaciğer/safra yolu trematodlarıdır.
+
+=== 2019-20-23
+E: Cüce sestod: Hymenolepis nana.
+E doğru. **Hymenolepis nana** en küçük (cüce) sestoddur; çocuklarda sık görülür, ara konaksız da bulaşabilir.
+*Echinococcus granulosus* (A) ve *E. alveolaris* (B) doku sestodlarıdır; *Trichuris* (C) ve *Enterobius* (D) nematoddur.

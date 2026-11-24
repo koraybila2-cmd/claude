@@ -1,0 +1,44 @@
+# Sestodlar ve Trematodlar | Sestodların (şerit/tenya) yapısı ve bağırsak sestodları (T. saginata, T. solium, H. nana, D. latum), trematodların (yaprak solucanları) özellikleri ve bağırsak-karaciğer trematodları (Fasciolopsis, Fasciola, Clonorchis), ayırt edici klinik ve tanı özellikleri. Sestod-trematod sunumuna (S4) dayanır; 22 soru çıkmıştır. || Bölüm 9 · Şeritler ve yapraklılar
+
+## Sestodların genel yapısı
+Sestodlar (şerit/tenya) yassı, halkalı helmintlerdir:
+- **Skoleks (baş):** tutunma organı (vantuz, çengel). **Bağırsak duvarına skoleksiyle tutunur, halkalarıyla değil.**
+- **Boyun:** yeni halkaların yapıldığı büyüme bölgesi.
+- **Proglottid (halka):** genç → olgun → **gebe** (en distaldeki, yumurta dolu). Hepsi hermafrodittir.
+- İnsana bulaş genellikle **iyi pişmemiş etteki larva** ile olur (*H. nana* ve *D. latum* dışında).
+| Sestod | Ara konak / bulaş | Larva (kistik form) | Ayırt edici |
+| ***Taenia saginata*** | **sığır**; çiğ sığır eti | *Cysticercus bovis* | **silahsız** (çengelsiz), 4 vantuz; hareketli düşen halka |
+| ***Taenia solium*** | **domuz**; çiğ domuz eti | *Cysticercus cellulosae* | **silahlı** (rostellum + çengel); insan **hem ara hem kesin konak** → sistiserkoz (beyin, göz) |
+| ***Hymenolepis nana*** | **pire** (ya da ara konaksız doğrudan) | sistiserkoid | **en küçük/cüce sestod**; insandan insana ara konaksız geçen tek sestod; çocuk |
+| ***Diphyllobothrium latum*** | **Cyclops → tatlı su balığı**; çiğ balık | pleroserkoid | **balık tenyası**; iki yarık (botriya); **B12 eksikliği, megaloblastik anemi**; **kapaklı (operkulumlu) yumurta** |
+|= Bağırsak sestodları. *T. solium* silahlı (domuz, sistiserkoz), *T. saginata* silahsız (sığır).
+?? ***Taenia solium* = Silahlı, domuz, Sistiserkoz; *T. saginata* = silahsız, Sığır.** Karıştırmamak için: so**L**ium → çenge**L**li (silahlı).
+?? ***Diphyllobothrium latum* = çiğ balık (Uzakdoğu) + B12 eksikliği/megaloblastik anemi + kapaklı yumurta.**
+?? ***Hymenolepis nana* = cüce sestod + pire ara konak + çocukta, ara konaksız da bulaşır.**
+
+## Taenia solium ve sistiserkoz
+*T. solium*'da **insan hem kesin konak** (bağırsakta erişkin tenya; çiğ domuz etiyle) **hem de ara konak** olabilir: yumurtanın yutulmasıyla larvalar dokulara yerleşir (**sistiserkoz**); kas, göz ve özellikle **beyin (nörosistiserkoz, epilepsi)** tutulur. Bu nedenle *T. solium* yumurtası doğrudan insana tehlikelidir (fekal-oral). Tanı gebe halka ya da skoleksin görülmesidir.
+
+## Trematodların genel özellikleri
+Trematodlar (yaprak solucanları) yaprak biçimli, **anüssüz**, çekmenli (vantuz) helmintlerdir.
+- **Schistosoma dışında hepsi hermafrodittir.**
+- **Yumurtaları kapaklıdır (operkulumlu)** — Schistosoma yumurtasının kapağı yoktur, çengeli vardır.
+- İlk ara konak her zaman bir **salyangozdur** (aseksüel çoğalma); sonra metaserkarya enfektif formu su bitkisi, balık, yengeç ya da karınca üzerinde beklenir.
+| Trematod | Yerleşim | Bulaş (metaserkarya) | Ayırt edici |
+| ***Fasciolopsis buski*** | **bağırsak** | su bitkileri (Uzakdoğu) | **dev bağırsak kelebeği; en büyük helmint yumurtası**; karın ağrısı, ishal, ödem, eozinofili |
+| ***Fasciola hepatica*** | **safra yolları/karaciğer** | su teresi, su bitkileri | koyun karaciğer kelebeği; hepatomegali, tıkanma sarılığı, eozinofili |
+| ***Clonorchis / Opisthorchis*** | **safra yolları** | tatlı su balığı (Uzakdoğu) | küçük karaciğer kelebekleri; safra yolu kanseri riski |
+| ***Dicrocoelium*** | safra yolları | karınca | insanda çok nadir; enfekte karaciğer yenince “yalancı enfeksiyon” |
+|= Trematodlar. Yerleşimi bağırsak olan tek klasik örnek *Fasciolopsis buski*'dir.
+?? **Bağırsak yerleşimli trematod + ishal/ödem/eozinofili + dışkıda yumurta = *Fasciolopsis buski*** (bu soru 5 kez geldi).
+?? **En büyük helmint yumurtası = *Fasciolopsis buski*.** *Fasciola* karaciğer (safra yolu), *Clonorchis*/*Opisthorchis* balıkla gelen safra yolu trematodlarıdır.
+
+## Kapaklı yumurta ayrımı
+**Kapaklı (operkulumlu) yumurtası olanlar:** trematodların çoğu (Schistosoma hariç) ve sestodlardan **Diphyllobothrium latum**. Nematod yumurtaları ve *Taenia*/*Hymenolepis* yumurtaları kapaksızdır. Uzakdoğu + çiğ balık + kapaklı yumurta sorusunun cevabı **sestod olarak *D. latum***, trematod bağlamında *Clonorchis* olabilir; soru “sestod” diyorsa *D. latum*'dur.
+
+## Bölüm özeti
+- Sestod bağırsağa **skoleksiyle** tutunur; gebe (distal) halkalar yumurta taşır; bulaş iyi pişmemiş etteki larvayla.
+- *T. solium*: silahlı, domuz, insan hem ara hem kesin konak, sistiserkoz. *T. saginata*: silahsız, sığır.
+- *D. latum*: çiğ balık, B12 eksikliği/megaloblastik anemi, kapaklı yumurta. *H. nana*: cüce, pire, ara konaksız bulaşabilir.
+- Trematodlar anüssüz, kapaklı yumurtalı (Schistosoma hariç), ilk ara konak salyangoz.
+- *Fasciolopsis buski*: bağırsak yerleşimli, ishal-ödem-eozinofili, en büyük helmint yumurtası. *Fasciola*: karaciğer/safra.

@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title></title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --color-bg: #f3f2f2;
+    --color-text: #201e1d;
+    --color-accent: #0088b0;
+    --color-accent-700: color-mix(in oklch, #0088b0, black 35%);
+    --color-accent-900: color-mix(in oklch, #0088b0, black 55%);
+    --color-accent-2: #d6006c;
+    --color-accent-2-900: color-mix(in oklch, #d6006c, black 45%);
+    --color-neutral-700: #57534e;
+    --font-heading: "Source Serif 4", Georgia, "Times New Roman", serif;
+    --font-body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  }
+  @page { size: A4; margin: 24mm 20mm 24mm 20mm; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); }
+  a { color: var(--color-accent-700); }
+  .book-page { max-width: 100%; }
+  .book-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 16px 0; }
+  .book-title { font-family: var(--font-heading); font-size: 2.3rem; line-height: 1.15; font-weight: 700; margin: 0 0 12px 0; }
+  .book-byline { font-style: italic; color: var(--color-neutral-700); font-size: 0.92rem; margin: 0 0 40px 0; }
+  .book-section { margin: 0 0 32px 0; }
+  .book-h2 { font-family: var(--font-heading); font-size: 1.3rem; font-weight: 700; margin: 0 0 12px 0; break-after: avoid; }
+  .book-h3 { font-family: var(--font-heading); font-size: 1.08rem; font-weight: 700; margin: 18px 0 8px 0; break-after: avoid; }
+  .book-p { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; text-align: justify; hyphens: auto; }
+  .book-list { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; padding-left: 1.3em; }
+  .book-list li { margin-bottom: 5px; }
+  .tag { display: inline-block; font-size: 10.5px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 9px; border-radius: 2px; }
+  .tag-accent-2 { background: color-mix(in oklch, var(--color-accent-2) 14%, white); color: var(--color-accent-2-900); }
+  .highlight-tag { margin-bottom: 8px; break-inside: avoid; }
+  .highlight-p { font-size: 0.98rem; line-height: 1.65; color: var(--color-accent-2-900); margin: 0 0 12px 0; break-inside: avoid; }
+  .cite { font-style: italic; color: var(--color-neutral-700); }
+  table.table { width: 100%; border-collapse: collapse; font-size: 0.86rem; margin: 4px 0 16px 0; break-inside: avoid; }
+  table.table th { text-align: left; font-family: var(--font-heading); font-weight: 700; border-bottom: 1.5px solid var(--color-text); padding: 6px 10px 6px 0; }
+  table.table td { border-bottom: 1px solid color-mix(in oklch, var(--color-text) 15%, white); padding: 7px 10px 7px 0; vertical-align: top; }
+  .chart-figure { margin: 4px 0 16px 0; break-inside: avoid; }
+  .chart-caption { font-size: 0.82rem; color: var(--color-neutral-700); margin-top: 8px; font-style: italic; text-align: left; }
+  .qa-list { display: flex; flex-direction: column; gap: 14px; margin-top: 14px; }
+  .card { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 16px 20px; break-inside: avoid; }
+  .card-kicker { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 4px; }
+  .card-title { font-family: var(--font-heading); font-weight: 700; font-size: 1rem; margin-bottom: 8px; }
+  .card-body { font-size: 0.93rem; line-height: 1.6; }
+  .card-body p { margin: 0 0 8px 0; }
+  .card-body .opt-correct { color: var(--color-accent-700); font-weight: 700; }
+  .card-source { font-size: 0.8rem; font-style: italic; color: var(--color-neutral-700); margin-top: 8px; }
+  .card-dispute { font-size: 0.85rem; background: color-mix(in oklch, var(--color-accent-2) 8%, white); padding: 8px 12px; border-radius: 2px; margin-top: 8px; }
+  .chapter { break-before: page; }
+  .chapter-first { break-before: auto; }
+  .chapter-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 6px 0; }
+  .chapter-title { font-family: var(--font-heading); font-size: 1.75rem; line-height: 1.2; font-weight: 700; margin: 0 0 8px 0; break-after: avoid; }
+  .chapter-lead { font-style: italic; color: var(--color-neutral-700); font-size: 0.95rem; line-height: 1.6; margin: 0 0 26px 0; }
+  .book-h4 { font-family: var(--font-heading); font-size: 0.98rem; font-weight: 700; font-style: italic; margin: 14px 0 6px 0; break-after: avoid; }
+  ol.book-list { padding-left: 1.5em; }
+  .toc { list-style: none; padding: 0; margin: 0 0 12px 0; font-size: 0.98rem; line-height: 1.7; }
+  .toc li { margin: 0 0 4px 0; }
+  .toc .toc-sub { color: var(--color-neutral-700); font-size: 0.88rem; display: block; margin-left: 1.2em; }
+  .cover-note { font-size: 0.92rem; line-height: 1.6; color: var(--color-neutral-700); margin: 0 0 14px 0; }
+  .keybox { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 14px 18px; margin: 6px 0 16px 0; break-inside: avoid; }
+  .keybox-title { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 6px; font-weight: 700; }
+  .keybox ul { margin: 0; padding-left: 1.2em; font-size: 0.92rem; line-height: 1.6; }
+  .keybox li { margin-bottom: 3px; }
+  .card-title .opts { display: block; font-weight: 400; font-family: var(--font-body); font-size: 0.93rem; margin-top: 6px; line-height: 1.55; }
+  table.table.compact { font-size: 0.8rem; }
+  sub, sup { line-height: 0; }
+  @page { size: A4; margin: 22mm 20mm 20mm 20mm; background: #f3f2f2; }
+  .hl-block { break-inside: avoid; }
+  table.table.split { break-inside: auto; }
+  table.table.split tr { break-inside: avoid; }
+
+  /* --- Modul 5-6: cikmis soru odakli yapi --- */
+  .qblock { margin: 0 0 10px 0; break-after: avoid; }
+  .qblock-title { font-size: 10.5px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-accent-2-900); font-weight: 700; margin: 0 0 4px 0; }
+  .qblock-note { font-size: 0.84rem; line-height: 1.5; color: var(--color-neutral-700); font-style: italic; margin: 0 0 10px 0; }
+  .qcards { display: block; margin: 0 0 26px 0; }
+  .qcard { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 12px 16px 10px 16px; margin: 0 0 10px 0; break-inside: auto; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+  .q-head { display: flex; align-items: center; gap: 10px; margin-bottom: 2px; }
+  .q-no { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); font-weight: 700; }
+  .q-src { font-size: 0.74rem; color: var(--color-neutral-700); margin: 0 0 6px 0; line-height: 1.45; }
+  .q-src b { font-weight: 700; color: var(--color-text); }
+  .q-stem { font-family: var(--font-heading); font-weight: 700; font-size: 0.95rem; line-height: 1.45; margin: 0 0 4px 0; }
+  .q-list { margin: 2px 0 6px 0; padding-left: 1.2em; font-size: 0.88rem; line-height: 1.45; }
+  .q-opts { font-size: 0.88rem; line-height: 1.5; margin: 2px 0 6px 0; }
+  .q-opt { padding-left: 1.6em; text-indent: -1.6em; }
+  .q-opt.ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-ans { font-size: 0.86rem; margin: 2px 0 6px 0; }
+  .q-var { font-size: 0.82rem; font-style: italic; color: var(--color-neutral-700); line-height: 1.5; margin: 0 0 6px 0; }
+  .q-why { font-size: 0.86rem; line-height: 1.55; border-top: 1px solid color-mix(in oklch, var(--color-text) 10%, white); padding-top: 6px; }
+  .q-why p { margin: 0 0 5px 0; break-inside: avoid; }
+  .q-head, .q-src, .q-stem, .q-list { break-after: avoid; break-inside: avoid; }
+  .q-opts, .q-ans, .q-var { break-inside: avoid; }
+  .q-why .ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-why p:first-child > b:first-child { color: var(--color-accent-700); }
+  .q-var p { margin: 0 0 3px 0; }
+  .tag-soft { background: color-mix(in oklch, var(--color-accent) 12%, white); color: var(--color-accent-700); }
+  table.dizin td:first-child, table.surekli td:last-child { white-space: nowrap; }
+  table.dizin td:last-child { font-size: 0.72rem; color: var(--color-neutral-700); }
+  tr.dizin-bolum td { font-family: var(--font-heading); font-weight: 700; padding-top: 10px; border-bottom: 1.5px solid var(--color-text); }
+  td.sur { color: var(--color-accent-2-900); font-weight: 700; }
+  table.dizin td.sur { color: var(--color-accent-2-900); }
+  .sunumsuz { font-size: 0.86rem; background: color-mix(in oklch, var(--color-accent) 7%, white); padding: 8px 12px; border-radius: 2px; margin: 0 0 14px 0; }
+  .ref { font-size: 0.8em; color: var(--color-accent-700); font-weight: 700; white-space: nowrap; }
+
+  @page { size: A4; margin: 16mm 15mm 16mm 15mm; background: #f3f2f2; }
+  .book-p { font-size: 0.93rem; line-height: 1.55; margin: 0 0 9px 0; }
+  .book-list { font-size: 0.93rem; line-height: 1.5; }
+  .qcard { padding: 9px 13px 8px 13px; margin: 0 0 8px 0; }
+  .q-stem { font-size: 0.9rem; } .q-opts { font-size: 0.84rem; line-height: 1.4; }
+  .q-why p { font-size: 0.86rem; line-height: 1.48; }
+  .q-var { font-size: 0.78rem; }
+  .q-src { margin: 0 0 3px 0; }
+</style>
+</head>
+<body>
+<main class="book-page">
+<section class="chapter"><p class="chapter-kicker">Bölüm 8 · Yuvarlak solucanlar</p><h2 class="chapter-title">Bağırsak Nematodları</h2><p class="chapter-lead">Nematodların genel özellikleri ve bulaş yolları, Ascaris, Enterobius (kıl kurdu), Trichuris, Strongyloides ve çengelli kurtlar; enfektif dönemleri, tanı yöntemleri ve ayırt edici klinikleri. Bağırsak helmintleri sunumuna (S3) dayanır; 27 soru çıkmıştır.</p>
+<h3 class="book-h3">Genel özellikler ve önemli bir ilke</h3>
+<p class="book-p">Nematodlar (yuvarlak solucanlar) silindirik, iki cinsiyetli helmintlerdir. <strong>Önemli ilke: helmintler insan bağırsağında çoğalmaz</strong> (otoenfeksiyon yapan <em>Strongyloides</em> ve <em>Enterobius</em> istisna); hastalığın ağırlığını alınan parazit sayısı belirler. Tanı genellikle <strong>dışkıda yumurtanın</strong> gösterilmesiyle konur (kültür yapılmaz).</p>
+<h3 class="book-h3">Bulaş yolları ve enfektif dönemler</h3>
+<p class="book-p">Nematodlar insana üç ana yolla bulaşır; bu, sınavın en sık ayırt edici noktasıdır.</p>
+<table class="table compact split"><thead><tr><th>Bulaş yolu</th><th>Enfektif form</th><th>Nematodlar</th></tr></thead><tbody>
+<tr><td><strong>Yumurtanın yutulması</strong></td><td>olgun (embriyonlu/larvalı) yumurta</td><td><em>Ascaris</em>, <em>Trichuris</em>, <em>Enterobius</em></td></tr>
+<tr><td><strong>Deriden larva girişi</strong></td><td><strong>filariform larva</strong></td><td>çengelli kurtlar (<em>Ancylostoma</em>, <em>Necator</em>), <em>Strongyloides</em></td></tr>
+<tr><td><strong>Larvalı etle</strong></td><td>kist/larva</td><td><em>Trichinella</em> (domuz eti)</td></tr>
+</tbody></table>
+<p class="chart-caption">Bulaş yolları. Yumurta yutulanlar toprakta olgunlaşır; deriden girenler filariform larva gönderir.</p>
+<ul class="book-list">
+<li><strong>Toprak zorunluluğu:</strong> <em>Ascaris</em>, <em>Trichuris</em> yumurtası toprakta olgunlaşır; çengelli kurt ve <em>Strongyloides</em> larvası toprakta gelişir. <strong>İstisna: <em>Enterobius vermicularis</strong></em> — yumurtası perianal bölgede 4-6 saatte enfektif olur, <strong>topraksız, doğrudan kişiden kişiye</strong> bulaşır.</li>
+<li><strong>Serbest yaşam:</strong> nematodlar arasında yalnız <strong><em>Strongyloides stercoralis</strong></em> toprakta serbest yaşayan erişkin döngü kurabilir.</li>
+</ul>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Enterobius = topraksız, kişiden kişiye; Strongyloides = tek serbest yaşayan; deriden giren = filariform larva.</strong></p></div>
+<h3 class="book-h3">Ascaris lumbricoides</h3>
+<p class="book-p">İnsan bağırsağının <strong>en büyük/en uzun nematodudur</strong>. Embriyonlu (larvalı) yumurtanın yutulmasıyla bulaşır; larva bağırsaktan kana, oradan akciğere göç eder (<strong>Löffler sendromu:</strong> öksürük, geçici akciğer infiltratı, <strong>eozinofili</strong>), yutulup bağırsağa döner ve erişkin olur. Erişkin safra yolunu ve bağırsağı tıkayabilir. Tanı <strong>dışkıda yumurta</strong> (yalnız erkek varsa yumurta görülmez); bulaştan sorumlu form <strong>embriyonlu yumurtadır</strong>. Bulaş sığır etiyle değildir (o <em>T. saginata</em>).</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong><em>Ascaris</em> = en uzun nematod + akciğer göçü (Löffler, eozinofili) + embriyonlu yumurtayla bulaş.</strong></p></div>
+<h3 class="book-h3">Enterobius vermicularis (kıl kurdu)</h3>
+<p class="book-p">Çekum ve kolonda yaşar. <strong>Dişi gece perianal bölgeye yumurtlar;</strong> yumurta 4-6 saatte enfektif olur. Başlıca belirti <strong>gece anal kaşıntıdır</strong> (kızlarda vulvovajinit). <strong>Otoenfeksiyon</strong> (el-ağız) ve aile içi yayılım tipiktir. <strong>Artropodla (sinek-pire) bulaşmaz.</strong> Enfektif dönem <strong>döllenmiş (olgun) yumurtadır</strong> (öğrenci notlarında bazı yıllar “ergin dönem” diye işaretlenmiş olsa da standart cevap olgun yumurtadır).</p>
+<ul class="book-list">
+<li><strong>Tanı: selofan bant (selofanlı lam) yöntemi</strong> — sabah, yıkanmadan perianal bölgeden alınır; dışkıda yumurta genellikle görülmez.</li>
+</ul>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong><em>Enterobius</em> = gece anal kaşıntı + selofan bant + otoenfeksiyon + topraksız bulaş.</strong> Ürtiker-eozinofili onun en sık belirtisi <strong>değildir</strong> (en sık belirti kaşıntıdır).</p></div>
+<h3 class="book-h3">Trichuris trichiura (kamçı kurt)</h3>
+<p class="book-p">Çekum ve kolonda yaşar; <strong>limon/fıçı biçiminde, iki kutbunda tıpa olan yumurtası</strong> vardır. Dışkıyla kirlenmiş yiyecekle, <strong>yumurtanın yutulmasıyla</strong> bulaşır. Ağır enfeksiyonda rektum mukozasına invaze olup, özellikle küçük çocukta <strong>rektal prolapsus</strong> ve tenezm yapar. Tanı <strong>dışkıda limon biçimli yumurta</strong> (selofan bant değil — o <em>Enterobius</em> içindir). <strong>Larva göçü yoktur.</strong></p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong><em>Trichuris</em> = limon yumurta + çocukta rektal prolapsus + dışkı mikroskobisi (selofan bant değil).</strong></p></div>
+<h3 class="book-h3">Strongyloides stercoralis</h3>
+<p class="book-p">Deriden giren <strong>filariform larvayla</strong> bulaşır; akciğer göçü yapar. Dışkıda <strong>rabditiform larva</strong> görülür (yumurta değil). <strong>Otoenfeksiyon</strong> yapabildiği için yıllarca kalıcı olur ve <strong>bağışıklığı baskılanan hastada (AIDS, kanser kemoterapisi, kortikosteroid, transplant) hiperenfeksiyon/dissemine enfeksiyon</strong> yapar: akciğer ve dokulara yoğun larva göçü, pnömoni, Gram negatif sepsis ve <strong>menenjit</strong>. Serbest yaşam döngüsü olan tek nematoddur. Tanı dışkı, duodenum sıvısı, balgamda rabditiform larva.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong><em>Strongyloides</em> = deriden filariform larva, dışkıda rabditiform larva, otoenfeksiyon, bağışıklık baskısında hiperenfeksiyon (pnömoni + menenjit).</strong></p></div>
+<h3 class="book-h3">Çengelli kurtlar (Ancylostoma duodenale, Necator americanus)</h3>
+<p class="book-p">Deriden giren <strong>filariform larvayla</strong> bulaşır; akciğer göçü yaparlar. Erişkin ince bağırsak mukozasına tutunup <strong>kan emer: demir eksikliği anemisi</strong> ve eozinofili yaparlar. Malnütrisyonlu çocukta <strong>derin anemi + karın ağrısı + dışkıda nematod yumurtası</strong> klasik çengelli kurt (<em>Necator</em>) tablosudur.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Anemi yapan helmint = çengelli kurtlar (<em>Necator</em>, <em>Ancylostoma</em>).</strong> <em>Diphyllobothrium</em>'un megaloblastik anemisiyle karıştırmayın: çengelli kurt <strong>demir eksikliği (mikrositer)</strong> anemisi yapar.</p></div>
+<h3 class="book-h3">Larva göçü (akciğer) olan ve olmayanlar</h3>
+<table class="table compact split"><thead><tr><th>Akciğer göçü VAR</th><th>Akciğer göçü YOK</th></tr></thead><tbody>
+<tr><td><em>Ascaris</em>, <em>Strongyloides</em>, çengelli kurtlar (<em>Ancylostoma</em>, <em>Necator</em>)</td><td><em>Trichuris</em>, <em>Enterobius</em></td></tr>
+</tbody></table>
+<p class="chart-caption">Larva göçü. <em>Trichuris</em> ve <em>Enterobius</em> yumurtadan çıkıp doğrudan bağırsakta erişkin olur, akciğere gitmez.</p>
+<h3 class="book-h3">Bölüm özeti</h3>
+<ul class="book-list">
+<li>Deriden giren (filariform larva): çengelli kurtlar, <em>Strongyloides</em>. Yumurta yutulan: <em>Ascaris</em>, <em>Trichuris</em>, <em>Enterobius</em>.</li>
+<li><em>Enterobius</em>: topraksız, kişiden kişiye, gece anal kaşıntı, selofan bant, otoenfeksiyon; artropodla bulaşmaz.</li>
+<li><em>Ascaris</em>: en uzun nematod, akciğer göçü, embriyonlu yumurta.</li>
+<li><em>Trichuris</em>: limon yumurta, rektal prolapsus, larva göçü yok.</li>
+<li><em>Strongyloides</em>: tek serbest yaşayan, dışkıda rabditiform larva, otoenfeksiyon, bağışıklık baskısında hiperenfeksiyon.</li>
+<li>Çengelli kurtlar: demir eksikliği anemisi; <em>Trichuris</em> ve <em>Enterobius</em> dışında hepsi akciğer göçü yapar.</li>
+</ul>
+<h3 class="book-h3">Çıkmış sorular: Bağırsak Nematodları</h3>
+<p class="book-p">Bu bölümden 7 sınavda <strong>27 soru</strong> çıktı; bunlar <strong>16 farklı soruya</strong> karşılık geliyor ve <strong>7 tanesi</strong> birden fazla yıl soruldu. Her kartta sorunun en yeni hâli, sağ üstte kaç kez sorulduğu, kartın altında da çıktığı tüm sınavlar yazar. Rozeti koyu olanlar 3 ve daha fazla kez sorulmuş sorulardır.</p>
+<div class="qblock"><p class="qblock-title">Çıkmış sorular</p></div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S26</span><span class="tag tag-accent-2">3 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S26 · 2024-25 S25 · 2019-20 S24</div>
+<div class="q-stem">Enterobius vermicularis* için doğru olmayan aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> Artropodlar aracılığı ile bulaşır ✓</div><div class="q-opt"><b>B)</b> Dişileri yumurtalarını anüs etrafına bırakır</div><div class="q-opt"><b>C)</b> Ürtiker ve eozinofili en sık görülen semptomlardır</div><div class="q-opt"><b>D)</b> Tanı selofan bant yöntemi ile konulur</div><div class="q-opt"><b>E)</b> Otoenfeksiyonlar yapar</div></div>
+<div class="q-var">Diğer yıllarda doğru cevap: 2019-20 S24: <strong>Artropodlar yardımıyla bulaşır.</strong>.</div>
+<div class="q-why"><p><strong>A doğru (yanlış ifade).</strong> <em>Enterobius vermicularis</em> <strong>artropod aracılığıyla bulaşmaz</strong>; dişinin perianal bölgeye bıraktığı yumurtanın el-ağız yoluyla alınmasıyla, kişiden kişiye geçer.</p><p>Dişinin yumurtalarını anüs çevresine bırakması (B), tanının selofan bant yöntemiyle konması (D) ve otoenfeksiyon yapması (E) doğrudur. (2019-20 S24 varyantında ise anahtar D'yi, yani selofan bant dışı bir ifadeyi yanlış saymış; standart yanlış ifade “artropodla bulaşır”dır.)</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S30</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S30 · 2024-25 S26</div>
+<div class="q-stem">İnsan barsağında yaşayan en uzun nematod aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> <em>Ascaris lumbricoides</em> ✓</div><div class="q-opt"><b>B)</b> <em>Trichuris trichura</em></div><div class="q-opt"><b>C)</b> <em>Strongyloides stercoralis</em></div><div class="q-opt"><b>D)</b> <em>Necator americanus</em></div><div class="q-opt"><b>E)</b> <em>Enterobius vermicularis</em></div></div>
+<div class="q-why"><p><strong>A doğru.</strong> <strong>Ascaris lumbricoides</strong> insan bağırsağında yaşayan en büyük/en uzun nematoddur (erişkin dişi 20-35 cm).</p><p><em>Trichuris</em> (B), <em>Strongyloides</em> (C), <em>Necator</em> (D) ve <em>Enterobius</em> (E) çok daha küçüktür. (2024-25 S26'da da cevap <em>Ascaris</em>'tir.)</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S23</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S23</div>
+<div class="q-stem">Ascaris* için doğru olmayan aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Yumurtalardan çıkan larvalar kan dolaşımında migrasyon yapar</div><div class="q-opt"><b>B)</b> Larva dönemini akciğerlerde geçirirler</div><div class="q-opt"><b>C)</b> Yetişkin formu barsakta yaşayan en büyük nematoddur</div><div class="q-opt"><b>D)</b> Dışkı mikroskobisinde yumurtaların gösterilmesi ile tanı konulur</div><div class="q-opt ok"><b>E)</b> İyi pişmemiş sığır eti yiyenlerde gelişir ✓</div></div>
+<div class="q-why"><p><strong>E doğru (yanlış ifade).</strong> <em>Ascaris</em> <strong>iyi pişmemiş sığır etiyle bulaşmaz</strong>; embriyonlu yumurtanın ağızdan alınmasıyla bulaşır. (Sığır etiyle bulaşan <em>Taenia saginata</em>'dır.)</p><p>Larvaların kan dolaşımında göç etmesi (A), larva döneminin akciğerde geçmesi (B; Löffler), erişkinin bağırsağın en büyük nematodu olması (C) ve tanının dışkıda yumurtayla konması (D) doğrudur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S22</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S22</div>
+<div class="q-stem">Askarisin bulaşmadan sorumlu olan formu aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b>Embriyonlu yumurta</div></div>
+<div class="q-why"><p><strong>Cevap: embriyonlu yumurta.</strong> Toprakta 2-4 haftada içinde larva gelişen (embriyonlanan) yumurta enfektiftir; yeni atılmış yumurta bulaştırıcı değildir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S33</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S33 · 2024-25 S24</div>
+<div class="q-stem">Limona benzeyen yumurtalarının yutulması ile bulaşan ve rektum mukozasına invaze olarak rektum prolapsusuna neden olan helmint aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Ascaris lumbricoides</em></div><div class="q-opt ok"><b>B)</b> <em>Trichuris trichiura</em> ✓</div><div class="q-opt"><b>C)</b> <em>Strongyloides stercoralis</em></div><div class="q-opt"><b>D)</b> <em>Ancylostoma duodenale</em></div><div class="q-opt"><b>E)</b> <em>Enterobius vermicularis</em></div></div>
+<div class="q-why"><p><strong>B doğru.</strong> <strong>Limon/fıçı biçimli, iki ucunda tıpa olan yumurta</strong> ve küçük çocukta <strong>rektal prolapsus</strong> <em>Trichuris trichiura</em>'ya özgüdür; yumurtanın yutulmasıyla bulaşır, çekum-kolona yerleşir.</p><p><em>Ascaris</em> (A) ve <em>Strongyloides</em> (C) prolapsus yapmaz; <em>Ancylostoma</em> (D) deriden girip anemi yapar; <em>Enterobius</em> (E) anal kaşıntı yapar, yumurtası asimetriktir. (2024-25 S24'te de cevap <em>Trichuris</em>'tir.)</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S21</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S21 · 2022-23 S27</div>
+<div class="q-stem">Trichuris trichiura* için doğru olmayan ifade aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Kolonda yerleşir.</div><div class="q-opt ok"><b>B)</b> Tanıda selofan bant yöntemi tercih edilir. ✓</div><div class="q-opt"><b>C)</b> Dışkı ile kirlenmiş yiyeceklerle enfeksiyon bulaşır.</div><div class="q-opt"><b>D)</b> Limon şeklinde yumurtaları vardır.</div><div class="q-opt"><b>E)</b> Küçük çocuklarda prolapsus ani yapar.</div></div>
+<div class="q-var">Diğer yıllarda doğru cevap: 2022-23 S27: <strong>Selofan bant yöntemi tanıda tercih edilir.</strong>.</div>
+<div class="q-why"><p><strong>B doğru (yanlış ifade).</strong> <em>Trichuris</em> tanısında <strong>selofan bant yöntemi tercih edilmez</strong>; bu yöntem <em>Enterobius</em> içindir. <em>Trichuris</em> dışkı mikroskobisinde limon biçimli yumurtayla tanınır.</p><p>Kolonda yerleşmesi (A), dışkıyla kirlenmiş yiyecekle bulaşması (C), limon biçimli yumurta (D) ve çocukta prolapsus yapması (E) doğrudur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S22</span><span class="tag tag-accent-2">4 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S22 · 2022-23 S26 · 2021-22 S23 · 2020-21 S23</div>
+<div class="q-stem">Aşağıdaki nematodlardan hangisi için farklı olarak toprak zorunlu değildir ve insandan-insana doğrudan bulaştırılabilir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Ascaris lumbricoides</em></div><div class="q-opt"><b>B)</b> <em>Strongyloides stercoralis</em></div><div class="q-opt ok"><b>C)</b> <em>Enterobius vermicularis</em> ✓</div><div class="q-opt"><b>D)</b> <em>Ancylostoma duodenale</em></div><div class="q-opt"><b>E)</b> <em>Trichuris trichiura</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <em>Enterobius</em> yumurtası perianal bölgede birkaç saatte enfektif olur; <strong>toprakta olgunlaşmaya gerek yoktur</strong>, doğrudan kişiden kişiye (el-ağız, otoenfeksiyon) bulaşır.</p><p><em>Ascaris</em> (A) ve <em>Trichuris</em> (E) yumurtası toprakta olgunlaşır; <em>Strongyloides</em> (B) ve <em>Ancylostoma</em> (D) larvası toprakta gelişir. (2020-21 S23'te anahtar <em>Strongyloides</em>'i işaretlemiş olsa da soru kalıbına en uygun yanıt <em>Enterobius</em>'tur; çoğu yılda cevap <em>Enterobius</em> olmuştur.)</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S23</span><span class="tag tag-accent-2">3 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S23 · 2020-21 S2 · 2019-20 S22</div>
+<div class="q-stem">Aşağıdakilerden hangisi <em>Enterobius vermicularis</em>'in enfektif dönemidir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> Döllenmiş yumurta ✓</div><div class="q-opt"><b>B)</b> Rhabditform larva</div><div class="q-opt"><b>C)</b> Ergin dönem</div><div class="q-opt"><b>D)</b> Flariform larva</div><div class="q-opt"><b>E)</b> Kistleşmiş larva</div></div>
+<div class="q-why"><p><strong>A doğru.</strong> <em>Enterobius vermicularis</em>'in enfektif dönemi perianalde olgunlaşan <strong>döllenmiş yumurtadır</strong>; yutulunca bağırsakta erişkine dönüşür.</p><p>Rabditiform (B) ve filariform larva (D) <em>Strongyloides</em>/çengelli kurtlara, kistleşmiş larva (E) <em>Trichinella</em>'ya aittir; ergin dönem (C) bulaştırıcı form değildir. (Not: bazı yıl kayıtlarında “ergin dönem” işaretlenmiş; standart doğru yanıt olgun yumurtadır.)</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S22</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S22 · 2019-20 S27</div>
+<div class="q-stem">Malnütrisyonlu 8 yaşındaki bir çocukta derin anemi, karın ağrısı bulguları saptanmıştır. Dışkının parazitolojik incelenmesi sonucunda nematod yumurtaları görülmüştür. Bu parazit aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Ascaris lumbricoides</em></div><div class="q-opt"><b>B)</b> <em>Enterobius vermicularis</em></div><div class="q-opt"><b>C)</b> <em>Taenia saginata</em></div><div class="q-opt ok"><b>D)</b> <em>Necator americanus</em> ✓</div><div class="q-opt"><b>E)</b> <em>Fasciola hepatica</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <strong>Necator americanus</strong> (çengelli kurt) bağırsak mukozasına tutunup kan emer; <strong>demir eksikliği anemisi</strong> ve karın ağrısı yapar, özellikle malnütrisyonlu çocukta ağırdır. Tanı dışkıda çengelli kurt yumurtasıyla konur.</p><p><em>Ascaris</em> (A) tıkanıklık, <em>Enterobius</em> (B) anal kaşıntı yapar; <em>T. saginata</em> (C) bir sestoddur; <em>Fasciola</em> (E) karaciğer trematodudur. (2019-20 S27'de de cevap <em>Necator</em>'dur.)</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S24</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S24</div>
+<div class="q-stem">Anemi yapan helmint hangisidir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b><em>Necator americanus</em></div></div>
+<div class="q-why"><p><strong>Cevap: <em>Necator americanus</em>.</strong> Çengelli kurtlar bağırsaktan kan emerek demir eksikliği anemisi yapar.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S25</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S25</div>
+<div class="q-stem">Strongyloides stercoralis* için insana bulaş yolu ve bulaş formu için aşağıdaki eşleştirmelerden hangisi doğrudur?</div>
+<div class="q-opts"><div class="q-opt ok"><b>A)</b> Deri - flariform larva ✓</div><div class="q-opt"><b>B)</b> Ağız - flariform larva</div><div class="q-opt"><b>C)</b> Deri - rhabditiform larva</div><div class="q-opt"><b>D)</b> Ağız - flariform yumurta</div><div class="q-opt"><b>E)</b> Ağız - rhabditiform larva</div></div>
+<div class="q-why"><p><strong>A doğru.</strong> <em>Strongyloides stercoralis</em> insana <strong>deriden, filariform larva</strong> girişiyle bulaşır; larva akciğere göç edip yutularak bağırsağa ulaşır.</p><p>Ağızdan bulaş (B, D, E) ve rabditiform larvayla deri bulaşı (C) yanlıştır; rabditiform larva dışkıda görülen (tanısal) formdur, bulaştırıcı form filariformdur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S12</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S12</div>
+<div class="q-stem">Otoenfeksiyon yapma özelliği nedeniyle özellikle AIDS'li hastalarda veya immünosupresif ilaç kullananlarda sıklıkla rastlanan parazit aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Ascaris lumbricoides</em></div><div class="q-opt"><b>B)</b> <em>Echinococcus granulosus</em></div><div class="q-opt ok"><b>C)</b> <em>Strongyloides stercoralis</em> ✓</div><div class="q-opt"><b>D)</b> <em>Ancylostoma duodenale</em></div><div class="q-opt"><b>E)</b> <em>Necator americanus</em></div></div>
+<div class="q-why"><p><strong>C doğru.</strong> <em>Strongyloides</em> <strong>otoenfeksiyon</strong> yapabildiği için konakta yıllarca kalır ve bağışıklık baskılandığında (AIDS, immünosupresif ilaç) çoğalıp hiperenfeksiyon yapar.</p><p><em>Ascaris</em> (A), <em>Echinococcus</em> (B), <em>Ancylostoma</em> (D) ve <em>Necator</em> (E) otoenfeksiyon yapmaz. (Bu küme bazı yıllarda antibiyotik/tedavi bölümüne de düşebilir; etken aynıdır.)</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S27</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S27</div>
+<div class="q-stem">İmmün suprese hastalarda akciğerlerde ve diğer dokularda yoğun larval invazyonu ile karakterize sistemik enfeksiyona neden olan etken hangisidir?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b><em>Strongyloides stercoralis</em></div></div>
+<div class="q-why"><p><strong>Cevap: <em>Strongyloides stercoralis</em>.</strong> Otoenfeksiyonla çoğalan larvalar bağışıklığı baskılı hastada akciğer ve diğer dokulara yayılıp sistemik (dissemine) hiperenfeksiyon yapar.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S26</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S26</div>
+<div class="q-stem">Kanser tedavisi alan hastada pnömoni ve menenjit tablosu gelişmiş, yapılan balgam ve dışkı incelemesinde rabdiform larvalar saptanmıştır. Bu hastada etken olarak öncelikle aşağıdakilerden hangisi düşünülmelidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Echinococcus granulosus</em></div><div class="q-opt"><b>B)</b> <em>Pneumocystis jiroveci</em></div><div class="q-opt"><b>C)</b> <em>Enterobius vermicularis</em></div><div class="q-opt ok"><b>D)</b> <em>Strongyloides stercoralis</em> ✓</div><div class="q-opt"><b>E)</b> <em>Naegleria fowleri</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> Bağışıklığı baskılı hastada <strong>rabditiform larvaların</strong> balgam ve dışkıda görülmesi, pnömoni ve menenjitle giden <strong>Strongyloides hiperenfeksiyonunu</strong> gösterir; göç eden larvalar bağırsak bakterilerini kana taşıyıp menenjit ve sepsise yol açar.</p><p><em>Echinococcus</em> (A) kist hidatik, <em>Pneumocystis</em> (B) pnömoni yapar ama larva vermez, <em>Enterobius</em> (C) anal kaşıntı, <em>Naegleria</em> (E) primer amipli meningoensefalit yapar.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2020-21 S39</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2020-21 S39</div>
+<div class="q-stem">Larva göçü aşağıdaki helmintlerin hangisinde yoktur?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Necator americanus</em></div><div class="q-opt"><b>B)</b> <em>Ascaris lumbricoides</em></div><div class="q-opt"><b>C)</b> <em>Ancylostoma duodenale</em></div><div class="q-opt ok"><b>D)</b> <em>Trichuris trichiura</em> ✓</div><div class="q-opt"><b>E)</b> <em>Strongyloides stercoralis</em></div></div>
+<div class="q-why"><p><strong>D doğru.</strong> <em>Trichuris trichiura</em> yumurtadan çıkıp doğrudan kolonda erişkine dönüşür; <strong>akciğer göçü yapmaz</strong>.</p><p><em>Necator</em> (A), <em>Ascaris</em> (B), <em>Ancylostoma</em> (C) ve <em>Strongyloides</em> (E) larvaları akciğerden göç eder.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2019-20 S25</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2019-20 S25</div>
+<div class="q-stem">Aşağıdaki nematodlardan hangisi serbest yaşam biçimine sahiptir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> <em>Ascaris lumbricoides</em></div><div class="q-opt"><b>B)</b> <em>Enterobius vermicularis</em></div><div class="q-opt"><b>C)</b> <em>Trichuris trichura</em></div><div class="q-opt"><b>D)</b> <em>Ancylostoma duodenale</em></div><div class="q-opt ok"><b>E)</b> <em>Strongyloides stercoralis</em> ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> <em>Strongyloides stercoralis</em> toprakta <strong>serbest yaşayan erişkin döngü</strong> kurabilen tek bağırsak nematodudur; bu özellik çevrede çoğalmasını sağlar.</p><p><em>Ascaris</em> (A), <em>Enterobius</em> (B), <em>Trichuris</em> (C) ve <em>Ancylostoma</em> (D) zorunlu parazittir, serbest erişkin döngüsü yoktur.</p></div>
+</div>
+</section>
+</main></body></html>

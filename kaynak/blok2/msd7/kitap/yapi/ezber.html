@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title></title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --color-bg: #f3f2f2;
+    --color-text: #201e1d;
+    --color-accent: #0088b0;
+    --color-accent-700: color-mix(in oklch, #0088b0, black 35%);
+    --color-accent-900: color-mix(in oklch, #0088b0, black 55%);
+    --color-accent-2: #d6006c;
+    --color-accent-2-900: color-mix(in oklch, #d6006c, black 45%);
+    --color-neutral-700: #57534e;
+    --font-heading: "Source Serif 4", Georgia, "Times New Roman", serif;
+    --font-body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  }
+  @page { size: A4; margin: 24mm 20mm 24mm 20mm; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); }
+  a { color: var(--color-accent-700); }
+  .book-page { max-width: 100%; }
+  .book-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 16px 0; }
+  .book-title { font-family: var(--font-heading); font-size: 2.3rem; line-height: 1.15; font-weight: 700; margin: 0 0 12px 0; }
+  .book-byline { font-style: italic; color: var(--color-neutral-700); font-size: 0.92rem; margin: 0 0 40px 0; }
+  .book-section { margin: 0 0 32px 0; }
+  .book-h2 { font-family: var(--font-heading); font-size: 1.3rem; font-weight: 700; margin: 0 0 12px 0; break-after: avoid; }
+  .book-h3 { font-family: var(--font-heading); font-size: 1.08rem; font-weight: 700; margin: 18px 0 8px 0; break-after: avoid; }
+  .book-p { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; text-align: justify; hyphens: auto; }
+  .book-list { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; padding-left: 1.3em; }
+  .book-list li { margin-bottom: 5px; }
+  .tag { display: inline-block; font-size: 10.5px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 9px; border-radius: 2px; }
+  .tag-accent-2 { background: color-mix(in oklch, var(--color-accent-2) 14%, white); color: var(--color-accent-2-900); }
+  .highlight-tag { margin-bottom: 8px; break-inside: avoid; }
+  .highlight-p { font-size: 0.98rem; line-height: 1.65; color: var(--color-accent-2-900); margin: 0 0 12px 0; break-inside: avoid; }
+  .cite { font-style: italic; color: var(--color-neutral-700); }
+  table.table { width: 100%; border-collapse: collapse; font-size: 0.86rem; margin: 4px 0 16px 0; break-inside: avoid; }
+  table.table th { text-align: left; font-family: var(--font-heading); font-weight: 700; border-bottom: 1.5px solid var(--color-text); padding: 6px 10px 6px 0; }
+  table.table td { border-bottom: 1px solid color-mix(in oklch, var(--color-text) 15%, white); padding: 7px 10px 7px 0; vertical-align: top; }
+  .chart-figure { margin: 4px 0 16px 0; break-inside: avoid; }
+  .chart-caption { font-size: 0.82rem; color: var(--color-neutral-700); margin-top: 8px; font-style: italic; text-align: left; }
+  .qa-list { display: flex; flex-direction: column; gap: 14px; margin-top: 14px; }
+  .card { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 16px 20px; break-inside: avoid; }
+  .card-kicker { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 4px; }
+  .card-title { font-family: var(--font-heading); font-weight: 700; font-size: 1rem; margin-bottom: 8px; }
+  .card-body { font-size: 0.93rem; line-height: 1.6; }
+  .card-body p { margin: 0 0 8px 0; }
+  .card-body .opt-correct { color: var(--color-accent-700); font-weight: 700; }
+  .card-source { font-size: 0.8rem; font-style: italic; color: var(--color-neutral-700); margin-top: 8px; }
+  .card-dispute { font-size: 0.85rem; background: color-mix(in oklch, var(--color-accent-2) 8%, white); padding: 8px 12px; border-radius: 2px; margin-top: 8px; }
+  .chapter { break-before: page; }
+  .chapter-first { break-before: auto; }
+  .chapter-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 6px 0; }
+  .chapter-title { font-family: var(--font-heading); font-size: 1.75rem; line-height: 1.2; font-weight: 700; margin: 0 0 8px 0; break-after: avoid; }
+  .chapter-lead { font-style: italic; color: var(--color-neutral-700); font-size: 0.95rem; line-height: 1.6; margin: 0 0 26px 0; }
+  .book-h4 { font-family: var(--font-heading); font-size: 0.98rem; font-weight: 700; font-style: italic; margin: 14px 0 6px 0; break-after: avoid; }
+  ol.book-list { padding-left: 1.5em; }
+  .toc { list-style: none; padding: 0; margin: 0 0 12px 0; font-size: 0.98rem; line-height: 1.7; }
+  .toc li { margin: 0 0 4px 0; }
+  .toc .toc-sub { color: var(--color-neutral-700); font-size: 0.88rem; display: block; margin-left: 1.2em; }
+  .cover-note { font-size: 0.92rem; line-height: 1.6; color: var(--color-neutral-700); margin: 0 0 14px 0; }
+  .keybox { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 14px 18px; margin: 6px 0 16px 0; break-inside: avoid; }
+  .keybox-title { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 6px; font-weight: 700; }
+  .keybox ul { margin: 0; padding-left: 1.2em; font-size: 0.92rem; line-height: 1.6; }
+  .keybox li { margin-bottom: 3px; }
+  .card-title .opts { display: block; font-weight: 400; font-family: var(--font-body); font-size: 0.93rem; margin-top: 6px; line-height: 1.55; }
+  table.table.compact { font-size: 0.8rem; }
+  sub, sup { line-height: 0; }
+  @page { size: A4; margin: 22mm 20mm 20mm 20mm; background: #f3f2f2; }
+  .hl-block { break-inside: avoid; }
+  table.table.split { break-inside: auto; }
+  table.table.split tr { break-inside: avoid; }
+
+  /* --- Modul 5-6: cikmis soru odakli yapi --- */
+  .qblock { margin: 0 0 10px 0; break-after: avoid; }
+  .qblock-title { font-size: 10.5px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-accent-2-900); font-weight: 700; margin: 0 0 4px 0; }
+  .qblock-note { font-size: 0.84rem; line-height: 1.5; color: var(--color-neutral-700); font-style: italic; margin: 0 0 10px 0; }
+  .qcards { display: block; margin: 0 0 26px 0; }
+  .qcard { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 12px 16px 10px 16px; margin: 0 0 10px 0; break-inside: auto; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+  .q-head { display: flex; align-items: center; gap: 10px; margin-bottom: 2px; }
+  .q-no { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); font-weight: 700; }
+  .q-src { font-size: 0.74rem; color: var(--color-neutral-700); margin: 0 0 6px 0; line-height: 1.45; }
+  .q-src b { font-weight: 700; color: var(--color-text); }
+  .q-stem { font-family: var(--font-heading); font-weight: 700; font-size: 0.95rem; line-height: 1.45; margin: 0 0 4px 0; }
+  .q-list { margin: 2px 0 6px 0; padding-left: 1.2em; font-size: 0.88rem; line-height: 1.45; }
+  .q-opts { font-size: 0.88rem; line-height: 1.5; margin: 2px 0 6px 0; }
+  .q-opt { padding-left: 1.6em; text-indent: -1.6em; }
+  .q-opt.ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-ans { font-size: 0.86rem; margin: 2px 0 6px 0; }
+  .q-var { font-size: 0.82rem; font-style: italic; color: var(--color-neutral-700); line-height: 1.5; margin: 0 0 6px 0; }
+  .q-why { font-size: 0.86rem; line-height: 1.55; border-top: 1px solid color-mix(in oklch, var(--color-text) 10%, white); padding-top: 6px; }
+  .q-why p { margin: 0 0 5px 0; break-inside: avoid; }
+  .q-head, .q-src, .q-stem, .q-list { break-after: avoid; break-inside: avoid; }
+  .q-opts, .q-ans, .q-var { break-inside: avoid; }
+  .q-why .ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-why p:first-child > b:first-child { color: var(--color-accent-700); }
+  .q-var p { margin: 0 0 3px 0; }
+  .tag-soft { background: color-mix(in oklch, var(--color-accent) 12%, white); color: var(--color-accent-700); }
+  table.dizin td:first-child, table.surekli td:last-child { white-space: nowrap; }
+  table.dizin td:last-child { font-size: 0.72rem; color: var(--color-neutral-700); }
+  tr.dizin-bolum td { font-family: var(--font-heading); font-weight: 700; padding-top: 10px; border-bottom: 1.5px solid var(--color-text); }
+  td.sur { color: var(--color-accent-2-900); font-weight: 700; }
+  table.dizin td.sur { color: var(--color-accent-2-900); }
+  .sunumsuz { font-size: 0.86rem; background: color-mix(in oklch, var(--color-accent) 7%, white); padding: 8px 12px; border-radius: 2px; margin: 0 0 14px 0; }
+  .ref { font-size: 0.8em; color: var(--color-accent-700); font-weight: 700; white-space: nowrap; }
+
+  @page { size: A4; margin: 16mm 15mm 16mm 15mm; background: #f3f2f2; }
+  .book-p { font-size: 0.93rem; line-height: 1.55; margin: 0 0 9px 0; }
+  .book-list { font-size: 0.93rem; line-height: 1.5; }
+  .qcard { padding: 9px 13px 8px 13px; margin: 0 0 8px 0; }
+  .q-stem { font-size: 0.9rem; } .q-opts { font-size: 0.84rem; line-height: 1.4; }
+  .q-why p { font-size: 0.86rem; line-height: 1.48; }
+  .q-var { font-size: 0.78rem; }
+  .q-src { margin: 0 0 3px 0; }
+</style>
+</head>
+<body>
+<main class="book-page">
+<section class="chapter"><p class="chapter-kicker">MSD-7 · Ezber</p><h2 class="chapter-title">Son Gün Ezber Özeti</h2><p class="chapter-lead">Her bölümün en çok tekrar eden bilgisi tek satırda. Sınavdan önceki gün okuyun; her madde bir çıkmış soruya karşılık gelir.</p>
+<h3 class="book-h3">1. İshale Yaklaşım, Klinik Tipler ve Viral Etkenler</h3>
+<ul class="book-list">
+<li><strong>İnce = İçerik bol; Kalın = Kan, Kramp, Kısa ama sık.</strong> İnce bağırsak ishali hacim sorunudur (dehidratasyon), kalın bağırsak ishali iltihap sorunudur (kan, ateş, tenezm).</li>
+<li><strong>İnflamatuvar diyare yapmayanlar = toksin grubu: “Kolera, ETEC ve üç besin zehirlenmesi bakterisi (S. aureus, B. cereus, C. perfringens)”.</strong> Bu soru 5 yıl sordu ve her yıl doğru cevap bu beşten biriydi (<em>B. cereus</em>, <em>S. aureus</em>, <em>C. perfringens</em> iki kez, <em>V. cholerae</em>). Buna <em>Giardia</em> ve virüsleri ekleyin.</li>
+<li><strong>Kanlı ishal = “SS-CY-CE + amip”:</strong> <strong>S</strong>higella, <strong>S</strong>almonella, <strong>C</strong>ampylobacter, <strong>Y</strong>ersinia, <strong>C</strong>. difficile, <strong>E</strong>. coli (EIEC, EHEC) ve <em>E. histolytica</em>. Enfeksiyon dışında inflamatuvar bağırsak hastalığı, iskemik kolit ve divertikülit. <em>Giardia</em> mukozayı işgal etmez, kanlı ishal yapmaz: “kanlı ishalde düşünülmez” sorusunun 3 yıldır cevabı Giardiazis.</li>
+<li><strong>6-16 kuralı:</strong> 6 saatten kısa → hazır toksin (<em>S. aureus</em>, <em>B. cereus</em> kusma tipi); 8-16 saat → bağırsakta oluşan toksin (<em>C. perfringens</em>, <em>B. cereus</em> ishal tipi); 16 saatten uzun → bağırsakta çoğalan, invaziv bakteriler ve virüsler.</li>
+<li><strong>Kreş üçlüsü (düşük doz): Shigella, Giardia, Cryptosporidium</strong>; kreşte kolay yayılan virüsler: rotavirüs, adenovirüs, astrovirüs.</li>
+<li><strong>Gastroenteritin tek DNA virüsü: Adeno (tip 40-41).</strong> Rotavirüs = çocuğun ağır ishali; Norovirüs = gemide kusma.</li>
+<li><strong>Antibiyotik = “APS-B”:</strong> <strong>A</strong>ntibiyotik öyküsü (son 1 ay), <strong>P</strong>rotez, <strong>S</strong>eyahat + yüksek ateş/sepsis, <strong>B</strong>ağışıklık baskısı. Yaş tek başına endikasyon değildir; “35 yaş üstü” şıkkı yanlıştır.</li>
+</ul>
+<h3 class="book-h3">2. Dehidratasyon ve Sıvı Tedavisi</h3>
+<ul class="book-list">
+<li><strong>Ağır = “Dolaşım + Beyin + Böbrek”:</strong> kan basıncı düşük ya da normal, soğuk alacalı deri (cutis marmorata), letarji-koma, idrar 0,5-1 ml/kg/saatin altında → <strong>%10 ve üzeri</strong>. Bu vaka sorusu 5 kez geldi; cevap hep “ağır dehidratasyon”.</li>
+<li><strong>ORS kuralları: “Kaynat-soğut-sonra ekle; 24 saatte dök; 50/100 ml/kg 4-6 saatte; Na 115-165; ateş engel değil; yenidoğana da.”</strong></li>
+</ul>
+<h3 class="book-h3">3. Su ve Besin Kaynaklı Salgınlar</h3>
+<ul class="book-list">
+<li><strong>Su-besin hastalıkları “DEES-Y”:</strong> <strong>D</strong>ışkı-ağız, <strong>E</strong>ndemik, <strong>E</strong>pidemi, <strong>S</strong>u ise patlayıcı, <strong>Y</strong>azın artar. Bu soru 7 kez geldi; cevap 6 kez “kış aylarında daha çok görülürler”, bir kez “mevsimsel farklılık görülmez”di.</li>
+<li><strong>Su-besin hastalığında zincirin en zayıf halkası = bulaşma yolu</strong> (6 kez soruldu). Suyu klorla, besini denetle; zincir kırılır.</li>
+<li><strong>“FATS” kaynağa yöneliktir:</strong> <strong>F</strong>ilyasyon, <strong>A</strong>yırma, <strong>T</strong>edavi, <strong>S</strong>ağlık eğitimi. <strong>Su ve gıda</strong> (dezenfeksiyon, sanitasyon) bulaşma yoluna, <strong>karantina</strong> sağlam kişiye. “Kaynağa yönelik” sorusu 7 kez, “sağlam kişiye yönelik” sorusu 6 kez geldi.</li>
+<li><strong>Entoksikasyon = “Erken, Emezis”</strong> (kuluçka kısa, kusma önde); <strong>Enfeksiyon = “Geç, Gaita”</strong> (kuluçka uzun, ishal önde). Bu soru 6 kez geldi; cevap her yıl “entoksikasyonlarda kuluçka daha kısadır”.</li>
+<li><strong>“Kontrol = Kısa liste, Kısa aralık; Denetleme = Dört dörtlük, tüm parametreler.”</strong> Su izlemi sorusu 8 kez geldi: 6 kez denetleme izlemi, 2 kez kontrol izlemi soruldu. Soruyu okurken “tüm” mü “belli başlı” mı dediğine bakın.</li>
+</ul>
+<h3 class="book-h3">4. Bağırsak Mikrobiyotası ve Probiyotikler</h3>
+<ul class="book-list">
+<li><strong>Anne sütü → Bifido (Actinobacteria); Erişkin → Firmicutes + Bacteroidetes; Bütirat → Firmicutes.</strong></li>
+<li><strong>Bütirat = kolonositin yakıtı + bariyer + patojene kapalı kapı.</strong> “SCFA verilince kolonizasyonu önlenen patojen” sorusunun cevabı <em>C. difficile</em>.</li>
+<li><strong>Gastrit zemininde MALT lenfoma = Helicobacter pylori.</strong> Bu bilgi iki kez soruldu.</li>
+</ul>
+<h3 class="book-h3">5. Salmonella, Shigella, E. coli, Yersinia ve Laboratuvar Tanısı</h3>
+<ul class="book-list">
+<li><strong>Enterobacteriaceae = oksidaz NEGATİF, glukozu fermente eder.</strong> <em>C. perfringens</em> (Gram pozitif) ve <em>Vibrio</em> (oksidaz pozitif) bu aileden <strong>değildir</strong>.</li>
+<li><strong>Tifo kültürü zamanı: 1. hafta KAN ve kemik iliği, 2. haftadan sonra DIŞKI ve idrar, 4. haftadan sonra SAFRA.</strong> Döküntü (gül lekesi) + rölatif bradikardi + basamaklı ateş + önce ishal sonra kabızlık = tifo.</li>
+<li><strong>Hamburger + kanlı ishal + böbrek yetmezliği + düşük trombosit = EHEC O157:H7, toksini Shiga, besiyeri SMAC.</strong></li>
+<li><strong>Yersinia = üreaz +, soğukta ürer, psödoapandisit, demir sever, transfüzyonla bulaşır, CIN agar.</strong></li>
+<li><strong><em>S.</em> Paratyphi A H<sub>2</sub>S yapmaz</strong> (TSI ve HE'de): “H<sub>2</sub>S pozitif koloni görülen hastada düşünmezsiniz” sorusunun cevabı <em>S.</em> Paratyphi A. <em>S.</em> Typhi az H<sub>2</sub>S yapar.</li>
+</ul>
+<h3 class="book-h3">6. Toksin Kaynaklı İshaller ve Diğer Bakteriler</h3>
+<ul class="book-list">
+<li><strong><em>S. aureus</em> toksini ısıya dayanıklıdır:</strong> yemeği yeniden ısıtmak bakteriyi öldürür ama toksini bozmaz, zehirlenme yine olur. Kremalı pasta + 1-6 saatte kusma + gaitada az lökosit → <em>S. aureus</em>.</li>
+<li><strong>Buzdolabında üreyen, gastroenterit + sepsis + menenjit = Listeria.</strong></li>
+</ul>
+<h3 class="book-h3">7. Sindirim Sistemi Protozoonları</h3>
+<ul class="book-list">
+<li><strong>Kirpikli = Balantidium; aside dirençli sporozoonlar = Crypto, Cyclospora, Isospora; amip = Entamoeba; kamçılı = Giardia.</strong></li>
+<li><strong>Apatojenler “koli-dispar-nana-iodamoeba-chilomastix”:</strong> bağırsakta bulunur ama hastalık yapmaz. <strong>En sık rastlanan amip = <em>Entamoeba coli</strong></em> (apatojen); patojenlerin en önemlisi <em>E. histolytica</em>.</li>
+<li><strong><em>E. histolytica</em> = alyuvar yiyen trofozoit + şişe ağzı ülser + karaciğer absesi (erkek) + metronidazol; en sık klinik asemptomatik.</strong></li>
+<li><strong>Giardia = dut yaprağı/gülen yüz trofozoit + emici disk + yağlı ishal + string test; karaciğere gitmez.</strong></li>
+<li><strong>Aside dirençli ookist = Crypto / Cyclospora / Isospora.</strong> AIDS + geçmeyen sulu ishal + kırmızı ookist = <em>Cryptosporidium</em>. Boyut: Isospora en büyük, Crypto en küçük.</li>
+<li><strong>Domuzdan bulaşan, kirpikli, dizanteri-peritonit yapan = Balantidium coli.</strong></li>
+</ul>
+<h3 class="book-h3">8. Bağırsak Nematodları</h3>
+<ul class="book-list">
+<li><strong>Enterobius = topraksız, kişiden kişiye; Strongyloides = tek serbest yaşayan; deriden giren = filariform larva.</strong></li>
+<li><strong><em>Ascaris</em> = en uzun nematod + akciğer göçü (Löffler, eozinofili) + embriyonlu yumurtayla bulaş.</strong></li>
+<li><strong><em>Enterobius</em> = gece anal kaşıntı + selofan bant + otoenfeksiyon + topraksız bulaş.</strong> Ürtiker-eozinofili onun en sık belirtisi <strong>değildir</strong> (en sık belirti kaşıntıdır).</li>
+<li><strong><em>Trichuris</em> = limon yumurta + çocukta rektal prolapsus + dışkı mikroskobisi (selofan bant değil).</strong></li>
+<li><strong><em>Strongyloides</em> = deriden filariform larva, dışkıda rabditiform larva, otoenfeksiyon, bağışıklık baskısında hiperenfeksiyon (pnömoni + menenjit).</strong></li>
+<li><strong>Anemi yapan helmint = çengelli kurtlar (<em>Necator</em>, <em>Ancylostoma</em>).</strong> <em>Diphyllobothrium</em>'un megaloblastik anemisiyle karıştırmayın: çengelli kurt <strong>demir eksikliği (mikrositer)</strong> anemisi yapar.</li>
+</ul>
+<h3 class="book-h3">9. Sestodlar ve Trematodlar</h3>
+<ul class="book-list">
+<li><strong><em>Taenia solium</em> = Silahlı, domuz, Sistiserkoz; <em>T. saginata</em> = silahsız, Sığır.</strong> Karıştırmamak için: so<strong>L</strong>ium → çenge<strong>L</strong>li (silahlı).</li>
+<li><strong><em>Diphyllobothrium latum</em> = çiğ balık (Uzakdoğu) + B12 eksikliği/megaloblastik anemi + kapaklı yumurta.</strong></li>
+<li><strong><em>Hymenolepis nana</em> = cüce sestod + pire ara konak + çocukta, ara konaksız da bulaşır.</strong></li>
+<li><strong>Bağırsak yerleşimli trematod + ishal/ödem/eozinofili + dışkıda yumurta = <em>Fasciolopsis buski</strong></em> (bu soru 5 kez geldi).</li>
+<li><strong>En büyük helmint yumurtası = <em>Fasciolopsis buski</em>.</strong> <em>Fasciola</em> karaciğer (safra yolu), <em>Clonorchis</em>/<em>Opisthorchis</em> balıkla gelen safra yolu trematodlarıdır.</li>
+</ul>
+<h3 class="book-h3">10. Antihelmintik ve Antiprotozoal İlaçlar</h3>
+<ul class="book-list">
+<li><strong>Felç tipleri: “Pirantel-Levamizol-Prazikuantel kasar (spastik); Piperazin-İvermektin gevşetir (flask).”</strong> Pirantel ve piperazin <strong>zıt</strong> etkili olduğu için birlikte verilmez.</li>
+<li><strong>Benzimidazol = mikrotübül (tubulin) + fumarat redüktaz/asetilkolinesteraz; felç yapmaz, enerjiyi keser.</strong> Niklozamid = oksidatif fosforilasyonu durdurur (asetilkolinesteraz inhibisyonu DEĞİL — bu bir çeldirici).</li>
+<li><strong>Strongyloides ilk tercih = ivermektin</strong> (mikrobiyoloji sunumu tiabendazol/albendazol dese de farmakolojide ivermektin). <strong>Enterobius/Ascaris = mebendazol ya da pirantel; kist hidatik = albendazol.</strong></li>
+<li><strong>Taenia = prazikuantel/niklozamid; sistiserkoz = prazikuantel + albendazol; kist hidatik = albendazol (prazikuantel etkisiz).</strong></li>
+</ul>
+</section>
+</main></body></html>

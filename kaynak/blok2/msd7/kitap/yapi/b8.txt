@@ -1,5 +1,200 @@
-# Bağırsak Nematodları || Bölüm 8
+# Bağırsak Nematodları | Nematodların genel özellikleri ve bulaş yolları, Ascaris, Enterobius (kıl kurdu), Trichuris, Strongyloides ve çengelli kurtlar; enfektif dönemleri, tanı yöntemleri ve ayırt edici klinikleri. Bağırsak helmintleri sunumuna (S3) dayanır; 27 soru çıkmıştır. || Bölüm 8 · Yuvarlak solucanlar
+
+## Genel özellikler ve önemli bir ilke
+Nematodlar (yuvarlak solucanlar) silindirik, iki cinsiyetli helmintlerdir. **Önemli ilke: helmintler insan bağırsağında çoğalmaz** (otoenfeksiyon yapan *Strongyloides* ve *Enterobius* istisna); hastalığın ağırlığını alınan parazit sayısı belirler. Tanı genellikle **dışkıda yumurtanın** gösterilmesiyle konur (kültür yapılmaz).
+
+## Bulaş yolları ve enfektif dönemler
+Nematodlar insana üç ana yolla bulaşır; bu, sınavın en sık ayırt edici noktasıdır.
+| Bulaş yolu | Enfektif form | Nematodlar |
+| **Yumurtanın yutulması** | olgun (embriyonlu/larvalı) yumurta | *Ascaris*, *Trichuris*, *Enterobius* |
+| **Deriden larva girişi** | **filariform larva** | çengelli kurtlar (*Ancylostoma*, *Necator*), *Strongyloides* |
+| **Larvalı etle** | kist/larva | *Trichinella* (domuz eti) |
+|= Bulaş yolları. Yumurta yutulanlar toprakta olgunlaşır; deriden girenler filariform larva gönderir.
+- **Toprak zorunluluğu:** *Ascaris*, *Trichuris* yumurtası toprakta olgunlaşır; çengelli kurt ve *Strongyloides* larvası toprakta gelişir. **İstisna: *Enterobius vermicularis*** — yumurtası perianal bölgede 4-6 saatte enfektif olur, **topraksız, doğrudan kişiden kişiye** bulaşır.
+- **Serbest yaşam:** nematodlar arasında yalnız ***Strongyloides stercoralis*** toprakta serbest yaşayan erişkin döngü kurabilir.
+?? **Enterobius = topraksız, kişiden kişiye; Strongyloides = tek serbest yaşayan; deriden giren = filariform larva.**
+
+## Ascaris lumbricoides
+İnsan bağırsağının **en büyük/en uzun nematodudur**. Embriyonlu (larvalı) yumurtanın yutulmasıyla bulaşır; larva bağırsaktan kana, oradan akciğere göç eder (**Löffler sendromu:** öksürük, geçici akciğer infiltratı, **eozinofili**), yutulup bağırsağa döner ve erişkin olur. Erişkin safra yolunu ve bağırsağı tıkayabilir. Tanı **dışkıda yumurta** (yalnız erkek varsa yumurta görülmez); bulaştan sorumlu form **embriyonlu yumurtadır**. Bulaş sığır etiyle değildir (o *T. saginata*).
+?? ***Ascaris* = en uzun nematod + akciğer göçü (Löffler, eozinofili) + embriyonlu yumurtayla bulaş.**
+
+## Enterobius vermicularis (kıl kurdu)
+Çekum ve kolonda yaşar. **Dişi gece perianal bölgeye yumurtlar;** yumurta 4-6 saatte enfektif olur. Başlıca belirti **gece anal kaşıntıdır** (kızlarda vulvovajinit). **Otoenfeksiyon** (el-ağız) ve aile içi yayılım tipiktir. **Artropodla (sinek-pire) bulaşmaz.** Enfektif dönem **döllenmiş (olgun) yumurtadır** (öğrenci notlarında bazı yıllar “ergin dönem” diye işaretlenmiş olsa da standart cevap olgun yumurtadır).
+- **Tanı: selofan bant (selofanlı lam) yöntemi** — sabah, yıkanmadan perianal bölgeden alınır; dışkıda yumurta genellikle görülmez.
+?? ***Enterobius* = gece anal kaşıntı + selofan bant + otoenfeksiyon + topraksız bulaş.** Ürtiker-eozinofili onun en sık belirtisi **değildir** (en sık belirti kaşıntıdır).
+
+## Trichuris trichiura (kamçı kurt)
+Çekum ve kolonda yaşar; **limon/fıçı biçiminde, iki kutbunda tıpa olan yumurtası** vardır. Dışkıyla kirlenmiş yiyecekle, **yumurtanın yutulmasıyla** bulaşır. Ağır enfeksiyonda rektum mukozasına invaze olup, özellikle küçük çocukta **rektal prolapsus** ve tenezm yapar. Tanı **dışkıda limon biçimli yumurta** (selofan bant değil — o *Enterobius* içindir). **Larva göçü yoktur.**
+?? ***Trichuris* = limon yumurta + çocukta rektal prolapsus + dışkı mikroskobisi (selofan bant değil).**
+
+## Strongyloides stercoralis
+Deriden giren **filariform larvayla** bulaşır; akciğer göçü yapar. Dışkıda **rabditiform larva** görülür (yumurta değil). **Otoenfeksiyon** yapabildiği için yıllarca kalıcı olur ve **bağışıklığı baskılanan hastada (AIDS, kanser kemoterapisi, kortikosteroid, transplant) hiperenfeksiyon/dissemine enfeksiyon** yapar: akciğer ve dokulara yoğun larva göçü, pnömoni, Gram negatif sepsis ve **menenjit**. Serbest yaşam döngüsü olan tek nematoddur. Tanı dışkı, duodenum sıvısı, balgamda rabditiform larva.
+?? ***Strongyloides* = deriden filariform larva, dışkıda rabditiform larva, otoenfeksiyon, bağışıklık baskısında hiperenfeksiyon (pnömoni + menenjit).**
+
+## Çengelli kurtlar (Ancylostoma duodenale, Necator americanus)
+Deriden giren **filariform larvayla** bulaşır; akciğer göçü yaparlar. Erişkin ince bağırsak mukozasına tutunup **kan emer: demir eksikliği anemisi** ve eozinofili yaparlar. Malnütrisyonlu çocukta **derin anemi + karın ağrısı + dışkıda nematod yumurtası** klasik çengelli kurt (*Necator*) tablosudur.
+?? **Anemi yapan helmint = çengelli kurtlar (*Necator*, *Ancylostoma*).** *Diphyllobothrium*'un megaloblastik anemisiyle karıştırmayın: çengelli kurt **demir eksikliği (mikrositer)** anemisi yapar.
+
+## Larva göçü (akciğer) olan ve olmayanlar
+| Akciğer göçü VAR | Akciğer göçü YOK |
+| *Ascaris*, *Strongyloides*, çengelli kurtlar (*Ancylostoma*, *Necator*) | *Trichuris*, *Enterobius* |
+|= Larva göçü. *Trichuris* ve *Enterobius* yumurtadan çıkıp doğrudan bağırsakta erişkin olur, akciğere gitmez.
+
+## Bölüm özeti
+- Deriden giren (filariform larva): çengelli kurtlar, *Strongyloides*. Yumurta yutulan: *Ascaris*, *Trichuris*, *Enterobius*.
+- *Enterobius*: topraksız, kişiden kişiye, gece anal kaşıntı, selofan bant, otoenfeksiyon; artropodla bulaşmaz.
+- *Ascaris*: en uzun nematod, akciğer göçü, embriyonlu yumurta.
+- *Trichuris*: limon yumurta, rektal prolapsus, larva göçü yok.
+- *Strongyloides*: tek serbest yaşayan, dışkıda rabditiform larva, otoenfeksiyon, bağışıklık baskısında hiperenfeksiyon.
+- Çengelli kurtlar: demir eksikliği anemisi; *Trichuris* ve *Enterobius* dışında hepsi akciğer göçü yapar.
 
 ## Çıkmış sorular: Bağırsak Nematodları
 Bu bölümden 7 sınavda **27 soru** çıktı; bunlar **16 farklı soruya** karşılık geliyor ve **7 tanesi** birden fazla yıl soruldu. Her kartta sorunun en yeni hâli, sağ üstte kaç kez sorulduğu, kartın altında da çıktığı tüm sınavlar yazar. Rozeti koyu olanlar 3 ve daha fazla kez sorulmuş sorulardır.
 @QB Çıkmış sorular
+@Q 2025-26 S26 | 3 KEZ | Çıktığı sınavlar: 2025-26 S26 · 2024-25 S25 · 2019-20 S24
+@K Enterobius vermicularis* için doğru olmayan aşağıdakilerden hangisidir?
+A) Artropodlar aracılığı ile bulaşır ✓
+B) Dişileri yumurtalarını anüs etrafına bırakır
+C) Ürtiker ve eozinofili en sık görülen semptomlardır
+D) Tanı selofan bant yöntemi ile konulur
+E) Otoenfeksiyonlar yapar
+@O Diğer yıllarda doğru cevap: 2019-20 S24: **Artropodlar yardımıyla bulaşır.**.
+A doğru (yanlış ifade). *Enterobius vermicularis* **artropod aracılığıyla bulaşmaz**; dişinin perianal bölgeye bıraktığı yumurtanın el-ağız yoluyla alınmasıyla, kişiden kişiye geçer.
+Dişinin yumurtalarını anüs çevresine bırakması (B), tanının selofan bant yöntemiyle konması (D) ve otoenfeksiyon yapması (E) doğrudur. (2019-20 S24 varyantında ise anahtar D'yi, yani selofan bant dışı bir ifadeyi yanlış saymış; standart yanlış ifade “artropodla bulaşır”dır.)
+@@
+@Q 2025-26 S30 | 2 KEZ | Çıktığı sınavlar: 2025-26 S30 · 2024-25 S26
+@K İnsan barsağında yaşayan en uzun nematod aşağıdakilerden hangisidir?
+A) *Ascaris lumbricoides* ✓
+B) *Trichuris trichura*
+C) *Strongyloides stercoralis*
+D) *Necator americanus*
+E) *Enterobius vermicularis*
+A doğru. **Ascaris lumbricoides** insan bağırsağında yaşayan en büyük/en uzun nematoddur (erişkin dişi 20-35 cm).
+*Trichuris* (B), *Strongyloides* (C), *Necator* (D) ve *Enterobius* (E) çok daha küçüktür. (2024-25 S26'da da cevap *Ascaris*'tir.)
+@@
+@Q 2024-25 S23 | 1 KEZ | Çıktığı sınavlar: 2024-25 S23
+@K Ascaris* için doğru olmayan aşağıdakilerden hangisidir?
+A) Yumurtalardan çıkan larvalar kan dolaşımında migrasyon yapar
+B) Larva dönemini akciğerlerde geçirirler
+C) Yetişkin formu barsakta yaşayan en büyük nematoddur
+D) Dışkı mikroskobisinde yumurtaların gösterilmesi ile tanı konulur
+E) İyi pişmemiş sığır eti yiyenlerde gelişir ✓
+E doğru (yanlış ifade). *Ascaris* **iyi pişmemiş sığır etiyle bulaşmaz**; embriyonlu yumurtanın ağızdan alınmasıyla bulaşır. (Sığır etiyle bulaşan *Taenia saginata*'dır.)
+Larvaların kan dolaşımında göç etmesi (A), larva döneminin akciğerde geçmesi (B; Löffler), erişkinin bağırsağın en büyük nematodu olması (C) ve tanının dışkıda yumurtayla konması (D) doğrudur.
+@@
+@Q 2021-22 S22 | 1 KEZ | Çıktığı sınavlar: 2021-22 S22
+@K Askarisin bulaşmadan sorumlu olan formu aşağıdakilerden hangisidir?
+@A Embriyonlu yumurta
+Cevap: embriyonlu yumurta. Toprakta 2-4 haftada içinde larva gelişen (embriyonlanan) yumurta enfektiftir; yeni atılmış yumurta bulaştırıcı değildir.
+@@
+@Q 2025-26 S33 | 2 KEZ | Çıktığı sınavlar: 2025-26 S33 · 2024-25 S24
+@K Limona benzeyen yumurtalarının yutulması ile bulaşan ve rektum mukozasına invaze olarak rektum prolapsusuna neden olan helmint aşağıdakilerden hangisidir?
+A) *Ascaris lumbricoides*
+B) *Trichuris trichiura* ✓
+C) *Strongyloides stercoralis*
+D) *Ancylostoma duodenale*
+E) *Enterobius vermicularis*
+B doğru. **Limon/fıçı biçimli, iki ucunda tıpa olan yumurta** ve küçük çocukta **rektal prolapsus** *Trichuris trichiura*'ya özgüdür; yumurtanın yutulmasıyla bulaşır, çekum-kolona yerleşir.
+*Ascaris* (A) ve *Strongyloides* (C) prolapsus yapmaz; *Ancylostoma* (D) deriden girip anemi yapar; *Enterobius* (E) anal kaşıntı yapar, yumurtası asimetriktir. (2024-25 S24'te de cevap *Trichuris*'tir.)
+@@
+@Q 2023-24 S21 | 2 KEZ | Çıktığı sınavlar: 2023-24 S21 · 2022-23 S27
+@K Trichuris trichiura* için doğru olmayan ifade aşağıdakilerden hangisidir?
+A) Kolonda yerleşir.
+B) Tanıda selofan bant yöntemi tercih edilir. ✓
+C) Dışkı ile kirlenmiş yiyeceklerle enfeksiyon bulaşır.
+D) Limon şeklinde yumurtaları vardır.
+E) Küçük çocuklarda prolapsus ani yapar.
+@O Diğer yıllarda doğru cevap: 2022-23 S27: **Selofan bant yöntemi tanıda tercih edilir.**.
+B doğru (yanlış ifade). *Trichuris* tanısında **selofan bant yöntemi tercih edilmez**; bu yöntem *Enterobius* içindir. *Trichuris* dışkı mikroskobisinde limon biçimli yumurtayla tanınır.
+Kolonda yerleşmesi (A), dışkıyla kirlenmiş yiyecekle bulaşması (C), limon biçimli yumurta (D) ve çocukta prolapsus yapması (E) doğrudur.
+@@
+@Q 2023-24 S22 | 4 KEZ | Çıktığı sınavlar: 2023-24 S22 · 2022-23 S26 · 2021-22 S23 · 2020-21 S23
+@K Aşağıdaki nematodlardan hangisi için farklı olarak toprak zorunlu değildir ve insandan-insana doğrudan bulaştırılabilir?
+A) *Ascaris lumbricoides*
+B) *Strongyloides stercoralis*
+C) *Enterobius vermicularis* ✓
+D) *Ancylostoma duodenale*
+E) *Trichuris trichiura*
+C doğru. *Enterobius* yumurtası perianal bölgede birkaç saatte enfektif olur; **toprakta olgunlaşmaya gerek yoktur**, doğrudan kişiden kişiye (el-ağız, otoenfeksiyon) bulaşır.
+*Ascaris* (A) ve *Trichuris* (E) yumurtası toprakta olgunlaşır; *Strongyloides* (B) ve *Ancylostoma* (D) larvası toprakta gelişir. (2020-21 S23'te anahtar *Strongyloides*'i işaretlemiş olsa da soru kalıbına en uygun yanıt *Enterobius*'tur; çoğu yılda cevap *Enterobius* olmuştur.)
+@@
+@Q 2022-23 S23 | 3 KEZ | Çıktığı sınavlar: 2022-23 S23 · 2020-21 S2 · 2019-20 S22
+@K Aşağıdakilerden hangisi *Enterobius vermicularis*'in enfektif dönemidir?
+A) Döllenmiş yumurta ✓
+B) Rhabditform larva
+C) Ergin dönem
+D) Flariform larva
+E) Kistleşmiş larva
+A doğru. *Enterobius vermicularis*'in enfektif dönemi perianalde olgunlaşan **döllenmiş yumurtadır**; yutulunca bağırsakta erişkine dönüşür.
+Rabditiform (B) ve filariform larva (D) *Strongyloides*/çengelli kurtlara, kistleşmiş larva (E) *Trichinella*'ya aittir; ergin dönem (C) bulaştırıcı form değildir. (Not: bazı yıl kayıtlarında “ergin dönem” işaretlenmiş; standart doğru yanıt olgun yumurtadır.)
+@@
+@Q 2022-23 S22 | 2 KEZ | Çıktığı sınavlar: 2022-23 S22 · 2019-20 S27
+@K Malnütrisyonlu 8 yaşındaki bir çocukta derin anemi, karın ağrısı bulguları saptanmıştır. Dışkının parazitolojik incelenmesi sonucunda nematod yumurtaları görülmüştür. Bu parazit aşağıdakilerden hangisidir?
+A) *Ascaris lumbricoides*
+B) *Enterobius vermicularis*
+C) *Taenia saginata*
+D) *Necator americanus* ✓
+E) *Fasciola hepatica*
+D doğru. **Necator americanus** (çengelli kurt) bağırsak mukozasına tutunup kan emer; **demir eksikliği anemisi** ve karın ağrısı yapar, özellikle malnütrisyonlu çocukta ağırdır. Tanı dışkıda çengelli kurt yumurtasıyla konur.
+*Ascaris* (A) tıkanıklık, *Enterobius* (B) anal kaşıntı yapar; *T. saginata* (C) bir sestoddur; *Fasciola* (E) karaciğer trematodudur. (2019-20 S27'de de cevap *Necator*'dur.)
+@@
+@Q 2021-22 S24 | 1 KEZ | Çıktığı sınavlar: 2021-22 S24
+@K Anemi yapan helmint hangisidir?
+@A *Necator americanus*
+Cevap: *Necator americanus*. Çengelli kurtlar bağırsaktan kan emerek demir eksikliği anemisi yapar.
+@@
+@Q 2022-23 S25 | 1 KEZ | Çıktığı sınavlar: 2022-23 S25
+@K Strongyloides stercoralis* için insana bulaş yolu ve bulaş formu için aşağıdaki eşleştirmelerden hangisi doğrudur?
+A) Deri - flariform larva ✓
+B) Ağız - flariform larva
+C) Deri - rhabditiform larva
+D) Ağız - flariform yumurta
+E) Ağız - rhabditiform larva
+A doğru. *Strongyloides stercoralis* insana **deriden, filariform larva** girişiyle bulaşır; larva akciğere göç edip yutularak bağırsağa ulaşır.
+Ağızdan bulaş (B, D, E) ve rabditiform larvayla deri bulaşı (C) yanlıştır; rabditiform larva dışkıda görülen (tanısal) formdur, bulaştırıcı form filariformdur.
+@@
+@Q 2020-21 S12 | 1 KEZ | Çıktığı sınavlar: 2020-21 S12
+@K Otoenfeksiyon yapma özelliği nedeniyle özellikle AIDS'li hastalarda veya immünosupresif ilaç kullananlarda sıklıkla rastlanan parazit aşağıdakilerden hangisidir?
+A) *Ascaris lumbricoides*
+B) *Echinococcus granulosus*
+C) *Strongyloides stercoralis* ✓
+D) *Ancylostoma duodenale*
+E) *Necator americanus*
+C doğru. *Strongyloides* **otoenfeksiyon** yapabildiği için konakta yıllarca kalır ve bağışıklık baskılandığında (AIDS, immünosupresif ilaç) çoğalıp hiperenfeksiyon yapar.
+*Ascaris* (A), *Echinococcus* (B), *Ancylostoma* (D) ve *Necator* (E) otoenfeksiyon yapmaz. (Bu küme bazı yıllarda antibiyotik/tedavi bölümüne de düşebilir; etken aynıdır.)
+@@
+@Q 2021-22 S27 | 1 KEZ | Çıktığı sınavlar: 2021-22 S27
+@K İmmün suprese hastalarda akciğerlerde ve diğer dokularda yoğun larval invazyonu ile karakterize sistemik enfeksiyona neden olan etken hangisidir?
+@A *Strongyloides stercoralis*
+Cevap: *Strongyloides stercoralis*. Otoenfeksiyonla çoğalan larvalar bağışıklığı baskılı hastada akciğer ve diğer dokulara yayılıp sistemik (dissemine) hiperenfeksiyon yapar.
+@@
+@Q 2019-20 S26 | 1 KEZ | Çıktığı sınavlar: 2019-20 S26
+@K Kanser tedavisi alan hastada pnömoni ve menenjit tablosu gelişmiş, yapılan balgam ve dışkı incelemesinde rabdiform larvalar saptanmıştır. Bu hastada etken olarak öncelikle aşağıdakilerden hangisi düşünülmelidir?
+A) *Echinococcus granulosus*
+B) *Pneumocystis jiroveci*
+C) *Enterobius vermicularis*
+D) *Strongyloides stercoralis* ✓
+E) *Naegleria fowleri*
+D doğru. Bağışıklığı baskılı hastada **rabditiform larvaların** balgam ve dışkıda görülmesi, pnömoni ve menenjitle giden **Strongyloides hiperenfeksiyonunu** gösterir; göç eden larvalar bağırsak bakterilerini kana taşıyıp menenjit ve sepsise yol açar.
+*Echinococcus* (A) kist hidatik, *Pneumocystis* (B) pnömoni yapar ama larva vermez, *Enterobius* (C) anal kaşıntı, *Naegleria* (E) primer amipli meningoensefalit yapar.
+@@
+@Q 2020-21 S39 | 1 KEZ | Çıktığı sınavlar: 2020-21 S39
+@K Larva göçü aşağıdaki helmintlerin hangisinde yoktur?
+A) *Necator americanus*
+B) *Ascaris lumbricoides*
+C) *Ancylostoma duodenale*
+D) *Trichuris trichiura* ✓
+E) *Strongyloides stercoralis*
+D doğru. *Trichuris trichiura* yumurtadan çıkıp doğrudan kolonda erişkine dönüşür; **akciğer göçü yapmaz**.
+*Necator* (A), *Ascaris* (B), *Ancylostoma* (C) ve *Strongyloides* (E) larvaları akciğerden göç eder.
+@@
+@Q 2019-20 S25 | 1 KEZ | Çıktığı sınavlar: 2019-20 S25
+@K Aşağıdaki nematodlardan hangisi serbest yaşam biçimine sahiptir?
+A) *Ascaris lumbricoides*
+B) *Enterobius vermicularis*
+C) *Trichuris trichura*
+D) *Ancylostoma duodenale*
+E) *Strongyloides stercoralis* ✓
+E doğru. *Strongyloides stercoralis* toprakta **serbest yaşayan erişkin döngü** kurabilen tek bağırsak nematodudur; bu özellik çevrede çoğalmasını sağlar.
+*Ascaris* (A), *Enterobius* (B), *Trichuris* (C) ve *Ancylostoma* (D) zorunlu parazittir, serbest erişkin döngüsü yoktur.
+@@

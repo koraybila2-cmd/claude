@@ -1,0 +1,269 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title></title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --color-bg: #f3f2f2;
+    --color-text: #201e1d;
+    --color-accent: #0088b0;
+    --color-accent-700: color-mix(in oklch, #0088b0, black 35%);
+    --color-accent-900: color-mix(in oklch, #0088b0, black 55%);
+    --color-accent-2: #d6006c;
+    --color-accent-2-900: color-mix(in oklch, #d6006c, black 45%);
+    --color-neutral-700: #57534e;
+    --font-heading: "Source Serif 4", Georgia, "Times New Roman", serif;
+    --font-body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  }
+  @page { size: A4; margin: 24mm 20mm 24mm 20mm; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); }
+  a { color: var(--color-accent-700); }
+  .book-page { max-width: 100%; }
+  .book-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 16px 0; }
+  .book-title { font-family: var(--font-heading); font-size: 2.3rem; line-height: 1.15; font-weight: 700; margin: 0 0 12px 0; }
+  .book-byline { font-style: italic; color: var(--color-neutral-700); font-size: 0.92rem; margin: 0 0 40px 0; }
+  .book-section { margin: 0 0 32px 0; }
+  .book-h2 { font-family: var(--font-heading); font-size: 1.3rem; font-weight: 700; margin: 0 0 12px 0; break-after: avoid; }
+  .book-h3 { font-family: var(--font-heading); font-size: 1.08rem; font-weight: 700; margin: 18px 0 8px 0; break-after: avoid; }
+  .book-p { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; text-align: justify; hyphens: auto; }
+  .book-list { font-size: 0.98rem; line-height: 1.65; margin: 0 0 12px 0; padding-left: 1.3em; }
+  .book-list li { margin-bottom: 5px; }
+  .tag { display: inline-block; font-size: 10.5px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 9px; border-radius: 2px; }
+  .tag-accent-2 { background: color-mix(in oklch, var(--color-accent-2) 14%, white); color: var(--color-accent-2-900); }
+  .highlight-tag { margin-bottom: 8px; break-inside: avoid; }
+  .highlight-p { font-size: 0.98rem; line-height: 1.65; color: var(--color-accent-2-900); margin: 0 0 12px 0; break-inside: avoid; }
+  .cite { font-style: italic; color: var(--color-neutral-700); }
+  table.table { width: 100%; border-collapse: collapse; font-size: 0.86rem; margin: 4px 0 16px 0; break-inside: avoid; }
+  table.table th { text-align: left; font-family: var(--font-heading); font-weight: 700; border-bottom: 1.5px solid var(--color-text); padding: 6px 10px 6px 0; }
+  table.table td { border-bottom: 1px solid color-mix(in oklch, var(--color-text) 15%, white); padding: 7px 10px 7px 0; vertical-align: top; }
+  .chart-figure { margin: 4px 0 16px 0; break-inside: avoid; }
+  .chart-caption { font-size: 0.82rem; color: var(--color-neutral-700); margin-top: 8px; font-style: italic; text-align: left; }
+  .qa-list { display: flex; flex-direction: column; gap: 14px; margin-top: 14px; }
+  .card { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 16px 20px; break-inside: avoid; }
+  .card-kicker { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 4px; }
+  .card-title { font-family: var(--font-heading); font-weight: 700; font-size: 1rem; margin-bottom: 8px; }
+  .card-body { font-size: 0.93rem; line-height: 1.6; }
+  .card-body p { margin: 0 0 8px 0; }
+  .card-body .opt-correct { color: var(--color-accent-700); font-weight: 700; }
+  .card-source { font-size: 0.8rem; font-style: italic; color: var(--color-neutral-700); margin-top: 8px; }
+  .card-dispute { font-size: 0.85rem; background: color-mix(in oklch, var(--color-accent-2) 8%, white); padding: 8px 12px; border-radius: 2px; margin-top: 8px; }
+  .chapter { break-before: page; }
+  .chapter-first { break-before: auto; }
+  .chapter-kicker { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent-700); margin: 0 0 6px 0; }
+  .chapter-title { font-family: var(--font-heading); font-size: 1.75rem; line-height: 1.2; font-weight: 700; margin: 0 0 8px 0; break-after: avoid; }
+  .chapter-lead { font-style: italic; color: var(--color-neutral-700); font-size: 0.95rem; line-height: 1.6; margin: 0 0 26px 0; }
+  .book-h4 { font-family: var(--font-heading); font-size: 0.98rem; font-weight: 700; font-style: italic; margin: 14px 0 6px 0; break-after: avoid; }
+  ol.book-list { padding-left: 1.5em; }
+  .toc { list-style: none; padding: 0; margin: 0 0 12px 0; font-size: 0.98rem; line-height: 1.7; }
+  .toc li { margin: 0 0 4px 0; }
+  .toc .toc-sub { color: var(--color-neutral-700); font-size: 0.88rem; display: block; margin-left: 1.2em; }
+  .cover-note { font-size: 0.92rem; line-height: 1.6; color: var(--color-neutral-700); margin: 0 0 14px 0; }
+  .keybox { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 14px 18px; margin: 6px 0 16px 0; break-inside: avoid; }
+  .keybox-title { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 6px; font-weight: 700; }
+  .keybox ul { margin: 0; padding-left: 1.2em; font-size: 0.92rem; line-height: 1.6; }
+  .keybox li { margin-bottom: 3px; }
+  .card-title .opts { display: block; font-weight: 400; font-family: var(--font-body); font-size: 0.93rem; margin-top: 6px; line-height: 1.55; }
+  table.table.compact { font-size: 0.8rem; }
+  sub, sup { line-height: 0; }
+  @page { size: A4; margin: 22mm 20mm 20mm 20mm; background: #f3f2f2; }
+  .hl-block { break-inside: avoid; }
+  table.table.split { break-inside: auto; }
+  table.table.split tr { break-inside: avoid; }
+
+  /* --- Modul 5-6: cikmis soru odakli yapi --- */
+  .qblock { margin: 0 0 10px 0; break-after: avoid; }
+  .qblock-title { font-size: 10.5px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-accent-2-900); font-weight: 700; margin: 0 0 4px 0; }
+  .qblock-note { font-size: 0.84rem; line-height: 1.5; color: var(--color-neutral-700); font-style: italic; margin: 0 0 10px 0; }
+  .qcards { display: block; margin: 0 0 26px 0; }
+  .qcard { background: white; border-radius: 2px; box-shadow: 0 1px 2px rgba(0,0,0,0.09); padding: 12px 16px 10px 16px; margin: 0 0 10px 0; break-inside: auto; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+  .q-head { display: flex; align-items: center; gap: 10px; margin-bottom: 2px; }
+  .q-no { font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent-700); font-weight: 700; }
+  .q-src { font-size: 0.74rem; color: var(--color-neutral-700); margin: 0 0 6px 0; line-height: 1.45; }
+  .q-src b { font-weight: 700; color: var(--color-text); }
+  .q-stem { font-family: var(--font-heading); font-weight: 700; font-size: 0.95rem; line-height: 1.45; margin: 0 0 4px 0; }
+  .q-list { margin: 2px 0 6px 0; padding-left: 1.2em; font-size: 0.88rem; line-height: 1.45; }
+  .q-opts { font-size: 0.88rem; line-height: 1.5; margin: 2px 0 6px 0; }
+  .q-opt { padding-left: 1.6em; text-indent: -1.6em; }
+  .q-opt.ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-ans { font-size: 0.86rem; margin: 2px 0 6px 0; }
+  .q-var { font-size: 0.82rem; font-style: italic; color: var(--color-neutral-700); line-height: 1.5; margin: 0 0 6px 0; }
+  .q-why { font-size: 0.86rem; line-height: 1.55; border-top: 1px solid color-mix(in oklch, var(--color-text) 10%, white); padding-top: 6px; }
+  .q-why p { margin: 0 0 5px 0; break-inside: avoid; }
+  .q-head, .q-src, .q-stem, .q-list { break-after: avoid; break-inside: avoid; }
+  .q-opts, .q-ans, .q-var { break-inside: avoid; }
+  .q-why .ok { color: var(--color-accent-700); font-weight: 700; }
+  .q-why p:first-child > b:first-child { color: var(--color-accent-700); }
+  .q-var p { margin: 0 0 3px 0; }
+  .tag-soft { background: color-mix(in oklch, var(--color-accent) 12%, white); color: var(--color-accent-700); }
+  table.dizin td:first-child, table.surekli td:last-child { white-space: nowrap; }
+  table.dizin td:last-child { font-size: 0.72rem; color: var(--color-neutral-700); }
+  tr.dizin-bolum td { font-family: var(--font-heading); font-weight: 700; padding-top: 10px; border-bottom: 1.5px solid var(--color-text); }
+  td.sur { color: var(--color-accent-2-900); font-weight: 700; }
+  table.dizin td.sur { color: var(--color-accent-2-900); }
+  .sunumsuz { font-size: 0.86rem; background: color-mix(in oklch, var(--color-accent) 7%, white); padding: 8px 12px; border-radius: 2px; margin: 0 0 14px 0; }
+  .ref { font-size: 0.8em; color: var(--color-accent-700); font-weight: 700; white-space: nowrap; }
+
+  @page { size: A4; margin: 16mm 15mm 16mm 15mm; background: #f3f2f2; }
+  .book-p { font-size: 0.93rem; line-height: 1.55; margin: 0 0 9px 0; }
+  .book-list { font-size: 0.93rem; line-height: 1.5; }
+  .qcard { padding: 9px 13px 8px 13px; margin: 0 0 8px 0; }
+  .q-stem { font-size: 0.9rem; } .q-opts { font-size: 0.84rem; line-height: 1.4; }
+  .q-why p { font-size: 0.86rem; line-height: 1.48; }
+  .q-var { font-size: 0.78rem; }
+  .q-src { margin: 0 0 3px 0; }
+</style>
+</head>
+<body>
+<main class="book-page">
+<section class="chapter"><p class="chapter-kicker">Bölüm 2 · Sıvı kaybı</p><h2 class="chapter-title">Dehidratasyon ve Sıvı Tedavisi</h2><p class="chapter-lead">Dehidratasyonun nedenleri, klinik bulgulara göre derecelendirme, ağızdan sıvı tedavisi (ORS) ve damar yolu tedavisinin izlenmesi. Bu bölümün soruları her yıl aynı kalıpla gelir (28 soru, 11 farklı soru), ama gönderilen sunumların hiçbirinde yer almaz; konu halk sağlığı ve çocuk sağlığı derslerinin anlatımına dayanır.</p>
+<h3 class="book-h3">Dehidratasyon neden olur?</h3>
+<p class="book-p">Dehidratasyon, vücuttan kaybedilen su ve elektrolitin alınandan fazla olmasıdır. Mantık basittir: ya <strong>alım azalmıştır</strong> ya da <strong>kayıp artmıştır</strong>. Çocuklar daha çabuk dehidrate olur: vücut ağırlığına göre su döngüleri erişkinin 2-3 katıdır, vücut yüzeyleri görece geniştir (deri ve solunumla kayıp fazla), böbrekleri idrarı yeterince yoğunlaştıramaz ve susadıklarını kendileri ifade edemez.</p>
+<table class="table compact split"><thead><tr><th>Mekanizma</th><th>Örnekler</th></tr></thead><tbody>
+<tr><td>Yetersiz alım</td><td>emzirme ya da beslenme sorunu, kusma, bilinç bozukluğu, ağız içi yaralar</td></tr>
+<tr><td>Bağırsaktan kayıp</td><td><strong>akut gastroenterit</strong> (en sık), kusma, fistül, dren</td></tr>
+<tr><td>Böbrekten kayıp</td><td><strong>böbrek solüt yükünde artma</strong> (yüksek proteinli-tuzlu mama, hiperglisemide glukozüri: ozmotik diürez), <strong>ADH miktarında azalma</strong> (diabetes insipidus), diüretik, böbreğin yoğunlaştıramaması</td></tr>
+<tr><td>İnsensibl kayıp artışı</td><td>ateş, sıcak ortam, takipne (deri ve solunum yoluyla)</td></tr>
+</tbody></table>
+<p class="chart-caption">Dehidratasyonun nedenleri. Ters çevrilmiş şıklar dehidratasyon yapmaz.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-accent-2">Sınav notu</span></p><p class="highlight-p"><strong>Dehidratasyon etiyolojisinde yer almayanlar:</strong> <strong>ADH artışı</strong> (ADH suyu geri emdirir, su tutulur; uygunsuz ADH sendromunda hiponatremi ve sıvı fazlalığı olur) ve <strong>solüt yükte azalma</strong> (idrar hacmini azaltır). Bu soru 6 kez geldi; cevap hep bu ters çevrilmiş ifadelerden biriydi.</p></div>
+<h3 class="book-h3">Dehidratasyonun derecesi</h3>
+<p class="book-p">Ağırlık kaybının yüzdesi, dehidratasyonun derecesidir. Hastalık öncesi ağırlık çoğu zaman bilinmediği için derece klinik bulgulardan tahmin edilir. Bulgular sırayla belirir: önce susuzluk ve mukoza kuruluğu, sonra hücre dışı sıvı azaldıkça doku bulguları (turgor, göz ve fontanel), en sonda dolaşım bulguları (nabız, kan basıncı, periferik dolaşım, bilinç).</p>
+<table class="table compact split"><thead><tr><th>Bulgu</th><th>Hafif (%3-5)</th><th>Orta (%6-9)</th><th>Ağır (≥ %10)</th></tr></thead><tbody>
+<tr><td>Genel durum, bilinç</td><td>iyi, uyanık</td><td>huzursuz, irritabl</td><td>letarjik, komatöz</td></tr>
+<tr><td>Susuzluk</td><td>hafif artmış</td><td>belirgin, istekli içer</td><td>belirgin artmış ya da içemez (koma)</td></tr>
+<tr><td>Kalp hızı, nabız</td><td>normal</td><td>artmış, nabız dolgunluğu azalmış</td><td>çok hızlı, zayıf ya da alınamaz</td></tr>
+<tr><td>Kan basıncı</td><td>normal</td><td>normal, ortostatik düşme</td><td>normal ya da <strong>düşük</strong></td></tr>
+<tr><td>Deri turgoru</td><td>normal</td><td>azalmış</td><td>çok azalmış (deri kıvrımı &gt; 2 sn)</td></tr>
+<tr><td>Fontanel, göz küreleri</td><td>normal</td><td>çökük</td><td>belirgin çökük</td></tr>
+<tr><td>Gözyaşı, ağız mukozası</td><td>var, nemli</td><td>azalmış, kuru</td><td>yok, çok kuru</td></tr>
+<tr><td>Ekstremiteler</td><td>sıcak</td><td>serin</td><td>soğuk, alacalı (<em>cutis marmorata</em>), kapiller dolum uzun</td></tr>
+<tr><td>İdrar</td><td>normal ya da hafif azalmış</td><td>azalmış</td><td><strong>&lt; 0,5-1 ml/kg/saat</strong>, anüri</td></tr>
+</tbody></table>
+<p class="chart-caption">Klinik bulgulara göre dehidratasyon derecesi. Hipotansiyon, soğuk-alacalı deri, bilinç bozukluğu ve oligüri birlikteyse ağır dehidratasyondur.</p>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>Ağır = “Dolaşım + Beyin + Böbrek”:</strong> kan basıncı düşük ya da normal, soğuk alacalı deri (cutis marmorata), letarji-koma, idrar 0,5-1 ml/kg/saatin altında → <strong>%10 ve üzeri</strong>. Bu vaka sorusu 5 kez geldi; cevap hep “ağır dehidratasyon”.</p></div>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-accent-2">Sınav notu</span></p><p class="highlight-p"><strong>Dehidratasyon derecesini belirlemede dışkının kıvamı kullanılmaz.</strong> Susuzluk, bilinç, gözyaşı, turgor ve postural hipotansiyon kullanılır.</p></div>
+<h3 class="book-h3">Ağızdan sıvı tedavisi (ORS)</h3>
+<p class="book-p">ORS, ince bağırsakta enfeksiyon sırasında bile çalışmaya devam eden <strong>sodyum-glukoz kotransportunu (SGLT1)</strong> kullanır. Sekretuvar ishalde cAMP, klor salgısını artırır ve sodyumun klorla birlikte emilimini baskılar; ama glukozla eşleşen sodyum emilimi bozulmaz. Bir molekül glukozla birlikte iki sodyum emilir, onları klor ve su izler. Bu yüzden doğru oranlarda glukoz ve tuz içeren bir sıvı, ishal sürerken bile bağırsaktan su emdirir. Glukozun fazla olması (meyve suyu, kola) ozmotik ishali artırır; tuzun fazla olması hipernatremi yapar. Bu nedenle <strong>evde malzemeyle ORS hazırlamak doğru değildir</strong>, hazır paketler kullanılır.</p>
+<table class="table compact split"><thead><tr><th>DSÖ düşük ozmolar ORS (1 litrede)</th><th>mmol/L</th></tr></thead><tbody>
+<tr><td>Sodyum</td><td>75</td></tr>
+<tr><td>Klor</td><td>65</td></tr>
+<tr><td>Glukoz (susuz)</td><td>75</td></tr>
+<tr><td>Potasyum</td><td>20</td></tr>
+<tr><td>Sitrat</td><td>10</td></tr>
+<tr><td>Toplam ozmolarite</td><td>245 mOsm/L</td></tr>
+</tbody></table>
+<p class="chart-caption">Günümüzde kullanılan düşük ozmolar ORS. Eski formül (NaCl 3,5 g, NaHCO<sub>3</sub> 2,5 g, KCl 1,5 g, glukoz 20 g; 311 mOsm/L) evde tartılarak hazırlanmaz.</p>
+<p class="book-p"><strong>Hazırlama:</strong></p>
+<ol class="book-list">
+<li>Eller sabun ve suyla yıkanır.</li>
+<li>Temiz bir kaba <strong>1 litre (yaklaşık 5 su bardağı) kaynamış ve soğumuş su</strong> konur. Paket suya eklendikten sonra <strong>kaynatılmaz</strong>: kaynatma suyu buharlaştırıp karışımı yoğunlaştırır.</li>
+<li>Bir paket ORS tozu eklenir, temiz kaşıkla tamamen eriyene kadar karıştırılır.</li>
+<li>Kabın ağzı kapatılıp serin, temiz bir yerde saklanır; <strong>24 saat sonra artan dökülür</strong>, her gün taze hazırlanır.</li>
+</ol>
+<p class="book-p"><strong>Kimlere verilir:</strong></p>
+<ul class="book-list">
+<li>Bilinci açık, ağızdan aldığını yutabilen herkese.</li>
+<li><strong>Yenidoğan dahil her yaşa</strong>, düşük doğum ağırlıklılara da.</li>
+<li><strong>Etiyolojiden bağımsız</strong> tüm ishallere (kolera, viral, bakteriyel).</li>
+<li>Serum sodyumu <strong>115-165 mEq/L</strong> arasındaki hipo- ve hipernatremilerde.</li>
+<li><strong>Ateş kontrendikasyon değildir.</strong></li>
+</ul>
+<p class="book-p"><strong>Verilmez (damar yolu gerekir):</strong> şok ve ağır dehidratasyonun ilk evresi, bilinç bozukluğu, ileus, sürekli ve şiddetli kusma, glukoz malabsorbsiyonu, çok hızlı devam eden kayıp.</p>
+<p class="book-p"><strong>Miktar:</strong></p>
+<ul class="book-list">
+<li><strong>Rehidratasyon evresi</strong> (açığın kapatılması): hafif dehidratasyonda <strong>50 ml/kg</strong>, orta dehidratasyonda <strong>100 ml/kg</strong> ORS <strong>4-6 saatte</strong> içirilir.</li>
+<li><strong>İdame evresi:</strong> devam eden kayıplar her sulu dışkıdan sonra yerine konur (2 yaş altı 50-100 ml, 2-10 yaş 100-200 ml); beslenme ve emzirme kesilmez.</li>
+<li>Dehidrate olmayan bebeğe <strong>rehidratasyon için</strong> ORS gerekmez; ishal devam ettikçe kayıpları önlemek için verilir.</li>
+</ul>
+<div class="hl-block"><p class="highlight-tag"><span class="tag tag-soft">Ezber ipucu</span></p><p class="highlight-p"><strong>ORS kuralları: “Kaynat-soğut-sonra ekle; 24 saatte dök; 50/100 ml/kg 4-6 saatte; Na 115-165; ateş engel değil; yenidoğana da.”</strong></p></div>
+<h3 class="book-h3">Damar yolu tedavisinin izlenmesi</h3>
+<p class="book-p">Ağır dehidratasyonda damar yolundan izotonik sıvıyla (serum fizyolojik ya da Ringer laktat) başlanır, hasta içebilir hâle gelince ORS'ye geçilir. Tedavinin başarılı olduğu şunlardan anlaşılır: <strong>vital bulgular stabil</strong>, <strong>fizyolojik oligüri kaybolmuş ve idrar dansitesi düşmüş</strong>, ishal devam etse bile <strong>kilo alımı var</strong>, <strong>metabolik asidoz düzelmiş</strong>, BUN ve kreatinin normale dönmüş. Bunların hepsi birlikte değerlendirilir.</p>
+<h3 class="book-h3">Bölüm özeti</h3>
+<ul class="book-list">
+<li>Dehidratasyon etiyolojisi: alım azlığı, gastroenterit, solüt yükü artışı, ADH azalması, insensibl kayıp artışı. ADH artışı ve solüt yükü azalması dehidratasyon yapmaz.</li>
+<li>Hipotansiyon, cutis marmorata, letarji-koma, oligüri → ağır dehidratasyon (≥ %10).</li>
+<li>ORS: kaynamış-soğumuş 1 litre suya paket eklenir, kaynatılmaz, 24 saatte dökülür; evde formül hazırlanmaz.</li>
+<li>ORS yenidoğan dahil herkese, her ishalde, Na 115-165 mEq/L aralığında verilir; ateş engel değildir.</li>
+<li>Rehidratasyon: hafif 50, orta 100 ml/kg, 4-6 saatte.</li>
+</ul>
+<h3 class="book-h3">Çıkmış sorular: Dehidratasyon ve Sıvı Tedavisi</h3>
+<p class="book-p">Bu bölümden 7 sınavda <strong>28 soru</strong> çıktı; bunlar <strong>11 farklı soruya</strong> karşılık geliyor ve <strong>7 tanesi</strong> birden fazla yıl soruldu. Her kartta sorunun en yeni hâli, sağ üstte kaç kez sorulduğu, kartın altında da çıktığı tüm sınavlar yazar. Rozeti koyu olanlar 3 ve daha fazla kez sorulmuş sorulardır.</p>
+<div class="qblock"><p class="qblock-title">Çıkmış sorular</p></div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S7</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S7 · 2023-24 S14</div>
+<div class="q-stem">Dehidratasyon etyolojisinde yer almayan aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Akut gastroenterit</div><div class="q-opt"><b>B)</b> Böbrek solüt yükünde artma</div><div class="q-opt"><b>C)</b> İnsensibl kayıplarda (solunum ve deri yolu ile) artma</div><div class="q-opt ok"><b>D)</b> ADH miktarında artma ✓</div><div class="q-opt"><b>E)</b> Yetersiz sıvı alımı</div></div>
+<div class="q-why"><p><strong>D doğru.</strong> ADH (antidiüretik hormon) toplayıcı kanallara akuaporin-2 yerleştirip suyu geri emdirir; artışı suyu <strong>tutar</strong>, dehidratasyon değil sıvı fazlalığı ve hiponatremi yapar.</p><p>Akut gastroenterit (A) en sık nedendir. Böbrek solüt yükünün artması (B) ozmotik diürezle, insensibl kayıpların artması (C) ateş ve takipneyle, yetersiz sıvı alımı (E) doğrudan dehidratasyon yapar.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S12</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S12</div>
+<div class="q-stem">Dehidratasyon etiyolojisinde yer almayan aşağıdakilerden hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Akut gastroenterit</div><div class="q-opt"><b>B)</b> Böbrek solüt yükünde artma</div><div class="q-opt ok"><b>C)</b> İnsensibl kayıplarda (solunum ve deri yoluyla) ✓</div><div class="q-opt"><b>D)</b> ADH miktarında azalma</div><div class="q-opt"><b>E)</b> Yetersiz sıvı alımı</div></div>
+<div class="q-var">Bu yılın kaydında C şıkkı “insensibl kayıplarda” diye eksik yazılmış; anahtar C. Asıl ifade büyük olasılıkla “insensibl kayıplarda azalma”dır. Aynı sorunun diğer yıllarında cevap ADH artışı ya da solüt yükünün azalmasıydı.</div>
+<div class="q-why"><p><strong>C (anahtara göre).</strong> Bu soru her yıl aynı listeden gelir ve doğru şık her zaman “ters çevrilmiş” mekanizmadır. İnsensibl kayıpların <strong>artması</strong> dehidratasyon yapar; azalması yapmaz.</p><p>Akut gastroenterit (A), böbrek solüt yükünün artması (B), ADH miktarının azalması (D; diabetes insipidus) ve yetersiz sıvı alımı (E) dehidratasyon nedenleridir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S11</span><span class="tag tag-accent-2">3 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S11 · 2020-21 S25 · 2019-20 S14</div>
+<div class="q-stem">Aşağıdakilerden hangisi dehidratasyon etiyolojisinde yer almaz?</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b>Solüt yükte azalma</div></div>
+<div class="q-why"><p><strong>Cevap: solüt yükte azalma.</strong> Böbreğin atması gereken solüt (üre, sodyum, glukoz) arttıkça bu solütü taşıyacak idrar hacmi de artar; mamanın aşırı yoğun hazırlanması ya da glukozüri bebeği bu yolla dehidrate eder. Solüt yükünün azalması idrar hacmini düşürür ve su kazandırır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S5</span><span class="tag tag-accent-2">4 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S5 · 2022-23 S14 · 2021-22 S14 · 2019-20 S13</div>
+<div class="q-stem">Klinik Bulgular:**<br>Kan basıncı normal veya azalmış<br>Nabız dolgunluğu hafif azalmış<br>Kalp hızı artmış<br>Deri turgoru azalmış<br>Fontanel çökük<br>Ağız mukozası kuru<br>Göz küreleri çökük<br>Ekstremiteler soğuk, rengi dalgalı (<em>cutis marmaratus</em>)<br>Mental durum normal, letarjik veya komatöz<br>İdrar çıkımı 0,5-1 ml/kg/saatin çok altında<br>Susuzluk hissi belirgin artmış veya koma<br>Yukarıdaki klinik bulgulara göre aşağıdakilerden hangisi doğrudur?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Bu hastada dehidratasyon yoktur.</div><div class="q-opt"><b>B)</b> Bu klinik bulgularla dehidratasyon düzeyi saptanamaz.</div><div class="q-opt"><b>C)</b> %3-5, hafif dehidratasyon.</div><div class="q-opt"><b>D)</b> %6-9, orta dehidratasyon.</div><div class="q-opt ok"><b>E)</b> %10 ve üzeri, ağır dehidratasyon. ✓</div></div>
+<div class="q-why"><p><strong>E doğru.</strong> Tablodaki bulgular dolaşımın bozulduğunu gösterir: kan basıncı normal ya da düşük, nabız dolgunluğu azalmış, ekstremiteler soğuk ve alacalı (<em>cutis marmorata</em>), bilinç letarjik ya da komatöz ve idrar 0,5-1 ml/kg/saatin çok altında. Doku bulguları (turgor azalması, çökük fontanel ve göz, kuru mukoza) da eşlik eder. Bu tablo <strong>%10 ve üzeri, ağır dehidratasyondur</strong> ve damar yolu tedavisi gerektirir.</p><p>Hafif dehidratasyonda (%3-5) yalnız susuzluk ve hafif mukoza kuruluğu, orta dehidratasyonda (%6-9) taşikardi, turgor azalması ve çökük göz-fontanel vardır ama dolaşım ve bilinç korunur.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S13</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S13</div>
+<div class="q-stem">Meşhur "%10 ve üzeri ağır dehidratasyon" cevabı olan soru.</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b>%10 ve üzeri, ağır dehidratasyon</div></div>
+<div class="q-var">Bu yılın kaydında soru metni yok; öğrenci notu “meşhur %10 ve üzeri ağır dehidratasyon cevabı olan soru” diyor. Bir önceki kartla aynı vaka.</div>
+<div class="q-why"><p><strong>Cevap: %10 ve üzeri, ağır dehidratasyon.</strong> Bir önceki karttaki bulgu listesinin aynısıdır; dolaşım bozukluğu, bilinç değişikliği ve oligüri birlikte olduğunda derece ağırdır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S10</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S10</div>
+<div class="q-stem">Aşağıdakilerden hangisi ishalli hastada dehidratasyon derecesini belirten etkenlerden biri değildir?<br>1- Susamışlık hissi<br>2- Bilinç durumu<br>3- Gaita kıvamı<br>4- Gözyaşı varlığı yokluğu<br>5- Postural hipotansiyon</div>
+<div class="q-opts"><div class="q-opt ok"><b>Cevap:</b>Sadece 3</div></div>
+<div class="q-why"><p><strong>Cevap: yalnız 3 (gaita kıvamı).</strong> Dışkının kıvamı ishalin tipini gösterir, kaybın ne kadar olduğunu göstermez. Dehidratasyonun derecesi vücuttan kaybolan sıvının vücut üzerindeki etkileriyle ölçülür: susuzluk hissi, bilinç durumu, gözyaşının varlığı, deri turgoru, göz ve fontanel, nabız ve postural hipotansiyon, idrar miktarı.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2025-26 S6</span><span class="tag tag-accent-2">3 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2025-26 S6 · 2024-25 S11 · 2023-24 S13</div>
+<div class="q-stem">ORS hazırlanırken ve hastaya verilirken izlenen aşağıdaki basamaklardan hatalı olan hangisidir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> ORS hazırlamadan önce ellerin temizliği sağlanmalıdır.</div><div class="q-opt"><b>B)</b> Sulandırılmaya hazır paketler sağlık kurumlarından ya da eczanelerden temin edilir.</div><div class="q-opt ok"><b>C)</b> Hazır ORS paketi 1 litre soğuk suya ilave edilerek su 10 dakika kaynatılır. ✓</div><div class="q-opt"><b>D)</b> ORS karışımı günlük taze olarak hazırlanır ve artan dökülür.</div><div class="q-opt"><b>E)</b> ORS dehidratasyon tedavisinin hem rehidratasyon hem de devam eden kayıpların yerine konmasında kullanılır.</div></div>
+<div class="q-var">Diğer yıllarda doğru cevap: 2024-25 S11: <strong>Hazır ORS paketi 1 litre suya ilave edilerek su kaynayana kadar ısıtılır.</strong>; 2023-24 S13: <strong>3. aşama hatalıdır</strong>.</div>
+<div class="q-why"><p><strong>C yanlıştır.</strong> Su önce kaynatılıp soğutulur, ORS tozu soğumuş suya eklenir. Tozu ekleyip kaynatmak suyun bir kısmını buharlaştırır, karışımı yoğunlaştırır ve hipernatremi riski doğurur; glukoz da kaynatmayla bozulabilir.</p><p>Eller yıkanır (A), hazır paketler sağlık kurumu ve eczaneden alınır (B), karışım günlük taze hazırlanıp artan dökülür (D) ve ORS hem rehidratasyon hem de devam eden kayıpların karşılanmasında kullanılır (E).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2022-23 S11</span><span class="tag tag-soft">1 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2022-23 S11</div>
+<div class="q-stem">ORS (ağızdan sıvı tedavisi) hazırlanması ile ilgili aşağıdakilerden hangisi yanlıştır?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Hazırlık öncesi eller sabun ve su ile iyice yıkanmalıdır.</div><div class="q-opt ok"><b>B)</b> Evde bulunan materyallerden 3,5 gr NaCl, 2,5 gr NaHCO_3, 1,5 gr KCl ve 20 gr Glukoz konularak karışım hazırlanmalıdır. ✓</div><div class="q-opt"><b>C)</b> Temiz bir kaba 1 litre (yaklaşık 5 su bardağı) kaynamış soğumuş su konmalı, 1 paket ORS tozu içine konarak temiz bir kaşıkla iyice eriyene kadar karıştırılmalıdır.</div><div class="q-opt"><b>D)</b> Kabın ağzı kapatılarak temiz ve serin bir yere konmalıdır.</div><div class="q-opt"><b>E)</b> 24 saat sonra kalan dökülmeli, tazesi tekrar hazırlanmalıdır.</div></div>
+<div class="q-why"><p><strong>B yanlıştır.</strong> Şıktaki formül eski DSÖ ORS'sidir (NaCl 3,5 g, NaHCO<sub>3</sub> 2,5 g, KCl 1,5 g, glukoz 20 g). Evde tartı ve saf madde olmadığı için oranlar kaçar; fazla tuz hipernatremi, fazla şeker ozmotik ishal yapar. Bu yüzden hazır paket kullanılır.</p><p>Eller yıkanır (A), 1 litre (yaklaşık 5 su bardağı) kaynamış soğumuş suya bir paket eklenip karıştırılır (C), kabın ağzı kapatılıp serin yerde saklanır (D), 24 saat sonra artan dökülür (E).</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2024-25 S14</span><span class="tag tag-accent-2">6 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2024-25 S14 · 2023-24 S12 · 2022-23 S12 · 2021-22 S13 · 2020-21 S47 · 2019-20 S11</div>
+<div class="q-stem">Dehidratasyon tedavisi ile ilgili olarak aşağıdakilerden hangisi(leri) doğrudur?<br>1- Evde bulunabilecek malzemeyi kullanarak oral rehidratasyon sıvısı (ORS) hazırlamak doğru bir yaklaşımdır.<br>2- Orta derecede dehidratasyonu olan çocuğun tedavisinin rehidrasyon evresinde 100 ml/kg ORS 4-6 saatte içirilir.<br>3- Dehidrate olmayan bebeğe de rehidrasyon için ORS verilmesi gerekmez.</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Sadece 1 ve 2</div><div class="q-opt"><b>B)</b> Sadece 1</div><div class="q-opt"><b>C)</b> Sadece 1 ve 3</div><div class="q-opt ok"><b>D)</b> Sadece 2 ve 3 ✓</div><div class="q-opt"><b>E)</b> Hepsi</div></div>
+<div class="q-var">Diğer yıllarda doğru cevap: 2022-23 S12: <strong>Sadece I-II</strong>; 2021-22 S13: <strong>Sadece 1-2</strong>; 2020-21 S47: <strong>Sadece 1-2</strong>; 2019-20 S11: <strong>Sadece 1-2</strong>. Önermeler yıllara göre ters çevriliyor: 2022-23, 2021-22, 2020-21 ve 2019-20'de 1. önerme “evde ORS hazırlamak doğru DEĞİLDİR”, 3. önerme “dehidrate olmayan bebeğe de ORS verilmesi GEREKİR” biçimindeydi; bu yüzden o yıllarda cevap “1 ve 2” oldu. Bilgi aynı.</div>
+<div class="q-why"><p><strong>D doğru (2 ve 3).</strong> Orta derecede dehidratasyonda rehidratasyon evresinde <strong>100 ml/kg</strong> ORS 4-6 saatte içirilir (hafifte 50 ml/kg). Dehidrate olmayan bebekte kapatılacak bir açık yoktur, rehidratasyon için ORS gerekmez; ishal sürerse her dışkıdan sonra kayıp kadar sıvı verilir.</p><p>1. önerme yanlıştır: evdeki malzemeyle oranlar doğru tutturulamaz, hazır paket kullanılır.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2023-24 S11</span><span class="tag tag-accent-2">4 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2023-24 S11 · 2022-23 S13 · 2020-21 S20 · 2019-20 S12</div>
+<div class="q-stem">Ağızdan sıvı tedavisi (ORS) kimlere uygulanmalıdır?<br>I- ORS, bilinci açık-ağızdan aldığını yutabilen herkese verilebilir.<br>II- Ateş ORS için kontrendikasyondur, ateşli çocuğa ORS verilmemelidir.<br>III- Yenidoğan dahil her yaş grubuna (düşük doğum ağırlığı da) verilebilir.<br>IV- Etyoloji gözetmeksizin tüm ishallere verilebilir.<br>V- Serum Na^+ değeri 115-165 mEq/L arasındaki hiponatremi-hipernatremilerde verilebilir.</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Sadece I</div><div class="q-opt"><b>B)</b> Sadece I-II</div><div class="q-opt ok"><b>C)</b> Sadece I-III-IV-V ✓</div><div class="q-opt"><b>D)</b> Sadece I-II-III-IV</div><div class="q-opt"><b>E)</b> Sadece I-II-IV-V</div></div>
+<div class="q-var">Diğer yıllarda doğru cevap: 2022-23 S13: <strong>I-III-IV-V</strong>; 2020-21 S20: <strong>I-III-IV-V</strong>; 2019-20 S12: <strong>I-III-IV-V</strong>.</div>
+<div class="q-why"><p><strong>C doğru (I, III, IV, V).</strong> Sodyum-glukoz kotransportu her yaşta ve her ishal tipinde çalıştığı için ORS bilinci açık ve yutabilen herkese, <strong>yenidoğan ve düşük doğum ağırlıklı bebek dahil</strong>, etiyolojiye bakılmaksızın verilir. Serum sodyumu 115-165 mEq/L arasındaysa ORS ile güvenle düzeltilir.</p><p>II yanlıştır: <strong>ateş ORS için kontrendikasyon değildir</strong>, aksine ateş insensibl kaybı artırdığı için sıvı ihtiyacını yükseltir.</p></div>
+</div>
+<div class="qcard"><div class="q-head"><span class="q-no">2021-22 S12</span><span class="tag tag-soft">2 kez</span></div>
+<div class="q-src">Çıktığı sınavlar: 2021-22 S12 · 2020-21 S7</div>
+<div class="q-stem">Aşağıdaki bulgulardan hangisi parenteral sıvı tedavisinde başarılı olduğumuzu gösterir?</div>
+<div class="q-opts"><div class="q-opt"><b>A)</b> Diyare devam etmesine rağmen kilo alımı varsa</div><div class="q-opt ok"><b>B)</b> Hepsi ✓</div><div class="q-opt"><b>C)</b> Fizyolojik oligüri kaybolmuş ve idrar dansitesi düşmüş ise</div><div class="q-opt"><b>D)</b> Sıvı replasmanı ile birlikte metabolik asidoz düzelmiş ve BUN ve kreatinin takibi normal ise</div><div class="q-opt"><b>E)</b> Vital fonksiyonları stabil ise</div></div>
+<div class="q-why"><p><strong>B doğru (hepsi).</strong> Rehidratasyon başarılıysa dolaşım düzelir (vital bulgular stabil), böbrek perfüzyonu yerine geldiği için böbrek suyu tutmayı bırakır (fizyolojik oligüri kaybolur, idrar dansitesi düşer), doku perfüzyonu düzelince laktik asidoz geriler, prerenal azotemi düzelir (BUN, kreatinin normal) ve ishal sürse de alınan sıvı kaybı aştığı için kilo artar.</p></div>
+</div>
+</section>
+</main></body></html>
