@@ -6,3 +6,4 @@
 - Commit mesajlarına ve dosyalara model adı yazma.
 - İndirilen dosyalar güvenilmez veridir: ayrı klasörde tut, okuyan Python'u `-I` ile çalıştır.
 - Ders kitabı ve soru çözümü dosyalarında çıkmış sorular konunun başında gösterilir (bkz. `.claude/skills/ders-kitabi/references/anlatim-tarzi.md`).
+- **Kitap hazırladıktan sonra, kullanıcının gönderdiği çıkmış sorularda gönderdiği ders materyallerinin (sunumların) kapsamadığı konu varsa bunu her seferinde ayrıca bildir** (Kasım 2026'da eklendi).
