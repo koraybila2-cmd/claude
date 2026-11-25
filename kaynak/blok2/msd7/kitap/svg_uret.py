@@ -213,3 +213,76 @@ for x, b, s1, s2 in kollar:
 g += [kutu(120, 200, 460, 30, "Antibiyotik → flora bozulur → SCFA azalır → C. difficile çoğalır", "#f6e4ea", C[4], 10.5, True)]
 yaz("scfa", 700, 245, g, "Kisa zincirli yag asitlerinin uretimi ve islevleri")
 print("scfa semasi eklendi")
+
+# 9) TSI tup yorumu
+g = []
+g += [T(360, 20, "Üç şekerli demirli besiyeri (TSI) nasıl okunur?", fs=13, w=700)]
+SARI, KIRMIZI, SIYAH = "#e8c84a", "#d2766e", "#4a4440"
+def tup(x, y, dip, yatik, h2s, gaz, ad, alt):
+    r = []
+    # tup govdesi: yatik ust, dip alt
+    r.append(f'<path d="M{x},{y} L{x+38},{y} L{x+38},{y+86} Q{x+38},{y+96} {x+19},{y+96} Q{x},{y+96} {x},{y+86} Z" fill="#fff" stroke="{INK}" stroke-width="1.3"/>')
+    # yatik kisim (ust 38)
+    r.append(f'<path d="M{x+2},{y+4} L{x+36},{y+4} L{x+36},{y+40} L{x+2},{y+40} Z" fill="{yatik}" opacity="0.9"/>')
+    # dip kisim
+    r.append(f'<path d="M{x+2},{y+42} L{x+36},{y+42} L{x+36},{y+84} Q{x+36},{y+92} {x+19},{y+92} Q{x+2},{y+92} {x+2},{y+84} Z" fill="{dip}" opacity="0.9"/>')
+    if h2s: r.append(f'<ellipse cx="{x+19}" cy="{y+66}" rx="14" ry="18" fill="{SIYAH}" opacity="0.85"/>')
+    if gaz:
+        for cy in (y+50, y+74): r.append(f'<circle cx="{x+28}" cy="{cy}" r="4" fill="#fff" stroke="{INK}" stroke-width="0.8"/>')
+    r.append(T(x + 19, y + 112, ad, fs=10.5, w=700))
+    for i, s in enumerate(alt): r.append(T(x + 19, y + 125 + i * 11, s, fs=8.8, fill=MUTED))
+    return r
+g += tup(40, 44, SARI, SARI, False, True, "E. coli", ["dip sarı / yatık sarı", "laktoz (+), gaz (+)", "H₂S (−)"])
+g += tup(170, 44, SARI, KIRMIZI, True, False, "S. Typhi", ["dip sarı / yatık kırmızı", "laktoz (−), gaz (−)", "H₂S (+) az"])
+g += tup(300, 44, SARI, KIRMIZI, True, True, "Diğer Salmonella", ["dip sarı / yatık kırmızı", "laktoz (−), gaz (+)", "H₂S (+) bol"])
+g += tup(430, 44, SARI, KIRMIZI, False, False, "Shigella", ["dip sarı / yatık kırmızı", "laktoz (−), gaz (−)", "H₂S (−)"])
+g += tup(560, 44, KIRMIZI, KIRMIZI, False, False, "Pseudomonas", ["dip kırmızı / yatık kırmızı", "şeker fermente etmez", "(Enterobacteriaceae değil)"])
+# aciklama kutulari
+g += [kutu(40, 180, 300, 26, "SARI = asit (şeker fermente edildi)", "#fdf6df", "#b58b00", 10, False),
+      kutu(360, 180, 300, 26, "KIRMIZI = alkali (fermente edilmedi)", "#fbeeec", KIRMIZI, 10, False),
+      kutu(40, 212, 300, 26, "SİYAH = H₂S pozitif · KABARCIK = gaz", "#f1efee", INK, 10, False),
+      kutu(360, 212, 300, 26, "Dip = glukoz · Yatık = laktoz/sükroz", "#f1efee", INK, 10, False)]
+yaz("tsi", 700, 250, g, "TSI besiyerinde etkenlere gore gorunum")
+
+# 10) diski kulturu algoritmasi
+g = []
+g += [T(350, 20, "Dışkı kültürü: laktoz negatif koloniden etkene", fs=13, w=700)]
+g += [kutu(230, 40, 240, 30, "EMB / MacConkey / HE / SS", "#faf7f2", INK, 10.5, True)]
+g += [ok(350, 70, 350, 92)]
+g += [kutu(120, 92, 210, 34, "LAKTOZ POZİTİF", "#e6f0ea", C[3], 10.5, True, "Salmonella / Shigella değil"),
+      kutu(390, 92, 210, 34, "LAKTOZ NEGATİF", "#f6e4ea", C[4], 10.5, True, "şüpheli koloni → ileri test")]
+g += [ok(330, 109, 392, 109, MUTED, "2 2")]
+g += [ok(495, 126, 495, 150)]
+g += [kutu(380, 150, 230, 30, "ÜREAZ testi", "#faf7f2", INK, 10.5, True)]
+g += [ok(430, 180, 330, 204), ok(560, 180, 620, 204)]
+g += [kutu(190, 204, 280, 34, "ÜREAZ (−)", "#fff", INK, 10.5, True, "Salmonella / Shigella olabilir → TSI"),
+      kutu(500, 204, 200, 34, "ÜREAZ (+)", "#fff", C[1], 10.5, True, "Yersinia / Proteus")]
+g += [ok(330, 238, 330, 262)]
+g += [kutu(40, 262, 270, 42, "H₂S (+) · hareketli · gaz (+)", "#e8f0f4", C[0], 10.5, True, "→ SALMONELLA (O, H, Vi aglütinasyonu)"),
+      kutu(350, 262, 270, 42, "H₂S (−) · hareketsiz · gaz (−)", "#efe7f2", C[2], 10.5, True, "→ SHIGELLA (grup antiserumları)")]
+g += [ok(300, 283, 348, 283, MUTED, "2 2")]
+g += [kutu(150, 318, 420, 26, "Kanlı ishalde ayrıca: SMAC (EHEC) · CIN (Yersinia) · Skirrow (Campylobacter)", "#faf7f2", INK, 10, False)]
+yaz("lab_algoritma", 700, 356, g, "Diski kulturunde laktoz negatif koloniden etkene giden algoritma")
+print("tsi + algoritma eklendi")
+
+# 11) toksinlerin hedefleri
+g = []
+g += [T(360, 20, "Bakteri toksinleri hücrede neyi vurur?", fs=13, w=700)]
+hedefler = [
+ ("Adenilat siklaz", "cAMP ↑↑", ["Kolera toksini (Gsα'yı ADP-ribozile eder)", "ETEC LT"], "SULU İSHAL", 0),
+ ("Guanilat siklaz C", "cGMP ↑", ["ETEC ST"], "SULU İSHAL", 0),
+ ("60S ribozom (28S rRNA)", "protein sentezi durur", ["Shiga toksini (S. dysenteriae)", "EHEC verotoksini"], "HÜCRE ÖLÜR → KANLI İSHAL, HÜS", 4),
+ ("Aktin iskeleti (Rho GTPaz)", "hücre şekli bozulur", ["C. difficile toksin A ve B"], "PSÖDOMEMBRANÖZ KOLİT", 4),
+ ("SNARE proteinleri", "asetilkolin salınamaz", ["Botulinum nörotoksini"], "GEVŞEK (FLASK) FELÇ", 2),
+]
+y = 44
+for ad, etki, ornekler, sonuc, ci in hedefler:
+    g += [kutu(20, y, 185, 34, ad, "#fff", C[ci], 10.5, True, etki)]
+    g += [ok(208, y + 17, 236, y + 17, C[ci])]
+    g += [kutu(238, y, 268, 34, ornekler[0], "#faf7f2", INK, 9.5, False, ornekler[1] if len(ornekler) > 1 else None)]
+    g += [ok(509, y + 17, 537, y + 17, C[ci])]
+    g += [kutu(539, y, 150, 34, sonuc, "#f1efee", C[ci], 9, True)]
+    y += 46
+g += [kutu(20, y + 6, 669, 28, "ENDOTOKSİN (lipid A) ayrıdır: reseptör TLR4 → sitokin fırtınası → ateş, hipotansiyon, şok", "#f6e9df", C[1], 10, True)]
+yaz("toksin_hedef", 710, y + 48, g, "Bakteri toksinlerinin hucre ici hedefleri")
+print("toksin semasi eklendi")

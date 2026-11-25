@@ -24,14 +24,19 @@
 - **Bütirat = kolonositin yakıtı + bariyer + patojene kapalı kapı + Treg.**
 - **Gastrit zemininde gelişen MALT lenfoma = *Helicobacter pylori*;** tedavi eradikasyondur.
 ## 5. Salmonella, Shigella, E. coli, Yersinia ve Laboratuvar Tanısı
-- **Enterobacteriaceae = oksidaz NEGATİF, glukozu fermente eder.** *C. perfringens* (Gram pozitif) ve *Vibrio* (oksidaz pozitif) bu aileden **değildir**.
-- **Tifo kültürü zamanı: 1. hafta KAN ve kemik iliği, 2. haftadan sonra DIŞKI ve idrar, 4. haftadan sonra SAFRA.** Döküntü (gül lekesi) + rölatif bradikardi + basamaklı ateş + önce ishal sonra kabızlık = tifo.
-- **Hamburger + kanlı ishal + böbrek yetmezliği + düşük trombosit = EHEC O157:H7, toksini Shiga, besiyeri SMAC.**
-- **Yersinia = üreaz +, soğukta ürer, psödoapandisit, demir sever, transfüzyonla bulaşır, CIN agar.**
-- ***S.* Paratyphi A H<sub>2</sub>S yapmaz** (TSI ve HE'de): “H<sub>2</sub>S pozitif koloni görülen hastada düşünmezsiniz” sorusunun cevabı *S.* Paratyphi A. *S.* Typhi az H<sub>2</sub>S yapar.
+- **Oksidaz testi tek hamlede aileyi ayırır: Enterobacteriaceae oksidaz NEGATİFTİR.** Oksidaz pozitifse *Vibrio*, *Campylobacter*, *Aeromonas* ya da *Pseudomonas* düşünün.
+- **Kültürün zamanlaması:** 1. hafta **kan ve kemik iliği**; 2. haftadan sonra **dışkı ve idrar**; 4. haftadan sonra ve taşıyıcıda **safra**.
+- **Tifonun klinik dörtlüsü:** basamaklı ateş + rölatif bradikardi + gül lekeleri + önce ishal sonra kabızlık; laboratuvarda **lökopeni**.
+- **Ayıran: hareket, H₂S, gaz, sitrat. Ayırmayan: laktoz, üreaz, oksidaz, katalaz (ikisinde de aynı).**
+- **Hamburger + kanlı ishal + böbrek yetmezliği + düşük trombosit = EHEC O157:H7; toksin Shiga; besiyeri SMAC; antibiyotik YOK.**
+- ***Yersinia* = üreaz (+), soğukta ürer, psödoapandisit, demiri sever (desferoksamin), transfüzyonla bulaşır, CIN agar.**
 ## 6. Toksin Kaynaklı İshaller ve Diğer Bakteriler
-- ***S. aureus* toksini ısıya dayanıklıdır:** yemeği yeniden ısıtmak bakteriyi öldürür ama toksini bozmaz, zehirlenme yine olur. Kremalı pasta + 1-6 saatte kusma + gaitada az lökosit → *S. aureus*.
-- **Buzdolabında üreyen, gastroenterit + sepsis + menenjit = Listeria.**
+- **Enterik ateşteki "ateş + önce lökopeni sonra lökositoz + kan basıncı düşmesi + ölümcül şok" tablosunun sorumlusu lipid A'dır (endotoksin).**
+- **Kremalı pasta + 1-6 saatte kusma + ateş yok + ortak yiyenler = *S. aureus*;** toksin ısıya dayanıklıdır.
+- **Pilav → kusma (sereulid, hazır); etli yemek → ishal (bağırsakta salınan toksin).**
+- **Bebek + bal + kabızlık + hipotoni + emme güçlüğü = bebek botulizmi.** Toksin SNARE proteinlerini keser, asetilkolin salınamaz.
+- **Tuz ayrımı:** *Vibrio*'lar tuzu sever (halofilik, deniz); ***Aeromonas* tuzu sevmez (tatlı su)**. Her ikisi de oksidaz pozitiftir.
+- **Buzdolabında üreyen + gastroenterit + sepsis + menenjit + gebelikte tehlikeli = *Listeria monocytogenes*;** tedavi ampisilin.
 ## 7. Sindirim Sistemi Protozoonları
 - **Kirpikli = Balantidium; aside dirençli sporozoonlar = Crypto, Cyclospora, Isospora; amip = Entamoeba; kamçılı = Giardia.**
 - **Apatojenler “koli-dispar-nana-iodamoeba-chilomastix”:** bağırsakta bulunur ama hastalık yapmaz. **En sık rastlanan amip = *Entamoeba coli*** (apatojen); patojenlerin en önemlisi *E. histolytica*.

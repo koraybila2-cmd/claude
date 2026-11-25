@@ -1,0 +1,49 @@
+<svg viewBox="0 0 700 250" width="100%" style="display:block;font-family:Source Serif 4,Georgia,serif" role="img" aria-label="TSI besiyerinde etkenlere gore gorunum">
+<defs><marker id="ok" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a3533"/></marker></defs>
+<text x="360.0" y="20.0" text-anchor="middle" font-size="13" font-weight="700" fill="#3a3533">Üç şekerli demirli besiyeri (TSI) nasıl okunur?</text>
+<path d="M40,44 L78,44 L78,130 Q78,140 59,140 Q40,140 40,130 Z" fill="#fff" stroke="#3a3533" stroke-width="1.3"/>
+<path d="M42,48 L76,48 L76,84 L42,84 Z" fill="#e8c84a" opacity="0.9"/>
+<path d="M42,86 L76,86 L76,128 Q76,136 59,136 Q42,136 42,128 Z" fill="#e8c84a" opacity="0.9"/>
+<circle cx="68" cy="94" r="4" fill="#fff" stroke="#3a3533" stroke-width="0.8"/>
+<circle cx="68" cy="118" r="4" fill="#fff" stroke="#3a3533" stroke-width="0.8"/>
+<text x="59.0" y="156.0" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">E. coli</text>
+<text x="59.0" y="169.0" text-anchor="middle" font-size="8.8" font-weight="400" fill="#6b6460">dip sarı / yatık sarı</text>
+<text x="59.0" y="180.0" text-anchor="middle" font-size="8.8" font-weight="400" fill="#6b6460">laktoz (+), gaz (+)</text>
+<text x="59.0" y="191.0" text-anchor="middle" font-size="8.8" font-weight="400" fill="#6b6460">H₂S (−)</text>
+<path d="M170,44 L208,44 L208,130 Q208,140 189,140 Q170,140 170,130 Z" fill="#fff" stroke="#3a3533" stroke-width="1.3"/>
+<path d="M172,48 L206,48 L206,84 L172,84 Z" fill="#d2766e" opacity="0.9"/>
+<path d="M172,86 L206,86 L206,128 Q206,136 189,136 Q172,136 172,128 Z" fill="#e8c84a" opacity="0.9"/>
+<ellipse cx="189" cy="110" rx="14" ry="18" fill="#4a4440" opacity="0.85"/>
+<text x="189.0" y="156.0" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">S. Typhi</text>
+<text x="189.0" y="169.0" text-anchor="middle" font-size="8.8" font-weight="400" fill="#6b6460">dip sarı / yatık kırmızı</text>
+<text x="189.0" y="180.0" text-anchor="middle" font-size="8.8" font-weight="400" fill="#6b6460">laktoz (−), gaz (−)</text>
+<text x="189.0" y="191.0" text-anchor="middle" font-size="8.8" font-weight="400" fill="#6b6460">H₂S (+) az</text>
+<path d="M300,44 L338,44 L338,130 Q338,140 319,140 Q300,140 300,130 Z" fill="#fff" stroke="#3a3533" stroke-width="1.3"/>
+<path d="M302,48 L336,48 L336,84 L302,84 Z" fill="#d2766e" opacity="0.9"/>
+<path d="M302,86 L336,86 L336,128 Q336,136 319,136 Q302,136 302,128 Z" fill="#e8c84a" opacity="0.9"/>
+<ellipse cx="319" cy="110" rx="14" ry="18" fill="#4a4440" opacity="0.85"/>
+<circle cx="328" cy="94" r="4" fill="#fff" stroke="#3a3533" stroke-width="0.8"/>
+<circle cx="328" cy="118" r="4" fill="#fff" stroke="#3a3533" stroke-width="0.8"/>
+<text x="319.0" y="156.0" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">Diğer Salmonella</text>
+<text x="319.0" y="169.0" text-anchor="middle" font-size="8.8" font-weight="400" fill="#6b6460">dip sarı / yatık kırmızı</text>
+<text x="319.0" y="180.0" text-anchor="middle" font-size="8.8" font-weight="400" fill="#6b6460">laktoz (−), gaz (+)</text>
+<text x="319.0" y="191.0" text-anchor="middle" font-size="8.8" font-weight="400" fill="#6b6460">H₂S (+) bol</text>
+<path d="M430,44 L468,44 L468,130 Q468,140 449,140 Q430,140 430,130 Z" fill="#fff" stroke="#3a3533" stroke-width="1.3"/>
+<path d="M432,48 L466,48 L466,84 L432,84 Z" fill="#d2766e" opacity="0.9"/>
+<path d="M432,86 L466,86 L466,128 Q466,136 449,136 Q432,136 432,128 Z" fill="#e8c84a" opacity="0.9"/>
+<text x="449.0" y="156.0" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">Shigella</text>
+<text x="449.0" y="169.0" text-anchor="middle" font-size="8.8" font-weight="400" fill="#6b6460">dip sarı / yatık kırmızı</text>
+<text x="449.0" y="180.0" text-anchor="middle" font-size="8.8" font-weight="400" fill="#6b6460">laktoz (−), gaz (−)</text>
+<text x="449.0" y="191.0" text-anchor="middle" font-size="8.8" font-weight="400" fill="#6b6460">H₂S (−)</text>
+<path d="M560,44 L598,44 L598,130 Q598,140 579,140 Q560,140 560,130 Z" fill="#fff" stroke="#3a3533" stroke-width="1.3"/>
+<path d="M562,48 L596,48 L596,84 L562,84 Z" fill="#d2766e" opacity="0.9"/>
+<path d="M562,86 L596,86 L596,128 Q596,136 579,136 Q562,136 562,128 Z" fill="#d2766e" opacity="0.9"/>
+<text x="579.0" y="156.0" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">Pseudomonas</text>
+<text x="579.0" y="169.0" text-anchor="middle" font-size="8.8" font-weight="400" fill="#6b6460">dip kırmızı / yatık kırmızı</text>
+<text x="579.0" y="180.0" text-anchor="middle" font-size="8.8" font-weight="400" fill="#6b6460">şeker fermente etmez</text>
+<text x="579.0" y="191.0" text-anchor="middle" font-size="8.8" font-weight="400" fill="#6b6460">(Enterobacteriaceae değil)</text>
+<rect x="40" y="180" width="300" height="26" rx="4" fill="#fdf6df" stroke="#b58b00"/><text x="190.0" y="197.0" text-anchor="middle" font-size="10" font-weight="400" fill="#3a3533">SARI = asit (şeker fermente edildi)</text>
+<rect x="360" y="180" width="300" height="26" rx="4" fill="#fbeeec" stroke="#d2766e"/><text x="510.0" y="197.0" text-anchor="middle" font-size="10" font-weight="400" fill="#3a3533">KIRMIZI = alkali (fermente edilmedi)</text>
+<rect x="40" y="212" width="300" height="26" rx="4" fill="#f1efee" stroke="#3a3533"/><text x="190.0" y="229.0" text-anchor="middle" font-size="10" font-weight="400" fill="#3a3533">SİYAH = H₂S pozitif · KABARCIK = gaz</text>
+<rect x="360" y="212" width="300" height="26" rx="4" fill="#f1efee" stroke="#3a3533"/><text x="510.0" y="229.0" text-anchor="middle" font-size="10" font-weight="400" fill="#3a3533">Dip = glukoz · Yatık = laktoz/sükroz</text>
+</svg>

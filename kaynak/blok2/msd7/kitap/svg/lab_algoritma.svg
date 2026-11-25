@@ -1,0 +1,20 @@
+<svg viewBox="0 0 700 356" width="100%" style="display:block;font-family:Source Serif 4,Georgia,serif" role="img" aria-label="Diski kulturunde laktoz negatif koloniden etkene giden algoritma">
+<defs><marker id="ok" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a3533"/></marker></defs>
+<text x="350.0" y="20.0" text-anchor="middle" font-size="13" font-weight="700" fill="#3a3533">Dışkı kültürü: laktoz negatif koloniden etkene</text>
+<rect x="230" y="40" width="240" height="30" rx="4" fill="#faf7f2" stroke="#3a3533"/><text x="350.0" y="59.0" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">EMB / MacConkey / HE / SS</text>
+<line x1="350" y1="70" x2="350" y2="92" stroke="#3a3533" stroke-width="1.3" marker-end="url(#ok)"/>
+<rect x="120" y="92" width="210" height="34" rx="4" fill="#e6f0ea" stroke="#2e7d4f"/><text x="225.0" y="106.5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">LAKTOZ POZİTİF</text><text x="225.0" y="119.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#3a3533">Salmonella / Shigella değil</text>
+<rect x="390" y="92" width="210" height="34" rx="4" fill="#f6e4ea" stroke="#8a1c3c"/><text x="495.0" y="106.5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">LAKTOZ NEGATİF</text><text x="495.0" y="119.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#3a3533">şüpheli koloni → ileri test</text>
+<line x1="330" y1="109" x2="392" y2="109" stroke="#6b6460" stroke-width="1.3" marker-end="url(#ok)" stroke-dasharray="2 2"/>
+<line x1="495" y1="126" x2="495" y2="150" stroke="#3a3533" stroke-width="1.3" marker-end="url(#ok)"/>
+<rect x="380" y="150" width="230" height="30" rx="4" fill="#faf7f2" stroke="#3a3533"/><text x="495.0" y="169.0" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">ÜREAZ testi</text>
+<line x1="430" y1="180" x2="330" y2="204" stroke="#3a3533" stroke-width="1.3" marker-end="url(#ok)"/>
+<line x1="560" y1="180" x2="620" y2="204" stroke="#3a3533" stroke-width="1.3" marker-end="url(#ok)"/>
+<rect x="190" y="204" width="280" height="34" rx="4" fill="#fff" stroke="#3a3533"/><text x="330.0" y="218.5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">ÜREAZ (−)</text><text x="330.0" y="231.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#3a3533">Salmonella / Shigella olabilir → TSI</text>
+<rect x="500" y="204" width="200" height="34" rx="4" fill="#fff" stroke="#b4541a"/><text x="600.0" y="218.5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">ÜREAZ (+)</text><text x="600.0" y="231.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#3a3533">Yersinia / Proteus</text>
+<line x1="330" y1="238" x2="330" y2="262" stroke="#3a3533" stroke-width="1.3" marker-end="url(#ok)"/>
+<rect x="40" y="262" width="270" height="42" rx="4" fill="#e8f0f4" stroke="#0b6e99"/><text x="175.0" y="280.5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">H₂S (+) · hareketli · gaz (+)</text><text x="175.0" y="293.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#3a3533">→ SALMONELLA (O, H, Vi aglütinasyonu)</text>
+<rect x="350" y="262" width="270" height="42" rx="4" fill="#efe7f2" stroke="#5b3f8c"/><text x="485.0" y="280.5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">H₂S (−) · hareketsiz · gaz (−)</text><text x="485.0" y="293.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#3a3533">→ SHIGELLA (grup antiserumları)</text>
+<line x1="300" y1="283" x2="348" y2="283" stroke="#6b6460" stroke-width="1.3" marker-end="url(#ok)" stroke-dasharray="2 2"/>
+<rect x="150" y="318" width="420" height="26" rx="4" fill="#faf7f2" stroke="#3a3533"/><text x="360.0" y="335.0" text-anchor="middle" font-size="10" font-weight="400" fill="#3a3533">Kanlı ishalde ayrıca: SMAC (EHEC) · CIN (Yersinia) · Skirrow (Campylobacter)</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg viewBox="0 0 710 322" width="100%" style="display:block;font-family:Source Serif 4,Georgia,serif" role="img" aria-label="Bakteri toksinlerinin hucre ici hedefleri">
+<defs><marker id="ok" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a3533"/></marker></defs>
+<text x="360.0" y="20.0" text-anchor="middle" font-size="13" font-weight="700" fill="#3a3533">Bakteri toksinleri hücrede neyi vurur?</text>
+<rect x="20" y="44" width="185" height="34" rx="4" fill="#fff" stroke="#0b6e99"/><text x="112.5" y="58.5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">Adenilat siklaz</text><text x="112.5" y="71.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#3a3533">cAMP ↑↑</text>
+<line x1="208" y1="61" x2="236" y2="61" stroke="#0b6e99" stroke-width="1.3" marker-end="url(#ok)"/>
+<rect x="238" y="44" width="268" height="34" rx="4" fill="#faf7f2" stroke="#3a3533"/><text x="372.0" y="58.5" text-anchor="middle" font-size="9.5" font-weight="400" fill="#3a3533">Kolera toksini (Gsα'yı ADP-ribozile eder)</text><text x="372.0" y="71.5" text-anchor="middle" font-size="8.0" font-weight="400" fill="#3a3533">ETEC LT</text>
+<line x1="509" y1="61" x2="537" y2="61" stroke="#0b6e99" stroke-width="1.3" marker-end="url(#ok)"/>
+<rect x="539" y="44" width="150" height="34" rx="4" fill="#f1efee" stroke="#0b6e99"/><text x="614.0" y="65.0" text-anchor="middle" font-size="9" font-weight="700" fill="#3a3533">SULU İSHAL</text>
+<rect x="20" y="90" width="185" height="34" rx="4" fill="#fff" stroke="#0b6e99"/><text x="112.5" y="104.5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">Guanilat siklaz C</text><text x="112.5" y="117.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#3a3533">cGMP ↑</text>
+<line x1="208" y1="107" x2="236" y2="107" stroke="#0b6e99" stroke-width="1.3" marker-end="url(#ok)"/>
+<rect x="238" y="90" width="268" height="34" rx="4" fill="#faf7f2" stroke="#3a3533"/><text x="372.0" y="111.0" text-anchor="middle" font-size="9.5" font-weight="400" fill="#3a3533">ETEC ST</text>
+<line x1="509" y1="107" x2="537" y2="107" stroke="#0b6e99" stroke-width="1.3" marker-end="url(#ok)"/>
+<rect x="539" y="90" width="150" height="34" rx="4" fill="#f1efee" stroke="#0b6e99"/><text x="614.0" y="111.0" text-anchor="middle" font-size="9" font-weight="700" fill="#3a3533">SULU İSHAL</text>
+<rect x="20" y="136" width="185" height="34" rx="4" fill="#fff" stroke="#8a1c3c"/><text x="112.5" y="150.5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">60S ribozom (28S rRNA)</text><text x="112.5" y="163.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#3a3533">protein sentezi durur</text>
+<line x1="208" y1="153" x2="236" y2="153" stroke="#8a1c3c" stroke-width="1.3" marker-end="url(#ok)"/>
+<rect x="238" y="136" width="268" height="34" rx="4" fill="#faf7f2" stroke="#3a3533"/><text x="372.0" y="150.5" text-anchor="middle" font-size="9.5" font-weight="400" fill="#3a3533">Shiga toksini (S. dysenteriae)</text><text x="372.0" y="163.5" text-anchor="middle" font-size="8.0" font-weight="400" fill="#3a3533">EHEC verotoksini</text>
+<line x1="509" y1="153" x2="537" y2="153" stroke="#8a1c3c" stroke-width="1.3" marker-end="url(#ok)"/>
+<rect x="539" y="136" width="150" height="34" rx="4" fill="#f1efee" stroke="#8a1c3c"/><text x="614.0" y="157.0" text-anchor="middle" font-size="9" font-weight="700" fill="#3a3533">HÜCRE ÖLÜR → KANLI İSHAL, HÜS</text>
+<rect x="20" y="182" width="185" height="34" rx="4" fill="#fff" stroke="#8a1c3c"/><text x="112.5" y="196.5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">Aktin iskeleti (Rho GTPaz)</text><text x="112.5" y="209.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#3a3533">hücre şekli bozulur</text>
+<line x1="208" y1="199" x2="236" y2="199" stroke="#8a1c3c" stroke-width="1.3" marker-end="url(#ok)"/>
+<rect x="238" y="182" width="268" height="34" rx="4" fill="#faf7f2" stroke="#3a3533"/><text x="372.0" y="203.0" text-anchor="middle" font-size="9.5" font-weight="400" fill="#3a3533">C. difficile toksin A ve B</text>
+<line x1="509" y1="199" x2="537" y2="199" stroke="#8a1c3c" stroke-width="1.3" marker-end="url(#ok)"/>
+<rect x="539" y="182" width="150" height="34" rx="4" fill="#f1efee" stroke="#8a1c3c"/><text x="614.0" y="203.0" text-anchor="middle" font-size="9" font-weight="700" fill="#3a3533">PSÖDOMEMBRANÖZ KOLİT</text>
+<rect x="20" y="228" width="185" height="34" rx="4" fill="#fff" stroke="#5b3f8c"/><text x="112.5" y="242.5" text-anchor="middle" font-size="10.5" font-weight="700" fill="#3a3533">SNARE proteinleri</text><text x="112.5" y="255.5" text-anchor="middle" font-size="9.0" font-weight="400" fill="#3a3533">asetilkolin salınamaz</text>
+<line x1="208" y1="245" x2="236" y2="245" stroke="#5b3f8c" stroke-width="1.3" marker-end="url(#ok)"/>
+<rect x="238" y="228" width="268" height="34" rx="4" fill="#faf7f2" stroke="#3a3533"/><text x="372.0" y="249.0" text-anchor="middle" font-size="9.5" font-weight="400" fill="#3a3533">Botulinum nörotoksini</text>
+<line x1="509" y1="245" x2="537" y2="245" stroke="#5b3f8c" stroke-width="1.3" marker-end="url(#ok)"/>
+<rect x="539" y="228" width="150" height="34" rx="4" fill="#f1efee" stroke="#5b3f8c"/><text x="614.0" y="249.0" text-anchor="middle" font-size="9" font-weight="700" fill="#3a3533">GEVŞEK (FLASK) FELÇ</text>
+<rect x="20" y="280" width="669" height="28" rx="4" fill="#f6e9df" stroke="#b4541a"/><text x="354.5" y="298.0" text-anchor="middle" font-size="10" font-weight="700" fill="#3a3533">ENDOTOKSİN (lipid A) ayrıdır: reseptör TLR4 → sitokin fırtınası → ateş, hipotansiyon, şok</text>
+</svg>

@@ -1,52 +1,141 @@
-# Toksin Kaynaklı İshaller ve Diğer Bakteriler | Besin zehirlenmesi yapan toksijenik bakteriler (S. aureus, B. cereus, C. perfringens), sekretuvar toksinler ve mekanizmaları, Vibrio cholerae ve kolera, deniz-su kaynaklı bakteriler (V. parahaemolyticus, Aeromonas), Listeria ve bakteriyel toksinlerin sınıflandırılması. Bu etkenlerin çoğu okunamayan gastroenterit sunumunda (S2) yer alıyor olabilir; aşağıdaki anlatım standart tıbbi mikrobiyoloji bilgisine dayanır. || Bölüm 6 · Toksinli etkenler
+# Toksin Kaynaklı İshaller ve Diğer Bakteriler | Ekzotoksin ve endotoksin ayrımı, toksinlerin hücre içi hedefleri, besin zehirlenmesi yapan Gram pozitif bakteriler (S. aureus, B. cereus, C. perfringens, C. botulinum), Clostridioides difficile koliti, deniz ve su kaynaklı Vibrio ve Aeromonas türleri, Listeria monocytogenes ve bakteriyel salgı sistemleri. || Bölüm 6 · Toksinli etkenler
 
-## Toksin tipleri
-Bakteriyel toksinler yapılarına ve etkilerine göre ayrılır. Çoğu **A-B yapısındadır:** B (binding) parçası hücreye bağlanır, A (active) parçası içeri girip etkiyi yapar.
-| Toksin tipi | Ne yapar | Örnek |
-| **Enterotoksin** | bağırsak epitelinde su-elektrolit salgısını artırır (cAMP/cGMP) | kolera toksini, ETEC LT/ST, *S. aureus*, *B. cereus* |
-| **Sitotoksin** | hücreyi öldürür, mukozayı yıkar | Shiga toksini (*Shigella*, EHEC), *C. difficile* A/B, *C. perfringens* |
-| **Nörotoksin** | sinir iletimini bozar | botulinum (gevşek felç), tetanoz |
-|= Toksin sınıfları. Enterotoksin = sulu ishal; sitotoksin = kanlı, iltihaplı; nörotoksin = sinir belirtileri.
-**Hazır (preformed) toksin** besinde önceden oluşur: *S. aureus*, *B. cereus* (emetik), *C. botulinum*. Bunlarda kuluçka kısadır ve antibiyotik işe yaramaz.
+## 6.1 Ekzotoksin ve endotoksin
+Bakterilerin hastalık yapma yollarının başında toksinler gelir. İki temel kategori vardır ve bunların karşılaştırması mikrobiyolojinin en temel tablolarından biridir:
+| Özellik | **Ekzotoksin** | **Endotoksin** |
+| Kaynak | bakterinin **salgıladığı** protein | Gram negatif hücre duvarındaki **LPS'nin lipid A** kısmı |
+| Hangi bakteriler | Gram pozitif ve negatif | **yalnız Gram negatif** |
+| Yapı | protein (çoğu **A-B**) | lipopolisakkarit |
+| Isıya dayanıklılık | çoğu duyarlı (**istisna:** *S. aureus* enterotoksini, *B. cereus* emetik toksini, ETEC ST) | **çok dayanıklı** (otoklavda bile bozulmaz) |
+| Etki gücü | çok yüksek, az miktarda etkili | görece düşük, miktar bağımlı |
+| Özgüllük | **belirli bir hücre hedefi** vardır | özgül değil; genel iltihap yanıtı |
+| Antijenik | güçlü; **toksoid** yapılabilir (aşı) | zayıf; toksoid yapılamaz |
+| Salınım | canlı bakteriden sürekli | bakteri **parçalandığında** (bu yüzden antibiyotik sonrası geçici kötüleşme olabilir) |
+| Klinik | hedefe özgü tablo | **ateş, lökopeni sonra lökositoz, hipotansiyon, DİK, şok** |
+|= Ekzotoksin ve endotoksin karşılaştırması.
+**Endotoksinin etki mekanizması:** Lipid A, makrofaj ve monosit yüzeyindeki **TLR4** reseptörüne (CD14 ve MD-2 aracılığıyla) bağlanır. Bu, hücre içi sinyal zincirini ve NF-κB'yi etkinleştirir; makrofajlardan **TNF-α, IL-1, IL-6** ve diğer sitokinler boşalır. Sonuçlar:
+- **Ateş:** IL-1 ve TNF-α hipotalamusta prostaglandin E₂ yapımını uyarır.
+- **Lökopeni, sonra lökositoz:** Nötrofiller önce damar duvarına yapışır (marjinasyon) ve dolaşımdan çekilir; sonra kemik iliğinden yoğun salınımla sayı artar.
+- **Hipotansiyon ve şok:** Nitrik oksit ve diğer aracılarla yaygın vazodilatasyon, kapiller kaçak.
+- **Yaygın damar içi pıhtılaşma (DİK):** Doku faktörünün uyarılması.
+?? **Enterik ateşteki "ateş + önce lökopeni sonra lökositoz + kan basıncı düşmesi + ölümcül şok" tablosunun sorumlusu lipid A'dır (endotoksin).**
 
-## Besin zehirlenmesi yapan toksijenik bakteriler
-| Etken | Kaynak | Kuluçka | Klinik | Toksin |
-| ***S. aureus*** | kremalı pasta, pastane ürünü, elle hazırlanan et-salata | **1-6 saat** | ani **kusma**, bulantı, az ishal; ateş yok | ısıya **dayanıklı** hazır enterotoksin (A-E); pişirmeyle yok olmaz |
-| ***B. cereus* emetik** | bekletilmiş/ısıtılmış **pilav** | **1-6 saat** | **kusma** | ısıya dayanıklı hazır toksin (sereulid) |
-| ***B. cereus* ishal tipi** | et, sebze, sos | 8-16 saat | sulu ishal | bağırsakta salınan, ısıya duyarlı enterotoksin |
-| ***C. perfringens*** | büyük kazanda pişip ılık bekleyen et, et suyu | 8-16 saat | sulu ishal, kramp; kusma az | bağırsakta sporülasyonda salınan enterotoksin |
-| ***C. botulinum*** | ev konservesi, bal (bebek) | 12-36 saat | bulanık görme, pitoz, disfaji, **simetrik inen gevşek felç** | nörotoksin (asetilkolin salınımını engeller) |
-|= Besin zehirlenmesi etkenleri. Pasta → stafilokok, pilav → cereus (kusma), bekletilmiş et → perfringens.
-?? ***S. aureus* toksini ısıya dayanıklıdır:** yemeği yeniden ısıtmak bakteriyi öldürür ama toksini bozmaz, zehirlenme yine olur. Kremalı pasta + 1-6 saatte kusma + gaitada az lökosit → *S. aureus*.
-!! 2025-26 S1'de hastanın gaitasında 8-10 lökosit görülmüş ve yine de cevap *S. aureus* kabul edilmiştir. Stafilokok enterotoksini tipik olarak lökositsiz, kusma ağırlıklı tablo yapar; buradaki az sayıda lökosit tabloyu değiştirmez, öykü (kremalı pasta, 1 saat, ortak yiyen arkadaş, kusma ön planda) klasik stafilokok besin zehirlenmesidir.
+### Ekzotoksinlerin işlevsel sınıflaması
+| Tip | Ne yapar | Klinik karşılığı | Örnekler |
+| **Enterotoksin** | bağırsak epitelinde su-elektrolit salgısını artırır (cAMP/cGMP/Ca²⁺) | **sulu ishal**, mukoza sağlam, dışkıda lökosit yok | kolera toksini, ETEC LT ve ST, *S. aureus* enterotoksini, *B. cereus* toksinleri, *C. perfringens* enterotoksini |
+| **Sitotoksin** | hücreyi öldürür, mukozayı yıkar | **kanlı, iltihaplı ishal**, dışkıda lökosit var | Shiga toksini (*S. dysenteriae*), EHEC verotoksini, *C. difficile* toksin A ve B |
+| **Nörotoksin** | sinir iletimini bozar | **felç** (ishal değil) | botulinum, tetanoz toksini |
+|= Ekzotoksinlerin işlevsel sınıfları.
+**A-B yapısı:** Çoğu güçlü ekzotoksin iki parçalıdır. **B (binding)** parçası hedef hücrenin yüzey reseptörüne bağlanır ve hücreye girişi sağlar; **A (active)** parçası hücre içindeki enzimatik işi yapar. Bu yapı, toksinin neden belirli hücreleri hedeflediğini açıklar: reseptör nerede yoğunsa hasar orada olur (Shiga toksini için Gb3 → böbrek; botulinum için sinaptik uç).
+@SVG toksin_hedef.svg
+@SEKIL Başlıca bakteri toksinlerinin hücre içi hedefleri ve bunların klinik karşılıkları.
 
-## Vibrio cholerae ve kolera
-*Vibrio cholerae*, kıvrık (virgül biçiminde), tek polar kamçısıyla hareketli, **oksidaz pozitif** Gram negatif bir bakteridir. Kolera toksini A-B yapısındadır: hücre içinde **adenilat siklazı sürekli aktive edip cAMP'yi** yükseltir; enterositten lümene masif klor ve su salınır, sodyum emilimi durur. Sonuç, mukoza sağlam kalırken (lökositsiz) günde litrelerce **“pirinç suyu” görünümünde sekretuvar ishaldir**; hızlı, ağır dehidratasyon ve ölüm riski vardır.
-- **O1 ve O139** serogrupları kolera toksini üretip klasik salgınları yapar.
-- Mide asidine **duyarlıdır;** bu yüzden enfektif doz yüksektir (yaklaşık 10<sup>8</sup>). Aklorhidri ya da asit baskılayıcı kullanımı dozu düşürür.
-- Üremesi için **tuza (NaCl) gereksinim duyar** (halofilik), alkali ortamı sever (TCBS besiyerinde sarı koloni).
-- Tedavinin esası sıvı (ORS ve damar yolu); doksisiklin ya da azitromisin süreyi ve bulaşı azaltır.
-!! 2024-25 S49'da “mide asidine duyarlı değildir, 100 bakteriyle kolera gelişir” şıkkı **yanlış** olarak işaretlenir: *V. cholerae* aside **duyarlıdır** ve hastalık için yüksek doz gerekir.
+### Hazır (preformed) toksin kavramı
+Bazı toksinler besinde, hasta onu yemeden önce oluşur. Bu durumda:
+- **Kuluçka kısadır** (1-6 saat) — bakterinin çoğalmasını beklemeye gerek yoktur.
+- **Antibiyotik işe yaramaz** — ortada çoğalan bakteri yoktur, zarar toksinindir.
+- **Yeniden ısıtmak koruma sağlamaz** (ısıya dayanıklı toksinlerde) — bakteri ölse de toksin kalır.
+- **Kusma ön plandadır**: toksin bağırsaktaki vagal afferent uçları uyarır, bu uyarı beyin sapındaki kusma merkezine gider.
+Hazır toksinle hastalık yapanlar: ***S. aureus***, ***B. cereus*** (emetik tip), ***C. botulinum***.
 
-## Su ve deniz kaynaklı bakteriler
-| Etken | Özellik |
-| ***V. parahaemolyticus*** | çiğ deniz ürünü (istiridye, balık); sulu, bazen kanlı ishal; **halofilik**; inflamatuvar grupta |
-| ***V. vulnificus*** | istiridye; karaciğer hastalarında sepsis, yara enfeksiyonu |
-| ***Aeromonas hydrophila*** | **tatlı su**, su kaynaklı; hareketli, **oksidaz pozitif** Gram negatif basil; fakültatif anaerop; suyla temas eden yaralarda **selülit**; tuzsuz sever, %6 NaCl'de iyi üremez |
-| ***Plesiomonas shigelloides*** | su, deniz ürünü; oksidaz pozitif |
-|= Su ve deniz kaynaklı etkenler. *Aeromonas* tatlı su ve yaradır; tuzu sevmez. *Vibrio*'lar tuzu sever.
-!! *Aeromonas hydrophila* **%6 NaCl'li besiyerinde iyi üremez** (halofilik değildir); 2023-24 S45'te bu şık yanlıştır.
+## 6.2 Staphylococcus aureus besin zehirlenmesi
+**Etken ve kaynak:** *S. aureus* insanın burun ve deri florasında sık bulunur (toplumun ~%30'u taşıyıcıdır). Besine, onu hazırlayan kişinin **elinden ya da öksürüğünden** bulaşır — özellikle elinde cerahatli yara ya da egzama olan kişi yüksek risklidir.
+**Hangi besinler:** Elle hazırlanan ve pişirildikten sonra oda sıcaklığında bekletilen, proteinden zengin besinler: **kremalı pasta ve pastane ürünleri**, mayonezli salatalar (patates, tavuk, yumurta salatası), dilimlenmiş et ve jambon, süt ürünleri.
+**Toksin:** Isıya **dayanıklı** stafilokokal enterotoksinler (A-E; en sık A). 100 °C'de 30 dakika kaynatmaya dayanır — **yemeği yeniden ısıtmak bakteriyi öldürür ama toksini bozmaz.** Bu enterotoksinler aynı zamanda **süperantijendir**: T hücrelerini özgül olmayan biçimde, kitlesel olarak uyarabilirler.
+**Klinik:** **1-6 saat** (ortalama 2-4 saat) kuluçkadan sonra ani bulantı, şiddetli **kusma**, kramp; ishal daha hafiftir ve sonra gelir. **Ateş yoktur**, dışkıda lökosit beklenmez. Tablo 24-48 saatte kendiliğinden düzelir.
+**Tedavi:** Yalnız sıvı ve destek. **Antibiyotiğin yeri yoktur.**
+**Tanı ipucu:** Aynı yemeği yiyen birden çok kişinin kısa sürede, kusma ağırlıklı hastalanması. Tanı epidemiyolojiktir; gerekirse besinde toksin aranır.
+?? **Kremalı pasta + 1-6 saatte kusma + ateş yok + ortak yiyenler = *S. aureus*;** toksin ısıya dayanıklıdır.
 
-## Listeria monocytogenes
-*Listeria monocytogenes*, Gram pozitif basildir; en çarpıcı özelliği **buzdolabı sıcaklığında (soğukta) üreyebilmesidir** (soğukta zenginleştirme). Pastörize edilmemiş süt ve peynir, hazır et ürünleri, çiğ sebzelerle bulaşır. Sağlıklı erişkinde ateşli gastroenterit yapar; gebe, yenidoğan, yaşlı ve bağışıklığı baskılanmışta **sepsis ve menenjit** yapar; gebelikte düşük ve ölü doğuma yol açar.
-?? **Buzdolabında üreyen, gastroenterit + sepsis + menenjit = Listeria.**
+## 6.3 Bacillus cereus
+Gram pozitif, **sporlu**, aerop basildir; sporları pişirmeye dayanır ve yemek ılık bekletildiğinde çimlenip çoğalır. İki ayrı klinik tablo yapar ve bunların ayrımı klasik sınav sorusudur:
+| | **Emetik (kusma) tipi** | **Diyareik (ishal) tipi** |
+| Besin | **bekletilmiş ya da ısıtılmış pirinç/pilav**, makarna | et, sebze, sos, süt ürünleri, puding |
+| Toksin | **sereulid** — besinde **önceden oluşmuş**, ısıya ve aside **dayanıklı**, küçük peptit | bağırsakta salınan, ısıya **duyarlı** enterotoksin |
+| Kuluçka | **1-6 saat** | **8-16 saat** |
+| Baskın belirti | **kusma** | **sulu ishal**, kramp |
+| Süre | 6-24 saat | 12-24 saat |
+|= Bacillus cereus'un iki klinik tablosu.
+Her ikisinde de mukozaya invazyon yoktur: **ateş olmaz, dışkıda lökosit görülmez**, ishal sekretuvardır. *B. cereus* bu nedenle "inflamatuvar diyare yapmayanlar" grubundadır.
+Bağırsak dışı: göz travmasında ağır endoftalmit, damar yolu enfeksiyonları (bağışıklığı baskılı hastada).
+?? **Pilav → kusma (sereulid, hazır); etli yemek → ishal (bağırsakta salınan toksin).**
 
-## Diğer bakteriler ve sekresyon sistemleri
-Bazı patojenler toksini doğrudan konak hücresine enjekte eden **salgı sistemleri** kullanır: *Salmonella*, *Shigella* ve EPEC **tip 3 sekresyon sistemiyle** efektör proteinleri hücreye sokup invazyon ve sinyal değişikliği yapar. *Helicobacter pylori* **tip 4 sekresyon sistemiyle** CagA proteinini mide epiteline aktarır. Kolera toksini ise bir salgı sistemiyle değil, reseptöre bağlanıp endositozla etki eder.
+## 6.4 Clostridium perfringens
+Gram pozitif, **sporlu, zorunlu anaerop** basil. Besin zehirlenmesi yapan tip A suşlarıdır.
+**Mekanizma (özgün bir yanı vardır):** Bakteri besinle **canlı olarak** alınır (büyük sayıda, ~10⁸). Mide asidini aşıp ince bağırsağa ulaşır ve burada **sporülasyona** başlar. **Enterotoksin (CPE), tam da sporülasyon sırasında ve spor olgunlaşırken salınır.** Toksin enterositin sıkı bağlantı proteinlerine (klaudinlere) bağlanıp membranda gözenek açar; hücre su alıp şişer ve ölür, sıvı lümene boşalır.
+**Besin:** Büyük kazanda pişirilip **ılık bekletilen** et, et suyu, sos, güveç. Pişirme vejetatif bakterileri öldürür ama sporları öldürmez; yemek yavaş soğurken sporlar çimlenir ve çoğalır. Toplu yemek hizmetlerinde (hastane, okul, düğün) klasiktir.
+**Klinik:** **8-16 saat** kuluçka; **sulu ishal ve kramp**, kusma ve ateş genellikle yoktur; 24 saatte geçer.
+**Önemli ayrım:** *C. perfringens*'in başka toksinleri (özellikle **alfa toksin = lesitinaz**) **gazlı gangren** yapar; bu tümüyle ayrı bir hastalıktır. Nadir tip C suşları ise **nekrotizan enterit (pigbel)** yapar.
 
-## Bölüm özeti
-- Enterotoksin → sulu ishal; sitotoksin → kanlı; nörotoksin → sinir belirtileri. Hazır toksin: *S. aureus*, *B. cereus* (emetik), *C. botulinum*.
-- Pasta → *S. aureus* (ısıya dayanıklı toksin, kusma); pilav → *B. cereus*; bekletilmiş et → *C. perfringens*.
-- Kolera: oksidaz +, halofilik, cAMP ↑, pirinç suyu ishali, aside duyarlı, yüksek doz; O1/O139.
-- *Aeromonas*: tatlı su, oksidaz +, yara selüliti, tuzu sevmez. *V. parahaemolyticus*: deniz, halofilik.
-- *Listeria*: soğukta ürer, gastroenterit + sepsis + menenjit, gebelikte tehlikeli.
+## 6.5 Clostridium botulinum ve botulizm
+Gram pozitif, sporlu, **zorunlu anaerop** basil. Sporları toprakta yaygındır ve ısıya çok dayanıklıdır.
+**Toksin:** **Botulinum nörotoksini**, bilinen **en güçlü biyolojik toksindir** (mikrogramın milyonda biri düzeyinde öldürücü). A-B yapısındadır. Mekanizması:
+1. B parçası, periferik kolinerjik sinir uçlarının (nöromüsküler kavşak ve otonom sinapslar) presinaptik membranına bağlanır.
+2. A parçası hücreye girer ve **çinko bağımlı bir proteazdır**: asetilkolin veziküllerinin membranla birleşmesini sağlayan **SNARE proteinlerini** (SNAP-25, sinaptobrevin, sintaksin) parçalar.
+3. **Asetilkolin salınamaz** → kas uyarılamaz → **gevşek (flask) felç**.
+(Karşılaştırma: tetanoz toksini de bir SNARE proteazıdır, ama inhibitör internöronları hedefler; sonuç **spastik** felçtir.)
+**Üç klinik biçim:**
+- **Besin kaynaklı botulizm:** Ev yapımı konserve, turşu, salamura balık, kötü sterilize edilmiş konserve. Toksin besinde **hazır** bulunur. **12-36 saat** kuluçkadan sonra: bulanık ve çift görme, pitoz, midriyazis, ağız kuruluğu, disfaji, dizartri; ardından **simetrik, inen, gevşek felç** ve solunum kaslarının tutulması. **Ateş yoktur, bilinç açıktır, duyu normaldir** — bu üçlü ayırıcı tanıda önemlidir.
+- **Bebek botulizmi:** 1 yaşından küçük bebeğe verilen **bal** klasik kaynaktır (toprak ve toz da olabilir). Bebeğin bağırsak florası henüz tam kurulmadığı için yutulan **sporlar bağırsakta çimlenir, çoğalır ve toksini orada üretir**. Klinik: **kabızlık** (ilk bulgu), zayıf emme, zayıf ve kısık ağlama, **hipotoni ("gevşek bebek")**, baş kontrolünün kaybı, solunum yetmezliği. **Bu nedenle 1 yaşından küçük bebeğe bal verilmez.**
+- **Yara botulizmi:** Yaraya bulaşan sporların orada toksin üretmesi.
+**Tedavi:** Solunum desteği, **antitoksin** (erişkinde at kaynaklı heptavalan antitoksin; bebekte insan kaynaklı BabyBIG). Bebek botulizminde **antibiyotik verilmez** — bakteri parçalanınca daha çok toksin salınır. Botulinum toksini seyreltilmiş biçimde tıpta ve kozmetikte (distoni, spastisite, hiperhidroz) kullanılır.
+?? **Bebek + bal + kabızlık + hipotoni + emme güçlüğü = bebek botulizmi.** Toksin SNARE proteinlerini keser, asetilkolin salınamaz.
+
+## 6.6 Clostridioides (Clostridium) difficile
+Gram pozitif, **sporlu, zorunlu anaerop** basil. Bu bakterinin hastalığı besinde hazır toksinle değil, **bağırsakta kolonize olup toksinini orada üreterek** yapması önemli bir ayrımdır: bu yüzden "önceden oluşmuş toksinle gastroenterit yapanlar" grubuna **girmez**.
+**Patogenez:** Antibiyotik kullanımı mikrobiyotayı bozar (Bölüm 4). Sporlar çimlenir, bakteri çoğalır ve iki toksin üretir:
+- **Toksin A (enterotoksin)** ve **Toksin B (sitotoksin)**: Her ikisi de konak hücresindeki **Rho ailesi GTPazları glikozile ederek** etkisizleştirir. Aktin iskeleti çöker, hücreler yuvarlaklaşır, sıkı bağlantılar açılır, epitel ölür. Yoğun nötrofil göçüyle sarımsı **psödomembranlar** oluşur.
+- Hipervirülan **NAP1/BI/027** suşu daha çok toksin üretir ve ağır salgınlarla ilişkilidir.
+**Risk etkenleri:** Geniş spektrumlu antibiyotikler (klindamisin, sefalosporinler, florokinolonlar, ampisilin), hastanede yatış, ileri yaş, proton pompası inhibitörü.
+**Klinik:** Sulu, bazen kanlı ishal; karın krampları; **ateş ve lökositoz** (belirgin lökositoz tipiktir); ağır olguda psödomembranöz kolit, toksik megakolon, perforasyon.
+**Tanı:** Dışkıda **toksin A/B** (EIA), **GDH antijeni** ve **toksin genini arayan NAAT/PCR**. Rutin anaerop dışkı kültürü tanıda kullanılmaz (taşıyıcılığı ayırt edemez ve yavaştır). Yalnız **ishalli** hastanın dışkısı test edilir; şekilli dışkı test edilmez (kolonizasyon yanlış pozitiflik yaratır).
+**Tedavi:** Sorumlu antibiyotik kesilir; **ağızdan vankomisin** ya da **fidaksomisin** verilir (metronidazol artık ikinci seçenektir). **Tekrarlayan olgularda dışkı mikrobiyota nakli** çok yüksek başarılıdır. Sporlar alkole dirençlidir: el hijyeninde **su ve sabun** gerekir, alkollü solüsyon yetmez.
+!! *C. difficile* hakkında sık kurulan yanlış ifadeler: "**Gram negatiftir**" (yanlış — Gram pozitiftir), "**bilinen en güçlü toksini üretir**" (yanlış — en güçlü toksin **botulinum**'dur), "**pirinçli besinle görülür**" (yanlış — o *B. cereus*'tur).
+
+## 6.7 Vibrio türleri ve su kaynaklı diğer bakteriler
+*V. cholerae* ve kolera Bölüm 5'te ayrıntılı anlatıldı. Diğer önemli türler:
+| Etken | Kaynak | Klinik | Laboratuvar |
+| ***V. parahaemolyticus*** | **çiğ/az pişmiş deniz ürünü** (istiridye, midye, balık), ılık deniz suyu | sulu, bazen **kanlı** ishal (inflamatuvar grupta), kramp, ateş; genellikle kendiliğinden geçer | **halofilik**, oksidaz +, TCBS'de **yeşil** koloni (sükroz −); Kanagawa fenomeni |
+| ***V. vulnificus*** | istiridye, deniz suyuyla temas eden yara | **karaciğer hastalığı ve hemokromatozu olanlarda** hızlı ilerleyen sepsis, hemorajik büller; yara enfeksiyonu, nekrotizan fasiit; **yüksek ölüm oranı** | halofilik, oksidaz + |
+| ***Aeromonas hydrophila*** | **tatlı su** (göl, nehir), kuyu suyu | sulu ishal; **suyla temas eden yaralarda selülit**, nekrotizan yumuşak doku enfeksiyonu; sülük tedavisiyle ilişkili | hareketli Gram negatif basil, **oksidaz +**, fakültatif anaerop; **halofilik değildir — %6 NaCl'li besiyerinde iyi üremez** |
+| ***Plesiomonas shigelloides*** | su, deniz ürünü | sulu ya da dizanteriform ishal | oksidaz + |
+|= Su ve deniz kaynaklı diğer bakteriler.
+?? **Tuz ayrımı:** *Vibrio*'lar tuzu sever (halofilik, deniz); ***Aeromonas* tuzu sevmez (tatlı su)**. Her ikisi de oksidaz pozitiftir.
+!! Nehirde/gölde yaralanıp selülit gelişen hastada *Aeromonas hydrophila* ve *V. vulnificus* birlikte düşünülür; deniz suyu ve karaciğer hastalığı varsa *V. vulnificus* öne çıkar.
+
+## 6.8 Listeria monocytogenes
+**Özellikler:** **Gram pozitif**, sporsuz, kısa basil; **katalaz pozitif**, fakültatif anaerop. İki olağandışı özelliği vardır:
+1. **Soğukta (4 °C, buzdolabı sıcaklığı) üreyebilir** (psikrotrof). Bu nedenle buzdolabında saklanan hazır gıdalarda zamanla çoğalır ve "soğuk zenginleştirme" ile laboratuvarda ayrıştırılabilir.
+2. **25 °C'de hareketlidir** (uçtan uca "takla atar" tarzda, semt-düşme hareketi), 37 °C'de hareketsizdir.
+**Hücre içi yaşam:** *Listeria* zorunlu olmayan bir **hücre içi patojendir**. Hücreye girdikten sonra **listeriolizin O** ve fosfolipazlarla fagozom zarını delip sitoplazmaya kaçar; burada **ActA proteiniyle aktin polimerizasyonu** yaparak kuyruk oluşturur ve komşu hücreye geçer — *Shigella*'nınkine benzer bir yayılma stratejisi. Hücre dışına çıkmadığı için antikorlardan korunur; bu yüzden savunmada **hücresel bağışıklık (T hücresi)** belirleyicidir ve T hücre işlevi bozulanlar (gebelik, yenidoğan, yaşlı, kortikosteroid, kemoterapi, HIV, transplant) risk altındadır.
+**Kaynak:** Pastörize edilmemiş süt ve yumuşak peynirler, **hazır dilimlenmiş et ürünleri (şarküteri)**, sosis, çiğ sebze, hazır salatalar, tütsülenmiş deniz ürünleri; toprak ve hayvan dışkısı.
+**Klinik:**
+- **Sağlıklı erişkinde:** Ateşli gastroenterit (12-24 saat kuluçka), genellikle kendiliğinden geçer.
+- **Gebede:** Grip benzeri hafif tablo; ancak plasentayı geçerek **düşük, ölü doğum, erken doğum ve yenidoğan sepsisine** yol açar. Gebelere çiğ süt ürünleri ve şarküteriden kaçınmaları bu yüzden önerilir.
+- **Yenidoğanda:** Erken başlangıçlı (granülomatozis infantiseptika, yaygın mikroabseler) ya da geç başlangıçlı (**menenjit**).
+- **Yaşlı ve bağışıklığı baskılı hastada:** **Bakteriyemi ve menenjit** — 50 yaş üstü ve bağışıklığı baskılı erişkinlerde bakteriyel menenjitin önemli nedenlerinden biridir; beyin sapı tutulumu (rombensefalit) yapabilir.
+**Tedavi:** **Ampisilin** (gerekirse gentamisin eklenir). **Sefalosporinler *Listeria*'ya etkisizdir** — bu, menenjit ampirik tedavisinde risk grubuna ampisilin eklenmesinin nedenidir.
+?? **Buzdolabında üreyen + gastroenterit + sepsis + menenjit + gebelikte tehlikeli = *Listeria monocytogenes*;** tedavi ampisilin.
+!! Çiğ süt içip ateşli ishal olan hastada rutin dışkı kültüründe "*Salmonella*, *Shigella*, *Campylobacter* üremedi" sonucu geldiyse **Listeria** düşünülmelidir: rutin dışkı kültürü besiyerleri onu aramaz.
+
+## 6.9 Bakteriyel salgı (sekresyon) sistemleri
+Birçok Gram negatif patojen, toksin ve efektör proteinlerini salıvermekle kalmaz, doğrudan **konak hücresinin içine enjekte eder**. Bunu özel moleküler makinelerle yapar:
+| Sistem | Nasıl çalışır | Kullanan patojenler |
+| **Tip 3 sekresyon sistemi (T3SS)** | iğne/şırınga benzeri yapı; efektörleri doğrudan sitoplazmaya zerk eder | ***Salmonella*** (SPI-1, SPI-2), ***Shigella***, **EPEC/EHEC**, *Yersinia*, *Pseudomonas* |
+| **Tip 4 sekresyon sistemi (T4SS)** | konjugasyon makinesinden türemiştir; protein ve DNA aktarabilir | ***Helicobacter pylori*** (CagA'yı mide epiteline aktarır), *Legionella*, *Bordetella pertussis*, *Agrobacterium* |
+| **Tip 2 sekresyon sistemi** | periplazmadan dışarıya salgı | ***V. cholerae*** (kolera toksinini dışarı salar), ETEC |
+|= Başlıca bakteriyel salgı sistemleri.
+!! **Kolera toksini bir salgı sistemiyle hücreye zerk edilmez.** Bakteri toksini tip 2 sistemiyle **dışarıya salar**; toksin sonra hücre yüzeyindeki **GM1 reseptörüne bağlanıp endositozla** içeri girer. T4SS kullanan tipik enteropatojen *H. pylori*'dir.
+
+## 6.10 Bölüm özeti
+- Ekzotoksin protein ve hedefe özgüdür, toksoid yapılabilir; endotoksin (lipid A) yalnız Gram negatiflerde, ısıya dayanıklıdır, TLR4 üzerinden ateş-lökopeni/lökositoz-hipotansiyon-şok yapar.
+- Enterotoksin sulu ishal, sitotoksin kanlı-iltihaplı ishal, nörotoksin felç yapar. A-B yapısında B bağlanır, A iş görür.
+- Hazır toksin: *S. aureus*, *B. cereus* (emetik), *C. botulinum* → kuluçka kısa, kusma önde, antibiyotik işe yaramaz.
+- *S. aureus*: kremalı pasta, 1-6 saat, ısıya dayanıklı enterotoksin, ateş yok.
+- *B. cereus*: pilav → sereulid → kusma (1-6 saat); etli yemek → bağırsakta salınan toksin → ishal (8-16 saat).
+- *C. perfringens*: ılık bekletilen et, canlı bakteri alınır, **sporülasyon sırasında** enterotoksin salar, 8-16 saat, sulu ishal.
+- *C. botulinum*: en güçlü toksin; SNARE proteinlerini keser, asetilkolin salınamaz → inen gevşek felç; bebekte bal → kabızlık ve hipotoni; ateş yok, bilinç açık.
+- *C. difficile*: Gram pozitif anaerop; toksin A ve B Rho GTPazları glikozile eder, psödomembranöz kolit; tanı dışkıda toksin/NAAT; tedavi oral vankomisin/fidaksomisin, tekrarda FMT; sporlar için su ve sabun.
+- *V. parahaemolyticus* deniz ürünü ve inflamatuvar ishal; *V. vulnificus* karaciğer hastasında sepsis; ***Aeromonas* tatlı su ve yara selüliti, halofilik değildir**; hepsi oksidaz pozitiftir.
+- *Listeria*: soğukta ürer, hücre içi (ActA ile aktin kuyruğu), gebede düşük/ölü doğum, yenidoğan ve yaşlıda menenjit; tedavi ampisilin, sefalosporin etkisizdir.
+- T3SS: *Salmonella*, *Shigella*, EPEC/EHEC. T4SS: *H. pylori* (CagA). Kolera toksini reseptöre bağlanıp endositozla girer.
