@@ -1,0 +1,50 @@
+<svg viewBox="0 0 730 310" width="100%" style="display:block;font-family:Source Serif 4,Georgia,serif" role="img" aria-label="Nokta kaynak surekli kaynak ve kisiden kisiye salgin egrileri">
+<defs><marker id="ok" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a3533"/></marker></defs>
+<text x="355.0" y="20.0" text-anchor="middle" font-size="13" font-weight="700" fill="#3a3533">Salgın eğrisi salgının tipini söyler</text>
+<text x="135.0" y="44.0" text-anchor="middle" font-size="11.5" font-weight="700" fill="#0b6e99">Nokta kaynak</text>
+<line x1="50" y1="165" x2="220" y2="165" stroke="#3a3533"/>
+<line x1="50" y1="70" x2="50" y2="165" stroke="#3a3533"/>
+<rect x="68.5" y="154.4" width="12.5" height="10.6" fill="#0b6e99" opacity="0.82"/>
+<rect x="83.9" y="122.8" width="12.5" height="42.2" fill="#0b6e99" opacity="0.82"/>
+<rect x="99.4" y="70.0" width="12.5" height="95.0" fill="#0b6e99" opacity="0.82"/>
+<rect x="114.8" y="91.1" width="12.5" height="73.9" fill="#0b6e99" opacity="0.82"/>
+<rect x="130.3" y="133.3" width="12.5" height="31.7" fill="#0b6e99" opacity="0.82"/>
+<rect x="145.7" y="154.4" width="12.5" height="10.6" fill="#0b6e99" opacity="0.82"/>
+<text x="135.0" y="181.0" text-anchor="middle" font-size="9" font-weight="400" fill="#6b6460">zaman →</text>
+<text transform="rotate(-90 44 117.5)" x="44.0" y="117.5" text-anchor="end" font-size="9" font-weight="400" fill="#6b6460">olgu</text>
+<text x="135.0" y="201.0" text-anchor="middle" font-size="9.5" font-weight="400" fill="#3a3533">Tek seferlik ortak besin</text>
+<text x="370.0" y="44.0" text-anchor="middle" font-size="11.5" font-weight="700" fill="#b4541a">Sürekli ortak kaynak</text>
+<line x1="285" y1="165" x2="455" y2="165" stroke="#3a3533"/>
+<line x1="285" y1="70" x2="285" y2="165" stroke="#3a3533"/>
+<rect x="303.5" y="137.9" width="12.5" height="27.1" fill="#b4541a" opacity="0.82"/>
+<rect x="318.9" y="97.1" width="12.5" height="67.9" fill="#b4541a" opacity="0.82"/>
+<rect x="334.4" y="70.0" width="12.5" height="95.0" fill="#b4541a" opacity="0.82"/>
+<rect x="349.8" y="70.0" width="12.5" height="95.0" fill="#b4541a" opacity="0.82"/>
+<rect x="365.3" y="70.0" width="12.5" height="95.0" fill="#b4541a" opacity="0.82"/>
+<rect x="380.7" y="83.6" width="12.5" height="81.4" fill="#b4541a" opacity="0.82"/>
+<rect x="396.2" y="70.0" width="12.5" height="95.0" fill="#b4541a" opacity="0.82"/>
+<rect x="411.6" y="83.6" width="12.5" height="81.4" fill="#b4541a" opacity="0.82"/>
+<rect x="427.1" y="137.9" width="12.5" height="27.1" fill="#b4541a" opacity="0.82"/>
+<text x="370.0" y="181.0" text-anchor="middle" font-size="9" font-weight="400" fill="#6b6460">zaman →</text>
+<text transform="rotate(-90 279 117.5)" x="279.0" y="117.5" text-anchor="end" font-size="9" font-weight="400" fill="#6b6460">olgu</text>
+<text x="370.0" y="201.0" text-anchor="middle" font-size="9.5" font-weight="400" fill="#3a3533">Kirli şebeke suyu</text>
+<text x="605.0" y="44.0" text-anchor="middle" font-size="11.5" font-weight="700" fill="#5b3f8c">Kişiden kişiye</text>
+<line x1="520" y1="165" x2="690" y2="165" stroke="#3a3533"/>
+<line x1="520" y1="70" x2="520" y2="165" stroke="#3a3533"/>
+<rect x="523.0" y="154.4" width="12.5" height="10.6" fill="#5b3f8c" opacity="0.82"/>
+<rect x="538.5" y="143.9" width="12.5" height="21.1" fill="#5b3f8c" opacity="0.82"/>
+<rect x="569.4" y="133.3" width="12.5" height="31.7" fill="#5b3f8c" opacity="0.82"/>
+<rect x="584.8" y="112.2" width="12.5" height="52.8" fill="#5b3f8c" opacity="0.82"/>
+<rect x="600.3" y="154.4" width="12.5" height="10.6" fill="#5b3f8c" opacity="0.82"/>
+<rect x="615.7" y="101.7" width="12.5" height="63.3" fill="#5b3f8c" opacity="0.82"/>
+<rect x="631.2" y="70.0" width="12.5" height="95.0" fill="#5b3f8c" opacity="0.82"/>
+<rect x="646.6" y="143.9" width="12.5" height="21.1" fill="#5b3f8c" opacity="0.82"/>
+<rect x="662.1" y="91.1" width="12.5" height="73.9" fill="#5b3f8c" opacity="0.82"/>
+<text x="605.0" y="181.0" text-anchor="middle" font-size="9" font-weight="400" fill="#6b6460">zaman →</text>
+<text transform="rotate(-90 514 117.5)" x="514.0" y="117.5" text-anchor="end" font-size="9" font-weight="400" fill="#6b6460">olgu</text>
+<text x="605.0" y="201.0" text-anchor="middle" font-size="9.5" font-weight="400" fill="#3a3533">Ardışık kuluçka dalgaları</text>
+<rect x="40" y="212" width="200" height="46" rx="4" fill="#fff" stroke="#0b6e99"/><text x="140.0" y="226.0" text-anchor="middle" font-size="10" font-weight="700" fill="#3a3533">Tek, keskin tepe</text><text x="140.0" y="239.0" text-anchor="middle" font-size="8.5" font-weight="400" fill="#3a3533">Tümü aynı anda maruz kaldı;</text><text x="140.0" y="252.0" text-anchor="middle" font-size="8.5" font-weight="400" fill="#3a3533">tepe-maruziyet farkı = kuluçka</text>
+<rect x="275" y="212" width="200" height="46" rx="4" fill="#fff" stroke="#b4541a"/><text x="375.0" y="226.0" text-anchor="middle" font-size="10" font-weight="700" fill="#3a3533">Yayvan plato</text><text x="375.0" y="239.0" text-anchor="middle" font-size="8.5" font-weight="400" fill="#3a3533">Kaynak sürekli; su kesilince</text><text x="375.0" y="252.0" text-anchor="middle" font-size="8.5" font-weight="400" fill="#3a3533">eğri birden düşer</text>
+<rect x="510" y="212" width="200" height="46" rx="4" fill="#fff" stroke="#5b3f8c"/><text x="610.0" y="226.0" text-anchor="middle" font-size="10" font-weight="700" fill="#3a3533">Giderek büyüyen dalgalar</text><text x="610.0" y="239.0" text-anchor="middle" font-size="8.5" font-weight="400" fill="#3a3533">Her dalga bir kuluçka uzaklıkta;</text><text x="610.0" y="252.0" text-anchor="middle" font-size="8.5" font-weight="400" fill="#3a3533">temas yoluyla büyür</text>
+<rect x="140" y="272" width="470" height="26" rx="4" fill="#faf7f2" stroke="#3a3533"/><text x="375.0" y="289.0" text-anchor="middle" font-size="10" font-weight="400" fill="#3a3533">Su kaynaklı salgınlar patlayıcıdır: aynı anda çok kişiye ulaşır (nokta ya da sürekli kaynak)</text>
+</svg>

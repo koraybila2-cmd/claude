@@ -1,25 +1,28 @@
 # Son Gün Ezber Özeti | Her bölümün en çok tekrar eden bilgisi tek satırda. Sınavdan önceki gün okuyun; her madde bir çıkmış soruya karşılık gelir. || MSD-7 · Ezber
 ## 1. İshale Yaklaşım, Klinik Tipler ve Viral Etkenler
-- **İnce = İçerik bol; Kalın = Kan, Kramp, Kısa ama sık.** İnce bağırsak ishali hacim sorunudur (dehidratasyon), kalın bağırsak ishali iltihap sorunudur (kan, ateş, tenezm).
-- **İnflamatuvar diyare yapmayanlar = toksin grubu: “Kolera, ETEC ve üç besin zehirlenmesi bakterisi (S. aureus, B. cereus, C. perfringens)”.** Bu soru 5 yıl sordu ve her yıl doğru cevap bu beşten biriydi (*B. cereus*, *S. aureus*, *C. perfringens* iki kez, *V. cholerae*). Buna *Giardia* ve virüsleri ekleyin.
-- **Kanlı ishal = “SS-CY-CE + amip”:** **S**higella, **S**almonella, **C**ampylobacter, **Y**ersinia, **C**. difficile, **E**. coli (EIEC, EHEC) ve *E. histolytica*. Enfeksiyon dışında inflamatuvar bağırsak hastalığı, iskemik kolit ve divertikülit. *Giardia* mukozayı işgal etmez, kanlı ishal yapmaz: “kanlı ishalde düşünülmez” sorusunun 3 yıldır cevabı Giardiazis.
-- **6-16 kuralı:** 6 saatten kısa → hazır toksin (*S. aureus*, *B. cereus* kusma tipi); 8-16 saat → bağırsakta oluşan toksin (*C. perfringens*, *B. cereus* ishal tipi); 16 saatten uzun → bağırsakta çoğalan, invaziv bakteriler ve virüsler.
-- **Kreş üçlüsü (düşük doz): Shigella, Giardia, Cryptosporidium**; kreşte kolay yayılan virüsler: rotavirüs, adenovirüs, astrovirüs.
-- **Gastroenteritin tek DNA virüsü: Adeno (tip 40-41).** Rotavirüs = çocuğun ağır ishali; Norovirüs = gemide kusma.
-- **Antibiyotik = “APS-B”:** **A**ntibiyotik öyküsü (son 1 ay), **P**rotez, **S**eyahat + yüksek ateş/sepsis, **B**ağışıklık baskısı. Yaş tek başına endikasyon değildir; “35 yaş üstü” şıkkı yanlıştır.
+- **ORS mucizesi tek cümlede:** Toksin NHE3'ü kapatır ama SGLT1'i kapatamaz; glukoz verirsek sodyum (ve su) yine emilir.
+- **Beş mekanizma tek satırda:** **O**zmotik (açlıkta durur), **S**ekretuvar (açlıkta sürer), **İ**nflamatuvar (kan + lökosit + ateş), **M**alabsorptif (steatore), **Motilite** (hızlı geçiş).
+- **İnce = İçerik bol (dehidratasyon riski); Kalın = Kan, Kramp, Kısa ama sık (tenezm).**
+- **İnflamatuvar diyare YAPMAYANLAR = toksin grubu:** kolera, ETEC ve üç besin zehirlenmesi bakterisi (*S. aureus*, *B. cereus*, *C. perfringens*); bunlara *Giardia* ve virüsleri ekleyin.
+- **Kanlı ishal yapanlar:** **S**higella, **S**almonella, **C**ampylobacter, **Y**ersinia, **C**. difficile, **E**. coli (EIEC, EHEC) ve *E. histolytica*. Enfeksiyon dışında inflamatuvar bağırsak hastalığı, iskemik kolit, divertikülit. ***Giardia* mukozayı işgal etmez, kanlı ishal yapmaz.**
+- **6-16 kuralı:** < 6 saat → hazır toksin (*S. aureus*, *B. cereus* kusma tipi); 8-16 saat → bağırsakta oluşan toksin (*C. perfringens*, *B. cereus* ishal tipi); > 16 saat → bağırsakta çoğalma ve invazyon.
+- **Kreş üçlüsü (düşük doz): *Shigella*, *Giardia*, *Cryptosporidium*;** kreşte kolay yayılan virüsler: rotavirüs, adenovirüs, astrovirüs.
+- **Gastroenteritin tek DNA virüsü: adenovirüs (enterik tip 40-41).** Rotavirüs = çocuğun ağır kış ishali; norovirüs = gemide/huzurevinde kusma salgını.
+- **Antibiyotik endikasyonu "APS-B":** **A**ntibiyotik öyküsü (son 1 ay), **P**rotez, **S**eyahat + yüksek ateş/sepsis, **B**ağışıklık baskısı. **Yaş tek başına endikasyon değildir.**
 ## 2. Dehidratasyon ve Sıvı Tedavisi
-- **Ağır = “Dolaşım + Beyin + Böbrek”:** kan basıncı düşük ya da normal, soğuk alacalı deri (cutis marmorata), letarji-koma, idrar 0,5-1 ml/kg/saatin altında → **%10 ve üzeri**. Bu vaka sorusu 5 kez geldi; cevap hep “ağır dehidratasyon”.
-- **ORS kuralları: “Kaynat-soğut-sonra ekle; 24 saatte dök; 50/100 ml/kg 4-6 saatte; Na 115-165; ateş engel değil; yenidoğana da.”**
+- **Ağır dehidratasyon = "Dolaşım + Beyin + Böbrek":** kan basıncı düşük ya da normal, soğuk alacalı deri, letarji-koma, idrar 0,5-1 ml/kg/saatin altında → **%10 ve üzeri**, damar yolu gerekir.
+- **Hiponatremik: şok erken, düzeltme yavaş (pontin miyelinoliz). Hipernatremik: bulgular geç ve aldatıcı, düzeltme 48 saate yayılır (beyin ödemi).**
+- **ORS kuralları:** Kaynat–soğut–sonra ekle; 24 saatte dök; hafif 50, orta 100 ml/kg, 4-6 saatte; Na 115-165 arasında verilebilir; ateş engel değil; yenidoğana da verilir; evde formül hazırlanmaz.
 ## 3. Su ve Besin Kaynaklı Salgınlar
-- **Su-besin hastalıkları “DEES-Y”:** **D**ışkı-ağız, **E**ndemik, **E**pidemi, **S**u ise patlayıcı, **Y**azın artar. Bu soru 7 kez geldi; cevap 6 kez “kış aylarında daha çok görülürler”, bir kez “mevsimsel farklılık görülmez”di.
-- **Su-besin hastalığında zincirin en zayıf halkası = bulaşma yolu** (6 kez soruldu). Suyu klorla, besini denetle; zincir kırılır.
-- **“FATS” kaynağa yöneliktir:** **F**ilyasyon, **A**yırma, **T**edavi, **S**ağlık eğitimi. **Su ve gıda** (dezenfeksiyon, sanitasyon) bulaşma yoluna, **karantina** sağlam kişiye. “Kaynağa yönelik” sorusu 7 kez, “sağlam kişiye yönelik” sorusu 6 kez geldi.
-- **Entoksikasyon = “Erken, Emezis”** (kuluçka kısa, kusma önde); **Enfeksiyon = “Geç, Gaita”** (kuluçka uzun, ishal önde). Bu soru 6 kez geldi; cevap her yıl “entoksikasyonlarda kuluçka daha kısadır”.
-- **“Kontrol = Kısa liste, Kısa aralık; Denetleme = Dört dörtlük, tüm parametreler.”** Su izlemi sorusu 8 kez geldi: 6 kez denetleme izlemi, 2 kez kontrol izlemi soruldu. Soruyu okurken “tüm” mü “belli başlı” mı dediğine bakın.
+- **Su-besin hastalığında en zayıf halka = bulaşma yolu (suyu klorla, besini denetle). Havayla bulaşanda = sağlam kişi (aşı).**
+- **"FATS" kaynağa yöneliktir:** **F**ilyasyon, **A**yırma, **T**edavi, **S**ağlık eğitimi. **Su ve gıda** (dezenfeksiyon, sanitasyon) bulaşma yoluna; **karantina ve aşı** sağlam kişiye yöneliktir.
+- **Su-besin hastalıkları "DEES-Y":** **D**ışkı-ağız, **E**ndemik, **E**pidemi yapar, **S**u kaynaklıysa patlayıcı, **Y**azın artar.
+- **Entoksikasyon = Erken + Emezis** (kuluçka kısa, kusma önde). **Enfeksiyon = Geç + Gaita** (kuluçka uzun, ishal önde).
+- **"Kontrol = Kısa liste, Kısa aralık (sık); Denetleme = Dört dörtlük, tüm parametreler."** Soruyu okurken "tüm" mü "belli başlı" mı dediğine, "sık" mı "belirli aralarla" mı dediğine bakın.
 ## 4. Bağırsak Mikrobiyotası ve Probiyotikler
-- **Anne sütü → Bifido (Actinobacteria); Erişkin → Firmicutes + Bacteroidetes; Bütirat → Firmicutes.**
-- **Bütirat = kolonositin yakıtı + bariyer + patojene kapalı kapı.** “SCFA verilince kolonizasyonu önlenen patojen” sorusunun cevabı *C. difficile*.
-- **Gastrit zemininde MALT lenfoma = Helicobacter pylori.** Bu bilgi iki kez soruldu.
+- **Bütiratın kaynağı → Firmicutes. Anne sütü bebeği → Bifidobacterium (Actinobacteria). Erişkin → Firmicutes + Bacteroidetes. Proteobacteria artışı → disbiyoz.**
+- **Bütirat = kolonositin yakıtı + bariyer + patojene kapalı kapı + Treg.**
+- **Gastrit zemininde gelişen MALT lenfoma = *Helicobacter pylori*;** tedavi eradikasyondur.
 ## 5. Salmonella, Shigella, E. coli, Yersinia ve Laboratuvar Tanısı
 - **Enterobacteriaceae = oksidaz NEGATİF, glukozu fermente eder.** *C. perfringens* (Gram pozitif) ve *Vibrio* (oksidaz pozitif) bu aileden **değildir**.
 - **Tifo kültürü zamanı: 1. hafta KAN ve kemik iliği, 2. haftadan sonra DIŞKI ve idrar, 4. haftadan sonra SAFRA.** Döküntü (gül lekesi) + rölatif bradikardi + basamaklı ateş + önce ishal sonra kabızlık = tifo.

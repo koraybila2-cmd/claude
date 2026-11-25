@@ -1,65 +1,178 @@
-# Dehidratasyon ve Sıvı Tedavisi | Dehidratasyonun nedenleri, klinik bulgulara göre derecelendirme, ağızdan sıvı tedavisi (ORS) ve damar yolu tedavisinin izlenmesi. Bu bölümün soruları her yıl aynı kalıpla gelir (28 soru, 11 farklı soru), ama gönderilen sunumların hiçbirinde yer almaz; konu halk sağlığı ve çocuk sağlığı derslerinin anlatımına dayanır. || Bölüm 2 · Sıvı kaybı
+# Dehidratasyon ve Sıvı Tedavisi | Vücut sıvı bölmeleri ve çocuğun kırılganlığı, dehidratasyonun nedenleri ve derecelendirilmesi, tonisiteye göre üç dehidratasyon tipi, ağızdan sıvı tedavisinin fizyolojik temeli ve uygulaması, damar yolu tedavisi ve izlemi. || Bölüm 2 · Sıvı kaybı
 
-## Dehidratasyon neden olur?
-Dehidratasyon, vücuttan kaybedilen su ve elektrolitin alınandan fazla olmasıdır. Mantık basittir: ya **alım azalmıştır** ya da **kayıp artmıştır**. Çocuklar daha çabuk dehidrate olur: vücut ağırlığına göre su döngüleri erişkinin 2-3 katıdır, vücut yüzeyleri görece geniştir (deri ve solunumla kayıp fazla), böbrekleri idrarı yeterince yoğunlaştıramaz ve susadıklarını kendileri ifade edemez.
+## 2.1 Vücut sıvı bölmeleri ve çocuğun kırılganlığı
+Dehidratasyonu anlamak için suyun vücutta nerede durduğunu bilmek gerekir. Erişkinde vücut ağırlığının yaklaşık **%60'ı sudur**. Bu suyun **üçte ikisi hücre içinde (ICF)**, **üçte biri hücre dışındadır (ECF)**. Hücre dışı suyun da dörtte biri damar içinde (plazma), dörtte üçü hücreler arasındadır (interstisyum).
+Yaşla bu oranlar belirgin değişir ve bu değişim çocuğun neden daha çabuk dehidrate olduğunu açıklar:
+| Yaş | Toplam vücut suyu | ECF payı |
+| Yenidoğan | **%75-80** | **%40-45** |
+| 1 yaş | %65 | %25-30 |
+| Erişkin erkek | %60 | %20 |
+| Erişkin kadın / yaşlı | %50-55 | %20 |
+|= Yaşla toplam vücut suyu ve özellikle hücre dışı sıvı payı azalır.
+Bebekte suyun daha büyük kısmı **hücre dışındadır** ve hücre dışı sıvı, kayba doğrudan açık olan bölmedir (kusma, ishal, ter, solunum buradan götürür). Buna şu etkenler eklenir:
+1. **Döngü hızı yüksektir:** Bebek vücut ağırlığının günde yaklaşık **%15'i** kadar suyu alıp verir; erişkinde bu oran **%5**'tir. Yani bebek, su dengesinin çok daha dar bir sınırında yaşar.
+2. **Yüzey alanı/ağırlık oranı büyüktür:** Deri ve solunum yoluyla görünmeyen (insensibl) kayıp, kilogram başına erişkinin iki-üç katıdır. Ateş, takipne ve sıcak ortam bu kaybı daha da artırır.
+3. **Böbrek olgunlaşmamıştır:** Yenidoğanın böbreği idrarı erişkin düzeyinde yoğunlaştıramaz (maksimum ~600-700 mOsm/kg, erişkinde ~1200). Su kaybını idrarı koyultarak telafi edemez.
+4. **Susuzluğunu ifade edemez, suya kendisi ulaşamaz.** Bu nedenle alım, bakım verene bağımlıdır.
+5. **Metabolik hızı yüksektir:** Birim ağırlık başına daha çok ısı ve atık üretir, daha çok suya gereksinir.
+Yaşlıda ise tablo farklı nedenlerle kırılgandır: toplam vücut suyu azalmıştır, **susama duyusu körelmiştir**, böbreğin yoğunlaştırma gücü ve renin-aldosteron yanıtı azalmıştır, eşlik eden hastalıklar ve diüretikler kaybı artırır.
+
+## 2.2 Dehidratasyonun nedenleri
+Dehidratasyon, kaybedilen su ve elektrolitin alınandan fazla olmasıdır. Nedenler iki başlıkta toplanır: **alım azalmıştır** ya da **kayıp artmıştır**.
 | Mekanizma | Örnekler |
-| Yetersiz alım | emzirme ya da beslenme sorunu, kusma, bilinç bozukluğu, ağız içi yaralar |
-| Bağırsaktan kayıp | **akut gastroenterit** (en sık), kusma, fistül, dren |
-| Böbrekten kayıp | **böbrek solüt yükünde artma** (yüksek proteinli-tuzlu mama, hiperglisemide glukozüri: ozmotik diürez), **ADH miktarında azalma** (diabetes insipidus), diüretik, böbreğin yoğunlaştıramaması |
-| İnsensibl kayıp artışı | ateş, sıcak ortam, takipne (deri ve solunum yoluyla) |
-|= Dehidratasyonun nedenleri. Ters çevrilmiş şıklar dehidratasyon yapmaz.
-!! **Dehidratasyon etiyolojisinde yer almayanlar:** **ADH artışı** (ADH suyu geri emdirir, su tutulur; uygunsuz ADH sendromunda hiponatremi ve sıvı fazlalığı olur) ve **solüt yükte azalma** (idrar hacmini azaltır). Bu soru 6 kez geldi; cevap hep bu ters çevrilmiş ifadelerden biriydi.
+| **Yetersiz alım** | emzirme/beslenme sorunu, ağız içi yaralar (herpetik gingivostomatit), bilinç bozukluğu, susama duyusunun körelmesi (yaşlı), su kaynağına ulaşamama |
+| **Bağırsaktan kayıp** | **akut gastroenterit (en sık neden)**, kusma, fistül, dren, ileostomi |
+| **Böbrekten kayıp** | **böbrek solüt yükünün artması** (aşırı yoğun hazırlanmış mama, yüksek proteinli-tuzlu beslenme, hiperglisemide glukozüri → ozmotik diürez), **ADH azalması** (diabetes insipidus), diüretik, böbreğin yoğunlaştıramaması (nefrojenik Dİ, tübülopatiler), adrenal yetmezlik |
+| **İnsensibl kaybın artması** | ateş, sıcak ortam, takipne, yanık, radyan ısıtıcı altındaki yenidoğan |
+| **Üçüncü boşluğa kaçış** | ileus, peritonit, sepsis, pankreatit, yanık (sıvı vücutta ama dolaşımda değil) |
+|= Dehidratasyonun nedenleri.
+!! **Dehidratasyon etiyolojisinde yer almayanlar**, nedenlerin ters çevrilmiş hâlleridir ve sınavda bu şekilde sorulur:
+!! **ADH'nin artması** dehidratasyon yapmaz. ADH (antidiüretik hormon, vazopressin) toplayıcı kanallara akuaporin-2 yerleştirerek suyu geri emdirir; artışı suyu **tutar**. Uygunsuz ADH salgısı sendromunda tablo tam tersidir: su fazlalığı ve hiponatremi. Dehidratasyon yapan, ADH'nin **azalması**dır (diabetes insipidus).
+!! **Solüt yükünün azalması** da dehidratasyon yapmaz. Böbreğin atması gereken solüt (üre, sodyum, glukoz) arttıkça, bu solütü taşıyacak idrar hacmi de artar — buna ozmotik diürez denir. Solüt yükü azalırsa idrar hacmi düşer ve su **kazanılır**.
 
-## Dehidratasyonun derecesi
-Ağırlık kaybının yüzdesi, dehidratasyonun derecesidir. Hastalık öncesi ağırlık çoğu zaman bilinmediği için derece klinik bulgulardan tahmin edilir. Bulgular sırayla belirir: önce susuzluk ve mukoza kuruluğu, sonra hücre dışı sıvı azaldıkça doku bulguları (turgor, göz ve fontanel), en sonda dolaşım bulguları (nabız, kan basıncı, periferik dolaşım, bilinç).
+## 2.3 Dehidratasyonun derecesi
+Dehidratasyonun derecesi, kaybedilen sıvının vücut ağırlığına oranıdır. Altın standart, hastalık öncesi ağırlıkla şimdiki ağırlığın farkıdır; ancak bu ağırlık çoğu zaman bilinmediğinden derece **klinik bulgulardan** tahmin edilir.
+Bulgular belirli bir sırayla ortaya çıkar ve bu sıra, sıvının hangi bölmeden kaybedildiğini yansıtır:
+1. **Önce susuzluk ve mukoza kuruluğu** (hafif kayıp).
+2. **Sonra doku bulguları:** deri turgorunun azalması, göz kürelerinin ve fontanelin çökmesi, gözyaşının azalması (interstisyel sıvı azalmıştır).
+3. **En son dolaşım bulguları:** taşikardi, nabız dolgunluğunun azalması, kapiller dolum zamanının uzaması, ekstremitelerin soğuyup alacalanması (*cutis marmorata*), kan basıncının düşmesi, bilinç değişikliği, oligüri (plazma hacmi azalmıştır — artık şok eşiğindeyiz).
 | Bulgu | Hafif (%3-5) | Orta (%6-9) | Ağır (≥ %10) |
-| Genel durum, bilinç | iyi, uyanık | huzursuz, irritabl | letarjik, komatöz |
-| Susuzluk | hafif artmış | belirgin, istekli içer | belirgin artmış ya da içemez (koma) |
-| Kalp hızı, nabız | normal | artmış, nabız dolgunluğu azalmış | çok hızlı, zayıf ya da alınamaz |
-| Kan basıncı | normal | normal, ortostatik düşme | normal ya da **düşük** |
-| Deri turgoru | normal | azalmış | çok azalmış (deri kıvrımı > 2 sn) |
+| Genel durum, bilinç | iyi, uyanık | huzursuz, irritabl | **letarjik, komatöz** |
+| Susuzluk | hafif artmış | belirgin, istekli içer | belirgin artmış **ya da içemez** |
+| Kalp hızı | normal | artmış | çok hızlı; nabız zayıf/alınamaz |
+| Kan basıncı | normal | normal, ortostatik düşme | **normal ya da düşük** |
+| Deri turgoru | normal | azalmış | çok azalmış (kıvrım > 2 sn) |
 | Fontanel, göz küreleri | normal | çökük | belirgin çökük |
 | Gözyaşı, ağız mukozası | var, nemli | azalmış, kuru | yok, çok kuru |
-| Ekstremiteler | sıcak | serin | soğuk, alacalı (*cutis marmorata*), kapiller dolum uzun |
-| İdrar | normal ya da hafif azalmış | azalmış | **< 0,5-1 ml/kg/saat**, anüri |
-|= Klinik bulgulara göre dehidratasyon derecesi. Hipotansiyon, soğuk-alacalı deri, bilinç bozukluğu ve oligüri birlikteyse ağır dehidratasyondur.
-?? **Ağır = “Dolaşım + Beyin + Böbrek”:** kan basıncı düşük ya da normal, soğuk alacalı deri (cutis marmorata), letarji-koma, idrar 0,5-1 ml/kg/saatin altında → **%10 ve üzeri**. Bu vaka sorusu 5 kez geldi; cevap hep “ağır dehidratasyon”.
-!! **Dehidratasyon derecesini belirlemede dışkının kıvamı kullanılmaz.** Susuzluk, bilinç, gözyaşı, turgor ve postural hipotansiyon kullanılır.
+| Kapiller dolum | < 2 sn | 2-3 sn | > 3 sn |
+| Ekstremiteler | sıcak | serin | **soğuk, alacalı (cutis marmorata)** |
+| İdrar | normal/hafif azalmış | azalmış, koyu | **< 0,5-1 ml/kg/saat**, anüri |
+|= Klinik bulgulara göre dehidratasyon derecesi.
+Bebeklerde yüzdeler biraz daha yüksek tutulur (hafif %5, orta %10, ağır %15) çünkü bebeğin su rezervi görecelidir; erişkin ve büyük çocukta yukarıdaki yüzdeler kullanılır.
+?? **Ağır dehidratasyon = "Dolaşım + Beyin + Böbrek":** kan basıncı düşük ya da normal, soğuk alacalı deri, letarji-koma, idrar 0,5-1 ml/kg/saatin altında → **%10 ve üzeri**, damar yolu gerekir.
+!! **Dehidratasyonun derecesini belirlemede dışkının kıvamı kullanılmaz.** Dışkı kıvamı ishalin tipini gösterir, kaybın miktarını değil. Kullanılanlar: susuzluk hissi, bilinç durumu, gözyaşı, deri turgoru, fontanel, nabız, kapiller dolum, postural (ortostatik) hipotansiyon ve idrar miktarı.
 
-## Ağızdan sıvı tedavisi (ORS)
-ORS, ince bağırsakta enfeksiyon sırasında bile çalışmaya devam eden **sodyum-glukoz kotransportunu (SGLT1)** kullanır. Sekretuvar ishalde cAMP, klor salgısını artırır ve sodyumun klorla birlikte emilimini baskılar; ama glukozla eşleşen sodyum emilimi bozulmaz. Bir molekül glukozla birlikte iki sodyum emilir, onları klor ve su izler. Bu yüzden doğru oranlarda glukoz ve tuz içeren bir sıvı, ishal sürerken bile bağırsaktan su emdirir. Glukozun fazla olması (meyve suyu, kola) ozmotik ishali artırır; tuzun fazla olması hipernatremi yapar. Bu nedenle **evde malzemeyle ORS hazırlamak doğru değildir**, hazır paketler kullanılır.
-| DSÖ düşük ozmolar ORS (1 litrede) | mmol/L |
-| Sodyum | 75 |
-| Klor | 65 |
-| Glukoz (susuz) | 75 |
-| Potasyum | 20 |
-| Sitrat | 10 |
-| Toplam ozmolarite | 245 mOsm/L |
-|= Günümüzde kullanılan düşük ozmolar ORS. Eski formül (NaCl 3,5 g, NaHCO<sub>3</sub> 2,5 g, KCl 1,5 g, glukoz 20 g; 311 mOsm/L) evde tartılarak hazırlanmaz.
-**Hazırlama:**
-1. Eller sabun ve suyla yıkanır.
-2. Temiz bir kaba **1 litre (yaklaşık 5 su bardağı) kaynamış ve soğumuş su** konur. Paket suya eklendikten sonra **kaynatılmaz**: kaynatma suyu buharlaştırıp karışımı yoğunlaştırır.
-3. Bir paket ORS tozu eklenir, temiz kaşıkla tamamen eriyene kadar karıştırılır.
-4. Kabın ağzı kapatılıp serin, temiz bir yerde saklanır; **24 saat sonra artan dökülür**, her gün taze hazırlanır.
-**Kimlere verilir:**
-- Bilinci açık, ağızdan aldığını yutabilen herkese.
-- **Yenidoğan dahil her yaşa**, düşük doğum ağırlıklılara da.
-- **Etiyolojiden bağımsız** tüm ishallere (kolera, viral, bakteriyel).
+## 2.4 Tonisiteye göre dehidratasyon tipleri
+Dehidratasyonda yalnız "ne kadar" değil, "hangi bileşim" kaybedildiği de önemlidir. Çünkü serum sodyumu, suyun hücre içi ile hücre dışı arasında nasıl dağılacağını belirler.
+@SVG dehidratasyon_tip.svg
+@SEKIL Üç dehidratasyon tipinde suyun hücre içi ve dışı arasındaki hareketi. Bulguların ne kadar erken çıkacağını bu hareket belirler.
+
+### İzonatremik (izotonik) dehidratasyon — Na 130-150 mEq/L
+**En sık tiptir (%70-80).** Su ve tuz birbirine yakın oranlarda kaybedilir; hücre dışı sıvının ozmolalitesi değişmez, bu yüzden hücre içinden dışına su geçişi olmaz. Kayıp tümüyle hücre dışı bölmeyi küçültür. Klinik bulgular derecelendirme tablosuna uyar.
+
+### Hiponatremik (hipotonik) dehidratasyon — Na < 130 mEq/L
+Tuz, sudan **daha çok** kaybedilmiştir; ya da kayıp sırasında tuzsuz sıvı (sade su, şekerli çay, sulandırılmış mama) verilmiştir. Hücre dışı sıvı hipotonik hâle gelir; su, ozmotik gradyan boyunca **hücre dışından hücre içine kaçar**. Sonuç: hücre dışı bölme, kaybedilenden de fazla küçülür.
+- **Klinik sonuç:** Dolaşım bulguları ve **şok en erken bu tipte** ortaya çıkar; aynı yüzde kayıpta hasta daha ağır görünür.
+- Hücre içine kaçan su beyin hücrelerini şişirir: letarji, baş ağrısı, bulantı, ağır olguda **nöbet** (özellikle Na < 120).
+- **Tedavi:** İzotonik sıvıyla hacim yerine konur; sodyum **yavaş** yükseltilir (24 saatte 10-12 mEq/L'yi aşmamalı). Hızlı düzeltme **santral pontin miyelinoliz** (ozmotik demiyelinizasyon) riski taşır. Nöbet varsa hipertonik salin (%3 NaCl) ile hedefli, küçük yükseltme yapılır.
+
+### Hipernatremik (hipertonik) dehidratasyon — Na > 150 mEq/L
+Su, tuzdan **daha çok** kaybedilmiştir; ya da aşırı tuzlu/yoğun bir sıvı verilmiştir (yanlış hazırlanmış mama, hatalı ORS, kaynatılarak yoğunlaşmış karışım). Hücre dışı sıvı hipertoniktir; su **hücre içinden dışına çıkar**.
+- **Klinik sonuç:** Hücre dışı bölme görece korunduğu için **dolaşım bulguları geç çıkar**; hasta olduğundan daha az dehidrate görünür ve derece **olduğundan hafif** tahmin edilir. Bu tipin en tehlikeli yanı budur.
+- Deride **hamur kıvamı** (doughy) hissi tipiktir; turgor yanıltıcıdır.
+- **Beyin hücrelerinden su çekilir:** irritabilite, keskin ağlama, kas tonusunda artış, hiperrefleksi, letarji ve nöbet. Beyin büzüşürken köprü venlerinin yırtılmasıyla **kanama**, ayrıca **serebral ven trombozu** görülebilir.
+- **Tedavi — en kritik nokta:** Beyin hücreleri hipertonik ortama uyum sağlamak için içlerinde "idiyojenik ozmoller" biriktirmiştir. Sıvı hızla verilirse hücre dışı ozmolalite aniden düşer, su bu ozmollerin peşinden beyin hücrelerine hücum eder ve **beyin ödemi** gelişir. Bu yüzden hipernatremik dehidratasyonda açık **48 saate yayılarak yavaş** kapatılır; serum sodyumu saatte **0,5 mEq/L**'den, günde **10-12 mEq/L**'den hızlı düşürülmez.
+?? **Hiponatremik: şok erken, düzeltme yavaş (pontin miyelinoliz). Hipernatremik: bulgular geç ve aldatıcı, düzeltme 48 saate yayılır (beyin ödemi).**
+
+## 2.5 Ağızdan sıvı tedavisi (ORS)
+### Fizyolojik temeli
+ORS, 20. yüzyılın en çok hayat kurtaran basit tıbbi uygulamalarından biridir ve tek bir fizyolojik gerçeğe dayanır: **sodyum-glukoz kotransportu (SGLT1), ishal sırasında bile çalışmaya devam eder.**
+Bölüm 1'de anlatıldığı gibi, kolera toksini ve ETEC toksinleri hücre içi cAMP'yi yükselterek iki şey yapar: CFTR klor kanalını açar (salgı artar) ve NHE3 sodyum taşıyıcısını baskılar (emilim durur). Ancak bu toksinler **SGLT1'e dokunamaz**. Lümende glukoz bulunduğu sürece, bu taşıyıcı bir glukoz molekülüyle birlikte sodyumu hücreye taşımayı sürdürür; sodyumun peşinden klor ve su gelir. Böylece ishal tüm hızıyla sürerken bile bağırsaktan net su emilimi sağlanabilir.
+**Oran neden kritiktir?** Glukoz ile sodyum yaklaşık **1:1 molar oranda** bulunmalıdır:
+- **Glukoz fazlaysa** (meyve suyu, kola, şekerli çay, sulandırılmamış hazır içecek), emilemeyen şeker lümende kalır ve **ozmotik olarak su çeker** — ishal ağırlaşır.
+- **Tuz fazlaysa** hipernatremi gelişir.
+Bu yüzden **evde tartıyla ORS hazırlamak doğru değildir**: evde saf madde ve hassas tartı yoktur, oranlar kaçar. Hazır paketler kullanılır.
+
+### Formülün gelişimi
+| | Eski DSÖ ORS (1975) | **Düşük ozmolar ORS (2002, güncel)** |
+| Sodyum | 90 mmol/L | **75 mmol/L** |
+| Glukoz | 111 mmol/L | **75 mmol/L** |
+| Potasyum | 20 mmol/L | 20 mmol/L |
+| Klor | 80 mmol/L | 65 mmol/L |
+| Sitrat (ya da bikarbonat) | 10 mmol/L | 10 mmol/L |
+| **Toplam ozmolarite** | **311 mOsm/L** | **245 mOsm/L** |
+|= ORS formülleri. Eski formülün ağırlık ölçüleri: NaCl 3,5 g + NaHCO₃ 2,5 g + KCl 1,5 g + glukoz 20 g / 1 litre.
+Düşük ozmolar formüle geçilmesinin nedeni, eski formülün plazmadan daha hipertonik olması ve bunun hem dışkı hacmini hem hipernatremi riskini artırmasıydı. Yeni formülle dışkı hacmi, kusma ve damar yolu tedavisi gereksinimi azalmıştır.
+**Bileşenlerin işlevi:** Sodyum suyu çeker; glukoz sodyumun taşınmasını sağlar; **potasyum** ishalle kaybedilen ve hipokalemiyi önleyen iyondur; **sitrat/bikarbonat** metabolik asidozu düzeltir.
+
+### Hazırlama (adım adım)
+1. **Eller sabun ve suyla iyice yıkanır.**
+2. Temiz bir kaba **1 litre (yaklaşık 5 su bardağı) kaynatılmış ve soğutulmuş su** konur.
+3. **Bir paket ORS tozu soğumuş suya eklenir** ve temiz bir kaşıkla tümüyle eriyene kadar karıştırılır.
+4. Kabın ağzı kapatılıp temiz, serin bir yerde saklanır.
+5. **24 saat sonra artan dökülür**; her gün taze hazırlanır.
+!! **En sık sorulan hata:** "Paket suya eklendikten sonra su 10 dakika kaynatılır." Bu **yanlıştır**. Kaynatma suyun bir bölümünü buharlaştırır, karışımı yoğunlaştırır (hipertonik hâle getirir) ve hipernatremi riski doğurur; ayrıca ısı glukozu bozabilir. **Önce kaynat, sonra soğut, en son tozu ekle.**
+
+### Kimlere verilir, kimlere verilmez
+**Verilir:**
+- Bilinci açık, ağızdan aldığını **yutabilen herkese**.
+- **Yenidoğan dahil her yaş grubuna**, düşük doğum ağırlıklı bebeklere de.
+- **Etiyolojiden bağımsız** tüm ishallerde (kolera, viral, bakteriyel, paraziter).
 - Serum sodyumu **115-165 mEq/L** arasındaki hipo- ve hipernatremilerde.
-- **Ateş kontrendikasyon değildir.**
-**Verilmez (damar yolu gerekir):** şok ve ağır dehidratasyonun ilk evresi, bilinç bozukluğu, ileus, sürekli ve şiddetli kusma, glukoz malabsorbsiyonu, çok hızlı devam eden kayıp.
-**Miktar:**
-- **Rehidratasyon evresi** (açığın kapatılması): hafif dehidratasyonda **50 ml/kg**, orta dehidratasyonda **100 ml/kg** ORS **4-6 saatte** içirilir.
-- **İdame evresi:** devam eden kayıplar her sulu dışkıdan sonra yerine konur (2 yaş altı 50-100 ml, 2-10 yaş 100-200 ml); beslenme ve emzirme kesilmez.
-- Dehidrate olmayan bebeğe **rehidratasyon için** ORS gerekmez; ishal devam ettikçe kayıpları önlemek için verilir.
-?? **ORS kuralları: “Kaynat-soğut-sonra ekle; 24 saatte dök; 50/100 ml/kg 4-6 saatte; Na 115-165; ateş engel değil; yenidoğana da.”**
+- **Ateş kontrendikasyon değildir** — tersine ateş insensibl kaybı artırdığı için sıvı gereksinimini yükseltir.
+- Kusma mutlak engel değildir: sık, az miktarda (5-10 dakikada bir kaşık/yudum) verilerek çoğu kez başarılabilir.
+**Verilmez (damar yolu gerekir):**
+- **Şok ve ağır dehidratasyonun ilk evresi.**
+- **Bilinç bozukluğu**, yutma güçlüğü, aspirasyon riski.
+- **İleus**, karın distansiyonu, cerrahi karın.
+- **Dinmeyen, şiddetli kusma.**
+- **Glukoz malabsorbsiyonu** (nadir; ORS ishali artırır).
+- Kaybın çok hızlı olduğu, ağızdan verilenin yetişemediği durumlar.
 
-## Damar yolu tedavisinin izlenmesi
-Ağır dehidratasyonda damar yolundan izotonik sıvıyla (serum fizyolojik ya da Ringer laktat) başlanır, hasta içebilir hâle gelince ORS'ye geçilir. Tedavinin başarılı olduğu şunlardan anlaşılır: **vital bulgular stabil**, **fizyolojik oligüri kaybolmuş ve idrar dansitesi düşmüş**, ishal devam etse bile **kilo alımı var**, **metabolik asidoz düzelmiş**, BUN ve kreatinin normale dönmüş. Bunların hepsi birlikte değerlendirilir.
+### Miktar ve uygulama
+**Rehidratasyon evresi** (var olan açığın kapatılması, 4-6 saat):
+- **Hafif dehidratasyon: 50 ml/kg**
+- **Orta dehidratasyon: 100 ml/kg**
+Bu miktar 4-6 saate yayılarak, kaşık kaşık ya da küçük yudumlarla verilir.
+**İdame ve devam eden kayıplar:** Her sulu dışkıdan sonra kayıp kadar sıvı eklenir:
+- 2 yaş altı: **50-100 ml**
+- 2-10 yaş: **100-200 ml**
+- Büyük çocuk ve erişkin: istediği kadar
+**Dehidratasyonu olmayan bebeğe rehidratasyon için ORS gerekmez** — kapatılacak bir açık yoktur. Ancak ishal sürdükçe devam eden kayıpları önlemek için ORS verilir.
+**Beslenme kesilmez:** Emzirme sürdürülür; yaşa uygun beslenmeye rehidratasyondan hemen sonra dönülür. Çocukta **çinko** (6 ay üstü 20 mg/gün, 10-14 gün) eklenir.
+?? **ORS kuralları:** Kaynat–soğut–sonra ekle; 24 saatte dök; hafif 50, orta 100 ml/kg, 4-6 saatte; Na 115-165 arasında verilebilir; ateş engel değil; yenidoğana da verilir; evde formül hazırlanmaz.
 
-## Bölüm özeti
-- Dehidratasyon etiyolojisi: alım azlığı, gastroenterit, solüt yükü artışı, ADH azalması, insensibl kayıp artışı. ADH artışı ve solüt yükü azalması dehidratasyon yapmaz.
-- Hipotansiyon, cutis marmorata, letarji-koma, oligüri → ağır dehidratasyon (≥ %10).
-- ORS: kaynamış-soğumuş 1 litre suya paket eklenir, kaynatılmaz, 24 saatte dökülür; evde formül hazırlanmaz.
-- ORS yenidoğan dahil herkese, her ishalde, Na 115-165 mEq/L aralığında verilir; ateş engel değildir.
-- Rehidratasyon: hafif 50, orta 100 ml/kg, 4-6 saatte.
+## 2.6 Damar yolu tedavisi
+### Ne zaman?
+Şok, ağır dehidratasyon, bilinç bozukluğu, dinmeyen kusma, ileus ve ağızdan tedavinin başarısız olduğu durumlarda.
+### Nasıl?
+**1. Hızlı dolum (resüsitasyon):** **İzotonik sıvı** (serum fizyolojik ya da Ringer laktat) **20 ml/kg**, 20-30 dakikada hızlı verilir. Dolaşım düzelene kadar gerekirse tekrarlanır. Hipotonik sıvı bu evrede kullanılmaz — damar içinde kalmaz ve hiponatremi yapar.
+**2. Açığın kalanının karşılanması:** Hesaplanan açıktan verilen bolus düşülür; kalan, izonatremik ve hiponatremik dehidratasyonda **24 saate**, **hipernatremik dehidratasyonda 48 saate** yayılır.
+**3. İdame sıvısı eklenir** (Holliday-Segar kuralı):
+| Ağırlık | Günlük idame |
+| İlk 10 kg | 100 ml/kg |
+| İkinci 10 kg | + 50 ml/kg |
+| 20 kg üstü her kg | + 20 ml/kg |
+|= Holliday-Segar idame sıvı hesabı. Örnek: 25 kg çocuk → 1000 + 500 + 100 = 1600 ml/gün.
+**4. Devam eden kayıplar** ayrıca eklenir.
+**5. Potasyum**, hasta **idrar yapmaya başladıktan sonra** sıvıya eklenir (genellikle 20 mEq/L); anürik hastaya potasyum verilmez.
+Hasta ağızdan alabilir hâle gelir gelmez **ORS'ye geçilir**; damar yolu gereksiz yere uzatılmaz.
+
+### Tedavinin başarılı olduğu nasıl anlaşılır?
+Tek bir ölçüte bakılmaz; şu bulguların **birlikte** düzelmesi aranır:
+- **Vital bulgular stabildir:** kalp hızı normale döner, kan basıncı ve kapiller dolum düzelir, ekstremiteler ısınır.
+- **Fizyolojik oligüri kaybolmuş ve idrar dansitesi düşmüştür.** Mantığı: böbrek perfüzyonu bozulduğunda böbrek suyu tutar (oligüri) ve idrarı koyulaştırır; perfüzyon düzelince bu savunma gevşer, idrar miktarı artar ve dansitesi düşer. Bu, hacmin yerine geldiğinin en duyarlı göstergelerindendir.
+- **İshal sürse bile kilo artmıştır:** alınan sıvı kaybı aştığı için net kazanç vardır.
+- **Metabolik asidoz düzelmiştir:** doku perfüzyonu düzelip laktat üretimi azalmış, bikarbonat kaybı karşılanmıştır.
+- **BUN ve kreatinin normale dönmüştür:** prerenal azotemi gerilemiştir.
+- Bilinç açılmış, susuzluk hissi normale dönmüştür.
+
+### Komplikasyonlar
+- **Hipernatremide hızlı düzeltme → beyin ödemi, nöbet.**
+- **Hiponatremide hızlı düzeltme → ozmotik demiyelinizasyon (santral pontin miyelinoliz).**
+- **Aşırı sıvı yüklenmesi:** özellikle kalp ya da böbrek hastalığı olanda ödem, akciğer ödemi.
+- **Hipokalemi:** ishalle kaybedilen potasyum yerine konmazsa kas güçsüzlüğü, ileus, aritmi.
+- **Hipoglisemi:** uzun süre aç kalan, beslenemeyen küçük bebekte; glukozlu sıvı gerekir.
+- **Yeniden beslenme sırasında** malnütrisyonlu çocukta elektrolit kaymaları.
+
+## 2.7 Bölüm özeti
+- Vücut suyunun 2/3'ü hücre içi, 1/3'ü hücre dışıdır; bebekte hücre dışı pay büyüktür, döngü hızlıdır, böbrek idrarı yoğunlaştıramaz — bu yüzden çabuk dehidrate olur.
+- Nedenler: yetersiz alım, gastroenterit, böbrek solüt yükünün **artması**, ADH'nin **azalması**, insensibl kaybın **artması**. ADH artışı ve solüt yükü azalması dehidratasyon yapmaz.
+- Bulgular sırayla çıkar: susuzluk → doku (turgor, fontanel, göz) → dolaşım (taşikardi, hipotansiyon, soğuk alacalı deri, letarji, oligüri). Son grup varsa **ağır (≥ %10)** dehidratasyondur.
+- Dışkı kıvamı derecelendirmede kullanılmaz.
+- İzonatremik en sık; hiponatremikte şok erken çıkar, düzeltme yavaş olmalı (pontin miyelinoliz); hipernatremikte bulgular aldatıcı biçimde hafif görünür, açık 48 saate yayılır (beyin ödemi).
+- ORS, toksinin kapatamadığı SGLT1 üzerinden çalışır; glukoz:sodyum oranı 1:1 olmalıdır. Güncel formül düşük ozmolardır (245 mOsm/L).
+- Hazırlama: kaynat, soğut, sonra paketi ekle; kaynatarak yoğunlaştırma hatadır; 24 saatte tazele.
+- ORS yenidoğan dahil herkese, her ishalde, Na 115-165 aralığında verilir; ateş engel değildir. Şok, bilinç bozukluğu, ileus ve dinmeyen kusmada damar yolu gerekir.
+- Rehidratasyon: hafif 50, orta 100 ml/kg, 4-6 saatte. Damar yolunda önce 20 ml/kg izotonik bolus, sonra açık + idame (Holliday-Segar); potasyum idrar çıkınca eklenir.
+- Başarı ölçütleri: stabil vital bulgular, oligürinin kalkması ve idrar dansitesinin düşmesi, ishale rağmen kilo alımı, asidozun ve BUN-kreatininin düzelmesi.

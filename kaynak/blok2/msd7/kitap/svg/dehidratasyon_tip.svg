@@ -1,0 +1,37 @@
+<svg viewBox="0 0 720 310" width="100%" style="display:block;font-family:Source Serif 4,Georgia,serif" role="img" aria-label="Izonatremik hiponatremik hipernatremik dehidratasyonda su hareketi">
+<defs><marker id="ok" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3a3533"/></marker></defs>
+<text x="360.0" y="22.0" text-anchor="middle" font-size="13" font-weight="700" fill="#3a3533">Dehidratasyon tipleri: su nereye gider?</text>
+<text x="135.0" y="50.0" text-anchor="middle" font-size="12" font-weight="700" fill="#0b6e99">İzonatremik</text>
+<text x="135.0" y="64.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">Na 130-150</text>
+<rect x="40" y="78" width="190" height="52" rx="4" fill="#f2ece4" stroke="#3a3533"/>
+<text x="135.0" y="98.0" text-anchor="middle" font-size="10" font-weight="700" fill="#3a3533">Hücre dışı (ECF)</text>
+<text x="135.0" y="112.0" text-anchor="middle" font-size="9" font-weight="400" fill="#6b6460">damar + interstisyum</text>
+<rect x="40" y="140" width="190" height="52" rx="4" fill="#e4eef2" stroke="#3a3533"/>
+<text x="135.0" y="160.0" text-anchor="middle" font-size="10" font-weight="700" fill="#3a3533">Hücre içi (ICF)</text>
+<text x="135.0" y="176.0" text-anchor="middle" font-size="9.5" font-weight="400" fill="#6b6460" font-style="italic">değişmez</text>
+<text x="135.0" y="210.0" text-anchor="middle" font-size="9.5" font-weight="400" fill="#3a3533">Su ve tuz eşit kaybedilir</text>
+<rect x="40" y="220" width="190" height="34" rx="4" fill="#fff" stroke="#0b6e99"/><text x="135.0" y="241.0" text-anchor="middle" font-size="9.5" font-weight="400" fill="#3a3533">ECF küçülür, ICF korunur</text>
+<text x="365.0" y="50.0" text-anchor="middle" font-size="12" font-weight="700" fill="#b4541a">Hiponatremik</text>
+<text x="365.0" y="64.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">Na < 130</text>
+<rect x="270" y="78" width="190" height="52" rx="4" fill="#f2ece4" stroke="#3a3533"/>
+<text x="365.0" y="98.0" text-anchor="middle" font-size="10" font-weight="700" fill="#3a3533">Hücre dışı (ECF)</text>
+<text x="365.0" y="112.0" text-anchor="middle" font-size="9" font-weight="400" fill="#6b6460">damar + interstisyum</text>
+<rect x="270" y="140" width="190" height="52" rx="4" fill="#e4eef2" stroke="#3a3533"/>
+<text x="365.0" y="160.0" text-anchor="middle" font-size="10" font-weight="700" fill="#3a3533">Hücre içi (ICF)</text>
+<line x1="365" y1="150" x2="365" y2="128" stroke="#b4541a" stroke-width="1.3" marker-end="url(#ok)"/>
+<text x="365.0" y="176.0" text-anchor="middle" font-size="9.5" font-weight="400" fill="#b4541a" font-style="italic">su ICF'ye kaçar</text>
+<text x="365.0" y="210.0" text-anchor="middle" font-size="9.5" font-weight="400" fill="#3a3533">Tuz daha çok kaybedildi</text>
+<rect x="270" y="220" width="190" height="34" rx="4" fill="#fff" stroke="#b4541a"/><text x="365.0" y="241.0" text-anchor="middle" font-size="9.5" font-weight="400" fill="#3a3533">ECF en çok küçülür → şok erken</text>
+<text x="595.0" y="50.0" text-anchor="middle" font-size="12" font-weight="700" fill="#5b3f8c">Hipernatremik</text>
+<text x="595.0" y="64.0" text-anchor="middle" font-size="10" font-weight="400" fill="#6b6460">Na > 150</text>
+<rect x="500" y="78" width="190" height="52" rx="4" fill="#f2ece4" stroke="#3a3533"/>
+<text x="595.0" y="98.0" text-anchor="middle" font-size="10" font-weight="700" fill="#3a3533">Hücre dışı (ECF)</text>
+<text x="595.0" y="112.0" text-anchor="middle" font-size="9" font-weight="400" fill="#6b6460">damar + interstisyum</text>
+<rect x="500" y="140" width="190" height="52" rx="4" fill="#e4eef2" stroke="#3a3533"/>
+<text x="595.0" y="160.0" text-anchor="middle" font-size="10" font-weight="700" fill="#3a3533">Hücre içi (ICF)</text>
+<line x1="595" y1="126" x2="595" y2="148" stroke="#5b3f8c" stroke-width="1.3" marker-end="url(#ok)"/>
+<text x="595.0" y="176.0" text-anchor="middle" font-size="9.5" font-weight="400" fill="#5b3f8c" font-style="italic">su ICF'den çıkar</text>
+<text x="595.0" y="210.0" text-anchor="middle" font-size="9.5" font-weight="400" fill="#3a3533">Su daha çok kaybedildi</text>
+<rect x="500" y="220" width="190" height="34" rx="4" fill="#fff" stroke="#5b3f8c"/><text x="595.0" y="241.0" text-anchor="middle" font-size="9.5" font-weight="400" fill="#3a3533">ECF korunur → bulgular geç, beyin büzüşür</text>
+<rect x="140" y="268" width="440" height="30" rx="4" fill="#faf7f2" stroke="#8a1c3c"/><text x="360.0" y="287.0" text-anchor="middle" font-size="10" font-weight="700" fill="#3a3533">Hipernatremide sıvı YAVAŞ verilir (48 saat): hızlı düzeltme beyin ödemi yapar</text>
+</svg>

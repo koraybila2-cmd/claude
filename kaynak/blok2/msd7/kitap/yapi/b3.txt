@@ -1,54 +1,132 @@
-# Su ve Besin Kaynaklı Salgınlar | Su ve besinlerle bulaşan hastalıkların epidemiyolojik özellikleri, enfeksiyon zinciri ve mücadelede müdahalenin hedefleri, besin enfeksiyonu ile besin entoksikasyonu farkı ve içme suyu izlemleri. Sınavın en çok tekrar eden bölümü: 42 soru yalnızca 9 farklı sorudan oluşuyor. Gönderilen sunumlarda bu halk sağlığı konusu yok. || Bölüm 3 · Halk sağlığı
+# Su ve Besin Kaynaklı Salgınlar | Bulaşıcı hastalık epidemiyolojisinin temel kavramları, enfeksiyon zinciri ve zincirin nerede kırılacağı, su ve besinle bulaşan hastalıkların özellikleri, salgın incelemesi ve salgın eğrisi, besin enfeksiyonu ile entoksikasyon ayrımı, içme suyunun güvenliği ve izlemi. || Bölüm 3 · Halk sağlığı
 
-## Su ve besinlerle bulaşan hastalıkların özellikleri
-Bu gruptaki hastalıklarda (kolera, tifo, şigelloz, hepatit A ve E, amipli dizanteri, giardiyazis, viral gastroenteritler, poliomiyelit) etken hasta ya da taşıyıcının dışkısıyla çevreye çıkar ve su ya da besin yoluyla sağlam kişinin ağzına ulaşır.
-- **Genellikle dışkı-ağız yoluyla bulaşırlar.**
-- **Genellikle endemiktirler:** Altyapısı yetersiz bölgelerde toplumda sürekli bulunurlar.
-- **Sıklıkla epidemi yaparlar:** Ortak bir su ya da besin kaynağı kirlendiğinde o kaynağı kullanan herkes aynı anda maruz kalır.
-- **Su kaynaklı olanlar patlayıcı tarzda salgın yapar:** Şebeke suyu binlerce kişiye aynı anda ulaştığı için olgular kısa sürede, birden yükselir. Besin kaynaklı salgınlar ise genellikle o besini yiyen bir grupla sınırlı kalır.
-- **Mevsimsel farklılık gösterirler; yaz ve sonbaharda artarlar.** Sıcakta bakteriler besinde hızla çoğalır, su tüketimi artar, sinekler çoğalır, piknik ve bayram yemekleri artar, yağışlarla kanalizasyon taşkınları olur. “Kış aylarında daha çok görülürler” ve “mevsimsel farklılık görülmez” yanlıştır. (Rotavirüs ve norovirüs kış etkenleridir, ama bu genel özelliği değiştirmez.)
-?? **Su-besin hastalıkları “DEES-Y”:** **D**ışkı-ağız, **E**ndemik, **E**pidemi, **S**u ise patlayıcı, **Y**azın artar. Bu soru 7 kez geldi; cevap 6 kez “kış aylarında daha çok görülürler”, bir kez “mevsimsel farklılık görülmez”di.
+## 3.1 Temel epidemiyolojik kavramlar
+Bir hastalığın toplumdaki görülme biçimini tanımlayan dört terim vardır ve su-besin kaynaklı hastalıklar bunların hepsiyle karşımıza çıkar:
+- **Sporadik:** Birbirinden bağımsız, dağınık, tek tük olgular (ör. ülkemizde tek tük botulizm olgusu).
+- **Endemik:** Bir hastalığın belirli bir bölgede **sürekli**, beklenen düzeyde bulunması. Altyapısı yetersiz bölgelerde hepatit A ve giardiyazis endemiktir.
+- **Epidemik (salgın):** Olgu sayısının o bölgede **beklenenin belirgin üstüne** çıkması. "Beklenen" eşik hastalığa göre değişir: tifo gibi bir hastalıkta tek bir olgu bile salgın incelemesi başlatır, oysa rotavirüs gastroenteritinde kış aylarındaki artış beklenen bir dalgalanmadır.
+- **Pandemik:** Kıtalararası yayılan salgın (koleranın yedi pandemisi, 2009 influenza).
+İki ek kavram klinikte sık kullanılır:
+- **Atak hızı:** Riskli grupta hastalananların oranı. Salgın incelemesinin temel ölçüsüdür: *Atak hızı = (hastalananlar / maruz kalanlar) × 100.* Düğünde pilav yiyen 80 kişiden 36'sı hastalandıysa pilavın atak hızı %45'tir; yemeyenlerde bu oran %4 ise şüpheli besin bulunmuş demektir.
+- **Taşıyıcı (portör):** Belirti göstermeden etkeni taşıyan ve saçan kişi. Su-besin hastalıklarında mücadelenin en zor halkasıdır; sağlıklı göründüğü için kendisi de çevresi de farkında değildir. Tifoda **kronik safra kesesi taşıyıcılığı** klasik örnektir.
 
-## Enfeksiyon zinciri ve en zayıf halka
-Bulaşıcı hastalık zinciri üç halkadan oluşur: **kaynak** (hasta, taşıyıcı ya da hayvan), **bulaşma yolu** ve **sağlam (duyarlı) kişi**. Mücadele bu halkalardan birini ya da birkaçını kırmaya yöneliktir. Bir halkanın “zayıf” olması, oraya yapılan müdahaleyle zincirin en kolay ve en etkili biçimde kırılması demektir.
-Su ve besinle bulaşan hastalıklarda kaynak çoğu zaman belirtisiz taşıyıcılardır ve hepsini bulmak olanaksızdır; sağlam kişiyi korumak için de her etkene karşı aşı yoktur. Buna karşılık **bulaşma yolu**, yani su ve besin, tek bir noktada denetlenebilir: şebeke suyunun klorlanması bir şehri bir anda korur. Bu nedenle bu hastalık grubunda enfeksiyon zincirinin **en zayıf halkası bulaşma yoludur**. (Havayla bulaşan hastalıklarda ise bulaşma yolu denetlenemediği için en zayıf halka sağlam kişidir: aşılama.)
-?? **Su-besin hastalığında zincirin en zayıf halkası = bulaşma yolu** (6 kez soruldu). Suyu klorla, besini denetle; zincir kırılır.
+## 3.2 Enfeksiyon zinciri ve zincirin kırılması
+Bulaşıcı hastalığın ortaya çıkması için bir dizi halkanın arka arkaya tamamlanması gerekir. Ayrıntılı (altı halkalı) model şudur:
+**Etken → Rezervuar (kaynak) → Çıkış kapısı → Bulaşma yolu → Giriş kapısı → Duyarlı konak**
+Halk sağlığı uygulamasında bu zincir üç başlıkta toplanır ve mücadele bu üç başlığa göre planlanır:
+| Halka | İçeriği | Su-besin hastalıklarında |
+| **Kaynak** | hasta, taşıyıcı, hayvan rezervuarı | insan dışkısı (tifo, hepatit A, kolera); hayvan bağırsağı (*Salmonella*, *Campylobacter*, EHEC) |
+| **Bulaşma yolu** | su, besin, el, sinek, eşya | **dışkı-ağız yolu**: kirlenmiş içme suyu, yıkanmamış sebze, pişmemiş et, kirli eller |
+| **Duyarlı (sağlam) kişi** | bağışıklığı olmayan herkes | özellikle çocuk, yaşlı, bağışıklığı baskılı, aklorhidrik kişi |
+|= Enfeksiyon zincirinin üç halkası.
 
-## Mücadelede müdahaleler: hangi halkaya yönelik?
-| Halka | Müdahaleler |
-| **Kaynağa yönelik** | **filyasyon** (kaynağın ve temaslıların araştırılması), ihbar, **ayırma (izolasyon)**, **tedavi**, taşıyıcıların saptanıp tedavisi, hasta ve taşıyıcıya **sağlık eğitimi** (el hijyeni, gıda işinden uzaklaştırma) |
-| **Bulaşma yoluna yönelik** | **suların dezenfeksiyonu** (klorlama), **gıda sanitasyonu** ve denetimi, kanalizasyon ve dışkının uzaklaştırılması, sinekle mücadele, el yıkama |
-| **Sağlam kişiye yönelik** | **karantina** (temaslının kuluçka süresi boyunca gözetim altında tutulması), aşılama (tifo, kolera, hepatit A), kemoprofilaksi, sağlık eğitimi |
-|= Su ve besin kaynaklı salgınlarda müdahaleler. Sınavın “kaynağa yönelik olanlar” sorusunun cevabı her yıl I-II-VI-VII: filyasyon, ayırma, tedavi, sağlık eğitimi.
-**Karantina ile ayırma (izolasyon) farkı:** Ayırma **hastanın** başkalarına bulaştırmaması için ayrılmasıdır (kaynağa yönelik). Karantina ise hastayla temas etmiş, henüz hastalanmamış **sağlam kişinin** kuluçka süresinin en uzun hâli boyunca kısıtlanması ve izlenmesidir; hastalanırsa erken yakalanır, hastalanmazsa salıverilir. Bu yüzden sınavda karantina “sağlam kişiye yönelik” müdahaledir.
-?? **“FATS” kaynağa yöneliktir:** **F**ilyasyon, **A**yırma, **T**edavi, **S**ağlık eğitimi. **Su ve gıda** (dezenfeksiyon, sanitasyon) bulaşma yoluna, **karantina** sağlam kişiye. “Kaynağa yönelik” sorusu 7 kez, “sağlam kişiye yönelik” sorusu 6 kez geldi.
+### Hangi halka "en zayıf halkadır"?
+Bir halkanın zayıf olması, **oraya yapılan müdahaleyle zincirin en kolay ve en etkili biçimde kırılması** demektir. Her hastalık grubunda bu halka farklıdır ve bu, halk sağlığının en temel stratejik kararıdır.
+Su ve besinle bulaşan hastalıklarda durum şudur:
+- **Kaynağa ulaşmak çok zordur:** Hastalar bulunabilir, ama asıl rezervuar **belirtisiz taşıyıcılardır** ve hepsini saptamak olanaksızdır. Hayvan rezervuarı (kümes hayvanları, sığır, domuz) ise tümüyle ortadan kaldırılamaz.
+- **Sağlam kişiyi korumak sınırlıdır:** Bu gruptaki hastalıkların çoğu için etkili ve yaygın kullanılan bir aşı yoktur (tifo, kolera ve hepatit A aşıları vardır ama rutin toplumsal kullanımı sınırlıdır).
+- **Bulaşma yolu ise tek bir noktadan denetlenebilir:** Şebeke suyunun klorlanması bir şehrin tamamını aynı anda korur. Gıda denetimi, kanalizasyon altyapısı ve el hijyeni aynı zincir halkasını hedefler.
+Bu nedenle **su ve besinle bulaşan hastalıklarda enfeksiyon zincirinin en zayıf halkası bulaşma yoludur.**
+Karşılaştırma yapmak anlamayı kolaylaştırır: **havayla bulaşan** hastalıklarda (kızamık, suçiçeği) bulaşma yolunu denetlemek neredeyse olanaksızdır — havayı klorlayamayız. Orada en zayıf halka **sağlam kişidir** ve mücadelenin ekseni **aşılamadır**.
+?? **Su-besin hastalığında en zayıf halka = bulaşma yolu (suyu klorla, besini denetle). Havayla bulaşanda = sağlam kişi (aşı).**
 
-## Besin enfeksiyonu ve besin entoksikasyonu
-Besin kaynaklı hastalıklar iki gruba ayrılır. Ayrımın özü, hastalığı yapanın **canlı mikroorganizmanın kendisi** mi yoksa **besinde hazır bulunan toksini** mi olduğudur.
-| | Besin enfeksiyonu | Besin entoksikasyonu (zehirlenmesi) |
-| Hastalığı yapan | besinle alınan canlı mikroorganizma bağırsakta çoğalır | besinde mikroorganizmanın önceden ürettiği toksin |
-| Kuluçka | **uzun** (12-72 saat, günler) | **kısa** (dakikalar - birkaç saat) |
-| Ön planda | **ishal**, ateş, karın ağrısı | **kusma**, bulantı; ateş yok ya da hafif |
-| Örnek | *Salmonella*, *Shigella*, *Campylobacter*, EHEC, *Y. enterocolitica*, hepatit A | *S. aureus*, *B. cereus* (kusma tipi), *C. botulinum* |
-|= Besin enfeksiyonu ile entoksikasyonun farkı. *C. perfringens* ve *B. cereus*'un ishal tipi arada durur: bakteri bağırsakta toksin salar.
-**Entoksikasyonlar içinde kuluçkası en kısa olan *S. aureus*'tur** (ortalama 2-4 saat, 30 dakikadan 6 saate). Botulizmde kuluçka daha uzundur (12-36 saat) ve tablo nörolojiktir.
-?? **Entoksikasyon = “Erken, Emezis”** (kuluçka kısa, kusma önde); **Enfeksiyon = “Geç, Gaita”** (kuluçka uzun, ishal önde). Bu soru 6 kez geldi; cevap her yıl “entoksikasyonlarda kuluçka daha kısadır”.
+### Müdahaleler: hangi halkaya yönelik?
+| Halka | Müdahaleler | Tanım |
+| **Kaynağa yönelik** | **filyasyon**, ihbar/bildirim, **ayırma (izolasyon)**, **tedavi**, taşıyıcı taraması ve tedavisi, hasta ve taşıyıcıya **sağlık eğitimi**, taşıyıcının gıda işinden uzaklaştırılması | etkeni kaynağında yok etmek ya da çevreye saçılmasını durdurmak |
+| **Bulaşma yoluna yönelik** | **suların dezenfeksiyonu (klorlama)**, **gıda sanitasyonu** ve denetimi, kanalizasyon ve atık yönetimi, sinekle mücadele, el yıkama, pastörizasyon, soğuk zincir | etkenin kaynaktan sağlam kişiye ulaşmasını engellemek |
+| **Sağlam kişiye yönelik** | **karantina**, aşılama (tifo, kolera, hepatit A), kemoprofilaksi, bağışıklama, sağlık eğitimi, beslenmenin iyileştirilmesi | kişiyi dayanıklı kılmak ya da maruziyetini önlemek |
+|= Su ve besin kaynaklı salgınlarda müdahalelerin halkalara göre dağılımı.
+**Üç terimin kesin ayrımı** (sınavın en sevdiği nokta):
+- **Filyasyon:** Bir olgudan yola çıkarak **hastalığın kaynağını ve temaslıları araştırmak**; zincirin geriye ve ileriye doğru izlenmesi. Kaynağı bulmayı hedeflediği için **kaynağa yöneliktir**.
+- **Ayırma (izolasyon):** **Hastanın**, bulaştırıcı olduğu süre boyunca başkalarından ayrılmasıdır. Hedef kaynaktır → **kaynağa yöneliktir**.
+- **Karantina:** Hastayla temas etmiş ama **henüz hastalanmamış sağlam kişinin**, hastalığın **en uzun kuluçka süresi** boyunca gözlem altında tutulması ve hareketinin kısıtlanmasıdır. Hastalanırsa erken yakalanır, hastalanmazsa süre sonunda serbest bırakılır. Hedef sağlam kişidir → **sağlam kişiye yöneliktir**.
+?? **"FATS" kaynağa yöneliktir:** **F**ilyasyon, **A**yırma, **T**edavi, **S**ağlık eğitimi. **Su ve gıda** (dezenfeksiyon, sanitasyon) bulaşma yoluna; **karantina ve aşı** sağlam kişiye yöneliktir.
 
-## İçme ve kullanma suyu izlemleri
-İnsani tüketim amaçlı sular hakkındaki yönetmelik, şebeke sularının iki tür izlemle denetlenmesini öngörür:
-| İzlem | Sıklık | Parametre |
-| **Kontrol izlemi** | **sık aralarla** (rutin) | **yalnız belli başlı parametreler**: koku, tat, renk, bulanıklık, pH, iletkenlik, bakiye klor, *E. coli*, koliform bakteri, amonyum vb. |
-| **Denetleme izlemi** | **belirli aralarla** (daha seyrek) | **tüm parametreler**: mikrobiyolojik, kimyasal (ağır metaller, nitrat, pestisitler), indikatör ve radyoaktivite |
-|= Su izlemleri. “Sık + belli başlı = kontrol”, “belirli aralarla + tüm parametreler = denetleme”.
-**Kontrol izlemi**, suyun o anki içilebilirliğini ve dezenfeksiyonun çalışıp çalışmadığını hızlıca gösterir. **Denetleme izlemi**, suyun yönetmelikteki bütün değerlere uyup uymadığını belgeler.
-?? **“Kontrol = Kısa liste, Kısa aralık; Denetleme = Dört dörtlük, tüm parametreler.”** Su izlemi sorusu 8 kez geldi: 6 kez denetleme izlemi, 2 kez kontrol izlemi soruldu. Soruyu okurken “tüm” mü “belli başlı” mı dediğine bakın.
+## 3.3 Su ve besinle bulaşan hastalıkların özellikleri
+Bu gruba kolera, tifo ve paratifo, şigelloz, hepatit A ve E, amipli dizanteri, giardiyazis, viral gastroenteritler, bruselloz (süt), poliomiyelit ve listeriyoz girer. Ortak özellikleri şunlardır:
+1. **Genellikle dışkı-ağız yoluyla bulaşırlar.** Etken hasta ya da taşıyıcının dışkısıyla çevreye çıkar; su, besin, el ya da sinek aracılığıyla başka birinin ağzına ulaşır. (Bruselloz ve listeriyoz gibi hayvan kaynaklı birkaçı bu kalıbın dışındadır.)
+2. **Genellikle endemiktirler.** Altyapı yetersizse toplumda sürekli bulunurlar; tümüyle ortadan kalkmaz, arka planda devam ederler.
+3. **Sıklıkla epidemi yaparlar.** Ortak bir su ya da besin kaynağı kirlendiğinde, o kaynağı kullanan herkes aynı anda maruz kalır.
+4. **Özellikle su kaynaklı olanlar patlayıcı tarzda salgın yapar.** Şebeke suyu binlerce kişiye aynı anda ulaştığı için olgular kısa sürede ve birden yükselir. Besin kaynaklı salgınlar genellikle o besini yiyen sınırlı bir grupla kalır.
+5. **Mevsimsel farklılık gösterirler ve yaz ile sonbaharda artarlar.** Nedenleri: sıcakta bakteriler besinde hızla çoğalır; su tüketimi ve dışarıda yemek yeme artar; sinek popülasyonu büyür; piknik, düğün, bayram gibi toplu yemekler sıklaşır; sağanak yağışlar kanalizasyonu taşırıp su kaynaklarını kirletir.
+!! **"Kış aylarında daha çok görülürler" ve "salgınlarında mevsimsel farklılık görülmez" ifadeleri yanlıştır.** (Rotavirüs ve norovirüs birer kış etkenidir, ama bu, grubun genel özelliğini değiştirmez.)
+?? **Su-besin hastalıkları "DEES-Y":** **D**ışkı-ağız, **E**ndemik, **E**pidemi yapar, **S**u kaynaklıysa patlayıcı, **Y**azın artar.
 
-## Bölüm özeti
-- Su-besin hastalıkları dışkı-ağız yoluyla bulaşır, endemiktir, epidemi yapar, su kaynaklılar patlayıcıdır, **yazın artar**.
-- Zincirin en zayıf halkası **bulaşma yolu**.
-- Kaynağa yönelik: filyasyon, ayırma, tedavi, sağlık eğitimi. Bulaşma yoluna: su dezenfeksiyonu, gıda sanitasyonu. Sağlam kişiye: **karantina**, aşı.
-- Entoksikasyonda kuluçka kısa, kusma önde; *S. aureus* kuluçkası en kısa olan.
-- Sık aralarla belli başlı parametre: **kontrol izlemi**; belirli aralarla tüm parametre: **denetleme izlemi**.
+## 3.4 Salgın incelemesi
+Bir salgın bildirildiğinde yapılacak işler standart bir sırayla ilerler. Sınavda ayrıntısı sorulmasa da, mantığı diğer soruları çözmeyi kolaylaştırır:
+1. **Salgının varlığını doğrula:** Olgu sayısı gerçekten beklenenin üstünde mi, yoksa tanı/bildirim mi arttı?
+2. **Tanıyı doğrula:** Klinik ve laboratuvar olarak etken nedir?
+3. **Olgu tanımı yap** (kişi, yer, zaman ölçütleriyle) ve olguları say.
+4. **Tanımlayıcı epidemiyoloji:** Olguları **kişi** (yaş, cinsiyet, meslek), **yer** (hangi mahalle, hangi şebeke hattı) ve **zaman** (salgın eğrisi) özelliklerine göre betimle.
+5. **Hipotez kur:** Ortak kaynak nedir? Atak hızlarını karşılaştırarak şüpheli besin/su belirlenir.
+6. **Hipotezi test et:** Vaka-kontrol ya da kohort çalışmasıyla.
+7. **Kontrol önlemlerini uygula:** Zincirin uygun halkasına müdahale (su kaynağını kapat, besini topla, klorlamayı düzelt).
+8. **Sonuçları bildir ve izle.**
+
+### Salgın eğrisi
+Olguların başlangıç tarihine göre çizilen histogram, salgının nasıl yayıldığını doğrudan gösterir.
+@SVG epidemi_egri.svg
+@SEKIL Salgın eğrisinin üç klasik biçimi. Eğrinin şekli kaynağın tek seferlik mi, sürekli mi olduğunu, yoksa bulaşın kişiden kişiye mi yürüdüğünü söyler.
+- **Nokta (tek) kaynak:** Herkes aynı anda, tek seferde maruz kalmıştır (düğün yemeği). Eğri tek ve keskin bir tepe yapar, hızla söner. **Tepe ile maruziyet arasındaki süre, hastalığın ortalama kuluçka süresini verir** — bu, etkeni tahmin etmenin pratik yoludur.
+- **Sürekli ortak kaynak:** Kaynak bir süre boyunca kirli kalmıştır (kirlenmiş şebeke suyu). Eğri yayvan bir plato yapar; kaynak ortadan kaldırıldığında (su kesilince, klorlama düzelince) birden düşer.
+- **Kişiden kişiye (progresif) yayılım:** Her biri bir kuluçka süresi aralıklı, giderek büyüyen ardışık dalgalar görülür. Düşük enfektif dozlu etkenlerde (*Shigella*, norovirüs) tipiktir.
+
+## 3.5 Besin enfeksiyonu ve besin entoksikasyonu
+Besin kaynaklı hastalıklar, hastalığı yapanın **canlı mikroorganizmanın kendisi** mi yoksa **besinde önceden oluşmuş toksini** mi olduğuna göre ikiye ayrılır. Bu ayrım yalnız akademik değildir: kuluçka süresini, baskın belirtiyi ve tedaviyi belirler.
+| | **Besin enfeksiyonu** | **Besin entoksikasyonu (zehirlenmesi)** |
+| Hastalığı yapan | besinle alınan **canlı mikroorganizma** bağırsakta çoğalır, invazyon ya da toksin üretir | besinde mikroorganizmanın **önceden ürettiği toksin** |
+| Canlı etken gerekli mi? | **evet** | hayır — bakteri ölmüş olsa bile toksin etkilidir |
+| Kuluçka | **uzun** (12-72 saat, bazen günler) | **kısa** (dakikalar - birkaç saat) |
+| Baskın belirti | **ishal**, ateş, karın ağrısı | **kusma, bulantı**; ateş yok ya da hafif |
+| Ateş | sık | genellikle yok |
+| Pişirmeyle önlenir mi? | **evet** (bakteri ölür) | **hayır** — *S. aureus* toksini ısıya dayanıklıdır |
+| Örnek | *Salmonella*, *Shigella*, *Campylobacter*, EHEC, *Y. enterocolitica*, hepatit A, *Listeria* | *S. aureus*, *B. cereus* (kusma tipi), *C. botulinum* |
+|= Besin enfeksiyonu ile entoksikasyonun karşılaştırması.
+**Ara biçim:** *C. perfringens* ve *B. cereus*'un ishal tipi tam ortada durur — bakteri canlı olarak alınır ama hastalığı bağırsakta salgıladığı toksinle yapar. Kuluçka bu yüzden ortadadır (8-16 saat).
+**Entoksikasyonlar içinde kuluçkası en kısa olan *S. aureus*'tur** (ortalama 2-4 saat; 30 dakikaya kadar inebilir). Botulizmde kuluçka daha uzundur (12-36 saat) ve tablo gastrointestinal değil **nörolojiktir** (bulanık ve çift görme, pitoz, disfaji, simetrik inen gevşek felç).
+?? **Entoksikasyon = Erken + Emezis** (kuluçka kısa, kusma önde). **Enfeksiyon = Geç + Gaita** (kuluçka uzun, ishal önde).
+
+### Besin güvenliğinin pratik kuralları
+Besin kaynaklı hastalıkların çoğu üç hatadan doğar: **yetersiz pişirme, yanlış sıcaklıkta bekletme, çapraz bulaş.**
+- **Tehlike bölgesi 5-60 °C'dir;** bakteriler bu aralıkta hızla çoğalır. Pişmiş yemek 2 saatten fazla oda sıcaklığında bırakılmaz.
+- Pişirme iç sıcaklığı **70-75 °C**'ye ulaşmalıdır (kıyma ve kümes hayvanında özellikle önemli).
+- **Çiğ et ile pişmiş/çiğ yenen besinler aynı tahta ve bıçağı paylaşmamalıdır** (çapraz bulaş).
+- Dondurulmuş et buzdolabında çözdürülür, tezgâhta değil.
+- **Pastörizasyon** sütteki *Brucella*, *Salmonella*, *Campylobacter*, *Listeria* ve *M. bovis*'i öldürür.
+- Gıda işinde çalışanlarda **taşıyıcı taraması** ve ishalli personelin işten uzaklaştırılması temel kuraldır.
+- Modern gıda denetiminin çerçevesi **HACCP**'tir: üretim zincirindeki kritik kontrol noktalarının önceden belirlenip izlenmesi.
+
+## 3.6 İçme suyunun güvenliği
+### Su kaynaklı salgınların önlenmesi
+Güvenli su üç aşamada sağlanır: **kaynağın korunması** (kanalizasyon ve atıkların su kaynağından uzak tutulması), **arıtma** (çöktürme, filtrasyon) ve **dezenfeksiyon**.
+**Klorlama** en yaygın dezenfeksiyon yöntemidir; ucuz, kolay uygulanır ve en önemlisi **bakiye (kalıntı) klor** bırakarak suyu şebeke boyunca korur. Şebeke ucunda **0,2-0,5 mg/L serbest bakiye klor** bulunması hedeflenir; bu değer, suyun dağıtım sırasında yeniden kirlenmediğinin de göstergesidir.
+**Klorlamanın sınırı:** *Cryptosporidium* ookistleri ve *Giardia* kistleri klora **dirençlidir**. Bu nedenle yüzme havuzu ve şebeke salgınlarının klasik etkeni *Cryptosporidium*'dur; bunlara karşı **filtrasyon, UV ya da ozon** gerekir. Kaynatma ise tüm etkenleri öldürür; şüpheli durumda en güvenilir ev yöntemidir.
+**Suyun mikrobiyolojik güvenliği**, patojenlerin tek tek aranmasıyla değil, **indikatör (gösterge) organizmalarla** denetlenir: *E. coli* ve koliform bakteriler. Bunların bulunması, suya dışkı bulaşmış olabileceğini gösterir.
+
+### Su izlemleri
+İnsani tüketim amaçlı sular hakkındaki yönetmelik, şebeke sularının iki tür izlemle denetlenmesini öngörür. Bu ikisinin ayrımı doğrudan sorulur:
+| | **Kontrol izlemi** | **Denetleme izlemi** |
+| Sıklık | **sık aralarla** (rutin) | **belirli aralarla** (daha seyrek) |
+| Kapsam | **yalnız belli başlı parametreler** | **tüm parametreler** |
+| Hangi parametreler | koku, tat, renk, bulanıklık, pH, iletkenlik, **bakiye klor**, *E. coli*, koliform bakteri, amonyum | mikrobiyolojik + kimyasal (ağır metaller, nitrat, pestisit) + indikatör + radyoaktivite |
+| Amaç | suyun o anki içilebilirliğini ve **dezenfeksiyonun çalıştığını** hızlıca göstermek | suyun yönetmelikteki **bütün değerlere uygunluğunu belgelemek** |
+|= İçme ve kullanma suyu izlemleri.
+?? **"Kontrol = Kısa liste, Kısa aralık (sık); Denetleme = Dört dörtlük, tüm parametreler."** Soruyu okurken "tüm" mü "belli başlı" mı dediğine, "sık" mı "belirli aralarla" mı dediğine bakın.
+
+## 3.7 Bildirim (ihbar) sistemi
+Bulaşıcı hastalıkların izlenebilmesi için bildirimi zorunlu hastalıklar listesi vardır ve bu liste gruplara ayrılmıştır. **Bildirimi zorunlu, sindirim sistemi yerleşimli protozoon enfeksiyonları (amibiyaz, giardiyazis gibi) Grup D'de** yer alır. Bildirim, filyasyonun ve salgın incelemesinin başlangıç noktasıdır: bildirilmeyen olgu araştırılamaz.
+
+## 3.8 Bölüm özeti
+- Sporadik, endemik, epidemik, pandemik ayrımı; atak hızı = hastalanan / maruz kalan.
+- Zincir: kaynak → bulaşma yolu → sağlam kişi. Su-besin hastalıklarında **en zayıf halka bulaşma yoludur**; havayla bulaşanlarda sağlam kişidir.
+- **Kaynağa yönelik:** filyasyon, ayırma, tedavi, sağlık eğitimi. **Bulaşma yoluna:** su dezenfeksiyonu, gıda sanitasyonu. **Sağlam kişiye: karantina**, aşı.
+- Ayırma hastayı, karantina sağlam temaslıyı hedefler; filyasyon kaynağı ve temaslıları araştırır.
+- Su-besin hastalıkları dışkı-ağız yoluyla bulaşır, endemiktir, epidemi yapar, su kaynaklılar patlayıcıdır ve **yazın artar**.
+- Salgın eğrisi: tek keskin tepe → nokta kaynak; yayvan plato → sürekli kaynak; büyüyen dalgalar → kişiden kişiye.
+- Entoksikasyonda kuluçka kısa ve kusma önde; enfeksiyonda kuluçka uzun ve ishal önde. En kısa kuluçkalı entoksikasyon *S. aureus*; toksini ısıya dayanıklıdır.
+- Klor *Cryptosporidium* ve *Giardia*'ya etkisizdir; bakiye klor 0,2-0,5 mg/L hedeflenir; mikrobiyolojik güvenlik *E. coli* ve koliformlarla denetlenir.
+- **Sık aralarla + belli başlı parametre = kontrol izlemi; belirli aralarla + tüm parametre = denetleme izlemi.**
+- GİS yerleşimli bildirimi zorunlu protozoon enfeksiyonları Grup D'dedir.
 
 ## Çıkmış sorular: Su ve Besin Kaynaklı Salgınlar
 Bu bölümden 7 sınavda **42 soru** çıktı; bunlar **9 farklı soruya** karşılık geliyor ve **6 tanesi** birden fazla yıl soruldu. Her kartta sorunun en yeni hâli, sağ üstte kaç kez sorulduğu, kartın altında da çıktığı tüm sınavlar yazar. Rozeti koyu olanlar 3 ve daha fazla kez sorulmuş sorulardır.

@@ -1,42 +1,111 @@
-# Bağırsak Mikrobiyotası ve Probiyotikler | Bağırsak mikrobiyotasının baskın bakteri toplulukları ve yaşa göre değişimi, kısa zincirli yağ asitlerinin işlevi, mikrobiyotanın bağışıklık ve bariyer gelişimine katkısı, patojenlere karşı koruma ve H. pylori ile MALT lenfoma ilişkisi. 14 soruluk bu bölüm büyük ölçüde S1 (mikrobiyolojik ishal) sunumunun flora bölümüne dayanır; bazı ayrıntılar sunumda kısa geçer. || Bölüm 4 · Mikrobiyota
+# Bağırsak Mikrobiyotası ve Probiyotikler | Mikrobiyotanın bileşimi ve yaşam boyu gelişimi, kısa zincirli yağ asitleri ve metabolik işlevler, kolonizasyon direnci, mikrobiyotanın bağışıklığı eğitmesi, disbiyoz ve Clostridioides difficile, probiyotikler ve dışkı mikrobiyota nakli, Helicobacter pylori ile MALT lenfoma ilişkisi. || Bölüm 4 · Mikrobiyota
 
-## Baskın topluluklar ve yaşa göre değişim
-Erişkin bağırsağında trilyonlarca bakteri yaşar; ağırlıkça çoğunu dört büyük şube (filum) oluşturur. Soru genellikle “hangi grup hangi dönemde ya da hangi işlevde baskın” diye sorulur.
-| Şube / grup | Öne çıkan özellik |
-| **Firmicutes** (*Clostridium*, *Lactobacillus*, *Ruminococcus*, *Faecalibacterium*) | **Erişkinde baskın**; **bütirat gibi kısa zincirli yağ asitlerinin başlıca kaynağı** |
-| **Bacteroidetes** (*Bacteroides*) | erişkinde ikinci büyük grup; karbonhidrat ve ksenobiyotik metabolizması |
-| **Actinobacteria** (*Bifidobacterium*) | **sadece anne sütüyle beslenen bebekte baskın** |
-| **Proteobacteria** (*E. coli*, Enterobacteriaceae) | normalde az; dengesizlikte (disbiyoz) artar |
-Yaşa göre: doğumda bağırsak neredeyse sterildir; doğum biçimi (vajinal ya da sezaryen) ilk kolonları belirler. **Yalnız anne sütüyle beslenen bebekte Bifidobacterium (Actinobacteria) baskındır:** anne sütündeki oligosakkaritler bu bakteriyi besler, o da ortamı asitleştirip patojenleri baskılar. Ek gıdaya geçiş ve çeşitli besinle birlikte flora erişkin tipine döner ve **Firmicutes ile Bacteroidetes** öne geçer.
-?? **Anne sütü → Bifido (Actinobacteria); Erişkin → Firmicutes + Bacteroidetes; Bütirat → Firmicutes.**
+## 4.1 Mikrobiyota nedir?
+**Mikrobiyota**, vücudun belirli bir bölgesinde yaşayan mikroorganizma topluluğunun kendisidir; **mikrobiyom** ise bu topluluğun genlerinin tamamıdır. İnsan bağırsağında yaklaşık **10¹³-10¹⁴ bakteri** yaşar — bu, vücudun kendi hücre sayısıyla aynı büyüklük düzeyindedir. Taşıdıkları gen sayısı insan genomunun **yüzlerce katıdır**; bu yüzden mikrobiyota kimi zaman "unutulmuş organ" diye anılır. Bakterilerin yanı sıra arkeler, mantarlar (*Candida*), virüsler (ağırlıkla bakteriyofajlar) ve bazı protozoonlar da bu topluluğun parçasıdır.
 
-## Kısa zincirli yağ asitleri (SCFA)
-Kolon bakterileri, ince bağırsakta sindirilemeyen lifi ve dirençli nişastayı fermente ederek **kısa zincirli yağ asitleri** (asetat, propiyonat, **bütirat**) üretir. Bu moleküller mikrobiyotanın bağırsağa en önemli armağanıdır:
-1. **Bütirat kolonositlerin başlıca enerji kaynağıdır;** epiteli besler, mukus yapımını ve sıkı bağlantıları destekler, bariyeri güçlendirir.
-2. Lümeni asitleştirir; bu ortam *C. difficile*, *Salmonella* ve *E. coli* O157 gibi patojenlerin **kolonizasyonunu engeller**. Diyetle bol SCFA verilmesi *C. difficile* yerleşmesini önler.
-3. Bağışıklığı dengeler: düzenleyici T hücrelerini uyarır, iltihabı dizginler; aynı zamanda bağışıklığın tembelleşmesini önleyip **kendi bakterilerine karşı toleransı** sürdürür.
-?? **Bütirat = kolonositin yakıtı + bariyer + patojene kapalı kapı.** “SCFA verilince kolonizasyonu önlenen patojen” sorusunun cevabı *C. difficile*.
+### Bölgesel dağılım
+Sindirim kanalı boyunca bakteri yoğunluğu ve bileşimi çarpıcı biçimde değişir; bunu belirleyen etkenler **asit, safra, oksijen ve geçiş hızıdır**:
+| Bölge | Bakteri (mL/g başına) | Belirleyici koşul |
+| Mide | 10¹-10³ | güçlü asit, hızlı geçiş |
+| Duodenum-jejunum | 10³-10⁴ | safra, pankreas enzimleri, hızlı peristaltizm |
+| İleum | 10⁶-10⁸ | asit ve safra etkisi azalır |
+| **Kolon** | **10¹¹-10¹²** | yavaş geçiş, anaerop ortam, bol substrat |
+|= Sindirim kanalında bakteri yoğunluğu. Kolon vücudun en kalabalık mikrobiyal ortamıdır ve bakterilerin çoğu **zorunlu anaeroptur**.
 
-## Mikrobiyotanın bağışıklık ve bariyer gelişimine katkısı
-Mikrobiyota, bağırsağın bağışıklık sistemini doğumdan sonra eğitir ve mukozal bariyeri olgunlaştırır. Sınavda belirli bakterilerin belirli işlevlerle eşleştirilmesi istenir:
+### Baskın bakteri toplulukları
+Erişkin kolonunda ağırlığın büyük bölümünü dört büyük şube (filum) oluşturur:
+| Şube | Üyeleri | Öne çıkan özellik |
+| **Firmicutes** | *Clostridium* kümeleri, *Faecalibacterium prausnitzii*, *Ruminococcus*, *Lactobacillus*, *Eubacterium* | **Erişkinde baskın**; **bütiratın başlıca kaynağı** |
+| **Bacteroidetes** | *Bacteroides*, *Prevotella* | erişkinde ikinci büyük grup; karmaşık karbonhidrat ve ksenobiyotik metabolizması; asetat ve propiyonat |
+| **Actinobacteria** | ***Bifidobacterium*** | **yalnız anne sütüyle beslenen bebekte baskın** |
+| **Proteobacteria** | *E. coli* ve diğer Enterobacteriaceae | normalde düşük oranda; **artışı disbiyozun göstergesidir** |
+|= Bağırsak mikrobiyotasının dört baskın şubesi.
+?? **Bütiratın kaynağı → Firmicutes. Anne sütü bebeği → Bifidobacterium (Actinobacteria). Erişkin → Firmicutes + Bacteroidetes. Proteobacteria artışı → disbiyoz.**
+
+## 4.2 Yaşam boyu gelişim
+Mikrobiyota statik değildir; yaşam boyunca belirli bir sırayla kurulur ve değişir.
+**Doğum:** Bebek doğumdan hemen önce neredeyse sterildir. İlk kolonizasyonu **doğum biçimi** belirler: vajinal doğumda bebek anneye ait vajinal ve bağırsak florasıyla (*Lactobacillus*, *Bacteroides*, *E. coli*) kaplanır; sezaryende ise ilk kolonları ağırlıkla deri ve çevre bakterileridir (*Staphylococcus*, *Corynebacterium*). Sezaryenle doğanlarda *Bifidobacterium* ve *Bacteroides* kolonizasyonunun gecikmesi, ileride alerji ve astım riskindeki küçük artışla ilişkilendirilmiştir.
+**Süt çağı:** **Yalnız anne sütüyle beslenen bebekte *Bifidobacterium* baskındır.** Bunun nedeni anne sütündeki **insan sütü oligosakkaritleridir (HMO)**: bebeğin kendisi sindiremediği, ama *Bifidobacterium*'un sindirebildiği karmaşık şekerler. Yani anne sütü bebeği beslerken aynı anda bebeğin bakterisini de besler — doğal bir **prebiyotik**tir. *Bifidobacterium* ürettiği asit ve laktatla ortamı asitleştirir ve patojenleri baskılar; anne sütü alan bebeklerde ishalin daha seyrek görülmesinin nedenlerinden biri budur. Mama ile beslenen bebekte flora daha çeşitli ama daha az *Bifidobacterium* ağırlıklıdır.
+**Ek gıdaya geçiş (6-24 ay):** Katı ve çeşitli besinlerle, özellikle lif girişiyle, **Firmicutes ve Bacteroidetes** öne geçer. Flora 2-3 yaşında erişkin tipine yakın, kararlı bir yapıya ulaşır.
+**Erişkin:** Bileşim kişiye özgü ve görece kararlıdır; diyet, ilaç (özellikle antibiyotik), hastalık ve stresle dalgalanır.
+**Yaşlılık:** Çeşitlilik azalır, *Bifidobacterium* düşer, Proteobacteria ve fırsatçılar artar; bu, yaşlıda enfeksiyona yatkınlığın nedenlerindendir.
+
+## 4.3 Metabolik işlevler
+### Kısa zincirli yağ asitleri (SCFA)
+Mikrobiyotanın konağa en önemli katkısı buradan gelir. İnce bağırsakta sindirilemeyen **lif ve dirençli nişasta** kolona ulaşır; kolon bakterileri bunları fermente ederek **asetat, propiyonat ve bütirat** üretir.
+@SVG scfa.svg
+@SEKIL Diyet lifinin kısa zincirli yağ asitlerine dönüşümü ve bu moleküllerin dört temel işlevi.
+Her birinin kendi görevi vardır:
+- **Bütirat:** **Kolonositin başlıca enerji kaynağıdır** — kolon epiteli enerjisinin yaklaşık %70'ini bütirattan alır (ilginç biçimde kandan değil, lümenden beslenir). Mukus yapımını, sıkı bağlantı proteinlerini ve epitel yenilenmesini destekler. Üreticileri ağırlıkla **Firmicutes** üyeleridir (*Faecalibacterium prausnitzii*, *Roseburia*, *Eubacterium*).
+- **Propiyonat:** Portal dolaşımla karaciğere gider, glukoneogenezde kullanılır.
+- **Asetat:** Sistemik dolaşıma geçer; periferik dokularda ve lipid metabolizmasında kullanılır.
+SCFA'ların dört temel etkisi:
+1. **Epiteli besler ve bariyeri güçlendirir** (bütirat).
+2. **Lümeni asitleştirir (pH düşer)** ve böylece patojenlerin yerleşmesini engeller.
+3. **Bağışıklığı dengeler:** Düzenleyici T hücrelerinin (Treg) gelişimini uyarır, iltihabı dizginler, aynı zamanda bağışıklığın tümüyle tembelleşmesini önler.
+4. **Metabolik sinyal verir:** Doygunluk hormonlarını (GLP-1, PYY) uyarır, insülin duyarlılığına katkıda bulunur.
+?? **Bütirat = kolonositin yakıtı + bariyer + patojene kapalı kapı + Treg.**
+
+### Diğer metabolik katkılar
+- **Vitamin üretimi:** K vitamini ve B grubu vitaminler (B12, folat, biotin, riboflavin, tiamin). Uzun süreli geniş spektrumlu antibiyotik kullanımında K vitamini eksikliğine bağlı kanama eğilimi görülebilmesinin nedeni budur.
+- **Safra asidi dönüşümü:** Bakteriler primer safra asitlerini dekonjuge edip sekonder safra asitlerine (deoksikolik, litokolik) çevirir. Bu dönüşüm hem yağ emilimini hem de *C. difficile*'nin çimlenmesini etkiler (aşağıda).
+- **Ksenobiyotik metabolizması:** Dışarıdan alınan yabancı maddelerin ve bazı ilaçların dönüştürülmesi. *Bifidobacterium* türleri **linoleik asidin konjugasyonunda** öne çıkar; konjuge linoleik asit üretimi bu bakterilerle ilişkilendirilir.
+- **Oksalat yıkımı:** *Oxalobacter formigenes* diyetteki oksalatı parçalar; yokluğu kalsiyum oksalat böbrek taşı riskini artırır.
+- **Enerji hasadı:** Sindirilemeyen besinlerden ek enerji sağlanır.
+
+## 4.4 Kolonizasyon direnci: patojene karşı koruma
+Sağlam mikrobiyota, patojenlerin yerleşmesini birçok yoldan engeller; buna **kolonizasyon direnci** denir:
+1. **Besin ve yer için rekabet:** Yerleşik bakteriler mevcut substratı ve tutunma bölgelerini doldurur; gelen patojene yer kalmaz.
+2. **Kimyasal savaş:** Bakteriyosinler (bakterilerin birbirine karşı ürettiği öldürücü peptitler) ve SCFA'ların oluşturduğu asidik ortam.
+3. **Safra asidi dönüşümü:** Sekonder safra asitleri *C. difficile* sporlarının çimlenmesini baskılar.
+4. **Bağışıklığın uyanık tutulması:** Flora, salgısal IgA yapımını ve antimikrobiyal peptit (defensin) üretimini sürekli uyarır.
+5. **Mukus tabakasının bakımı:** Bütirat mukus yapımını destekler; kalın mukus patojenin epitele ulaşmasını engeller.
+!! **Diyetle bol kısa zincirli yağ asidi verilmesi *Clostridioides difficile*'nin kolonizasyonunu önler.** Asidik ortam ve sağlam safra asidi dönüşümü bu bakteriyi dışarıda tutar.
+
+## 4.5 Mikrobiyota bağışıklığı nasıl eğitir?
+Bağırsak, vücudun en büyük bağışıklık organıdır (GALT). Doğumdan sonra bu sistemin olgunlaşması floranın varlığına bağlıdır: mikropsuz (germ-free) hayvanlarda Peyer plakları küçük, IgA üretimi düşük, düzenleyici T hücreleri azdır.
+Mikrobiyotanın bağışıklığa katkıları ve sınavda sorulan özgül eşleştirmeler:
 | Bakteri / metabolit | İşlev |
-| *Lactobacillus* sp. | **dendritik hücre toleransının** oluşması (patojen olmayana karşı yanıtın dizginlenmesi) |
-| *E. coli* metabolitleri | epitelde **NF-κB'yi inaktive ederek** iltihabı baskılama, toleransın sürmesi |
-| *Bacteroides thetaiotaomicron* | **peristaltizmi ve glikozilasyonu artırıp mukozal bariyerin olgunlaşması** |
-| *Bifidobacterium* sp. | linoleik asidin konjugasyonu, ksenobiyotik metabolizmasının düzenlenmesi |
-| Kısa zincirli yağ asitleri | bağışıklığın aktif kalması ve kendi bakterilerine toleransın sürmesindeki **en önemli kimyasal** |
-|= Mikrobiyota–konak etkileşiminde sorulan eşleştirmeler (S1 sunumu ve ileri okuma).
-Bu ayrıntıların bir kısmı sunumda yalnızca adı geçecek kadar yer alır; sınav bunları ezber eşleştirme olarak sorduğu için tablo hâlinde verilmiştir.
+| ***Lactobacillus* sp.** | **dendritik hücre toleransının** oluşması — dendritik hücreler zararsız bakteri ve besin antijenlerine karşı yanıtı dizginleyecek biçimde eğitilir |
+| ***E. coli*** (apatojen flora suşları) metabolitleri | epitelde **NF-κB'nin inaktive edilmesi** — iltihap başlatan bu yolak baskılanır, tolerans sürer |
+| ***Bacteroides thetaiotaomicron*** | **peristaltizmi ve epitel yüzeyindeki glikozilasyonu artırarak mukozal bariyerin olgunlaşması** |
+| ***Bifidobacterium* sp.** | linoleik asidin konjugasyonu, ksenobiyotik metabolizmasının düzenlenmesi |
+| **Kısa zincirli yağ asitleri** | bağışıklığın **aktif kalması ve kendi bakterilerine karşı toleransın sürmesinde en önemli kimyasal**; Treg gelişimini uyarır |
+| Segmentli filamentli bakteriler | Th17 hücrelerinin gelişimi (mukozal savunma) |
+|= Mikrobiyota–bağışıklık etkileşiminde sorulan eşleştirmeler.
+**İmmünolojik tolerans** kavramı burada anahtardır: bağırsak, her gün trilyonlarca bakteri ve sayısız besin antijeniyle karşılaşır. Bunların her birine iltihapla yanıt verseydi, bağırsak sürekli bir inflamatuvar hastalık hâlinde olurdu. Mikrobiyota, dendritik hücreleri ve düzenleyici T hücrelerini eğiterek bu yanıtın "zararsıza ses çıkarma, zararlıya sert davran" biçiminde ayarlanmasını sağlar. **Hijyen hipotezi**, çocuklukta mikrobiyal çeşitliliğin azalmasının bu ayarı bozarak alerji, astım ve otoimmün hastalık riskini artırdığını öne sürer.
 
-## Patojenlere karşı koruma ve disbiyoz
-Sağlam mikrobiyota, patojenle **besin ve tutunma yeri için yarışır**, bakteriyosin ve SCFA üretip ortamı patojene kapatır ve bağışıklığı uyanık tutar (kolonizasyon direnci). Geniş spektrumlu antibiyotik bu dengeyi bozar (disbiyoz); boşalan ortamda *C. difficile* ya da dirençli bakteriler çoğalır. Mikrobiyotayı yeniden kurmak için probiyotikler ve ağır *C. difficile* kolitinde dışkı mikrobiyota nakli kullanılır.
+## 4.6 Disbiyoz ve Clostridioides difficile
+**Disbiyoz**, mikrobiyotanın bileşim ve işlev dengesinin bozulmasıdır. En sık nedeni **geniş spektrumlu antibiyotiklerdir**; ayrıca proton pompası inhibitörleri, lifsiz batı tipi beslenme, enfeksiyonlar ve ameliyatlar katkıda bulunur.
+**Antibiyotik sonrası *C. difficile* kolitinin zinciri** disbiyozun klasik örneğidir:
+1. Antibiyotik yerleşik anaerop florayı yok eder.
+2. **SCFA üretimi düşer**, lümen asitliği azalır.
+3. **Safra asidi dönüşümü bozulur**; sekonder safra asitleri azalır, primer safra asitleri birikir. Primer safra asitleri *C. difficile* sporlarının **çimlenmesini uyarır**.
+4. Rekabet ortadan kalktığı için *C. difficile* çoğalır ve **A (enterotoksin) ile B (sitotoksin)** toksinlerini salgılar.
+5. Toksinler kolonositlerin aktin iskeletini bozar; epitel ölür, nötrofilden zengin **psödomembranlar** oluşur. Klinik: sulu-kanlı ishal, karın krampları, ateş, **lökositoz**; ağır olguda toksik megakolon.
+Disbiyozun ilişkilendirildiği diğer durumlar: inflamatuvar bağırsak hastalıkları, irritabl bağırsak sendromu, obezite ve metabolik sendrom, alerjik hastalıklar, kolorektal kanser.
 
-## Helicobacter pylori ve MALT lenfoma
-*Helicobacter pylori*, mide mukozasını kalıcı olarak kolonize eden, üreaz pozitif, kıvrık Gram negatif bir bakteridir. Yıllarca süren iltihap mide mukozasında lenfoid doku birikmesine (mukoza ile ilişkili lenfoid doku, MALT) yol açar; bu zeminde **MALT lenfoma** gelişebilir. Erken evre mide MALT lenfomasında *H. pylori*'nin yok edilmesi tümörü gerileterek tedavi sağlayabilir; bu, bir bakterinin bir kanseri doğrudan sürüklediğinin klasik örneğidir. *H. pylori* ayrıca kronik gastrit, peptik ülser ve mide adenokarsinomuyla da ilişkilidir.
-?? **Gastrit zemininde MALT lenfoma = Helicobacter pylori.** Bu bilgi iki kez soruldu.
+## 4.7 Mikrobiyotayı onarma yolları
+- **Probiyotik:** Yeterli miktarda alındığında konağa yarar sağlayan **canlı mikroorganizmalar** (*Lactobacillus rhamnosus* GG, *Saccharomyces boulardii*, *Bifidobacterium* türleri). Akut viral ishalin süresini yaklaşık bir gün kısaltabilir; antibiyotikle ilişkili ishali azaltabilir. Etkisi suşa ve duruma özgüdür; **bağışıklığı ağır baskılanmış hastalarda fungemi/bakteriyemi riski** nedeniyle dikkatli kullanılmalıdır.
+- **Prebiyotik:** Yararlı bakterileri besleyen, sindirilemeyen besin bileşenleri (inülin, fruktooligosakkarit, galaktooligosakkarit; anne sütü oligosakkaritleri doğal örnektir).
+- **Sinbiyotik:** Probiyotik ve prebiyotiğin birlikte verilmesi.
+- **Dışkı mikrobiyota nakli (FMT):** Sağlıklı vericinin dışkı mikrobiyotasının hastaya aktarılması. **Tekrarlayan *C. difficile* enfeksiyonunda** %80-90'ı aşan başarıyla kanıtlanmış tedavidir; kolonizasyon direncini tek seferde geri kurar.
 
-## Bölüm özeti
-- Anne sütüyle beslenen bebekte Bifidobacterium (Actinobacteria), erişkinde Firmicutes ve Bacteroidetes baskın; bütiratın kaynağı Firmicutes.
-- SCFA (bütirat) kolonositin yakıtı, bariyer güçlendiricisi ve patojen kolonizasyonunun (özellikle *C. difficile*) engelleyicisidir.
-- *Lactobacillus* → dendritik hücre toleransı; *E. coli* → NF-κB inaktivasyonu; *B. thetaiotaomicron* → bariyer olgunlaşması; SCFA → toleransın en önemli kimyasalı.
-- Gastrit zemininde MALT lenfoma → *H. pylori*.
+## 4.8 Helicobacter pylori ve MALT lenfoma
+*Helicobacter pylori*, mide mukozasını kalıcı olarak kolonize eden **kıvrık, Gram negatif, mikroaerofilik, güçlü üreaz pozitif** bir bakteridir. Üreaz, üreyi amonyağa çevirerek çevresinde asidi nötralize eden bir bulut oluşturur; bakteri böylece midenin asidinde hayatta kalır. Bu özellik aynı zamanda tanıda kullanılır (**üre nefes testi**, hızlı üreaz testi). Virülans faktörleri arasında **CagA** (tip 4 sekresyon sistemiyle epitel hücresine enjekte edilir) ve **VacA** bulunur.
+**Yol açtığı hastalıklar:**
+- Kronik aktif gastrit (hemen her enfekte kişide)
+- Peptik ülser (duodenal ülserlerin çoğu)
+- **Mide adenokarsinomu** (DSÖ tarafından grup 1 karsinojen olarak sınıflanmıştır)
+- **Mide MALT lenfoması**
+**MALT lenfomanın gelişimi** bir bakterinin kanseri nasıl sürüklediğinin klasik örneğidir: Mide normalde organize lenfoid doku içermez. *H. pylori*'nin yıllarca süren kronik iltihabı, mukozada **mukoza ile ilişkili lenfoid doku (MALT)** birikmesine yol açar. Bu dokuda sürekli antijen uyarısıyla çoğalan B hücreleri, zamanla bağımsız bir klon hâline gelip düşük dereceli lenfoma oluşturur. Erken evrede bu lenfoma hâlâ bakteri uyarısına bağımlı olduğu için, ***H. pylori*'nin eradikasyonu olguların büyük çoğunluğunda tümörü geriletir** — antibiyotikle tedavi edilebilen ender kanserlerden biridir. (Translokasyon taşıyan ileri olgularda bu yanıt alınmaz.)
+?? **Gastrit zemininde gelişen MALT lenfoma = *Helicobacter pylori*;** tedavi eradikasyondur.
+
+## 4.9 Bölüm özeti
+- Kolonda 10¹¹-10¹² bakteri/g; çoğu zorunlu anaerop. Erişkinde Firmicutes + Bacteroidetes baskın; Proteobacteria artışı disbiyoz göstergesi.
+- Yalnız anne sütü alan bebekte **Bifidobacterium** baskındır; nedeni anne sütü oligosakkaritlerinin (doğal prebiyotik) bu bakteriyi seçici beslemesidir.
+- Lif → SCFA (asetat, propiyonat, **bütirat**). Bütirat kolonositin yakıtıdır, bariyeri güçlendirir, lümeni asitleştirir, Treg'i uyarır. Bütirat üreticileri Firmicutes'tir.
+- SCFA bolluğu ***C. difficile* kolonizasyonunu önler**; antibiyotik sonrası SCFA ve sekonder safra asitlerinin azalması bu bakteriyi çoğaltır.
+- Eşleştirmeler: *Lactobacillus* → dendritik hücre toleransı; *E. coli* → NF-κB inaktivasyonu; *B. thetaiotaomicron* → peristaltizm ve glikozilasyonla bariyer olgunlaşması; *Bifidobacterium* → linoleik asit konjugasyonu; SCFA → toleransın en önemli kimyasalı.
+- Probiyotik canlı mikroorganizma, prebiyotik onları besleyen lif, sinbiyotik ikisi birlikte; tekrarlayan *C. difficile*'de dışkı mikrobiyota nakli yüksek başarılıdır.
+- *H. pylori*: üreaz pozitif, CagA'yı tip 4 sekresyonla aktarır; kronik gastrit, ülser, mide kanseri ve **MALT lenfoma** yapar; erken MALT lenfoma eradikasyonla geriler.
