@@ -39,6 +39,8 @@ for i, pg in enumerate(w.pages):
 for a, s in isaret: w.add_outline_item(a, s)
 w.add_metadata({"/Title": "MSD-7 Ders Kitabı 2026-27"})
 os.makedirs(os.path.dirname(CIKTI), exist_ok=True)
+for p in w.pages: p.compress_content_streams()
+w.compress_identical_objects()
 with open(CIKTI, "wb") as f: w.write(f)
 print("Yazıldı:", CIKTI, len(w.pages), "sayfa")
 print("Bölüm sayfaları:", {n: len(bol[n].pages) for n in bol}, "on", len(on.pages), "ezber", len(ezb.pages))
