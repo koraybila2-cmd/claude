@@ -1,5 +1,16 @@
-# Son Gün Ezber Özeti | Her bölümün en çok tekrar eden bilgisi tek satırda. Sınavdan önceki gün okuyun; her madde bir çıkmış soruya karşılık gelir. || MSD-7 · Ezber
+# Son Gün Ezber Özeti | Her bölümün özü tek satırlık maddeler hâlinde: önce bölümün ana hatları, sonra ezber ipuçları. Sınavdan önceki gün yalnız bu bölümü okumak, kitabın tamamını hatırlamaya yeter. || MSD-7 · Ezber
 ## 1. İshale Yaklaşım, Klinik Tipler ve Viral Etkenler
+### Bölümün özü
+- Bağırsağa günde ~9 L sıvı girer, ~100-200 ml atılır; kolonun yedek kapasitesi ~4-5 L'dir. Su daima sodyumun peşinden gider.
+- Emilim villusta (Na⁺/K⁺-ATPaz gradyanı + SGLT1, NHE3), salgı kriptte (CFTR) olur. cAMP/cGMP/Ca²⁺ artışı CFTR'yi açar ve NHE3'ü kapatır; SGLT1 etkilenmez — ORS'nin temeli budur.
+- Akut ≤ 14 gün, persistan 14-30 gün, kronik > 30 gün. Tenezm: sık, ağrılı, boşalamayan dışkılama hissi.
+- Ozmotik ishal açlıkta durur, ozmotik boşluk > 100; sekretuvar ishal açlıkta sürer, ozmotik boşluk < 50.
+- Toksin grubu (kolera, ETEC, *S. aureus*, *B. cereus*, *C. perfringens*), *Giardia* ve virüsler inflamatuvar ishal yapmaz; dışkıda lökosit görülmez.
+- Kuluçka < 6 saat hazır toksin, 8-16 saat bağırsakta oluşan toksin, > 16 saat invazyon.
+- Düşük enfektif dozlu etkenler (*Shigella*, *Giardia*, *Cryptosporidium*, norovirüs) kişiden kişiye; yüksek dozlular (kolera, ETEC, *Salmonella*) su ve besinle yayılır.
+- Gastroenteritin DNA virüsü adenovirüs 40-41; gemi salgını ve kusma norovirüs; çocukta ağır kış ishali rotavirüs (NSP4).
+- Tedavinin esası sıvı; beslenme kesilmez, çocukta çinko eklenir; antibiyotik yalnız seçilmiş durumlarda; tifo dışı *Salmonella* ve EHEC'te kaçınılır; loperamid kanlı/ateşli ishalde yasaktır.
+### Ezber ipuçları
 - **ORS mucizesi tek cümlede:** Toksin NHE3'ü kapatır ama SGLT1'i kapatamaz; glukoz verirsek sodyum (ve su) yine emilir.
 - **Beş mekanizma tek satırda:** **O**zmotik (açlıkta durur), **S**ekretuvar (açlıkta sürer), **İ**nflamatuvar (kan + lökosit + ateş), **M**alabsorptif (steatore), **Motilite** (hızlı geçiş).
 - **İnce = İçerik bol (dehidratasyon riski); Kalın = Kan, Kramp, Kısa ama sık (tenezm).**
@@ -10,20 +21,66 @@
 - **Gastroenteritin tek DNA virüsü: adenovirüs (enterik tip 40-41).** Rotavirüs = çocuğun ağır kış ishali; norovirüs = gemide/huzurevinde kusma salgını.
 - **Antibiyotik endikasyonu "APS-B":** **A**ntibiyotik öyküsü (son 1 ay), **P**rotez, **S**eyahat + yüksek ateş/sepsis, **B**ağışıklık baskısı. **Yaş tek başına endikasyon değildir.**
 ## 2. Dehidratasyon ve Sıvı Tedavisi
+### Bölümün özü
+- Vücut suyunun 2/3'ü hücre içi, 1/3'ü hücre dışıdır; bebekte hücre dışı pay büyüktür, döngü hızlıdır, böbrek idrarı yoğunlaştıramaz — bu yüzden çabuk dehidrate olur.
+- Nedenler: yetersiz alım, gastroenterit, böbrek solüt yükünün **artması**, ADH'nin **azalması**, insensibl kaybın **artması**. ADH artışı ve solüt yükü azalması dehidratasyon yapmaz.
+- Bulgular sırayla çıkar: susuzluk → doku (turgor, fontanel, göz) → dolaşım (taşikardi, hipotansiyon, soğuk alacalı deri, letarji, oligüri). Son grup varsa **ağır (≥ %10)** dehidratasyondur.
+- Dışkı kıvamı derecelendirmede kullanılmaz.
+- İzonatremik en sık; hiponatremikte şok erken çıkar, düzeltme yavaş olmalı (pontin miyelinoliz); hipernatremikte bulgular aldatıcı biçimde hafif görünür, açık 48 saate yayılır (beyin ödemi).
+- ORS, toksinin kapatamadığı SGLT1 üzerinden çalışır; glukoz:sodyum oranı 1:1 olmalıdır. Güncel formül düşük ozmolardır (245 mOsm/L).
+- Hazırlama: kaynat, soğut, sonra paketi ekle; kaynatarak yoğunlaştırma hatadır; 24 saatte tazele.
+- ORS yenidoğan dahil herkese, her ishalde, Na 115-165 aralığında verilir; ateş engel değildir. Şok, bilinç bozukluğu, ileus ve dinmeyen kusmada damar yolu gerekir.
+- Rehidratasyon: hafif 50, orta 100 ml/kg, 4-6 saatte. Damar yolunda önce 20 ml/kg izotonik bolus, sonra açık + idame (Holliday-Segar); potasyum idrar çıkınca eklenir.
+- Başarı ölçütleri: stabil vital bulgular, oligürinin kalkması ve idrar dansitesinin düşmesi, ishale rağmen kilo alımı, asidozun ve BUN-kreatininin düzelmesi.
+### Ezber ipuçları
 - **Ağır dehidratasyon = "Dolaşım + Beyin + Böbrek":** kan basıncı düşük ya da normal, soğuk alacalı deri, letarji-koma, idrar 0,5-1 ml/kg/saatin altında → **%10 ve üzeri**, damar yolu gerekir.
 - **Hiponatremik: şok erken, düzeltme yavaş (pontin miyelinoliz). Hipernatremik: bulgular geç ve aldatıcı, düzeltme 48 saate yayılır (beyin ödemi).**
 - **ORS kuralları:** Kaynat–soğut–sonra ekle; 24 saatte dök; hafif 50, orta 100 ml/kg, 4-6 saatte; Na 115-165 arasında verilebilir; ateş engel değil; yenidoğana da verilir; evde formül hazırlanmaz.
 ## 3. Su ve Besin Kaynaklı Salgınlar
+### Bölümün özü
+- Sporadik, endemik, epidemik, pandemik ayrımı; atak hızı = hastalanan / maruz kalan.
+- Zincir: kaynak → bulaşma yolu → sağlam kişi. Su-besin hastalıklarında **en zayıf halka bulaşma yoludur**; havayla bulaşanlarda sağlam kişidir.
+- **Kaynağa yönelik:** filyasyon, ayırma, tedavi, sağlık eğitimi. **Bulaşma yoluna:** su dezenfeksiyonu, gıda sanitasyonu. **Sağlam kişiye: karantina**, aşı.
+- Ayırma hastayı, karantina sağlam temaslıyı hedefler; filyasyon kaynağı ve temaslıları araştırır.
+- Su-besin hastalıkları dışkı-ağız yoluyla bulaşır, endemiktir, epidemi yapar, su kaynaklılar patlayıcıdır ve **yazın artar**.
+- Salgın eğrisi: tek keskin tepe → nokta kaynak; yayvan plato → sürekli kaynak; büyüyen dalgalar → kişiden kişiye.
+- Entoksikasyonda kuluçka kısa ve kusma önde; enfeksiyonda kuluçka uzun ve ishal önde. En kısa kuluçkalı entoksikasyon *S. aureus*; toksini ısıya dayanıklıdır.
+- Klor *Cryptosporidium* ve *Giardia*'ya etkisizdir; bakiye klor 0,2-0,5 mg/L hedeflenir; mikrobiyolojik güvenlik *E. coli* ve koliformlarla denetlenir.
+- **Sık aralarla + belli başlı parametre = kontrol izlemi; belirli aralarla + tüm parametre = denetleme izlemi.**
+- GİS yerleşimli bildirimi zorunlu protozoon enfeksiyonları Grup D'dedir.
+### Ezber ipuçları
 - **Su-besin hastalığında en zayıf halka = bulaşma yolu (suyu klorla, besini denetle). Havayla bulaşanda = sağlam kişi (aşı).**
 - **"FATS" kaynağa yöneliktir:** **F**ilyasyon, **A**yırma, **T**edavi, **S**ağlık eğitimi. **Su ve gıda** (dezenfeksiyon, sanitasyon) bulaşma yoluna; **karantina ve aşı** sağlam kişiye yöneliktir.
 - **Su-besin hastalıkları "DEES-Y":** **D**ışkı-ağız, **E**ndemik, **E**pidemi yapar, **S**u kaynaklıysa patlayıcı, **Y**azın artar.
 - **Entoksikasyon = Erken + Emezis** (kuluçka kısa, kusma önde). **Enfeksiyon = Geç + Gaita** (kuluçka uzun, ishal önde).
 - **"Kontrol = Kısa liste, Kısa aralık (sık); Denetleme = Dört dörtlük, tüm parametreler."** Soruyu okurken "tüm" mü "belli başlı" mı dediğine, "sık" mı "belirli aralarla" mı dediğine bakın.
 ## 4. Bağırsak Mikrobiyotası ve Probiyotikler
+### Bölümün özü
+- Kolonda 10¹¹-10¹² bakteri/g; çoğu zorunlu anaerop. Erişkinde Firmicutes + Bacteroidetes baskın; Proteobacteria artışı disbiyoz göstergesi.
+- Yalnız anne sütü alan bebekte **Bifidobacterium** baskındır; nedeni anne sütü oligosakkaritlerinin (doğal prebiyotik) bu bakteriyi seçici beslemesidir.
+- Lif → SCFA (asetat, propiyonat, **bütirat**). Bütirat kolonositin yakıtıdır, bariyeri güçlendirir, lümeni asitleştirir, Treg'i uyarır. Bütirat üreticileri Firmicutes'tir.
+- SCFA bolluğu ***C. difficile* kolonizasyonunu önler**; antibiyotik sonrası SCFA ve sekonder safra asitlerinin azalması bu bakteriyi çoğaltır.
+- Eşleştirmeler: *Lactobacillus* → dendritik hücre toleransı; *E. coli* → NF-κB inaktivasyonu; *B. thetaiotaomicron* → peristaltizm ve glikozilasyonla bariyer olgunlaşması; *Bifidobacterium* → linoleik asit konjugasyonu; SCFA → toleransın en önemli kimyasalı.
+- Probiyotik canlı mikroorganizma, prebiyotik onları besleyen lif, sinbiyotik ikisi birlikte; tekrarlayan *C. difficile*'de dışkı mikrobiyota nakli yüksek başarılıdır.
+- *H. pylori*: üreaz pozitif, CagA'yı tip 4 sekresyonla aktarır; kronik gastrit, ülser, mide kanseri ve **MALT lenfoma** yapar; erken MALT lenfoma eradikasyonla geriler.
+### Ezber ipuçları
 - **Bütiratın kaynağı → Firmicutes. Anne sütü bebeği → Bifidobacterium (Actinobacteria). Erişkin → Firmicutes + Bacteroidetes. Proteobacteria artışı → disbiyoz.**
 - **Bütirat = kolonositin yakıtı + bariyer + patojene kapalı kapı + Treg.**
 - **Gastrit zemininde gelişen MALT lenfoma = *Helicobacter pylori*;** tedavi eradikasyondur.
 ## 5. Salmonella, Shigella, E. coli, Yersinia ve Laboratuvar Tanısı
+### Bölümün özü
+- Enterobacteriaceae: Gram negatif basil, fakültatif anaerop, glukozu fermente eder, **oksidaz negatif**. *Vibrio* ve *Campylobacter* oksidaz pozitif, *Clostridium*/*Bacillus*/*Listeria*/*Staphylococcus* Gram pozitiftir.
+- *Salmonella* antijenleri: **O** (polisakkarit, LPS, ısıya dayanıklı, serogrup, IgM), **H** (protein, ısıya duyarlı, iki fazlı, IgG), **Vi** (kapsül; Typhi, Paratyphi C, Dublin; taşıyıcıda antikoru aranır). **Serotip O+H ile belirlenir, Vi ile değil.** Kauffmann-White: O : H faz1 : H faz2.
+- Yazım: tür küçük italik (*S. enterica*), serotip büyük düz (*S.* Typhi).
+- Tifo: M hücresi → Peyer → makrofaj içinde çoğalma → lenf → kan → karaciğer/dalak/ilik → safra kesesi → bağırsağa ikinci dönüş. **1. hafta kan ve ilik, sonra dışkı ve idrar, 4. haftadan sonra safra kültürü.** Basamaklı ateş, rölatif bradikardi, gül lekeleri, lökopeni; 3.-4. haftada perforasyon. Endotoksin = **lipid A**.
+- *Shigella*: hareketsiz, H₂S ve gaz negatif, düşük enfektif doz, hücreden hücreye aktin kuyruğuyla yayılır; Shiga toksini Gb3'e bağlanıp 60S ribozomu durdurur. Antibiyotik verilir (bulaşı azaltır).
+- *E. coli*: ETEC (LT/ST, turist ishali), EIEC (dizanteri), **EHEC O157 (Shiga toksini, HÜS, SMAC sorbitol negatif, antibiyotik yok)**, EPEC (bebek, A/E lezyonu), EAEC (persistan).
+- *Yersinia*: üreaz pozitif, soğukta ürer, psödoapandisit, demir/desferoksamin, transfüzyonla bulaş, CIN agar.
+- *Campylobacter*: martı kanadı, oksidaz-katalaz pozitif, 42 °C, Skirrow, hippurat pozitif; Guillain-Barré (moleküler taklit).
+- *V. cholerae*: oksidaz pozitif, halofilik, alkali sever, aside duyarlı (yüksek doz), O1/O139; toksin Gsα'yı ADP-ribozile eder → cAMP → pirinç suyu ishali; APS ve TCBS.
+- TSI: dip glukoz, yatık laktoz/sükroz; sarı asit, kırmızı alkali, siyah H₂S, kabarcık gaz. *S.* Typhi H₂S az/gaz yok; *Shigella* H₂S yok/gaz yok/hareketsiz; *S.* Paratyphi A H₂S yapmaz.
+- Çoğaltıcı sıvılar: selenit F, tetrationat, GN broth, APS. **Deoksikolat sitrat agar katıdır, çoğaltıcı değildir.**
+### Ezber ipuçları
 - **Oksidaz testi tek hamlede aileyi ayırır: Enterobacteriaceae oksidaz NEGATİFTİR.** Oksidaz pozitifse *Vibrio*, *Campylobacter*, *Aeromonas* ya da *Pseudomonas* düşünün.
 - **Kültürün zamanlaması:** 1. hafta **kan ve kemik iliği**; 2. haftadan sonra **dışkı ve idrar**; 4. haftadan sonra ve taşıyıcıda **safra**.
 - **Tifonun klinik dörtlüsü:** basamaklı ateş + rölatif bradikardi + gül lekeleri + önce ishal sonra kabızlık; laboratuvarda **lökopeni**.
@@ -31,6 +88,19 @@
 - **Hamburger + kanlı ishal + böbrek yetmezliği + düşük trombosit = EHEC O157:H7; toksin Shiga; besiyeri SMAC; antibiyotik YOK.**
 - ***Yersinia* = üreaz (+), soğukta ürer, psödoapandisit, demiri sever (desferoksamin), transfüzyonla bulaşır, CIN agar.**
 ## 6. Toksin Kaynaklı İshaller ve Diğer Bakteriler
+### Bölümün özü
+- Ekzotoksin protein ve hedefe özgüdür, toksoid yapılabilir; endotoksin (lipid A) yalnız Gram negatiflerde, ısıya dayanıklıdır, TLR4 üzerinden ateş-lökopeni/lökositoz-hipotansiyon-şok yapar.
+- Enterotoksin sulu ishal, sitotoksin kanlı-iltihaplı ishal, nörotoksin felç yapar. A-B yapısında B bağlanır, A iş görür.
+- Hazır toksin: *S. aureus*, *B. cereus* (emetik), *C. botulinum* → kuluçka kısa, kusma önde, antibiyotik işe yaramaz.
+- *S. aureus*: kremalı pasta, 1-6 saat, ısıya dayanıklı enterotoksin, ateş yok.
+- *B. cereus*: pilav → sereulid → kusma (1-6 saat); etli yemek → bağırsakta salınan toksin → ishal (8-16 saat).
+- *C. perfringens*: ılık bekletilen et, canlı bakteri alınır, **sporülasyon sırasında** enterotoksin salar, 8-16 saat, sulu ishal.
+- *C. botulinum*: en güçlü toksin; SNARE proteinlerini keser, asetilkolin salınamaz → inen gevşek felç; bebekte bal → kabızlık ve hipotoni; ateş yok, bilinç açık.
+- *C. difficile*: Gram pozitif anaerop; toksin A ve B Rho GTPazları glikozile eder, psödomembranöz kolit; tanı dışkıda toksin/NAAT; tedavi oral vankomisin/fidaksomisin, tekrarda FMT; sporlar için su ve sabun.
+- *V. parahaemolyticus* deniz ürünü ve inflamatuvar ishal; *V. vulnificus* karaciğer hastasında sepsis; ***Aeromonas* tatlı su ve yara selüliti, halofilik değildir**; hepsi oksidaz pozitiftir.
+- *Listeria*: soğukta ürer, hücre içi (ActA ile aktin kuyruğu), gebede düşük/ölü doğum, yenidoğan ve yaşlıda menenjit; tedavi ampisilin, sefalosporin etkisizdir.
+- T3SS: *Salmonella*, *Shigella*, EPEC/EHEC. T4SS: *H. pylori* (CagA). Kolera toksini reseptöre bağlanıp endositozla girer.
+### Ezber ipuçları
 - **Enterik ateşteki "ateş + önce lökopeni sonra lökositoz + kan basıncı düşmesi + ölümcül şok" tablosunun sorumlusu lipid A'dır (endotoksin).**
 - **Kremalı pasta + 1-6 saatte kusma + ateş yok + ortak yiyenler = *S. aureus*;** toksin ısıya dayanıklıdır.
 - **Pilav → kusma (sereulid, hazır); etli yemek → ishal (bağırsakta salınan toksin).**
@@ -38,27 +108,62 @@
 - **Tuz ayrımı:** *Vibrio*'lar tuzu sever (halofilik, deniz); ***Aeromonas* tuzu sevmez (tatlı su)**. Her ikisi de oksidaz pozitiftir.
 - **Buzdolabında üreyen + gastroenterit + sepsis + menenjit + gebelikte tehlikeli = *Listeria monocytogenes*;** tedavi ampisilin.
 ## 7. Sindirim Sistemi Protozoonları
-- **Kirpikli = Balantidium; aside dirençli sporozoonlar = Crypto, Cyclospora, Isospora; amip = Entamoeba; kamçılı = Giardia.**
-- **Apatojenler “koli-dispar-nana-iodamoeba-chilomastix”:** bağırsakta bulunur ama hastalık yapmaz. **En sık rastlanan amip = *Entamoeba coli*** (apatojen); patojenlerin en önemlisi *E. histolytica*.
-- ***E. histolytica* = alyuvar yiyen trofozoit + şişe ağzı ülser + karaciğer absesi (erkek) + metronidazol; en sık klinik asemptomatik.**
-- **Giardia = dut yaprağı/gülen yüz trofozoit + emici disk + yağlı ishal + string test; karaciğere gitmez.**
-- **Aside dirençli ookist = Crypto / Cyclospora / Isospora.** AIDS + geçmeyen sulu ishal + kırmızı ookist = *Cryptosporidium*. Boyut: Isospora en büyük, Crypto en küçük.
-- **Domuzdan bulaşan, kirpikli, dizanteri-peritonit yapan = Balantidium coli.**
+### Bölümün özü
+- Trofozoit hastalık yapar ama dayanıksızdır; **kist bulaştırıcıdır**. Sulu dışkıda trofozoit, katı dışkıda kist aranır.
+- Kirpikli tek patojen *Balantidium coli* (domuz); kamçılı *Giardia*; amip *Entamoeba*; aside dirençli sporozoonlar Crypto/Cyclospora/Isospora. *Strongyloides* bir nematoddur.
+- Apatojenler: *E. coli* (en sık amip), *E. dispar* (histolytica'nın ikizi, çapraz reaksiyon verir), *Endolimax*, *Iodamoeba*, ***Chilomastix*** (spiral yarıklı), ***Trichomonas hominis***.
+- *E. histolytica*: alyuvar fagositoze eden trofozoit, kollajenaz/nöraminidazla invazyon, **şişe ağzı ülser**, nötrofilleri eritir (dışkıda bol eritrosit-az lökosit), **en sık asemptomatik**, en sık bağırsak dışı tutulum **erkekte karaciğer absesi**; tedavi metronidazol + luminal ilaç. Kist 4, *E. coli* kisti 8 çekirdeklidir.
+- *Giardia*: emici diskle duodenuma tutunur, invazyon yok, yağlı-köpüklü ishal, disakkaridaz eksikliği, A-D-E-K eksikliği; string test; karaciğere gitmez.
+- *Cryptosporidium*: **intrasellüler-ekstrasitoplazmik**, klora dirençli, havuz/şebeke salgını, AIDS'te fulminan ishal, ARB boyama, sistemik yayılmaz.
+- *Cyclospora*: ithal taze ürün, TMP-SMX; *Cystoisospora*: en büyük ookist, TMP-SMX.
+- *Dientamoeba* ve *Trichomonas*'ın **kisti yoktur**; *Dientamoeba* taze dışkıda aranır.
+- Protozoonlar kültürle üretilmez; tanı mikroskobi, özel boyalar, antijen testleri ve PCR ile konur.
+### Ezber ipuçları
+- **Kirpikli = *Balantidium*; aside dirençli sporozoonlar = Crypto, Cyclospora, Isospora; amip = *Entamoeba*; kamçılı = *Giardia*.**
+- ***E. histolytica* = alyuvar yiyen trofozoit + şişe ağzı ülser + erkekte karaciğer absesi + metronidazol;** en sık klinik **asemptomatik** enfeksiyondur, bulaştırıcılık en çok **asemptomatik kist taşıyıcısındadır**.
+- ***Giardia* = dut yaprağı/gülen yüz + emici disk + yağlı-köpüklü ishal + string test;** kana geçmez, karaciğere gitmez.
+- **Domuzdan bulaşan + kirpikli + dizanteri-peritonit = *Balantidium coli*.**
 ## 8. Bağırsak Nematodları
-- **Enterobius = topraksız, kişiden kişiye; Strongyloides = tek serbest yaşayan; deriden giren = filariform larva.**
-- ***Ascaris* = en uzun nematod + akciğer göçü (Löffler, eozinofili) + embriyonlu yumurtayla bulaş.**
-- ***Enterobius* = gece anal kaşıntı + selofan bant + otoenfeksiyon + topraksız bulaş.** Ürtiker-eozinofili onun en sık belirtisi **değildir** (en sık belirti kaşıntıdır).
-- ***Trichuris* = limon yumurta + çocukta rektal prolapsus + dışkı mikroskobisi (selofan bant değil).**
-- ***Strongyloides* = deriden filariform larva, dışkıda rabditiform larva, otoenfeksiyon, bağışıklık baskısında hiperenfeksiyon (pnömoni + menenjit).**
-- **Anemi yapan helmint = çengelli kurtlar (*Necator*, *Ancylostoma*).** *Diphyllobothrium*'un megaloblastik anemisiyle karıştırmayın: çengelli kurt **demir eksikliği (mikrositer)** anemisi yapar.
+### Bölümün özü
+- Helmintler insanda çoğalmaz; yük belirleyicidir. **Otoenfeksiyon istisnaları: *Strongyloides*, *Enterobius*, *H. nana*.**
+- Doku/larva göçü eozinofili yapar; yalnız lümende oturanlar yapmaz.
+- Yumurta yutulanlar: *Ascaris*, *Trichuris*, *Enterobius*. Deriden filariform larvayla girenler: çengelli kurtlar, *Strongyloides*.
+- **Topraksız bulaşan tek nematod *Enterobius*** (perianal yumurta 4-6 saatte enfektif, kişiden kişiye). **Serbest yaşayan tek nematod *Strongyloides*.**
+- Akciğer göçü **var**: *Ascaris*, çengelli kurtlar, *Strongyloides*. **Yok**: *Trichuris*, *Enterobius*.
+- *Ascaris*: en uzun nematod, Löffler sendromu, safra yolu ve bağırsak tıkanıklığı; bulaştırıcı form embriyonlu yumurta.
+- *Enterobius*: gece anal kaşıntı, selofan bant, aile taraması, 2 hafta sonra doz tekrarı; artropodla bulaşmaz.
+- *Trichuris*: limon yumurta, rektal prolapsus, larva göçü yok.
+- Çengelli kurtlar: kan emer → **demir eksikliği anemisi**; deriden girer, ground itch.
+- *Strongyloides*: dışkıda rabditiform larva; steroid/HTLV-1/nakil altında **hiperenfeksiyon** (pnömoni, Gram negatif sepsis ve menenjit), eozinofili baskılanmış olabilir; tedavi ivermektin.
+### Ezber ipuçları
+- ***Ascaris* = en uzun nematod + akciğer göçü (Löffler, eozinofili) + embriyonlu yumurtayla bulaş + tıkanıklık/safra yolu komplikasyonları.**
+- ***Enterobius* = gece anal kaşıntı + selofan bant + otoenfeksiyon + topraksız, kişiden kişiye bulaş; artropodla bulaşmaz.**
+- ***Trichuris* = limon yumurta + çocukta rektal prolapsus + larva göçü yok + tanı dışkı mikroskobisi.**
+- **Malnütrisyonlu çocukta derin anemi + karın ağrısı + dışkıda nematod yumurtası = çengelli kurt (*Necator*/*Ancylostoma*)**; **demir eksikliği** anemisi yapar (megaloblastik anemi yapan *D. latum*'dur).
+- ***Strongyloides* = deriden filariform larva, dışkıda rabditiform larva, otoenfeksiyon, serbest yaşam, steroid altında hiperenfeksiyon (pnömoni + Gram negatif menenjit/sepsis); tedavi ivermektin.**
 ## 9. Sestodlar ve Trematodlar
-- ***Taenia solium* = Silahlı, domuz, Sistiserkoz; *T. saginata* = silahsız, Sığır.** Karıştırmamak için: so**L**ium → çenge**L**li (silahlı).
-- ***Diphyllobothrium latum* = çiğ balık (Uzakdoğu) + B12 eksikliği/megaloblastik anemi + kapaklı yumurta.**
-- ***Hymenolepis nana* = cüce sestod + pire ara konak + çocukta, ara konaksız da bulaşır.**
-- **Bağırsak yerleşimli trematod + ishal/ödem/eozinofili + dışkıda yumurta = *Fasciolopsis buski*** (bu soru 5 kez geldi).
-- **En büyük helmint yumurtası = *Fasciolopsis buski*.** *Fasciola* karaciğer (safra yolu), *Clonorchis*/*Opisthorchis* balıkla gelen safra yolu trematodlarıdır.
+### Bölümün özü
+- Sestod: skoleks (tutunma), boyun (büyüme), proglottidler (distaldekiler gebe). **Skoleksiyle tutunur**, sindirim kanalı yoktur, hermafrodittir; bulaş iyi pişmemiş etteki larvayladır.
+- *T. saginata*: sığır, *Cysticercus bovis*, **silahsız**, hareketli halka. *T. solium*: domuz, *Cysticercus cellulosae*, **silahlı**, insan **hem ara hem kesin konak** → **sistiserkoz/nörosistiserkoz** (edinsel epilepsi nedeni); tedavi albendazol + prazikuantel + steroid.
+- *H. nana*: en küçük sestod, çocukta, **ara konaksız doğrudan bulaşır**, pire çapraşık döngüde ara konak, iç otoenfeksiyon yapar.
+- *D. latum*: çiğ balık, en uzun sestod, botriyalı skoleks, **B12 eksikliği → megaloblastik anemi**, **kapaklı yumurta**.
+- *E. granulosus*: köpek kesin konak, insan ara konak; karaciğer ve akciğerde kist hidatik; yırtılma → anafilaksi; tedavi **albendazol**/cerrahi/PAIR, prazikuantel etkisiz.
+- Trematodlar anüssüz, çift vantuzlu, *Schistosoma* dışında hermafrodit ve kapaklı yumurtalı; **ilk ara konak daima salyangoz**.
+- *Fasciolopsis buski*: bağırsak yerleşimli, en büyük helmint yumurtası, ishal-ödem-eozinofili. *Fasciola hepatica*: su teresi, karaciğer kapsülünden göç, akut evrede dışkıda yumurta yok (seroloji), **tedavi triklabendazol**. *Clonorchis/Opisthorchis*: balık, kolanjiyokarsinom. *Paragonimus*: yengeç, hemoptizi, prazikuantel.
+### Ezber ipuçları
+- **so*L*ium → çenge*L*li (silahlı), domuz, Sistiserkoz. Sa*G*inata → çengelsi*Z*, Sığır.**
+- ***D. latum* = çiğ balık (Uzakdoğu/göl) + B12 eksikliği/megaloblastik anemi + kapaklı yumurta + en uzun sestod.**
+- **Trematodda ilk ara konak HER ZAMAN salyangozdur; metaserkaryanın beklediği yer bulaş öyküsünü belirler.**
+- **Bağırsak yerleşimli + karın ağrısı, ishal, ödem + eozinofili + dışkıda yumurta = *Fasciolopsis buski*.**
 ## 10. Antihelmintik ve Antiprotozoal İlaçlar
-- **Felç tipleri: “Pirantel-Levamizol-Prazikuantel kasar (spastik); Piperazin-İvermektin gevşetir (flask).”** Pirantel ve piperazin **zıt** etkili olduğu için birlikte verilmez.
-- **Benzimidazol = mikrotübül (tubulin) + fumarat redüktaz/asetilkolinesteraz; felç yapmaz, enerjiyi keser.** Niklozamid = oksidatif fosforilasyonu durdurur (asetilkolinesteraz inhibisyonu DEĞİL — bu bir çeldirici).
-- **Strongyloides ilk tercih = ivermektin** (mikrobiyoloji sunumu tiabendazol/albendazol dese de farmakolojide ivermektin). **Enterobius/Ascaris = mebendazol ya da pirantel; kist hidatik = albendazol.**
-- **Taenia = prazikuantel/niklozamid; sistiserkoz = prazikuantel + albendazol; kist hidatik = albendazol (prazikuantel etkisiz).**
+### Bölümün özü
+- Benzimidazoller β-tubuline bağlanıp mikrotübülü bozar, glukoz alımını ve ATP'yi düşürür; gebede kontrendike. **Albendazol emilir → doku (kist hidatik, nörosistiserkoz), karaciğer izlenir; mebendazol emilmez → lümen.** Tiabendazolün klasik endikasyonu *Strongyloides*, triklabendazolünki *Fasciola*'dır.
+- **Spastik felç: pirantel, levamizol (nikotinik), prazikuantel (Ca²⁺). Flask felç: piperazin (GABA), ivermektin (klor kanalı).** Pirantel + piperazin birlikte verilmez.
+- Pirantel gebede güvenlidir, **Strongyloides'e etkisizdir**; levamizol immünostimülandır (kolon kanseri).
+- İvermektin **Strongyloides'te ilk tercihtir**; memelide bulunmayan klor kanalını hedefler ve P-glikoproteinle beyinden dışlanır.
+- Prazikuantel sestod ve trematodların geniş spektrumlu ilacıdır; **kist hidatik ve *Fasciola*'da etkisizdir**. Niklozamid emilmez, yalnız lümendeki sestoda etkilidir, **sistiserkozda kullanılmaz**.
+- Filaryaz: dietilkarbamazin (araşidonik asit yolu) ve ivermektin; mikrofilarya ölümü **Mazzotti reaksiyonu** yapar.
+- Amip ve *Giardia*: metronidazol (anaerop ortamda nitro indirgenmesi); amipte **mutlaka luminal ilaç eklenir**; *Cryptosporidium* nitazoksanid, *Cyclospora/Cystoisospora* TMP-SMX, *Balantidium* tetrasiklin.
+### Ezber ipuçları
+- **Felç tipleri:** **Pirantel – Levamizol – Prazikuantel kasar (spastik). Piperazin – İvermektin gevşetir (flask).**
+- ***Ascaris* + *Enterobius* + *Ancylostoma* + **kist hidatik** hepsinde kullanılan ilaç: albendazol.** Uzun kullanımda izlenecek organ **karaciğerdir**.

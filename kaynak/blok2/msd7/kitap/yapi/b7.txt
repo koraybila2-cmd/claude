@@ -1,68 +1,171 @@
-# Sindirim Sistemi Protozoonları | Bağırsak protozoonlarının sınıfları (amipler, kamçılılar, kirpikliler, sporozoonlar), patojen ve apatojen ayrımı, Entamoeba histolytica ve amipli dizanteri, Giardia, Cryptosporidium ve diğer aside dirençli sporozoonlar, Balantidium ve tanı yöntemleri. Protozoon sunumuna (S5) dayanır; 43 soruyla sınavın en çok soru çıkan ikinci bölümüdür. || Bölüm 7 · Protozoonlar
+# Sindirim Sistemi Protozoonları | Protozoonların genel biyolojisi ve sınıflaması, patojen-apatojen ayrımı, Entamoeba histolytica ve amipli dizanteri, Giardia intestinalis, aside dirençli sporozoonlar (Cryptosporidium, Cyclospora, Cystoisospora), Balantidium coli, Dientamoeba ve Blastocystis, mikrosporidia ve parazitolojik tanı yöntemleri. || Bölüm 7 · Protozoonlar
 
-## Sınıflama ve hareket organelleri
-Bağırsak protozoonları hareket organellerine göre dört gruba ayrılır. Hangi organelin hangi parazitte olduğu doğrudan sorulur.
-| Grup | Hareket | Örnekler |
-| **Amipler (kök ayaklılar)** | yalancı ayak (psödopod) | *Entamoeba histolytica*, *E. coli*, *E. dispar*, *Endolimax nana*, *Iodamoeba* |
-| **Kamçılılar (flagellliler)** | kamçı (flagella) | *Giardia intestinalis*, *Chilomastix mesnili*, *Dientamoeba fragilis*, *Trichomonas* |
-| **Kirpikliler (silliler)** | kirpik (sil) | ***Balantidium coli*** (insandaki tek kirpikli patojen) |
-| **Sporozoonlar (Apicomplexa)** | hareketsiz (olgun formda) | *Cryptosporidium*, *Cyclospora*, *Cystoisospora (Isospora) belli*, *Toxoplasma*, *Sarcocystis* |
-|= Protozoon sınıfları. *Strongyloides* bir **nematoddur** (helmint), sporozoon değildir.
-?? **Kirpikli = Balantidium; aside dirençli sporozoonlar = Crypto, Cyclospora, Isospora; amip = Entamoeba; kamçılı = Giardia.**
+## 7.1 Protozoonların genel biyolojisi
+Protozoonlar **tek hücreli ökaryot** canlılardır; çekirdeği, mitokondrisi (bazılarında indirgenmiş), endoplazmik retikulumu olan, bakterilerden çok daha karmaşık hücrelerdir. Bu ökaryot yapı tedaviyi de belirler: antibakteriyel ilaçlar onlara etki etmez; antiprotozoal ilaçlar gerekir.
+**İki temel yaşam biçimi** vardır ve bütün tanı ve bulaş mantığı buna dayanır:
+- **Trofozoit:** Beslenen, hareket eden, çoğalan, **hastalık yapan** biçimdir. Dış ortama dayanıksızdır; dışkıyla atılsa bile kısa sürede ölür, bu yüzden **bulaştırıcı değildir**. Sulu (ishalli) dışkıda bulunur.
+- **Kist (ya da sporozoonlarda ookist):** Kalın duvarlı, metabolizması yavaşlamış, dayanıklı biçimdir. Mide asidine ve çevre koşullarına dayanır; **bulaştırıcı olan budur**. Şekilli (katı) dışkıda bulunur.
+Bu ayrımın üç pratik sonucu vardır:
+1. **Bulaşı asemptomatik kist taşıyıcıları sürdürür** — onların katı dışkısı bol kist içerir. İshalli hastanın sulu dışkısındaki trofozoitler ise çevrede ölür.
+2. **Dışkı incelemesinde ne arayacağınız dışkının kıvamına bağlıdır:** sulu dışkıda trofozoit, katı dışkıda kist.
+3. **Taze dışkı önemlidir:** Trofozoitler bekletilirse bozulur; özellikle kist yapmayan protozoonlar (*Dientamoeba*) kaçırılır.
+**Hareket organelleri** sınıflamanın temelidir: yalancı ayak (psödopod), kamçı (flagella), kirpik (sil) ya da hareketsizlik.
 
-## Patojen ve apatojen protozoonlar
-Dışkıda görülen her protozoon hastalık yapmaz. Sınav sürekli “hangisini patojen saymazsınız / apatojendir” diye sorar. Bu ayrımı bilmek tedavi gereksiz yere verilmesini önler.
-| Patojen (ishal yapar) | Apatojen (tedavi gerekmez) |
-| *E. histolytica*, *Giardia*, *Cryptosporidium*, *Cyclospora*, *Cystoisospora*, *Balantidium*, *Dientamoeba fragilis*, mikrosporidia | *Entamoeba coli*, *E. dispar*, *E. hartmanni*, *E. polecki*, *Endolimax nana*, *Iodamoeba butschlii*, ***Chilomastix mesnili***, *Trichomonas hominis* |
-|= Patojen-apatojen ayrımı. *Trichomonas hominis* ve *Chilomastix mesnili* ishal yapmaz; *E. dispar* *E. histolytica*'ya benzer ama apatojendir.
-?? **Apatojenler “koli-dispar-nana-iodamoeba-chilomastix”:** bağırsakta bulunur ama hastalık yapmaz. **En sık rastlanan amip = *Entamoeba coli*** (apatojen); patojenlerin en önemlisi *E. histolytica*.
-!! *Chilomastix mesnili*: gövde boyunca **spiral yarığı (sitostom)** olan, kamçılı, **apatojen** protozoon. “İshal yapması beklenmez” sorusunun cevabıdır ve bağırsak yerleşimli olmakla birlikte zararsızdır.
+## 7.2 Sınıflama
+| Grup | Hareket | Bağırsak üyeleri |
+| **Amipler (Rhizopoda / kök ayaklılar)** | yalancı ayak | *Entamoeba histolytica* (patojen), *E. dispar*, *E. coli*, *E. hartmanni*, *E. polecki*, *Endolimax nana*, *Iodamoeba butschlii* (apatojen) |
+| **Kamçılılar (Mastigophora / flagellliler)** | kamçı | *Giardia intestinalis* (patojen), *Dientamoeba fragilis* (patojen), *Chilomastix mesnili*, *Trichomonas hominis* (apatojen) |
+| **Kirpikliler (Ciliophora / silliler)** | kirpik | ***Balantidium coli*** — insanda hastalık yapan **tek kirpikli** protozoon |
+| **Sporozoonlar (Apicomplexa)** | olgun formda hareketsiz | *Cryptosporidium parvum/hominis*, *Cyclospora cayetanensis*, *Cystoisospora (Isospora) belli*, *Sarcocystis*, *Toxoplasma gondii* |
+| **Mikrosporidia** (mantarlara yakın) | hareketsiz, spor | *Enterocytozoon bieneusi*, *Encephalitozoon intestinalis*, *Vittaforma corneae* |
+| **Chromista** | — | *Blastocystis hominis* (tartışmalı patojenite) |
+|= Sindirim sistemi protozoonlarının sınıflaması.
+!! ***Strongyloides stercoralis* bir sporozoon değildir** — o bir **nematoddur** (helmint). Protozoon listelerine karıştırılarak sorulur.
+?? **Kirpikli = *Balantidium*; aside dirençli sporozoonlar = Crypto, Cyclospora, Isospora; amip = *Entamoeba*; kamçılı = *Giardia*.**
 
-## Entamoeba histolytica
-*E. histolytica*, dışkı-ağız yoluyla alınan **dört çekirdekli olgun kistle** bulaşır; bağırsakta trofozoite dönüşür. En çarpıcı özelliği dokuyu eritmesidir:
-- **Patogenez:** Trofozoitler **kollajenaz ve nöraminidaz** gibi enzimlerle kolon mukozasına penetre olur; submukozaya inince yüzeyi dar, altı geniş **“şişe/matara ağzı” (dar ağızlı) ülserler** yapar. Histolitik enzimleri nötrofilleri de eritir.
-- **Trofozoit alyuvar içerir** (eritrosit fagositozu); bu, patojen *E. histolytica*'yı apatojen türlerden ayıran mikroskopik bulgudur. Kisti dört çekirdeklidir.
-- **Klinik:** En sık tablo **asemptomatik enfeksiyondur** (olguların çoğu). Belirtili olanlarda amipli dizanteri (kanlı-mukuslu, **ahududu jölesi** dışkı, az lökosit), daha seyrek ameboma, fulminan kolit, toksik megakolon ve **en sık bağırsak dışı tutulum olarak karaciğer absesi** (erkeklerde daha sık). Peritonit gelişebilir.
-- **Bulaştırıcılık en çok asemptomatik kist taşıyıcılarındadır:** katı dışkıda bol dayanıklı kist atarlar; dizanterili hastanın sulu dışkısındaki trofozoit dış ortamda çabuk ölür.
-- **Tanı:** Dışkı mikroskobisi en sık yöntemdir; dizanteride trofozoit (alyuvarlı), taşıyıcıda kist görülür. **Charcot-Leyden kristalleri** bulunabilir. *E. histolytica* mikroskopik ve serolojik olarak apatojen **E. dispar** ile neredeyse aynıdır (çapraz reaksiyon); WHO'nun eski “yılda 5×10⁷ enfeksiyon” verisinin %90'ının aslında *E. dispar* olduğu anlaşılmıştır.
-- **Tedavi:** doku amibiyazında **metronidazol** (ardından lümen için paromomisin). Doksisiklin, kinolon gibi antibakteriyeller etkisizdir.
-!! **Taşıyıcıda dışkıda kist bulunur, trofozoit değil;** dizanteride trofozoit görülür. 2025-26 S22'de “taşıyıcıların dışkısında kist bulunmaz, trofozoit gösterilir” ifadesi **yanlıştır** (tersi doğrudur).
-?? ***E. histolytica* = alyuvar yiyen trofozoit + şişe ağzı ülser + karaciğer absesi (erkek) + metronidazol; en sık klinik asemptomatik.**
-*E. coli* kistinin **sekiz çekirdekli** olması, onu dört çekirdekli *E. histolytica*'dan ayırır.
+## 7.3 Patojen ve apatojen ayrımı
+Dışkıda görülen her protozoon hastalık yapmaz. Bu ayrımı bilmek, gereksiz tedaviyi önlemek açısından klinik olarak önemlidir ve sınavda sürekli sorulur.
+| **Patojen (ishal/hastalık yapar)** | **Apatojen (tedavi gerekmez)** |
+| *Entamoeba histolytica* | *Entamoeba coli* — **en sık rastlanan amip** |
+| *Giardia intestinalis* | *Entamoeba dispar* — *E. histolytica*'nın morfolojik ikizi |
+| *Cryptosporidium* | *Entamoeba hartmanni*, *E. polecki*, *E. moshkovskii* |
+| *Cyclospora cayetanensis* | *Endolimax nana* |
+| *Cystoisospora belli* | *Iodamoeba butschlii* |
+| *Balantidium coli* | ***Chilomastix mesnili*** |
+| *Dientamoeba fragilis* | ***Trichomonas hominis*** |
+| Mikrosporidia | |
+|= Patojen ve apatojen bağırsak protozoonları.
+***Chilomastix mesnili***: Kamçılı, armut biçimli, **gövdesi boyunca uzanan spiral yarığı (sitostom)** olan apatojen bir protozoondur. Bağırsakta bulunur ama **ishal yapması beklenmez**; dışkıda görülmesi yalnızca fekal-oral bulaş olduğunu, yani kişinin kirli su/besinle karşılaştığını gösterir (bir "temizlik göstergesi").
+***Entamoeba dispar*** özel bir yer tutar: *E. histolytica* ile **mikroskopik olarak ayırt edilemez** ve **serolojik testlerde çapraz reaksiyon** verir; ama hastalık yapmaz. DSÖ'nün eski verilerinde yılda 5×10⁷ kişinin *E. histolytica* ile enfekte olduğu bildirilirken, bunların **yaklaşık %90'ının aslında *E. dispar*** olduğu anlaşılmıştır. Ayrım ancak **antijen testi, izoenzim analizi ya da PCR** ile yapılır. Bu yüzden *E. dispar*, "apatojen olduğu hâlde yanlışlıkla pozitif değerlendirilebilen" tür olarak sorulur.
 
-## Giardia intestinalis
-*Giardia* (lamblia), kamçılı bir protozoondur; **armut/dut yaprağı biçiminde, iki çekirdekli trofozoiti “gülen yüz”e benzer**. Duodenum ve jejunum mukozasına **emici (vantuz) diskiyle** tutunur, villusları kısaltır ve **yağ emilimini bozar**: sağ üst kadran ağrısı, şişkinlik, **yağlı-köpüklü-kötü kokulu dışkı (steatore)**, kilo kaybı, kronikte A-D-E-K vitamin eksikliği. Kolesistit ve pankreatit yapabilir ama **karaciğere yerleşip bağırsak dışı kronik enfeksiyon yapmaz** (bu *E. histolytica* ya da *Fasciola*'ya özgü, Giardia için yanlış ifadedir).
-- Bulaş dört çekirdekli kistle; kontamine su (dere, havuz) ve kreş.
-- **Tanı:** dışkıda nativ incelemede **trofozoit (sulu dışkıda) ve kist (katı dışkıda)** görülür; kolona inince trofozoit kiste döner, bu yüzden şekilli dışkıda çoğunlukla kist görülür. Duodenumdan örnek almak için **“string test” (enterotest, ipli kapsül)** kullanılır.
-?? **Giardia = dut yaprağı/gülen yüz trofozoit + emici disk + yağlı ishal + string test; karaciğere gitmez.**
+## 7.4 Entamoeba histolytica ve amibiyaz
+### Yaşam döngüsü ve patogenez
+@SVG amip.svg
+@SEKIL Entamoeba histolytica'nın döngüsü, doku invazyonu ve karakteristik şişe ağzı ülseri.
+Döngü şöyle işler: **Dört çekirdekli olgun kist** kirli su ya da besinle yutulur. Kist duvarı mide asidine dayanır; ince bağırsakta ekistasyonla açılır ve içinden **sekiz trofozoit** çıkar. Trofozoitler kolona yerleşir. Buradan iki yol ayrılır:
+- **Lümende kalır:** Kolonda ilerledikçe kistleşir ve dışkıyla atılır → **asemptomatik taşıyıcı**. Bu kişiler bol kist atar ve **bulaştırıcılığın asıl kaynağıdır**.
+- **Mukozaya saldırır:** Trofozoitler **Gal/GalNAc lektini** ile epitele yapışır, **amipapor** adlı gözenek yapıcı peptitlerle hücre zarlarını deler; **sisteinproteazlar, kollajenaz ve nöraminidaz** salgılayarak bağ dokuyu ve mukus tabakasını eritir. Salgıladığı **histolitik enzimler nötrofilleri de lizise uğratır** — bu, amipli kolitin dışkısında neden **bol eritrosit ama az lökosit** bulunduğunu açıklar ve bakteriyel dizanteriden ayırmada değerli bir ipucudur.
+Trofozoit mukozayı delip submukozaya indiğinde yanlara doğru yayılır, çünkü kaslı tabakayı geçmesi zordur. Sonuç, yüzeyde **dar bir ağız**, altta **geniş bir taban** olan **"şişe/matara ağzı" ülseridir**. Ülserler arasında normal mukoza bulunur (ülseratif kolitten farkı).
+**Trofozoitin alyuvar fagositoze etmiş olması (eritrofagositoz)**, patojen *E. histolytica*'yı apatojen türlerden ayıran mikroskopik bulgudur.
 
-## Cryptosporidium ve aside dirençli sporozoonlar
-Üç sporozoon (*Cryptosporidium*, *Cyclospora*, *Cystoisospora/Isospora belli*) dışkıda **aside dirençli (Kinyoun/modifiye Ziehl-Neelsen) boyamayla kırmızı ookist** olarak görülür. Bu, parazitoloji sorularının en sık ayırt edici ipucudur.
-| Etken | Özellik | Tanı |
-| ***Cryptosporidium parvum*** | **AIDS'te geçmeyen sulu ishalin önde gelen etkeni**; su kaynaklı salgın (yüzme havuzu); **intrasellüler ama ekstrasitoplazmik** (hücre zarının hemen altında, sitoplazma dışında); az pişmiş değil, klora dirençli ookist | **dışkıda ARB (Kinyoun) boyama**; küçük (~4-6 µm) kırmızı ookist |
-| ***Cyclospora cayetanensis*** | su ve taze ürün (çilek, marul); uzamış sulu ishal | dışkıda ARB; ~8-10 µm, UV'de otofloresan |
-| ***Cystoisospora (Isospora) belli*** | bağışıklığı baskılanmışta kronik ishal | dışkıda ARB; büyük (~25×15 µm), **elipsoid, sporokistli ookist** |
-|= Aside dirençli boyanan üç bağırsak sporozoonu. Ookist boyutu Isospora > Cyclospora > Cryptosporidium.
-- **Böbrek/organ nakli ve AIDS gibi bağışıklığı baskılı hastada** ishalin en sık protozoon etkeni *Cryptosporidium* (ve *Cyclospora*)'dur; derin dokuya yayılıp sistemik tutulum **yapmaz** (yüzeyde kalır).
-- Yüzme havuzu dezenfeksiyonu bozulduğunda tek kaynaklı salgın yapan protozoon *Cryptosporidium*'dur (klora dayanıklı).
-?? **Aside dirençli ookist = Crypto / Cyclospora / Isospora.** AIDS + geçmeyen sulu ishal + kırmızı ookist = *Cryptosporidium*. Boyut: Isospora en büyük, Crypto en küçük.
+### Klinik spektrum
+| Tablo | Sıklık ve özellik |
+| **Asemptomatik enfeksiyon** | **En sık tablodur** — enfekte olanların büyük çoğunluğu (%80-90) belirtisizdir, yalnız kist atar |
+| **Amipli dizanteri (amipli kolit)** | Haftalar içinde yavaş başlayan karın ağrısı, kanlı-mukuslu ("ahududu jölesi") dışkı, tenezm; **ateş çoğunlukla yoktur ya da hafiftir** (bakteriyel dizanteriden farkı); sağ kolon ve çekum tutulumu sık |
+| **Fulminan nekrotizan kolit** | Ağır, yaygın; perforasyon ve **peritonit** riski; ölüm oranı yüksek |
+| **Ameboma** | Kolonda granülasyon dokusundan oluşan kitle; kolon kanserini taklit eder |
+| **Toksik megakolon** | Özellikle yanlışlıkla kortikosteroid verilen olgularda |
+| **Karaciğer absesi** | **En sık bağırsak dışı tutulum**; portal dolaşımla karaciğere ulaşır; **erkeklerde belirgin biçimde daha sık** (yaklaşık 10 kat); sağ lob üst kesimde tek abse; sağ üst kadran ağrısı, ateş, hepatomegali, omuza yayılan ağrı; içeriği "çikolata sosu"/"hamsi ezmesi" görünümündedir ve **genellikle sterildir** (amipler absenin kenarındadır) |
+| **Diğer** | Plevra-akciğer tutulumu, perikardit, beyin absesi, perianal deri amibiyazı |
+|= Amibiyazın klinik spektrumu.
+!! **Karaciğer absesi erkeklerde daha sıktır** — "kadınlarda daha sık" ifadesi yanlıştır.
 
-## Balantidium coli
-*Balantidium coli*, insandaki **tek patojen kirpikli (silli) protozoondur**; **en büyük insan protozoonu**. **Domuz** ana kaynaktır. Basit ishalden şiddetli dizanteriye, hatta kolon ülseri ve peritonite kadar giden tablo yapar (amipli dizanteriye benzer ama kirpiklidir).
-?? **Domuzdan bulaşan, kirpikli, dizanteri-peritonit yapan = Balantidium coli.**
+### Tanı
+- **Dışkı mikroskobisi (en sık kullanılan yöntem):** Taze, sulu dışkıda **eritrosit fagositoze etmiş trofozoit**; şekilli dışkıda **dört çekirdekli kist**. Duyarlılığı artırmak için üç ayrı günde örnek alınır ve konsantrasyon yöntemi uygulanır.
+- **Charcot-Leyden kristalleri** dışkıda görülebilir (eozinofil kaynaklı, iğne/piramit biçimli kristaller; parazite özgü değildir ama destekler).
+- **Dışkıda antijen testi (ELISA):** *E. histolytica*'yı *E. dispar*'dan ayırabilir.
+- **PCR:** En özgül yöntem.
+- **Seroloji:** Doku invazyonunda (özellikle **karaciğer absesinde**) yüksek duyarlılıkla pozitiftir; absede dışkı incelemesi çoğu kez negatif olduğu için serolojinin değeri büyüktür. Endemik bölgede geçirilmiş enfeksiyonu da gösterdiği için yorumu dikkat ister.
+- **Görüntüleme:** Karaciğer absesinde ultrason/BT.
+!! **Taşıyıcıda dışkıda kist bulunur, trofozoit değil.** Tersini söyleyen ifade yanlıştır.
 
-## Bildirim ve genel tanı
-- **Bildirimi zorunlu GİS yerleşimli protozoon enfeksiyonları Grup D'de** yer alır.
-- Parazitolojik tanının temeli **dışkı mikroskobisidir** (nativ-lugol, konsantrasyon). Sporozoonlar için **aside dirençli (ARB/Kinyoun) boyama**, *Giardia* için **string test**, bazıları için antijen/PCR kullanılır. Bağırsak protozoonları **kültürle üretilmez**.
-- *Dientamoeba fragilis* ve *Trichomonas hominis* gibi kamçılıların **kist formu yoktur**; yalnız trofozoit görülür (dışkı taze incelenmeli). Amiplerden *E. coli* kisti sekiz, *E. histolytica* kisti dört çekirdeklidir.
+### Tedavi
+- **İnvaziv hastalıkta (dizanteri, karaciğer absesi): metronidazol** (ya da tinidazol) — dokudaki trofozoitleri öldürür.
+- **Ardından luminal ilaç** eklenir (**paromomisin**, iyodokinol ya da diloksanid furoat): lümendeki kistleri temizler, nükse ve bulaşa engel olur. Yalnız metronidazol verilirse lümendeki kistler kalır.
+- **Asemptomatik kist taşıyıcısında yalnız luminal ilaç** verilir.
+- Büyük ya da yırtılma riski taşıyan karaciğer absesinde perkütan drenaj eklenebilir.
+!! Doksisiklin, siprofloksasin, TMP-SMX, azitromisin gibi **antibakteriyel ilaçlar amipte etkisizdir.**
+?? ***E. histolytica* = alyuvar yiyen trofozoit + şişe ağzı ülser + erkekte karaciğer absesi + metronidazol;** en sık klinik **asemptomatik** enfeksiyondur, bulaştırıcılık en çok **asemptomatik kist taşıyıcısındadır**.
 
-## Bölüm özeti
-- Kirpikli patojen = *Balantidium* (domuz); amip = *Entamoeba*; kamçılı = *Giardia*; aside dirençli sporozoon = *Cryptosporidium*, *Cyclospora*, *Isospora*.
-- Apatojenler: *E. coli* (en sık amip), *E. dispar* (histolytica'ya benzer), *Endolimax*, *Iodamoeba*, *Chilomastix*, *Trichomonas hominis*.
-- *E. histolytica*: alyuvarlı trofozoit, şişe ağzı ülser, karaciğer absesi, metronidazol; en sık asemptomatik; bulaştırıcı asemptomatik kist taşıyıcısı.
-- *Giardia*: dut yaprağı trofozoit, emici disk, yağlı ishal, string test; karaciğere gitmez.
-- *Cryptosporidium*: AIDS'te sulu ishal, intrasellüler-ekstrasitoplazmik, ARB boyama, havuz salgını.
-- *Dientamoeba* ve *Trichomonas*'ın kisti yok; *E. coli* kisti 8, *E. histolytica* kisti 4 çekirdekli.
+### Amipleri birbirinden ayırmak
+| Özellik | *E. histolytica* | *E. coli* |
+| Kist çekirdek sayısı (olgun) | **4** | **8** |
+| Trofozoit hareketi | hızlı, tek yönlü, parmak benzeri yalancı ayak | yavaş, hantal |
+| Trofozoitte alyuvar | **var** (patojenliğin göstergesi) | yok (bakteri ve artık içerir) |
+| Patojenite | patojen | apatojen |
+|= Entamoeba histolytica ile apatojen E. coli'nin ayrımı.
+
+## 7.5 Giardia intestinalis (lamblia, duodenalis)
+**Morfoloji:** Kamçılı protozoondur. Trofozoiti **armut ya da dut yaprağı** biçiminde, iki simetrik çekirdeği ve medyan cisimleriyle önden bakıldığında **"gülen yüz"** görünümündedir; dört çift kamçısı vardır. Kisti oval ve **dört çekirdeklidir**.
+**Bulaş ve epidemiyoloji:** Kistle, dışkı-ağız yoluyla. **Enfektif doz çok düşüktür (10-25 kist)**. Klasik kaynaklar: **kaynatılmamış dere/göl suyu (kamp, doğa yürüyüşü — "beaver fever")**, kontamine şebeke suyu, yüzme havuzu, **kreş**, aile içi temas, erkeklerle cinsel ilişkisi olan erkekler. Kist klora görece dirençlidir.
+**Patogenez:** Trofozoit duodenum ve proksimal jejunuma yerleşir, **emici (vantuz) diskiyle** mukozaya mekanik olarak tutunur. **Mukozayı işgal etmez, kana geçmez** — bu yüzden **kanlı ishal ve ateş yapmaz**. Zararı şu yollarla verir:
+1. Villus uçlarını mekanik olarak örter ve zedeler; **villus kısalması ve kript hiperplazisi** olur.
+2. **Fırça kenarı disakkaridazları azalır** → ikincil **laktoz intoleransı**.
+3. **Safra tuzlarını kullanır/bağlar** ve emilim yüzeyini daraltır → **yağ emilimi bozulur**.
+4. Hızlandırılmış epitel yenilenmesi ve hafif inflamatuvar yanıt.
+**Klinik:** 1-2 haftalık kuluçkadan sonra şişkinlik, aşırı gaz, **kötü kokulu, yağlı, köpüklü, açık renkli dışkı (steatore)**, sağ üst kadran ağrısı, bulantı, kilo kaybı. Ateş ve kan yoktur. Tedavi edilmezse **persistan ishal** ve çocukta büyüme geriliği yapar; kronikte **A, D, E, K vitamin eksiklikleri** ve demir eksikliği görülür. **Kolesistit ve pankreatit** yapabilir.
+!! ***Giardia* safra yoluyla karaciğere yerleşip bağırsak dışı kronik enfeksiyon yapmaz.** Bu özellik *E. histolytica* ve *Fasciola*'ya aittir; *Giardia* için yanlış ifadedir.
+**Tanı:**
+- **Dışkı mikroskobisi:** Sulu dışkıda **trofozoit**, şekilli dışkıda **kist**. Trofozoit kolona inerken kistleşir, bu yüzden şekilli dışkıda çoğunlukla **yalnız kist** görülür. Atılım aralıklı olduğu için **üç ayrı gün** örnek alınır.
+- **Dışkıda antijen testi (ELISA/immünokromatografi):** Duyarlılığı yüksek, yaygın kullanılır.
+- **String test (enterotest, ipli kapsül):** Hasta ucunda ip bulunan bir kapsül yutar; ip duodenuma iner, birkaç saat sonra çekilip üzerindeki safralı sıvı incelenir. Dışkı incelemeleri negatif kalan olgularda trofozoiti gösterir. Duodenal aspirasyon ve biyopsi de kullanılabilir.
+- PCR.
+**Tedavi:** **Metronidazol**, tinidazol (tek doz), nitazoksanid; gebelikte paromomisin.
+?? ***Giardia* = dut yaprağı/gülen yüz + emici disk + yağlı-köpüklü ishal + string test;** kana geçmez, karaciğere gitmez.
+
+## 7.6 Aside dirençli sporozoonlar
+Üç bağırsak sporozoonu, dışkıda **modifiye aside dirençli (Kinyoun ya da modifiye Ziehl-Neelsen) boyama** ile **kırmızı/pembe** boyanır. Bu ortak özellik parazitoloji sorularının en sık ayırt edici ipucudur. Üçünü boyuta ve klinik bağlama göre ayırt edersiniz.
+| | ***Cryptosporidium*** | ***Cyclospora cayetanensis*** | ***Cystoisospora (Isospora) belli*** |
+| Ookist boyutu | **4-6 µm (en küçük)** | 8-10 µm | **~25 × 15 µm (en büyük)**, elipsoid, sporokistli |
+| Dışkıda atıldığında | **hemen enfektif** | olgunlaşması için 1-2 hafta gerekir (kişiden kişiye bulaş olmaz) | olgunlaşması gerekir |
+| Tipik kaynak | **su (içme suyu, yüzme havuzu)**, çiftlik hayvanı, kreş | **ithal taze ürün**: ahududu, marul, fesleğen; su | su, besin; tropikal bölgeler |
+| Özel özellik | **intrasellüler ama EKSTRASİTOPLAZMİK**; **klora dirençli** | UV'de **otofloresan** verir | bağışıklığı baskılı hastada kronik ishal; **eozinofili yapabilir** |
+| Kimde ağır | **AIDS'te fulminan, aylarca süren sulu ishal** (CD4 < 100) | bağışıklığı baskılı, gezgin | AIDS |
+| Tedavi | bağışıklık düzeltilmesi (ART); **nitazoksanid** | **TMP-SMX** | **TMP-SMX** |
+|= Aside dirençli üç bağırsak sporozoonu.
+
+### Cryptosporidium ayrıntılı
+**Yerleşim özelliği:** *Cryptosporidium*, bağırsak epitel hücresinin **apikal zarının hemen altına**, hücre zarından türeyen bir vakuol içine yerleşir. Böylece **hücrenin içinde ama sitoplazmanın dışındadır (intrasellüler, ekstrasitoplazmik)**. Bu konum onu hem lümendeki savunmadan hem de hücre içi savunmadan korur ve ilaçların ulaşmasını zorlaştırır — tedavisinin zor olmasının nedenlerinden biridir.
+**Yayılma:** Yüzeyel kalır; **makrofajlarla derin dokulara yayılıp sistemik tutulum yapmaz**. Bağışıklığı baskılı hastada safra yolları ve solunum yolu tutulumu görülebilir ama bu komşuluk yoluyladır.
+**Su salgınları:** Ookistleri **klora dirençlidir**; havuz dezenfeksiyonu bozulduğunda ya da şebeke filtrasyonu yetersiz kaldığında büyük, tek kaynaklı salgınlar yapar. 1993 Milwaukee salgınında 400.000'den fazla kişi etkilenmiştir. Kontrolü **filtrasyon, UV ya da ozon** gerektirir; evde **kaynatma** güvenilirdir.
+**Klinik:** Bağışıklığı normal kişide 1-2 haftada geçen sulu ishal. **AIDS ve organ nakli alıcısında** aylarca süren, günde litrelerce sıvı kaybına yol açan **fulminan ishal**, kilo kaybı ve ölüme kadar gidebilen tablo yapar.
+
+## 7.7 Balantidium coli
+İnsanda hastalık yapan **tek kirpikli (silli) protozoondur** ve **insanı enfekte eden en büyük protozoondur** (trofozoit 50-200 µm; çıplak gözle görülebilecek sınırdadır). Yüzeyi kirpiklerle kaplıdır; bir sitostomu (ağız açıklığı), bir büyük (makronükleus) ve bir küçük çekirdeği vardır.
+**Rezervuar: domuz** (domuzun normal florasının üyesidir); domuz yetiştiricileri, mezbaha çalışanları ve domuzla temas eden topluluklar risk altındadır.
+**Patogenez ve klinik:** Kist yutulur, trofozoit kolonda hiyalüronidaz salgılayarak mukozayı deler; amipli kolite benzer ülserler yapar. Klinik **basit ishalden şiddetli dizanteriye**, kolon ülserlerine, hatta **perforasyon ve peritonite** kadar uzanır. Çoğu enfeksiyon asemptomatiktir.
+**Tanı:** Dışkıda büyük, kirpikli, hızlı dönerek hareket eden trofozoit ya da kist.
+**Tedavi:** **Tetrasiklin** (ilk seçenek), metronidazol, nitazoksanid.
+?? **Domuzdan bulaşan + kirpikli + dizanteri-peritonit = *Balantidium coli*.**
+
+## 7.8 Dientamoeba fragilis ve Blastocystis
+***Dientamoeba fragilis***: Adında "amoeba" geçse de aslında bir **kamçılıdır** (trikomonadlara yakın). **Kist formu yoktur** — yalnız trofozoit biçiminde bulunur. Bunun iki sonucu vardır: (1) Dışkı **çok taze** incelenmeli ya da hemen tespit edilmelidir, yoksa trofozoitler bozulur ve tanı kaçar. (2) Bulaş yolu tam bilinmemektedir; *Enterobius vermicularis* yumurtalarının içinde taşındığı düşünülmektedir. Klinik: karın ağrısı, şişkinlik, aralıklı ishal, bazen eozinofili. Tedavi: metronidazol, paromomisin, iyodokinol.
+***Blastocystis hominis***: Sınıflaması tartışmalıdır (Chromista); patojenitesi de tartışmalıdır. Dışkıda sık bulunur; yoğun miktarda ve başka etken yoksa ishal, şişkinlik ve karın ağrısından sorumlu tutulur. Metronidazol ya da TMP-SMX verilebilir.
+!! **Kist formu olmayan protozoonlar: *Dientamoeba fragilis* ve *Trichomonas* türleri.** Bu soru her iki biçimde de sorulur ("kist görülmeyen hangisidir?").
+
+## 7.9 Mikrosporidia
+Zorunlu hücre içi, spor oluşturan, genetik olarak **mantarlara yakın** mikroorganizmalardır. Küçük sporları (1-3 µm) içindeki kutupsal tüple konak hücresine içeriğini enjekte eder.
+- ***Enterocytozoon bieneusi*** ve ***Encephalitozoon intestinalis***: AIDS'te kronik ishal ve malabsorbsiyon.
+- ***Vittaforma corneae*** ve diğerleri: **keratit, üveit ve korneal ülserasyon** yapar.
+Tanıda özel boyalar (modifiye trikrom, kalkoflor) ve elektron mikroskobu kullanılır. Tedavi: albendazol (*Encephalitozoon*), fumagillin (*E. bieneusi*), bağışıklığın düzeltilmesi.
+
+## 7.10 Parazitolojik tanı yöntemleri (toplu bakış)
+| Yöntem | Ne için |
+| **Dışkıda nativ-lugol inceleme** | trofozoit ve kistlerin genel taraması; temel yöntemdir |
+| **Konsantrasyon (formol-etil asetat, çinko sülfat yüzdürme)** | az sayıdaki kist ve yumurtayı yoğunlaştırır |
+| **Kalıcı boyalı preparat (trikrom, demir-hematoksilen)** | amip trofozoitlerinin çekirdek ayrıntısı, tür ayrımı |
+| **Modifiye aside dirençli (Kinyoun) boyama** | ***Cryptosporidium*, *Cyclospora*, *Cystoisospora*** |
+| **Modifiye trikrom / kalkoflor** | mikrosporidia |
+| **Dışkıda antijen testi (ELISA, hızlı test)** | *Giardia*, *Cryptosporidium*, *E. histolytica* (dispar'dan ayırır) |
+| **PCR / çoklu patojen panelleri** | en duyarlı ve özgül; tür ayrımı |
+| **String test (enterotest), duodenal aspirasyon/biyopsi** | *Giardia*, *Strongyloides* |
+| **Seloteyp (selofan bant) yöntemi** | *Enterobius* (Bölüm 8) — protozoon için kullanılmaz |
+| **Seroloji** | doku invazyonu: amipli karaciğer absesi |
+|= Parazitolojik tanı yöntemleri ve kullanım alanları.
+!! **Bağırsak protozoonları rutin olarak kültürle üretilmez.** "Dışkı kültürü yapılır" seçeneği protozoon sorularında yanlıştır.
+**Dışkıda parazit incelemesi istenecek durumlar** (Bölüm 1'den): 7 günü aşan ishal, gelişmekte olan ülkeye seyahat sonrası ishal, bağışıklığı baskılı hastada uzayan ishal, kreş/su kaynaklı salgın, dışkıda kan olup lökositin az olması, erkeklerle cinsel ilişkisi olan erkekler.
+**Bildirim:** Sindirim sistemi yerleşimli, bildirimi zorunlu protozoon enfeksiyonları **Grup D**'de yer alır.
+
+## 7.11 Bölüm özeti
+- Trofozoit hastalık yapar ama dayanıksızdır; **kist bulaştırıcıdır**. Sulu dışkıda trofozoit, katı dışkıda kist aranır.
+- Kirpikli tek patojen *Balantidium coli* (domuz); kamçılı *Giardia*; amip *Entamoeba*; aside dirençli sporozoonlar Crypto/Cyclospora/Isospora. *Strongyloides* bir nematoddur.
+- Apatojenler: *E. coli* (en sık amip), *E. dispar* (histolytica'nın ikizi, çapraz reaksiyon verir), *Endolimax*, *Iodamoeba*, ***Chilomastix*** (spiral yarıklı), ***Trichomonas hominis***.
+- *E. histolytica*: alyuvar fagositoze eden trofozoit, kollajenaz/nöraminidazla invazyon, **şişe ağzı ülser**, nötrofilleri eritir (dışkıda bol eritrosit-az lökosit), **en sık asemptomatik**, en sık bağırsak dışı tutulum **erkekte karaciğer absesi**; tedavi metronidazol + luminal ilaç. Kist 4, *E. coli* kisti 8 çekirdeklidir.
+- *Giardia*: emici diskle duodenuma tutunur, invazyon yok, yağlı-köpüklü ishal, disakkaridaz eksikliği, A-D-E-K eksikliği; string test; karaciğere gitmez.
+- *Cryptosporidium*: **intrasellüler-ekstrasitoplazmik**, klora dirençli, havuz/şebeke salgını, AIDS'te fulminan ishal, ARB boyama, sistemik yayılmaz.
+- *Cyclospora*: ithal taze ürün, TMP-SMX; *Cystoisospora*: en büyük ookist, TMP-SMX.
+- *Dientamoeba* ve *Trichomonas*'ın **kisti yoktur**; *Dientamoeba* taze dışkıda aranır.
+- Protozoonlar kültürle üretilmez; tanı mikroskobi, özel boyalar, antijen testleri ve PCR ile konur.
 
 ## Çıkmış sorular: Sindirim Sistemi Protozoonları
 Bu bölümden 7 sınavda **46 soru** çıktı; bunlar **43 farklı soruya** karşılık geliyor ve **2 tanesi** birden fazla yıl soruldu. Her kartta sorunun en yeni hâli, sağ üstte kaç kez sorulduğu, kartın altında da çıktığı tüm sınavlar yazar. Rozeti koyu olanlar 3 ve daha fazla kez sorulmuş sorulardır.

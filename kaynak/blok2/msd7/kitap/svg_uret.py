@@ -286,3 +286,83 @@ for ad, etki, ornekler, sonuc, ci in hedefler:
 g += [kutu(20, y + 6, 669, 28, "ENDOTOKSİN (lipid A) ayrıdır: reseptör TLR4 → sitokin fırtınası → ateş, hipotansiyon, şok", "#f6e9df", C[1], 10, True)]
 yaz("toksin_hedef", 710, y + 48, g, "Bakteri toksinlerinin hucre ici hedefleri")
 print("toksin semasi eklendi")
+
+# 12) E. histolytica yasam dongusu ve sise ulseri
+g = []
+g += [T(350, 20, "Entamoeba histolytica: döngü ve doku hasarı", fs=13, w=700)]
+# dongu (sol)
+g += [kutu(20, 44, 150, 36, "Dört çekirdekli KİST", "#e8f0f4", C[0], 10, True, "dışkıda, dayanıklı, bulaştırıcı")]
+g += [ok(95, 80, 95, 100)]
+g += [kutu(20, 100, 150, 36, "Yutulur (su, besin)", "#fff", INK, 10, False, "mide asidine dayanır")]
+g += [ok(95, 136, 95, 156)]
+g += [kutu(20, 156, 150, 36, "İnce bağırsakta ekiste", "#fff", INK, 10, False, "8 trofozoit çıkar")]
+g += [ok(95, 192, 95, 212)]
+g += [kutu(20, 212, 150, 44, "TROFOZOİT (kolonda)", "#f6e4ea", C[4], 10, True, "alyuvar fagositozu yapar", "= patojenliğin kanıtı")]
+# iki yol
+g += [ok(170, 234, 215, 190, C[3]), ok(170, 240, 215, 285, C[4])]
+g += [kutu(218, 162, 160, 42, "Kolona iner → KİST", "#e6f0ea", C[3], 10, True, "asemptomatik taşıyıcı", "en bulaştırıcı grup")]
+g += [kutu(218, 265, 160, 42, "Mukozaya invazyon", "#f6e4ea", C[4], 10, True, "kollajenaz, nöraminidaz", "nötrofiller eritilir")]
+# sise ulseri cizimi
+ux, uy = 420, 120
+g += [T(ux + 130, uy - 44, "Şişe (matara) ağzı ülser", fs=11.5, w=700),
+      f'<rect x="{ux}" y="{uy-28}" width="260" height="26" fill="#f0e3d8" stroke="{INK}"/>',
+      T(ux + 130, uy - 11, "mukoza", fs=9, fill=MUTED),
+      f'<rect x="{ux}" y="{uy-2}" width="260" height="70" fill="#f7efe7" stroke="{INK}"/>',
+      T(ux + 232, uy + 36, "submukoza", fs=9, fill=MUTED)]
+# ulser sekli: dar agiz genis taban
+g += [f'<path d="M{ux+110},{uy-28} L{ux+124},{uy-2} Q{ux+90},{uy+6} {ux+88},{uy+34} Q{ux+86},{uy+62} {ux+130},{uy+62} Q{ux+174},{uy+62} {ux+172},{uy+34} Q{ux+170},{uy+6} {ux+136},{uy-2} L{ux+150},{uy-28} Z" fill="#fff" stroke="{C[4]}" stroke-width="1.8"/>']
+g += [ok(ux + 60, uy - 44, ux + 112, uy - 26, C[4]), T(ux + 56, uy - 48, "dar ağız", "end", 9.5, 700, C[4])]
+g += [ok(ux + 230, uy + 40, ux + 178, uy + 40, C[4]), T(ux + 234, uy + 44, "geniş taban", "start", 9.5, 700, C[4])]
+g += [kutu(ux - 10, uy + 86, 280, 42, "Kan yoluyla karaciğer absesi", "#f6e4ea", C[4], 10.5, True, "en sık bağırsak dışı tutulum; erkekte sık", "\"çikolata sosu\" irin, sağ üst kadran ağrısı")]
+g += [kutu(ux - 10, uy + 138, 280, 28, "Tedavi: METRONİDAZOL + luminal ilaç", "#faf7f2", INK, 10.5, True)]
+yaz("amip", 710, 320, g, "Entamoeba histolytica dongusu ve sise agzi ulser")
+print("amip semasi eklendi")
+
+# 13) helmintlerin bulas yollari
+g = []
+g += [T(350, 20, "Helmintler insana nasıl girer?", fs=13, w=700)]
+yollar = [
+ ("AĞIZ: yumurta yutulur", ["Ascaris lumbricoides (embriyonlu yumurta)", "Trichuris trichiura (limon yumurta)", "Enterobius vermicularis (perianal yumurta)", "Hymenolepis nana · Taenia solium yumurtası → sistiserkoz"], 0),
+ ("DERİ: larva girer", ["Ancylostoma duodenale · Necator americanus", "Strongyloides stercoralis", "(filariform larva)"], 4),
+ ("AĞIZ: etteki larva", ["Taenia saginata (çiğ sığır eti)", "Taenia solium (çiğ domuz eti)", "Trichinella spiralis (domuz)", "Diphyllobothrium latum (çiğ balık)"], 1),
+ ("AĞIZ: su bitkisi / ara konak", ["Fasciola hepatica (su teresi)", "Fasciolopsis buski (su bitkisi)", "Clonorchis (balık) · Hymenolepis nana (pire)"], 3),
+]
+y = 46
+for ad, liste, ci in yollar:
+    h = 20 + len(liste) * 14
+    g += [kutu(20, y, 200, h, ad, "#fff", C[ci], 10.5, True)]
+    g += [ok(224, y + h / 2, 250, y + h / 2, C[ci])]
+    for i, s in enumerate(liste):
+        g += [T(256, y + 18 + i * 14, "· " + s, "start", 9.8)]
+    y += h + 12
+g += [kutu(20, y + 4, 670, 26, "Helmintler insan bağırsağında ÇOĞALMAZ: hastalığın ağırlığını alınan parazit sayısı belirler", "#faf7f2", INK, 10, True)]
+g += [kutu(20, y + 36, 670, 26, "İstisna — otoenfeksiyon: Strongyloides stercoralis, Enterobius vermicularis, Hymenolepis nana", "#f6e4ea", C[4], 10, True)]
+yaz("helmint_bulas", 710, y + 74, g, "Helmintlerin insana bulas yollari")
+print("helmint bulas semasi eklendi")
+
+# 14) antihelmintiklerin etki noktalari
+g = []
+g += [T(355, 20, "Antihelmintikler paraziti nasıl felç eder?", fs=13, w=700)]
+# parazit kas hucresi semasi
+g += [f'<rect x="210" y="46" width="290" height="120" rx="10" fill="#fbf9f6" stroke="{INK}" stroke-width="1.4"/>',
+      T(355, 62, "Parazitin kas hücresi", fs=11, w=700)]
+# nikotinik reseptor (sol ust)
+g += [kutu(222, 74, 128, 36, "Nikotinik reseptör", "#f6e4ea", C[4], 9.5, True, "Na⁺ girer → depolarizasyon")]
+# klor kanali (sag ust)
+g += [kutu(360, 74, 128, 36, "Klor kanalı", "#e8f0f4", C[0], 9.5, True, "Cl⁻ girer → hiperpolarizasyon")]
+# sonuclar
+g += [kutu(222, 122, 128, 34, "SPASTİK FELÇ", "#f6e4ea", C[4], 10, True, "kas sürekli kasılır"),
+      kutu(360, 122, 128, 34, "FLASK (GEVŞEK) FELÇ", "#e8f0f4", C[0], 10, True, "kas gevşer")]
+g += [ok(286, 110, 286, 120, C[4]), ok(424, 110, 424, 120, C[0])]
+# ilaclar
+g += [kutu(20, 74, 170, 36, "Pirantel pamoat", "#fff", C[4], 10, True, "Levamizol"), ok(192, 92, 220, 92, C[4])]
+g += [kutu(520, 74, 170, 36, "İvermektin", "#fff", C[0], 10, True, "Piperazin (GABA agonisti)"), ok(518, 92, 490, 92, C[0])]
+# alt: felc disi mekanizmalar
+y2 = 186
+g += [T(355, y2 + 4, "Felç yapmayanlar: enerji ve iskelet hedefli", fs=11.5, w=700)]
+g += [kutu(20, y2 + 16, 210, 54, "BENZİMİDAZOLLER", "#e6f0ea", C[3], 10.5, True, "Albendazol · Mebendazol · Tiabendazol", "β-tubulin → mikrotübül yapılamaz → glukoz alımı ve ATP ↓"),
+      kutu(245, y2 + 16, 210, 54, "NİKLOZAMİD", "#f6e9df", C[1], 10.5, True, "Oksidatif fosforilasyonu ayırır", "ATP üretilemez (yalnız lümende etkili)"),
+      kutu(470, y2 + 16, 220, 54, "PRAZİKUANTEL", "#efe7f2", C[2], 10.5, True, "Ca²⁺ geçirgenliği ↑ → SPASTİK felç", "+ tegüment hasarı (sestod ve trematod)")]
+g += [kutu(130, y2 + 82, 450, 26, "Pirantel (spastik) + Piperazin (flask) ZIT etkilidir: birlikte verilmez", "#faf7f2", C[4], 10, True)]
+yaz("antihelmintik", 710, y2 + 122, g, "Antihelmintik ilaclarin etki noktalari ve felc tipleri")
+print("antihelmintik semasi eklendi")

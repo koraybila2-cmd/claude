@@ -74,14 +74,27 @@ for b, ad in BOL.items():
 print("eksik aciklama:", len(eksik), eksik[:12])
 
 
-# --- ezber ozeti: her bolumdeki ?? ipuclari ---
-LE = ["# Son Gün Ezber Özeti | Her bölümün en çok tekrar eden bilgisi tek satırda. Sınavdan önceki gün okuyun; her madde bir çıkmış soruya karşılık gelir. || MSD-7 · Ezber"]
+# --- ezber ozeti: her bolumun ozet maddeleri + ?? ipuclari ---
+LE = ["# Son Gün Ezber Özeti | Her bölümün özü tek satırlık maddeler hâlinde: önce bölümün ana hatları, sonra ezber ipuçları. Sınavdan önceki gün yalnız bu bölümü okumak, kitabın tamamını hatırlamaya yeter. || MSD-7 · Ezber"]
 for b, ad in BOL.items():
-    ip = [l[3:].strip() for l in open(f"{K}/k{b}.txt", encoding="utf-8")] if os.path.exists(f"{K}/k{b}.txt") else []
-    ip = [l[3:].strip() for l in open(f"{K}/k{b}.txt", encoding="utf-8") if l.startswith("?? ")]
-    if not ip: continue
+    kp = f"{K}/k{b}.txt"
+    if not os.path.exists(kp): continue
+    sat = open(kp, encoding="utf-8").read().split("\n")
+    ip = [l[3:].strip() for l in sat if l.startswith("?? ")]
+    # bolum ozeti maddeleri
+    ozet, topla = [], False
+    for l in sat:
+        if re.match(r"^## .*[Öö]zet", l): topla = True; continue
+        if l.startswith("## "): topla = False
+        if topla and l.startswith("- "): ozet.append(l[2:].strip())
+    if not ip and not ozet: continue
     LE.append(f"## {b}. {ad}")
-    LE += ["- " + x for x in ip]
+    if ozet:
+        LE.append("### Bölümün özü")
+        LE += ["- " + x for x in ozet]
+    if ip:
+        LE.append("### Ezber ipuçları")
+        LE += ["- " + x for x in ip]
 open(f"{Y}/ezber.txt", "w", encoding="utf-8").write("\n".join(LE) + "\n")
 
 # --- on sayfa: genel bakis + bolum dagilimi + soru dizini ---
@@ -92,20 +105,22 @@ bolum_say = _c.Counter(a["bolum"] for a in AT)
 bolum_soru = _c.Counter()
 for a in AT: bolum_soru[a["bolum"]] += len(a["sorular"])
 tekrar3 = sum(len(a["sorular"]) >= 3 for a in AT)
-LO = ["# MSD-7 Çıkmış Soru Kitabı | Blok 2 · Modül 7 — mikrobiyolojik ishal, gastroenterit etkenleri, bağırsak paraziter hastalıkları ve antiparaziter ilaçlar. Yedi yılın (2019-20 … 2025-26) tüm çıkmış soruları konu konu, çözümleriyle. || MSD-7 · 2026-27",
-      "~ Hazırlık: 6 ders sunumu + 7 sınavın 339 sorusu",
+LO = ["# MSD-7 Ders Kitabı | Blok 2 · Modül 7 — mikrobiyolojik ishal, gastroenterit etkenleri, bağırsak paraziter hastalıkları ve antiparaziter ilaçlar. Konuların tamamı mekanizmasıyla anlatılır; her bölümün sonunda yedi yılın (2019-20 … 2025-26) çıkmış soruları çözümleriyle bulunur. || MSD-7 · 2026-27",
+      "~ 10 bölüm · textbook derinliğinde konu anlatımı · 339 çıkmış soru · son gün ezber özeti",
       "## Bu kitap nasıl kullanılır?",
-      f"Elinizdeki yedi MSD-7 sınavında toplam **339 soru** çıkmış; bunların çoğu her yıl aynı ya da çok benzer biçimde tekrar ediyor. Kitap bu soruları **{len(AT)} ayrı soruya** indirip **10 bölüme** ayırdı. Her bölüm iki parçadan oluşur:",
-      "1. **Konu anlatımı:** sorunun dayandığı bilgi, sorular yokmuş gibi, nedenselliğiyle anlatılır; tablolar, şemalar ve ezber ipuçlarıyla.",
-      "2. **Çıkmış sorular:** her soru kartının en yeni hâli, doğru şıkkı işaretli, çeldiricilerin neden yanlış olduğu ve **sağ üstte kaç kez sorulduğu** (koyu rozet = 3+ kez), kartın altında da **çıktığı tüm sınavlar**.",
-      "Kitabın sonunda tek satırlık **son gün ezber özeti** var. En çok tekrar eden konulardan başlamak isterseniz aşağıdaki tabloda “kez” sütununa bakın.",
+      "Kitabın omurgası **konu anlatımıdır**. Her bölüm, konuyu sorular yokmuş gibi, baştan ve nedenselliğiyle anlatır: olayın hücresel ya da epidemiyolojik mekanizması kurulur, tablolarla karşılaştırmalar yapılır, şemalarla çok adımlı süreçler görselleştirilir. Amaç, soruları tanımak değil konuyu bilmektir; soru tanımak bunun yan ürünüdür.",
+      "Her bölümün yapısı şöyledir:",
+      "1. **Konu anlatımı:** mekanizmadan kliniğe, tablolar ve şemalarla. Metin içindeki **sınav notu** kutuları sık karıştırılan ya da kaynaklar arasında çelişen noktaları, **ezber ipucu** kutuları ise akılda kalıcı kısayolları verir.",
+      "2. **Bölüm özeti:** o bölümün özü, maddeler hâlinde.",
+      f"3. **Çıkmış sorular:** yedi sınavda bu bölümden çıkan sorular. Yinelenen sorular tek kartta toplanmıştır: kartın sağ üstünde **kaç kez sorulduğu** (koyu rozet = 3 ve üzeri), altında **çıktığı tüm sınavlar**, ardından doğru şık ve **çeldiricilerin neden yanlış olduğu** yazar. Toplam **339 soru**, **{len(AT)} ayrı soruya** karşılık gelir.",
+      "Kitabın sonunda **son gün ezber özeti** vardır: her bölümün özü ve ezber ipuçları tek satırlık maddeler hâlinde toplanmıştır. Sınavdan önceki gün yalnız o bölüm okunabilir.",
       "## Bölümlere dağılım",
       "| # | Bölüm | Farklı soru | Toplam soru |"]
 for b, ad in BOL.items():
     LO.append(f"| {b} | {ad} | {bolum_say[b]} | {bolum_soru[b]} |")
 LO += [f"| | **Toplam** | **{len(AT)}** | **{top}** |",
        f"|= Yedi sınavın {top} sorusu {len(AT)} ayrı soruya karşılık geliyor; {tekrar3} soru 3 ya da daha fazla kez çıkmış.",
-       "## En çok tekrar eden sorular (3+ kez)"]
+       "## Sınavda en çok tekrar eden konular (3+ kez)"]
 cok = sorted([a for a in AT if len(a["sorular"]) >= 3], key=lambda a: -len(a["sorular"]))
 LO.append("| Kez | Konu | Bölüm |")
 for a in cok:

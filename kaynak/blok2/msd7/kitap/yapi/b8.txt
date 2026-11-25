@@ -1,52 +1,132 @@
-# Bağırsak Nematodları | Nematodların genel özellikleri ve bulaş yolları, Ascaris, Enterobius (kıl kurdu), Trichuris, Strongyloides ve çengelli kurtlar; enfektif dönemleri, tanı yöntemleri ve ayırt edici klinikleri. Bağırsak helmintleri sunumuna (S3) dayanır; 27 soru çıkmıştır. || Bölüm 8 · Yuvarlak solucanlar
+# Bağırsak Nematodları | Helmintlerin genel özellikleri ve bulaş yolları, eozinofilinin anlamı, Ascaris lumbricoides ve Löffler sendromu, Enterobius vermicularis, Trichuris trichiura, çengelli kurtlar ve demir eksikliği anemisi, Strongyloides stercoralis ve hiperenfeksiyon, Trichinella ve tanı yöntemleri. || Bölüm 8 · Yuvarlak solucanlar
 
-## Genel özellikler ve önemli bir ilke
-Nematodlar (yuvarlak solucanlar) silindirik, iki cinsiyetli helmintlerdir. **Önemli ilke: helmintler insan bağırsağında çoğalmaz** (otoenfeksiyon yapan *Strongyloides* ve *Enterobius* istisna); hastalığın ağırlığını alınan parazit sayısı belirler. Tanı genellikle **dışkıda yumurtanın** gösterilmesiyle konur (kültür yapılmaz).
+## 8.1 Helmintlerin genel özellikleri
+Helmintler (solucanlar), protozoonlardan temelde farklı, **çok hücreli** parazitlerdir. Üç gruba ayrılırlar:
+- **Nematodlar (yuvarlak solucanlar):** Silindirik, uçları sivri, **iki cinsiyetli** (ayrı erkek ve dişi), sindirim kanalı tam (ağızdan anüse).
+- **Sestodlar (şeritler/tenyalar):** Yassı, halkalı, **hermafrodit**, sindirim kanalı yok (besini vücut yüzeyinden emer).
+- **Trematodlar (yaprak solucanları):** Yassı, yaprak biçimli, **anüssüz**, vantuzlu, *Schistosoma* dışında hermafrodit.
+### Bütün helmint sorularını çözen üç ilke
+**1. Helmintler insan bağırsağında çoğalmaz.** Yutulan ya da deriden giren her bir larva/yumurta, yalnız bir erişkin solucan verir. Bu ilkenin üç sonucu vardır:
+- **Hastalığın ağırlığını "parazit yükü" (kaç tane alındığı) belirler.** Birkaç *Ascaris* belirtisizken, yüzlercesi bağırsak tıkanıklığı yapar.
+- Enfeksiyon kendiliğinden, parazitin ömrü dolunca biter (yeniden maruziyet olmazsa).
+- **İstisna — otoenfeksiyon:** ***Strongyloides stercoralis*** (iç otoenfeksiyon: larva bağırsakta olgunlaşıp yeniden invazyon yapar), ***Enterobius vermicularis*** (dış otoenfeksiyon: el-ağız yoluyla yeniden yutma) ve ***Hymenolepis nana***. Bu üçü konakta çoğalabildiği için yıllarca kalıcı olur ve yükleri artabilir.
+**2. Dokuya göç eden larva eozinofili yapar.** Eozinofiller çok hücreli parazitlere karşı IgE aracılı yanıtın hücreleridir; **doku içinde göç eden larvalara** karşı güçlü biçimde uyarılırlar. Bu yüzden:
+- **Larva göçü olan helmintlerde (Ascaris, çengelli kurtlar, Strongyloides) göç döneminde belirgin eozinofili olur.**
+- Yalnız bağırsak lümeninde oturan erişkin solucanlar (*Enterobius*, erişkin *Taenia*) genellikle eozinofili yapmaz ya da çok az yapar.
+- Doku içinde yaşayan larvalarda (*Trichinella*, kist hidatik, sistiserkoz) eozinofili belirgindir.
+**3. Tanı çoğunlukla dışkıda yumurta görmektir.** Helmintler kültürle üretilmez; tanı morfolojiktir. İstisnalar: *Enterobius* (selofan bant), *Strongyloides* (dışkıda **larva**, yumurta değil), doku helmintleri (seroloji, görüntüleme).
 
-## Bulaş yolları ve enfektif dönemler
-Nematodlar insana üç ana yolla bulaşır; bu, sınavın en sık ayırt edici noktasıdır.
+## 8.2 Nematodların bulaş yolları
+@SVG helmint_bulas.svg
+@SEKIL Helmintlerin insana giriş yolları. Giriş yolu, tanısal formu ve korunma yöntemini de belirler.
 | Bulaş yolu | Enfektif form | Nematodlar |
 | **Yumurtanın yutulması** | olgun (embriyonlu/larvalı) yumurta | *Ascaris*, *Trichuris*, *Enterobius* |
-| **Deriden larva girişi** | **filariform larva** | çengelli kurtlar (*Ancylostoma*, *Necator*), *Strongyloides* |
-| **Larvalı etle** | kist/larva | *Trichinella* (domuz eti) |
-|= Bulaş yolları. Yumurta yutulanlar toprakta olgunlaşır; deriden girenler filariform larva gönderir.
-- **Toprak zorunluluğu:** *Ascaris*, *Trichuris* yumurtası toprakta olgunlaşır; çengelli kurt ve *Strongyloides* larvası toprakta gelişir. **İstisna: *Enterobius vermicularis*** — yumurtası perianal bölgede 4-6 saatte enfektif olur, **topraksız, doğrudan kişiden kişiye** bulaşır.
-- **Serbest yaşam:** nematodlar arasında yalnız ***Strongyloides stercoralis*** toprakta serbest yaşayan erişkin döngü kurabilir.
-?? **Enterobius = topraksız, kişiden kişiye; Strongyloides = tek serbest yaşayan; deriden giren = filariform larva.**
+| **Deriden larva girişi** | **filariform larva** | *Ancylostoma duodenale*, *Necator americanus*, *Strongyloides stercoralis* |
+| **Larvalı etin yenmesi** | kistik larva | *Trichinella spiralis* |
+| **Böcek ısırığı** | larva | filaryalar (*Wuchereria*, *Onchocerca*; bağırsak dışı) |
+|= Nematodların bulaş yolları.
+**Toprak zorunluluğu (toprakla bulaşan helmintler, STH):** *Ascaris* ve *Trichuris* yumurtası toprakta 2-4 haftada olgunlaşır; çengelli kurt ve *Strongyloides* larvası toprakta gelişir. Yani bu parazitler için dışkının toprağa karışması ve bir süre geçmesi gerekir.
+!! **İstisna: *Enterobius vermicularis*.** Yumurtası perianal bölgede **4-6 saatte** enfektif hâle gelir; toprakta olgunlaşmaya gerek yoktur. Bu yüzden **kişiden kişiye doğrudan**, el, iç çamaşırı, çarşaf ve toz yoluyla bulaşır ve aile/yurt/kreş içinde hızla yayılır.
+!! **Serbest yaşam:** Bağırsak nematodları arasında **yalnız *Strongyloides stercoralis*** toprakta erkek ve dişi erişkinlerin ürediği tam bir serbest yaşam döngüsü kurabilir. Bu özellik onun çevrede çoğalmasını sağlar.
+| Karşılaştırma | *Ascaris* | *Trichuris* | *Enterobius* | Çengelli kurt | *Strongyloides* |
+| Giriş | ağız (yumurta) | ağız (yumurta) | ağız (yumurta) | **deri (filariform larva)** | **deri (filariform larva)** |
+| Toprak gerekli mi | evet | evet | **hayır** | evet | evet |
+| Akciğer göçü | **var** | **yok** | **yok** | **var** | **var** |
+| Dışkıda bulunan | yumurta | yumurta | (yumurta perianalde) | yumurta | **rabditiform larva** |
+| Otoenfeksiyon | yok | yok | **var** | yok | **var** |
+| Serbest yaşam | yok | yok | yok | yok | **var** |
+|= Bağırsak nematodlarının karşılaştırması.
 
-## Ascaris lumbricoides
-İnsan bağırsağının **en büyük/en uzun nematodudur**. Embriyonlu (larvalı) yumurtanın yutulmasıyla bulaşır; larva bağırsaktan kana, oradan akciğere göç eder (**Löffler sendromu:** öksürük, geçici akciğer infiltratı, **eozinofili**), yutulup bağırsağa döner ve erişkin olur. Erişkin safra yolunu ve bağırsağı tıkayabilir. Tanı **dışkıda yumurta** (yalnız erkek varsa yumurta görülmez); bulaştan sorumlu form **embriyonlu yumurtadır**. Bulaş sığır etiyle değildir (o *T. saginata*).
-?? ***Ascaris* = en uzun nematod + akciğer göçü (Löffler, eozinofili) + embriyonlu yumurtayla bulaş.**
+## 8.3 Ascaris lumbricoides
+**Özellik:** İnsan bağırsağında yaşayan **en büyük/en uzun nematoddur** (dişi 20-35 cm). Dünyada en yaygın helmint enfeksiyonlarından biridir.
+**Yaşam döngüsü:**
+1. Toprakta olgunlaşmış, içinde larva bulunan **embriyonlu yumurta** yutulur. (Yeni atılmış yumurta bulaştırıcı değildir — toprakta 2-4 hafta geçmesi gerekir.)
+2. İnce bağırsakta larva çıkar, bağırsak duvarını delip **portal dolaşıma** girer.
+3. Karaciğer → sağ kalp → **akciğer kapillerleri**. Alveollere geçer, bronş ağacında yukarı tırmanır.
+4. Farenkste yutulur, yeniden bağırsağa iner ve burada erişkin olur. Yumurtlamaya kadar geçen süre 2-3 aydır.
+**Klinik:**
+- **Göç dönemi — Löffler sendromu:** Larvaların akciğerden geçişi sırasında kuru öksürük, hırıltı, göğüs ağrısı, ateş, akciğer grafisinde **gezici infiltratlar** ve belirgin **eozinofili (%30-50)**. Birkaç haftada kendiliğinden geçer.
+- **Bağırsak dönemi:** Çoğu enfeksiyon belirtisizdir. Yük artınca karın ağrısı, iştahsızlık, malnütrisyon ve çocuklarda büyüme geriliği.
+- **Komplikasyonlar:** Erişkin solucanlar yumak yaparak **bağırsak tıkanıklığı** (özellikle çocukta, ileoçekal bölgede) yapar. Dar kanallara girme eğilimleri vardır: **safra yoluna** girerse tıkanma sarılığı ve kolanjit, **pankreas kanalına** girerse pankreatit, apendikse girerse apandisit yapar. Ateş ya da ilaç tedavisiyle hareketlenip bu kanallara kaçabilirler.
+**Tanı:** Dışkıda **yumurta** (döllenmiş, döllenmemiş ve dış tabakası kaybolmuş "dekortike" biçimleri vardır). **Yalnız erkek solucan varsa yumurta görülmez**; o zaman tanı erişkin solucanın atılmasıyla ya da görüntülemeyle konur.
+**Tedavi:** Albendazol, mebendazol ya da pirantel pamoat (ayrıntısı Bölüm 10).
+?? ***Ascaris* = en uzun nematod + akciğer göçü (Löffler, eozinofili) + embriyonlu yumurtayla bulaş + tıkanıklık/safra yolu komplikasyonları.**
 
-## Enterobius vermicularis (kıl kurdu)
-Çekum ve kolonda yaşar. **Dişi gece perianal bölgeye yumurtlar;** yumurta 4-6 saatte enfektif olur. Başlıca belirti **gece anal kaşıntıdır** (kızlarda vulvovajinit). **Otoenfeksiyon** (el-ağız) ve aile içi yayılım tipiktir. **Artropodla (sinek-pire) bulaşmaz.** Enfektif dönem **döllenmiş (olgun) yumurtadır** (öğrenci notlarında bazı yıllar “ergin dönem” diye işaretlenmiş olsa da standart cevap olgun yumurtadır).
-- **Tanı: selofan bant (selofanlı lam) yöntemi** — sabah, yıkanmadan perianal bölgeden alınır; dışkıda yumurta genellikle görülmez.
-?? ***Enterobius* = gece anal kaşıntı + selofan bant + otoenfeksiyon + topraksız bulaş.** Ürtiker-eozinofili onun en sık belirtisi **değildir** (en sık belirti kaşıntıdır).
+## 8.4 Enterobius vermicularis (kıl kurdu, oksiyur)
+**Özellik:** Küçük, beyaz, iplik benzeri nematod (dişi ~1 cm). Çekum ve kolonda yaşar. **Dünyada en sık görülen helmint enfeksiyonudur**, özellikle okul çağı çocuklarında.
+**Yaşam döngüsü ve bulaşın özelliği:**
+1. Gebe dişi, **gece** anüsten dışarı çıkıp **perianal deriye yumurtlarını bırakır** ve ölür.
+2. Yumurtalar perianal bölgede, vücut ısısında **4-6 saatte enfektif** hâle gelir.
+3. Kaşınma sonucu yumurtalar **tırnak altına** geçer; el-ağız yoluyla yeniden yutulur (**otoenfeksiyon**) ya da iç çamaşırı, çarşaf, havlu, toz ve oyuncaklarla başkalarına geçer.
+4. Yumurtalar ev tozunda haftalarca canlı kalır; bu yüzden **aile bireylerinin tümü** birlikte tedavi edilir ve çamaşırlar yüksek ısıda yıkanır.
+**Klinik:** Başlıca belirti **gece artan anal kaşıntıdır** (perianal deride dişinin hareketi ve yumurtalara karşı yanıt). Huzursuzluk, uykusuzluk, diş gıcırdatma, iştahsızlık. Kızlarda solucan vajinaya göç ederek **vulvovajinit** yapabilir; nadiren apendiks lümeninde bulunur. **Ürtiker ve eozinofili bu parazitin en sık belirtileri değildir** — doku göçü yapmadığı için eozinofili belirgin değildir.
+**Tanı: selofan bant (selofanlı lam) yöntemi.** Sabah, hasta tuvalete gitmeden ve yıkanmadan önce perianal bölgeye şeffaf bant yapıştırılıp lama aktarılır ve yumurtalar mikroskopta aranır. Üç ayrı sabah tekrarlanırsa duyarlılık %90'ı aşar. **Dışkıda yumurta genellikle görülmez** (çünkü dişi bağırsak içine değil, dışarı yumurtlar).
+**Tedavi:** Mebendazol, albendazol ya da pirantel pamoat; **2 hafta sonra doz tekrarlanır** (otoenfeksiyonu kesmek için) ve **ev halkının tümü** tedavi edilir.
+?? ***Enterobius* = gece anal kaşıntı + selofan bant + otoenfeksiyon + topraksız, kişiden kişiye bulaş; artropodla bulaşmaz.**
 
-## Trichuris trichiura (kamçı kurt)
-Çekum ve kolonda yaşar; **limon/fıçı biçiminde, iki kutbunda tıpa olan yumurtası** vardır. Dışkıyla kirlenmiş yiyecekle, **yumurtanın yutulmasıyla** bulaşır. Ağır enfeksiyonda rektum mukozasına invaze olup, özellikle küçük çocukta **rektal prolapsus** ve tenezm yapar. Tanı **dışkıda limon biçimli yumurta** (selofan bant değil — o *Enterobius* içindir). **Larva göçü yoktur.**
-?? ***Trichuris* = limon yumurta + çocukta rektal prolapsus + dışkı mikroskobisi (selofan bant değil).**
+## 8.5 Trichuris trichiura (kamçı kurt)
+**Özellik:** Ön tarafı ince (kamçı sapı gibi), arka tarafı kalın solucandır; ince ucunu kolon mukozasına gömerek yerleşir. **Yumurtası limon/fıçı biçiminde**, iki kutbunda şeffaf tıpalar bulunur — mikroskopta çok tipiktir.
+**Döngü:** Toprakta olgunlaşan yumurta yutulur; larva doğrudan kolonda erişkine dönüşür. **Akciğer göçü yoktur.**
+**Klinik:** Hafif yükte belirtisizdir. Ağır yükte (özellikle çocuklarda) kanlı-mukuslu ishal, karın ağrısı, tenezm, demir eksikliği anemisi ve büyüme geriliği; sürekli ıkınma ve rektum mukozasının tutulumu nedeniyle **rektal prolapsus** gelişir — prolabe mukozanın üzerinde solucanlar görülebilir. Bu tablo "Trichuris dizanteri sendromu" diye anılır.
+**Tanı:** Dışkıda limon biçimli yumurta. **Selofan bant yöntemi kullanılmaz** (o *Enterobius* içindir).
+**Tedavi:** Mebendazol/albendazol (*Trichuris*'te yanıt diğerlerine göre daha düşüktür; ivermektin eklenebilir).
+?? ***Trichuris* = limon yumurta + çocukta rektal prolapsus + larva göçü yok + tanı dışkı mikroskobisi.**
 
-## Strongyloides stercoralis
-Deriden giren **filariform larvayla** bulaşır; akciğer göçü yapar. Dışkıda **rabditiform larva** görülür (yumurta değil). **Otoenfeksiyon** yapabildiği için yıllarca kalıcı olur ve **bağışıklığı baskılanan hastada (AIDS, kanser kemoterapisi, kortikosteroid, transplant) hiperenfeksiyon/dissemine enfeksiyon** yapar: akciğer ve dokulara yoğun larva göçü, pnömoni, Gram negatif sepsis ve **menenjit**. Serbest yaşam döngüsü olan tek nematoddur. Tanı dışkı, duodenum sıvısı, balgamda rabditiform larva.
-?? ***Strongyloides* = deriden filariform larva, dışkıda rabditiform larva, otoenfeksiyon, bağışıklık baskısında hiperenfeksiyon (pnömoni + menenjit).**
+## 8.6 Çengelli kurtlar (Ancylostoma duodenale, Necator americanus)
+**Özellik:** Ağız kapsülünde *Ancylostoma*'nın **dişleri**, *Necator*'un **kesici plakları** vardır. İnce bağırsak (özellikle jejunum) mukozasına tutunup **kan emerler**.
+**Yaşam döngüsü:**
+1. Dışkıyla atılan yumurtadan toprakta rabditiform larva çıkar, gelişerek **filariform larva** olur.
+2. Filariform larva, çıplak ayakla temas eden **deriyi delerek** girer (giriş yerinde kaşıntılı döküntü: "ground itch", **toprak kaşıntısı**).
+3. Kan yoluyla akciğere gider, alveollere geçer, bronşlardan yukarı tırmanıp yutulur (**akciğer göçü**; bu dönemde öksürük ve eozinofili olur; *A. duodenale* ağızdan da alınabilir ve "çengelli solucan anjini" denen boğaz yakınması yapabilir).
+4. İnce bağırsakta erişkin olur, mukozaya tutunur.
+**Anemi mekanizması:** Her erişkin solucan günde **0,03-0,2 ml kan** emer. Ayrıca tutunma yerini değiştirdiğinde eski yerden sızıntı sürer (antikoagülan salgılarlar). Yüzlerce solucanla, aylar-yıllar süren bu kronik kayıp demir depolarını tüketir: **demir eksikliği (mikrositer, hipokrom) anemisi** ve protein kaybı. Malnütrisyonlu çocukta tablo ağırdır: derin anemi, halsizlik, karın ağrısı, büyüme ve bilişsel gerilik; ağır olguda kalp yetmezliği ve ödem.
+**Epidemiyoloji:** Sıcak-nemli bölgeler; ülkemizde Doğu Karadeniz ve Doğu Akdeniz. Ayakkabı giymek ve altyapı temel korunma yollarıdır.
+**Tanı:** Dışkıda ince kabuklu, oval yumurta (*A. duodenale* ve *N. americanus* yumurtaları ayırt edilemez). Tam kan sayımında mikrositer anemi, eozinofili, düşük ferritin.
+**Tedavi:** Albendazol/mebendazol/pirantel + **demir desteği**.
+?? **Malnütrisyonlu çocukta derin anemi + karın ağrısı + dışkıda nematod yumurtası = çengelli kurt (*Necator*/*Ancylostoma*)**; **demir eksikliği** anemisi yapar (megaloblastik anemi yapan *D. latum*'dur).
 
-## Çengelli kurtlar (Ancylostoma duodenale, Necator americanus)
-Deriden giren **filariform larvayla** bulaşır; akciğer göçü yaparlar. Erişkin ince bağırsak mukozasına tutunup **kan emer: demir eksikliği anemisi** ve eozinofili yaparlar. Malnütrisyonlu çocukta **derin anemi + karın ağrısı + dışkıda nematod yumurtası** klasik çengelli kurt (*Necator*) tablosudur.
-?? **Anemi yapan helmint = çengelli kurtlar (*Necator*, *Ancylostoma*).** *Diphyllobothrium*'un megaloblastik anemisiyle karıştırmayın: çengelli kurt **demir eksikliği (mikrositer)** anemisi yapar.
+## 8.7 Strongyloides stercoralis
+Bu parazit, bağırsak nematodları arasında en çok ayrıcalığı olan türdür ve bu ayrıcalıkları onu klinik olarak en tehlikeli hâle getirir.
+**Üç özgün özelliği:**
+1. **Serbest yaşam döngüsü:** Toprakta erkek ve dişi erişkinler üreyerek bağımsız bir yaşam sürdürebilir; bu, çevrede sürekli bir kaynak oluşturur.
+2. **Otoenfeksiyon:** Bağırsakta oluşan rabditiform larvalar, dışarı atılmadan filariform hâle dönüşebilir ve **bağırsak duvarını ya da perianal deriyi delip** yeniden döngüye girebilir. Bu nedenle enfeksiyon, yeniden maruz kalınmasa bile **onlarca yıl sürebilir**.
+3. **Partenogenetik dişi:** İnsan vücudunda yalnız dişi bulunur ve erkek olmadan yumurta üretir.
+**Yaşam döngüsü:** Filariform larva **deriden girer** → kan yoluyla akciğer → alveol → bronş → yutulma → ince bağırsakta erişkin dişi → mukozaya gömülür ve yumurtlar → yumurtalar mukozada açılır, **dışkıya rabditiform larva atılır** (yumurta değil — bu, dışkıda yumurta aranan diğer nematodlardan önemli bir farktır).
+**Klinik:**
+- **Akut:** Giriş yerinde kaşıntılı döküntü, öksürük, eozinofili.
+- **Kronik:** Yıllarca süren aralıklı karın ağrısı, ishal ve kabızlık dönemleri, ürtiker. **Larva currens**: perianal bölgeden hızla ilerleyen, kaşıntılı, kıvrımlı döküntü (otoenfeksiyon sırasında larvanın deri altı göçü) — çok tipiktir.
+- **Hiperenfeksiyon ve dissemine strongiloidiyaz:** **Hücresel bağışıklığın baskılandığı durumlarda** (özellikle **kortikosteroid tedavisi**, HTLV-1 enfeksiyonu, organ nakli, lösemi ve kemoterapi, malnütrisyon) otoenfeksiyon denetimden çıkar. Larvalar **akciğer, karaciğer, beyin ve diğer dokulara kitlesel olarak göç eder**. Klinik: ağır karın ağrısı, ileus, kanlı ishal, **pnömoni**, solunum yetmezliği; larvalar bağırsak bakterilerini kana taşıdığı için **Gram negatif sepsis ve menenjit** gelişir. **Ölüm oranı çok yüksektir.** Önemli bir ayrıntı: hiperenfeksiyonda eozinofili, steroid etkisiyle **baskılanmış olabilir** — eozinofilinin olmaması tanıyı dışlamaz.
+!! Bu yüzden **kortikosteroid ya da bağışıklık baskılayıcı tedavi başlanacak, endemik bölgeden gelen hastalar önceden *Strongyloides* açısından taranır ve gerekirse tedavi edilir.**
+**Tanı:** Dışkıda **rabditiform larva** (atılım aralıklıdır, birden çok örnek gerekir; Baermann yöntemi ya da agar plak kültürü duyarlılığı artırır), duodenal aspirat/string test, hiperenfeksiyonda **balgamda larva**; seroloji (ELISA) tarama için değerlidir.
+**Tedavi:** **İvermektin ilk seçenektir** (albendazol alternatiftir). Hiperenfeksiyonda uzun süreli, bazen parenteral tedavi gerekir.
+!! Mikrobiyoloji sunumunda *Strongyloides* tedavisi için tiyabendazol ve albendazol anılırken, farmakolojide **ivermektin ilk tercihtir**. Güncel kabul ivermektin yönündedir; soru kaynağına göre yanıtlayın.
+?? ***Strongyloides* = deriden filariform larva, dışkıda rabditiform larva, otoenfeksiyon, serbest yaşam, steroid altında hiperenfeksiyon (pnömoni + Gram negatif menenjit/sepsis); tedavi ivermektin.**
 
-## Larva göçü (akciğer) olan ve olmayanlar
-| Akciğer göçü VAR | Akciğer göçü YOK |
-| *Ascaris*, *Strongyloides*, çengelli kurtlar (*Ancylostoma*, *Necator*) | *Trichuris*, *Enterobius* |
-|= Larva göçü. *Trichuris* ve *Enterobius* yumurtadan çıkıp doğrudan bağırsakta erişkin olur, akciğere gitmez.
+## 8.8 Trichinella spiralis (kısa not)
+Bağırsak lümeninde değil, **kasta** yaşadığı için ayrı bir yerdedir ama bulaş yoluyla bu bölüme girer. **Az pişmiş domuz eti** (ya da yaban domuzu, ayı) içindeki kistli larvanın yenmesiyle bulaşır. Larvalar bağırsakta erişkine dönüşür; dişi yeni larvalar doğurur, bunlar kan yoluyla **çizgili kaslara** yerleşip kistleşir.
+**Klinik:** İlk hafta bağırsak evresi (ishal, karın ağrısı); sonra kas evresi: **yüksek ateş, kas ağrısı, periorbital ödem, konjunktival kanama ve çok belirgin eozinofili**; ağır olguda miyokardit ve ensefalit. Tanı seroloji ve kas biyopsisiyle; tedavi albendazol/mebendazol + kortikosteroid.
 
-## Bölüm özeti
-- Deriden giren (filariform larva): çengelli kurtlar, *Strongyloides*. Yumurta yutulan: *Ascaris*, *Trichuris*, *Enterobius*.
-- *Enterobius*: topraksız, kişiden kişiye, gece anal kaşıntı, selofan bant, otoenfeksiyon; artropodla bulaşmaz.
-- *Ascaris*: en uzun nematod, akciğer göçü, embriyonlu yumurta.
+## 8.9 Tanı: dışkıda ne ararsınız?
+| Parazit | Dışkıda/örnekte görülen |
+| *Ascaris* | yumurta (döllenmiş/döllenmemiş/dekortike); erişkin solucan |
+| *Trichuris* | **limon biçimli, iki kutbu tıpalı yumurta** |
+| *Enterobius* | **perianal selofan bantta yumurta** (dışkıda genellikle yok) |
+| Çengelli kurtlar | ince kabuklu oval yumurta |
+| ***Strongyloides*** | **rabditiform larva** (yumurta değil) |
+| *Trichinella* | dışkıda bulunmaz; **seroloji + kas biyopsisi** |
+|= Nematod tanısında aranan form.
+
+## 8.10 Bölüm özeti
+- Helmintler insanda çoğalmaz; yük belirleyicidir. **Otoenfeksiyon istisnaları: *Strongyloides*, *Enterobius*, *H. nana*.**
+- Doku/larva göçü eozinofili yapar; yalnız lümende oturanlar yapmaz.
+- Yumurta yutulanlar: *Ascaris*, *Trichuris*, *Enterobius*. Deriden filariform larvayla girenler: çengelli kurtlar, *Strongyloides*.
+- **Topraksız bulaşan tek nematod *Enterobius*** (perianal yumurta 4-6 saatte enfektif, kişiden kişiye). **Serbest yaşayan tek nematod *Strongyloides*.**
+- Akciğer göçü **var**: *Ascaris*, çengelli kurtlar, *Strongyloides*. **Yok**: *Trichuris*, *Enterobius*.
+- *Ascaris*: en uzun nematod, Löffler sendromu, safra yolu ve bağırsak tıkanıklığı; bulaştırıcı form embriyonlu yumurta.
+- *Enterobius*: gece anal kaşıntı, selofan bant, aile taraması, 2 hafta sonra doz tekrarı; artropodla bulaşmaz.
 - *Trichuris*: limon yumurta, rektal prolapsus, larva göçü yok.
-- *Strongyloides*: tek serbest yaşayan, dışkıda rabditiform larva, otoenfeksiyon, bağışıklık baskısında hiperenfeksiyon.
-- Çengelli kurtlar: demir eksikliği anemisi; *Trichuris* ve *Enterobius* dışında hepsi akciğer göçü yapar.
+- Çengelli kurtlar: kan emer → **demir eksikliği anemisi**; deriden girer, ground itch.
+- *Strongyloides*: dışkıda rabditiform larva; steroid/HTLV-1/nakil altında **hiperenfeksiyon** (pnömoni, Gram negatif sepsis ve menenjit), eozinofili baskılanmış olabilir; tedavi ivermektin.
 
 ## Çıkmış sorular: Bağırsak Nematodları
 Bu bölümden 7 sınavda **27 soru** çıktı; bunlar **16 farklı soruya** karşılık geliyor ve **7 tanesi** birden fazla yıl soruldu. Her kartta sorunun en yeni hâli, sağ üstte kaç kez sorulduğu, kartın altında da çıktığı tüm sınavlar yazar. Rozeti koyu olanlar 3 ve daha fazla kez sorulmuş sorulardır.

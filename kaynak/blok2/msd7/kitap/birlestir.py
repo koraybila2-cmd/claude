@@ -6,8 +6,8 @@ from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 K = os.path.dirname(os.path.abspath(__file__)); Y = f"{K}/yapi"; os.makedirs(Y, exist_ok=True)
-CIKTI = "/home/user/claude/ciktilar/blok2/MSD7_Cikmis_Soru_Kitabi_2026-27.pdf"
-ALT = "Blok 2 · MSD-7 · Çıkmış soru kitabı · 2026-27"
+CIKTI = "/home/user/claude/ciktilar/blok2/MSD7_Ders_Kitabi_2026-27.pdf"
+ALT = "Blok 2 · MSD-7 · Ders kitabı · 2026-27"
 BOL = {1: "İshale Yaklaşım, Klinik Tipler ve Viral Etkenler", 2: "Dehidratasyon ve Sıvı Tedavisi", 3: "Su ve Besin Kaynaklı Salgınlar",
        4: "Bağırsak Mikrobiyotası ve Probiyotikler", 5: "Salmonella, Shigella, E. coli, Yersinia ve Laboratuvar Tanısı",
        6: "Toksin Kaynaklı İshaller ve Diğer Bakteriler", 7: "Sindirim Sistemi Protozoonları", 8: "Bağırsak Nematodları",
@@ -24,7 +24,7 @@ def ekle(sayfalar):
     ilk = len(w.pages)
     for s in sayfalar: w.add_page(s)
     return ilk
-isaret.append(("Genel bakış, dağılım ve en sık sorular", ekle(on.pages)))
+isaret.append(("Giriş: kitabın yapısı ve konu dağılımı", ekle(on.pages)))
 for n in range(1, 11):
     isaret.append((f"Bölüm {n}: {BOL[n]}", ekle(bol[n].pages)))
 isaret.append(("Son gün ezber özeti", ekle(ezb.pages)))
@@ -37,7 +37,7 @@ for i, pg in enumerate(w.pages):
     c.drawString(64, 13, ALT); c.drawRightString(W - 44, 13, str(i + 1)); c.save()
     pg.merge_page(PdfReader(io.BytesIO(buf.getvalue())).pages[0])
 for a, s in isaret: w.add_outline_item(a, s)
-w.add_metadata({"/Title": "MSD-7 Çıkmış Soru Kitabı 2026-27"})
+w.add_metadata({"/Title": "MSD-7 Ders Kitabı 2026-27"})
 os.makedirs(os.path.dirname(CIKTI), exist_ok=True)
 with open(CIKTI, "wb") as f: w.write(f)
 print("Yazıldı:", CIKTI, len(w.pages), "sayfa")

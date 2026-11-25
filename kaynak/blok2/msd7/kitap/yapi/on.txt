@@ -1,10 +1,12 @@
-# MSD-7 Çıkmış Soru Kitabı | Blok 2 · Modül 7 — mikrobiyolojik ishal, gastroenterit etkenleri, bağırsak paraziter hastalıkları ve antiparaziter ilaçlar. Yedi yılın (2019-20 … 2025-26) tüm çıkmış soruları konu konu, çözümleriyle. || MSD-7 · 2026-27
-~ Hazırlık: 6 ders sunumu + 7 sınavın 339 sorusu
+# MSD-7 Ders Kitabı | Blok 2 · Modül 7 — mikrobiyolojik ishal, gastroenterit etkenleri, bağırsak paraziter hastalıkları ve antiparaziter ilaçlar. Konuların tamamı mekanizmasıyla anlatılır; her bölümün sonunda yedi yılın (2019-20 … 2025-26) çıkmış soruları çözümleriyle bulunur. || MSD-7 · 2026-27
+~ 10 bölüm · textbook derinliğinde konu anlatımı · 339 çıkmış soru · son gün ezber özeti
 ## Bu kitap nasıl kullanılır?
-Elinizdeki yedi MSD-7 sınavında toplam **339 soru** çıkmış; bunların çoğu her yıl aynı ya da çok benzer biçimde tekrar ediyor. Kitap bu soruları **230 ayrı soruya** indirip **10 bölüme** ayırdı. Her bölüm iki parçadan oluşur:
-1. **Konu anlatımı:** sorunun dayandığı bilgi, sorular yokmuş gibi, nedenselliğiyle anlatılır; tablolar, şemalar ve ezber ipuçlarıyla.
-2. **Çıkmış sorular:** her soru kartının en yeni hâli, doğru şıkkı işaretli, çeldiricilerin neden yanlış olduğu ve **sağ üstte kaç kez sorulduğu** (koyu rozet = 3+ kez), kartın altında da **çıktığı tüm sınavlar**.
-Kitabın sonunda tek satırlık **son gün ezber özeti** var. En çok tekrar eden konulardan başlamak isterseniz aşağıdaki tabloda “kez” sütununa bakın.
+Kitabın omurgası **konu anlatımıdır**. Her bölüm, konuyu sorular yokmuş gibi, baştan ve nedenselliğiyle anlatır: olayın hücresel ya da epidemiyolojik mekanizması kurulur, tablolarla karşılaştırmalar yapılır, şemalarla çok adımlı süreçler görselleştirilir. Amaç, soruları tanımak değil konuyu bilmektir; soru tanımak bunun yan ürünüdür.
+Her bölümün yapısı şöyledir:
+1. **Konu anlatımı:** mekanizmadan kliniğe, tablolar ve şemalarla. Metin içindeki **sınav notu** kutuları sık karıştırılan ya da kaynaklar arasında çelişen noktaları, **ezber ipucu** kutuları ise akılda kalıcı kısayolları verir.
+2. **Bölüm özeti:** o bölümün özü, maddeler hâlinde.
+3. **Çıkmış sorular:** yedi sınavda bu bölümden çıkan sorular. Yinelenen sorular tek kartta toplanmıştır: kartın sağ üstünde **kaç kez sorulduğu** (koyu rozet = 3 ve üzeri), altında **çıktığı tüm sınavlar**, ardından doğru şık ve **çeldiricilerin neden yanlış olduğu** yazar. Toplam **339 soru**, **230 ayrı soruya** karşılık gelir.
+Kitabın sonunda **son gün ezber özeti** vardır: her bölümün özü ve ezber ipuçları tek satırlık maddeler hâlinde toplanmıştır. Sınavdan önceki gün yalnız o bölüm okunabilir.
 ## Bölümlere dağılım
 | # | Bölüm | Farklı soru | Toplam soru |
 | 1 | İshale Yaklaşım, Klinik Tipler ve Viral Etkenler | 26 | 35 |
@@ -19,7 +21,7 @@ Kitabın sonunda tek satırlık **son gün ezber özeti** var. En çok tekrar ed
 | 10 | Antihelmintik ve Antiprotozoal İlaçlar | 32 | 42 |
 | | **Toplam** | **230** | **338** |
 |= Yedi sınavın 338 sorusu 230 ayrı soruya karşılık geliyor; 25 soru 3 ya da daha fazla kez çıkmış.
-## En çok tekrar eden sorular (3+ kez)
+## Sınavda en çok tekrar eden konular (3+ kez)
 | Kez | Konu | Bölüm |
 | 8 | İçme ve kullanma sularının ilgili yönetmelik gereği sık aralarla v… | 3 |
 | 7 | su ve besinlerle bulaşan hastalık salgınlarına yönelik mücadeleler… | 3 |
