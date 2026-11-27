@@ -1,0 +1,149 @@
+  <section class="chapter">
+  <p class="chapter-kicker">Bölüm 1 · Sunum 1</p>
+  <h2 class="chapter-title">Dolaşım Biyofiziği</h2>
+  <p class="chapter-lead">Bu bölümün soruları üç kalıpta toplanır. Birincisi "hangisi yarıçaptan etkilenmez, hangisi Reynolds sayısını değiştirmez" türünden denklem okuma sorularıdır. İkincisi r⁴ hesaplarıdır. Üçüncüsü arter sisteminin hacmi ve direnç artışının kalbe etkisidir. Bütün sorular aşağıdaki yedi denklemle cevaplanır.</p>
+
+  <div class="book-section">
+    <h3 class="book-h3">1.1. Yedi denklem</h3>
+    <table class="table compact">
+      <thead><tr><th>Yasa</th><th>Denklem</th><th>Neye bağlıdır, neye bağlı değildir</th></tr></thead>
+      <tbody>
+        <tr><td><strong>Hidrostatik basınç</strong></td><td>P = ρ·g·h</td><td>Yalnız sıvının yoğunluğu ve yüksekliğe bağlıdır. <strong>Yarıçaptan bağımsızdır.</strong> Ayakta baş arterinde ≈73, ayak arterinde ≈204 mmHg <span class="cite">(Sunum 1 · s. 45)</span></td></tr>
+        <tr><td><strong>Süreklilik</strong></td><td>A₁·v₁ = A₂·v₂</td><td>Debi sabitken hız kesit alanıyla ters orantılıdır (v ∝ 1/r²). Toplam kesit en geniş olduğu için kan en yavaş kapillerde akar.</td></tr>
+        <tr><td><strong>Hidrodinamik Ohm</strong></td><td>ΔP = Q·R</td><td>Damar boyunca basınç, akım dirence çarptıkça düşer. En büyük direnç ve basınç düşüşü <strong>arteriollerde</strong>dir. TPR = 100 mmHg / 83 mL/s ≈ 1,2 PRU <span class="cite">(s. 24)</span></td></tr>
+        <tr><td><strong>Poiseuille</strong></td><td>Q = π·ΔP·r⁴ / 8ηL<br>R = 8ηL / πr⁴</td><td>Direnç viskozite ve uzunlukla doğru, <strong>yarıçapın dördüncü kuvvetiyle ters</strong> orantılıdır. Yarıçap %50 azalınca akım ≈%94 azalır <span class="cite">(s. 38, 45)</span></td></tr>
+        <tr><td><strong>Reynolds sayısı</strong></td><td>Re = v·r·ρ / η</td><td>Hız, yarıçap ve yoğunlukla artar, viskoziteyle azalır. Yarıçapla hesaplanırsa kritik değer ≈1160, çapla ≈2000'dir. Re aşılınca akım türbülanslı olur <span class="cite">(s. 28)</span></td></tr>
+        <tr><td><strong>Bernoulli</strong></td><td>P + ½ρv² = sabit</td><td>Darlıkta hız artar, yan basınç düşer <span class="cite">(s. 35)</span>. Klinikte stenozdaki basınç farkı ΔP ≈ 4v²</td></tr>
+        <tr><td><strong>Laplace</strong></td><td>T = P·r (silindir)<br>T = P·r/2 (küre)</td><td>Aynı basınçta duvar gerilmesi yarıçapla artar. Anevrizma genişledikçe gerilme artar, yırtılma riski büyür <span class="cite">(s. 41-42)</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="book-section">
+    <h3 class="book-h3">1.2. Yarıçap neyi değiştirir?</h3>
+    <div class="hl-block"><span class="tag tag-cyan highlight-tag">YÜKSEK OLASILIK</span>
+    <p class="book-p">Yarıçap direnci (r⁴ ile ters), akımı (r⁴ ile doğru), akım hızını (debi sabitken r² ile ters), duvar gerilmesini (r ile doğru) ve Reynolds sayısını (r ile doğru) değiştirir. Debiyi sabit tutmak için gereken perfüzyon basıncı da r⁴ ile ters değişir. <strong>Hidrostatik basınç yarıçaptan etkilenmez</strong>, çünkü P = ρgh denkleminde yarıçap yoktur <span class="cite">(2024-2025)</span>. Aynı mantıkla Reynolds sayısı damarın yerden yüksekliğine bağlı değildir <span class="cite">(Derleme S37)</span>.</p>
+    </div>
+  </div>
+
+  <div class="book-section">
+    <h3 class="book-h3">1.3. r⁴ hesapları</h3>
+    <p class="book-p">Uzunluk, viskozite ve debi sabitken basınç yalnız yarıçapın dördüncü kuvvetiyle değişir: <strong>P₂ / P₁ = (r₁ / r₂)⁴</strong>. Akım sabit basınçta tersine değişir: Q₂ / Q₁ = (r₂ / r₁)⁴.</p>
+    <table class="table compact">
+      <thead><tr><th>Yarıçap değişimi</th><th>Direnç ve gerekli basınç</th><th>Sabit basınçta akım</th></tr></thead>
+      <tbody>
+        <tr><td>r → r/2 (%50 azalma)</td><td>2⁴ = <strong>16 kat</strong></td><td>1/16 ≈ %6 (≈%94 azalma)</td></tr>
+        <tr><td>r → r/4</td><td>4⁴ = <strong>256 kat</strong> <span class="cite">(2023-2024 S7)</span></td><td>1/256</td></tr>
+        <tr><td>r → 0,8 r (%20 azalma)</td><td>1 / 0,8⁴ = 1 / 0,41 ≈ <strong>2,44 kat</strong> <span class="cite">(2023-2024 S9)</span></td><td>0,41 (≈%59 azalma)</td></tr>
+        <tr><td>r → 2r</td><td>1/16</td><td>16 kat</td></tr>
+      </tbody>
+    </table>
+    <div class="hl-block"><span class="tag tag-accent-2">SIK KARIŞTIRILAN NOKTA</span>
+    <p class="book-p">Çeldiriciler üssü yanlış alır: r/4 için 4² = 16, 4³ = 64 ya da 6³ = 216. Hız sorulursa üs 2'dir (v ∝ 1/r²), direnç ve akım sorulursa üs 4'tür. Yüzde azalmada önce kalan oranı bulun (%20 azalma → 0,8), sonra dördüncü kuvvetini alın.</p>
+    </div>
+  </div>
+
+  <div class="book-section">
+    <h3 class="book-h3">1.4. Basınç neden düşer, direnç artınca ne olur?</h3>
+    <p class="book-p">Bir damar boyunca basınç ΔP = Q·R kadar düşer. Bu düşüşü direnç, yarıçap, uzunluk, viskozite ve akım (akım hızı) belirler. <strong>Yüzey gerilimi</strong> sıvı ile gazın sınırında ortaya çıkan bir kuvvettir. Alveolde önemlidir, ama kanla dolu bir damarda basınç düşüşüne katılmaz <span class="cite">(2023-2024 S2)</span>.</p>
+    <p class="book-p">Toplam periferik direnç artınca arter basıncı yükselir. Ventrikül kanı daha yüksek bir basınca karşı fırlatmak zorunda kalır. Bu, artyükün artmasıdır: atım hacmi azalır, sistol sonu hacim artar (Bölüm 2.2). Direnç artışı kalbe dönen kanı artırmaz. Venöz dönüşü ya değiştirmez ya da azaltır <span class="cite">(2025-2026 S2)</span>.</p>
+  </div>
+
+  <div class="book-section">
+    <h3 class="book-h3">1.5. Kompliyans ve arter sisteminin hacmi</h3>
+    <p class="book-p">Kompliyans C = ΔV / ΔP'dir. Venler arterlerden ≈24 kat daha kompliyandır ve kan hacminin %60-65'i venlerdedir <span class="cite">(Sunum 1 · s. 40)</span>. Windkessel etkisi: aorta sistolde genişleyerek atım hacminin bir kısmını depolar, diyastolde geri yaylanarak kanı ileri iter. Yaşlanmada kompliyans azalır, sistolik basınç ve nabız basıncı artar.</p>
+    <div class="hl-block"><span class="tag tag-cyan highlight-tag">YÜKSEK OLASILIK</span>
+    <p class="book-p">Erişkinde arterler ve arteriollerde ortalama 100 mmHg basınçta ≈700 mL kan bulunur. Bu hacim <strong>≈500 mL'ye düşerse basınç 0 mmHg olur</strong>. Bu 500 mL, damarı germeden dolduran "gerilmemiş hacim"dir. Basıncı yalnız bunun üstündeki ≈200 mL oluşturur. Bilgi sunumda yoktur, fizyoloji dersinin (Guyton) bilgisidir. Ama üç sınavda (2023-2024, 2024-2025, 2025-2026) soruldu.</p>
+    </div>
+  </div>
+
+  <div class="book-section">
+    <div class="keybox">
+      <div class="keybox-title">Akılda kalması gerekenler</div>
+      <ul>
+        <li>Yarıçaptan etkilenmeyen: hidrostatik basınç. Reynolds sayısını değiştirmeyen: yerden yükseklik.</li>
+        <li>P₂ / P₁ = (r₁ / r₂)⁴. r/4 → 256 kat, %20 azalma → ≈2,44 kat.</li>
+        <li>Basınç düşüşünü direnç, yarıçap, viskozite ve akım belirler, yüzey gerilimi belirlemez.</li>
+        <li>Direnç ↑ → artyük ↑ → SV ↓, ESV ↑. Venöz dönüş artmaz.</li>
+        <li>Arter sistemi ≈700 mL'de 100 mmHg, ≈500 mL'de 0 mmHg.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="book-section">
+    <h2 class="book-h2">Bu Bölümden Yıllara Göre Soru Sayısı</h2>
+    <figure class="chart-figure">
+      <!--YIL:1,4,2,2|Derleme;2023-2024;2024-2025;2025-2026|150-->
+      <figcaption class="chart-caption">Arter sisteminin sıfır basınçtaki hacmi üç yıl üst üste soruldu (2024-2025 ve 2025-2026'da fizyoloji bölümünde). 2023-2024'te iki r⁴ hesabı geldi.</figcaption>
+    </figure>
+  </div>
+
+  <div class="book-section">
+    <h2 class="book-h2">Çıkmış Sorular ve Çözümleri</h2>
+    <div class="qa-list">
+      <div class="card">
+        <div class="card-kicker">Soru 1 · Derleme (S37)</div>
+        <div class="card-title">Laminar kan akımından türbülan kan akımına geçişi belirleyen Reynolds sayısı aşağıdakilerden hangisine bağlı olarak değişmez?<span class="opts">A) Kan yoğunluğu · B) Kan akım hızı · C) Damar yarıçapı · D) Kan viskozitesi · E) Damarın yerden yüksekliği</span></div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru: E.</span> Re = v·r·ρ / η. Denklemde yükseklik yoktur. Yükseklik hidrostatik basıncı değiştirir, akımın laminar ya da türbülanslı olmasını değiştirmez.</p>
+          <p>A, B ve C yanlış: yoğunluk, hız ve yarıçap paydadadır, arttıkça Re artar ve türbülans kolaylaşır. Aort kökünde hız ve çap büyük olduğu için pik sistolde fizyolojik türbülans olur. D yanlış: viskozite paydadadır. Anemide viskozite düşer, Re artar ve üfürüm duyulabilir.</p>
+        </div>
+        <div class="card-source">2. Kurul çıkmışları derlemesi, biyofizik</div>
+      </div>
+      <div class="card">
+        <div class="card-kicker">Soru 2 · 2023-2024 (S2)</div>
+        <div class="card-title">L uzunluğundaki bir damarda basınç başlangıçtan bitişe kadar düşüyor. Aşağıdakilerden hangisi bu durumun nedenleri arasında yer almaz?<span class="opts">A) Direnç değişimi · B) Yüzey gerilimi · C) Damar yarıçapı · D) Akım hızı · E) Viskozite değişimi</span></div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru: B.</span> Yüzey gerilimi bir sıvı-gaz sınırının özelliğidir ve alveol mekaniğinde önemlidir. Kanla dolu bir damarın içinde basınç düşüşüne katılmaz.</p>
+          <p>A, C ve E yanlış: ΔP = Q·R ve R = 8ηL / πr⁴. Direnç, yarıçap ve viskozite basınç düşüşünü doğrudan belirler. D yanlış: akım (ve akım hızı) arttıkça aynı dirençte basınç düşüşü artar. Bernoulli'ye göre hızın arttığı yerde yan basınç da düşer.</p>
+        </div>
+        <div class="card-source">2023-2024 2. Kurul, biyofizik</div>
+      </div>
+      <div class="card">
+        <div class="card-kicker">Soru 3 · 2024-2025</div>
+        <div class="card-title">Dolaşımda bir damardaki kan akımı düşünüldüğünde aşağıdakilerden hangisi yarıçap değişiminden etkilenmez?<span class="opts">A) Akım hızı · B) Duvar gerilmesi · C) Hidrostatik basınç · D) Perfüzyon basıncı · E) Akış direnci</span></div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru: C.</span> Hidrostatik basınç P = ρgh'tir. Yalnız kanın yoğunluğuna ve kalbe göre yüksekliğe bağlıdır.</p>
+          <p>A yanlış: süreklilik denklemine göre debi sabitken hız r² ile ters değişir. B yanlış: Laplace'a göre duvar gerilmesi T = P·r, yarıçapla artar. D yanlış: debiyi sabit tutmak için gereken perfüzyon basıncı r⁴ ile ters değişir. E yanlış: Poiseuille'e göre direnç r⁴ ile ters orantılıdır.</p>
+        </div>
+        <div class="card-source">2024-2025 2. Kurul, biyofizik</div>
+      </div>
+      <div class="card">
+        <div class="card-kicker">Soru 4 · 2023-2024 (S7)</div>
+        <div class="card-title">L uzunluğunda, r yarıçaplı, basıncı P ve debisi Q olan bir damarın yarıçapı dörtte birine indiriliyor. Debinin değişmemesi için basınç kaç P olmalıdır?<span class="opts">A) 16P · B) 1/64P · C) 1/216P · D) 64P · E) 216P</span></div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru cevap: 256P (kayıttaki şıklarda yok).</span> P₂ / P₁ = (r₁ / r₂)⁴ = 4⁴ = 256. Kayıttaki şıklardan hiçbiri doğru değildir. Şıklar büyük olasılıkla eksik ya da yanlış toplanmıştır. Aynı sınavın S9'unun kayıtta "Cevap: 256P" olarak yazılması da 256P'nin bu sorunun cevabı olduğunu gösterir.</p>
+          <p>A yanlış: 16P, 4² ile hesaplanır, üs yanlıştır. Yarıçap yarıya inseydi cevap 16P olurdu. D yanlış: 64P, 4³ ile hesaplanır. B ve C yanlış: yarıçap küçülünce direnç artar, gereken basınç düşmez, artar. E yanlış: 216 = 6³'tür, bu soruyla ilgisi yoktur.</p>
+        </div>
+        <div class="card-source">2023-2024 2. Kurul, biyofizik</div>
+      </div>
+      <div class="card">
+        <div class="card-kicker">Soru 5 · 2023-2024 (S9)</div>
+        <div class="card-title">L uzunluğunda, r yarıçaplı, P basınçlı bir damarda sabit Q debisiyle kan akmaktadır. Yarıçap %20 azalırsa, Q'yu sabit tutmak için basınç kaç katına çıkmalıdır?</div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru: ≈2,44 kat.</span> Yeni yarıçap 0,8r'dir. P₂ / P₁ = (1 / 0,8)⁴ = 1 / 0,4096 ≈ 2,44.</p>
+          <p>Kayıtta şık yoktur ve cevap "256P" olarak yazılmıştır. Bu yanlıştır: 256P, yarıçapın dörtte birine indiği S7'nin cevabıdır. Sınavda bu soru gelirse şıklarda 2,44 ya da (5/4)⁴ aranmalıdır. 1,25 (üs 1) ve 1,56 (üs 2) çeldiricidir.</p>
+        </div>
+        <div class="card-source">2023-2024 2. Kurul, biyofizik</div>
+      </div>
+      <div class="card">
+        <div class="card-kicker">Soru 6 · 2024-2025 ve 2025-2026 fizyoloji (S4) · 2023-2024 biyofizik (S3)</div>
+        <div class="card-title">Erişkin bir kişide arterler ve arteriollerden oluşan sistemdeki kan hacmi kaç mililitreye düşerse basınç 0 mmHg olur?<span class="opts">A) 500 · B) 1000 · C) 1200 · D) 2300 · E) 3000</span></div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru: A.</span> Arter sisteminde 100 mmHg'de ≈700 mL kan vardır. Hacim ≈500 mL'ye inince damar duvarı gerilmez ve basınç sıfıra düşer.</p>
+          <p>B ve C yanlış: 1000 ve 1200 mL, arter sisteminin normal hacminden (≈700 mL) bile fazladır. Bu hacimlerde basınç sıfır olmaz, normalin üstündedir. D yanlış: 2300 mL venöz sistemin hacmi düzeyindedir, arter sisteminin değil. E yanlış: 3000 mL yaklaşık plazma hacmidir. 2023-2024 kaydında şıklar eksik toplanmıştır (100, 1000, 5000). Cevap yine 500 mL'dir.</p>
+        </div>
+        <div class="card-source">2024-2025 ve 2025-2026 2. Kurul fizyoloji, 2023-2024 biyofizik</div>
+      </div>
+      <div class="card">
+        <div class="card-kicker">Soru 7 · 2025-2026 (S2)</div>
+        <div class="card-title">Dolaşım sisteminde damar direncinin artması aşağıdakilerden hangisine yol açmaz? I. Arter basıncının yükselmesi nedeniyle ventrikülün kanı dışarı pompalaması zorlaşır. II. Kalbin kanı fırlatırken karşılaştığı baskı artar. III. Kalbe dönen kan miktarı artar ve dolma hacmi yükselir.<span class="opts">A) I ve II · B) Yalnız I · C) II ve III · D) Yalnız II · E) I, II ve III</span></div>
+        <div class="card-body">
+          <p><span class="opt-correct">Doğru: A (kök düzeltilerek).</span> Direnç artışının yol açmadığı tek şey III'tür, ama "Yalnız III" şıklarda yoktur. Şıklar "hangilerine yol açar?" köküne göre kurulmuştur ve bu kökle cevap A'dır (I ve II). Kayıttaki kök büyük olasılıkla yanlış toplanmıştır.</p>
+          <p>I ve II doğrudur: direnç artınca arter basıncı yükselir. Ventrikül kanı daha yüksek bir basınca karşı fırlatır, yani artyük artar. III yanlıştır: arteriyel direnç artışı venöz dönüşü artırmaz, azaltır. Dolma hacmini artıran şey önyük artışıdır (Bölüm 2.2). B ve D yanlış: I ve II birbirini tamamlayan iki doğru ifadedir, biri tek başına seçilemez. E yanlış: III doğru değildir.</p>
+        </div>
+        <div class="card-source">2025-2026 2. Kurul, biyofizik</div>
+      </div>
+    </div>
+  </div>
+  </section>

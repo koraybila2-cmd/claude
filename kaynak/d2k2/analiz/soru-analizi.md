@@ -142,3 +142,25 @@ Kaynak sunumlar (Drive): 1 Kalp ve dolaşım histolojisi (21 MB), 2 Kalp ve dama
 
 ## Kullanılmayanlar
 - 23-24 histoloji S10 "V. brachiocephalica nereden oluşur" (şıklar bozuk); 24-25 "solunum sisteminin iletici bölümünde en az bulunan" (anahtar yok, kök belirsiz); 23-24 anatomi S5 "bronchus lobaris'ten sonra" (şıklar bozuk, doğru cevap şıklarda yok).
+
+# Kitap 4 — Biyofizik (yalnız soru gelen konular)
+
+## Kaynaklar
+- Sunumlar: (1) Dolaşım ilk ders 2026, (2) Kalp hacim basınç 2026, (3) Dış solunum mekaniği, (4) Ventilasyon ve gazların difüzyonu, (5) Solunum basınç-hacim, (6) Yüzey gerilimi-alveol mekaniği, (7) Vokal kordlar. Ses fizyolojisi pptx (114 MB) indirilemedi; ses fiziğinden soru yok.
+- Sorular: Derleme S35-43 (9), 2023-2024 biyofizik S1-10 (10), 2024-2025 biyofizik (4), 2025-2026 biyofizik S1-8 (8) = 31. Cevabı biyofizik sunumunda olan fizyoloji soruları: 2024-2025 V̇E/V̇A ve arter hacmi, 2025-2026 S4, S15, S17, S21, S22 = 7. Toplam 38.
+
+## Bölümlere dağılım (Derl, 23-24, 24-25, 25-26)
+- B1 hemodinamik 1,4,2,2 · B2 kalp P-V 2,2,1,1 · B3 mekanik 0,1,0,4 · B4 kompliyans-yüzey 3,1,0,1 · B5 difüzyon-pulmoner 2,1,2,4 · B6 fonasyon 1,1,1,1.
+
+## Kayıt sorunları ve verilen kararlar
+- 23-24 S7 (r/4): doğru 256P şıklarda yok. 23-24 S9 (%20): kayıttaki "256P" yanlış, doğru ≈2,44 kat.
+- 23-24 S3 arter hacmi şıkları eksik; 24-25 ve 25-26 fizyolojideki aynı soruyla birleştirildi (500 mL).
+- 25-26 S2 "yol açmaz" kökünde doğru cevap (yalnız III) şıklarda yok; kök "yol açar" kabul edilip A.
+- Derl S42 ve 23-24 S4 şekilsiz; ortak şık seti önyük artışıyla tutuyor → B (1,3,5). 24-25 grafik sorusunun anahtarı (C) kompliyans azalmasıyla tutuyor. 23-24 S8 şekilsiz, ayırt etme yolu verildi.
+- 25-26 S4 sürfaktan: B (sunum s.16 cümlesi); E'nin ilk yarısı sunuma ters (alveol büyüyünce T artar).
+- 24-25 Bernoulli: A (sunum s.28); B fiziksel olarak tutarlı, güçlü çeldirici.
+- 25-26 S1 ve S8 eksik toplanmış; mevcut şıklarla çözüldü.
+
+# Kitap 3 kısaltılmış baskı (2025-2026 eklendi)
+- 2025-2026 histoloji-embriyoloji S1-S8: S1 timpanik membran (B6), S2 tip I-II = Derl S30 ile aynı (B4, birleştirildi), S3 respiratuar bronşiyol düz kas (B4), S4 nöral krest ameloblast (B6), S5 sinüzoidde perisit yanlış (B1), S6 timus endoderm (B3), S7 kalp gelişimi sol boynuz (B2), S8 γδ T (B3).
+- Çıkarılanlar: yeni yazılmış sorular, sunumdaki alıştırma soruları, deneme sınavı, soru gelmeyen alt konular. 56 → 30 sayfa.

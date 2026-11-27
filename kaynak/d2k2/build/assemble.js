@@ -17,8 +17,9 @@ html = html.replace(/<!--CHART:([\w-]+)-->/g, (m, name) => {
 });
 html = html.replace(/<!--YIL:([\d,]+)(?:\|([^>]*))?-->/g, (m, vals, lbl) => {
   const v = vals.split(",").map(Number);
-  const labels = ["Derleme", "2023-2024", "2024-2025", "2025-2026 uyg."];
-  const cfg = { width: 640, height: 200, ariaLabel: "Yıllara göre soru sayısı", unit: "", maxValue: Math.max(5, Math.ceil(Math.max(...v) / 5) * 5),
+  const [lb, hh] = (lbl || "").split("|");
+  const labels = lb ? lb.split(";") : (v.length === 5 ? ["Derleme", "2023-2024", "2024-2025", "2025-2026", "2025-26 uyg."] : ["Derleme", "2023-2024", "2024-2025", "2025-2026 uyg."]);
+  const cfg = { width: 640, height: hh ? Number(hh) : 200, ariaLabel: "Yıllara göre soru sayısı", unit: "", maxValue: Math.max(5, Math.ceil(Math.max(...v) / 5) * 5),
     categories: labels.map((l, i) => ({ label: l, value: v[i] })) };
   const tmp = path.join(CH, `_yil_${n++}.json`); fs.writeFileSync(tmp, JSON.stringify(cfg));
   return trDec(execFileSync("node", [GEN, tmp]).toString());

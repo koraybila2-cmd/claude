@@ -1,0 +1,505 @@
+                                   DOLAŞIM BİYOFİZİĞİ
+
+            Kalbin etkinliği ve gücü, kalp
+             devri, kalpte basınç-hacim
+                        grafiği
+                    Dr Öğr. Üyesi Mahmut Alp Kılıç
+                                          Biyofizik AD
+Kaynaklar:
+- Biyofizik, Prof. Dr. Ferit Pehlivan, 10. Baskı, Pelikan Yayıncılık
+- Biyofizik Ders Kitabı, Cerrahpaşa Tıp Fakültesi, Ed. Prof. Dr. Şefik Dursun, İstanbul Üniversitesi
+  Basım ve Yayınevi Müdürlüğü, 2010
+- Cardiovascular Physiology Concepts, Richard E. Klabunde, www.cvphysiology.com
+- Dr. Öğr Üyesi Özlem Bozkurt Girit, Kalp Siklusu Basınç-hacim Değişimleri Kalbin Etkinliği Ve Gücü
+  Ders notları
+   ÖĞRENİM HEDEFLERİ
+Bu dersin sonunda öğrenci:
+1. Kalp devrinin fazlarını kapak hareketleri, basınç ve hacim değişimleriyle birlikte sıralar.
+2. Wiggers diyagramında basınç eğrilerini, kalp seslerini ve EKG’yi ilişkilendirir.
+3. Sol ventrikül basınç-hacim döngüsünü çizer; EDV, ESV, SV, EF, ESPVR ve EDPVR’yi tanımlar.
+4. Kalbin yaptığı işi ve gücü hesaplar; mekanik verimin neden düşük olduğunu açıklar.
+5. Ön yük, artyük ve kontraktilite değişimlerinin PV döngüsüne etkisini gösterir.
+6. Sistolik ve diyastolik disfonksiyonu, kapak hastalıklarını ve tedavinin etkilerini PV döngüsü üzerinde
+   yorumlar.
+  KALP DÖNGÜSÜ VE FAZLAR
+
+Kalp Siklusu/ Kalp Devri
+▪ Kalp sağ ve solda bulunan iki adet pompadan (ventriküller) oluşur.
+▪ Kalp pompası çalışırken başlıca iki evre meydana gelir:
+   • Sistol→ Kalp kasının kasılması (Miyokardiyal boşalma)
+   • Diyastol→Kalp kasının gevşemesi (Miyokardiyal dolma)
+• Dolaşım sisteminde kan akışı daima yüksek basınçlı alandan düşük
+  basınçlı alana doğru gerçekleşir
+   • Kalp kontraksiyonu ise basıncı oluşturur
+KALP DÖNGÜSÜ VE FAZLAR
+
+ Ventrikül Sistoli
+ ▪ Ventrikül (İzovolümetrik) Kasılma Dönemi
+ ▪ Fırlatma (Ejeksiyon) Dönemi
+ Atriyum Sistolü
+ Ventrikül Diyastolü
+
+
+
+ Atriyum Diyastolünün, basınç hacim grafiği oluşumunda yukarıdaki fazlara
+ göre katkısı düşük olduğu için konu ele alınmamıştır!
+Kardiyak Siklus
+                           Semilunar kapaklar                       Semilunar kapaklar
+                           kapalı                                   açık
+
+
+                                                                          AV kapaklar kapalı
+
+                              AV kapaklar kapalı                                               Semilunar kapaklar
+                                                                                               kapalı
+         1. Sistol: İzovolümetrik                  2. Sistol: Ejeksiyon
+         kasılma dönemi                            (Fırlatma) Dönemi
+                                                                                                 AV kapaklar kapalı
+
+
+                               Semilunar
+                               kapaklar
+                               kapalı                                        3. Diyastol: İzovolumetrik
+                                                                   Semilunar Gevşeme dönemi
+                                                                   kapaklar
+                             AV kapaklar açık                      kapalı
+                                                                      AV kapaklar açık
+        5. Atrial Sistol: Aktif ventrikül
+        dolum dönemi                               4. Diyastol: Pasif ventrikül
+                                                   dolum dönemi
+KALP DÖNGÜSÜ VE FAZLAR
+KALP DÖNGÜSÜ VE FAZLAR
+          KALP DÖNGÜSÜ VE FAZLAR
+
+
+Ventriküler doluş/ diyastol
+ Ventrikül duvarı gevşek ve
+ esnek olduğundan hacim
+ artışı basıncı yalnızca az
+ miktarda yükseltir; erken
+ dolumda aktif gevşeme
+ nedeniyle basınç hatta biraz
+ düşer. (atrium sistolü dışında)
+ (hızlı dolum, yavaş dolum
+ (diyastazis), atrium sistolü
+        KALP DÖNGÜSÜ VE FAZLAR
+İzovolumetrik
+kontraksiyon dönemi
+
+ Basınç
+ artarken
+ hacim aynı
+ kalır.
+ Ventrikül
+ hacmi
+ değişmez
+ fakat şekli
+ değişir.
+Fırlatma fazı
+(Ventriküler
+sistol)
+
+
+Ventrikül hacmi
+azalır, kan
+sistemik
+arterlere fırlatılır.
+İzovolumerik
+gevşeme
+dönemi
+
+Sistol
+sonlandığı
+zaman,
+ventrikül
+hacmi
+değişmeden
+kalırken
+basınç hızla
+düşer.
+                         Kalp Döngüsünde Doluş Basınçları ve Basınç-Hacim İlişkisi:
+                                                                      Sol Ventrikül Basınç-Hacim Eğrisi
+                                                                                                                          (PV Loop)
+
+
+
+
+LVP: Left Ventricular Pressure, O anki ventrikül iç basıncı
+LVV: Left Ventricular Volume, O anki ventrikül içindeki kan miktarı       ESPVR: End-Systolic Pressure–Volume Relationship, Kalbin pompalama performansı
+EDV: End-Diastolic Volume, Pompalamadan hemen önceki dolu hal             EDPVR: End-Diastolic Pressure–Volume Relationship, Kalbin dolma kapasitesi
+ESV: End-Systolic Volume, Pompalamadan sonra geriye kalan hacim
+Sistolik intraventriküler basınç- hacim ilişkisi
+
+
+
+
+                                                    Diyastolik
+                                                 intraventriküler
+                                               basınç-hacim ilişkisi
+                                                     (EDPVR)
+                Basınç-hacim (PV) Eğri Parametreleri
+ • Stroke (atım) sırasındaki iş = PV döngüsünün içinde kalan alan
+    o Ventrikül tarafından belli hacimde kanın fırlatıldığında yapılan iş
+ • ESPVR=Sistol sonu basınç hacim ilişkisi
+ • EDPVR=Diyastol sonu basınç hacim ilişkisi
+
+
+
+Stroke Hacim (SV) = EDV - ESV
+  o SV: Her atım sırasında ventrikül tarafından
+    fırlatılan kan miktarı
+       Basınç-hacim (PV) Eğri Parametreleri
+• Kalp Çıktısı: Kardiak Output (CO)
+• CO = SV (atım hacmi) x kalp hızı
+   o Birim zamanda sol ventrikülden (LV) pompalanan kan miktarıdır.
+
+
+• Ejeksiyon Fraksiyonu (EF) = (SV/EDV) x100
+   o Fırlatılan EDV’in (pompalamadan önceki) fraksiyonudur.
+   o Kardiak kontraktilitenin klinik belirleyicisi olarak kullanılır (ancak ön yük
+     ve artyükten de etkilenir).
+   o Normal EF ≈ %55–70
+   o KY sınıflaması %50 ≥ EF
+   o Düşük EF genellikle sistolik disfonksiyonu gösterir.
+
+
+
+   Atım hacmi (SV), Preload, afterload ve inotropinin değişmesinden
+   etkilenir.
+Önyük (Pre-load) :
+Ventrikül kasılmaya başladığında
+(kasılma öncesinde) kas
+üzerindeki gerim
+
+Diyastol sonu hacim ile
+bağlantılıdır
+                                      Önyük
+Diyastol sonu hacim ise venöz dolma
+basıncı ile bağlantılıdır             Preload
+      Artyük (After-load)
+                                         Artyük
+* sistolik kasılma sürecinde ventrikül
+       duvarında oluşan gerim            Afterload
+
+* Ventrikül kasının kasılma kuvvetini
+     hangi yüke karşı kullandığı
+  ** kasılma sırasında karşılaştığı /
+      yenmesi gereken basınç
+
+
+Arter basıncı ve periferik direnç
+belirler; en doğru ölçüsü sistolik
+  duvar stresidir: σ = P·r / 2h
+            (Laplace).
+     Ön Yük (preload) ve Ard Yük (afterload)
+
+▪ Önyük, ventriküler miyokard liflerinin sistolden önceki esneme miktarı
+  ile orantılıdır (EDV).
+▪ Ardyük, ventriküllerin aort ve pulmoner kapakları açmaya zorlamak için
+  üstesinden gelmesi gereken arteriel basınçtır.
+▪ Pulmoner ya da sistemik arteriyal basıncı arttıran her şey ardyükü
+  arttırabilir. Örneğin hipertansiyon.
+                   Önyük Artışı (Volüm yüklenmesi)
+                    Kalp yetersizliği
+                   Artyük artışı (Basınç yüklenmesi)
+                    Kalp yetersizliği
+                                                İnotropi, kalp kası liflerinin kasılma gücünü ifade eder (yani
+                                                kontraktilite). Kalp, gelen kan miktarından bağımsız olarak daha
+                                                güçlü kasılabiliyorsa, bu “pozitif inotropi”dir.
+                                                 İnotropiyi Artıran (Pozitif İnotropik)                  İnotropiyi Azaltan (Negatif İnotropik)
+                                                                                                     1. Parasempatik (vagal) aktivasyon (M₂ reseptör
+                                             1. Sempatik aktivasyon (β₁ reseptör uyarımı)
+                                                                                                     uyarımı)
+                                             2. Dolaşımdaki katekolaminler (Adrenalin,
+                                                                                                     2. Sempatik aktivitenin azalması / β-bloker ilaçlar
+                                             noradrenalin)
+                                             3. Artmış kalp hızı (Bowditch/Treppe etkisi: hızla      3. Miyokard iskemisi (ATP azalması →
+                                             Ca²⁺ birikimi)                                          gevşeme/kasılma bozukluğu)
+                                             4. Artmış afterload (Anrep etkisi: kısa süreli duvar    4. Hipokalsemi, hiperkalemi veya asidoz (iyon
+                                             gerilimi artışıyla Ca²⁺ artışı)                         dengesizlikleri kontraktiliteyi azaltır)
+
+                                             5. Ca²⁺ duyarlaştırıcılar (levosimendan)                5. Kalsiyum kanal blokerleri (verapamil, diltiazem)
+
+                                             6. Dijital glikozitleri (örneğin digoksin → Na⁺/K⁺
+                                                                                                     6. Antiaritmik ilaçlar (kinidin, flekainid, lidokain)
+                                             pompası inhibisyonu ile Ca²⁺ ↑)
+                                             7. Tirotoksikoz (metabolizma ve β-adrenerjik            7. Hipotiroidizm (metabolizma ve kontraktilite
+                                             duyarlılık artışı)                                      azalması)
+                                                                                                     8. Kronik kalp yetmezliği (β₁ reseptör down-
+                                             8. İyonik düzeyde Ca²⁺ artışı
+                                                                                                     regülasyonu, miyosit kaybı)
+                                             9. Sempatomimetik ilaçlar (dopamin, dobutamin,          9. Aşırı afterload (kronik hipertansiyon, aort
+                                             izoproterenol)                                          stenozu)
+                                                                                                     10. Sedatif/anestezik ajanlar, alkol (miyokard
+                                             10. Glukagon, fosfodiesteraz inhibitörleri (milrinon)
+LV Pressure → Sol ventrikül basıncı (mmHg)                                                           depresyonu)
+LV Volume → Sol ventrikül hacmi (mL)
+                    Sistol sonu basınç hacim ilişkisi (ESPVR)
+    ESPVR = Sistol sonu basınç ile sistol sonu hacmi arasındaki ilişki; her hacimde ventrikülün sistol
+    sonunda ulaşabileceği maksimum basıncı gösterir. Eğimi Ees (sistol sonu elastans), hacim eksenini
+    kestiği nokta V₀’dır.
+Eğimin dikliği = kasılabilirlik (inotropi) düzeyi;
+•   Eğri daha dikse, miyokard daha güçlü kasılıyor
+    demektir.
+•   Eğri daha yatıksa, kasılma gücü azalmıştır.
+Bu yüzden ESPVR, EF (ejeksiyon fraksiyonu) veya
+SV (stroke volume) gibi değerlerden daha
+doğrudan bir “sistolik fonksiyon” ölçüsüdür.
+ ESPVR, kalbin mekanik etkinliğini ve miyokard
+sağlığını değerlendirmede kullanılır. Deneysel ve
+klinik olarak ventrikül kontraktilitesi analizlerinde
+(örneğin kalp yetmezliği modellerinde) önemli bir
+göstergedir.
+                   Diyastol sonu basınç hacim ilişkisi (EDPVR)
+
+EDPVR = Ventrikülün dolum eğrisidir., Diyastol sırasında
+kalp kası gevşerken, ventriküle dolan kan hacmine karşı
+gelişen basıncı gösterir. EDPVR çizgisinin eğimi ventriküler     Azalmış
+                                                               kompliyans
+kompliyans ile ters orantılıdır (dik eğim = sert ventrikül).
+
+
+Azalmış Kompliyans (sertlik/stiffness)
+   = Ventriküler Hipertrofi
+     -  kronik basınç yüklenmesi, kronik hipertansiyon veya
+        aortik kapak stenozu sonucu oluşabilir, azalmış                       Artmış
+                                                                            kompliyans
+        ventriküler dolumla sonuçlanır
+    -   diyastolik disfonksiyon ile ilişkili
+Artmış Kompliyans (genişleyebilirlik)
+     = Dilate Kardiyomyopati (sistolik disfonksiyon ile
+ilişkili)
+    - Kronik hacim yüklenmesi veya kalp kapak yetersizliği
+             Kalbin etkinliği ve gücü
+
+
+
+
+  Sol ventrikül sistolü sürecinde değişen akış parametreleri (a) ve aortta depolanan esneklik potansiyel enerjisinin
+  (basınç enerjisi) diyastol sırasında kinetik enerjiye dönüşümü (b).
+
+▪ Kalbin pompalaması sürecinde ventrikül basıncı 0-16 kPa (0-120 mmHg) arasında değişir
+▪ Sistolik süreçte kalbin yaptığı işin bir kısmı kana kinetik enerji olarak aktarılır, bir kısmı
+  aort ve arter çeperlerinde esneklik potansiyeline dönüşür
+• Yapılan iş
+    • Sol ventrikül arteriyel kan basıncını artırmak,
+    • kana kinetik enerji vermek,
+    • kanın iç sürtünmesini yenmek,
+    • damar genişlemesine engel kaynakları yenmek için bir iş yapar
+• Ayakta duran insan için kana bir miktar yerçekimsel
+  potansiyel enerji kazandırdığı da dikkate alınarak
+• Kalbin birim hacim başına kana sağladığı enerji
+
+         ∆W= Ebasınç + Epotansiyel + Ekinetik
+
+    ∆W/ ∆V= (P2-P1) + ρ g (h2-h1) + ½ ρ (ν22- ν12)
+     • Dinlenim hali için     g: 9,8 m/s2   ρ : 1000 kg/m3
+                 ∆W/ ∆V= (P2-P1) + ρ g (h2-h1) + ½ ρ (ν22- ν12)
+                  ∆W/ ∆V= Ebasınç + Epotansiyel + Ekinetik
+                                                           3
+En büyük terim basınç işi = 16000 + 1470 + 80 = 17550 J/m
+
+        Bir atımda yaklaşık 60 cm3 kan aorta gönderilirse kalbin yaptığı iş
+                       W= 17580. 60 10-6 = 1.06 J/atım
+        Nabız sayısı 70 atım/dakika, bir atım süresi 60/70 s
+        Sol Ventrikül Ortalama güç = ∆W/ ∆t = 1.06 (7/6) = 1.24 Watt
+   ❖ Kalbin toplam mekanik gücü = sol ventrikül gücü + sağ ventrikül gücü
+
+   Sol ventrikül gücüne sağ ventrikülün yaklaşık 6 kez küçük olan 0,2 W’lık gücü
+   de eklendiğinde kalbin toplam mekanik gücü 1,43 W bulunur.
+
+
+                       Kalbin mekanik verimi =
+                                                    pdV
+
+                                                pdV +   Tdt
+Normal bir kalbin dinlenim halinde mekanik gücü 1,43W iken, toplam gücü ise 14,3W
+dolaylarındadır. Dolayısıyla mekanik verimi %10 dolaylarında ve oldukça düşüktür.
+▪ Bir       kalp         devrinin izometrik
+  (izovolümetrik) kasılma ve gevşeme
+  evrelerinde alan değişmeleri olmadığı için
+  yapılan işler sıfırdır.
+
+▪ Hacim değişmelerinin olduğu dolma ve
+  fırlatma evrelerinde kalbin yaptığı
+  mekanik iş kapalı bölgenin alanına eşittir
+
+▪ Kalp, izovolümetrik kasılma evresinde
+  mekanik iş yapmasa da , T gerilme
+  oluşturmak için enerji harcar.
+          Basınç-Hacim Alan (PVA) Analizi
+Kalbin toplam mekanik enerjisi
+     Atım işi (SW): Kanı pompalamak
+için harcanan enerji.
+     Potansiyel enerji (PE): Pompalama
+işine dönüşmeyen enerji.
+• PVA = SW + PE
+Neden önemli?
+• PVA arttıkça miyokardın oksijen
+  tüketimi artar.
+• Kalbin enerji ihtiyacını ve mekanik
+  verimliliğini değerlendirmede
+  kullanılır.
+     Kalbin Pompalama İşlevinin Düzenlenmesi
+
+•Kalbin pompaladığı kan hacminin düzenlenmesi başlıca iki yolla olur:
+
+1. İç-kaynaklı (İntrensek) düzenlenme
+        (Frank-Starling Mekanizması)
+
+2. Ekstrensek-Otonom sinir sistemi ile düzenlenme (sempatik ve
+parasempatik sinirlerle düzenlenme)
+   * Sempatik uyarım kalp çalışma hızını artırır
+   ** Parasempatik uyarım kalp çalışma hızını azaltır
+      Frank-Starling Yasası
+Bu yasa kalbin venöz dönüşteki değişikliklere hızla uyum sağlamasına izin vermektedir.
+Ayrıca sol ve sağ ventriküllerden eşit outputu sağlamaktadır.
+
+ Kalp kası doluş sırasında ne kadar çok gerilirse,
+ kasılma kuvvetinin ve aortaya pompalanan
+ kanın miktarının da o kadar büyük olacağı
+ anlamına gelir.
+ Fizyolojik sınırlar içerisinde kalp, venlerde
+ normalden fazla miktarda kan birikmesine
+ izin vermeyecek şekilde, kendisine gelen
+ kanın tamamını pompalar.
+      Frank-Starling Mekanizmasının açıklaması
+• diyastolik hacim artar → kalbin kasılma gücü artar → atım hacmi artar.
+Artyük arttığında:
+
+• Aort basıncı yükselir; aort kapağı daha
+  yüksek basınçta açılır.
+• Ventrikül kanı daha yüksek basınca karşı
+  atar; daha az boşalır (ESV ↑, SV ↓).
+• İlk atımda dolum (EDV, EDP) değişmez;
+  sonraki atımlarda ventrikülde kalan kan
+  nedeniyle EDV artar.
+
+
+
+Afterload artışıyla SV azalır. Ejeksiyon fazında afterload artarken SV azalmasının
+nedeni: ventrikül herhangi bir ventrikül hacminde aortaya kanı fırlatmak için aorttaki
+basınçtan daha yüksek basınç sağlamak zorundadır (işin bir kısmı buna harcanır.)
+ÖNYÜK ARTIŞININ SOL VENTRİKÜL P/V GRAFİĞİ ÜZERİNE ETKİSİ
+1.   Normal
+2.   Artan EDP; EDV ve SV’de
+     artıma neden olur
+3.   Artan arteryal basınç
+     (artyük) SV’yi düşürür
+Kontraktilite (kasılma) Artışı
+                            EDPVR sabit fakat kontraktilite artışıyla
+                            ESPVR eğimi değişir (A’dan B’ye)
+
+                           • Artan kontraktiliteye bağlı olarak ESPVR
+                             eğrisi A dan B konumuna gelmektedir. Bu
+                             durumda ESV azalmaktadır.
+
+                            Kontraktilite arttığında aynı sistol sonu
+                            basınçta ESV daha düşük olur.
+                            ESP artarken ESV azalır
+Azalmış ventriküler kompliyans     Kalp atım hızı, inotropi, sistemik
+                                   vasküler direnç değişmediği bir
+                                   durumda azalmış ventriküler
+                                   kompliyansın (hipertrofi v.b.) P/V
+                                   eğrisine etkisi
+
+                                 - EDV azalır, ventriküler doluş
+                                 azalır
+                                 - EDP artar
+                                 - EDPVR eğri eğimi artar
+
+                                             * SV azalır, yapılan
+                                             atım işi azalır
+
+                                             * ESV azalır
+   Sistolik ve Diyastolik Disfonksiyon
+•Sistolik fonksiyon kaybı
+ • Kalp yetmezliği hastalarının yaklaşık yarısı
+ • İçsel inotropi azalması nedenli (ESPVR eğimi ↓)
+ • Azalmış atım hacmi (SV)
+   • Azalmış kardiyak output (kalp çıktısı)
+   • Azalmış ejeksiyon fraksiyonu (EF)
+ • Genellikle diyastolik fonksiyon kaybı ile ilişkilidir
+ Diyastolik fonksiyon kaybı
+ • Klinikte kalp yetmezliği hastalarının yaklaşık yarısında EF
+   korunmuştur (HFpEF). Başka bir deyişle bu hastalarda
+  baskın sorun diyastolik fonksiyon kaybıdır.
+ • Azalmış kompliyans nedenli kalp kası daha serttir, bu da
+   ventrikül doluşunu olumsuz etkiler
+Kalp yetmezliğinin hem sistolik hem diyastolik
+fonksiyon kaybı kombinasyonu ile gerçekleşmesi de
+sık görülebilir.
+Şekilde kalp atım hızı ve sistemik vasküler direncin
+değişmediği kabul edildiği, fakat her iki fonksiyon kaybının
+da görüldüğü bir durum şematize edilmektedir. Hem sistolik
+hem diyastolik fonksiyon kaybı birlikte görüldüğünde, ve de
+bu duruma hacim artışı eşlik ettiğinde (compensatory
+volume expansion), çok yüksek EDP değerlerine ulaşılabilir;
+bu da pulmoner tıkanma ve ödeme neden olabilir
+
+
+        - ESV artar, EDV azalır.
+        - ESPVR eğrisi eğimi azalır, EDPVR
+        eğrisi eğimi artar
+        - SV dramatik şekilde azalır
+        - Yapılan iş azalır
+Artmış
+kalp hızı,                                     Sağlıklı
+diyastol                                                                                                              Artmış kalp
+sonu                                                                                                                  hızı,
+basınç                                                                                                                diyastol
+ve hacim                                                                                                              sonu hacim
+değerini                                                                                                              azalır ama
+azaltır!                                                                                                              diyastol
+                                                                                                                      sonu basınç
+                                                                                                                      2 kat artar!
+
+
+    Normal koroner arterlere sahip bir hastada (sol) ve koroner arter hastalığı olan bir hastada (sağ), farklı kalp hızlarında
+    sol ventrikül diyastolik basıncı ve hacmindeki değişimlerin yanıtı. Normal hastada, kalp hızı arttıkça diyastolik basınç
+    ve hacim azalır. Koroner arter hastalığı olan hastada ise kalp hızı arttıkça ventrikül hacmi azalırken diyastolik basınç iki
+    katına çıkar.
+Normal Kalpte Akut Kardiyojenik Şok (A Paneli)
+•Normal Durum (Siyah Eğri)
+        •   Yüksek inotropi, dik ESPVR eğrisi
+        •   Normal EDV ve EDP
+        •   Geniş stroke volume (SV)
+•Akut Kardiyojenik Şok (Kırmızı Eğri)
+        •   Ani kasılma gücü kaybı (azalmış inotropi)
+        •   ESPVR eğimi azalır
+        •   ESV ve EDV artar, SV azalır
+        •   EDP artar → pulmoner konjesyon riski
+        •   Daha düşük sistolik basınç ve düşük kardiyak output
+Klinik anlam:
+Normal bir kalp bile, miyokard kontraktilitesi ani azaldığında akut
+kardiyojenik şok tablosuna girer.
+        Kapak Hastalıklarında PV Döngüsü: Aort
+        Kapağı
+
+
+
+
+Kesikli gri döngü: normal. Şemalar temsilîdir; değerler yaklaşıktır.
+        Kapak Hastalıklarında PV Döngüsü: Mitral
+        Kapak
+
+
+
+
+Kesikli gri döngü: normal. Mitral yetmezlikte kanın bir kısmı her fazda sol atriyuma kaçtığı için izovolümetrik fazlar kaybolur.
+        Tedavinin PV Döngüsüne Etkisi
+
+
+
+
+Kesikli gri döngü: tedavi öncesi (düşük EF’li kalp yetmezliği). Şemalar temsilîdir.
+   ÖZET
+▪ Kalp devri: izovolümetrik kasılma → ejeksiyon → izovolümetrik gevşeme → dolum (hızlı dolum, diyastazis,
+  atriyal sistol).
+▪ PV döngüsü: genişliği SV, iç alanı atım işi; sol üst köşe sistol sonu noktası (ESV, ESP).
+▪ Eğimler: ESPVR (Ees) kontraktiliteyi, EDPVR diyastolik sertliği gösterir.
+▪ Yükler: ön yük ↑ → EDV ↑, SV ↑ (ESV sabit); artyük ↑ → ESV ↑, SV ↓; kontraktilite ↑ → ESV ↓, SV ↑.
+▪ Güç: dinlenimde mekanik güç ~1,5 W, toplam güç ~15 W → mekanik verim ~%10.
+▪ Disfonksiyon: sistolikte ESPVR yatıklaşır; diyastolikte EDPVR dikleşir.
+▪ Klinik: kapak hastalıkları ve tedaviler döngünün şeklini karakteristik biçimde değiştirir.
+

@@ -1,0 +1,816 @@
+                              DOLAŞIM BİYOFİZİĞİ
+
+           Dolaşım sisteminde biyofiziksel yasalar ve
+                     tıpta kullanımı - 2026
+                     Dr. Öğr. Üyesi Mahmut Alp KILIÇ
+                                        Biyofizik Anabilim Dalı
+Kaynaklar:                          E-mail: mahmutalpkilic@adu.edu.tr
+-Biyofizik, Prof. Dr. Ferit Pehlivan, 10. Baskı, Pelikan Yayıncılık
+-Biyofizik Ders Kitabı, Cerrahpaşa Tıp Fakültesi, Ed. Prof. Dr. Şefik Dursun, İstanbul Üniversitesi Basım ve
+Yayınevi Müdürlüğü, 2010
+-Cardiovascular Physiology Concepts, Richard E. Klabunde, www.cvphysiology.com
+-Dr. Öğr. Üyesi Özlem Bozkurt Girit HİDROSTATİK ve HEMODİNAMİK YASALAR ders notları
+Giriş
+Dolaşım Sisteminin Biyofiziksel Temelleri
+•Dolaşım sistemi, basınç farkı, direnç ve akım (debi) prensiplerine dayalı bir hidrodinamik
+ sistemdir.
+•Kalp, basınç üreten bir pompa; damarlar, akışın gerçekleştiği direnç kanallarıdır.
+•Kan akışı, akışkanlar mekaniği ve enerji korunum yasalarıyla açıklanabilir.
+•Bu yasalar, basınç değişimleri, damar direnci, akım hızı, viskozite ve duvar gerilimi gibi
+ değişkenlerle ilişkilidir.
+Öğrenim Hedefleri
+Bu dersin sonunda öğrenci:
+1. Hidrostatik basıncı (P = ρgh) kullanarak ayakta duran bir kişide baş ve ayak arterlerindeki
+   basıncı hesaplar.
+2. Süreklilik denklemiyle (A₁v₁ = A₂v₂) aort ve kapillerdeki kan akış hızını karşılaştırır.
+3. ΔP = Q × R ilişkisini ve seri/paralel direnç kavramlarını total periferik dirence uygular.
+4. Laminar ve türbülanslı akımı Reynolds sayısıyla ayırt eder; üfürüm ve Korotkoff seslerinin
+   kaynağını açıklar.
+5. Bernoulli ilkesini stenoz gradyanının ekokardiyografik tahminine (ΔP ≈ 4v²) uygular.
+6. Poiseuille yasasına göre yarıçaptaki değişimin akıma etkisini hesaplar; kan viskozitesinin
+   rolünü tartışır.
+7. Laplace yasasıyla anevrizma büyümesini ve ventrikül dilatasyonunda duvar stresini açıklar.
+Kan Akışının Fiziksel Parametreleri
+•Basınç (P): Akışın itici gücüdür; kalbin pompalama gücüyle oluşur.
+•Debi (Q): Belirli bir kesitten birim zamanda geçen kan hacmidir.
+•Direnç (R): Akıma karşı oluşan sürtünme ve damar çapına bağlı engeldir.
+•Hız (v): Akışın birim zamanda kat ettiği mesafedir.
+Hidrostatik İlkeler ve Yerçekimi
+Etkisi
+                  Yoğunluğu kanın yoğunluğuna eşit olan (ρ = 1050 kg/m3), ha = 1,35
+      hb 35       m (ayaktaki durumu temsil ediyor) ve hb = 0,35 m (baştaki durumu
+      = cm        temsil ediyor) yüksekliklerindeki sıvı sütunlarının yerçekimi kuvveti
+P=0               nedeniyle tabanlarına uyguladığı basınçlar:
+                  1 mmHg = 133,322 Pa
+
+                  Payak = ρgha = (1050 kg/m3)(+9,8 m/s2)(1,35 m) ≈ 13 891 Pa
+
+      ha 135 cm   Payak ≈ +104 mmHg
+      =
+                  Pbaş = ρghb = (1050 kg/m3)(−9,8 m/s2)(0,35 m) ≈ −3601 Pa
+                  Pbaş ≈ −27 mmHg
+            YERÇEKİMİ ETKİSİ-Arterler
+                       •Yerçekiminin etkisiyle kalp seviyesinin altındaki damarlarda basınç artar,
+                       üstündeki damarlarda ise azalır.
+                       •Kalp düzeyinin altındaki damarlar genişlemeye, üstündeki damarlar ise
+            Basın
+            ç          büzülmeye meyillidir.
+            Büzüşme
+                       •Yerçekimi etkisinin büyüklüğü,
+Yerçekimi
+
+
+
+
+                       kanın yoğunluğu × yerçekimi ivmesi × dikey uzaklık çarpımı ile belirlenir.
+                       •→ Normal kan yoğunluğunda yaklaşık 1,05 g/cm3 ’dir.
+            Basın
+            ç          Dik duran bir erişkinde:
+            Genişlem
+            e          •175 cm boyundaki bireyde kalp düzeyinde ortalama basınç ≈ 100 mmHg ise;
+                       •Baş arterinde ≈ 73 mmHg
+                       •Ayak arterinde 204 mmHg
+            YERÇEKİMİ ETKİSİ-Venler
+            Basın
+            ç
+            Büzüşme
+Yerçekimi
+
+
+
+
+            Basın
+            ç
+            Genişlem
+            e
+    Arteryal Basınç       Arteryal
+
+
+
+
+                                     Venöz
+                                      -25
+                             73
+                                             106
+
+
+9            100 9         100        2
+5                5
+    Venöz Basınç
+
+
+
+
+5              2      5
+                             204
+                                               Vücut daha büyük bir ivmeyle hareket ettiğinde, başta yaklaşık a = 0,8 g’lik bir
+                          Baş 73-22= 51 mmHg
+                                               ivme oluşur. Bu durumda, yerçekiminin etkisiyle beyin atardamarlarında
+                                               meydana gelen basınç düşmesine ek olarak, yaklaşık 0,35 × 0,8 × 9,8 × 1050
+                                               ≈ 22 mmHg’lik ilave bir basınç azalması gözlenir. Buna karşılık, ayak
+                                               arterlerinde ise aynı ivmeyle (1,35 × 0,8 × 9,8 × 1050) yaklaşık 83 mmHg’lik
+                                               ilave bir basınç artışı meydana gelir.
+
+                                               •Ayağa kalkarken vücudun merkezi (örneğin kalp ve gövde) hızlıca yukarı
+                                               hareket ediyor.
+                                               •Ancak kan, eylemsizlik nedeniyle anlık olarak “arkada kalmak” ister.
+                                               •Özellikle baş bölgesindeki damarlar bu ivmeyi “negatif yönde” hisseder — yani
+                                               kısa süreli kan basıncı düşmesi oluşur.
+
+                                               Sonuç: Geçici beyin perfüzyon azalması
+                                               •Beyne ulaşan efektif basınç, zaten yerçekimi nedeniyle ~27 mmHg düşüktü.
+                                               •0.8 g’lik kalkış ivmesiyle buna ~22 mmHg daha eklenir.
+                                               •Toplamda beyin arter basıncı yaklaşık 51 mmHg’ye kadar inebilir.
+                                               •Bu da baş dönmesi, göz kararması veya sersemlik olarak hissedilir
+                                               (özellikle sabah ani kalkışta).
+Baş 100    Ayak 100    Ayak 204+83= 287 mmHg
+    mmHg        mmHg                           0.8 g ivme, ayağa kalkarken vücudun hızla dik konuma geçmesiyle
+                                               oluşan kısa süreli yukarı yönlü ivmedir. Bu ivme, beyin damarlarında ek
+                                               basınç düşüşüne neden olur.
+
+                                               Bu hesap yalnızca ilk saniyelerdeki ivme etkisini gösterir; ortostatik
+                                               hipotansiyonun asıl mekanizması venöz göllenmedir (sonraki slayt).
+Baş                                                       Ayak
+100 mmHg                                                100 mmHg
+                        Baş                      Ani Kalkışta ise
+                   100-27= 73 mmHg
+                                           1050×0,35×0,8×9,8 ≈ 22
+                                           mmHg
+
+
+
+
+           35 cm
+                           Aort 100 mmHg
+
+       90 cm
+
+
+
+                                                Kalça
+                                             100+69= 169 mmHg
+ Ortostatik Hipotansiyon: Asıl
+ Mekanizma
+• Kan bacaklarda birikir: Ayağa kalkınca bacak venlerinde basınç
+  artar. Ven duvarı ince ve esnek olduğu için genişler; içinde
+  yaklaşık yarım litre kan birikir.
+                                                                                 Klinik tanım
+• Kalbe dönen kan azalır: Biriken kan kalbe dönmez. Kalp daha az               Ne zaman sorun olur?
+  kanla dolar, her atımda da daha az kan pompalar.
+                                                                         Ayağa kalktıktan sonraki 3 dakika
+• Tansiyon düşer: Pompalanan kan azalınca arter basıncı düşer. Baş         içinde büyük tansiyonun 20,
+  zaten kalbin üstünde olduğu için beyne giden basınç daha da            küçük tansiyonun 10 mmHg veya
+  azalır → göz kararması, baş dönmesi.                                          daha fazla düşmesi.
+                                                                             Sık görülür: yaşlılarda, sıvı
+• Vücut hemen düzeltir: Boyundaki ve aorttaki basınç algılayıcıları
+                                                                              kaybında, tansiyon ilacı
+  (baroreseptörler) düşüşü fark eder. Kalp hızlanır, damarlar daralır;             kullananlarda.
+  basınç birkaç saniyede normale döner.
+• Bacak kasları yardım eder: Yürürken kasılan bacak kasları venleri
+  sıkar, venlerdeki kapaklar kanın geri kaçmasını engeller. Kan bu
+  sayede kalbe yukarı doğru gider.
+   Hidrodinamik / Hemodinamik
+Hidrodinamik, akış halindeki sıvıların hareketini ve bu harekete etki eden fiziksel kuvvetleri inceler. Tıpta bu
+prensipler kanın damar içindeki hareketini (hemodinamik) açıklamak için kullanılır.
+ ◦ Basınç farkı → akımı başlatan güçtür.
+   Damar sisteminde kan, yüksek basınçlı bölgeden düşük basınçlı bölgeye akar.
+ ◦ Direnç → akımı sınırlayan faktördür.
+   Damarın çapı azaldıkça direnç artar, akım azalır (Poiseuille yasası).
+ ◦ Akış devamlılığı → toplam akış hacmi sabittir.
+   Genişleyen damar alanlarında hız azalır, daralan bölgelerde artar.
+
+Klinik Önemi
+Arter ve ven basınç farkları, kan dolaşımının sürekliliğini sağlar.
+Hipertansiyon, vazokonstriksiyon veya damar elastikiyetinin azalması, akımın direncini değiştirir.
+Bu prensipler, kan basıncı ölçümü, perfüzyon analizi ve kan akımı bozukluklarının değerlendirilmesinde
+temel oluşturur.
+  Sistemik                 Pulmoner Arter                                             Sistemik dolaşımın
+  dolaşımın                                                                           başlangıcındaki
+  sonundaki                                                                           basınç= ortalama
+  basınç= 0 mm                                                                        arteriyal basınç=
+  Hg                       Sağ                                                        100 mm Hg
+                           atrium                                 Pulmoner
+                                                                  Kapilerler
+             Vena Cava
+                                                                  Pulmoner Damarlar
+
+
+
+                                                Sol
+                                                Ventrikül
+
+
+
+
+                                                               Arterle
+                                                               r
+                 Venler                                       Arteriolle
+                                                              r
+
+                          Venoller   O      CO              Sistemik Kapilerler
+                                     2      2
+
+
+
+
+∆P= başlangıçtaki basınç- sondaki basınç= 100 – 0 = 100 mm Hg
+Akış Hızı ve Debi
+Basınç etkisiyle yoğunluğu değişmeyen akışkanlara sıkışmaz akışkan denir. (Sıvılar genellikle sıkışmaz
+kabul edilir.)
+
+Sıkışmaz bir akışkan, sert (rijit) çeperli bir boruda akarken, içindeki her bir nokta için bir hız vektörü
+tanımlanabilir.
+
+•Hız vektörlerine teğet çizgilere akış çizgileri denir.
+•Hız arttığında akış çizgileri sıklaşır.
+Bir akışkanın boru içinde birim zamanda aldığı yol, akış hızı (v) olarak adlandırılır.
+
+
+Birim: m/s veya cm/sAkışkanın birim zamanda bir kesitten geçen hacmine akışkanın debisi denir.
+Birim: m³/s (pratikte mL/s, mL/dak, L/s, L/dak)
+Debi (Q) = Ortalama hız × Kesit alanı
+Örnek:
+Aorttaki ortalama kan debisi ≈ 5 L/dak
+Akış Hızı ve Debi (Süreklilik
+Denklemi)
+                    Yoğunluğun sabit olduğu bir sisteme giren ve çıkan sıvıların
+                                     kütleleri eşittir. m1 = m2
+
+                                  . A1. 1. t =  . A2. 2. t
+
+                                           A1. 1 = A2. 2
+                     Bu ifade süreklilik denklemi olarak adlandırılır ve kütlenin
+                              korunumu ilkesinin bir başka yazılışıdır.
+                Süreklilik denklemi neyi ifade eder?
+                 Akışkanlar mekaniğinde A₁·v₁ = A₂·v₂ denklemi, bir akışkanın birim
+                zamanda geçen hacminin (debisinin) sabit kaldığını söyler.
+                Kesit alanı (A) büyüdükçe akış hızı (v) azalır; alan küçüldükçe hız
+                artar.
+                “Geniş nehirde akış yavaştır, dar kanalda hızlıdır”
+                      Kan Debisi ve Hızı arasındaki farklılık
+                  Debi (akım): birim zamanda geçen hacimin ölçüsüdür.
+Hız ise hareketin ekseni boyunca saniyede alınan mesafenin ölçüsüdür. Yani kanın akış
+esnasındaki süratidir, akarken geçen miktar değildir.
+                                                                 r=4
+               Hız= Akım/Kesit alanı
+                                                   r=2
+                                  r=1
+          Akım            Hız
+          100 ml/sn                                                     100 ml/sn
+
+
+   Yarıçap (cm)                        1               2          4
+   Alan (cm2) (r2)                        3.14              12.56      50.24
+   Akım (debi) (cm3/sn)            100                 100        100
+   Sıvı hızı (cm/sn)                32                  8          2
+                   Not: Sabit akımda ve direncin ihmal edildiği durum
+                   Debi (L/dak)
+                                                                                        •Şekilde aorttan kılcallara doğru kanın izlediği yol gösteriliyor.
+                                                                                        •Aortun kesit alanı küçük, akış hızı yüksek;
+                                                                                        kılcal damarların toplam kesit alanı çok büyük olduğu için
+Toplam enine kesit
+
+
+
+
+                                                                                        kan burada çok yavaş akar.
+                                                                                        •Bu, madde alışverişinin (O₂, CO₂, besin) kılcallarda
+alanı (cm2)
+
+
+
+
+                                                                                        gerçekleşmesini sağlar.
+
+                                                                                        •Aort kesit alanı 𝑆𝑎​, kılcal damarların toplam kesit alanı 𝑆𝑘​’dan
+
+                                                                                                        𝑆𝑎𝑣𝑎=𝑆𝑘𝑣𝑘⇒𝑣𝑎=𝑆𝑘𝑆𝑎𝑣𝑘=1000𝑣k
+                                                                                        yaklaşık 1000 kat küçüktür. Süreklilik denklemine göre:
+                 Anatomik Dağılım
+
+
+
+
+                                                                                        Yani aorttaki kan akış hızı, kılcallardakinden yaklaşık 1000 kat
+                                                                                        fazladır
+
+                                                                                        Bu denklem, örneğin bir gölde kesit alanı (S) büyük
+                                                                                        olduğu için akış hızının (ν) küçük olacağını ifade eder.
+                  Akış (mm/s)
+
+
+
+
+                                    Aorta Arterler                Venler   Vene Cava
+
+                                            Arterioller    Venüller
+                                                                                       Kan debisinin sabit olduğuna dikkat edin (Şekilde üst yatay doğru).
+                                                     Kapilerler
+BASINÇ, KAN DEBİSİ (AKIM) ve DİRENÇ İLİŞKİSİ
+
+Basınç değişimi = Debi x Direnç          P = Q
+                                         R
+             Basınç değişimi                   
+    Debi=                                Q=
+                 Direnç                        PR
+
+
+                                    
+  Elektrikteki Ohm yasasına    I=   VR       veya V = IR
+  benzemektedir.
+Paralel Bağlı Direnç
+-Her paralel bağlı arter/arteriol, toplam kan akımının bir
+bölümünü alır (debi paylaşılır).
+-Başka paralel bağlı boruların eklenmesi toplam direnci
+azaltır!
+-Paralel bağlı boru siteminde herhangi bir borunun
+direncinin artması, toplam vasküler direnci artırır!!
+
+
+Seri Bağlı Direnç
+-Dolaşımda kan akımı sırasında, kanın geçtiği damarların
+dirençlerinin toplamı.
+-Kan akımı sırasında, seri bağlı damar sisteminden
+geçtiği için karşılaştığı toplam direnç artacağından
+basınç düşmektedir; en belirgin basınç düşüşü
+arteriyollerde görülür.
+•Damarlar dallanarak paralel
+bağlanır.
+•Paralel bağlı damarlar toplam akımı
+paylaşır, bu yüzden toplam direnç
+azalır. Yani birden fazla yol açıldıkça
+kan akışı kolaylaşır.
+•Ancak her bir küçük damar kendi
+çapı küçük olduğu için, o damarda
+kan büyük dirençle karşılaşır. Bu
+nedenle toplam direnç düşük olsa
+da, basınç düşüşü özellikle küçük
+arteriyollerde belirgindir (her dal
+kendi payına düşen akımı taşırken
+dirençle karşılaşır).
+                                                                    Arterioller
+
+                                                                                  Kapilerler
+
+                                                                                               Venüller
+
+
+
+
+                                                                                                                                        Venler
+                                                          Arterle
+
+
+
+
+                                                                                                                Venler
+
+
+
+
+                                                                                                                              Arterle
+                                                          r
+
+
+
+
+                                                                                                                              r
+                               Basnıç (mm Hg)
+
+
+
+
+                                                                         Sistemik                                            Pulmoner
+Özellik / Damar Tipi   Aorta                    Terminal Arterler        Dolaşım
+                                                                        Arterioller                       Kılcal Damarlar    Dolaşım
+                                                                                                                            Venüller       Terminal Venler   Vena Cava
+Sayısı                 1                        1 800                   40 × 10⁶                          5 × 10⁹           80 × 10⁶       1 800             2
+Çap (cm)               2,1                      0,06                    0,002                             0,0008            0,003          0,15              2,5
+Uzunluk (cm)           40                       1                       0,2                               0,1               < 0,3          10                40
+Ortalama Hız (cm/s)    40                       < 10                    0,2                               < 0,1             < 0,3          1                 20
+Toplam Kesit (cm²)     5                        50                      500                               3 500             2 700          50                18
+Ort. Basınç (kPa)      13,3                     11,3                    11,3 – 4,7                        4,7 – 2,0         2,0 – 1,3      1,3 – 0,7         0,7 – 0,3
+
+Ort. Basınç (mmHg)     100                      85                      85 – 35                           35 – 15           15 – 10        10 – 5            5–2
+  Toplam enine kesit incelendiğinde küçük arteriyel damarlar büyük arteriyel damarlardan daha fazla alan kaplar. En büyük basınç
+  düşüşü arteriyollerde görülür
+- Bu nedenle, daha küçük                           Sol                    Minor
+                                                               Major
+  çaplı arterler ve arteriyoller
+                                                                                        Kapillerler   Venüller   Major Venler
+                                                   Ventrikül   Arterler   Arterler ve
+                                                                          Arterioller
+
+  yüksek dirençli damarlar
+  olarak isimlendirilir
+  (resistance vessels)
+- Kılcallar, geçişin
+
+
+
+
+                                   Basınç (mmHg)
+  gerçekleştiği yerlerdir
+  (exchange)
+- Venler de, kan
+  depolayabilme özellikleri
+  nedeniyle kapasitans
+  damarlar olarak
+  isimlendirilebilir.                                                     Dirençli      Değişim
+                                                                                        Damarları
+                                                                                                              Depo
+                                                                                                          (Kapasitans)
+                                                                          Damarlar                          Damarları
+Toplam Periferik Direnç (TPR): Kalbin pompaladığı kana karşı
+tüm damarların gösterdiği toplam dirençtir. Basınç farkı (ΔP) ile
+
+                           ΔP = Q × R
+kan akımı (Q) arasındaki ilişki:
+
+•   (Yani basınç farkı = akım × direnç)
+Damar çapı değişirse:
+• Vazodilatasyon (genişleme) → Direnç azalır, akım
+  kolaylaşır.
+• Vazokonstriksiyon (daralma) → Direnç artar, akım zorlaşır.
+Normalde
+• Ortalama arter basıncı ≈ 100 mmHg
+• Sağ atriyum (venöz) basıncı ≈ 0 mmHg
+• Kalp debisi ≈ 5000 mL/dk (≈ 83 mL/s)
+• TPR = 100 / 5000 = 0,02 mmHg·dk/mL = 100 / 83 ≈ 1,2 PRU
+  (mmHg·s/mL)
+                                                Akış Rejimleri
+
+
+                                              Akışkanlar nasıl akar?
+                                              Akışkanlar, akış hızına ve viskozitesine bağlı olarak iki
+                                              ana akış biçimi gösterir:
+  Yukarı doğru       Laminar Akım
+gittikçe hız artar
+                                                 • Laminar Akım: Düzgün, tabakalı ve sessiz akış.
+            Hareketli Tabaka                     • Türbülanslı Akım: Düzensiz, karışık ve girdaplı
+                               Hareket Yönü
+           Sabit Tabaka                            akış.
+
+                                              Laminar akımda her tabaka paralel hareket eder;
+                                              tabakalar karışmaz. Akış hızı arttıkça veya damar
+                                              geometrisi bozuldukça akım laminardan türbülansa
+                                              geçer.
+                                   LAMİNAR /DÜZGÜN AKIŞ
+
+
+                     Laminar Akış
+
+                                         Karşıdan
+                  Parabolik akış
+                                         Görünümc
+                      profili
+
+     Basınç                 Vmax
+  (kuvvet/alan)
+                                    V=0
+                                      Akış tabakarı eş
+                                        merkezlidir
+
+
+
+
+•Akışkanın bu kayma hareketine karşı gösterdiği direnç, yani tabakaların birbirine göre kaymasına karşı koyma eğilimi viskozite
+(η) olarak tanımlanır. “Akışa karşı direnç = viskozite”
+                 LAMİNAR /DÜZGÜN AKIŞ
+
+                                       Fizyolojik Anlam
+                                       •Laminar akışta hız merkezde maksimum, duvarda sıfırdır (parabolik
+   Laminar Akış                        profil).
+                                       •Kesit boyunca basınç her noktada aynıdır; yalnızca akış yönünde düşer.
+                                       Hız farkı basınçtan değil, viskoz sürtünmeden kaynaklanır.
+                        Karşıdan
+Parabolik akış
+                        Görünüm
+    profili
+                                       Eritrositlerin Davranışı
+                                       •Eritrositler, duvar yakınındaki yüksek kesme hızı nedeniyle akışın
+          Vmax
+                                       merkezine doğru göç eder (aksiyel göç).
+                  V=0                  •Duvarda hücresiz plazma tabakası oluşur (Fåhræus–Lindqvist etkisi);
+                    Akış tabakarı eş   kapillerde eritrositler tek sıra hâlinde (“bolus flow”) ilerler.
+                      merkezlidir      •Bu düzen, duvar yakınındaki görünür viskoziteyi ve akıma karşı direnci
+                                       azaltır.
+
+                                       Laminar akış, damarlarda sessiz, düzenli ve enerji açısından verimli
+                                       bir akış sağlar. Bu sayede kan hücreleri damar duvarına zarar vermez ve
+                                       doku perfüzyonu dengeli olur.
+                                     TÜRBÜLAN/GİRDAPLI AKIM
+        Kan akımı kritik hıza kadar laminar akım şeklindedir. Kritik hız değerini geçerse
+        türbülan akım oluşur. Kritik hız değeri Reynolds sayısına (Re) bağlıdır
+       A) Basınç-Akış                          B) Hız profilleri      Re = ν r ρ / η
+       İlişkisi
+         Düzgün          Girdaplı
+
+
+         Sessiz         Gürültülü
+Debi
+
+
+
+
+                            Kritik
+                            değer
+                        Re > ~1160 (r ile)
+
+
+
+             ∆ Basınç
+                                                        Ohm’s Law of Hydrodynamics - ΔP = Q ×
+                                                        R basınçla doğru orantılı olarak artar.
+                  Belli bir noktaya (kritik hız) kadar akım
+                          GİRDAPLI AKIM / TURBULENT FLOW
+      Damar boyunca akışın yanı sıra halka şeklide enine dalgalanmalar, akış çizgileri birbirini
+      kesebilir
+
+
+  Aşağıdaki durumlarda girdaplı akım oluşur:
+1. Damar duvarı düzensizse, yarıçap
+   değişiyorsa
+2. Akış hızı büyük olduğu zaman (Yüksek
+   kardiyak output)
+3. Düşük viskozite (anemi)
+4. Sıvı yoğunluğu büyükse
+              (a)                                                        Laminar ve Girdaplı Akışın Basınç–Debi İlişkisi (Şekil a)
+                                                                         •Grafikte, basınç (x ekseni) ile debi (y ekseni) arasındaki ilişki gösteriliyor.
+                                                                         •Laminar (düzgün) akışta:
+                                                                            • Akım düzenli ve sessizdir.
+                                               Türbülan                     • Basınç arttıkça debi doğrusal olarak artar.
+                                                         )
+                                               (Girdaplı                    • Yani basınç ve debi doğru orantılıdır.
+      Debi(dV/dt)
+
+
+
+
+                                                                         •Kritik basınç (Pc) değerine kadar akış laminar kalır.
+                                                                         •Bu basınç aşıldığında, akış girdaplı (türbülanslı) hale geçer.
+                                                                            • Girdaplar oluşur, akış düzensizleşir.
+                        gü r
+                      üz na
+                          n)
+
+
+
+
+                                                                            • Artık debi artışı için daha fazla basınç gerekir.
+                    (D mi
+
+
+
+
+                                                                            • Yani eğim azalır → enerji kaybı artar.
+                      La
+
+
+
+
+                                                                         Aynı debi artışı için, laminar akışa kıyasla türbülanslı akışta daha büyük basınç artışı
+                                                                         gerekir.
+                                    P        Basın
+                                             ç                           Normal Arter – Tıkanmış Arter Karşılaştırması (Şekil b)
+                                    c
+
+                                                                         •Normal arterde kan akışı laminar yapıdadır; basınç farkı arttıkça debi orantılı şekilde
+              (b                                                         artar.
+                                                                         •Tıkanmış arterde (örneğin aterosklerozda):
+              )            ΔP                                                • Akış yolu daraldığı için direnç artar.
+                                                             Normal
+                           1
+                                                                             • Bu durumda aynı debiyi elde etmek için daha fazla basınç gerekir.
+                                                             Arter
+                                                                             • Yani kalp, kanı itebilmek için daha fazla güç harcar.
+              Q                                                          Örneğin:
+Debi(dV/dt)
+
+
+
+
+              B
+                                                                         •Normal arterde: QA debisine ulaşmak için ΔP₁ kadar basınç gerekir.
+                                                              Tıkanmış   •Tıkanmış arterde: Aynı debiye ulaşmak için ΔP₂ (daha büyük) gerekir.
+              Q                                               Arter
+
+              A
+                                                                         Tıkanıklık → direnç artışı → basınç ihtiyacı artar → kalp yükü artar.
+                                        ΔP
+                                        2
+                                                                         Fizyolojik yorum
+                                                                         •Bu durum, hipertansiyon veya koroner arter hastalığında gözlenen “kalbin fazla efor
+                       P        P              Basın                     harcaması”nın temel mekanizmasını açıklar.
+                       1        2              ç                         •Laminar akış enerji açısından verimliyken, türbülanslı akış enerji kaybına ve basınç
+                                                                         yüküne neden olur.
+ Laminar ve Türbülanslı Akım -
+ Dolaşım Sisteminde Geçiş
+Normalde dolaşım sistemi büyük oranda laminardır. Ancak yüksek hız, geniş çap veya
+yön değişikliği durumunda fizyolojik türbülans oluşabilir. Patolojik türbülans, stenoz,
+anemi veya kapak hastalıkları gibi durumlarda kalp üfürümü olarak duyulur.
+Anatomik                          Neden                       Reynolds Sayısı (r ile)         Not
+
+Aort kökü                         Hız yüksek, çap büyük       Ort. ~800; pik sistolde >1160   Pik sistolde fizyolojik türbülans
+
+Aort arkı                         Akış yönü değişir           ~1200                           Kısa süreli girdaplar
+
+Bifurkasyonlar (karotid, iliak)   Akım iki kola ayrılır       800–1200                        Kısmen karışma
+
+Kalp kapakları                    Darlık/dar açıklık          >2000                           Ses ("üfürüm") oluşabilir
+
+Egzersiz veya anemi               Hız ↑, viskozite ↓ → Re ↑   -                               Geçici türbülans
+ Türbülansın Klinik Önemi
+• Ses kaynağı: Laminar akım sessizdir; türbülans duvarda titreşim
+  oluşturur ve stetoskopla duyulur.
+• Korotkoff sesleri: Manşon basıncı sistolik ile diyastolik
+  arasındayken brakiyal arter kısmen açılır; dar lümenden hızla
+  geçen kan türbülans yapar. Ses ilk duyulduğunda sistolik,
+  kaybolduğunda (akım yeniden laminar) diyastolik basınç okunur.         Re = ρ·v·r / η
+• Kalp üfürümleri: Kapak darlığı veya yetmezliğinde jet hızı ve
+  Reynolds sayısı artar.
+• Arteriyel üfürüm (bruit): Karotis veya renal arter darlığının klinik
+  belirtisi olabilir.
+• Anemi: Kan viskozitesi azalırken kalp debisi artar; fonksiyonel
+  üfürüm oluşabilir.
+                                              BERNOULLİ İLKESİ
+
+                                                   Bernoulli denklemi: P + ½ρv² + ρgh = sabit (birim hacim
+                                                   başına toplam enerji).
+
+
+                                                   Bernoulli ilkesi, aslında enerjinin korunumu ilkesinin
+                                                   akışkanlar için uyarlanmış hâlidir.
+
+                                                   Bir akışkan bir borudan geçerken; hız (v), basınç (p) ve
+                                                   yükseklik (h) birbirine bağlı olarak değişir. Daralan
+Bir akışkanın bir boru boyunca hareket ederken:    kısımda hız artar, çünkü debi sabittir (A·v = sabit).
+•Hızı (v);                                         Ancak hız arttıkça, Bernoulli’ye göre basınç azalır.
+•Basıncı (p)
+•Yüksekliği (h)
+birbirine bağlı şekilde değişir.                   Yani akışkanın enerjisi şekil değiştirir:
+                                                   Basınç enerjisinden → Kinetik enerjiye dönüşür.”
+Bernoulli ilkesi iç sürtünmesiz (viskoz olmayan) sıvılarda enerjinin korunum ilkesidir.
+              P          P                P          P                  P          P
+              1          2                3          4                  5         6
+
+
+
+
+          V=100 cm/sn                     V=200 cm/sn                       V=100 cm/sn
+          ρv2/2=3.8 mmHg                  ρv2/2=15 mmHg                     ρv2/2=3.8 mmHg
+
+
+Borunun dar kesiminde, B, doğrusal hız, v, ve basıncın dinamik bileşeni, ρv² / 2, aynı borunun A ve C kesimlerindekinden
+daha büyüktür. Eğer toplam enerji bütün boruda hemen hemen sabit ise (örneğin, viskozite nedeniyle enerji kaybı ihmal edilir
+düzeyde ise) toplam basınçlar (P₁, P₃ ve P₅) birbirlerinden çok farklı olmayacak, fakat dar kesimde yan basınç P₄, borunun
+geniş kesimindeki (P₂ ve P₆) yan basınçlarından daha düşük olacaktır.
+Bernoulli İlkesinin Klinik Kullanımı
+Kan dar bir kapaktan geçerken hızlanır. Hızlanmak için enerji
+gerekir; bu enerji basınçtan gelir. Kapağın önündeki basınç ile
+arkasındaki basınç arasında bir fark oluşur.
+
+Ekokardiyografide (Doppler) kanın kapaktan geçerken ulaştığı
+en yüksek hız ölçülür.
+                                                                       ΔP ≈ 4v²
+                                                                  Örnek: aort kapağında v = 4 m/s
+Basitleştirilmiş Bernoulli: ΔP ≈ 4v² (ΔP: mmHg, v: m/s).            ΔP ≈ 4 × 4² = 64 mmHg
+Proksimal hız ve viskoz kayıplar ihmal edilir; 4 katsayısı
+½ρ’dan gelir (½ × 1060 kg/m³ × 1 m²/s² ≈ 530 Pa ≈ 4 mmHg).
+
+Hız ne kadar yüksekse darlık o kadar ciddidir. Aort kapağında
+hız 4 m/s’yi geçiyorsa ciddi aort darlığı düşünülür.
+
+Darlık arttıkça kalp, kanı o dar yerden geçirmek için daha
+yüksek basınç üretmek zorunda kalır.
+                      Akış Direnci
+
+  A    B C D E
+
+
+
+
+Sabit kesitli yatak:
+Viskoz bir sıvının akışında
+düzgün ve sürekli bir basınç
+gradyenti oluşur.
+(Basınç, yalnızca viskozite
+nedeniyle azalır.)
+        Poiseuille yasası
+                      ∆P =Q.R
+
+
+
+
+                                  Poiseuille    Q= akış debisi ;
+                                                = Viskozite;
+                                  eşitliği      r= Tüpün yarıçapı
+                                                L= Tüpün uzunluğu
+                                                P1-P2= Tüpün iki ucu arasındaki basınç farkı
+
+
+
+
+Akımın, perfüzyon basıncı (P), damar uzunluğu (L), yarıçapı (r) ve kanın viskozitesi (η)
+ile nasıl değiştiğini açıklar
+      Koroner arterlerdeki aterosklerotik daralma kan
+         akımını neden azaltır? : Poiseuille yasası
+
+                                       ( ( )
+             Q=              = 4    (P)         r
+                     PR        8r  =      P)
+                                           8 4
+                               l           l
+Eğer P sabit ise, debi yarıçap değişimine çok duyarlıdır.
+
+           Yarıçaptaki% azalma             Debideki % azalma
+ r          (1 - r/10)*100            r   [1 - (Q/Qr=10)]*100
+                                      4
+
+ 10          0%              10,000       0%
+ 9          10%               6,561       35%
+ 5          50%                 625       94%
+ 1          90%                   1       99.99%
+ Kompliyans ve Windkessel Etkisi
+• Kompliyans (C): Hacim değişiminin basınç değişimine oranı, C =
+  ΔV / ΔP; damarın esneyebilirliğidir.
+• Venler arterlerden ~24 kat daha kompliyandır; kan hacminin
+  ~%60–65’i venöz sistemdedir (kapasitans damarları).
+                                                                       C = ΔV / ΔP
+• Windkessel etkisi: Sistolde aort genişleyerek atım hacminin bir
+                                                                           Nabız basıncı ≈
+  kısmını depolar; diyastolde elastik geri dönüşle kanı ileri iter.
+                                                                       Atım hacmi / Arteriyel
+  Kesikli pompalama sürekli akıma dönüşür, diyastolik basınç
+                                                                            kompliyans
+  korunur.
+• Yaşlanma / arterioskleroz: Kompliyans ↓ → sistolik ↑, diyastolik
+  ↓, nabız basıncı ↑ (izole sistolik hipertansiyon); kalbin ard yükü
+  ↑.
+• Klinik ölçüm: Nabız dalga hızı (PWV) arter sertliğinin
+  göstergesidir.
+                            LAPLACE YASASI
+Damar çeperleri, esneklik katsayıları birbirinden farklı olan elastin, kolajen ve
+düz kasların özel bir organizasyonundan oluşmuştur ve genişleyebilir özelliktedir.
+
+Damar gibi silindirik, genişleyebilir, r yarıçaplı bir borunun içi ve dışı arasındaki
+basınç farkına transmural basınç adı verilir (Pt=Piç-Pdış). Bu basıncı dengelemek
+üzere damar çeperlerinde doğan gerilme, T, Laplace yasasına göre şudur:
+                       Laplace Yasası
+Belirli bir iç akışkan basıncına karşı koymak için daha büyük yarıçaplı
+damarların duvarlarında daha büyük gerilmelerin gelişmesi gerekir.
+
+
+
+
+  Aynı yarıçap ve iç basınçta küresel bir yapının (ör. ventrikül) duvar
+              gerilmesi, silindirik damarınkinin yarısıdır.
+                             Duvar Gerilmesi
+
+
+
+
+Pascal ilkesine göre balonun her yerinde basınç aynıdır; farklı olan, geometriye
+                    (yarıçap ve şekle) bağlı duvar gerilimidir.
+Anevrizma, bir damarın duvarının zayıflayıp lokal olarak
+genişlemesidir.
+Süreç:
+1.Damarın duvarı zayıflar → yarıçap artmaya başlar.
+2.Yarıçap arttıkça σ = P × r / h → duvar stresi artar (T = P·r
+gerilim, σ = T/h stres).
+3.Artan gerilme duvarı daha fazla genişletir → pozitif geri
+besleme döngüsü.
+4.Sonunda damar duvarı dayanamayıp yırtılabilir (rüptür).
+Yani: Anevrizma büyüdükçe r artar, h azalır; duvar stresi
+orantıdan hızlı artar — rüptür riskini bu açıklar.
+
+
+
+
+Durum                   r (cm)            h (mm)            P (mmHg)   σ (Göreceli)   Açıklama
+Normal aort              1.5                2.0                  100       75         Normal stres
+Anevrizma
+                         2.5                1.5                  100       166        Stres ↑
+başlangıcı
+                                                                                      Çok yüksek,
+İleri anevrizma          4.0                1.0                  100       400
+                                                                                      rüptür riski!
+Özet
+• Hidrostatik: P = ρgh → ayakta baş arteri ≈ 73, ayak arteri ≈ 204 mmHg.
+• Süreklilik: A·v = sabit → kan en yavaş kapillerde akar (madde alışverişi).
+• Direnç: ΔP = Q × R; TPR ≈ 1,2 PRU; en büyük direnç ve basınç düşüşü arteriollerde.
+• Reynolds: Re > ~1160 (yarıçapla) → türbülans → üfürüm, Korotkoff sesleri.
+• Bernoulli: Dar kesitte hız ↑, yan basınç ↓; klinikte ΔP ≈ 4v².
+• Poiseuille: Q ∝ r⁴ → yarıçap %50 azalırsa akım ~%94 azalır.
+• Kompliyans: Arter sertliği nabız basıncını artırır.
+• Laplace: T = P·r → büyük yarıçap, büyük gerilim; anevrizma ve dilate ventrikül.
+Klinik Vaka Soruları
+1. 70 yaşında bir hasta sabah yataktan hızla kalkınca baş dönmesi tarif ediyor. Hidrostatik etki ve
+   venöz göllenme açısından açıklayınız. (Venöz göllenme → ön yük ↓ → debi ↓; baroreseptör yanıtı)
+2. Bir koroner arterin yarıçapı %20 azalmıştır. ΔP sabitse akım yüzde kaç azalır? (1 − 0,8⁴ ≈ %59)
+3. Aort kapağından geçen akım hızı 4,5 m/s ölçülmüştür. Kapak boyunca basınç gradyanı yaklaşık
+   kaçtır? (4 × 4,5² ≈ 81 mmHg)
+4. Abdominal aort yarıçapı iki katına çıkmış, duvar kalınlığı yarıya inmiştir. Duvar stresi kaç kat
+   artar? (σ ∝ r/h → 2 × 2 = 4 kat)
+5. Ağır anemisi olan bir hastada neden sistolik üfürüm duyulabilir? (η ↓, v ↑ → Re ↑ → türbülans)
+

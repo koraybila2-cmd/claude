@@ -1,0 +1,341 @@
+                          Yüzey gerilimi ve Alveol mekaniği
+
+
+                                     Mahmut Alp Kılıç
+                                        Dr. Öğr. Üyesi
+                            Adnan Menderes Üniversitesi Tıp Fakültesi
+                                    Biyofizik Anabilim Dalı
+Kaynaklar:
+- Biyofizik, Prof. Dr. Ferit Pehlivan, 10. Baskı, Pelikan Yayıncılık, 2021
+- Biyofizik Ders Kitabı, Cerrahpaşa Tıp Fakültesi, Ed. Prof. Dr. Şefik Dursun, İstanbul Üniversitesi Basım ve
+   Yayınevi Müdürlüğü, 2010
+- Dr. Öğr. Üyesi Özlem Bozkurt Girit, Yüzey gerilimi ve Alveol mekaniği ders notları
+Yüzey Gerilimi Nedir?
+Yüzey Gerilimi bir sıvının yüzeyinde oluşan özel bir kuvvettir. Bu kuvvet, sıvı moleküllerinin yüzeyde birbirine
+çekilerek, sıvının yüzeyinin bir tür "gerilmiş zar" gibi davranmasını sağlar. Yüzey gerilimi, sıvı moleküllerinin
+arasındaki çekim kuvvetlerinden kaynaklanır ve çeşitli doğa olaylarında önemli bir rol oynar.
+Yüzey Gerilim Kuvveti
+• Yüzey gerilim kuvveti, hava-sıvı ya da sıvı-sıvı gibi iki farklı özellikteki bileşenin temas ettiği sınırda, birim
+  uzunluğa düşen kuvvet olarak tanımlanır. Bu kuvvet genellikle T sembolüyle gösterilir.
+• Yüzey gerilim kuvvetinin birimi, SI sisteminde N/m ve CGS sisteminde dyn/cm'dir.
+• Örneğin, su yüzeyindeki gerilim kuvveti 72 dyn/cm olarak ifade edilir.
+Yüzey Tipleri
+• Yüzey gerilimi incelenirken iki farklı yüzey tipi göz önünde bulundurulur:
+1. Küresel Yüzeyler: Köpük, sıvı içinde hava kabarcığı, mesane gibi yapılardır.
+2. Silindirik Yüzeyler: Plastik borular, damarlar, bağırsaklar gibi yapılardır.
+ Yüzey gerilim kuvvetinin sebebi nedir?
+
+
+
+
+** Yüzeydeki
+moleküller içe doğru
+net bir kuvvetle çekilir.
+Kaynağı: molekül arası
+kohezyon (çekim)
+kuvvetleri
+Su İçin Yüzey Gerilimini Etkileyen Faktörler
+1.Sıcaklık
+     1. Sıcaklık arttıkça suyun yüzey gerilimi azalır.
+2.Çözünmüş Maddeler (Tuz, Şeker vb.)
+     1. Çoğu inorganik tuz suyun yüzey gerilimini artırır.                                         Yüzey Gerilimi
+                                                                    Madde          Sıcaklık (°C)
+     2. Şeker gibi organik maddelerin etkisi genellikle düşüktür.                                  (N/m)
+3.Sürfaktanlar / Deterjanlar                                        Tam kan        37              0,058
+     1. Suyun yüzey gerilimini belirgin şekilde azaltır.            Kan plazması   37              0,073
+4.Çözünmüş Gazlar
+     1. CO₂ gibi gazlar yüzey gerilimini biraz azaltabilir.         Su             37              0,070
+     2. Oksijen, azot gibi gazların etkisi çok sınırlıdır.          Su             50              0,068
+5.pH Değişimi                                                       Su             100             0,059
+     1. pH çok değiştiğinde (çok asidik veya çok bazik), iyonik
+         yapı değiştiği için yüzey gerilimi etkilenebilir.          Cıva           20              0,464
+6.Saflık (Kirlilik-Organik Artıklar)
+     1. Su kirlendikçe/organik madde arttıkça yüzey gerilimi
+         genelde azalır.
+          Laplace yasası
+• Silindirik yüzeylerin enine çeper gerginliği daha önce küresel yüzeyler için bulunanın
+  iki katına eşittir.
+
+    Küresel yüzeyler için Laplace
+     yasası P=2T/r
+    Silindirik yüzeyler için Laplace
+
+     yasası P=T/r
+
+
+
+  Yüzey gerilim kuvvetleri sabit bir zar veya filmden yapılmış küreler için
+  (örneğin suda hava kabarcıkları) kürenin yarıçapı ne kadar küçükse iç
+  basıncı o kadar yüksektir.
+  T gerilmesi (Laplace yasası) koşullara göre değişebilirken, γ yüzey gerilim
+  sabiti bir sıvı için karakteristiktir.
+      Paralel Bağlı Alveollerde Laplace Sorunu
+
+Paralel bağlı alveollerde, yarıçaplar genellikle birbirinden farklı
+olacaktır.
+
+Yüzey gerilimi her alveolde aynı olsaydı (P = 2T/r) küçük yarıçaptan
+büyük yarıçapa doğru hava akışı olmalı ve küçük yarıçaplı alveoller
+tamamen kapanmalıdır.
+
+Normalde bu durum oluşmaz: sürfaktan ve komşu alveollerin birbirini
+germesi (interdependence) alveolleri stabil tutar.
+Sürfaktanlar nedir?
+Sürfaktan, yüzey gerilimini azaltan ve sıvıların yüzeyinde esnek bir zar
+gibi davranmasını sağlayan maddelere verilen genel isimdir.
+
+• Amfipatik Yapı
+• Yüzey Gerilimini Azaltma
+Sürfaktan Proteinlerinin Rolü
+Ana fosfolipit: DPPC (Dipalmitoil Fosfatidilkolin)
+Proteinler:
+ Özellik        SP-A          SP-B             SP-C              SP-D
+ Yapısı         Hidrofilik    Hidrofobik       Hidrofobik        Hidrofilik
+                Sürfaktan
+                                               Monolayer
+                metabolizma   Monolayer                          İmmün
+ Temel görevi                                  stabilizasyon
+                sı ve immün   oluşumu                            savunma
+                                               u
+                savunma
+                              Sürfaktanın                        Doğrudan
+                                               Fosfolipitlerin
+ Sürfaktan      Düzenlenmes   hava-sıvı ara                      temel yüzey
+                                               yüzeyde
+ organizasyon   ine katkı     yüzeyine                           gerilimi
+                                               kalmasını
+ u              sağlar        yayılmasını                        düzenleyicisi
+                                               kolaylaştırır
+                              sağlar                             değildir
+ İmmün işlev    Var           Belirgin değil   Belirgin değil    Var
+
+
+Neden önemli?
+Proteinler olmadan sürfaktan yayılmaz, stabil kalmaz ve işlev görmez.
+Pulmoner sürfaktan
+Akciğerlerdeki alveollerin iç yüzeyinde bulunan bu sürfaktan,
+solunumun sağlıklı bir şekilde gerçekleşmesi için gereklidir. Akciğer
+sürfaktanı, alveollerin yüzey gerilimini düşürerek onların genişlemesini
+ve büzülmesini kolaylaştırır ve çökmelerini engeller.
+1. Çekim Kuvvetlerinin Azaltılması / Kompliyansı artırır
+2. Alveol Çökmesini Önleme
+Alveol Yüzey Sıvısının Fiziksel Özellikleri
+• Alveol Yüzey Sıvısı (Fluid Lining Layer)
+• Alveol iç yüzeyi 0.1–0.2 µm kalınlığında çok ince bir
+  sıvı tabakası ile kaplıdır.
+• İçerik: su + elektrolitler + sürfaktan + çok az protein
+• Gaz değişimi için gerekli olan “nemli yüzey
+  ortamını” sağlar.
+• Su molekülleri arasındaki kohezyon kuvveti yüzey
+  geriliminin kaynağıdır.
+• Yüzey gerilimi → Laplace yasasını doğurur →
+  alveollerde büzülme eğilimi oluşturur.
+• Not: O₂ ve CO₂ önce bu sıvı tabakasında çözünür,
+  sonra alveol-kapiller zardan difüze olur.
+Küçük vs. Büyük Alveol (Örnek Hesaplama)
+Örnek:
+Küçük alveol: r = 50 µm
+Büyük alveol: r = 100 µm
+Yüzey gerilimi iki alveolde eşit (sürfaktan yok): T = 20 dyn/cm
+Laplace: P = 2T/r
+Küçük alveol: 2T/r = 40/50 = 0,8 (dyn/cm ÷ µm) = 8000
+dyn/cm² ≈ 8 cmH₂O
+Büyük alveol: 2T/r = 40/100 = 0,4 (dyn/cm ÷ µm) = 4000
+dyn/cm² ≈ 4 cmH₂O
+Sonuç:
+Sürfaktansız durumda küçük alveolün iç basıncı 2 kat fazladır
+→ büyük alveole boşalır → kollaps olur.
+Sürfaktan eklendiğinde:
+Küçük alveolde T çok daha fazla düştüğü için P eşitlenir.
+  Surfaktan yüzey gerilimini düşürdüğü
+  için farklı yarıçaplı alveoller aynı
+  transmural basınç altında dengede
+  kalabilir (kararlı / stabil)
+  - Patlamaz veya kolaps olmaz
+
+
+Surfaktanın önemi:
+
+-Yüzey gerilimini düşürür, kompliyansı artırır
+- alveolleri daha stabil yapar (Laplace yasası)
+- alveollerin kuru kalmasını sağlar, pulmoner ödemi
+önler
+- doğumda akciğerlerin genişlemesine yardımcı
+Yüzey Geriliminin Sayısal Değerleri
+Yüzey Gerilimi Ne Kadar Azalır?
+• Saf su yüzey gerilimi: ≈ 72 dyn/cm
+• Sürfaktanlı alveol: 1–5 dyn/cm’ye kadar düşebilir
+• Bu dramatik düşüş, alveol stabilitesinin en önemli nedenidir.
+• Küçük alveollerde yüzey geriliminin çok daha düşük olması kollapsı
+  engeller.
+• Sürfaktan, yüzey gerilimini %90’dan fazla azaltabilir.
+
+
+
+11/19/2026                                                             M.P. 15
+         YÜZEY GERİLİMİ-ALVEOL MEKANİĞİ
+
+• Surfaktanın belirli bir miktarı, alveol yarıçapı küçük iken yüzeyde daha yoğun
+bulunması sebebiyle, doku akışkanının yüzey gerilimini daha da küçültür (azaltır)
+
+• Alveol genişledikçe  Surfaktanın yüzey yoğunluğu  ve etkisi  ve yüzey
+gerilimini daha fazla küçültemez.
+• Böylece farklı yarıçaplı 2 alveol, aynı Ptransmural altında farklı yüzey gerilimi
+oluşturarak kararlı kalabilirler.
+    ** Surfaktanın yüzey gerilimi sabit değildir.
+
+    -Yani, ekspirasyon sırasında alveolün büyüklüğü küçüldüğünde,
+    alveol yüzey gerilimi de azalmaktadır.
+    - Surfaktan içermeyen alveoller küçük kabarcıklar gibi kollaps olur ve
+    yeniden açmak için çok büyük basınç gerekir. (YD RDS)
+Sürfaktanın Dinamik Davranışı
+(İnspirasyon/Ekspirasyon Döngüsü)
+• Sürfaktanın Dinamik Özelliği
+• Sürfaktanın yüzey etkisi sabit değildir, alveol hacmine göre değişir.
+• Ekspirasyonda (alveol küçülürken):
+      • Sürfaktan yüzeye sıkışır → yoğunluğu artar
+      • Yüzey gerilimi çok daha fazla azalır
+      • Alveol kollapsı engellenir
+• İnspirasyonda (alveol genişlerken):
+      • Sürfaktan seyrelir → yoğunluk azalır
+      • Yüzey gerilimi bir miktar artar
+      • Aşırı genişleme engellenir
+• Sonuç:
+  → Farklı yarıçaplı alveoller aynı Ptranspulmoner altında stabil kalır
+  → Akciğer açılırken iş kolaylaşır (kompliyans ↑)
+
+11/19/2026                                                                M.P. 17
+      Yüzey geriliminin alveol yüzey
+      alanı ile değişmesi              Pulmoner surfaktan
+                                         Alveolu örten tabakanın yüzey
+                                       gerilimini azaltır.
+                                         Düşük yüzey gerilimi akciğer
+                                       kompliyansını artırır ve her
+                                       soluktaki genişleme kuvvetini azaltır.
+0.8                                      Surfaktan Yokluğunda azalan akciğer
+0.6                                    kompliyansı, alveolar atelektazi ve
+                                       pulmoner ödem eğilimi olur.
+
+                                          Surfaktanla alveolun kararlılığı
+                                       sağlanır.
+                                          Alveolun kuru kalmasını sağlar
+                                       (sıvı transüdasyonunu önler)
+Akciğer P–V Eğrisi (İnflasyon–Deflasyon Histerezisi)
+1. Akciğer neden histerezis gösterir?
+•Akciğer ilk kez şişirilirken (inflation) daha yüksek basınca ihtiyaç vardır.
+•Çünkü başlangıçta alveoller tam açılamamış ve sürfaktan yeterince
+yayılmamıştır.
+
+2. Deflation eğrisi neden daha yukarıda?
+•Ekspirasyon (deflation) sırasında alveoller zaten açıktır.
+•Bu nedenle aynı hacme ulaşmak için daha az basınç yeterlidir.
+•Yani deflation eğrisinde aynı basınçta hacim daha büyüktür (kompliyans
+daha yüksek görünür).
+
+3. Basınç = 0 iken neden hâlâ hacim var?
+•Akciğer tamamen çökmüş durumda değildir.
+•Alveoller sürfaktan sayesinde tam kapanmaz; küçük hava yolları önce
+kapanıp havayı hapseder (minimal hacim).
+
+4. Yeniden şişirme (re-inflation) eğrisi neden farklı?
+•Tamamen çökmüş akciğeri açmak için
+çok yüksek basınç gerekir (opening pressure).
+•Tam boşaltılmadan yeniden şişirilirse alveoller açık kalır, bu basınç
+gerekmez; bu yüzden kesik çizgi (re-inflation) deflation ve inflation eğrileri
+arasında kalır.
+
+5. Histerezis alanı neyi gösterir?
+•Eğrinin içindeki alan =
+bir şişirme-boşaltma döngüsünde kaybolan enerji (ısıya dönüşür).
+   RDS de (yani surfaktan
+yokluğunda) histeresis loopu
+sağa kayar, daralır, FRC azalır ve
+akciğeri şişirmek için daha fazla
+basınç gerekir.
+   Amfizemde ise komplians ,
+akciğer hacmi , FRC ve RV ,
+histeresis loopunun içinde daha
+fazla alan vardır.
+                                 Prematüre Bebekte RDS ve Laplace Yasası
+
+1. Laplace Yasası ve Alveol Kollapsı
+•Alveolde kollaps basıncı yarıçap ile ters orantılıdır.
+                                              2𝑇
+                                          𝑃=
+                                               𝑟
+•Alveol yarıçapı yarıya indiğinde kollaps basıncı 2 kat artar.
+•Prematüre bebekte alveoller normalin çok daha küçüktür → kollapsa daha yatkın.
+
+ 2. Prematüre Bebekte Surfaktan Eksikliği
+•Surfaktan üretimi gebeliğin 24. haftasından sonra başlar.
+•24 hafta altı doğan bebekte surfaktan yoktur veya çok azdır.
+•Surfaktanın olmadığı alveollerde yüzey gerilimi çok yüksektir.
+•Yüksek yüzey gerilimi → açılma basıncı 30 mmHg’ye kadar çıkabilir.
+
+3. Sonuç: Neonatal RDS (Yenidoğan Solunum Sıkıntısı Sendromu)
+•Alveoller yüzey gerilimi nedeniyle kolayca çöker (atelektazi).
+•Akciğerler sert, kompliyans çok düşük.
+•Bebek yeterince hava alamaz → hipoksi ve solunum sıkıntısı.
+
+4. Tedavi Yaklaşımı
+•CPAP (Continuous Positive Airway Pressure) ile alveoller açık tutulur.
+•Gerektiğinde eksojen surfaktan uygulanır.
+•Amaç: Alveol çökmesini engellemek ve oksijenlemeyi düzeltmek.
+Soluma aktivitesini basitçe ölçen araçlar PNÖMOGRAF olarak adlandırılır.
+Soluma aktivitesinin zamanla değişimini gösteren eğriler pnömogram olarak
+bilinir.
+
+Pnömograf kişinin solunum aktivitesinin sürüp sürmediğini izlemek amacıyla
+sürekli kullanılır.
+
+En basit pnömograf, içeri alınan soğuk hava ile dışarı atılan ılık hava
+arasındaki sıcaklık farkını tayin edecek şekilde bir termistörün burun deliğine
+yerleştirilmesi ile oluşturulabilir.
+Akciğer Hacmi Ölçümü-Spirometre
+            Akciğer hacim ve kapasiteleri
+Ölü boşluk: Yaklaşık 150 mL, iletim
+yollarını dolduran gaz hacmi;
+burada gaz değişimi olmaz
+
+
+
+
+                                      Solunum sayısı 12/dk ve tidal hacim 500 mL iken
+                                      dakika ventilasyonu 6 L/dk’dır. Ancak ölü boşluk
+                                      nedeniyle alveoler ventilasyon 4,2 L/dk’ya düşer.
+     Rezidüel hacim
+• Rezidüel hacim spirometre ile ölçülemez
+• Çünkü akciğerler tamamen boşalmadığından bu hacimde tutulan hava spirometreye
+  gönderilemez
+• Fonksiyonel residüel (artık) kapasite ölçümleri için azot temizleme yöntemi, helyum
+  kapalı devre tekniği ve tüm vücut pletismografisi gibi değişik yöntemlerden
+  yararlanılır.
+• Vücut pletismografisi akciğerdeki toplam gazın hacmini ölçer (kapalı
+hava yollarının arkasında sıkışan gaz dahil); gazın ağızla bağlantılı olması
+gerekmez. Fakat Helyum dilüsyon yöntemi sadece hava yollarıyla
+bağlantılı gazı veya ventile olan akciğer hacmini ölçer.
+ Sağlıklı kişilerde bu ikisi aynıdır ama akciğer hastalığı olan hastalarda
+ventile olan hacim toplam hacimden daha az olabilir çünkü gaz kapalı
+havayollarının arkasında sıkışmıştır.
+
+• Tidal hacim ve vital kapasite spirometre
+• FRC  vücut pletismografisi, azot temizleme yöntemi veya helyum dilüsyon
+  yöntemi. Buradan: RV = FRC − ERV, TLC = FRC + IC
+   • Helyum, kanda çok düşük çözünürlüğü olduğundan kullanılır.
+TÜM VÜCUT PLETİSMOGRAFİSİ
+HELYUM DİLÜSYON YÖNTEMİ
+ Kişi normal ekspirasyon sonunda
+(FRC’de) bilinen [He]
+konsantrasyonunda gaz içeren
+spirometreye bağlanır; zamanla
+spirometre ve akciğerdeki [He]
+eşitlenir.
+ Dengeden önceki helyum C1xV1 ve
+dengede ise C2 x(V1+V2)
+ V2= V1(C1 - C2) /C2 denkleminden
+hesaplanır.
+          AZOT TEMİZLEME YÖNTEMİ
+Normal ekspirasyon sonunda (FRC’de) saf O2 solunur. Verilen hava spirometrede
+toplanır, tüm azot akciğerden çıkıncaya kadar devam edilir, azot hacmi hesaplanır.
+Atmosferin %80’i azot                           FRC= VN2 (100/80)
+

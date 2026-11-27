@@ -1,0 +1,471 @@
+Solunumda basınç-hacim eğrileri, solunumda direnç
+ve kompliyans, solunumla yapılan iş
+   MAHMUT ALP KILIÇ
+   DR. ÖĞR. ÜYESİ
+
+   ADNAN MENDERES ÜNİVERSİTESİ TIP FAKÜLTESİ
+
+   BİYOFİZİK ANABİLİM DALI
+
+
+
+
+   Kaynaklar:
+   - Biyofizik, Prof. Dr. Ferit Pehlivan, 10. Baskı, Pelikan Yayıncılık, 2021
+   - Biyofizik Ders Kitabı, Cerrahpaşa Tıp Fakültesi, Ed. Prof. Dr. Şefik Dursun, İstanbul Üniversitesi Basım ve
+      Yayınevi Müdürlüğü, 2010
+   - Dr. Öğr. Üyesi Özlem Bozkurt Girit, Solunumda basınç-hacim eğrileri, solunumda direnç ve kompliyans,
+      solunumla yapılan iş ders notları
+Solunumda Basınç Hacim Eğrilerinin Önemi
+Akciğer Uyumluluğu (Kompliyans) Analizi
+Fizyolojik Değişikliklerin İzlenmesi
+Hastalıkların Tanı ve Takibi
+Ventilatör Ayarlarının Optimizasyonu
+Solunum ile yapılan iş
+Solunum işinin yapılabilmesi için iki ayrı elastik yapı birlikte
+çalışmalıdır
+
+ Akciğerler, Göğüs kafesi
+ Soluk alıp vermek için her iki yapının da elastik direncini yenmek
+ gerekir
+Soluk alma sırasında kasların uyguladığı kuvvet
+Akciğer ve toraksın esnek olarak şeklini değiştirir
+Akciğer ve toraks dokularının sürtünmelerinin yenilmesini sağlar
+Hareketli kütlelere ivme kazandırır
+Solunum sırasında sürtünmelere karşı yapılan iş ısı şeklinde kaybolur
+Esneklik kuvvetlerine karşı yapılan iş, göğüs ve akciğer dokularında
+potansiyel enerji şeklinde depolanır
+Normal bir soluk verme pasiftir ve soluk alma sırasında depolanmış
+potansiyel enerji ile sürdürülür
+
+    İş: dW=F dx       dW=( F/A) dx A
+        dW= P dV
+    Bu bağıntıdan, solunum sisteminde yapılan toplam işi bulabiliriz.
+       W= ∫ Puy dV= ∫ Pesnek dV +∫ Pdirenç dV
+Normal bir soluk alma sırasında yapılan toplam işin
+%65 kadarı esneklik kuvvetlerini,
+%28 kadarı hava yollarındaki sürtünmeleri,
+%7 kadarı ise dokulardaki sürtünmeleri yenmek içindir.
+ Soluk alma-verme sırasında elde edilen basınç-hacim eğrileri şöyledir:
+(A) Grafiği tamamen esnek bir sistem olması durumunda ideal soluk alıp-
+vermeyi
+(B) Grafiği ise dinlenim durumundaki bir solumayı göstermektedir. I=İnspirasyon
+E=Ekspirasyon
+• Histerezis eğrisi
+   •   Histerezis eğrisi, akciğerlerin solunum döngüsü sırasında gösterdiği basınç-
+       hacim ilişkisini tanımlayan bir grafiktir. Bu eğri, akciğerlerin genişlemesi
+       (inspirasyon) ve daralması (ekspirasyon) sırasında farklı basınç-hacim ilişkileri
+       sergilediğini gösterir.
+SOLUK ALMA V-P GRAFİĞİ (Basınç-hacim eğrileri)
+
+                              Soluk Alma (V–P Grafiği)
+                              Sistem esnek olsaydı, A–C doğrusu elde edilecekti.
+                              Solunum yolu direncini yenmek için P₁ kadar bir
+                              direnç basıncı farkına karşılık bir iş yapılması gerekir.
+
+                              V–P değişimi A–B–C eğrisi gibi olur.
+                                 Soldaki alan, akciğerlerde depolanan esneklik
+                              potansiyel enerjisini gösterir.
+                                 Sağdaki alan, sürtünmelere karşı yapılan işi
+                              temsil eder. Bu iş ısıya dönüşerek kaybolur.
+SOLUK VERME V-P GRAFİĞİ (Basınç-hacim eğrileri)
+Normal bir soluk verme pasiftir ve soluk alma sırasında akciğerlere
+depolanmış esneklik potansiyel enerjisi ile sürdürülür.
+Normal Soluk Alıp Verme Eğrisi
+
+Normal solunumda kapalı bir eğri
+(histerezis eğrisi) oluşur. Bu eğrinin
+sınırladığı   alan,    inspirasyon  ve
+ekspirasyondaki sürtünmeleri yenmek
+için yapılan toplam işi gösterir.
+• Akciğer ve göğüs duvarını hareket ettirmek için İŞ (work)
+ yapılması gerekir.   W= basınç x hacim
+
+                           • İnspirasyon Sırasında
+                           İntraplevral basınç A–B–C eğrisini izler.
+
+                           • 0–A–E–C–D–0 alanı
+                           Akciğerin elastik geri çekilme kuvvetlerinin üstesinden
+                           gelebilmek için yapılan elastik işi temsil eder.
+
+                           • A–B–C–E–A alanı
+                           Havayolu direnci ve dokuların viskoelastik özelliklerinden
+                           kaynaklanan viskoz (rezistif) işi gösterir. Hava yolu direnci
+                           veya inspirasyon akım hızı arttıkça, intraplevral basınç
+                           inspirasyon boyunca daha fazla negatif (eğrinin sağına
+                           doğru) seyreder ve bu alan büyür.
+ Ekspirasyon Sırasında
+•Ekspirasyonda hava yolu ve dokuların viskoz direncini yenmek için iş yapılması gerekir. Bu iş
+AECFA alanıdır.
+
+Normalde (sağlıklı bireyde)
+•Ekspirasyon pasiftir; enerji inspirasyon sırasında elastik dokularda depolanır. Bu pasif geri
+dönüşün oluşturduğu alan 0–A–E–C–D–0 içindedir.
+
+ Histerezis
+•İnspirasyondaki (ABCEA) ve ekspirasyondaki (AECFA) rezistif işlerin toplamı, yani halkanın
+alanı, ısı olarak kaybedilir. Pasif ekspirasyonda AECFA işi, inspirasyonda depolanan elastik
+enerjiden (0AECD0) karşılanır.
+
+
+Solunum Hızı ve İş Miktarı
+Solunum hızı ↑ → akım hızı ↑ → viskoz iş (A–B–C–E–A) artar.
+Tidal volume ↑ → elastik iş (0–A–E–C–D–0) artar.
+
+Klinik Örnek
+•Kompliyansı düşük akciğer (ARDS, fibrozis): hastalar hızlı ve yüzeysel solur; küçük tidal
+hacimle elastik iş azalır.
+•Havayolu tıkanıklığı (KOAH, astım): hava yolu direnci ↑ → viskoz iş artar → hasta yavaş
+solumaya eğilimlidir.
+Normal Bireyler
+•İnspirasyon sırasında intraplevral basınç −5’ten yaklaşık −8 cmH₂O’ya düşer.
+•Akciğer hacmi düzenli olarak artar; eğri daha dik ve simetriktir.
+•Ekspirasyonda aynı yoldan geri dönülmez — solunum sırasındaki histerezisin başlıca nedeni hava yolu direncidir (statik koşullarda yüzey
+gerilimi ve sürfaktan da katkı yapar).
+
+Restriktif Akciğer Hastalığı
+•Akciğer elastikiyeti azalmıştır (kompliyans ↓).
+•Aynı hacim artışı için daha fazla negatif plevral basınç gerekir.
+•Eğri sağa kayar ve daha dar hale gelir.
+•İnspirasyon hacmi az, ekspirasyon erken biter.
+Obstrüktif Akciğer Hastalığı
+•Hava yolu direnci artmıştır.
+•İnspirasyonda hacim yavaş artar; ekspirasyonda hava çıkışı gecikir.
+•Eğri genişler ve histerezis farkı büyür (Z alanı).
+•Dinamik hava hapsi ve artmış rezidüel hacim gözlenir.
+**Havayolu direnci arttıkça, histeresis eğrisi (loop) daha geniş hale gelir
+** Ekspirasyondaki direnci artması durumu ile daha sık karşılaşılır
+ Kompliyans
+
+• Kompliyans, kapalı bir hacmin iç basıncındaki artışa bağlı olarak
+  genişleyebilme ölçüsüdür ve genellikle akciğer ve göğüs kafesi esnekliği
+  için kullanılır.
+
+
+                    • Kompliyans birimi: hacim/basınç (litre/cmH2O)
+                    • İnsanda normal bir akciğer kompliyansı ortalama 0,2 lt/cmH2O
+                      kadardır (200 ml/cm H2O)
+Solunumda Kompliyans
+
+    • Akciğer Kompliyansı                                       • Göğüs kafesinin Kompliyansı
+    •           Akciğer kompliyansı, akciğerlerin esnekliğini   •            Göğüs kafesi kompliyansı, göğüs duvarının
+        veya gerilme kapasitesini ifade eder. Belirli bir           esnekliğini ifade eder. Göğüs kafesi, kaburgalar,
+        basınç değişikliği karşısında akciğerlerin ne kadar         kaslar ve diyafram ile çevrelenmiştir ve bu yapıların
+        genişleyebileceğini gösterir.                               gerilme kabiliyeti göğüs kafesi kompliyansını
+    •   Ölçüm: Genellikle birim basınç başına akciğer               belirler.
+        hacmindeki değişim olarak ifade edilir (örneğin, cm     •   Ölçüm: Yine basınç değişiklikleri karşısında göğüs
+        H₂O başına mililitre cinsinden).                            duvarının ne kadar genişleyebileceğini gösterir ve
+    •   Faktörler: Akciğer dokusunun elastik özellikleri ve         cm H₂O başına mililitre olarak ifade edilir.
+        alveolar yüzey gerilimi gibi faktörler akciğer          •   Faktörler: Göğüs kafesinin kemik yapısı, kas tonusu
+        kompliyansını etkiler. Elastik lifler akciğerlerin          ve diyaframın hareketliliği göğüs kafesi
+        esnemesini sağlarken, yüzey gerilimi yüksek                 kompliyansını etkiler.
+        olduğunda kompliyans azalır.                            •   Hastalık Durumları: Göğüs kafesi kompliyansı,
+    •   Hastalık Durumları: Örneğin, amfizem gibi                   göğüs duvarını etkileyen travmalar, kas zayıflığı
+        hastalıklarda akciğer kompliyansı artarken, fibrozis        veya yaşlanma gibi durumlarda azalabilir.
+        gibi durumlarda kompliyans azalır.
+
+*
+  Akciğerde hacim uyumu (kompliyans)
+
+• Bir “balonun” kompliyansı:
+  •   Yumuşak bir balon → şişmeye karşı az direnç → şişirmek için
+      gereken iş daha az → yüksek kompliyans
+
+  •   Sert bir balon → şişmeye karşı daha çok direnç → şişirmek
+      için daha fazla güç gereksinimi → düşük kompliyans
+         AKCİĞERLER-GÖĞÜS KOMPLiYANSI
+                   • Soluk alıp verme sırasında kompliyans:
+                   C=ΔV/ Δ P dir. Buradan Pesnek = ΔV/C olur.
+                   Normal olarak C=1.8 ile 2.7 cm3/Pa arasındadır.
+
+• Kompliyans ile ilgili işlemler, elektrikteki kondansatörlerle ilgili işlemlere
+benzetilebilir. İki akciğer paralel bağlı olduklarından, akciğerlerin eş değer
+kompliyansı:
+             CA=CA(sol) + C A(sağ)             dir.
+• Göğüs ve akciğer kompliyansları seri bağlı olduklarından, tüm solunum
+sistemi eşdeğer kompliyansı:
+                     1/Csolunum=1/Cakciğer + 1/Cgöğüs duvarı
+Akciğer eğrisi (A grafiği)
+Burada akciğer dokusunun basınca karşı verdiği yanıtı görüyoruz. X ekseni basıncı, Y ekseni ise oluşturulan hacmi gösteriyor.
+Akciğerlerin doğal eğilimi içe doğru çökme yönündedir. Bu nedenle pozitif basınç uyguladıkça, yani alveolleri şişirdikçe, hacim giderek
+artıyor. Ancak bu artış doğrusal değil; başlangıçta hızlı bir hacim artışı olurken yüksek basınçlarda eğri platoya yaklaşıyor. Bu bize
+akciğerlerin esnek ama sonsuz genişlemeyen bir yapıda olduğunu gösterir.
+
+Göğüs duvarı eğrisi (B grafiği)
+Göğüs duvarının doğası ise tam tersidir. Göğüs duvarı, özellikle düşük hacimlerde, genişleme eğilimindedir.
+Bu nedenle -20, -30 cmH₂O gibi negatif basınçlarda bile dışa doğru genişlemeye çalışır. Hacim arttıkça bu genişleme eğilimi azalır ve
+yüksek hacimlerde göğüs duvarı artık dışarı değil, içeri doğru geri esnemeye başlar.
+
+•Akciğer içe çökme eğiliminde
+•Göğüs duvarı dışa açılma eğiliminde
+Bu iki karşıt kuvvet solunum mekaniklerinin temelini oluşturur.
+
+Respiratuar sistem eğrisi (C grafiği)
+Bu grafikte hem akciğer hem göğüs duvarı birlikte çizildi. Bu iki yapının elastik özelliklerinin toplamı respiratuar sistem eğrisini
+oluşturur. Bu eğri üzerinde işaretlenmiş üç kritik volüm görüyoruz:
+
+FRC (Fonksiyonel Rezidüel Kapasite): Normal bir nefes verip bıraktığımızda, akciğerlerde kalan hacme FRC diyoruz. FRC’de sistem
+dengededir:
+       •Akciğerin içe çökme kuvveti
+       •Göğüs duvarının dışa açılma kuvveti tamamen birbirini dengeler. Bu yüzden normal koşullarda FRC’de solunum kasları aktif
+       olarak çalışmaz; solunum sistemi tamamen pasif dengededir.
+
+RV (Rezidüel Volüm): En güçlü zorlu ekspirasyon yapıldığında bile akciğerlerde bir miktar hava kalır; bu en düşük hacim RV’dir. RV’de,
+özellikle akciğer tabanında, küçük hava yolları kapanır ve gerideki hava hapsolur; bu nedenle akciğer hiçbir zaman tamamen boşalmaz.
+Gençlerde RV’yi göğüs duvarının sınırı, yaşlılarda hava yollarının kapanması belirler.
+
+TLC (Total Lung Capacity): TLC ise akciğerlerin alabileceği maksimum hava hacmidir. Zorlu inspirasyon sonunda ulaşılan en yüksek
+volümdür. Bu noktada akciğer dokusunun içe çökme kuvveti çok yüksektir; göğüs duvarı da içeri geri esnemeye başlamıştır. TLC bize
+akciğer ve göğüs duvarının maksimum elastik sınırını gösterir.
+
+Sonuç olarak: Bu üç eğri ve volüm—TLC, FRC ve RV—akciğerlerin statik mekanik davranışını anlamamızı sağlar.
+Akciğerin içe çökmeye çalışan elastik yapısı ile göğüs duvarının genişleme eğilimi arasındaki denge, tüm solunum fizyolojisinin temelidir.
+Akciğerde hacim uyumu
+     (kompliyans)
+       Kompliyans
+
+• Kompliyans azalması: akciğer fibröz doku artışı, alveollar
+ ödem (alveol şişmesini önler), atelektazide (bazı birimlerin
+ kollapsı), pulmoner venöz basıncın artması
+• Kompliyans artması: pulmoner amfizem ve normal yaşlanan
+ akciğerde. Bu ikisinde de akciğer elastik dokusunun
+ değişmesi nedendir.
+  Solumda Kompliyansı etkileyen faktörler:
+
+1.Elastik Yapılar: Akciğer dokusu ve göğüs kafesi elastik özelliklere sahiptir. Bu
+ yapıların esnekliği, akciğerlerin ne kadar kolay şişip sönebileceğini belirler.
+2.Hava Yolu Direnci: Statik kompliyansı etkilemez. Yalnızca solunum sırasında
+ ölçülen dinamik kompliyansı düşürür; daralmış hava yollarının arkasındaki birimler
+ soluk süresi içinde tam dolamaz.
+3.Yüzey Gerilimi: Alveoller (hava kesecikleri) içindeki sıvı, yüzey gerilimi oluşturur.
+ Bu gerilim, alveollerin kapanmaya eğilimli olmasına neden olur, ancak surfaktan
+ adı verilen bir madde bu yüzey gerilimini azaltarak şişmeyi kolaylaştırır.
+Solunum Sistemi Direnci
+
+ •Gaz moleküllerinin birbirine sürtünmesi ile
+
+ •Gaz moleküllerinin hava yolu duvarı ile
+ sürtünmesi (havayolu direnci, Raw)
+
+ •Dokuların genişler yada daralırken iç sürtünmeler
+ sonucu meydana gelir.
+    SOLUNUM DİRENÇ FAKTÖRÜ
+• Solunumda toplam direncin:
+      %10 si doku direnci
+      %90 hava yolları direncine karşılık gelir.
+• Solunum yollarındaki silindirik bir akış yolu için, girdapsız ve
+düzgün akış koşullarında Poiseuille yasası geçerlidir.
+      ΔPdirenç=R.D= (8 ηL / πr4) D
+      R= (8 ηL) / (πr4) akış direncini belirler.
+η=viskozluk katsayısı,
+r =yarıçap,
+L=uzunluk
+   Total direnç
+Hava yolu direnci (%90)
+     Burun, ağız, yukarı hava yolları (≈ %40)
+     Trakea, bronşlar (%30) orta çaplı lob (en sık),
+segment ve subsegment bronşlarından. Direncin en önemli
+kaynaklarıdır.
+     Periferik havayolları (%20)
+Doku direnci (%10)
+     Pulmoner fibrozis
+              Hava yolu direnci (Raw)
+    Hava yolu direnci (Rᴀᴡ), akım oluşturmak için gereken basınç farkı ile ilişkilidir.
+    Atmosfer basıncı ile alveol basıncı arasındaki fark, havayı içeri–dışarı hareket
+    ettirir. Bu fark, iletici hava yollarındaki gaz moleküllerinin sürtünme etkisi
+    nedeniyle ortaya çıkar.
+
+                                (Sürücü basınç)          Raw’ı etkileyen faktörler
+                                (akım)                      • Gaz akım hızı
+                                                            • Hava yollarının çapı
+     ∆P = Raw x Akım
+                                                            • Bronş düz kaslarının tonusu
+                                                            • Akciğer volümü
+Damarlardaki Poiseuille akımı havayolları içinde geçerlidir.
+Hava yolu direnci (Raw)
+                          Hava akımı direnci, hava yollarının çapı ve toplam
+                          kesit alanına bağlıdır. Küçük hava yollarının çapı
+                          daraldıkça, tek başına direnç artar. Ancak
+                          akciğerlerde birçok küçük hava yolu paralel
+                          olduğundan, toplam direnç bu yolların toplam kesit
+                          alanına göre belirlenir.Geniş ve orta büyüklükteki
+                          hava yollarında (örneğin, trakea ve ana bronşlar)
+                          türbülanslı akım hakimdir ve direnç yüksektir. Küçük
+                          hava yollarında ise laminer akım baskındır ve direnç
+                          daha düşüktür. Ancak birçok akciğer hastalığında,
+                          küçük hava yollarındaki direnç artar ve bu
+                          bölgelerde akım kısıtlanır. Küçük hava yollarında
+                          direnç daha çok havanın viskozitesine bağlıdır.
+  Hava Yolu Direncinde Faktörler
+
+Havayolları içindeki akıma direnç olup olmaması
+•    -Akımın özelliğine
+•    - Havayollarının boyutlarına
+•    - Gazların viskozitesine bağlıdır.
+             Türbülan akım
+- Gürültülüdür: Türbülanslı akım sırasında düzensiz ve hızlı hareketler
+olduğu için gürültü oluşur.
+- Sürücü basınçla orantılı değildir: Akım hızı ile basınç arasındaki ilişki
+lineer değildir.
+-Direnç, viskoziteden çok dansiteye bağlıdır: Türbülanslı akımda direnç,
+gazın yoğunluğu (dansite) ile ilişkilidir.
+-Geniş hava yollarında (trakea ve ana bronşlarda): Türbülanslı akım,
+genellikle geniş hava yollarında (örneğin, trakea ve ana bronşlarda)
+meydana gelir.
+-Hava yolu direncini artırır: Türbülanslı akım hava yolu direncini
+yükseltir ve bu da solunum zorluğuna yol açabilir.
+                 Laminer akım
+Sessiz ve yavaş: Laminer akım, gürültüsüz ve düşük hızda gerçekleşir,
+akış düzgün ve katmanlıdır.
+Akış çizgisi ve parabolik profil: Laminer akımda, akış çizgileri düzgün bir
+şekilde ilerler ve parabolik bir akım profili oluşur; yani merkezdeki akış
+hızı daha yüksekken, kenarlara doğru hız azalır.
+Hız merkezde en yüksektir: Laminer akımda hava borunun ekseni
+boyunca katmanlar halinde akar; duvara yakın katmanlarda sürtünme
+nedeniyle hız düşüktür.
+Küçük hava yollarında görülür (< 2 mm çap): Laminer akım, genellikle
+çapı 2 mm'den küçük olan küçük hava yollarında görülür.
+Poiseuille Kanununa göre basınç farkı (ΔP): Laminer akımda basınç
+farkı, hava yolu uzunluğu (L), çapı (r) ve gazın viskozitesi (η) gibi
+faktörlere bağlıdır. Poiseuille Kanunu'na göre, çap küçüldükçe veya
+viskozite arttıkça, akış için gereken basınç farkı artar.
+                                                                              Laminer akımda direnç düşüktür.
+               Bozulmuş laminer akım
+•   Trakeobronşial ağacın çoğunda gözlenir: Bozulmuş laminer akım,
+    genellikle trakea ve bronşları içeren hava yollarının büyük kısmında
+    gözlemlenir.
+•   Laminer ve türbülanslı akım arasında bir geçiştir ve enerji gerektirir:Bu
+    akım tipi, laminer ve türbülanslı akım arasında bir geçiş olduğu için
+    oluşumu ekstra enerji gerektirir.
+•   Egzersiz ve öksürük sırasında türbülanslı hale gelir: Bozulmuş laminer
+    akım, egzersiz veya öksürük gibi durumlarda hızlanır ve türbülanslı akıma
+    dönüşür.
+•   Trakeobronşial bifurkasyonlarda akım bozulur: Dallanma bölgelerinde
+    girdaplar oluşur. Reynolds sayısı trakeada 2000’in üzerine çıkabilirken
+    terminal bronşiollerde 1’in altına iner.
+
+Özetle, bozulmuş laminer akım, akım hızının arttığı ve akışın laminerden
+türbülansa geçiş yaptığı durumları tanımlar. Bu tür akım, özellikle trakea ve
+bronş ağacında sık görülür ve laminerden farklı olarak enerji gerektirir.
+Laminer ve türbülan akım arasındaki Akım & Basınç ilişkisi
+Küçük hava yollarında hava akımı normalde laminer karakterdedir (trakea ve büyük bronşlarda
+türbülans olabilir). Bu durumda hava, bronş ve bronşiollerden düzenli ve düşük dirençle ilerler. Yani
+az basınçla çok hava hareket ettirilebilir.
+
+Ancak;
+
+ 1. Hız arttığında türbülans oluşur
+•Derin ve hızlı nefes alma
+•Efor egzersizi
+•Üst hava yolu darlıkları (laringospazm, trakeal daralma, tümör)
+gibi durumlarda hava akım hızı artar → Reynolds sayısı yükselir → akım türbülanslı olur.
+➜ Türbülans = Daha fazla direnç
+Türbülanslı akımda hava düzensiz akar, bu yüzden aynı tidal volümü oluşturmak için daha fazla sürücü
+basınca (daha güçlü diyafram–kas aktivitesi) ihtiyaç olur.
+
+
+2. Türbülans alveollere ulaşmaz, büyük havayollarındadır
+•Trakea ve büyük bronşlarda hava hızı yüksek → türbülans sık görülür.
+•Küçük bronş ve bronşiollerde çap dar ama hız düşük → hep laminer.
+Bu nedenle küçük hava yolu hastalıklarında (astım, KOAH) laminer akım bozulduğunda direnç dramatik
+artar.
+
+
+3. Klinik önemi
+•Astımda daralan bronşlar → aynı hava akımını sağlamak için çok daha fazla basınç gerekir.
+•Üst havayolu obstrüksiyonlarında solunum sesleri gürültülü olur (stridor) çünkü türbülans artmıştır.
+•Laminer akım → sessiz; türbülans → gürültülü.
+
+Solunumda laminer akım düşük dirençlidir ve az basınçla hava ilerler; akım hızı arttığında veya hava
+yolu daraldığında türbülans gelişir ve alveollere ulaşan hava için çok daha yüksek basınç gerekir.
+•   Sakin solunumda trakeada Re sayısı 2000’den büyük olabilir.
+•   Bu nedenle sakin solunumda bile trakeada türbülan akım
+    oluşur.
+  Raw-Akciğer volümü
+
+Akciğer hacmi arttıkça hava yolu direnci azalır.
+1. Akciğerler genişlediğinde hava yolları da genişler, İnspirasyon sırasında alveoller şiştikçe hava
+yollarının çapı açılır (radial traction). Çap artınca R azalır (Poiseuille: R ∝ 1/r⁴).
+2. Hava yolu direnci çaptaki değişikliğe çok duyarlıdır, Aynı uzunluktaki bir tüpte çap 2 kat
+artarsa direnç 16 kat düşer.
+3. Bu nedenle inspirasyonda direnç en düşüktür, Ekspirasyonda akciğer volümü azalır → çap
+daralır → direnç artar.
+1. Akciğer hacmi ↑ → Hava yolu direnci (Raw) ↓
+Akciğer genişledikçe hava yolları da genişler → direnç düşer.
+Bu ilişki doğrusal değil, eğriseldir (hacim arttıkça direnç hızla düşer, sonra plato
+yapar).
+
+ 2. Akciğer hacmi ↑ → Hava yolu iletkenliği ↑
+İletkenlik = direncin tam tersi.
+Grafikteki kesikli çizgi yukarı doğru gider çünkü:
+•Çap açılır
+•Küçük hava yolları daha açık hale gelir
+Bu nedenle hacim arttıkça hava daha kolay akar.
+
+3. Çok düşük akciğer hacminde küçük hava yolları kapanabilir
+Özellikle akciğer tabanında küçük bronşioller tamamen kapanabilir → direnç
+dramatik artar.
+
+Hava yolu direnci yüksek olan hastalar yüksek akciğer hacminde nefes almayı
+tercih eder
+•Ekspirasyon sırasında küçük hava yolları kapanır
+•Bu hastalar FRC’lerini yükseltir, yani biraz “şişik akciğerle” yaşarlar
+•Çünkü yüksek hacimde direnç daha düşüktür → nefes almak daha rahat olur.
+Bu, KOAH hastalarında gördüğümüz “air trapping” / hiperinflasyon mantığıdır.
+Raw & İletim   1) Akciğer Hacmi → Transpulmoner Basınç → Hava Yolu Direnci
+               Düşük hacimde: transpulmoner basınç AZ, hava yolu direnci YÜKSEK
+
+               Akciğer hacmi küçükken, hava yollarını açık tutan transpulmoner basınç düşüktür. Hava
+               yolları dışarıdan yeterli “gerilme” (radial traction) görmediği için daha dar olur. Bu nedenle
+               grafik, düşük hacimlerde Raw’ın hızla yükseldiğini gösteriyor. Grafikteki sol üstteki dik
+               eğim → düşük hacimde çok yüksek direnç Bu, küçük hava yollarının daraldığını/kapanmaya
+               eğilimli olduğunu gösterir.
+
+               2) Akımı belirleyen basınç: Alveol – ağız basınç farkı
+               •Hava akımını doğrudan sağlayan sürücü basınç, alveol ile ağız (atmosfer) arasındaki
+               basınç farkıdır (Palv − Patm).
+               Transpulmoner basınç (alveol içi – plevra basıncı) ise akciğer hacmini ve hava yollarının
+               çapını belirler; hacim arttıkça hava yolları genişler.
+               Grafikte hacim arttıkça Raw’ın düşmesi bunun sonucudur.
+
+               3) Bronşiyal düz kas kasılması → hava yolu daralması → direnç artışı Bronşiyal düz kas
+               kasılırsa:
+               •Lumen daralır
+               •Raw keskin bir şekilde artar
+               Bu durum grafiğin formundan bağımsız olarak direncin yukarı kaymasına neden olur.
+                  Tetikleyenler:
+               •Sigara → refleks bronkokonstriksiyon
+               •Parasempatik uyarı (PS) → bronkokonstriksiyon
+               •Sempatik/β₂ uyarı → bronkodilatasyon → direnç azalır
+               Bunlar, grafikteki eğriyi “sağa-sola veya yukarı-aşağı kaydıran” faktörlerdir.
+                  Zaman Sabiti (TC)
+
+Zaman sabiti (TC), bir akciğer biriminde basınç değiştiğinde hacim değişiminin %63’üne ulaşması
+için geçen süredir. İnspirasyon (dolma) ve ekspirasyon (boşalma) için ayrı ayrı tanımlanabilir.
+Saniye cinsinden ifade edilir ve akciğer kompliyansı (CL) ile hava yolu direncinin (Raw)
+çarpımıdır:
+
+
+
+Burada:
+- TC: Zaman sabiti (1 TC),
+- CL: Akciğer kompliyansı,
+- Raw: Hava yolu direnci.
+
+3 TC’de hacim değişiminin ≈ %95’i, 5 TC’de ≈ %99’u tamamlanır. TC’si uzun (direnci yüksek)
+birimler soluk süresi içinde tam dolamaz.
+Akciğerde eşit olmayan
+ventilasyon
+Normal: İnspirasyonda hacim
+değişimi büyük ve hızlı olarak
+ekspirasyondan önce tamamlanır.
+Büyük hava yolu direnci nedeniyle
+inspirasyon yavaşlıyor ve akciğer
+soluk vermeye başlamadan önce
+tamamlanmamıştır. Kararlı duruma
+ulaşma süresi uzamıştır.
+Düşük kompliyans, hacimdeki değişim
+hızlı fakat küçüktür. Kompliyansın
+küçülmesi kararlı durum değerini (soluk
+hacmini) düşürür, zaman sabitini kısaltır.
+

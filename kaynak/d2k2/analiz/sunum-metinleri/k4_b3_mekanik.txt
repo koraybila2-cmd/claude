@@ -1,0 +1,350 @@
+                      Dış solunum mekaniği
+                      Solunum sisteminin yapısı, solunumda gaz
+                      yasaları ve solunum mekaniği
+
+
+
+MAHMUT ALP KILIÇ
+DR. ÖĞR. ÜYESİ
+
+ADNAN MENDERES ÜNİVERSİTESİ TIP FAKÜLTESİ
+
+BİYOFİZİK ANABİLİM DALI
+
+Kaynaklar:
+-    Biyofizik, Prof. Dr. Ferit Pehlivan, 10. Baskı, Pelikan Yayıncılık, 2021
+-    Biyofizik Ders Kitabı, Cerrahpaşa Tıp Fakültesi, Ed. Prof. Dr. Şefik Dursun, İstanbul Üniversitesi Basım ve Yayınevi Müdürlüğü, 2010
+-    Dr. Öğr. Üyesi Özlem Bozkurt Girit Dış solunum sistemi mekaniği Ventilasyon, Perfüzyon, Difüzyon-Solunumda gaz yasaları, ventilasyon perfüzyon oranı
+     ders notları
+Akciğer ve solunum sistemi
+Akciğerler ve solunum sisteminin görevleri neler?
+ ◦ Oksijen ve karbondioksit değişimi
+ ◦ Kan pH’sının sabit tutulması
+ ◦ Isı aktarımı
+ ◦ Konuşma, aksırma, öksürme, hıçkırma, gülme, koklama ve esneme gibi
+   faaliyetler için kontrollü hava akışının sağlanması
+ ◦ Mikroplara karşı koruma
+ Akciğerlere neden ihtiyacımız var?
+Bazı mikroorganizmalar dışında tüm canlılar metabolik süreçlerde kullanmak üzere
+moleküler oksijene ihtiyaç duyarlar
+Canlılar oksijeni farklı şekillerde alabilir
+ ◦ Tek hücrelilerde hücre zarından difüzyonla
+ ◦ Boyutları küçük canlılarda deriden difüzyonla
+ ◦ Daha büyük canlılarda akciğer ve eşdeğeri organlarla
+   ◦ Çünkü canlıda birim hacim başına düşen yüzey alanı canlı irileştikçe azalır
+   ◦ İnsanda derinin yüzey alanı ~1,75 m2, Alveollerin yüzey alanı ~50-100 m2
+   ◦ Alveoller polihedral yapıda, eğer küresel olsalardı toplam yüzey alanı 85 m2 olurdu
+İnsanın oksijen gereksinimi
+Dinlenme halinde oksijen gereksinimi 0.21 litre/kg.saat tır.
+ ◦ Bu gereksinimin %2 gibi önemsiz bir miktarı deri yoluyla sağlanır, geri kalanı özel
+   solunum sistemi ile sağlanır
+
+
+Solunum kavramı genel olarak
+ ◦ akciğerlerde havanın yenilenmesi
+ ◦ akciğer havası ile kan arasında gaz alış verişi
+ ◦ gazların kan aracılığıyla taşınımı
+ ◦ iç ortamla hücreler arasında gaz alış verişi
+ ◦ oksijenin hücrede kullanılması
+süreçlerini içerir
+Solunum sistemi yapısı
+Havanın alveollere taşınımı
+           Süzme, ısıtma ve nemlendirme
+           Burun, (ağız), trake, bronşlar ve bronşioller
+           Enine kesit alanında büyük artış!
+Alveoller
+   Ventilasyon nedir?
+Atmosfer havasının akciğerlere giriş çıkış sürecidir.
+Birim zamanda akciğerlere veya alveollere giren-çıkan
+hava miktarı
+   Akciğer içi basınç atmosfer basıncından küçük olduğundan
+  atmosfer gazları akciğerlere girer. Bu sürece soluk alma
+  (inspirasyon) denir.
+   Tersi durumda akciğerdeki havanın bir kısmı dışarı atılır. Bu
+  süreçte soluk verme (ekspirasyon) olarak adlandırılır.
+(1) Ventilasyon: Atmosfer ile alveoller arasındaki havanın
+kitle akımı (bulk flow) yoluyla değişimi.
+(2) Gaz değişimi: Alveol havası ile akciğer
+kapillerlerindeki kan arasında O₂ ve CO₂’nin difüzyon
+yoluyla değişimi.
+(3) Gaz taşınımı: O₂ ve CO₂’nin, pulmoner ve sistemik
+dolaşım boyunca kitle akımı (bulk flow) ile taşınması.
+(4) Doku gaz değişimi: Doku kapillerlerindeki kan ile
+dokulardaki hücreler arasında O₂ ve CO₂’nin difüzyon
+yoluyla değişimi.
+(5) Hücresel solunum: Hücre içinde O₂’nin kullanılması
+ve CO₂’nin üretilmesi.
+Gazların Özellikleri
+Gazlar sıkışabilirler.
+Basınç farkı yönünde akarlar.
+Direnç artarsa akış azalır.
+“Hava”, bağımsız olarak difüze olan gazların bir karışımıdır.
+  ◦ Kuru havada O2 = %20.93
+
+Her bir gazın karışım içinde miktarına bağlı bir
+“kısmî basıncı” (Pgaz) vardır
+  - Trakeadaki (nemlendirilmiş) havada PO2 : 20.93/100 × (760 − 47) = 149 mmHg
+Gaz Yasaları
+İdeal gaz yasası
+Boyle Kanunu
+Henry Kanunu ve Dalton Kanunu
+Gay-Lussac Kanunu
+İdeal gaz yasası
+ Belirli bir miktar gazın (n mol) basıncı, hacmi ve sıcaklığı arasındaki ilişki
+ genel gaz denklemi
+
+
+                   PV = n RT
+
+
+ R, genel gaz sabiti, R= k N0 = 8,314 J·K−1 mol−1
+ N0 = Avogadro sayısı = 6,02 × 1023 mol⁻¹
+Oksijen Tüpü Kullanımında İdeal Gaz
+Yasasının Klinik Uygulaması
+İdeal gaz yasasının klinik ortamda pratik bir uygulaması, bir tüpte mevcut oksijen hacmini
+hesaplamaktır. Bu, özellikle ventilatöre bağlı hastaların taşınmasında hasta bakımı açısından
+önemlidir.
+                 PV = n RT      P 1 x V 1 = P2 x V 2
+
+
+Bir oksijen tüpü 2000 psi dolum basıncına ve 10 L hacme sahipse (1 atm ≈ 14,7 psi):
+Basınç 1000 psi’ye düştüğünde tüpte kalan gaz, aynı sıcaklıkta atmosfer basıncına açıldığında
+yaklaşık 680 L oksijen sağlar (1000 × 10 / 14,7 ≈ 680 L; dolu tüp ≈ 1360 L verir). Bu tip
+hesaplamalar, taşınabilir ventilatörler veya acil durum oksijen tüpleriyle ne kadar süre hastaya
+oksijen verilebileceğini öngörmek için kullanılır.
+
+
+
+
+11/5/2026                                                                                   M.P. 13
+ Temel Gaz Kanunları – Boyle Kanunu
+  kapların hacmi artarsa gaz basıncı azalır, (hacim azalırsa basınç artar)
+                                      P1 x V 1 = P 2 x V 2
+
+
+
+
+** İnspirasyon ve
+ekspirasyon sırasında
+kapların (akciğer) hacmi
+değişir, alveoler basınçta
+değişime neden olur.
+Boyle Yasasının Solunumda Uygulanması
+İnspirasyon sırasında:
+ • Diyafram kasılır → torasik boşluk genişler (V ↑)
+ • Alveol basıncı azalır (P ↓)
+ • Böylece dış ortamdan hava akciğere girer
+ Ekspirasyonda ise tersidir: hacim azalır → basınç artar → hava dışarı
+   atılır.
+Bu, solunum mekaniğinde Boyle kanununun birebir
+uygulanmasıdır.
+Dalton Yasası
+Bir gaz karışımının toplam basıncı, karışımı oluşturan her bir gazın kısmi basınçlarının toplamına
+ eşittir.
+Formül:
+                               𝑃𝑡𝑜𝑝𝑙𝑎𝑚 = 𝑃𝑂2 + 𝑃𝐶𝑂2 + 𝑃𝑁2 + 𝑃𝐻2𝑂
+Her gaz, karışımdaki mol kesriyle orantılı bir kısmi basınç uygular:
+                                        𝑃𝑖 = 𝐹𝑖 × 𝑃𝑡𝑜𝑝𝑙𝑎𝑚
+Burada 𝐹𝑖 =gazın fraksiyonel (yüzdesel) oranı
+Alveoler Gaz Bileşimi
+Akciğer alveollerinde gaz bileşimi atmosferden farklıdır çünkü:
+   Hava nemlenir (su buharı eklenir)
+   O₂ alveolden kana geçer, CO₂ kandan alveole verilir
+Bu nedenle alveoldeki O₂ parsiyel basıncı:
+                                                                                       𝑃𝑎𝐶 𝑂2
+                                                          𝑃𝑂2 = 𝑃𝑎𝑡𝑚 − 𝑃𝐻2 𝑂 × 𝐹𝑂2 −
+                                                                                         𝑅
+Bu alveoler gaz denklemidir.
+Deniz seviyesinde tipik değerler:
+  • 𝑃𝑂2 100 ≈mmHg
+  • 𝑃𝐶 𝑂2 40 ≈mmHg
+
+
+Klinik Örnek – Hipobarik Ortam (Yükseklik Hipoksisi)
+Dağa çıkıldığında toplam atmosferik basınç azalır:
+                                                                  𝑃𝑡𝑜𝑝𝑙𝑎𝑚 ↓⇒ 𝑃𝑂2 ↓
+
+O₂ yüzdesi aynı kalsa da kısmi basınç düşer, bu da alveoler ve arteriyel hipoksemiye yol açar.
+Örnek:
+ Everest (≈ 253 mmHg’de; su buharı 47 mmHg düşülür)
+                                            𝑃𝑂2 = 0.21 × (253 − 47) = 43 mmHg
+Oksijen difüzyonu azalır → hipoksi.
+  Temel Gaz Kanunları – Henry Yasası
+Bir gazın çözünürlüğü, o gazın sıvı üzerindeki parsiyel basıncıyla doğru orantılıdır. Ancak orantı katsayısı (k),
+her gaz için farklıdır ve sıcaklık ile sıvının özelliklerine bağlıdır.
+
+                                               Cg = gazın çözünürlüğü
+                 Cg = k P g                    k = çözünürlük sabiti (mL gaz / L kan / mmHg)
+                                               Pg= gazın parsiyel basıncı
+
+                       Kan gazlarının kandaki çözünürlükleri (37 °C)
+                                      k (mL gaz / L kan /
+            Gaz                                                 O₂’ye göre oranı
+                                      mmHg)
+            O₂                        0.031                     1
+            CO₂                       0.67                      ≈ 22 kat
+            N₂                        0.015                     ≈ 0.5 kat
+Henry Yasası Örnekleri
+
+    Klinik Uygulama – Dalgıç Hastalığı (Decompression Sickness)
+    Derin dalışta, yüksek basınç nedeniyle N₂ gazı kanda daha fazla çözünür.
+     Yüzeye hızlı çıkıldığında basınç hızla azalır → çözünmüş N₂ kabarcıklar halinde
+     çıkar →
+     damar tıkanması ve ağrı (dekompresyon hastalığı) gelişir.
+    Çözüm: yavaş yükselme veya hiperbarik oksijen tedavisi.
+    Tıbbi Uygulama – Hiperbarik Tedavi
+    •Hiperbarik oksijen tedavisi:
+     Basınç ↑ → Henry yasasına göre daha fazla O₂ kanda çözünür →
+     karbonmonoksit zehirlenmesi, gaz gangreni, iyileşmeyen yaralar gibi
+     durumlarda kullanılır.
+   Temel Gaz Kanunları – Gay-Lussac ve Charles
+   Yasaları
+Charles (P sabit) ve Gay-Lussac (V sabit) yasaları: Sabit bir basınç (hacim) altında tutulan belirli bir gazın
+hacmi (basıncı) sıcaklıkla doğru orantılı olarak artar.
+ Hacimce genleşme sayısı (Basınç artma katsayısı) = b= 1/273.15 K-1.
+ Bir gazın t=0C (ya da T=273.15 K) deki hacmi V0, basıncı P0 
+P= sabit için V= V0 (1+bt) =V0bT
+V= sabit için P= P0 (1+bt) =P0bT
+Solunan Havada Isı Etkisi
+Akciğer alveollerine giren hava vücut sıcaklığına (37 °C) kadar ısınır.
+ Alveol atmosfere açık olduğundan basınç sabit kalır; Charles yasasına göre ısınan gazın hacmi
+ artar.
+•Bu nedenle spirometrede oda sıcaklığında ölçülen hacimler vücut sıcaklığına (37 °C) çevrilir;
+ akciğerdeki gerçek hacim ≈ %10 daha büyüktür.
+Solunum Olayları
+Pulmoner ventilasyon – Havayı akciğerlere alma ve akciğerlerden çıkarma.
+Dış solunum – Pulmoner kan ile alveoller arasındaki gaz değişimi
+Solunum gazlarının taşınması – Oksijen ve karbondioksitin kan dolaşımı yoluyla taşınması.
+İç solunum – Sistemik kapillerlerde kan ile doku hücreleri arasındaki gaz değişim
+
+
+
+
+                                                                                            M.P. 22
+İnspirasyon (Nefes Alma)
+Diyafram ve interkostal kaslar kasılır.
+Torasik boşluğun boyutu artar.
+İntrapulmoner hacmin artması nedeniyle dış hava akciğerlere çekilir.
+
+
+
+
+11/5/2026                                                              M.P. 23
+Ekspirasyon (Nefes Verme)
+Büyük ölçüde doğal akciğer elastikiyetine bağlı olan pasif bir süreçtir.
+Kaslar gevşedikçe hava akciğerlerden dışarı çıkar.
+Zorlanmış ekspirasyon, kaburga kafesini aşağı çekmek için iç interkostal kasların kasılmasıyla
+gerçekleşebilir.
+
+
+
+
+11/5/2026                                                                                    M.P. 24
+    AKCİĞER MEKANİĞİ
+F (hava akışı) = ∆P/R
+F= (Patm – Palv) / R
+
+
+** İnspirasyon ve ekspirasyon
+sırasında akciğerleri hacmi değişir,
+alveoler basınçta değişime neden
+olur
+    * Eğer kapların hacmi  ise gaz basıncı  veya
+    tersi. (Boyle yasası)
+
+.
+Plevra
+          Plevra
+         •Akciğerlerin dış yüzeyi ile göğüs boşluğunun iç yüzeyi arasındaki ince boşluğa
+         plevral boşluk denir.
+         •Bu boşlukta çok az miktarda plevra sıvısı bulunur. Bu sıvı, zarlar arasında
+         sürtünmeyi azaltır ve akciğerlerin göğüs duvarı boyunca kayarak hareket
+         etmesini sağlar.
+
+         Plevra Basıncı
+         •Plevra boşluğundaki basınç atmosfer basıncından daha düşüktür (negatiftir).
+         •Bu negatif basınç, akciğerlerin göğüs kafesine yapışık gibi durmasını ve onunla
+         birlikte hareket etmesini sağlar.
+
+          Negatif Basınç Neden Oluşur?
+         •Akciğer dokusu elastik özelliği nedeniyle içe doğru çekilmek ister.
+         •Göğüs kafesi ise elastik geri tepme gücüyle dışa doğru genişlemek ister.
+         •Bu iki zıt kuvvet aradaki kapalı boşluğu genişletmeye zorlar; içindeki sıvı çok az
+         ve sıkıştırılamaz olduğundan basınç atmosferin altına düşer → negatif basınç
+         oluşur.
+
+         Fizyolojik Değerler
+         •Normal istirahat sırasında plevra içi basınç ≈ –4 mmHg
+         •İnspirasyon sırasında daha da negatifleşir (yaklaşık –6 mmHg).
+
+          Klinik Önemi
+         •Eğer plevra boşluğuna hava girerse (pnömotoraks), negatif basınç kaybolur.
+         •Bu durumda akciğer büzülür (kollabe olur) ve solunum yapılamaz.
+Plevral bölge negatif basıncı, akciğerlerin
+tamamen büzülmesini engelleyici ve
+koruyucu bir faktördür.
+Herhangi bir nedenle bu boşluğa hava
+dolacak olursa akciğerler büzülür.
+Ayrıca, bu negatif basınç akciğerlerin,
+göğüs kafesine yapışıkmış gibi
+durmasına ve onunla birlikte hareket
+etmesine neden olur.
+    Transpulmoner basınç
+     Patm
+
+
+
+
+                            Transpulmoner basınç oluşuyor
+
+
+Plevra boşluğu              Transpulmoner basınç = Palv-Pip
+                 diyafram
+içindeki vakum              Pip: intraplevral sıvı basıncı
+Transpulmoner basınç, akciğerin
+genişlemesi için itici bir güç yaratır.
+Diyafram kasıldığında, plevral boşluktaki
+basınç daha negatif hale gelir ve
+akciğerin genişlemesine yardımcı olur.
+Bu fark sayesinde akciğerlere hava girer.
+Kısaca özetlemek gerekirse,
+transpulmoner basınç, akciğerin
+genişlemesini sağlayan basınç farkıdır
+ve bu basınç farkı ne kadar büyükse,
+akciğer o kadar çok genişler.
+** dinlenimde kuvvetler
+dengede (göğüs kafesi ve
+akciğerler üzerindeki
+kuvvetler)
+** Yine de plevral bölgede
+negatif basınç vardır
+(subatmosferik)
+                                                    ** inspirasyon sırasında
+                                                    göğüs kafesi,
+                                                    intercostales externi
+                                                    kaslarının etkisiyle dışa
+                                                    doğru kuvvetlerin,
+                                                    akciğerler ise esneklikleri
+                                                    nedeniyle içe doğru
+                                                    kuvvetlerin etkisindedir.
+
+
+
+
+** Bu zıt kuvvetler plevral bölgede daha büyük negatif basınç oluştururlar.
+                                        Zorlu ekspirasyon sırasında ise intercostales interni
+                                       kaslarının kasılmasıyla göğüs kafesi içe doğru çekilir.
+                                        Akciğerlerin esnekliği ve içe doğru kuvvetlerin varlığı
+                                       nedeniyle, net kuvvet içe doğrudur.
+
+
+
+
+  Plevra bölge basıncı (-) değerlerden (0)’a doğru kaymaya yani daha pozitif değerler
+almaya başlar.
+  Alveol içi basınç, atmosfer basıncından daha büyük değere ulaşır ve içindeki hava
+boşalır.
+A) Hava akımı yok
+B) Akciğer hacmi , Pintraalveolar  , Basınç gradienti nedeniyle hava akımı
+C) Pintraalveolar  akciğer hacmi inspirasyondan önceki boyuna geliyor.
+

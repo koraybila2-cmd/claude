@@ -1,0 +1,387 @@
+                      Ventilasyon ve Gazların Difüzyonu
+                      Ventilasyon, gazların difüzyonu, perfüzyon ve
+                      ventilasyon-perfüzyon oranı
+
+
+
+MAHMUT ALP KILIÇ
+DR. ÖĞR. ÜYESİ
+
+ADNAN MENDERES ÜNİVERSİTESİ TIP FAKÜLTESİ
+
+BİYOFİZİK ANABİLİM DALI
+
+Kaynaklar:
+-    Biyofizik, Prof. Dr. Ferit Pehlivan, 10. Baskı, Pelikan Yayıncılık, 2021
+-    Biyofizik Ders Kitabı, Cerrahpaşa Tıp Fakültesi, Ed. Prof. Dr. Şefik Dursun, İstanbul Üniversitesi Basım ve Yayınevi Müdürlüğü, 2010
+-    Dr. Öğr. Üyesi Özlem Bozkurt Girit Dış solunum sistemi mekaniği Ventilasyon, Perfüzyon, Difüzyon-Solunumda gaz yasaları, ventilasyon perfüzyon oranı
+     ders notları
+  Dakika Ventilasyonu ve Alveoler
+  Ventilasyon
+Dakika ventilasyonu: bir dakikada solunum yollarına giren (çıkan) toplam hava
+                                         V̇E = VT × f = 500 mL × 12/dk = 6 L/dk
+Alınan havanın bir kısmı iletim yollarında (burun, trakea, bronşlar) kalır ve gaz değişimine katılmaz: anatomik ölü
+boşluk, VD ≈ 150 mL
+Alveoler ventilasyon: gaz değişimine katılan hava
+                                    V̇A = (VT − VD) × f = (500 − 150) × 12 ≈ 4,2 L/dk
+Alveol PO2 ve PCO2’sini belirleyen V̇E değil V̇A’dır
+Aynı V̇E’de sığ ve hızlı solunumda V̇A azalır (ölü boşluk her solukta sabit): ör. VT 250 mL, f 24/dk → V̇A = 2,4 L/dk
+         Ventilasyona Etkiyen Önemli Faktörler
+
+Faktör                  Ne yapar?                         Klinik örnek
+                        Bronkokonstriksiyon daraltır,
+Havayolu çapı                                             Astım krizi, β₂-agonist tedavisi
+                        bronkodilatasyon genişletir
+                        R ∝ 1/r⁴: yarıçap yarıya inerse
+Havayolu direnci                                          Astım, KOAH
+                        direnç 16 kat artar
+                        Havayolunu tıkar, direnci
+Mukus                                                     Kronik bronşit, kistik fibrozis
+                        artırır
+                        Sürfaktan yüzey gerilimini
+Alveol kompliyansı                                        Prematüre bebekte RDS
+                        azaltır, alveol kolay genişler
+                        Ekspirasyonda akciğeri geri       Amfizemde azalır, fibroziste
+Elastiklik
+                        toplar                            sertleşir
+        VENTİLASYON KUVVETLERİNİN DENGELENMESİ
+1. Normal solunum sırasında, nefes almak vermekten çok enerji gerektirir.
+2. Akciğerler genişlediğinde, bu genişlemeye karşı iki temel kuvvet etki eder:
+ELASTİK GERİ ÇEKİLME (RECOIL): Doku kuvvetlerine bağlı olarak belli bir akciğer elastikliği
+büzülmeye neden olur.
+YÜZEY GERİLİMİ: Alveolar membranın iç yüzeyi sıvıyla kaplıdır ve sıvı baloncuklarının belli bir
+ yüzey gerilimi vardır. P= 2T/r
+3. Akciğerin genişleyebilmesi için yapılan işin yaklaşık üçte biri akciğer dokusunun
+elastik yapısına, üçte ikisi ise alveol yüzeyindeki sıvının oluşturduğu yüzey
+gerilimine harcanır. Küçük akciğer hacimlerinde yüzey gerilimi genişlemeye daha
+çok direnç gösterirken, akciğer hacmi arttıkça elastik geri çekilme (recoil) kuvveti
+daha belirgin hâle gelir.
+4. Hem inspirasyonun hem de ekspirasyonun sonunda akciğerlere hava
+girişi veya çıkışı olmaz, çünkü ağız ile alveoller arasındaki basınç farkı
+sıfırlanmıştır. Bu durumda alveol basıncı atmosfer basıncına eşittir ve
+hava akımı durur.
+              Difüzyon Nedir?
+Difüzyon, maddelerin çok yoğun ortamdan az yoğun
+ortama göçüdür moleküllerin kinetik enerjilerine bağlı
+olarak rastgele hareketlerinden kaynaklanır
+
+
+Difüzyon, canlılarda gerçekleşen birçok doğal olayda
+büyük önem taşır.
+◦ Hücre zarından materyal geçişi
+◦ Solunumda da alveollerde kan damarlarına gaz geçişi
+◦ Dokuda kılcal damarlardan hücrelere gaz geçişi
+◦ böbreklerde idrar oluşumu
+  ◦ Difüzyon prensibinden, ciddi böbrek hastalıklarında kullanılan diyaliz makinesinde yaygın
+    biçimde yararlanılır
+ Solunum Zarı (Alveol-Kapiller Zar)
+O2 ve CO2 alveol havası ile kapiller kan arasında şu katmanlardan geçer:
+ ◦ Sürfaktan içeren sıvı tabakası
+ ◦ Alveol epiteli (tip I hücreler) ve bazal membranı
+ ◦ İnce interstisyel aralık
+ ◦ Kapiller bazal membranı ve endotel
+
+Toplam kalınlık ≈ 0,2–0,6 µm
+Toplam yüzey alanı ≈ 50–100 m²
+Bu çok ince ve geniş yüzey, Fick yasasına göre hızlı difüzyonu sağlar (A büyük, T küçük)
+- Dış solunumun ikinci evresi olan difüzyonla akciğerler havasındaki oksijen
+kana, kandaki CO2 akciğer havasına geçer.
+** Venöz kan akciğer kılcal damarlarına geldiğinde: O2 nin kısmi basıncı
+40mmHg ve CO2 kısmi basıncı 46 mmHg dır.
+*** Alveollerde; O2 nin kısmi basıncı 100mmHg ve CO2 kısmi basıncı 40mmHg
+dır.
+
+
+O2 ve CO2in alış-verişi kısmi basınç gradientleri ile sağlanır.
+                            FİCK KANUNU (DİFÜZYON)
+
+       Gazların dokulardan veya alveol-kapiller zar boyunca geçiş hızını (difüzyon hızını) belirleyen temel fiziksel yasa
+       Fick Kanunudur.
+
+
+
+
+CO₂ ve O₂ Karşılaştırması
+•CO₂’nin çözünürlüğü, O₂’nin yaklaşık 20 katıdır.
+•Moleküler ağırlıkları birbirine yakın olduğu için (CO₂ ≈ 44, O₂ ≈ 32), farkı belirleyen ana etmen çözünürlüktür.
+•Bu nedenle:
+                                                                𝐷𝐶𝑂2 ≈ 20 × 𝐷𝑂2
+• →CO₂ akciğer dokusunda O₂’ye göre 20 kat daha hızlı difüze olur.
+    Fick Yasasının Parametreleri
+                                       V̇gaz = (A × D × ΔP) / T
+
+
+Parametre   Anlamı                                     Değiştiği durumlar
+                                                       ↓ amfizem, akciğer rezeksiyonu; ↑ egzersizde
+A           Zarın yüzey alanı
+                                                       kapillerlerin açılması
+T           Zarın kalınlığı                            ↑ fibrozis, ödem, pnömoni
+ΔP          Kısmi basınç farkı                         ↓ yükseklik, hipoventilasyon; ↑ oksijen tedavisi
+D           Difüzyon katsayısı ∝ çözünürlük / √M       CO2 ≈ 20 × O2 (Dış solunum dersi: Graham yasası)
+Alveoller
+
+
+
+      Sistemik Arteriyel
+             Kan
+ Kapillerde Transit Süresi ve Denge
+Eritrosit pulmoner kapillerden dinlenimde ≈ 0,75 sn’de geçer
+O2 dengesi (kapiller PO2 = alveol PO2 ≈ 100 mmHg) ≈ 0,25 sn’de kurulur → kapillerin ilk üçte biri yeterlidir
+Kalan süre bir güvenlik payıdır:
+ ◦ Egzersizde transit süresi ≈ 0,25 sn’ye kısalır → sağlıklı kişide denge yine kurulur
+ ◦ Zar kalınlaşmışsa (fibrozis) dinlenimde normal olan PO2 egzersizde düşer
+ ◦ Yükseklikte basınç farkı (ΔP) küçüldüğü için denge daha geç kurulur
+  Perfüzyon Sınırlı ve Difüzyon Sınırlı
+  Gaz Geçişi
+Perfüzyon sınırlı
+  ◦ Gaz kapillerin başında dengeye ulaşır; daha fazla geçiş için daha fazla kan akımı gerekir
+  ◦ Örnek: N2O (hemoglobine bağlanmaz, plazmadaki kısmi basıncı hızla yükselir)
+  ◦ Normal koşullarda O2 da perfüzyon sınırlıdır
+
+Difüzyon sınırlı
+  ◦ Kapillerin sonuna kadar denge kurulamaz; geçişi zarın özellikleri sınırlar
+  ◦ Örnek: CO (hemoglobine çok güçlü bağlanır, plazmadaki kısmi basıncı hep düşük kalır, basınç farkı korunur)
+  ◦ O2: ağır egzersiz, yükseklik ve zar kalınlaşmasında difüzyon sınırlı hale gelir
+
+ Bu nedenle zarın difüzyon özelliği CO ile ölçülür (DLCO)
+                  Alveolar solunum, PO2 ve PCO2
+
+   Normal koşullar altında istirahat
+halinde PO2 ve PCO2 yaklaşık olarak
+sabittir
+   Alveolar PO2 ve PCO2 hiper- ve
+hipo-ventilasyon ile farklılaşır
+
+  Hiperventilasyon sırasında
+(artmış alveolar ventilasyon) PO2
+basıncı 120 mm Hg ulaşabilir ve PCO2
+basıncı 20 mmHg değerine yaklaşır
+
+  Hipoventilasyon sırasında
+(azalmış alveolar ventilasyon) PO2
+basıncı 30 mmHg’ye düşer ve PCO2
+basıncı 100 mmHg değerine yükselir
+ Alveoler Ventilasyon ve PaCO2
+Alveoldeki (ve arterdeki) CO2, üretilen CO2 ile onu uzaklaştıran alveoler ventilasyonun dengesiyle belirlenir:
+                                            PaCO2 = (V̇CO2 × 0,863) / V̇A
+V̇CO2: mL/dk (STPD), V̇A: L/dk (BTPS); 0,863 birim dönüşüm sabitidir
+Normal: (200 × 0,863) / 4,2 ≈ 41 mmHg
+V̇A yarıya inerse (2,1 L/dk) → PaCO2 ≈ 82 mmHg: hipoventilasyon, solunumsal asidoz
+V̇A iki katına çıkarsa (8,4 L/dk) → PaCO2 ≈ 20 mmHg: hiperventilasyon, solunumsal alkaloz
+PaCO2 ile V̇A ters orantılıdır; hipo- ve hiperventilasyon klinikte PaCO2’ye göre tanımlanır
+Bu grafik, atmosferden dokulara kadar olan oksijen (O₂) parsiyel
+basınçlarının (PO₂) değişimini göstermektedir. Grafik, oksijenin
+akciğerler ve kan dolaşımı üzerinden dokulara taşınma sürecindeki
+iki durumu karşılaştırır:
+
+Atmosferdeki PO₂ (oksijen parsiyel basıncı) yaklaşık 150 mmHg
+civarındadır. Bu basınç, akciğerlerden kan dolaşımına ve ardından
+dokulara taşındığında düşmektedir, fakat dokulardaki oksijen
+ihtiyacını karşılayacak yeterli düzeyde kalmaktadır.
+
+Hipoventilasyon, yeterli havalandırmanın olmadığı bir durumu ifade
+eder ve bu da alveoler gazdaki oksijen basıncının düşmesine neden
+olur. Hipoventilasyon, alveollerdeki PO₂'nin düşük kalmasına yol açar,
+bu da oksijenin kanda taşınması sırasında daha düşük bir PO₂
+seviyesi ile sonuçlanır. Sonuç olarak, dokulardaki oksijen basıncı
+(PO₂) daha düşük seviyelere ulaşır ve bu durum, hücresel oksijen
+ihtiyacının karşılanamamasına neden olabilir.
+ Dokularda Gaz Değişimi (İç Solunum)
+O2 kandan dokuya, CO2 dokudan kana kısmi basınç farkıyla difüze olur; aynı Fick yasası geçerlidir
+Arter kanı: PO2 ≈ 95–100, PCO2 ≈ 40 mmHg
+Doku (interstisyel sıvı): PO2 ≈ 40, PCO2 ≈ 45 mmHg
+Venöz kan dokudan bu değerlerle ayrılır: PO2 ≈ 40, PCO2 ≈ 46 mmHg → akciğere döner
+Doku metabolizması ↑ → doku PO2 ↓, PCO2 ↑ → basınç farkı ve gaz geçişi artar
+ Difüzyon Bozukluklarına Klinik
+ Örnekler
+Durum                           Etkilenen parametre                   Sonuç
+Pulmoner fibrozis               T ↑ (zar kalınlaşır)                  Egzersizde belirgin hipoksemi, DLCO ↓
+Amfizem                         A ↓ (alveol duvarları yıkılır)        DLCO ↓
+Akciğer ödemi, pnömoni          T ↑ (sıvı birikimi)                   Hipoksemi
+Yükseklik                       ΔP ↓                                  Hipoksemi
+Oksijen tedavisi                ΔP ↑                                  PaO2 ↑
+
+CO2 çok hızlı difüze olduğundan difüzyon bozukluğunda önce O2 etkilenir: hipoksemi, PaCO2 normal veya düşük
+ Hesap Soruları – 1. Bölüm
+1. Tidal hacim 400 mL, ölü boşluk 150 mL, solunum sayısı 16/dk. Dakika ventilasyonu ve alveoler
+ventilasyon nedir?
+2. PaCO2 = 40 mmHg, toplanan ekspirasyon havasında PECO2 = 30 mmHg. VD/VT oranı nedir?
+3. CO2 üretimi sabitken alveoler ventilasyon 4 L/dk’dan 2 L/dk’ya düşüyor. PaCO2 yaklaşık nasıl değişir?
+4. Fibrozisli bir hastada solunum zarının kalınlığı 2 katına çıkmış, yüzey alanı yarıya inmiş. Diğer koşullar
+aynıyken O2 difüzyon hızı nasıl değişir?
+ Cevaplar – 1. Bölüm
+1. V̇E = 400 × 16 = 6,4 L/dk; V̇A = (400 − 150) × 16 = 4,0 L/dk
+2. VD/VT = (40 − 30) / 40 = 0,25
+3. CO₂ üretimi sabitken PaCO₂, alveoler ventilasyonla ters orantılıdır → ventilasyon yarıya inince PaCO₂ iki
+katına çıkar: ≈ 40 → ≈ 80 mmHg
+4. Fick: V̇ ∝ A/T → (1/2) / 2 = 1/4 → difüzyon hızı dörtte birine iner
+   Perfüzyon Nedir?
+◦ Biyolojik yapıda arteriyel kandan kapiller yatağa
+  besleyici maddelerin verilme-dağıtılma işlemidir
+
+Kanın akciğer kılcal damarlara girişi ve dokulara
+taşınması
+◦ Dinlenim durumunda normal yetişkinde, dakikada 4 litre hava
+  alveollere girip çıkarken 5 litre kan (kardiak output) pulmoner
+  kapillerden geçer.
+◦ Ağır ekzersizde hava akımı 20 kat ve kan akımı 5-6 kat artabilir.
+Pulmoner Dolaşımın Özellikleri
+                                               Pulmoner dolaşım                            Sistemik dolaşım
+Arter basıncı (sistolik/diyastolik)            ≈ 25/8 mmHg                                 ≈ 120/80 mmHg
+Ortalama arter basıncı                         ≈ 15 mmHg                                   ≈ 93 mmHg
+Damar direnci                                  Sistemiğin ≈ 1/10’u                         —
+Kan akımı                                      ≈ 5 L/dk (kalp debisinin tamamı)            ≈ 5 L/dk
+Hipoksiye yanıt                                Vazokonstriksiyon                           Vazodilatasyon
+
+
+Damar duvarları ince ve kolay genişler; egzersizde kapalı kapillerler açılır, açıkları genişler → debi artsa da basınç çok az
+artar
+Düşük basınç sayesinde kapillerden interstisyuma sıvı sızması azdır (akciğer ödemine karşı koruma)
+Pulmoner Damar Direnci: Basınç–Akım–
+Direnç
+Damarlarda akım, Ohm yasasının hidrodinamik karşılığına uyar:
+                                               Q̇ = ΔP / R → R = ΔP / Q̇
+
+                      ΔP (mmHg)                                                     Q̇ (L/dk)          R (mmHg·dk/L)
+Pulmoner              15 − 5 = 10 (pulmoner arter − sol atriyum)                    5                  ≈2
+Sistemik              93 − 2 ≈ 91 (aort − sağ atriyum)                              5                  ≈ 18
+
+•   Aynı debiyi pulmoner dolaşım sistemiğin ≈ 1/9 direnciyle taşır → sağ ventrikül düşük basınçla çalışır, duvarı incedir
+•   Poiseuille: R = 8ηl / (πr4). Pulmoner damarlar kısa, geniş ve çok sayıda paralel daldan oluşur → direnç düşük
+•   Yarıçaptaki küçük bir artış direnci büyük ölçüde azaltır (r ≈ 1,2 katına çıkarsa R ≈ yarıya iner)
+Akciğer Kapillerinde Starling Kuvvetleri
+Kuvvet                                           Değer (mmHg)                           Etkisi
+Kapiller hidrostatik basınç                      ≈7                                     Dışa
+İnterstisyel sıvı basıncı                        ≈ −8                                   Dışa (negatif basınç sıvıyı çeker)
+İnterstisyel onkotik basınç                      ≈ 14                                   Dışa
+Plazma onkotik basıncı                           ≈ 28                                   İçe
+Net filtrasyon                                   7 + 8 + 14 − 28 ≈ +1                   Dışa
+
+Küçük ve sürekli bir dışa filtrasyon vardır; bu sıvı lenfatiklerle uzaklaştırılır → alveoller kuru kalır
+Kapiller basınç plazma onkotik basıncını aşarsa (≈ 25–28 mmHg; sol kalp yetmezliği, mitral darlık) → akciğer ödemi.
+Güvenlik payı ≈ 20 mmHg
+Ödem difüzyon mesafesini artırır (Fick: T ↑) → hipoksemi
+               Ventilasyon-Perfüzyon Oranı
+
+
+
+
+                                                                           Normalde:
+                                                                                            𝑉/𝑄 ≈ 0.8
+                                                                           Çünkü:
+                                                                           •Ventilasyon ≈ 4 L/dk
+                                                                           •Perfüzyon ≈ 5 L/dk
+
+ B ➔Ventilasyon daralma nedeniyle azalırsa, kan akımı değişmemiş. PO2 azalırken PCO2 artar. Eğer ventilasyon
+tamamen durursa, V̇A/Q̇ = 0 (şant) olur. Alveolde ve kapiller sonu kanda PO2 ve PCO2 karışık venöz kanla aynı olur.
+ C ➔ Kan akımında daralma ile V̇A/Q̇ oranı artıyorsa PO2 artar ve PCO2 azalır. Tam tıkanmada V̇A/Q̇ oranı sonsuz olur
+(ölü boşluk).
+Eğrinin sol tarafına gidildikçe V̇A/Q̇ oranı azalır; yani ventilasyon
+azalırken perfüzyon devam eder. Bu durumda alveole hava girişi
+azaldığı için oksijen düşer (PO₂ ↓), karbondioksit artar (PCO₂ ↑).
+Böyle bir tablo şant (V̇A/Q̇ → 0) durumunu temsil eder ve atelektazi,
+pnömoni gibi hastalıklarda görülür.
+Eğrinin sağ tarafına gidildikçe V̇A/Q̇ oranı artar; yani alveole hava
+fazladır ancak kan akımı azalmıştır. Bu durumda alveolde oksijen birikir
+(PO₂ ↑) ve karbondioksit azalır (PCO₂ ↓). Bu tablo ölü boşluk
+ventilasyonu (V̇A/Q̇ → ∞) olarak adlandırılır ve pulmoner emboli gibi
+kan akımının kesildiği durumlarda ortaya çıkar.
+Sonuç olarak grafikte, şant–normal–ölü boşluk arasında bir denge
+görülür.
+•Sol uç: Hava yok → kan oksijenlenemez.
+•Orta: Gaz değişimi en verimli düzeydedir.
+•Sağ uç: Hava var → ama kan yok, gaz değişimi gerçekleşmez.
+           V̇A: alveoler ventilasyon   Q̇: perfüzyon
+
+• Ventilasyon/perfüzyon (V̇A/Q̇) oranı, akciğerdeki belirli bir
+  bölgenin gaz değişim verimliliğini gösterir.
+• Akciğerin tepesi ile tabanı arasında bu oranda bölgesel
+  farklılıklar bulunur, bu da gaz değişiminde dengesizliklere yol
+  açar. V̇A/Q̇ eşitsizliği oluştuğunda, akciğerlerdeki gazların
+  (özellikle oksijen ve karbondioksit) etkili bir şekilde alınması
+  ve uzaklaştırılması zorlaşır.
+Yerçekimi ve Bölgesel V̇A/Q̇ Farkları
+Bölge                Ventilasyon               Perfüzyon            V̇A/Q̇            Alveol PO2 / PCO2
+Tepe                 Az                        Çok az               ≈ 3,3             ≈ 132 / 28 mmHg
+Orta                 Orta                      Orta                 ≈ 0,8–1           ≈ 100 / 40 mmHg
+Taban                Fazla                     Çok fazla            ≈ 0,6             ≈ 89 / 42 mmHg
+
+Ayakta akciğer tepesi kalbin ≈ 15 cm üstündedir: kan basıncı tepede düşük, tabanda yüksek (hidrostatik basınç)
+Tabanda hem ventilasyon hem perfüzyon fazladır, ama perfüzyon daha çok artar
+Tüm akciğer ortalaması: V̇A/Q̇ = 4 / 5 ≈ 0,8
+Sırtüstü yatınca fark azalır; egzersizde tepedeki perfüzyon artar, oran düzelir
+  Akciğerlerde perfüzyon
+
+Bölge I: akciğerin en tepesi
+•PA > Pa > Pv
+•Alveol basıncı kılcal damarı ezer, kan akımı durur.
+•Hava gelir ama kan gelmez, yani bölge ölü boşluk gibi davranır.
+•Sağlıklı insanda normal koşullarda bölge I yoktur.
+•Ortaya çıktığı durumlar:
+         •    Ciddi kan kaybı (arter basıncı düşer)
+         •    Pozitif basınçlı ventilasyon (alveol basıncı artar)
+Bölge II: akciğerin orta kısmı
+•Pa > PA > Pv
+•Kan akımı vardır ama kesintilidir:
+         •    Sistolde, arter basıncı yüksekken akar.
+         •    Diyastolde azalır.
+•Akımı belirleyen fark: Pa − PA
+Bölge III: akciğerin tabanı
+•Pa > Pv > PA
+•Kılcal damarlar sürekli açıktır, kan kesintisiz akar.
+•Alveol basıncının akıma etkisi kalmaz.
+•Akımı belirleyen fark: Pa − Pv
+Sonuç
+•Kan akımı akciğer tabanında fazla, tepesinde azdır.
+•Sırtüstü yatınca yükseklik farkı azalır, bölgesel farklar büyük ölçüde kaybolur.»
+Hidrostatik Basınç ve Perfüzyon Bölgeleri
+Yer                    Kalbe göre yükseklik            Hidrostatik etki             Arter basıncı (sistolik/diyastolik)
+Tepe                   ≈ +15 cm                        ≈ −11 mmHg                   ≈ 14 / −3 mmHg
+Kalp düzeyi            0                               0                            ≈ 25 / 8 mmHg
+Taban                  ≈ −10 cm                        ≈ +7 mmHg                    ≈ 32 / 15 mmHg
+
+Sıvı sütununun basıncı P = ρgh: kanda 1,36 cm ≈ 1 mmHg
+Ayakta tepe kalbin ≈ 15 cm üstünde, taban ≈ 10 cm altındadır → tepe ile taban arası ≈ 18 mmHg
+Tepede diyastolik arter basıncı alveol basıncının (0) altına düşer → akım yalnız sistolde (Bölge II); tabanda akım süreklidir
+(Bölge III)
+Bölge I (hiç akım yok) sağlıklı kişide normalde bulunmaz; kanama veya pozitif basınçlı ventilasyonda ortaya çıkar
+= (0,071) × 70 ≈ 5,0 L/dk
+alveollerdeki PO₂ azalır, bu da o bölgedeki arteriyollerin daralmasına neden
+                                     olur.
+Hipoksik Pulmoner Vazokonstriksiyon
+Alveol PO2 düşerse (≈ 70 mmHg altı) o bölgedeki küçük pulmoner arterler daralır
+Amaç: kanı iyi havalanmayan alveollerden iyi havalanan alveollere yönlendirerek V̇A/Q̇ uyumunu korumak
+Sistemik damarlarda hipoksi vazodilatasyon yapar: tam tersi
+Fetüste akciğerler havasızdır → pulmoner direnç yüksektir, kan duktus arteriozus yoluyla akciğerleri atlar;
+ilk solukla alveol PO2 yükselir ve direnç düşer
+Yükseklikte veya kronik akciğer hastalığında yaygın hipoksi → tüm akciğerde vazokonstriksiyon →
+pulmoner hipertansiyon, sağ kalp yüklenmesi
+V̇A/Q̇ Eşitsizliğinde O2 ve CO2 Neden
+Farklı Etkilenir?
+
+
+
+
+Eşit kan akımı alan iki bölge: biri düşük, biri yüksek V̇A/Q̇. Kapiller sonu kanlar karışır
+O2: yüksek V̇A/Q̇’lu bölgede hemoglobin zaten ≈ %99 doymuştur, fazladan O2 alamaz → düşük bölgenin açığı kapanmaz → hipoksemi
+CO2: içerik eğrisi doğrusal olduğundan yüksek bölge fazladan CO2 atar ve açığı kapatır → PaCO2 normal veya düşük
+Sonuç: V̇A/Q̇ eşitsizliğinde hiperventilasyon CO2’yi düzeltir, O2’yi düzeltemez
+Şant ve Ölü Boşluk
+                                       Şant                                          Ölü boşluk
+
+V̇A/Q̇                                 →0                                            →∞
+
+Ne olur?                               Kan geçer, alveole hava gelmez                Hava gelir, kan akımı yoktur
+
+Kapiller sonu kan / alveol havası      Kan karışık venöz kan gibi kalır              Alveol havası solunan hava gibi kalır
+
+Örnek                                  Atelektazi, pnömoni, ödem                     Pulmoner emboli
+
+%100 O2 ile düzelme                    Gerçek şantta düzelmez                        —
+
+Fizyolojik şant: normalde de bronşiyal venlerin ve kalbin küçük venlerinin kanı (≈ %2) oksijenlenmeden sol kalbe döner → arter
+PO2 alveolden biraz düşüktür
+
+Fizyolojik ölü boşluk = anatomik ölü boşluk (iletim yolları, ≈ 150 mL) + alveoler ölü boşluk (perfüze olmayan alveoller; normalde
+çok az)
+

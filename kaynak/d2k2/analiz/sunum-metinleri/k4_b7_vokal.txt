@@ -1,0 +1,886 @@
+DÖNEM 2 · DOLAŞIM VE SOLUNUM SISTEMLERI DERS KURULU · BIYOFIZIK
+
+
+
+
+Vokal kordlar, ses oluşumu
+ve klinik önemi
+Sesin fiziği · Fonasyon · Rezonans · Artikülasyon
+
+
+Dr. Öğr. Üyesi Mahmut Alp Kılıç
+Aydın Adnan Menderes Üniversitesi Tıp Fakültesi · Biyofizik Anabilim Dalı
+GIRIŞ
+
+Öğrenim hedefleri
+Bu dersin sonunda şunları yapabilmelisiniz:
+                                                                  UÇEP KARŞILIKLARI
+• Sesin fiziksel özelliklerini (frekans, şiddet, spektrum) ve     Klinik semptom / bulgu
+  bunların algıdaki karşılıklarını açıklamak
+                                                                  Konuşma bozuklukları (afazi, disfazi, dizartri,
+• Ses tellerinin titreşimini myoelastik-aerodinamik teoriyle      kekemelik vb.)
+  açıklamak
+                                                                  Çekirdek hastalık
+• Fonasyonu kontrol eden basınçları (subglottik basınç, glottik
+                                                                  İnme
+  direnç, eşik basıncı) ilişkilendirmek
+• Sesin perdesini ve şiddetini belirleyen etmenleri saymak
+• Kaynak-filtre teorisiyle ünlü ve ünsüzlerin oluşumunu
+  açıklamak
+GIRIŞ
+
+Konuşma dört aşamalı bir sistemdir
+                                                                                REZONATÖR
+                                         TITREŞIM KAYNAĞI                                                               ŞEKILLENDIRICI
+  GÜÇ KAYNAĞI                                                                   Vokal trakt
+                                         Larinks                                                                        Artikülatörler
+  Akciğerler                                                                    Farinks, ağız ve burun
+                                         Ses telleri titreşir ve temel                                                  Dil, dudak, damak ve
+  Solunum kasları basınçlı                                                      boşlukları bazı frekansları
+                                         ses oluşur (fonasyon)                                                          çene konuşma seslerini
+  hava akımı üretir                                                             güçlendirir (rezonasyon)
+                                                                                                                        oluşturur (artikülasyon)
+
+
+
+
+   Aerodinamik enerji (hava akımı) → larinkste akustik enerjiye dönüşür → ses yolunda filtrelenir → konuşma sesi
+
+
+Ders planı: 1 Sesin fiziği · 2 Konuşma sistemi · 3 Fonasyon mekanizması · 4 Aerodinamik kontrol · 5 Perde ve şiddet · 6 Rezonans · 7 Artikülasyon · 8
+Klinik bağlantı
+1
+Sesin fiziği
+Konuşmayı anlamak için önce sesi tanımalıyız: dalga, frekans, şiddet, harmonikler
+ve rezonans.
+SESIN FIZIĞI
+
+Ses nedir?
+Titreşen bir kaynağın ortamda oluşturduğu, ortam
+taneciklerinin ileri-geri hareketiyle yayılan mekanik
+bir basınç dalgası.
+
+• Sıkışma (kompresyon): moleküller yaklaşır, basınç artar
+• Seyrelme (rarefaksiyon): moleküller uzaklaşır, basınç
+  azalır
+• Boyuna dalgadır: moleküller dalganın ilerleme yönünde
+  salınır
+• Ortam gerektirir: boşlukta ses yayılmaz
+• Ortam yer değiştirmez, enerji taşınır
+SESIN FIZIĞI
+
+Bir dalgayı tanımlayan büyüklükler
+• Periyot (T): bir tam titreşimin süresi (s)
+                                                                             λ (dalga boyu)
+• Frekans (f): saniyedeki titreşim sayısı; f = 1/T, birimi
+  Hertz (Hz)
+• Dalga boyu (λ): bir tam dalganın uzunluğu (m)
+• Hız (v): v = f × λ
+• Genlik (A): basınç değişiminin büyüklüğü
+                                                                A (genlik)                    zaman / mesafe →
+  Havada ses hızı sabittir (~343 m/s). Frekans arttıkça dalga
+  boyu kısalır: 100 Hz → ~3,4 m · 1000 Hz → ~34 cm
+SESIN FIZIĞI
+
+Ses hızı ortama bağlıdır
+ Ortam                                        Ses hızı (m/s)
+                                                                         AKUSTIK EMPEDANS
+ Hava (20 °C)                                 ~343                       Z=ρ×v
+ Su                                           ~1480                      Ortam yoğunluğu × ses hızı. Ortamın sese gösterdiği
+ Yumuşak doku                                 ~1540                      “direnç”tir.
+
+ Kemik                                        ~3500–4000
+
+Moleküller arası bağlar ne kadar sıkıysa ses o kadar hızlı yayılır.      İki ortamın empedansı çok farklıysa ses sınırda
+                                                                         büyük ölçüde yansır. Havadan suya geçerken
+                                                                         enerjinin ~%99,9’u yansır.
+
+                                                                      Bu yüzden ultrasonda jel kullanılır; orta kulak bu farkı dengeler (işitme
+                                                                      biyofiziği, 2. dönem).
+SESIN FIZIĞI
+
+Genlik, şiddet ve desibel
+• Genlik: basınç dalgalanmasının büyüklüğü (Pa)
+                                                                          AKILDA TUT
+• Şiddet (I): birim alandan birim zamanda geçen ses enerjisi
+  (W/m²); genliğin karesiyle orantılı                                     +10 dB
+                                                                          şiddet 10 kat artar
+• Kulak çok geniş bir aralığı duyar: en zayıf duyulan ses ile ağrı
+  veren ses arasında ~10¹² kat (bir trilyon) fark vardır
+                                                                          +20 dB
+• Bu yüzden logaritmik bir ölçek kullanılır: desibel (dB)                 şiddet 100 kat artar
+
+  Ses şiddet düzeyi: L = 10 · log (I / I₀) dB · I₀ = 10⁻¹² W/m² (işitme   +3 dB
+  eşiği)                                                                  şiddet yaklaşık 2 kat artar
+SESIN FIZIĞI
+
+Günlük seslerin desibel düzeyleri
+İşitme eşiği                          0 dB
+
+Yaprak hışırtısı                                 ~20 dB
+
+Fısıltı                                                 ~30 dB
+
+Normal konuşma (1 m)                                                      ~60 dB
+
+Bağırma, yoğun trafik                                                                 ~80–90 dB
+
+Ağrı eşiği                                                                                        ~120 dB
+
+
+   85 dB üzerindeki seslere uzun süre maruz kalmak kalıcı işitme kaybı riski taşır.
+SESIN FIZIĞI
+
+Fiziksel büyüklük ve algı
+Fiziksel büyüklük              Algı                     Günlük dilde
+Frekans (Hz)                   Perde                    İnce (tiz) – kalın (pes) ses
+Şiddet / genlik (dB)           Gürlük                   Gür – kısık ses
+Spektrum (harmonik yapısı)     Tını                     Ses rengi, ses kalitesi
+
+
+  İŞITME ARALIĞI             KONUŞMA IÇIN KRITIK BANT       KULAK EN DUYARLI
+
+  20–20 000 Hz               ~250–4000 Hz                   ~2000–5000 Hz
+SESIN FIZIĞI
+
+Basit ses: tek frekans
+Basit ses (saf ton): tek bir frekanstan oluşan,
+sinüs biçiminde düzenli tekrarlayan titreşim.
+
+• Klasik örnek: diyapazon
+• Kollar dışa hareket eder → sıkışma; içe hareket eder →
+  seyrelme
+• Basınç-zaman grafiği bir sinüs eğrisidir
+• Doğada nadirdir; odyometride kullanılan test sesleri saf
+  tondur
+SESIN FIZIĞI
+
+Kompleks ses: harmoniklerin toplamı
+f₀ – temel frekans (1. harmonik)
+
+
+
+
+2f₀ – 2. harmonik
+
+
+                                   =
+3f₀ – 3. harmonik
+                                       Her periyodik ses, temel frekans ve onun tam katı frekanslardaki
+                                       sinüs dalgalarının toplamıdır (Fourier).
+                                       Toplam dalganın tekrarlama hızı yine f₀’dır; perdeyi f₀ belirler.
+SESIN FIZIĞI
+
+Spektrum: sesin frekans içeriği
+ Zaman alanı: dalga biçimi                                     Frekans alanı: spektrum
+
+
+
+
+                                                                           f₀            2f₀               3f₀
+
+Yatay eksen: zaman · Dikey eksen: basınç                      Yatay eksen: frekans · Dikey eksen: şiddet
+
+
+
+  Saf ton → tek çizgi                      Periyodik kompleks ses → eşit                Gürültü → sürekli, yayvan spektrum
+                                           aralıklı çizgiler
+SESIN FIZIĞI
+
+Periyodik ses ve gürültü
+  PERIYODIK                                                     APERIYODIK (GÜRÜLTÜ)
+
+
+
+
+  • Düzenli tekrarlar → belirgin bir perdesi vardır              • Tekrarlamaz → belirgin perdesi yoktur
+  • Spektrumu harmonik çizgilerden oluşur                        • Spektrumu sürekli ve yayvandır
+  • Örnek: ünlüler (a, e, i), titreşen ses telleri               • Örnek: fısıltı, s, ş, f sesleri (türbülanslı hava)
+
+
+
+
+  Konuşmada ikisi birlikte kullanılır: ses tellerinin periyodik sesi + daralmalardan geçen havanın gürültüsü. “z”, “v”,
+  “j” her ikisini birden içerir.
+SESIN FIZIĞI
+
+Rezonans
+Her cismin ve hava sütununun, kütlesi, sertliği                    Genlik ↑
+ve boyutlarıyla belirlenen bir veya birden çok                                                   Doğal frekans
+doğal    (rezonans)      frekansı  vardır.   Bu
+frekanslarda uyarılan sistem, küçük bir uyarıyla
+büyük genlikte titreşir.
+
+• Salıncağı tam doğru anda itmek
+• Şişenin ağzına üfleyince ses çıkması (hava sütunu)
+• Diyapazonun tahta kutu üzerinde daha gür çıkması
+
+                                                                                                   Uyarı frekansı →
+  Rezonatör enerji üretmez: uygun frekansları
+  güçlendirir, diğerlerini zayıflatır. Yani bir filtre gibi   Vokal trakt da bir rezonatördür (bölüm 6).
+  çalışır.
+2
+Konuşma sistemi
+Dil ile konuşma arasındaki fark, konuşmanın üç süreci ve titreşim kaynağımız:
+larinks.
+KONUŞMA SISTEMI
+
+Dil ve konuşma aynı şey değildir
+  DIL                                                                KONUŞMA
+  İletişim için kullanılan semboller ve bu sembollerin nasıl bir     Dilin duyulabilir hâle gelmiş biçimi. Fonasyonla üretilen sesin
+  araya geleceğini belirleyen kurallar sistemi. Düşünce, duygu       ses yolunda şekillenmesiyle oluşur.
+  ve isteklerin aktarılmasını sağlar.
+
+
+
+
+  Yazılı bir müzik eseri dil ise, o eserin orkestra tarafından çalınması konuşmadır.
+
+
+Afazi: dil bozukluğu. Beyindeki dil merkezleri etkilenir;          Dizartri: konuşma bozukluğu. Dil sağlamdır ama konuşma
+anlama ve/veya ifade bozulur.                                      kaslarının kontrolü bozulmuştur.
+KONUŞMA SISTEMI
+
+Konuşmanın üç süreci
+ 1 · LARINKS                                2 · VOKAL TRAKT                            3 · AĞIZ
+
+ Fonasyon (sesleme)                         Rezonasyon (tınlama)                       Artikülasyon
+ Vokal kordların titreşimi. Temel           Harmoniklerin bir kısmının ses             (boğumlama)
+ frekans ve onun harmoniklerinden           yolunun o anki şekline göre seçici         Sesin dil, dudak, yumuşak damak gibi
+ oluşan ses ortaya çıkar.                   olarak güçlenmesi.                         organlarla işlenerek konuşma
+                                                                                       seslerine dönüşmesi.
+
+
+
+
+ Fısıltıda fonasyon yoktur. Kaynak, ses tellerinin titreşimi değil türbülans gürültüsüdür. Rezonasyon ve artikülasyon sürdüğü
+ için fısıltı yine anlaşılır.
+KONUŞMA SISTEMI
+
+Konuşmada görev alan yapılar
+ GÜÇ KAYNAĞI                 TITREŞIM KAYNAĞI              REZONATÖRLER                    ARTIKÜLATÖRLER
+
+ Körük                       Larinks                       Vokal trakt                     Ağız yapıları
+ Akciğerler, göğüs duvarı,   Vokal kordlar (ses telleri)   Supraglottis, farinks, ağız     Dil, dudaklar, dişler, sert
+ diyafram, karın kasları     ve aralarındaki glottis       boşluğu, burun boşluğu ve       ve yumuşak damak, çene
+                                                           sinüsler
+
+
+
+ VOKAL TRAKT UZUNLUĞU (GLOTTIS → DUDAK)                    Vokal trakt sabit bir tüp değildir: dil, çene, dudak ve
+
+ ~17,5 cm erkek · ~14,5 cm                                 yumuşak damak hareket ettikçe şekli ve uzunluğu sürekli
+                                                           değişir.
+ kadın
+KONUŞMA SISTEMI
+
+Larinks: ses telleri ve glottis
+                                                                                              • Vokal kord (plika vokalis): ses teli
+                                                                                              • Glottis: iki vokal kord arasındaki
+                                                                                                açıklık
+                                                                                              • Vestibüler kıvrım: üstteki “yalancı ses
+                                                                                                teli”
+                                                                                              • A: solunumda açık glottis
+                                                                                                (abduksiyon)
+                                                                                              • B: fonasyonda kapalı glottis
+                                                                                                (adduksiyon)
+
+
+
+Larinks laringoskopi ile doğrudan görüntülenebilir; titreşim ise stroboskopi ile incelenir.
+KONUŞMA SISTEMI
+
+Larinks kasları: konum ve gerginlik
+Kas                     Görev                   Sonuç
+
+Krikotiroid (KT)        Kordları gerer ve       F0 ↑
+                        uzatır
+Tiroaritenoid (TA,      Kordu kısaltır,         F0 ↑ veya ↓
+vokalis)                kalınlaştırır,
+                        sertleştirir
+Lateral                 Adduksiyon              Glottis kapanır
+krikoaritenoid (LKA)
+
+İnteraritenoid (İA)     Adduksiyon (arka        Glottis kapanır
+                        bölüm)
+Posterior            Abduksiyon                 Glottisi açan
+krikoaritenoid (PKA)                            tek kas
+
+
+
+ Sinirler: KT → süperior laringeal sinirin dış dalı; diğerleri →   Tiroid cerrahisinde rekürren laringeal sinir hasarı → kord
+ rekürren laringeal sinir                                          felci, ses kısıklığı
+KONUŞMA SISTEMI
+
+Vokal kordun katmanlı yapısı: örtü ve gövde
+                                ÖRTÜ (COVER)
+                                Epitel + yüzeyel tabaka. Gevşek ve esnektir; gövdenin
+                                üzerinde dalgalanır → mukozal dalga
+
+
+
+                                GÖVDE (BODY)
+                                Vokal ligament + kas. Sertliği kasla ayarlanır.
+
+
+
+                                Reinke ödemi (sigara), nodül ve polip örtüyü etkiler →
+                                mukozal dalga bozulur, ses değişir.
+KONUŞMA SISTEMI
+
+Glottisin şekli işleve göre değişir
+                                      • Derin inspirasyon / solunum (A–B): kordlar
+                                        ayrık, glottis V şeklinde açık
+                                      • Fısıltı (D): kordların ön kısmı yaklaşır, arkada
+                                        üçgen bir açıklık kalır → türbülans gürültüsü
+                                      • Fonasyon: kordlar orta hatta yaklaşır, hava
+                                        akımıyla periyodik açılıp kapanır
+                                      • Glottal kapanma (E): tam kapalı, hava akımı sıfır
+                                        (ıkınma, öksürük öncesi)
+3
+Fonasyon mekanizması
+Ses telleri nasıl titreşir? Myoelastik-aerodinamik teori, Bernoulli etkisi ve mukozal
+dalga.
+FONASYON
+
+Larinks bir enerji dönüştürücüsüdür
+ GIRIŞ (INPUT)                                 DÖNÜŞTÜRÜCÜ                                     ÇIKIŞ (OUTPUT)
+ Aerodinamik enerji                            Glottis                                         Akustik enerji
+ Solunum kaslarının oluşturduğu                Kordların kütlesi, sertliği, gerginliği ve      Şiddet, temel frekans, ses kalitesi,
+ subglottik basınç ve hava akımı               glottisin şekli                                 süreklilik
+
+
+
+
+ Süreç glottiste gerçekleşir; ancak hem altındaki (subglottik)           Verim çok düşüktür: aerodinamik gücün %1’inden azı sese
+ hem üstündeki (supraglottik) yapılar etkiler.                           dönüşür; gerisi ısı ve türbülans olarak kaybolur.
+FONASYON
+
+Myoelastik-aerodinamik teori
+ MYO                           ELASTIK                          AERODINAMIK                      AERODINAMIK
+
+ Kas kuvveti                   Doku elastikliği                 Basınç ve akım                   Bernoulli etkisi
+ Kordları orta hatta getirir   Açılan kordu yay gibi geri       Subglottik basınç kapalı         Hızlanan havada basınç
+ ve gerginliklerini ayarlar    getirir                          kordları iterek açar             düşer, kordlar içe çekilir
+
+
+
+Titreşim için gerekli üç koşul
+
+ 1                                        2                                           3
+ Vokal kord adduksiyonu                   Uygun kord gerginliği (longitudinal         Yeterli sürücü basınç (subglottik
+                                          gerilim)                                    basınç)
+FONASYON
+
+Glottisteki üç aerodinamik prensip
+                        1 · BASINÇ FARKI
+                        Hava yüksek basınçlı bölgeden (subglottik) düşük basınçlı bölgeye
+                        (supraglottik) akar.
+
+
+
+                        2 · SÜREKLILIK
+                        Daralan bir borudan geçen akışkan hızlanır: kesit alanı × hız = sabit
+                        (A₁·v₁ = A₂·v₂).
+
+
+
+                        3 · BERNOULLI
+                        Akışkanın hızı arttıkça yan duvarlara uyguladığı basınç azalır.
+FONASYON
+
+Bernoulli etkisi: hız artarsa basınç düşer
+                                                       Günlük örnekler
+  ENERJININ KORUNUMU
+
+  P + ½ρv² = sabit                                     • İki kâğıdın arasına üfleyince kâğıtlar birbirine yaklaşır
+
+  Hareket enerjisi (½ρv²) artarsa basınç (P) azalmak
+                                                       • Duş açılınca perde içe doğru çekilir
+  zorundadır.                                          • Uçak kanadında taşıma kuvveti
+
+
+                                                         Bernoulli etkisi kapanmaya yardım eder ama titreşimi tek
+Glottiste: aralık daralır → hız ↑ → basınç ↓ →
+                                                         başına sürdüremez. Bunun için mukozal dalga gerekir.
+kordlar içe doğru çekilir.
+FONASYON
+
+Bir titreşim döngüsü
+FONASYON
+
+Kordları ne açar, ne kapatır?
+   AÇILMA                                                                     KAPANMA
+
+   Subglottik basınç                                                          Üç kuvvet birlikte
+   Biriken basınç kapalı kordları aşağıdan iterek ayırır.                      • Bernoulli etkisi: aralıktaki düşük basınç kordları içe çeker
+                                                                               • Elastik geri yaylanma: gerilen doku yay gibi geri döner
+                                                                               • Basıncın anlık düşmesi: hava kaçınca kordları iten kuvvet
+                                                                                 azalır
+
+
+
+
+                                                                                                                             Ps yeniden birikir
+  Ps birikir                     Kordlar açılır                 Hava atımı çıkar                Kordlar kapanır
+
+
+Basınçtaki düşüş döngü içinde ve anlıktır; konuşma boyunca ortalama subglottik basınç yaklaşık sabit kalır.
+FONASYONUN ANA MESAJI
+
+
+
+
+100–250
+                                                              Hiçbir kas saniyede yüzlerce kez kasılıp
+                                                              gevşeyemez.
+
+                                                              Kaslar yalnızca başlangıç konumunu (adduksiyon) ve gerginliği
+titreşim / saniye (konuşmada)                                 ayarlar. Titreşimin kendisi pasif ve aerodinamiktir.
+
+                                                              Subglottik basınç sürdükçe titreşim kendiliğinden devam eder:
+                                                              rüzgârda dalgalanan bir bayrak gibi.
+
+
+
+ Tarihçe: Husson’un nörokronaksik teorisi (1950’ler) her titreşimin ayrı bir sinir impulsuyla tetiklendiğini öne sürmüştü. Bu görüş
+ reddedildi; kordlar ölü dokuda (kadavra larinksinde) bile hava üflenince titreşir.
+   FONASYON
+
+   Mukozal dalga ve dikey faz farkı
+
+
+
+
+Stroboskopi: mukozal dalga
+                                                      Açılırken glottis aşağıda geniş, kapanırken yukarıda geniştir.
+                                                      Açılmadaki itme kapanmadakinden büyük olur → her döngüde
+• Örtü, gövdenin üzerinde alttan üste ilerleyen bir
+                                                      dokuya net enerji aktarılır, titreşim sönmez.
+  dalga yapar
+• Kordun alt kenarı önce açılır, önce kapanır
+FONASYON
+
+Glottogram: glottisten geçen hava akımı
+                             Glottal akım zamanla atımlar hâlinde değişir:
+                             kapalı → açılıyor → açık → kapanıyor.
+
+                              • Akım, glottisin açıklık alanıyla yaklaşık orantılıdır
+                              • Eğri asimetriktir: açılma yavaş, kapanma hızlıdır
+                              • Kapanma ne kadar ani olursa ses o kadar gür ve
+                                harmonikçe zengin olur
+                             Klinikte elektroglottografi (EGG) ile kordların temas süresi ölçülebilir.
+FONASYON
+
+Glottal döngünün fazları
+                           AÇIK FAZ
+                           Açılış + kapanış. Hava geçer.
+
+
+
+                           KAPALI FAZ
+                           Kordlar temas hâlinde. Altta basınç birikir.
+
+
+
+                           BIR SIKLUS = 1 / F0
+                           100 Hz → 10 ms · 200 Hz → 5 ms
+
+
+
+                           Açık oranı = açık faz / siklus. Nefesli seste artar
+                           (kapanma yetersiz), basınçlı-zorlamalı seste azalır.
+FONASYON
+
+Glottal sesin spektrumu
+
+
+
+
+ Atımlar arası 8 ms → F0 = 125 Hz   Harmonikler F0’ın tam katlarında;   Bu ses henüz bir “vızıltı”dır. Ünlüyü
+                                    şiddet her oktavda ~12 dB azalır    belirleyen şekli vokal trakt verecek.
+4
+Fonasyonun aerodinamik kontrolü
+Subglottik basınç, translaringeal basınç, glottik direnç ve fonasyon eşik basıncı.
+AERODINAMIK KONTROL
+
+Larinks işlevini kontrol eden değişkenler
+ SÜRÜCÜ GÜÇ                              BASINÇ FARKI                              DOKU KUVVETLERI
+
+ Subglottik basınç                       Translaringeal basınç                     Laringeal karşı basınç
+ Glottisin altındaki basınç (Ps)         Glottisin altı ile üstü arasındaki fark   Kordların açılmasına karşı koyan
+                                                                                   kuvvetler
+
+
+
+ AKIM                                    DIRENÇ                                    BAŞLATICI
+
+ Translaringeal akım                     Glottik direnç                            Fonasyon eşik basıncı
+ Glottisten geçen hava debisi (mL/s)     Basınç farkı / debi                       Titreşimi başlatan en düşük Ps
+
+
+
+ Solunumdaki basınç-akım-direnç ilişkisinin aynısı: akım = basınç farkı / direnç
+AERODINAMIK KONTROL
+
+Subglottik basınç: fonasyonun sürücü gücü
+Fonasyonun aerodinamik gücü alt solunum yollarından             PS’YI BELIRLEYENLER
+gelir.                                                          • Akciğerlerin ve hava yollarının elastik geri
+                                                                  çekilmesi
+• Ekspirasyonda alveol basıncı atmosfer basıncından yüksektir
+                                                                • Göğüs duvarının elastik özellikleri
+  → hava glottise doğru akar
+                                                                • Diyafram, interkostal ve karın kaslarının kasılması
+• Kordlar kapalıyken bu basınç glottisin altında birikir        • Alt hava yollarının şekli ve çapı
+• Sesi başlatmanın ve sürdürmenin en kritik etmenidir
+
+ KONUŞMADA                          GÜR SESTE
+
+ ~5–10 cmH₂O                        20 cmH₂O ve
+                                    üzeri
+AERODINAMIK KONTROL
+
+Konuşma boyunca subglottik basınç sabit tutulur
+                          Denek derin nefes alıp 1’den 32’ye kadar sayıyor.
+
+                          • Akciğer hacmi ve pasif geri çekilme basıncı giderek azalır
+                          • Subglottik basınç ise neredeyse sabit kalır
+                          • Başta (yüksek hacim) pasif basınç fazladır → inspiratuar
+                            kaslar frenler
+                          • Sonra pasif basınç yetmez → ekspiratuar kaslar devreye
+                            girer
+
+                          Kaynak: Sundberg, 2007
+AERODINAMIK KONTROL
+
+Translaringeal basınç: havayı geçiren asıl kuvvet
+                                  TANIM
+
+                                  Psub − Psupra
+                                  Glottisin altı ile üstü arasındaki basınç farkı
+
+
+                                 • Hava akımını bu fark oluşturur
+                                 • Fark büyüdükçe akım ve ses şiddeti artar
+                                 • Ağızda basınç yükselirse (ünsüzler) fark küçülür
+AERODINAMIK KONTROL
+
+Konuşma sırasında basınç ve akım
+                            “phonetic aspects” söylenirken ölçülen hava
+                            akımı, subglottik basınç ve ağız içi (oral) basınç
+
+
+                            • Ünlülerde ağız açıktır: oral basınç ≈ 0, akım yüksek
+                            • Ünsüzlerde (p, t, k, s) ağız kapanır ya da daralır → oral
+                              basınç ↑
+                            • Translaringeal fark ↓ → akım ↓, titreşim durabilir
+                            • Subglottik basınç kelime boyunca görece sabittir
+AERODINAMIK KONTROL
+
+Laringeal karşı basınç
+                      Translaringeal basınca karşı koyan, kordları kapalı tutmaya
+                      çalışan doku kaynaklı kuvvetler.
+
+                         Kas basıncı                       Yüzey gerilimi                    Yerçekimi
+                         Adduktör kasların                 Nemli mukoza                      Kord kütlesinin
+                         sıkıştırma kuvveti                yüzeyleri birbirine               ağırlığı
+                                                           yapışır
+
+
+
+                         Kordları açmak için subglottik basınç bu kuvvetleri aşmalıdır → fonasyon
+                         eşik basıncı
+
+                      Supraglottik basınçla karıştırmayın: o, glottisin üstündeki (ağız-farinks) hava basıncıdır.
+    AERODINAMIK KONTROL
+
+    Translaringeal akım ve glottik direnç
+     GLOTTIK DIRENÇ
+
+     R = ΔP / akım
+     Translaringeal basınç / translaringeal akım
+
+
+•    ΔP: translaringeal basınç (subglottik −
+     supraglottik; ağız açıkken ≈ subglottik basınç)
+     U: glottisten geçen hava akımı
+•    Elektrikteki Ohm yasasının (R = V/I) hava yolu
+     karşılığı
+•    Glottis daraldıkça (adduksiyon ↑) direnç artar
+•    Direnç artınca aynı akımı sağlamak için daha
+     yüksek subglottik basınç gerekir
+•    Konuşmada tipik değerler: ~5–10 cmH₂O, ~0,1–
+     0,2 L/s → R ≈ 30–60 cmH₂O/(L/s)
+AERODINAMIK KONTROL
+
+Glottal açıklık her şeyi etkiler
+Glottal açıklık                      Direnç                   Akım                   Eşik basıncı              Ses
+Fazla açık                           ↓                        ↑                      ↑                         Nefesli, hışırtılı
+Hafif addükte                        Orta                     Orta                   En düşük                  Rahat, verimli
+Aşırı sıkıştırılmış                  ↑                        ↓                      ↑                         Basınçlı, zorlamalı
+
+
+
+ Fazla açık glottis: hava kolayca kaçar, kordları birbirine          Glottik direnç, glottis alanı ve subglottik basıncın birlikte
+ çekecek yeterli aerodinamik etki oluşmaz → titreşimi                etkisiyle ayarlanır. Akım ve basınç her zaman birlikte
+ başlatmak için daha yüksek basınç gerekir.                          düşünülmelidir.
+AERODINAMIK KONTROL
+
+Fonasyon eşik basıncı (FEB)
+Vokal kordların titreşmeye başlayabilmesi için      FEB’i belirleyen üç faktör
+gereken en düşük subglottik basınç.
+                                                      a) Glottal açıklık
+  NORMAL, RAHAT KONUŞMADA                             Glottis ne kadar açıksa FEB o kadar yüksek
+
+  ~3 cmH₂O
+                                                      b) Kord sertliği
+                                                      Sert doku titreşime daha yüksek basınçla başlar
+  FEB DÜŞÜK                 FEB YÜKSEK
+  Ses kolay başlar, az      Ses zor başlar, çabuk
+  solunum eforu             yorulma
+                                                      c) Kütle ve gerilim
+                                                      Lezyonla kütle artışı ve kordun gerilerek uzaması FEB’i
+                                                      yükseltir
+KLINIK BAĞLANTI
+
+Eşik basıncını yükselten durumlar
+ DEHIDRATASYON                                                    NODÜL, POLIP
+ Mukusun ve dokunun viskozitesi artar, kord sertleşir             Serbest kenarda kütle artar, kapanma bozulur, mukozal
+                                                                  dalga etkilenir
+
+
+
+ LARENJIT, REINKE ÖDEMI                                           PARKINSON HASTALIĞI
+ Ödemle kordun kütlesi artar                                      Kas rijiditesi, karşıt kaslar arasında koordinasyon kaybı →
+                                                                  kapanma zayıflar
+
+
+
+  Pratik sonuç: yeterli sıvı alımı ve sesin dinlendirilmesi, eşik basıncını düşürerek ses üretimini kolaylaştırır.
+5
+Perde ve şiddet
+Sesimizi nasıl inceltir, kalınlaştırır, gürleştiririz? Temel frekans ve şiddetin kontrolü.
+PERDE
+
+Temel frekans (F0): titreşen tel gibi
+F0 = ses tellerinin saniyedeki titreşim sayısı (Hz). Perde olarak algılanır.
+
+  KÜTLE                                             GERILIM                        UZUNLUK
+
+  Kütle ↑ → F0 ↓                                    Gerilim ↑ → F0 ↑               Uzunluk ↑ → F0 ↓
+  Kalın gitar teli pes ses verir                    Teli germek sesi inceltir      Gitarda perdeye basıp teli kısaltınca
+                                                                                   ses incelir
+
+
+
+   Paradoks: Tiz seste ses telleri uzar. Ama krikotiroid kas kordu gererken gerilim, uzunluktan çok daha fazla artar →
+   net etki F0 ↑
+
+Erkeklerde kordlar daha uzun ve kalın olduğu için F0 daha düşüktür.
+PERDE
+
+F0’ın kontrolü
+ ANATOMIK                                                     LARINGEAL (ANA MEKANIZMA)
+
+ Kord kütlesi ve uzunluğu                                     Krikotiroid kas ↑ → F0 ↑
+ Erkek: kütle ve uzunluk ↑ → F0 ↓ · Kadın: kütle ve uzunluk   Tiroaritenoid kas: duruma göre F0 ↑ veya ↓
+ ↓ → F0 ↑
+
+
+
+ AERODINAMIK                                                  EKSTRALARINGEAL
+
+ Subglottik basınç ↑ → F0 ↑                                   Larinksin konumu
+ Yaklaşık 2–5 Hz / cmH₂O. Gür konuşunca ses biraz da          Larinks yükselince F0 ↑, alçalınca F0 ↓
+ incelir.
+PERDE
+
+F0 yaşa ve cinsiyete göre değişir
+                                Grup                              Ortalama F0
+                                Bebek                             350–500 Hz
+                                Çocuk (3–10 yaş)                  250–300 Hz
+                                Genç yetişkin kadın               ~220 Hz
+                                Genç yetişkin erkek               ~120 Hz
+
+                                • Puberte: erkekte larinks büyür, F0 yaklaşık bir oktav düşer
+                                • Yaşlı kadın: F0 ↓ (hormonal değişim, kord ödemi)
+                                • Yaşlı erkek: F0 ↑ (kas atrofisi, kordun incelmesi)
+ŞIDDET
+
+Ses şiddetinin kontrolü
+   SUBGLOTTIK DÜZEY                                     GLOTTIK DÜZEY                              SUPRAGLOTTIK DÜZEY
+
+   Basınç ↑ → şiddet ↑                                  Daha hızlı ve sıkı kapanma                 Ağzın açılması
+   Giriş gücü = hava akımı × subglottik                                                            Ağız ne kadar açıksa ses dışarıya o
+   basınç. Ps iki katına çıkınca ses ~8–9               Titreşim genliği ↑, kapalı faz uzar,       kadar iyi yayılır
+   dB artar.                                            akım daha ani kesilir
+
+
+
+
+   Gür seste kordların ani kapanması yüksek frekanslı harmonikleri güçlendirir: ses hem gürleşir hem “parlaklaşır”.
+
+En verimli ses: glottisi tam kapatan ama dokuyu aşırı sıkıştırmayan bir gerginlikle elde edilir.
+6
+Rezonans: kaynak ve filtre
+Larinksten çıkan vızıltı a, e, i, o, u’ya nasıl dönüşür?
+REZONANS
+
+Kaynak-filtre teorisi
+                                                                                      ÇIKIŞ · KONUŞMA SESI
+ KAYNAK · LARINKS                          FILTRE · VOKAL TRAKT
+
+
+
+
+                                   ×                                          =
+                                                                                      Tepelere yakın harmonikler
+ Harmonikler düzgünce azalır               Rezonans tepeleri: F1, F2, F3
+                                                                                      güçlenir
+
+
+
+
+ Kaynak (ses telleri) perdeyi belirler; filtre (vokal trakt) hangi ünlünün duyulacağını belirler. İkisi birbirinden bağımsız
+ ayarlanabilir.
+REZONANS
+
+Harmonik ve formant farklı şeylerdir
+ HARMONIK · KAYNAKTAN                                            FORMANT · FILTREDEN
+
+ F0 ve tam katları                                               F1, F2, F3…
+ Ses tellerinin titreşiminden gelir. Perdeyi belirler.           Vokal traktın rezonans tepeleridir. Ünlüyü ve tınıyı belirler.
+
+
+
+ Aynı “a”yı farklı perdelerde söyleriz → harmonikler değişir,    Aynı perdede “a” ve “i” söyleriz → harmonikler aynı kalır,
+ formantlar aynı kalır.                                          formantlar değişir.
+
+
+
+ Helyum deneyi: helyumda ses hızı ~3 kat artar → formantlar yükselir, ses “çizgi film karakteri” gibi olur. F0 neredeyse
+ değişmez.
+REZONANS
+
+Nazal rezonans: yumuşak damak bir kapaktır
+ VELUM KALKIK                                            VELUM INIK
+
+ Burun kapalı → oral ses                                 Burun boşluğu eklenir → nazal ses
+ Ses yalnızca ağızdan çıkar. Ünlülerin ve çoğu ünsüzün   m, n: ağız kapalı, ses burundan çıkar. Nazal formant ve
+ normal durumu.                                          “anti-formantlar” oluşur.
+
+
+
+ Hipernazalite: yarık damak, velofaringeal yetmezlik →   Hiponazalite: adenoid hipertrofisi, nezle → “m, n” sesleri
+ ünlüler genizden, patlamalılarda hava burundan kaçar    “b, d” gibi duyulur
+7
+Artikülasyon
+Ünsüzler nerede ve nasıl oluşur? Ötümlülük, çıkış yeri, çıkış biçimi ve spektrogram.
+ARTIKÜLASYON
+
+Konuşmanın temel unsurları
+ DILBILIM                                FIZYOLOJI                                   FIZIK
+
+ Fonem                                   Fonetik özellik                             Akustik sinyal
+ Anlam ayırt eden en küçük ses birimi.   Sesin nasıl üretildiği: çıkış yeri, çıkış   Kulağa ulaşan ölçülebilir dalga:
+ “bal” – “pal”: tek ses farkı anlamı     biçimi, ötümlülük, dil konumu, dudak        frekans, genlik, formantlar, dalga
+ değiştirir. Harflerle birebir aynı      şekli.                                      biçimi.
+ değildir.
+
+
+
+
+ Türkçe alfabede 8 ünlü ve 21 ünsüz harf vardır. Ünlülerde ses yolu açıktır; ünsüzlerde bir yerde daralır ya da
+ kapanır.
+ARTIKÜLASYON
+
+Ünsüzlerin çıkış yeri (önden arkaya)
+ Çıkış yeri                                    Nasıl                                   Türkçe ünsüzler
+ Bilabial                                      İki dudak birbirine kapanır             p, b, m
+ Labiodental                                   Alt dudak üst dişlere yaklaşır          f, v
+ Dental / alveolar                             Dil ucu dişlere veya diş etine değer    t, d, s, z, n, l, r
+ Postalveolar                                  Dil ucu-önü diş eti arkasına yaklaşır   ş, j, ç, c
+ Palatal                                       Dil sırtı sert damağa yaklaşır          y
+ Velar                                         Dil arkası yumuşak damağa yaklaşır      k, g, (ğ)
+ Glottal                                       Daralma glottiste                       h
+
+k, g ve l ince ünlülerin yanında (kedi, gece) daha önde, palatale yakın üretilir.
+ARTIKÜLASYON
+
+Çıkış biçimi ve ötümlülük
+Çıkış biçimi                   Nasıl                                          Ötümsüz               Ötümlü
+Patlamalı                      Tam kapanma, ani açılma                        p, t, k               b, d, g
+Sürtünmeli                     Daralma → türbülans                            f, s, ş, h            v, z, j
+Yarı patlamalı                 Kapanma + sürtünmeli açılma                    ç                     c
+Nazal                          Ağız kapalı, velum inik                        –                     m, n
+Akıcı                          Hafif daralma                                  –                     l, r, y
+
+
+ Ötümlülük = ses tellerinin titreşip titreşmemesi. Ötümsüz (sert) ünsüzler: “Fıstıkçı Şahap” → f, s, t, k, ç, ş, h, p.
+ Çiftler: p–b, t–d, k–g, f–v, s–z, ş–j, ç–c
+ARTIKÜLASYON
+
+Konuşmada üç ses kaynağı
+ 1 · PERIYODIK                                  2 · GÜRÜLTÜ                               3 · ANI
+
+ Glottal titreşim                               Türbülans                                 Patlama
+ Ses telleri titreşir. Harmonik                 Daralmadan hızla geçen hava girdap        Kapanma aniden açılır, kısa bir
+ spektrum.                                      yapar. Sürekli spektrum.                  basınç atımı çıkar.
+ Ünlüler, m, n, l, r, y                         s, ş, f, h                                p, t, k
+
+
+
+ KARIŞIK KAYNAKLAR                                                  Her kaynağın sesi, yine vokal trakt filtresinden geçerek
+ z, v, j = periyodik + gürültü · b, d, g = periyodik + patlama      şekillenir.
+8
+Klinik bağlantı ve özet
+Ses nasıl ölçülür, konuşma bozuklukları biyofizik açıdan nerede oluşur?
+KLINIK BAĞLANTI
+
+Sesi nasıl ölçeriz?
+ AKUSTIK ANALIZ                                               GÖRÜNTÜLEME VE AERODINAMIK
+  • F0: ortalama perde ve perde aralığı                        • Laringoskopi: kordların yapısı
+  • Jitter: döngüden döngüye frekans düzensizliği              • Stroboskopi: titreşim ve mukozal dalga
+  • Shimmer: döngüden döngüye genlik düzensizliği              • Aerodinamik: Ps, hava akımı, eşik basıncı
+  • HNR: harmonik / gürültü oranı                              • Maksimum fonasyon süresi: tek nefeste “aaa”; <10 s
+                                                                 anormal
+
+
+
+
+  Jitter ve shimmer ↑, HNR ↓ → düzensiz titreşim: nodül, polip, kord felci, kanser
+KLINIK BAĞLANTI
+
+Konuşma bozuklukları biyofizik gözüyle
+ KAYNAK · LARINKS                                                FILTRE · VOKAL TRAKT
+ Nodül, polip, Reinke ödemi, kord felci, larinks kanseri →       Yarık damak, velofaringeal yetmezlik → hipernazalite ·
+ kapanma bozulur, FEB ↑, ses kısık ve kaba (disfoni)             adenoid hipertrofisi → hiponazalite
+
+
+
+ ARTIKÜLATÖRLER                                                  AKICILIK VE DIL
+ Dizartri (inme, Parkinson, MS, ALS: kas kontrolü bozuk) ·       Kekemelik, takifemi (akıcılık) · afazi (dil merkezleri, inme)
+ dislali (s, r bozuklukları) · ankiloglossi
+
+
+
+  UÇEP – inme: lezyonun yerine göre afazi (dil) ya da dizartri (motor konuşma) gelişebilir; ikisi birlikte de görülebilir.
+ÖZET
+
+Akılda kalması gerekenler
+ 1 · SES                                                          2 · KONUŞMA
+ Mekanik basınç dalgası. Frekans → perde, şiddet → gürlük,        Fonasyon + rezonasyon + artikülasyon. Güç kaynağı →
+ spektrum → tını.                                                 titreşici → filtre.
+
+
+
+ 3 · TITREŞIM                                                     4 · BASINÇLAR
+ Ps açar; Bernoulli, elastisite ve anlık basınç düşüşü kapatır.   Konuşmada Ps ~5–10, FEB ~3 cmH₂O. Glottal açıklık, sertlik
+ Titreşim pasiftir; mukozal dalga sürdürür.                       ve kütle FEB’i belirler.
+
+
+
+ 5 · PERDE VE ŞIDDET                                              6 · REZONANS
+ Kütle ↑ → F0 ↓; gerilim ↑ → F0 ↑ (krikotiroid). Ps ↑ →           Vokal trakt filtredir. Formantlar ünlüyü belirler: F1 ağız
+ şiddet ↑.                                                        açıklığı, F2 dilin ön-arka konumu.
+
