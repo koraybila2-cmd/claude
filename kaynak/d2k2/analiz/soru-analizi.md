@@ -116,3 +116,29 @@ Soru kaynakları Kitap 1 ile aynıdır. Kitap 1'in "kapsam dışı" listesindeki
 
 ## Kullanılmayanlar
 - 23-24 S4 nabız (şıklar bozuk); 24-25 timus eğitim sırası (şık yok); Derl S24 Treg FoxP3 (immünoloji, sunum kapsamı dışı).
+
+---
+
+# Kitap 3 — Histoloji ve Embriyoloji (sınav odaklı, 56 sayfa)
+
+Kaynak sunumlar (Drive): 1 Kalp ve dolaşım histolojisi (21 MB), 2 Kalp ve damar gelişimi, 3 Lenforetiküler (13 MB), Solunum sistemi histolojisi (16,7 MB), Solunum sistemi embriyolojisi, 6 Faringeal arkuslar ve yüzün gelişimi. 10 MB'ı aşan üç dosya indirilemedi; metinleri read_file_content ile okundu ve son slaytları kesik geldi (kalp duvarı ve ileti sistemi, dalak histolojisi, kan-hava bariyeri). Bu kısımlar standart kaynaklarla tamamlandı, histoloji bölümlerinde mikrograf yok. İndirilen üç embriyoloji sunumunun metni: `sunum-metinleri/k3_e_kalp.txt`, `k3_e_faringeal.txt`, `k3_e_solunum.txt`. Uygulama listesi: `k3_huyg.txt` ([2.Kurul] Histoloji Uygulama Soruları (2024-2030), 2 grup × 5 preparat).
+
+| Bölüm | Derl. | 23-24 | 24-25 | 25-26 uyg. | Toplam |
+|---|---|---|---|---|---|
+| 1 Kalp-damar histolojisi | 1 | 1 | 0 | 2 | 4 |
+| 2 Kalp-damar gelişimi | 2 | 2 | 0 | 0 | 4 |
+| 3 Lenfoid sistem | 2 | 2 | 2 | 3 | 9 |
+| 4 Solunum histolojisi | 3 | 2 | 2 | 5 | 12 |
+| 5 Solunum embriyolojisi | 2 | 0 | 1 | 0 | 3 |
+| 6 Faringeal arkuslar ve yüz | 2 | 2 | 0 | 0 | 4 |
+
+## Eşleme
+- B1: Derl S27 (Weibel-Palade); 23-24 histoloji S8 (kapiller tipleri, kök "prekapiller sfinkter" yazılmış, anahtar yok → E pinositik vezikül); uyg müsküler arter t. media, kalp miyokard.
+- B2: Derl S28 ve 23-24 S9 Fallot → VSD; Derl S29 → 360° septum ovale yanlış; 23-24 S5 → a. carotis communis 5. arkus yanlış.
+- B3: Derl S24 FoxP3; Derl S33 tip III-IV; 23-24 S3 tip II sınırda değil; 23-24 S7 dalak stave; 24-25 T lenfosit (CD16a/CD56 Treg değil); 24-25 timus eğitim sırası (şıklar tamamlandı: 1-2-3-4-6-5); uyg dalak a. centralis, tonsilla palatina lenf nodülü, timus. Sunumdaki 3 alıştırma sorusu ayrıca çözüldü.
+- B4: Derl S30 ve 23-24 S1 tip II progenitör (aynı soru); 24-25 lamellar cisim tip II; 23-24 S6 olfaktör epitel YÇKSSE; Derl S57 asinüs (terminal bronşiyol değil); Derl S63 lobüler bronşiyol; 24-25 ductus alveolaris (iki kök, bir sayıldı); uyg terminal bronşiyol, trakea, intrapulmoner bronş, epiglot laringeal ve faringeal yüz.
+- B5: Derl S31 kanaliküler; Derl S32 somatostatin; 24-25 psödoglandüler dönemde respiratuar bronşiyol yanlış (iki kök, bir sayıldı).
+- B6: Derl S25 timus 3. cep; Derl S26 stapes Reichert; 23-24 S2 östaki 1. cep; 23-24 S4 ultimobranşiyal 4. cep.
+
+## Kullanılmayanlar
+- 23-24 histoloji S10 "V. brachiocephalica nereden oluşur" (şıklar bozuk); 24-25 "solunum sisteminin iletici bölümünde en az bulunan" (anahtar yok, kök belirsiz); 23-24 anatomi S5 "bronchus lobaris'ten sonra" (şıklar bozuk, doğru cevap şıklarda yok).
